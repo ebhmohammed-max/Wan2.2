@@ -1,3 +1,17 @@
+# Cappadocia Underground City — Wan2.2 shot package
+
+Vertical 9:16 cinematic documentary sequence for **Wan2.2**, split into two shots:
+
+| Shot | Beat | Primary route | Package |
+|---|---|---|---|
+| **01 "The City Below"** | empty tunnel dollies forward into an enormous lamp-lit chamber, steps descending into dark | TI2V-5B → T2V-A14B | this folder |
+| **02 "The Lantern"** | an ancient explorer walks toward a backwards-tracking camera, lantern swinging, hand on the wall | I2V-A14B from the identity keyframe | [`shot02_explorer/`](shot02_explorer/README.md) |
+
+Shared code: `previz/previz_lib.py` (plates, camera moves, dust, lantern glow, grade, encode) and
+`scripts/04_postprocess_9x16.sh` (the one 9:16 delivery chain both shots use).
+
+---
+
 # Shot 01 — "The City Below"
 
 Vertical 9:16 cinematic documentary shot for **Wan2.2**: one continuous dolly forward through a
