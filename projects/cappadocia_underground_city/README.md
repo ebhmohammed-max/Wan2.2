@@ -10,6 +10,24 @@ Vertical 9:16 cinematic documentary sequence for **Wan2.2**, split into two shot
 Shared code: `previz/previz_lib.py` (plates, camera moves, dust, lantern glow, grade, encode) and
 `scripts/04_postprocess_9x16.sh` (the one 9:16 delivery chain both shots use).
 
+## Directed to the 2WULFFS method
+
+This project is now run as art direction, not prompt-writing. Read in this order:
+
+| File | What it holds |
+|---|---|
+| [`../../studio/2wulffs-playbook.md`](../../studio/2wulffs-playbook.md) | our operating standard, distilled from the 2WULFFS guide: idea before AI, ALWAYS/NEVER world rules, the decision grid, the eight-part prompt spine, the iteration protocol, curation test, edit rules |
+| [`CREATIVE_BIBLE.md`](CREATIVE_BIBLE.md) | this film's insight → idea → visual rule → execution, its world rules, cast/world plates, sound design, and an audit of what v1 got wrong |
+| [`BASE_LOOK.txt`](BASE_LOOK.txt) | the locked look paragraph appended to **every** prompt in the project |
+| [`COVERAGE_SHOTS.md`](COVERAGE_SHOTS.md) | eight coverage buckets (world → human → trigger → reaction → escalation → realization → payoff → hero) with shot cards and eight-part prompts for shots 03–08 |
+| [`prompt_v2.md`](prompt_v2.md) · [`shot02_explorer/prompt_v2.md`](shot02_explorer/prompt_v2.md) | the rewritten "director's cut" prompts, with a v1→v2 diff table per spine part |
+
+**The film's idea:** *a single lamp reveals a city that was built never to be seen.* Visual rule: the lamp
+is the cinematographer — nothing exists outside its reach, and the camera only ever travels deeper.
+
+`prompt_v2.txt` in each shot folder is the copy-paste block (body + base look). The v1 prompt files are
+kept for comparison; `scripts/01_run_ti2v_5b.sh` takes any of them via `PROMPT_FILE=`.
+
 ---
 
 # Shot 01 — "The City Below"

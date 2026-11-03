@@ -13,7 +13,9 @@ shot02_explorer/
 ├── prompt.md                      prompt + motion prompt + hand/face negatives + craft notes
 ├── prompt_master.txt              the prompt as fed to generate.py (T2V / TI2V)
 ├── prompt_motion.txt              motion-only prompt (I2V — the main route)
+├── prompt_v2.txt / prompt_v2.md   director's cut: eight-part spine + @CAST binding + base look
 ├── keyframes/
+│   ├── kf00_character_sheet.png   CAST EVIDENCE — front / back / face / neutral pose, wardrobe locked
 │   ├── kf01_walk.png              IDENTITY REFERENCE — start frame, mid-stride, hand on wall
 │   ├── kf02_step.png              one step further, weight shifted onto the front leg
 │   ├── kf03_stride.png            two steps further, head turned to the wall, lantern swung back
@@ -29,6 +31,16 @@ shot02_explorer/
 │   └── 05_sweep_seeds.sh          narrow seed sweep (hands + face are what break)
 └── out/                           takes land here
 ```
+
+## The idea behind the shot
+
+From [`../CREATIVE_BIBLE.md`](../CREATIVE_BIBLE.md): *a single lamp reveals a city that was built never to
+be seen.* So the lamp is the only key light, the light radius is the edge of the world, and the man is not
+a tour guide — he is the first person to see this level in a very long time. Read his face, not the
+architecture, for the beat.
+
+Route: `prompt_v2.txt` + `@CAST` (`kf01_walk.png`) through `scripts/01_run_i2v_a14b.sh`. Judge takes with
+`kf00_character_sheet.png` next to them — identity drift is measurable, not a matter of taste.
 
 ## The previz
 

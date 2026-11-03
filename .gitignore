@@ -6,3 +6,7 @@ new_checkpoint*
 batch_test*
 nohup*
 .venv/
+
+# local reference material (third-party PDFs) — never committed
+google_drive/
+refs/
