@@ -21,6 +21,7 @@ This project is now run as art direction, not prompt-writing. Read in this order
 | [`BASE_LOOK.txt`](BASE_LOOK.txt) | the locked look paragraph appended to **every** prompt in the project |
 | [`COVERAGE_SHOTS.md`](COVERAGE_SHOTS.md) | eight coverage buckets (world → human → trigger → reaction → escalation → realization → payoff → hero) with shot cards and eight-part prompts for shots 03–08 |
 | [`prompt_v2.md`](prompt_v2.md) · [`shot02_explorer/prompt_v2.md`](shot02_explorer/prompt_v2.md) | the rewritten "director's cut" prompts, with a v1→v2 diff table per spine part |
+| [`../../studio/WHERE_THINGS_LIVE.md`](../../studio/WHERE_THINGS_LIVE.md) | the standing rule: every artifact is saved to the Drive folder **Wan 2.2** — folder structure, ids and the repo ↔ Drive mapping |
 
 **The film's idea:** *a single lamp reveals a city that was built never to be seen.* Visual rule: the lamp
 is the cinematographer — nothing exists outside its reach, and the camera only ever travels deeper.
