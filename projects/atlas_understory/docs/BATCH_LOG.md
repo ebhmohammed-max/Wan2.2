@@ -359,3 +359,21 @@ the higher-quality master is local at `clips/v2_all_49_final.mp4`). The previous
 - Clone test applied to all 19 new plates vs their anchors: none below the 22 threshold; C04-S002 also re-shot after a glyph-like
   carved relief appeared on the stone.
 - Open (sourcing, not generation): the two extra Met photographs for C02-S007 and C02-S009, which currently both reuse C02-S005-A.
+
+### Final verification + delivery index (2026-11-04)
+
+Probed the finished build against the manifests rather than trusting the folder listing:
+
+- **49 of 49 clips present**, every duration within 0.06 s of the shot map, every file 1920×1080, **no audio stream anywhere**.
+- **49 unique stills** (MD5 over every master): zero duplicates. The pre-audit bed had 19 duplicated positions; none remain.
+- Total plate-bed running time **327.71 s**, matching the delivered bed.
+- Drive folders listed item by item and reconciled: Batch 0 13 files (6+6+reel), Batch 1 7 (3+3+reel), Batch 2 24 (11+11+2 reels,
+  one now `zz_superseded`), Batch 3 22 (10+10+2, one superseded), Batch 4 19 (9+9+reel), Batch 5 22 (10+10+reel+one superseded),
+  INSERT 3.
+
+**Delivery index** written as Drive Doc `03 — Delivery index (every shot, every file, verified)` `1mr74A9K-Mc-9Nr2bZQQbKWhkp5nSvt0F8bunGp6o-PQ`
+in the Video 01 root: folder map, verification results, and a 49-row table of shot → folder → recipe → duration → still id → clip id,
+plus the four notes the editor needs (labels, the 1978.93.30 accession flag, why C02-S007/S009 reuse one photo by design, resolution limits).
+
+Left open by design: C02-S007 and C02-S009 keep the single sourced photograph because the shot map reuses it deliberately at wide
+and overhead framings and their qualifier copy describes that object. Adding different objects would change what the copy refers to.
