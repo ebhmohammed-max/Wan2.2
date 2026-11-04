@@ -24,6 +24,15 @@ Two routes that work:
    into INSERT C02-S005-A at the shot map's duration.
 2. **Give me a Drive copy** of the same JPEG if you already have one in the research pack.
 
+## Resolution (founder decision, 2026-11-04)
+
+Rather than ship the INSERT empty, the founder directed the use of a **neighbouring Met bulla**. Delivered:
+
+- object **326458 / accession 1978.93.30** — also a Parthian un-baked clay bulla, same excavation (Shahr-i Qumis),
+  same 1978 Colt Gift, public domain. Photo `DP-40310-001.jpg`, obtained at 1200 x 899.
+- Files: `stills/v2_insert/C02-S005-A_original_1200x899.jpg` (untouched) and `C02-S005-A_3840x2160_frame.png`.
+- **The accession in MG-011's overlay must change to 1978.93.30** — see `docs/C02-S005-A_insert_caption.md`.
+
 ## What I will not do
 
 Substitute a neighbouring object. The Met's own search surfaces Parthian/Sasanian sealings from other accessions
