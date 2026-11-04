@@ -190,3 +190,23 @@ Combined v2 reel — 26 clips, 2 m 53 s: `1SjME62N6ijIQphpTCQNN8W5qFkW1tezR` in 
 ### Coverage: 26 of 30 v2 plates, each with a 1080p24 clip
 Remaining: C03-S014-A (A03 v4), C03-S016-A (A04 v4), C03-S018-A (A05 v4), C03-S020-A (A06 v4).
 Then 19 REUSE clips for chapters 4–5, and the Met bulla acquisition.
+
+## v2 Batch 3 part B — the last 4 plates · **30 of 30 GENERATED PLATES COMPLETE**
+
+Batch 3 folder renamed to "v2 · Batch 3 — Chapter 3 edits (10 stills + 10 clips — complete)" `1lcDfuDonyaJgrzYUmb2RgCOdABFJWmWy`
+Batch 3 full reel (10 clips, 67.97 s) `1FvGMNzkLEdmivWz1QRxKUgP3JVL8iJ8J`  ·  part-A reel marked `zz_superseded_…`
+
+| Image | World · variation | Still | Clip |
+|---|---|---|---|
+| C03-S014-A | A03 sealing · v4 low-angle diagonal | `1N3v4oJ5Y4k2Mb9I1F5UbOO_um8nD--J-` | `1YWW3vGQjL8X3dos5eXRAEBeyE-W47HfW` |
+| C03-S016-A | A04 clay · v4 low-angle diagonal | `1dRBYNuJRrD7Tp9nLmL6DKeskursoTYoQ` | `1fHBs4yJ2F4VE34kwU25gbC3QbLX6r4jF` |
+| C03-S018-A | A05 study · v4 low-angle diagonal | `1d2kSN03HiCejYGb1E1JwU2bpzVhvFHyE` | `1-g-_VMKTCcZzaRtzQy2SWLYQa_gAePWX` |
+| C03-S020-A | A06 Alexandria · v4 low-angle diagonal | `1yQ8gcZdCZFfJhWzcWZgOEjGsF3587x73` | `1G7lb8t9CU0ZHni7gLAjqhSFXh4A0maJ8` |
+
+**Combined v2 reel — all 30 plates, 200.58 s (3:20.6):** `1LE_OV9ntvnePBisaWINwiE2Ka16vQxR` in the v2 root
+(`00_v2 ALL 30 PLATES — clips in shot order — 3m21s.mp4`). Earlier 16- and 26-clip rollups renamed `zz_superseded_…`, not deleted.
+
+### Generated-plate scope: CLOSED at 30 / 30
+6 ANCHOR (batch 0) + 24 EDIT (batches 1–3), every one a 3840×2160 master with a 1080p24 clip, all in the v2 tree.
+Remaining work is **not** new imagery: 19 REUSE clips for chapters 4–5 (re-cuts of existing masters), then the
+sourced Met bulla INSERT `C02-S005-A`, then the final full-length assembly. Reserve still unspent: 3 files.
