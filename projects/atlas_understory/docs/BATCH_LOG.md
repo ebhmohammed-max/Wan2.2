@@ -130,3 +130,33 @@ Motion recipes and durations identical to v1, so the approved video treatment is
 ### Next
 24 EDIT plates (v1 closer crop, v2 30° oblique, v3 overhead, v4 low diagonal) → 24 stills + 24 clips,
 generated from the approved v2 anchor files, in runs of up to 10 per pass.
+
+## v2 Batch 1 — Chapter 1 edits (3) — DELIVERED
+
+Folder `1TCzB7TR3fKWlIgjYXloAEhZRtIILMkvd` · reel (19.8 s) `113poMZnEDGLnFrBvv4qqzqHUSo6HZlun`
+
+| Image | Family · variation | Still | Clip | Shot · recipe · dur |
+|---|---|---|---|---|
+| C01-S014-A | A01 · v1 close + foreground | `1ES0iMv9Fe0uAlRaJb5ZUr2SIABWGNAJx` | `1SH1JsphP4UKnxBK6kkgl9wGraOngHmh-` | C01-S014 · M03 · 6.46 s |
+| C01-S016-A | A02 · v1 close + foreground | `12q6NCMK_LIsCvvOHRE2F0mD0IxdczNS_` | `1FWlHJhAiUsHAr0GxjHt96IBzr95VHeNC` | C01-S016 · M02 · 6.67 s |
+| C01-S018-A | A03 · v1 close + foreground | `1dEs-FKxjEb2DxhyFszZ7cqgwjiJpA2vP` | `1QizbjUUszUM-q_kaS2iNkqfM5B_N_imj` | C01-S018 · M08 · 6.67 s |
+
+## v2 Batch 2 — Chapter 2 edits, part A (7 of 11) — DELIVERED
+
+Folder `1EEVfP9PKfhp8gN6t9DfPOR78uQFLoPLT` · reel (45.75 s) `1JIdxtR4-35R_YXnULT9LS3US7miQGD7N`
+
+| Image | Family · variation | Still | Clip | Shot · recipe · dur |
+|---|---|---|---|---|
+| C02-S002-A | A04 clay · v1 | `1KqbO7dJzcYmTDXrnkLP_Eo2j7yaXBrHV` | `1rX787B4-9j4b3y0o9OP3SyAx_-rXgSeK` | C02-S002 · M03 · 6.67 s |
+| C02-S004-A | A05 study · v1 | `1SJ13L36Hycwj53bP-Zt6OrAMoM83XHdX` | `1u7pjEbRJibI7kuo8vnJIEfUM7hvCNZV9` | C02-S004 · M02 · 6.88 s |
+| C02-S006-A | A06 Alexandria · v1 | `19GJik5siJCITJcLNOoe_4L2m_qbS_lgC` | `1Dv5w1_XDPEvj8_gKyMsbB5jrvNQwhb6z` | C02-S006 · M08 · 6.21 s |
+| C02-S008-A | A01 water · v2 30° | `1vOE1ePQwdgE7k15_oGkXSGMlAK7W2S3A` | `1onPZb0p_9LrPE5j-2xox8w8WY3-PMoi_` | C02-S008 · M03 · 6.21 s |
+| C02-S010-A | A02 seabed · v2 30° | `1N_UiVAM5MGveyvK3tnneXj-x7htbjmMr` | `1-Kr28hGu_Gbj2ETJA3PBFamkHSBEzD6v` | C02-S010 · M02 · 7.12 s |
+| C02-S012-A | A03 sealing · v2 30° | `1LLWrsGygO_T684yt0Ei4OOpSEJNOkMmv` | `13HCIOVGwk13MUAY2JWsYRD46W-aIRCye` | C02-S012 · M08 · 6.21 s |
+| C02-S014-A | A04 clay · v2 30° | `1nzenmG_b9XxyCVV3FkStE2mICm8h4KSZ` | `1slf8e4Pxo4GXq10v-u1WbPP4qc5Rmqtd` | C02-S014 · M03 · 6.46 s |
+
+Combined v2 reel, 16 clips, 1 m 45 s: `00_v2 ALL PLATES SO FAR` in the v2 root folder.
+
+### Coverage: 16 of 30 v2 plates · 26 of 30 total assets counting v1 archive
+Remaining v2 work: C02-S016-A, C02-S018-A, C02-S020-A, C02-S022-A (batch 2 part B, 4) and the ten
+chapter-3 variants (batch 3). Then the 19 REUSE clips for chapters 4–5, and the Met bulla acquisition.
