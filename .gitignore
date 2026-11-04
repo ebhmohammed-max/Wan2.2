@@ -10,3 +10,7 @@ nohup*
 # local reference material (third-party PDFs) — never committed
 google_drive/
 refs/
+
+# Atlas Understory — generated media stays out of git (lives in Drive "Video 01")
+projects/atlas_understory/stills/
+projects/atlas_understory/clips/
