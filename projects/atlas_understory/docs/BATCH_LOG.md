@@ -272,3 +272,31 @@ clips (its motion is the editor's M14 reveal), so no clip is delivered for it.
 Video 01 root, generated from `docs/BATCH_LOG_v2.html` and the manifests (so the shot/recipe/duration tables can be
 regenerated rather than hand-typed). The old Doc `1demWGmFs7uJsN8BdlmdIXRw8JqYkF9zEq3aoJdBuxYs` is renamed
 `zz_superseded — 01 Batch Log (v1 + partial v2)` and kept for history.
+
+---
+
+## Extra imagery pass (after the shot-map audit) — Chapter 4 first
+
+Founder instruction: timeline and script stay exactly as the v4 handoff; produce as many images as needed. Audit delivered as
+Drive Doc `02 — Shot-map audit` `1OXAYFeKUI-UVVEZ7Z46ZjA7xr_NiXW-a_sFCYQdRr-8`. It finds the one real gap: **19 of the 49 plate
+positions are REUSE**, so from Chapter 4 onward the film re-crops images it has already shown twice.
+
+Work started on Tier 1 — give Chapter 4's nine reuse slots their own plates (same shots, same durations, same recipes):
+
+| Shot | New image | Recipe | Dur | Status |
+|---|---|---|---|---|
+| C04-S002-A | diver on blank eroded ashlar, torch-lit | M03 | 6.88 | good (1st attempt had carved glyph-like relief — rejected and re-generated blank) |
+| C04-S004-A | diver from behind over silt, oblique | M02 | 6.67 | good |
+| C04-S006-A | hands lifting signet off pressed wax, close | M08 | 7.12 | **clone of anchor — regenerate** |
+| C04-S008-A | oblique clay bench, unimpressed sealings | M03 | 6.88 | good |
+| C04-S010-A | coin on edge macro, unreadable face | M02 | 7.38 | good |
+| C04-S012-A | harbour bow at dawn, oblique | M08 | 7.38 | **clone of anchor — regenerate** |
+| C04-S014-A | hands tying a document with cord + sealing wax | M03 | 6.88 | good |
+| C04-S016-A | potter's wheel, jars drying on shelf, dust light | M02 | 7.38 | good |
+| C04-S018-A | sealing in a case, glass reflection | M08 | 7.12 | good |
+
+Clone check used a numeric test (mean absolute difference against the anchor at 192×108, greyscale) rather than eyeballing:
+<22 = clone-like. Only S006 (6.86) and S012 (2.01) failed; the other seven scored 31–55.
+
+Not yet uploaded to Drive — the nine stills + nine clips ship as one complete Chapter 4 set, after the two clones are redone.
+Chapter 5's ten reuse slots are the next block.
