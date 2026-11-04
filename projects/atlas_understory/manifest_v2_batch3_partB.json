@@ -1,0 +1,6 @@
+[
+ {"shot": "C03-S014", "image": "C03-S014-A", "motion": "M08", "duration": 6.875, "class": "EDIT"},
+ {"shot": "C03-S016", "image": "C03-S016-A", "motion": "M03", "duration": 7.125, "class": "EDIT"},
+ {"shot": "C03-S018", "image": "C03-S018-A", "motion": "M02", "duration": 6.875, "class": "EDIT"},
+ {"shot": "C03-S020", "image": "C03-S020-A", "motion": "M08", "duration": 6.875, "class": "EDIT"}
+]
