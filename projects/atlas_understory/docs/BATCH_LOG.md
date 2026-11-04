@@ -210,3 +210,42 @@ Batch 3 full reel (10 clips, 67.97 s) `1FvGMNzkLEdmivWz1QRxKUgP3JVL8iJ8J`  ·  p
 6 ANCHOR (batch 0) + 24 EDIT (batches 1–3), every one a 3840×2160 master with a 1080p24 clip, all in the v2 tree.
 Remaining work is **not** new imagery: 19 REUSE clips for chapters 4–5 (re-cuts of existing masters), then the
 sourced Met bulla INSERT `C02-S005-A`, then the final full-length assembly. Reserve still unspent: 3 files.
+
+## v2 Batches 4 & 5 — REUSE clips for chapters 4–5 (19 clips, no new stills)
+
+Batch 4 folder `1vdKloVKkT08mbfC3LarW4IBsPNHQZ13D` · reel (9 clips, 63.67 s) `1lIVsDUuY3h7UXNGDSMqwIb_c5f9C8Oam`
+
+| Shot | Image reused | Clip |
+|---|---|---|
+| C04-S002_M03 | C01-S002-A | `1Tc96Z09l9IBGE24kEgCVELeL6laTUayl` |
+| C04-S004_M02 | C01-S004-A | `1YT3eQFl9asl0ZCEcipI1kqHwnT9NBqA0` |
+| C04-S006_M08 | C01-S006-A | `1cKKNd7np4wWQZpdX_NPD42I124t5l8FD` |
+| C04-S008_M03 | C01-S008-A | `1vXvpOTdkjlgSnRhIm3IuLwhbpPPXYPOY` |
+| C04-S010_M02 | C01-S010-A | `1LfgbAbAprxQ2lKcpPrsATrKL7BReMgTN` |
+| C04-S012_M08 | C01-S012-A | `14dV3TuU2V43USoJ7iVetbBC6SigZ1x62` |
+| C04-S014_M03 | C01-S014-A | `1CPATAtKbTRKSc388k4OzTKwCQMRJto4Y` |
+| C04-S016_M02 | C01-S016-A | `11HImQajGgWDwpwu9Cjqo3IAXkXadmiDT` |
+| C04-S018_M08 | C01-S018-A | `1-4cjMUfhHM2AJjm9CODmHmaahaWJLTlY` |
+
+Batch 5 folder `17jgto_-DezvNSfjmKRpJdo0ui046uxp1` · reel (10 clips, 63.46 s) `1GNd6DByLC6MrzneK927sBX4doRGH-7hk`
+
+| Shot | Image reused | Clip |
+|---|---|---|
+| C05-S002_M03 | C02-S002-A | `1REL4m7_iYckE5cf5jlPql-rfZFIPX0o2` |
+| C05-S004_M02 | C02-S004-A | `1kAUFQYF-CIyTEvZmt5pgB2LmPJ6_CR0z` |
+| C05-S006_M08 | C02-S006-A | `1NLpiGTR1g99qmrY9zu4TnN-sElA4hlh2` |
+| C05-S008_M03 | C02-S008-A | `1x-Bi6lZLD8GK3WQIVa6qsRz4edJY9f_p` |
+| C05-S010_M02 | C02-S010-A | `1z5TeZyux1_x5k-3yV83jL6f9nBAPWIlp` |
+| C05-S012_M08 | C02-S012-A | `1Kujx3qDDbaLjl-q-oGBfqelSHxQ_1Kd5` |
+| C05-S014_M03 | C02-S014-A | `1-1uJHPIrMOK4GEUKmyl-j_S2Jgw0xPSC` |
+| C05-S016_M02 | C02-S016-A | `1RoZdUUn2wcMt4guNijoYxrcD1xqnpBXM` |
+| C05-S018_M08 | C02-S018-A | `1HAh58jpIAU4yCTNWTGrQ4-ljdYU7AEZ6` |
+| C05-S020_M03 | C02-S020-A | `1DC-xBThFmbkxTT3iIjlvMEK_h7IcbOiy` |
+
+**Full plate bed — all 49 clips in shot order, 327.71 s (5:27.7):** `1MIeBSLlGlZzVQeeUOfqaReWCZh0p9Qx2` in the v2 root
+(`00_v2 ALL 49 CLIPS — full plate bed in shot order — 5m28s.mp4`, re-encoded to 70.8 MB to clear Drive's 100 MB upload cap;
+the 152 MB CRF-20 master stays local at `clips/v2_all_49_in_shot_order.mp4`). Earlier 16/26/30-clip rollups renamed `zz_superseded_…`.
+
+### Where the plate work now stands
+All **30 generated stills + all 49 clips** are delivered in the v2 tree. Nothing left to shoot: the only open item on my side is
+the **sourced** Met bulla for INSERT `C02-S005-A` (see `docs/BULLA_SOURCING.md` — egress blocked, needs a hand-off).
