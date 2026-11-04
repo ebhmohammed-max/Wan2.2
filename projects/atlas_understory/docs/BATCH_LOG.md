@@ -393,3 +393,23 @@ and `zz_superseded — 01 Batch Log (v1 + partial v2)` `1demWGmFs7uJsN8BdlmdIXRw
 Doc 01 now records the 19-plate extra pass, the numeric clone test with the two failures it caught (C04-S006 6.86, C04-S012 2.01),
 the C04-S002 eye rejection, and the final bed. Doc 02 marks Table A's 19 REUSE rows as NEW (delivered), states the Tier 2 decision
 (C02-S007/S009 stay on C02-S005-A by design), and keeps its original reasoning intact below the status line.
+
+### Tier 3 — six spares, one per world (delivered 2026-11-04, after sign-off)
+
+Folder `v2 · Tier 3 spares — 6 alternate plates (none in the cut)` `1BhWeZeWyu-6uBK8EaNXesfmfiHDFhzm3` inside the v2 root.
+Masters only, no clips, no shot binding — these are swaps or cover, not part of the 49-plate bed.
+
+| Spare | World | New moment | Built from | 4K master | diff |
+|---|---|---|---|---|---|
+| T3-A01 | A01 deep water descent | diver from below, small against a towering blank ashlar wall, one torch shaft | C01-S002-A | `16I8XYOU_GyVKXeOzjLMTjubvIcc265Nk` | 36.3 |
+| T3-A02 | A02 seabed survey | near-plan down on a survey grid, string lines and stakes, diver's shadow entering | C01-S004-A | `1Mg19mvQEZHfwz_2os3-kT7WWHTYhI-Eq` | 48.3 |
+| T3-A03 | A03 sealing world | scribe's back at a low table, rolling a plain document closed, bowl of sealings, lamp | C01-S006-A | `1FgMv4yKuJqioLtz0INjLhxBlH3iZ43Pd` | 52.7 |
+| T3-A04 | A04 clay & impressions | macro of a sealing's reverse — cord and cloth impression, no stamp | C01-S008-A | `1ZZF4KYYWLS809uCi6Pjcv1C2SMIHeQ0I` | 37.9 |
+| T3-A05 | A05 museum study | oblique along a vitrine shelf, ten plain sealings + one plain band ring, closing time | C01-S010-A | `12VL-ZX6_1QunTT8X6E-QFuz9Y0GCEP8s` | 37.7 |
+| T3-A06 | A06 Alexandria | deck-level at dawn looking back at the port, lighthouse in haze, crew in silhouette | C01-S012-A | `1cc-EzW2WpN2M_rTgViwBaYhjcd4XLhu3` | 49.0 |
+
+Note for the record: the local `stills/` and `clips/` directories are gitignored and do not survive a fresh sandbox, so the six
+world anchors were pulled back from Drive (`v2 · Batch 0`) to act as generation references. Mastered with the same recipe as the
+film. Screened the same way as the back-half plates — all six 36–53 against the 22 clone threshold. **T3-A05 was re-shot once:**
+the first version's sealings carried stamp impressions that read as glyph-like designs at full size; the delivered version has
+worn, indistinct surfaces. Folder READ ME `1-Kbxe87V2O-2lyQZFZuhJ2b14m9effZQIdRtsA4pSnE`; preview sheet `docs/TIER3_SPARES_preview.html`.

@@ -17,3 +17,6 @@ projects/atlas_understory/clips/
 
 # scratch from image_search tool runs — never committed
 image-search/
+
+# scratch downscales used for eyeballing plates
+projects/atlas_understory/refpreview/
