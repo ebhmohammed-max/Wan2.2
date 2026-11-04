@@ -264,3 +264,11 @@ Object **326458 / 1978.93.30** (Parthian un-baked clay bulla, Shahr-i Qumis, Met
 specified 326457 / 1978.93.29 — that image host is unreachable from this environment. **MG-011's overlay accessory
 string must now read `Met 1978.93.30 | Bulla | Iran, Shahr-i Qumis | Not from Alexandria`.** The shot takes 0 native
 clips (its motion is the editor's M14 reveal), so no clip is delivered for it.
+
+---
+
+**Drive log refreshed.** The canonical reader-facing log is now the Google Doc
+`01 — Batch Log (v2 — 30 plates + 49 clips, complete)` **`1UOpVTVOKcov83zb6pr4812vlbBbACQrGZysZ-WHoJRU`** in the
+Video 01 root, generated from `docs/BATCH_LOG_v2.html` and the manifests (so the shot/recipe/duration tables can be
+regenerated rather than hand-typed). The old Doc `1demWGmFs7uJsN8BdlmdIXRw8JqYkF9zEq3aoJdBuxYs` is renamed
+`zz_superseded — 01 Batch Log (v1 + partial v2)` and kept for history.
