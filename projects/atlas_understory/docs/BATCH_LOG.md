@@ -96,3 +96,37 @@ Still open:
 - **Met bulla INSERT C02-S005-A** — acquire, never generate; host outside sandbox allowlist.
 - **Batches 4 and 5 clips** (19 clips, zero new images): they reuse the delivered files with their own motion recipes and durations, so they can be rendered as soon as the plate set is final.
 - Reserve still unspent: 3 files.
+
+---
+
+# v2 — CINEMATIC REBUILD (supersedes v1 above)
+
+Decision + rules: `docs/STYLE_V2_CINEMATIC.md`. Drive tree: `Video 01` → **v2 — Cinematic Rebuild**
+`1XEjoQvvZseZvwcntun68cwoRZiXoZwjf` → per-batch folders. v1 folders moved intact to
+**v1 — Abstract Plates (superseded)** `1QVnDoowVz53cKi5REhK8Z29zkB_X74yL`.
+
+## v2 Batch 0 — the six worlds — DELIVERED
+
+Folder "v2 · Batch 0 — Six Worlds (6 stills + 6 clips)" `1osH2leZ3CUwDHF7JuRUkFPPZm-rMMTkR`
+Reel `1A8yAt-Qe9dbdxj3c8O33YoGzRQgfX8M7` (39.5 s)
+
+| # | Family / world | Still | Clip | Shot · recipe · dur |
+|---|---|---|---|---|
+| 1 | A01 deep-water descent — two divers, torchlight, sunken ashlar, god rays | `1fQe6CHn9v4w7zVaVNHIfDhtLe_wvlAD9` | `1xV65C_SEbBc2RkdJy8FsRx-yHrgAW-Be` | C01-S002 · M03 · 6.21 s |
+| 2 | A02 seabed survey — diver from behind, torch beam across silt | `1WgBiswBMExVLZgnd7I3Rqi7bwdtPgJKR` | `1Mjb6oWAMdBWyer-pT99ZlSXwCObQYmxh` | C01-S004 · M02 · 6.67 s |
+| 3 | A03 sealing world — hands, bronze signet, red wax, lamp | `1VN5Md1KTy88hQ5ciLzVpP98FzI2XAsdE` | `105LeHd2NVWl_rJzzM1wZHd8f9Kj4MVYE` | C01-S006 · M08 · 6.67 s |
+| 4 | A04 clay & impressions — sealings, raw clay, raking lamplight | `1MFbRf2j8qHIC5LBPn5bKLWr-ZM8dznuK` | `1eswlum-Ftk2Mjici9MiX-awzyYF0BM8c` | C01-S008 · M03 · 6.88 s |
+| 5 | A05 museum study — coin on edge, sealing, magnifier, oil lamp | `1cPcQF7V5tHrq2K4JBGCvfG2oTGF76NAB` | `1yPdnnDruE8KHOrzNW-W4L6FEZUQ5B_fO` | C01-S010 · M02 · 7.12 s |
+| 6 | A06 Alexandria — harbour at dawn, Pharos, ships, quay | `1PL2yvJQiioWpIk5DpzFvybMNRopH86tO` | `1SQ6dB4PE9yC9NdiWh3TSA1Xg_iHP3Pvb` | C01-S012 · M08 · 5.96 s |
+
+Motion recipes and durations identical to v1, so the approved video treatment is unchanged.
+
+### Honesty notes on this batch
+- These are illustrative reconstructions; label `Illustrative reconstruction — not the excavation` is the editor's, not baked in.
+- The signet in A03 is turned so its engraving is unreadable. No inscription exists anywhere in frame.
+- The coin in A05 shows a generic profile, **not** the British Museum Hadrian coin and **not** the find. The real object photographs remain mandatory for the evidence panels; C02-S005-A (Met bulla) is still acquired, never generated.
+- Faces stay anonymous: divers masked, dockworkers in silhouette, hands cropped at the wrist.
+
+### Next
+24 EDIT plates (v1 closer crop, v2 30° oblique, v3 overhead, v4 low diagonal) → 24 stills + 24 clips,
+generated from the approved v2 anchor files, in runs of up to 10 per pass.
