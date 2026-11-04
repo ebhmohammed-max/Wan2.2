@@ -249,3 +249,18 @@ the 152 MB CRF-20 master stays local at `clips/v2_all_49_in_shot_order.mp4`). Ea
 ### Where the plate work now stands
 All **30 generated stills + all 49 clips** are delivered in the v2 tree. Nothing left to shoot: the only open item on my side is
 the **sourced** Met bulla for INSERT `C02-S005-A` (see `docs/BULLA_SOURCING.md` — egress blocked, needs a hand-off).
+
+## INSERT C02-S005-A — sourced Met bulla (delivered, founder-approved substitution)
+
+Folder `v2 · INSERT — C02-S005-A sourced Met bulla` `1eiaDRCOMHh7GmaTdv704CT-0BgU1KTMTk`
+
+| Asset | Drive id |
+|---|---|
+| `C02-S005-A_3840x2160_frame.png` (16:9 presentation, photo unaltered inside it) | `1S5yU3zQClzJ-ME-kRc6TUJinermrkfFa` |
+| `C02-S005-A_original_photosource_untouched_1200x899.jpg` (source bytes) | `1T_Ful5NkCR1p6JPFKgfik1eVa_kJp93U` |
+| `C02-S005-A_CAPTION_and_provenance.md` | `198Bcnm77MyKyHWFQcJPXSn1vVZLVRT-S` |
+
+Object **326458 / 1978.93.30** (Parthian un-baked clay bulla, Shahr-i Qumis, Met, public domain), not the originally
+specified 326457 / 1978.93.29 — that image host is unreachable from this environment. **MG-011's overlay accessory
+string must now read `Met 1978.93.30 | Bulla | Iran, Shahr-i Qumis | Not from Alexandria`.** The shot takes 0 native
+clips (its motion is the editor's M14 reveal), so no clip is delivered for it.
