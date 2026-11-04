@@ -160,3 +160,33 @@ Combined v2 reel, 16 clips, 1 m 45 s: `00_v2 ALL PLATES SO FAR` in the v2 root f
 ### Coverage: 16 of 30 v2 plates · 26 of 30 total assets counting v1 archive
 Remaining v2 work: C02-S016-A, C02-S018-A, C02-S020-A, C02-S022-A (batch 2 part B, 4) and the ten
 chapter-3 variants (batch 3). Then the 19 REUSE clips for chapters 4–5, and the Met bulla acquisition.
+
+## v2 Batch 2 — COMPLETE (11 of 11) · v2 Batch 3 part A (6 of 10)
+
+Batch 2 folder renamed to "v2 · Batch 2 — Chapter 2 edits (11 stills + 11 clips — complete)" `1EEVfP9PKfhp8gN6t9DfPOR78uQFLoPLT`
+Batch 2 reel (11 clips, 73.3 s) `1l9VFO8PrUMl4UWE6WzZQA4jQveBL7weK`
+
+| Image | Family · variation | Still | Clip |
+|---|---|---|---|
+| C02-S016-A | A05 study · v2 30° | `1FZZ5QAXMrkwf7up9JhmVIsfCZQDfuxnI` | `1oCy0yKAbSOQSTXUmbo-pYUD122LWNTZf` |
+| C02-S018-A | A06 Alexandria · v2 30° | `1O1E-hV05X1cEtacgJ87dUR_xwQyLelWc` | `1TBFrelN80eKhiQFQpQqY_e3CndxwOba9` |
+| C02-S020-A | A01 water · v3 overhead (divers from above) | `12ZWPapuApZMsZfzbpRjVWJmsxLXeIQz4` | `1_InxJCQnDYx7nogKmQAapWrvB7crS_bJ` |
+| C02-S022-A | A02 seabed · v3 overhead | `1UsAUISRU1s6OUsbLlqg_wDXqFHbyL6_R` | `1oboeJbrXOtkfP05xrF2X7BcJJSdnMf_Z` |
+
+Batch 3 folder "v2 · Batch 3 — Chapter 3 edits (part A: 6 of 10)" `1lcDfuDonyaJgrzYUmb2RgCOdABFJWmWy`
+Batch 3 part-A reel (6 clips, 40.2 s) `1FE1FoGao3PMDXmqcRO4U2Lzx1wC4ZmyG`
+
+| Image | Family · variation | Still | Clip |
+|---|---|---|---|
+| C03-S002-A | A03 sealing · v3 overhead | `1LX36pM021X7RRpLyc_3vB0QNXUP-wMuC` | `1eHMs5yJ1qNymVz-QA6NJTAm1mpQTVp4Y` |
+| C03-S004-A | A04 clay · v3 overhead | `1zwSKHhmQsIk_-tTSH1nXZaZVvuKaBNsWY` | `1WXsLeIGErWEo4r3LimDuC0EZgIdMmL5S` |
+| C03-S006-A | A05 study · v3 overhead | `1b_MAjoOKc3Q5-p3d42pyW4j9sD-2_fHp` | `130PdREK6KyOFl63C2FDB3237cOnR5nfm` |
+| C03-S008-A | A06 Alexandria · v3 aerial | `1YwItb_DXM9t5B_ge7iRwfACwmwp-2chC` | `1B9U88i9N7V1dDTp1NYJNpqwutd_32RTP` |
+| C03-S010-A | A01 water · v4 low diagonal (divers overhead in silhouette) | `1cpLxyRkOjQND2iKod_oChmNOgMHAJo1p` | `1wiMt1mA8282WTaizbGrNI7r_pmxMTaSP` |
+| C03-S012-A | A02 seabed · v4 low diagonal | `146jtQJdhp8cs6zkyifnQQKAk21tAFG8B` | `1rDYKpsXvgCBCwrfzwupcyTDALGvx_tVN` |
+
+Combined v2 reel — 26 clips, 2 m 53 s: `1SjME62N6ijIQphpTCQNN8W5qFkW1tezR` in the v2 root.
+
+### Coverage: 26 of 30 v2 plates, each with a 1080p24 clip
+Remaining: C03-S014-A (A03 v4), C03-S016-A (A04 v4), C03-S018-A (A05 v4), C03-S020-A (A06 v4).
+Then 19 REUSE clips for chapters 4–5, and the Met bulla acquisition.
