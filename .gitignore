@@ -14,3 +14,6 @@ refs/
 # Atlas Understory — generated media stays out of git (lives in Drive "Video 01")
 projects/atlas_understory/stills/
 projects/atlas_understory/clips/
+
+# scratch from image_search tool runs — never committed
+image-search/
