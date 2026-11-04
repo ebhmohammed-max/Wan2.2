@@ -377,3 +377,19 @@ plus the four notes the editor needs (labels, the 1978.93.30 accession flag, why
 
 Left open by design: C02-S007 and C02-S009 keep the single sourced photograph because the shot map reuses it deliberately at wide
 and overhead framings and their qualifier copy describes that object. Adding different objects would change what the copy refers to.
+
+### Document registry (Video 01 root) — current as of 2026-11-04
+
+| # | Doc | id | Local source |
+|---|---|---|---|
+| 01 | Batch Log (v2 — 49 plates + 49 clips, complete) | `13zDbOCDYhh5xcrgjOfnZWakTnbWxrSMDwbAneHQoqkM` | `docs/BATCH_LOG_v3.html` |
+| 02 | Shot-map audit (Tier 1 delivered, Tier 2 closed) | `1Eg42CR6tForetBhmQQ178mW8slCEdycLDAng4QwmzPQ` | `docs/SHOTMAP_AUDIT_v2.html` |
+| 03 | Delivery index (every shot, every file, verified) | `1mr74A9K-Mc-9Nr2bZQQbKWhkp5nSvt0F8bunGp6o-PQ` | `docs/DELIVERY_INDEX.html` |
+
+Superseded revisions, kept not deleted: `zz_superseded_01 — Batch Log (v2 — 30 plates + 49 clips)` `1UOpVTVOKcov83zb6pr4812vlbBbACQrGZysZ-WHoJRU`
+(its HTML is `docs/BATCH_LOG_v2.html`), `zz_superseded_02 — Shot-map audit (original)` `1OXAYFeukI-UVVEZ7Z46ZjA7xr_NiXW-a_sFCYQdRr-8`,
+and `zz_superseded — 01 Batch Log (v1 + partial v2)` `1demWGmFs7uJsN8BdlmdIXRw8JqYkF9zEq3aoJdBuxYs`.
+
+Doc 01 now records the 19-plate extra pass, the numeric clone test with the two failures it caught (C04-S006 6.86, C04-S012 2.01),
+the C04-S002 eye rejection, and the final bed. Doc 02 marks Table A's 19 REUSE rows as NEW (delivered), states the Tier 2 decision
+(C02-S007/S009 stay on C02-S005-A by design), and keeps its original reasoning intact below the status line.

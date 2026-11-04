@@ -1,0 +1,178 @@
+<html><body>
+<h1>Shot-map audit — where imagery already exists, and where more could go</h1>
+<p><b>Status 2026-11-04: acted on and closed.</b> Tier 1 was taken — all 19 REUSE plate positions now have their own image, delivered
+and cut. Tier 2 was decided and left as scripted (see the note under Table C). Tier 3 remains optional. The analysis below is kept
+as written, because it is the reasoning the delivery rests on.</p>
+<p>Read of the whole v4 Shot Map (98 shots, frames 0–15,745 @ 24 fps) against what is actually delivered.
+<b>The script, the shot order, the durations and the overlays are treated as frozen.</b> This audit only asks one
+question: at which positions could a generated image still be added without moving a single frame of the timeline?</p>
+
+<h2>The map at a glance</h2>
+<ul>
+<li><b>98 shots.</b> 49 background-plate shots, 46 editor-graphic shots (42 DOC/ARTICLE, 3 DATA VIZ, 1 MAP), 3 real-source-photo shots.</li>
+<li><b>30 generated plates</b> in the map's own budget (6 anchors + 24 edits) — all delivered, mastered 3840×2160, each with a clip.</li>
+<li><b>19 plate positions were marked REUSE</b> — Chapter 4 replayed Chapter 1's six images, Chapter 5 replayed Chapter 2's. Zero new images were budgeted; <b>19 were generated anyway and delivered</b>, so no plate repeats in the film.</li>
+<li><b>1 sourced photograph</b> (C02-S005-A) plus <b>2 further photo shots that reuse it</b> (C02-S007, C02-S009).</li>
+<li><b>46 shots carry no imagery of mine at all</b> — they are editor graphics, type panels and diagrams.</li>
+</ul>
+
+<h2>Table A — the 49 plate shots</h2>
+<table border="1" cellspacing="0" cellpadding="4"><tr><th>Shot</th><th>Duration</th><th>Class</th><th>Image</th><th>World · framing</th></tr>
+<tr><td>C01-S002</td><td>6.21</td><td>ANCHOR</td><td>C01-S002-A</td><td>A01 deep water descent</td></tr>
+<tr><td>C01-S004</td><td>6.67</td><td>ANCHOR</td><td>C01-S004-A</td><td>A02 seabed survey</td></tr>
+<tr><td>C01-S006</td><td>6.67</td><td>ANCHOR</td><td>C01-S006-A</td><td>A03 sealing world</td></tr>
+<tr><td>C01-S008</td><td>6.88</td><td>ANCHOR</td><td>C01-S008-A</td><td>A04 clay &amp; impressions</td></tr>
+<tr><td>C01-S010</td><td>7.12</td><td>ANCHOR</td><td>C01-S010-A</td><td>A05 museum study</td></tr>
+<tr><td>C01-S012</td><td>5.96</td><td>ANCHOR</td><td>C01-S012-A</td><td>A06 Alexandria</td></tr>
+<tr><td>C01-S014</td><td>6.46</td><td>EDIT</td><td>C01-S014-A</td><td>A01 · v1 close + foreground</td></tr>
+<tr><td>C01-S016</td><td>6.67</td><td>EDIT</td><td>C01-S016-A</td><td>A02 · v1 close + foreground</td></tr>
+<tr><td>C01-S018</td><td>6.67</td><td>EDIT</td><td>C01-S018-A</td><td>A03 · v1 close + foreground</td></tr>
+<tr><td>C02-S002</td><td>6.67</td><td>EDIT</td><td>C02-S002-A</td><td>A04 · v1 close + foreground</td></tr>
+<tr><td>C02-S004</td><td>6.88</td><td>EDIT</td><td>C02-S004-A</td><td>A05 · v1 close + foreground</td></tr>
+<tr><td>C02-S006</td><td>6.21</td><td>EDIT</td><td>C02-S006-A</td><td>A06 · v1 close + foreground</td></tr>
+<tr><td>C02-S008</td><td>6.21</td><td>EDIT</td><td>C02-S008-A</td><td>A01 · v2 30° oblique</td></tr>
+<tr><td>C02-S010</td><td>7.12</td><td>EDIT</td><td>C02-S010-A</td><td>A02 · v2 30° oblique</td></tr>
+<tr><td>C02-S012</td><td>6.21</td><td>EDIT</td><td>C02-S012-A</td><td>A03 · v2 30° oblique</td></tr>
+<tr><td>C02-S014</td><td>6.46</td><td>EDIT</td><td>C02-S014-A</td><td>A04 · v2 30° oblique</td></tr>
+<tr><td>C02-S016</td><td>7.38</td><td>EDIT</td><td>C02-S016-A</td><td>A05 · v2 30° oblique</td></tr>
+<tr><td>C02-S018</td><td>6.67</td><td>EDIT</td><td>C02-S018-A</td><td>A06 · v2 30° oblique</td></tr>
+<tr><td>C02-S020</td><td>6.88</td><td>EDIT</td><td>C02-S020-A</td><td>A01 · v3 overhead</td></tr>
+<tr><td>C02-S022</td><td>6.67</td><td>EDIT</td><td>C02-S022-A</td><td>A02 · v3 overhead</td></tr>
+<tr><td>C03-S002</td><td>5.96</td><td>EDIT</td><td>C03-S002-A</td><td>A03 · v3 overhead</td></tr>
+<tr><td>C03-S004</td><td>6.88</td><td>EDIT</td><td>C03-S004-A</td><td>A04 · v3 overhead</td></tr>
+<tr><td>C03-S006</td><td>7.12</td><td>EDIT</td><td>C03-S006-A</td><td>A05 · v3 overhead</td></tr>
+<tr><td>C03-S008</td><td>6.46</td><td>EDIT</td><td>C03-S008-A</td><td>A06 · v3 overhead</td></tr>
+<tr><td>C03-S010</td><td>6.67</td><td>EDIT</td><td>C03-S010-A</td><td>A01 · v4 low diagonal</td></tr>
+<tr><td>C03-S012</td><td>7.12</td><td>EDIT</td><td>C03-S012-A</td><td>A02 · v4 low diagonal</td></tr>
+<tr><td>C03-S014</td><td>6.88</td><td>EDIT</td><td>C03-S014-A</td><td>A03 · v4 low diagonal</td></tr>
+<tr><td>C03-S016</td><td>7.12</td><td>EDIT</td><td>C03-S016-A</td><td>A04 · v4 low diagonal</td></tr>
+<tr><td>C03-S018</td><td>6.88</td><td>EDIT</td><td>C03-S018-A</td><td>A05 · v4 low diagonal</td></tr>
+<tr><td>C03-S020</td><td>6.88</td><td>EDIT</td><td>C03-S020-A</td><td>A06 · v4 low diagonal</td></tr>
+<tr><td>C04-S002</td><td>6.88</td><td><b>NEW</b> (was REUSE)</td><td>C01-S002-A</td><td>A01 deep water descent</td></tr>
+<tr><td>C04-S004</td><td>6.67</td><td><b>NEW</b> (was REUSE)</td><td>C01-S004-A</td><td>A02 seabed survey</td></tr>
+<tr><td>C04-S006</td><td>7.12</td><td><b>NEW</b> (was REUSE)</td><td>C01-S006-A</td><td>A03 sealing world</td></tr>
+<tr><td>C04-S008</td><td>6.88</td><td><b>NEW</b> (was REUSE)</td><td>C01-S008-A</td><td>A04 clay &amp; impressions</td></tr>
+<tr><td>C04-S010</td><td>7.38</td><td><b>NEW</b> (was REUSE)</td><td>C01-S010-A</td><td>A05 museum study</td></tr>
+<tr><td>C04-S012</td><td>7.38</td><td><b>NEW</b> (was REUSE)</td><td>C01-S012-A</td><td>A06 Alexandria</td></tr>
+<tr><td>C04-S014</td><td>6.88</td><td><b>NEW</b> (was REUSE)</td><td>C01-S014-A</td><td>A01 · v1 close + foreground</td></tr>
+<tr><td>C04-S016</td><td>7.38</td><td><b>NEW</b> (was REUSE)</td><td>C01-S016-A</td><td>A02 · v1 close + foreground</td></tr>
+<tr><td>C04-S018</td><td>7.12</td><td><b>NEW</b> (was REUSE)</td><td>C01-S018-A</td><td>A03 · v1 close + foreground</td></tr>
+<tr><td>C05-S002</td><td>5.33</td><td><b>NEW</b> (was REUSE)</td><td>C02-S002-A</td><td>A04 · v1 close + foreground</td></tr>
+<tr><td>C05-S004</td><td>7.12</td><td><b>NEW</b> (was REUSE)</td><td>C02-S004-A</td><td>A05 · v1 close + foreground</td></tr>
+<tr><td>C05-S006</td><td>6.67</td><td><b>NEW</b> (was REUSE)</td><td>C02-S006-A</td><td>A06 · v1 close + foreground</td></tr>
+<tr><td>C05-S008</td><td>6.42</td><td><b>NEW</b> (was REUSE)</td><td>C02-S008-A</td><td>A01 · v2 30° oblique</td></tr>
+<tr><td>C05-S010</td><td>7.12</td><td><b>NEW</b> (was REUSE)</td><td>C02-S010-A</td><td>A02 · v2 30° oblique</td></tr>
+<tr><td>C05-S012</td><td>7.12</td><td><b>NEW</b> (was REUSE)</td><td>C02-S012-A</td><td>A03 · v2 30° oblique</td></tr>
+<tr><td>C05-S014</td><td>5.04</td><td><b>NEW</b> (was REUSE)</td><td>C02-S014-A</td><td>A04 · v2 30° oblique</td></tr>
+<tr><td>C05-S016</td><td>5.04</td><td><b>NEW</b> (was REUSE)</td><td>C02-S016-A</td><td>A05 · v2 30° oblique</td></tr>
+<tr><td>C05-S018</td><td>7.38</td><td><b>NEW</b> (was REUSE)</td><td>C02-S018-A</td><td>A06 · v2 30° oblique</td></tr>
+<tr><td>C05-S020</td><td>6.21</td><td><b>NEW</b> (was REUSE)</td><td>C02-S020-A</td><td>A01 · v3 overhead</td></tr></table>
+<p><b>This is the finding that matters.</b> Every plate position is filled, but from Chapter 4 onward the film stops
+showing anything new: it re-cuts images the viewer has already seen twice. Through the last 23 minutes the background bed
+carries no new information — only new crops. That is exactly where additional generated images would pay off, because the
+timeline would not move at all.</p>
+
+<h2>Table B — the 46 graphic shots (no background plate budgeted)</h2>
+<table border="1" cellspacing="0" cellpadding="4"><tr><th>Shot</th><th>Duration</th><th>Type</th><th>MG/VX</th></tr>
+<tr><td>C01-S001</td><td>6.21</td><td>DOC/ARTICLE</td><td>MG-001</td></tr>
+<tr><td>C01-S003</td><td>6.67</td><td>DOC/ARTICLE</td><td>MG-002</td></tr>
+<tr><td>C01-S005</td><td>6.67</td><td>MAP</td><td>MG-003</td></tr>
+<tr><td>C01-S007</td><td>6.92</td><td>DOC/ARTICLE</td><td>MG-004</td></tr>
+<tr><td>C01-S009</td><td>7.12</td><td>DOC/ARTICLE</td><td>MG-005</td></tr>
+<tr><td>C01-S011</td><td>6.00</td><td>DOC/ARTICLE</td><td>MG-006</td></tr>
+<tr><td>C01-S013</td><td>6.42</td><td>DOC/ARTICLE</td><td>MG-007</td></tr>
+<tr><td>C01-S015</td><td>6.67</td><td>DATA VIZ</td><td>VX-001</td></tr>
+<tr><td>C01-S017</td><td>6.67</td><td>DOC/ARTICLE</td><td>MG-008</td></tr>
+<tr><td>C02-S001</td><td>6.67</td><td>DOC/ARTICLE</td><td>MG-009</td></tr>
+<tr><td>C02-S003</td><td>6.92</td><td>DOC/ARTICLE</td><td>MG-010</td></tr>
+<tr><td>C02-S011</td><td>6.21</td><td>DOC/ARTICLE</td><td>MG-014</td></tr>
+<tr><td>C02-S013</td><td>6.42</td><td>DOC/ARTICLE</td><td>MG-015</td></tr>
+<tr><td>C02-S015</td><td>7.33</td><td>DOC/ARTICLE</td><td>MG-016</td></tr>
+<tr><td>C02-S017</td><td>6.67</td><td>DOC/ARTICLE</td><td>MG-017</td></tr>
+<tr><td>C02-S019</td><td>6.92</td><td>DOC/ARTICLE</td><td>MG-018</td></tr>
+<tr><td>C02-S021</td><td>6.67</td><td>DOC/ARTICLE</td><td>MG-019</td></tr>
+<tr><td>C03-S001</td><td>6.00</td><td>DOC/ARTICLE</td><td>MG-020</td></tr>
+<tr><td>C03-S003</td><td>6.92</td><td>DOC/ARTICLE</td><td>MG-021</td></tr>
+<tr><td>C03-S005</td><td>7.12</td><td>DOC/ARTICLE</td><td>MG-022</td></tr>
+<tr><td>C03-S007</td><td>6.42</td><td>DOC/ARTICLE</td><td>MG-023</td></tr>
+<tr><td>C03-S009</td><td>6.67</td><td>DOC/ARTICLE</td><td>MG-024</td></tr>
+<tr><td>C03-S011</td><td>7.12</td><td>DOC/ARTICLE</td><td>MG-025</td></tr>
+<tr><td>C03-S013</td><td>6.92</td><td>DATA VIZ</td><td>VX-002</td></tr>
+<tr><td>C03-S015</td><td>7.12</td><td>DOC/ARTICLE</td><td>MG-026</td></tr>
+<tr><td>C03-S017</td><td>6.92</td><td>DOC/ARTICLE</td><td>MG-027</td></tr>
+<tr><td>C03-S019</td><td>6.92</td><td>DOC/ARTICLE</td><td>MG-028</td></tr>
+<tr><td>C04-S001</td><td>6.92</td><td>DOC/ARTICLE</td><td>MG-029</td></tr>
+<tr><td>C04-S003</td><td>6.67</td><td>DATA VIZ</td><td>VX-003</td></tr>
+<tr><td>C04-S005</td><td>7.12</td><td>DOC/ARTICLE</td><td>MG-030</td></tr>
+<tr><td>C04-S007</td><td>6.92</td><td>DOC/ARTICLE</td><td>MG-031</td></tr>
+<tr><td>C04-S009</td><td>7.33</td><td>DOC/ARTICLE</td><td>MG-032</td></tr>
+<tr><td>C04-S011</td><td>7.33</td><td>DOC/ARTICLE</td><td>MG-033</td></tr>
+<tr><td>C04-S013</td><td>6.92</td><td>DOC/ARTICLE</td><td>MG-034</td></tr>
+<tr><td>C04-S015</td><td>7.33</td><td>DOC/ARTICLE</td><td>MG-035</td></tr>
+<tr><td>C04-S017</td><td>7.12</td><td>DOC/ARTICLE</td><td>MG-036</td></tr>
+<tr><td>C05-S001</td><td>5.38</td><td>DOC/ARTICLE</td><td>MG-037</td></tr>
+<tr><td>C05-S003</td><td>5.38</td><td>DOC/ARTICLE</td><td>MG-037</td></tr>
+<tr><td>C05-S005</td><td>7.12</td><td>DOC/ARTICLE</td><td>MG-038</td></tr>
+<tr><td>C05-S007</td><td>6.67</td><td>DOC/ARTICLE</td><td>MG-039</td></tr>
+<tr><td>C05-S009</td><td>6.46</td><td>DOC/ARTICLE</td><td>MG-040</td></tr>
+<tr><td>C05-S011</td><td>7.12</td><td>DOC/ARTICLE</td><td>MG-041</td></tr>
+<tr><td>C05-S013</td><td>7.12</td><td>DOC/ARTICLE</td><td>MG-042</td></tr>
+<tr><td>C05-S015</td><td>5.08</td><td>DOC/ARTICLE</td><td>MG-043</td></tr>
+<tr><td>C05-S017</td><td>7.33</td><td>DOC/ARTICLE</td><td>MG-044</td></tr>
+<tr><td>C05-S019</td><td>6.21</td><td>DOC/ARTICLE</td><td>MG-045</td></tr></table>
+<p>These carry overlays, source panels, data visuals and the region map. Nothing generated belongs here by the handoff's
+own rule — a plate behind a citation panel would compete with the text, and the graphics agent owns the layout. I flag them
+only so the count is honest: adding imagery here would be a design change, not a coverage fix.</p>
+
+<h2>Table C — the three photograph shots</h2>
+<table border="1" cellspacing="0" cellpadding="4"><tr><th>Shot</th><th>Duration</th><th>Class</th><th>Image</th><th>MG/VX</th></tr>
+<tr><td>C02-S005</td><td>6.21</td><td>INSERT</td><td>C02-S005-A</td><td>MG-011</td></tr>
+<tr><td>C02-S007</td><td>6.21</td><td>REUSE</td><td>C02-S005-A</td><td>MG-012</td></tr>
+<tr><td>C02-S009</td><td>7.12</td><td>REUSE</td><td>C02-S005-A</td><td>MG-013</td></tr></table>
+<p>One sourced photograph, used three times. Two of those are reuse slots, so they could take two <i>different</i>
+authentic Met photographs (they exist, public domain) rather than repeating the same object three times in one chapter.
+That is a sourcing job, not a generation job.</p>
+<p><b>Decision, 2026-11-04 — kept as scripted.</b> C02-S007 and C02-S009 stay on C02-S005-A. The shot map asks for the same
+object at wide and overhead framings, and the qualifier copy on both shots describes that object; swapping in a second or third
+bulla would change what those words refer to. This is a closed decision, not an outstanding gap. If it is ever revisited, it
+needs two different public-domain Met bullae dropped into this workspace — the museum's image host is blocked from here.</p>
+
+<h2>Opportunity register</h2>
+<table border="1" cellspacing="0" cellpadding="4">
+<tr><th>Tier</th><th>Positions</th><th>New images</th><th>What it fixes</th><th>What it costs</th></tr>
+<tr><td><b>1</b><br><b>DELIVERED</b></td><td>The 19 REUSE plate shots (C04-S002…S018, C05-S002…S020)</td><td><b>19</b></td>
+<td>The back two chapters stop repeating the front. Same six worlds, same shot order, same durations — genuinely new frames inside each world, at the framing the map already asks for ("close" on odd plate shots, "oblique medium" on even).</td>
+<td>19 generations, 19 masters, 19 clips. No timeline change. The map's "no new image/model call" note becomes obsolete by your instruction, nothing else does.</td></tr>
+<tr><td><b>2</b><br><b>CLOSED — kept as scripted</b></td><td>The 2 photo-reuse shots (C02-S007, C02-S009)</td><td><b>0</b> (2 sourced photos)</td>
+<td>The same bulla appears three times in one chapter. Two other public-domain Met bullae would make the comparison real instead of repeated.</td>
+<td>Sourcing only. Blocked here: the image host is outside this sandbox's egress — needs a drop-in, same as before.</td></tr>
+<tr><td><b>3</b><br>optional, not started</td><td>Extra coverage inside the six worlds (not tied to a shot)</td><td>as many as wanted</td>
+<td>Alternates to choose between, and spares if any one plate fails review.</td>
+<td>Pure optionality. Nothing enters the cut unless you pick it.</td></tr>
+<tr><td>—<br>not recommended</td><td>The 46 graphic shots</td><td>0</td>
+<td>Nothing. Not recommended — the graphics agent owns those frames.</td>
+<td>Would fight the type. Left alone.</td></tr>
+</table>
+
+<h2>How Tier 1 was executed</h2>
+<p>Each of the 19 slots was given a new moment inside its own world, at the framing this table assigns — close on the odd plates,
+oblique medium on the even ones — generated from the family anchor so grade and light carry, then mastered and cut at the
+shot map's own duration and recipe. Two safeguards:</p>
+<ul>
+<li><b>Clone test.</b> Every new plate was compared numerically to its anchor (mean absolute difference at 192×108, greyscale);
+22 or below counts as a near-copy and is re-shot. First pass: two failures, C04-S006 (6.86 → 49.7) and C04-S012 (2.01 → 72.4).</li>
+<li><b>Eye check.</b> C04-S002 passed the numeric test but showed a carved-looking relief on a stone that must read as blank and
+eroded, so it was regenerated as bare limestone with no carving — a reminder that the measurement catches clones, not
+plausibility.</li>
+</ul>
+<p>Result: 49 plate positions, 49 distinct images, 49 clips, the same 327.71 s of timeline. Details and file ids are in
+<i>01 — Batch Log</i> and <i>03 — Delivery index</i>.</p>
+
+<h2>Recommendation (as originally written)</h2>
+<p>Take <b>Tier 1</b>: 19 new plates for the reuse slots, in the shot map's own framing assignments, generated from each
+family's approved anchor so grade and light still carry. The film keeps every second it has; the second half simply starts
+showing the viewer something it has not already shown them. Tier 1 also quietly solves a continuity risk — a plate that
+appears four times across 23 minutes is the first thing an attentive viewer notices.</p>
+<p>Everything here is additive. The 49 existing clips stay valid until replacements are approved, so there is never a
+moment where the film is missing a plate.</p>
+</body></html>
