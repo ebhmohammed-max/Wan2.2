@@ -300,3 +300,40 @@ Clone check used a numeric test (mean absolute difference against the anchor at 
 
 Not yet uploaded to Drive — the nine stills + nine clips ship as one complete Chapter 4 set, after the two clones are redone.
 Chapter 5's ten reuse slots are the next block.
+
+### Extra imagery pass — Chapter 4 DELIVERED (9 new plates) · Chapter 5 part A DELIVERED (8 of 10)
+
+Chapter 4 — folder `v2 · Batch 4 — Chapter 4 NEW plates (9 stills + 9 clips)` **`1jrZ9NsQC5NyJHCMbKe8BB3NrZTAG90Ui`**
+reel (9 clips, 63.67 s) `1tUHurXBKENPRiOfjke_ppLJvmcuxXQeu`. The old reuse-cut folder is renamed
+`zz_superseded — v2 Batch 4 reuse cuts (9 clips)` `1vdKloVKkT08mbfC3LarW4IBsPNHQZ13D`, kept not deleted.
+
+| Shot | New image — new moment, same world | Recipe · dur | Still | Clip |
+|---|---|---|---|---|
+| C04-S002 | diver braced on blank eroded ashlar, torch raking | M03 · 6.88 | `1OgpWlb3T-0HQMA0BDZIVhfhjhv_W9_8i` | `1eQrfswbVp3zHzKP9l85NfqbdC_ujcFp6` |
+| C04-S004 | diver from behind, beam on silt, oblique | M02 · 6.67 | `1LS0CAa71FJkSKZrGRwQOmZricmHwE1oW` | `1dfGk3GxlynnDe_40PqeL1b1abhRP6Hqc` |
+| C04-S006 | signet worn on the finger, pressed into wax | M08 · 7.12 | `1CybnQibMKhj0a3t9pyRx2ZHFVBMFBBmZ` | `15Q2LdHzm_fCYaHpcewmzI0EqL7ScIb52` |
+| C04-S008 | oblique clay bench, unimpressed sealings | M03 · 6.88 | `1py6ShBCMSAxtCwaWXRJ-IpVAwH9t0uyu` | `1iBbEKwO2DAPHpobSQb4zLzroY4yXyzdB` |
+| C04-S010 | coin on edge, macro, face unreadable | M02 · 7.38 | `1ey9YAMA-yIRszKrw5byjXb4Dvi5xjM7Q` | `12Q12orSLqLJ4BhnKCRWp411sEw1rcYYQ` |
+| C04-S012 | from a moored ship's deck looking back at the quay | M08 · 7.38 | `14faL1pOitz9sSfwp1EfWd6R9a1gAY1vq` | `1SiuhZ0DmDeimXlUW_TS2HYmzadIteW37` |
+| C04-S014 | hands tying a document, wax cake waiting | M03 · 6.88 | `1E0SIJ8COPD0Zj-adoAB2n65TwN5a9j9h` | `1u1cTf5fkf32NX95xvSRibyz2DHHalmlN` |
+| C04-S016 | potter's wheel, ranks of jars drying | M02 · 7.38 | `1g9EoKh1r9woZAthdeewd4LH0i7Gh1CY9` | `1qwbf-3scO9yAizNY9_p_5qrYYBsu-Mwo` |
+| C04-S018 | sealing behind glass in a case | M08 · 7.12 | `1bPJnfxDK4dpYPwf4sjbfM8y9do86uY1d` | `12fZWQFPRad7vOAqtuSK1sklsWtSChQoN` |
+
+Chapter 5 part A — folder `v2 · Batch 5 — Chapter 5 NEW plates (part A: 8 of 10)` **`1CRsdh46fqx3lQI7mAM_a7DMeEdC0LVak`**
+reel (8 clips, 49.88 s) `1Y_8YfyAF0v6zTNnWaDEtRCEPT3ExQuW8`. Old folder → `zz_superseded — v2 Batch 5 reuse cuts (10 clips)`
+`17jgto_-DezvNSfjmKRpJdo0ui046uxp1`.
+
+| Shot | New image — new moment, same world | Recipe · dur | Still | Clip |
+|---|---|---|---|---|
+| C05-S002 | sealing cupped in a palm, late window light | M03 · 5.33 | `1YeNaNv7CvN1Ga5gxs61WU4mzGYs9sTgW` | `11LAXPB2cA_ja1KwT_EOfW6M6HM02t2yE` |
+| C05-S004 | gloved hand setting a sealing down beside a coin | M02 · 7.12 | `14-3mZCXfuHRDhQ0YwgUjNzEll3VnFNWE` | `1dJLVVgqWiQ9R205Gg2-4zHIWzHTtSJW3` |
+| C05-S006 | amphora neck, rope and wet quay, close | M08 · 6.67 | `1qCh5glk-AVT3yErj6QBwam4c7l7rprIj` | `1xSC_WVLHpsaSjgaaSsdSuZgde9wqTMIW` |
+| C05-S008 | diver rising toward a bright wall opening | M03 · 6.42 | `1Fg5U4MejXTkGTOB6ZPHegZfCOFl1Ib_C` | `1NIviWXZdPYwvq5BDezSA2NvbUxLL_2ZP` |
+| C05-S010 | empty seabed, distant torch, oblique skim | M02 · 7.12 | `1vW1hWDfh_kq7khzZrus665LP5r45kyV3` | `1kYUFslplVnG44CXYbmN5U3KucETi00ge` |
+| C05-S012 | scribal room left in order, lamp guttering | M08 · 7.12 | `1OSxS1X_TBv8zGOpfYqj9PLH2pFiDmw7b` | `1j2cgtzIfQ7JeLBTUnXtKfaXSvGPcrYiG` |
+| C05-S014 | trays of plain sealings, raking evening light | M03 · 5.04 | `16yGe30HP_ShF2pIfTbYvodJ6H9IKe9UX` | `10JGz_UY1XsXAFKNj5d2JFDmDI8xEknoz` |
+| C05-S016 | row of vitrines at closing time | M02 · 5.04 | `1sens-zwEerCAoij15-hxGbiWKje8jspK` | `1eL4K6K_XOUFRBGU7W5nEvYPQUNpYkxEg` |
+
+Every new plate was checked against its anchor with the numeric clone test (mean abs difference at 192×108) and rejected if
+<22. C04-S002's first attempt was also rejected by eye for a glyph-like carved relief on the stone — regenerated blank.
+Remaining in this pass: **C05-S018 and C05-S020**, then a refreshed full 49-clip bed.
