@@ -59,3 +59,40 @@ Preview reel (7 clips, 45.75 s) `15LaFn5A_KPgD8dR7_J0twWyJk3Eghb_J`
 - Batch 3 (10 edits, overhead + low-diagonal variants) still queued.
 
 Combined reel of all 16 delivered clips in shot order: Drive "Video 01" root, `00_ALL PLATES SO FAR — 16 clips in shot order — 1m45s.mp4`.
+
+## Batch 2 — COMPLETE (11 of 11) · Batch 3 part A (5 of 10) — 2026-11-04
+
+Batch 2 folder renamed to "Batch 2 — Chapter 2 Edits (11 stills + 11 clips — complete)" `1w6xorZDG4q98UfxC6gb4toVletumqIBd`
+Batch 2 reel (11 clips, 73.3 s) `105k8H-BOVC6r_ng1HzKGsP1TftJl3TE4`
+
+New / replaced in Batch 2:
+
+| Image ID | Family · variation | Still | Clip | Shot · recipe · dur |
+|---|---|---|---|---|
+| C02-S008-A **(re-graded)** | A01 · 30° oblique | `1GPZmuZJqcc9zm9TpcaT6iwzq07OaBWl3` | `1pS_iQI42wqcS6mBzTEoswCAa-LU-pfib` | C02-S008 · M03 · 6.21 s |
+| C02-S016-A | A05 · overhead | `1m2Bm8XNxWWgq8ADYIvB-Mg8xwNfrrVuz` | `1SGkB_cFJRAnjNlq1VOSefPAs13PupMQG` | C02-S016 · M02 · 7.38 s |
+| C02-S018-A | A06 · overhead | `1TUKvY7Sm2VNn3MSXK5bVCUjhDN9QUo78` | `1TyG-pU2jIhsBojkwzNa94RmvIpdqiRTt` | C02-S018 · M08 · 6.67 s |
+| C02-S020-A | A01 · overhead | `1Ocooa3k6uHnHwo1RTI0sKeIKi_8ykhZF` | `1VwM8eAURdSEbAwLDSPsLQR7wuuI0XQ0S` | C02-S020 · M03 · 6.88 s |
+| C02-S022-A | A02 · overhead | `1WUmba4UvBS_vzTsHH4Pz2I_nyKGJ2-IO` | `1u5InY-ZcKmWBRZ5A_rY-uL__ylxZ3t7A` | C02-S022 · M02 · 6.67 s |
+
+C02-S008-A was re-rendered and re-graded to the A01 anchor's deep low-key navy. The earlier brighter/turquoise version and its clip were trashed. Same image ID — a retry, not a new file, so the reserve is untouched.
+
+Batch 3 folder: "Batch 3 — Chapter 3 Edits (part A: 5 of 10)" `1GiHWfYnGN2Qi8IJ7QdfFrIQm4kO0LY9b`
+Batch 3 part-A reel (5 clips, 33.1 s) `1wiU3YlZwa64bQnPiCFFj0L5RTkdmsvFQ`
+
+| Image ID | Family · variation | Still | Clip | Shot · recipe · dur |
+|---|---|---|---|---|
+| C03-S002-A | A03 · overhead | `1SFfwBv8I_Nd4JZNpFfs5On10KQijodA-` | `1q_nRIZQ2xCorD4VnWxY1JwdJMH8nrc0J` | C03-S002 · M08 · 5.96 s |
+| C03-S004-A | A04 · overhead | `1nxu48BPYpudL5UyVMo_v88Gv_jd0M_U3` | `1DzORv8ANo4xMlSbGKfcHXA7HvszlbIei` | C03-S004 · M03 · 6.88 s |
+| C03-S006-A | A05 · low diagonal | `1Zv5KgupJpNxQWuzwj3PaEv-bKVfjHnPJ` | `1XeN2ha0Ot5aUIOvRwAouEOU9D13yH8xP` | C03-S006 · M02 · 7.12 s |
+| C03-S008-A | A06 · low diagonal | `1AoA14ayYGKadGXm_kJZw3uun5E0U_3fr` | `1pHQaOEYIemLLrINY5_4iMI_32_sGZ9Qj` | C03-S008 · M08 · 6.46 s |
+| C03-S010-A | A01 · low diagonal | `1FPf3ItthTFrKXzBbFq2smC4ffSOgeuIu` | `1BSEMXAMhV8rlCcQEtoTxzPjMb6Iqe1O8` | C03-S010 · M03 · 6.67 s |
+
+### Coverage after this pass: 25 of 30 generated plates
+Batch 0 (6) + Batch 1 (3) + Batch 2 (11) + Batch 3 part A (5) = 25, each with a 1080p24 clip.
+
+Still open:
+- **5 remaining plates:** C03-S012-A (A02 v4 low diagonal), C03-S014-A (A03 v4), C03-S016-A (A04 v4), C03-S018-A (A05 v4), C03-S020-A (A06 v4).
+- **Met bulla INSERT C02-S005-A** — acquire, never generate; host outside sandbox allowlist.
+- **Batches 4 and 5 clips** (19 clips, zero new images): they reuse the delivered files with their own motion recipes and durations, so they can be rendered as soon as the plate set is final.
+- Reserve still unspent: 3 files.
