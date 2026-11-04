@@ -337,3 +337,25 @@ reel (8 clips, 49.88 s) `1Y_8YfyAF0v6zTNnWaDEtRCEPT3ExQuW8`. Old folder → `zz_
 Every new plate was checked against its anchor with the numeric clone test (mean abs difference at 192×108) and rejected if
 <22. C04-S002's first attempt was also rejected by eye for a glyph-like carved relief on the stone — regenerated blank.
 Remaining in this pass: **C05-S018 and C05-S020**, then a refreshed full 49-clip bed.
+
+### Chapter 5 COMPLETE (10 of 10) · final 49-clip bed rebuilt
+
+| Shot | New image — new moment | Recipe · dur | Still | Clip |
+|---|---|---|---|---|
+| C05-S018 | harbour at blue hour, lamps lit, hulls in silhouette | M08 · 7.38 | `1EYMrz-L4V0RWp7T0lLIBY1BSSHon_WFb` | `16qF4syaDBZMKztHdUqwBIQ_x7Nby6Hv1` |
+| C05-S020 | close on a masked diver against plain ashlar | M03 · 6.21 | `1YLjbHXMhAdH8qsZKsx5Pc2ZWz8JW-Mvq` | `1nggryLKPkx2PwJKj43KiWwwJCtB05sJR` |
+
+Batch 5 folder renamed `v2 · Batch 5 — Chapter 5 NEW plates (10 stills + 10 clips — complete)` `1CRsdh46fqx3lQI7mAM_a7DMeEdC0LVak`;
+full Chapter 5 reel (10 clips, 63.46 s) `1M3zmUOL6vDLNQU-JZ4MVqJ40mhz2tHOt`. The 8-clip part-A reel is `zz_superseded_…`.
+
+**Final plate bed — all 49 clips, 327.71 s, every one a distinct image:** `12xfAFXo3fSe8_APrzTv1sc3HAaMJCRKG`
+(`00_v2 ALL 49 PLATES — final bed, all new back-half plates — 5m28s.mp4`, 70.6 MB, encoded at 1.8 Mbps to clear the 100 MB cap;
+the higher-quality master is local at `clips/v2_all_49_final.mp4`). The previous reuse bed is `zz_superseded_…`.
+
+### Coverage after the extra pass
+- **49 plates now, 49 distinct images**: 30 generated for chapters 1–3 + 19 new generated plates replacing every REUSE slot in chapters 4–5. No plate is shown twice anywhere in the film.
+- Every plate mastered 3840×2160 and clipped 1080p24 at the shot map's own duration and recipe.
+- Script, shot order, durations, overlays and the sourced photo are untouched.
+- Clone test applied to all 19 new plates vs their anchors: none below the 22 threshold; C04-S002 also re-shot after a glyph-like
+  carved relief appeared on the stone.
+- Open (sourcing, not generation): the two extra Met photographs for C02-S007 and C02-S009, which currently both reuse C02-S005-A.
