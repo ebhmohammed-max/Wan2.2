@@ -1,0 +1,16 @@
+[
+ {
+  "shot": "C05-S018",
+  "image": "C05-S018-A",
+  "motion": "M08",
+  "duration": 7.375,
+  "class": "EDIT"
+ },
+ {
+  "shot": "C05-S020",
+  "image": "C05-S020-A",
+  "motion": "M03",
+  "duration": 6.208,
+  "class": "EDIT"
+ }
+]

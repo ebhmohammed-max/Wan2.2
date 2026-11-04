@@ -1,0 +1,37 @@
+[
+ {
+  "shot": "C03-S002",
+  "image": "C03-S002-A",
+  "motion": "M08",
+  "duration": 5.958,
+  "class": "EDIT"
+ },
+ {
+  "shot": "C03-S004",
+  "image": "C03-S004-A",
+  "motion": "M03",
+  "duration": 6.875,
+  "class": "EDIT"
+ },
+ {
+  "shot": "C03-S006",
+  "image": "C03-S006-A",
+  "motion": "M02",
+  "duration": 7.125,
+  "class": "EDIT"
+ },
+ {
+  "shot": "C03-S008",
+  "image": "C03-S008-A",
+  "motion": "M08",
+  "duration": 6.458,
+  "class": "EDIT"
+ },
+ {
+  "shot": "C03-S010",
+  "image": "C03-S010-A",
+  "motion": "M03",
+  "duration": 6.667,
+  "class": "EDIT"
+ }
+]

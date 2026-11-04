@@ -1,0 +1,51 @@
+[
+ {
+  "shot": "C02-S002",
+  "image": "C02-S002-A",
+  "motion": "M03",
+  "duration": 6.667,
+  "class": "EDIT"
+ },
+ {
+  "shot": "C02-S004",
+  "image": "C02-S004-A",
+  "motion": "M02",
+  "duration": 6.875,
+  "class": "EDIT"
+ },
+ {
+  "shot": "C02-S006",
+  "image": "C02-S006-A",
+  "motion": "M08",
+  "duration": 6.208,
+  "class": "EDIT"
+ },
+ {
+  "shot": "C02-S008",
+  "image": "C02-S008-A",
+  "motion": "M03",
+  "duration": 6.208,
+  "class": "EDIT"
+ },
+ {
+  "shot": "C02-S010",
+  "image": "C02-S010-A",
+  "motion": "M02",
+  "duration": 7.125,
+  "class": "EDIT"
+ },
+ {
+  "shot": "C02-S012",
+  "image": "C02-S012-A",
+  "motion": "M08",
+  "duration": 6.208,
+  "class": "EDIT"
+ },
+ {
+  "shot": "C02-S014",
+  "image": "C02-S014-A",
+  "motion": "M03",
+  "duration": 6.458,
+  "class": "EDIT"
+ }
+]

@@ -5,3 +5,18 @@ tmp_examples*
 new_checkpoint*
 batch_test*
 nohup*
+.venv/
+
+# local reference material (third-party PDFs) — never committed
+google_drive/
+refs/
+
+# Atlas Understory — generated media stays out of git (lives in Drive "Video 01")
+projects/atlas_understory/stills/
+projects/atlas_understory/clips/
+
+# scratch from image_search tool runs — never committed
+image-search/
+
+# scratch downscales used for eyeballing plates
+projects/atlas_understory/refpreview/
