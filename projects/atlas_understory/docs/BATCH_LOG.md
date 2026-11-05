@@ -413,3 +413,25 @@ world anchors were pulled back from Drive (`v2 · Batch 0`) to act as generation
 film. Screened the same way as the back-half plates — all six 36–53 against the 22 clone threshold. **T3-A05 was re-shot once:**
 the first version's sealings carried stamp impressions that read as glyph-like designs at full size; the delivered version has
 worn, indistinct surfaces. Folder READ ME `1-Kbxe87V2O-2lyQZFZuhJ2b14m9effZQIdRtsA4pSnE`; preview sheet `docs/TIER3_SPARES_preview.html`.
+
+### The complete cut — 10:56:01, 98 slots (2026-11-05)
+
+Founder asked for the full script runtime, not the 5:28 plate bed: "create me the complete duration of the video and add them
+to my drive then after I can start creating voiceovers and start editing the content." Chosen approach: continuous plates, no gaps.
+
+**Delivered:** `00_v2 COMPLETE 10m56:01 — continuous plate cut (VO + edit bed).mp4` `1GHn7S9-XsOrY57hEJkSdko_Xhjo1GkJD`
+in the Video 01 root — **15,745 frames = 00:10:56:01 at 24 fps**, 1920×1080, 24 fps CFR, no audio stream, 86.9 MB.
+Cue sheet `04 — Cue sheet 10:56:01` (Google Sheet `1ypJuaO_3NF9AuUCZXp546aAnuK11LRA932cUqmk8w0I`): 98 rows with start/end
+timecode, duration, frames, slot type and source.
+
+Build: 49 approved clips (all durations re-probed, 0 mismatches) + 49 fill clips rendered from the six anchors and six spares
+at each slot's own scripted duration with the approved M02/M03/M08 recipes, concatenated with ffmpeg's concat **filter**.
+
+Two engineering notes worth keeping:
+- **The concat demuxer loses time.** Stream-copy concatenation dropped ~0.05 s per join — 4.5 s over 98 joins — landing the
+  first build at 10:51.50. Switched to the concat filter (decoded frames) and the master lands exactly on 15,745 frames.
+- **A skipped file hid a broken clip.** The parallel fill renderer skipped outputs over 100 KB to avoid redoing work; one clip
+  left incomplete by the earlier sequential run (51 frames of 160) was skipped as "done" and cost 109 frames. Caught by a
+  per-slot frame census, re-rendered, rebuild verified. Lesson: skip on rendered frame count, not file size.
+
+Pipeline scripts: `scripts/render_fills.py`, `scripts/assemble_full.py`. Local master kept at `clips/v2_FULL_10m56_continuous.mp4`.
