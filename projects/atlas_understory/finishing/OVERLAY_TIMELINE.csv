@@ -1,0 +1,99 @@
+idx,shot,kind,graphic_type,mg,in_tc,out_tc,dur_s,frames,block,template,motion
+1,C01-S001,graphic,DOC/ARTICLE,MG-001,00:00:00:00,00:00:06:05,6.21,149,1,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+2,C02-S001,graphic,DOC/ARTICLE,MG-009,00:00:06:05,00:00:12:21,6.67,160,1,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+3,C03-S001,graphic,DOC/ARTICLE,MG-020,00:00:12:21,00:00:18:21,6.00,144,1,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+4,C04-S001,graphic,DOC/ARTICLE,MG-029,00:00:18:21,00:00:25:19,6.92,166,1,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+5,C05-S001,graphic,DOC/ARTICLE,MG-037,00:00:25:19,00:00:31:04,5.38,129,1,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+6,C01-S002,plate,,,00:00:31:04,00:00:37:09,6.21,149,2,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+7,C02-S002,plate,,,00:00:37:09,00:00:44:01,6.67,160,2,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+8,C03-S002,plate,,,00:00:44:01,00:00:50:00,5.96,143,2,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+9,C04-S002,plate,,,00:00:50:00,00:00:56:21,6.88,165,2,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+10,C05-S002,plate,,,00:00:56:21,00:01:02:05,5.33,128,2,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+11,C01-S003,graphic,DOC/ARTICLE,MG-002,00:01:02:05,00:01:08:21,6.67,160,3,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+12,C02-S003,graphic,DOC/ARTICLE,MG-010,00:01:08:21,00:01:15:19,6.92,166,3,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+13,C03-S003,graphic,DOC/ARTICLE,MG-021,00:01:15:19,00:01:22:17,6.92,166,3,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+14,C04-S003,graphic,DATA VIZ,VX-003,00:01:22:17,00:01:29:09,6.67,160,3,"DIAGRAM — structural, no invented quantities","stagger build, 0.06 s stagger, 0.55 s each"
+15,C05-S003,graphic,DOC/ARTICLE,MG-037,00:01:29:09,00:01:34:18,5.38,129,3,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+16,C01-S004,plate,,,00:01:34:18,00:01:41:10,6.67,160,4,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+17,C02-S004,plate,,,00:01:41:10,00:01:48:07,6.88,165,4,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+18,C03-S004,plate,,,00:01:48:07,00:01:55:04,6.88,165,4,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+19,C04-S004,plate,,,00:01:55:04,00:02:01:20,6.67,160,4,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+20,C05-S004,plate,,,00:02:01:20,00:02:08:23,7.12,171,4,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+21,C01-S005,graphic,MAP,MG-003,00:02:08:23,00:02:15:15,6.67,160,5,"MAP — schematic locator, Natural Earth, labelled SCHEMATIC","arc-draw + pin settle, 0.8 s"
+22,C03-S005,graphic,DOC/ARTICLE,MG-022,00:02:15:15,00:02:22:18,7.12,171,5,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+23,C04-S005,graphic,DOC/ARTICLE,MG-030,00:02:22:18,00:02:29:21,7.12,171,5,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+24,C05-S005,graphic,DOC/ARTICLE,MG-038,00:02:29:21,00:02:37:00,7.12,171,5,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+25,C02-S005,photo,,C02-S005-A,00:02:37:00,00:02:43:05,6.21,149,5,"PHOTO PANEL — archive photograph, unmodified + accession block",M14 alternate underline reveal (map) + 4% push
+26,C01-S006,plate,,,00:02:43:05,00:02:49:21,6.67,160,6,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+27,C02-S006,plate,,,00:02:49:21,00:02:56:02,6.21,149,6,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+28,C03-S006,plate,,,00:02:56:02,00:03:03:05,7.12,171,6,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+29,C04-S006,plate,,,00:03:03:05,00:03:10:08,7.12,171,6,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+30,C05-S006,plate,,,00:03:10:08,00:03:17:00,6.67,160,6,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+31,C01-S007,graphic,DOC/ARTICLE,MG-004,00:03:17:00,00:03:23:22,6.92,166,7,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+32,C03-S007,graphic,DOC/ARTICLE,MG-023,00:03:23:22,00:03:30:08,6.42,154,7,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+33,C04-S007,graphic,DOC/ARTICLE,MG-031,00:03:30:08,00:03:37:06,6.92,166,7,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+34,C05-S007,graphic,DOC/ARTICLE,MG-039,00:03:37:06,00:03:43:22,6.67,160,7,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+35,C02-S007,photo,,C02-S005-A,00:03:43:22,00:03:50:03,6.21,149,7,"PHOTO PANEL — archive photograph, unmodified + accession block",M14 alternate underline reveal (map) + 4% push
+36,C01-S008,plate,,,00:03:50:03,00:03:57:00,6.88,165,8,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+37,C02-S008,plate,,,00:03:57:00,00:04:03:05,6.21,149,8,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+38,C03-S008,plate,,,00:04:03:05,00:04:09:16,6.46,155,8,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+39,C04-S008,plate,,,00:04:09:16,00:04:16:13,6.88,165,8,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+40,C05-S008,plate,,,00:04:16:13,00:04:22:23,6.42,154,8,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+41,C01-S009,graphic,DOC/ARTICLE,MG-005,00:04:22:23,00:04:30:02,7.12,171,9,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+42,C03-S009,graphic,DOC/ARTICLE,MG-024,00:04:30:02,00:04:36:18,6.67,160,9,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+43,C04-S009,graphic,DOC/ARTICLE,MG-032,00:04:36:18,00:04:44:02,7.33,176,9,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+44,C05-S009,graphic,DOC/ARTICLE,MG-040,00:04:44:02,00:04:50:13,6.46,155,9,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+45,C02-S009,photo,,C02-S005-A,00:04:50:13,00:04:57:16,7.12,171,9,"PHOTO PANEL — archive photograph, unmodified + accession block",M14 alternate underline reveal (map) + 4% push
+46,C01-S010,plate,,,00:04:57:16,00:05:04:19,7.12,171,10,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+47,C02-S010,plate,,,00:05:04:19,00:05:11:22,7.12,171,10,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+48,C03-S010,plate,,,00:05:11:22,00:05:18:14,6.67,160,10,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+49,C04-S010,plate,,,00:05:18:14,00:05:25:23,7.38,177,10,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+50,C05-S010,plate,,,00:05:25:23,00:05:33:02,7.12,171,10,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+51,C01-S011,graphic,DOC/ARTICLE,MG-006,00:05:33:02,00:05:39:02,6.00,144,11,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+52,C02-S011,graphic,DOC/ARTICLE,MG-014,00:05:39:02,00:05:45:07,6.21,149,11,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+53,C03-S011,graphic,DOC/ARTICLE,MG-025,00:05:45:07,00:05:52:10,7.12,171,11,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+54,C04-S011,graphic,DOC/ARTICLE,MG-033,00:05:52:10,00:05:59:18,7.33,176,11,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+55,C05-S011,graphic,DOC/ARTICLE,MG-041,00:05:59:18,00:06:06:21,7.12,171,11,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+56,C01-S012,plate,,,00:06:06:21,00:06:12:20,5.96,143,12,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+57,C02-S012,plate,,,00:06:12:20,00:06:19:01,6.21,149,12,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+58,C03-S012,plate,,,00:06:19:01,00:06:26:04,7.12,171,12,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+59,C04-S012,plate,,,00:06:26:04,00:06:33:13,7.38,177,12,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+60,C05-S012,plate,,,00:06:33:13,00:06:40:16,7.12,171,12,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+61,C01-S013,graphic,DOC/ARTICLE,MG-007,00:06:40:16,00:06:47:02,6.42,154,13,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+62,C02-S013,graphic,DOC/ARTICLE,MG-015,00:06:47:02,00:06:53:12,6.42,154,13,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+63,C03-S013,graphic,DATA VIZ,VX-002,00:06:53:12,00:07:00:10,6.92,166,13,"DIAGRAM — structural, no invented quantities","stagger build, 0.06 s stagger, 0.55 s each"
+64,C04-S013,graphic,DOC/ARTICLE,MG-034,00:07:00:10,00:07:07:08,6.92,166,13,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+65,C05-S013,graphic,DOC/ARTICLE,MG-042,00:07:07:08,00:07:14:11,7.12,171,13,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+66,C01-S014,plate,,,00:07:14:11,00:07:20:22,6.46,155,14,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+67,C02-S014,plate,,,00:07:20:22,00:07:27:09,6.46,155,14,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+68,C03-S014,plate,,,00:07:27:09,00:07:34:06,6.88,165,14,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+69,C04-S014,plate,,,00:07:34:06,00:07:41:03,6.88,165,14,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+70,C05-S014,plate,,,00:07:41:03,00:07:46:04,5.04,121,14,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+71,C01-S015,graphic,DATA VIZ,VX-001,00:07:46:04,00:07:52:20,6.67,160,15,"DIAGRAM — structural, no invented quantities","stagger build, 0.06 s stagger, 0.55 s each"
+72,C02-S015,graphic,DOC/ARTICLE,MG-016,00:07:52:20,00:08:00:04,7.33,176,15,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+73,C03-S015,graphic,DOC/ARTICLE,MG-026,00:08:00:04,00:08:07:07,7.12,171,15,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+74,C04-S015,graphic,DOC/ARTICLE,MG-035,00:08:07:07,00:08:14:15,7.33,176,15,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+75,C05-S015,graphic,DOC/ARTICLE,MG-043,00:08:14:15,00:08:19:17,5.08,122,15,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+76,C01-S016,plate,,,00:08:19:17,00:08:26:09,6.67,160,16,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+77,C02-S016,plate,,,00:08:26:09,00:08:33:18,7.38,177,16,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+78,C03-S016,plate,,,00:08:33:18,00:08:40:21,7.12,171,16,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+79,C04-S016,plate,,,00:08:40:21,00:08:48:06,7.38,177,16,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+80,C05-S016,plate,,,00:08:48:06,00:08:53:07,5.04,121,16,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+81,C01-S017,graphic,DOC/ARTICLE,MG-008,00:08:53:07,00:08:59:23,6.67,160,17,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+82,C02-S017,graphic,DOC/ARTICLE,MG-017,00:08:59:23,00:09:06:15,6.67,160,17,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+83,C03-S017,graphic,DOC/ARTICLE,MG-027,00:09:06:15,00:09:13:13,6.92,166,17,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+84,C04-S017,graphic,DOC/ARTICLE,MG-036,00:09:13:13,00:09:20:16,7.12,171,17,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+85,C05-S017,graphic,DOC/ARTICLE,MG-044,00:09:20:16,00:09:28:00,7.33,176,17,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+86,C01-S018,plate,,,00:09:28:00,00:09:34:16,6.67,160,18,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+87,C02-S018,plate,,,00:09:34:16,00:09:41:08,6.67,160,18,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+88,C03-S018,plate,,,00:09:41:08,00:09:48:05,6.88,165,18,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+89,C04-S018,plate,,,00:09:48:05,00:09:55:08,7.12,171,18,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+90,C05-S018,plate,,,00:09:55:08,00:10:02:17,7.38,177,18,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+91,C02-S019,graphic,DOC/ARTICLE,MG-018,00:10:02:17,00:10:09:15,6.92,166,19,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+92,C03-S019,graphic,DOC/ARTICLE,MG-028,00:10:09:15,00:10:16:13,6.92,166,19,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+93,C05-S019,graphic,DOC/ARTICLE,MG-045,00:10:16:13,00:10:22:18,6.21,149,19,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+94,C02-S020,plate,,,00:10:22:18,00:10:29:15,6.88,165,20,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+95,C03-S020,plate,,,00:10:29:15,00:10:36:12,6.88,165,20,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+96,C05-S020,plate,,,00:10:36:12,00:10:42:17,6.21,149,20,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)
+97,C02-S021,graphic,DOC/ARTICLE,MG-019,00:10:42:17,00:10:49:09,6.67,160,21,PANEL — CITE / FACT / LOGIC (per shot-map text),head rail wipe-in 0.4 s → body stagger 0.06 s → footer rule draw 0.5 s
+98,C02-S022,plate,,,00:10:49:09,00:10:56:01,6.67,160,22,PLATE — no graphic layer except the chapter rail, the rack disclosure bug and captions,none (picture already moving)

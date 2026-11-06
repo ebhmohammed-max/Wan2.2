@@ -463,3 +463,32 @@ Two engineering notes:
   used both as the side-chain key and as an `amix` input — produced a mix whose voice survived only the first ~20 s: the file
   measured a healthy −16 LUFS overall while five of six spot checks were music only. Caught by measuring the *delivered* audio
   in six windows across the film, not by the whole-file figure. The mix stage now reads the two rendered stems off disk.
+
+### Finishing instruction set for the HyperFrames agent (2026-11-06)
+
+The founder's next gate is the editorial surface — title cards, captions, motion graphics, transitions — executed in
+HyperFrames rather than hand-built here. Delivered as a build bible plus machine-readable support, in Drive
+`08 — Finishing (HyperFrames)` (`1VFmAX1U7nAh6s-avn3zOsGk-7KvEPX6i`):
+
+- `HYPERFRAMES_BUILD_BRIEF.md` (`1RqSXjLL8lhLca-NYFEoX5uSzJOnlbpQj`) — 13.7k words, 16 sections, 7 appendices; readable
+  copy as a Google Doc (`1XilR9CCUtKgjsSx9Y7VmVqTPWlkhuhdU_vioSpti0RA`).
+- `00_KICKOFF.txt` (`1wNKZpfx4Ugql6Rj9WOWLgx5_JUXpB6Aq`) — the opening message to paste to that agent.
+- `SCRIPT_VERBATIM.md` (`1j7gSsDGxw49rqA9wrkHBtV1rwxgBmg5O`) — the 48 segments, character for character.
+- `OVERLAY_TIMELINE.csv` (`1B_R8VJS4U1VaXSpWBmHRMXKnEOM6oBFK`) — all 98 slots with TC, type, MG/VX, rack, template.
+- `TRANSITION_MAP.csv` (`1rNVAoRC8DbYm2FyUAyn2E7ePwVeKxtFz`) — the 29 permitted transition events and nothing else.
+- `PANEL_MOTIFS.md` · `FACT_STRINGS.md` · `PRONUNCIATION_AND_SPELLING.md` · `COLOR_TYPE_TOKENS.css` ·
+  `CHAPTER_TIMING_estimate.csv` · `SEGMENT_TIMING_estimate.csv` · `READ_ME_FIRST.md`.
+
+Three findings drove the design of that instruction:
+
+- **The cut braids the five chapters.** The frozen shot map alternates five evidence panels (one per chapter) with five
+  living plates (one per chapter), 22 times, while the narration runs straight through the chapters — so a panel is
+  never heard with its own chapter's voice. Hence a persistent chapter rail, and panels that must read as closed
+  exhibits. Nothing is re-cut; the finding simply changed what the overlays must do.
+- **The 46 graphic slots are the map's panels, not spare frames.** 42 DOC/ARTICLE, 3 DATA VIZ, 1 MAP, plus 3 archive-
+  photo slots — their text comes from the handoff's `Graphic Specifications` sheet, which the brief requires verbatim
+  and forbids inventing around.
+- **The style bible's disclosure label had never been executed.** The brief specifies it as a quiet bug on the first
+  plate of each plate rack — 11 appearances in the film — instead of a strobe on 49 cuts.
+
+Supporting files live in the repo at `projects/atlas_understory/finishing/`.

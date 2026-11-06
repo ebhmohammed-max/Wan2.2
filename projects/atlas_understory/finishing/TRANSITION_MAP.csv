@@ -1,0 +1,30 @@
+event,recipe,at_frame,at_tc,length_frames,kind,rule,note
+rack boundary,--tr-wipe,748,00:00:31:04,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S002 (C01-S002)
+rack boundary,--tr-wipe,1493,00:01:02:05,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S003 (C01-S003)
+rack boundary,--tr-wipe,2274,00:01:34:18,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S004 (C01-S004)
+rack boundary,--tr-wipe,3095,00:02:08:23,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S005 (C01-S005)
+rack boundary,--tr-wipe,3917,00:02:43:05,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S006 (C01-S006)
+rack boundary,--tr-wipe,4728,00:03:17:00,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S007 (C01-S007)
+rack boundary,--tr-wipe,5523,00:03:50:03,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S008 (C01-S008)
+rack boundary,--tr-wipe,6311,00:04:22:23,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S009 (C01-S009)
+rack boundary,--tr-wipe,7144,00:04:57:16,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S010 (C01-S010)
+rack boundary,--tr-wipe,7994,00:05:33:02,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S011 (C01-S011)
+rack boundary,--tr-wipe,8805,00:06:06:21,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S012 (C01-S012)
+rack boundary,--tr-wipe,9616,00:06:40:16,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S013 (C01-S013)
+rack boundary,--tr-wipe,10427,00:07:14:11,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S014 (C01-S014)
+rack boundary,--tr-wipe,11188,00:07:46:04,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S015 (C01-S015)
+rack boundary,--tr-wipe,11993,00:08:19:17,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S016 (C01-S016)
+rack boundary,--tr-wipe,12799,00:08:53:07,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S017 (C01-S017)
+rack boundary,--tr-wipe,13632,00:09:28:00,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S018 (C01-S018)
+rack boundary,--tr-wipe,14465,00:10:02:17,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S019 (C02-S019)
+rack boundary,--tr-wipe,14946,00:10:22:18,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S020 (C02-S020)
+rack boundary,--tr-wipe,15425,00:10:42:17,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S021 (C02-S021)
+rack boundary,--tr-wipe,15585,00:10:49:09,10,"bone paper band L->R, 8% opacity, motion blur 0.35",every rack boundary · min 12 s spacing · drop if it lands on a caption's first 8 frames,into rack S022 (C02-S022)
+chapter II onset,--tr-leak + --tr-grain,2803,00:01:56:19,6,warm amber wash 18% peak + grain surge 3.2->9->3.2%,REFINE to the aligned VO onset of that chapter's first segment (±2 frames),estimated from word-count proportion; chapter II
+chapter III onset,--tr-leak + --tr-grain,6232,00:04:19:16,6,warm amber wash 18% peak + grain surge 3.2->9->3.2%,REFINE to the aligned VO onset of that chapter's first segment (±2 frames),estimated from word-count proportion; chapter III
+chapter IV onset,--tr-leak + --tr-grain,9402,00:06:31:18,6,warm amber wash 18% peak + grain surge 3.2->9->3.2%,REFINE to the aligned VO onset of that chapter's first segment (±2 frames),estimated from word-count proportion; chapter IV
+chapter V onset,--tr-leak + --tr-grain,12376,00:08:35:16,6,warm amber wash 18% peak + grain surge 3.2->9->3.2%,REFINE to the aligned VO onset of that chapter's first segment (±2 frames),estimated from word-count proportion; chapter V
+act break at chapter III,--tr-ink,6232,00:04:19:16,4,2-frame ink dip to 22% then 2-frame recovery,only two act breaks in the film (Ch. III and Ch. V),draw order: ink under leak
+act break at chapter V,--tr-ink,12376,00:08:35:16,4,2-frame ink dip to 22% then 2-frame recovery,only two act breaks in the film (Ch. III and Ch. V),draw order: ink under leak
+end card begins,--endcard-rise,15334,00:10:38:22,20,ink scrim 0->82% over 20 frames,voice ends 00:10:39:08; the 16.7 s tail is the credit block,"over the continuing plate, no cut to black"
+final fade of graphic layer,--out,15733,00:10:55:13,12,graphic layer opacity 1->0,the last frame is a plate alone,frame 15744 is the last delivered frame

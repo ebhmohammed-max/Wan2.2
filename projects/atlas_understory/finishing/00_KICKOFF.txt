@@ -1,0 +1,55 @@
+YOU ARE THE FINISHING AGENT ON A LOCKED DOCUMENTARY.
+
+Film: Atlas Understory, Episode 01 — "The Lighthouse Ring Found in Alexandria's Sunken Palace".
+Runtime 10:56:01 = 15,745 frames at 24 fps = 656.042 seconds. 1,427 spoken words, 48 VO segments, five chapters,
+98 shots. The picture is cut, the narration is recorded, the music is mixed and approved. Nothing about the edit is
+yours to change. Your job is the film's surface: titles, chapter system, 46 evidence panels, 3 structural diagrams,
+1 schematic locator map, 3 archive-photo panels, captions, disclosures, transitions, texture, and the end card.
+
+Read, in this order, from the Drive folder "08 — Finishing (HyperFrames)":
+  1. HYPERFRAMES_BUILD_BRIEF.md      — the full instruction. Read all of it before you open the project.
+  2. SCRIPT_VERBATIM.md              — the 48 segments, verbatim. This is the only wording you may caption.
+  3. OVERLAY_TIMELINE.csv            — all 98 slots: in/out timecode, duration, frames, type, MG/VX, rack, template.
+  4. PANEL_MOTIFS.md                 — the twelve argument motifs; how to decide what a panel is.
+  5. FACT_STRINGS.md                 — the only factual strings that may be set in type.
+  6. PRONUNCIATION_AND_SPELLING.md   — ASR repair locks for the captions.
+  7. TRANSITION_MAP.csv              — every permitted transition event and its frame.
+  8. COLOR_TYPE_TOKENS.css           — the locked design tokens.
+  9. CHAPTER_TIMING_estimate.csv, SEGMENT_TIMING_estimate.csv — planning only; replace with your alignment.
+
+The files you edit:
+  MASTER (picture + sound, untouched underneath): 01_v3 COMPLETE 10m56:01 — narration + music.mp4
+    Drive id 1DHxtoMn6HBBXwFHUNc9iW_wIVrs3e4OQ
+  Narration stem (for transcription and caption sync only): 1wSMI8sqQl7YEpQqtxIvNO_cOoZx4ICFy
+  Panel text authority: the "Graphic Specifications" sheet inside 10_Image_Budget_and_Shot_Map_v4_HANDOFF
+    Drive id 1wKuxtjWPIHIBzOc0O8Ph0Sw7RBhM_B4YO7UJ7rPgFZ4
+
+THE SIX THINGS THAT WILL GO WRONG IF YOU DO NOT READ THE BRIEF:
+  1. You will assume the chapters play in order. They do not. The picture braids all five chapters together, one
+     beat at a time; the narration runs straight through. Panels must be readable with any chapter's voice over them.
+  2. You will be tempted to draw the ring, the lighthouse engraving, the coin, the bulla, a palace plan, a findspot,
+     a face. Every one of those is a delivery failure. The graphic vocabulary is type, hairlines, brackets, arrows
+     and one public-domain locator map — nothing else.
+  3. You will paraphrase a caption. Captions are verbatim, character for character, including curly apostrophes.
+  4. You will re-time something to make it fit. Nothing is re-timed. Exits finish 8 frames before a cut.
+  5. You will "improve" the audio. The mix is approved at -16.0 LUFS; carry it and prove it with a null test.
+  6. You will forget the music credit. "Ambiment" by Kevin MacLeod is CC BY 4.0: author, work, licence link and the
+     "changed in length and format" note must appear on the end card, in every Drive description, and in the report.
+
+START WITH PHASES 0-2 ONLY, THEN REPORT:
+  Phase 0 — probe the master (must be 15,745 frames, 656.042 s, 24/1, 1920x1080, -16.0 LUFS, TP <= -1.8 dBFS);
+            record its SHA-256.
+  Phase 1 — the root composition: one muted video, one audio group, 22 rack subcompositions summing to 15,745 frames.
+  Phase 2 — the system: tokens, three @font-face'd faces, texture stack, grid, the persistent chapter rail.
+Then run hyperframes lint and report: frame count, duration, loudness, true peak, lint errors, and the 46 panel texts
+you found in the shot map (slot -> first 60 characters), plus anything missing.
+
+Do not render beyond test frames until I confirm Phase 2. When you do proceed, follow Phases 3-9 in order and stop at
+every gate. Every gate value goes in HF05_qa_report.md as a number, not an adjective. If a gate cannot be measured,
+write NOT MEASURED and say why.
+
+Deliver into Drive "08 — Finishing (HyperFrames)": HF01 ProRes 422 HQ master with the approved mix, HF02 ProRes 4444
+alpha overlay layer, HF00 540p review copy, HF03 captions .srt/.vtt, HF04 shot report, HF05 QA report, HF06 project zip.
+
+One more thing: if you find something in this brief that contradicts the delivered film, stop and tell me. The film is
+the truth; the brief is only my attempt to describe it.
