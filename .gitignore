@@ -20,3 +20,8 @@ image-search/
 
 # scratch downscales used for eyeballing plates
 projects/atlas_understory/refpreview/
+
+# Atlas Understory — audio renders and stems stay out of git (live in Drive "Audio (voiceover + music)")
+projects/atlas_understory/audio/*.wav
+projects/atlas_understory/audio/*.mp3
+projects/atlas_understory/audio/*.mp4
