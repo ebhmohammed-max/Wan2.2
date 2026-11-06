@@ -438,17 +438,17 @@ Pipeline scripts: `scripts/render_fills.py`, `scripts/assemble_full.py`. Local m
 
 ### Narration and music laid into the cut — v3 (2026-11-06)
 
-**Delivered:** `01_v3 COMPLETE 10m56:01 — narration + music.mp4` `1WO01KHN53AQVAUTp04g-v9GCNa_BeLhr` in the Video 01 root —
+**Delivered:** `01_v3 COMPLETE 10m56:01 — narration + music.mp4` `1DHxtoMn6HBBXwFHUNc9iW_wIVrs3e4OQ` in the Video 01 root —
 **15,745 frames = 00:10:56:01**, picture stream-copied from the v2 cut (no re-encode, nothing re-timed),
-audio AAC-LC 112 kb/s stereo 48 kHz, master −16 LUFS / −1.5 dBTP, 96.3 MB. Sheet: `06 — Narration and music sheet`
-(Google Doc `1dBVRbQiQfhsGLwJN_UXp3NfNU3rI53cR-xBlkQjutpU`). Narration-only stem (192 kb/s mp3, film length) in the
+audio AAC-LC stereo 48 kHz, master −16.0 LUFS / −1.9 dBFS true peak, 96.6 MB. Sheet: `06 — Narration and music sheet`
+(Google Doc `1Xx8kRV_jAJ6qY1s2du9HJTEsaJrNPjc-cEtq3q-dv8M`). Narration-only stem (192 kb/s mp3, film length) in the
 Audio folder: `1wSMI8sqQl7YEpQqtxIvNO_cOoZx4ICFy`.
 
 Narration: the approved script spoken verbatim — 1,427 words, 48 segments, 13 renders, **×1.000 tempo** (the read measured
 626.1 s, ≈137 wpm, so it already sat inside the film with 17 s to spare; nothing was sped up). 1.2 s lead-in, 1.0 s seams,
 voice 1.2 → 639.3 s of 656.04 s.
 
-Music: **"Ambiment" by Kevin MacLeod (incompetech.com), CC BY 4.0**, first 10:56 of the 22:52 source, level 0.16, 6 s in /
+Music: **"Ambiment" by Kevin MacLeod (incompetech.com), CC BY 4.0**, first 10:56 of the 22:52 source, level 0.45 (≈15 dB under the voice), 6 s in /
 10 s out, side-chain ducked by the voice. Credit line — with the licence link and the "changed in length and format" note that
 CC BY asks for — is in the Drive description, in Doc 06, and in `docs/NARRATION_AND_MUSIC.md`.
 
@@ -457,5 +457,9 @@ Two engineering notes:
   the final mix) and `-shortest` then cut the video to match: 15,674 frames, 2.9 s short. Fixed by padding/trimming the final
   mix to exactly `FILM` and dropping `-shortest`; frame-count check on the mux now part of the run.
 - **A loudnorm upstream of a mostly-silent file does not master a film.** Normalising the voice stream alone measured it against
-  a padded, gap-riddled file and landed the finished mix at −23.25 LUFS. Added a measured two-pass `loudnorm` on the finished
-  mix (linear, so no pumping; the 28.6 LU range is the film's own shape) → −16.8 LUFS integrated.
+  a padded, gap-riddled file and landed the finished single-file mix at −23 LUFS. The mix is now built from the two rendered
+  stems and gets its own measured two-pass `loudnorm` (linear, −1.5 dBTP ceiling, no pumping) → −16.0 LUFS integrated.
+- **A shared voice label silently ate the narration.** Building the mix from a fourth copy of the same filtergraph — with `[vo]`
+  used both as the side-chain key and as an `amix` input — produced a mix whose voice survived only the first ~20 s: the file
+  measured a healthy −16 LUFS overall while five of six spot checks were music only. Caught by measuring the *delivered* audio
+  in six windows across the film, not by the whole-file figure. The mix stage now reads the two rendered stems off disk.

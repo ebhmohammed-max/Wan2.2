@@ -6,7 +6,7 @@ sped by ONE uniform tempo factor so the read lands at the script's pace inside 1
 placed with 1.0 s seams, loudness-normalised to -16 LUFS.
 
 Music: 'Ambiment' by Kevin MacLeod (CC BY 4.0) - quiet ambient bed, trimmed to film length,
-faded in and out, sat well under the voice and side-chain ducked by the narration.
+faded in and out, mixed at 0.45 (roughly 14 dB under the voice) and side-chain ducked by the narration.
 
 Outputs:
   audio/narration_10m56.wav       voice only, film length
@@ -87,7 +87,7 @@ def main() -> None:
               + f"amix=inputs={n}:normalize=0:dropout_transition=0")
     vo_out = f"{vo_mix},loudnorm=I=-16:TP=-2:LRA=11[vo]"
     music_chain = (f"[{n}:a]atrim=0:{FILM},asetpts=N/SR/TB,aresample=48000,"
-                   f"aformat=channel_layouts=stereo,volume=0.16,"
+                   f"aformat=channel_layouts=stereo,volume=0.45,"
                    f"afade=t=in:st=0:d=6,afade=t=out:st={FILM - 10}:d=10[mus]")
     duck = ("[mus][vo]sidechaincompress=threshold=0.035:ratio=7:attack=15:"
             "release=520:makeup=1[musd]")
@@ -95,8 +95,11 @@ def main() -> None:
 
     graph_voice = ";".join(vo_chains + [vo_out])
     graph_music = ";".join(vo_chains + [vo_out, music_chain, duck, f"[musd]{tail}"])
-    graph_mix = ";".join(vo_chains + [vo_out, music_chain, duck,
-                                      f"[vo][musd]amix=inputs=2:normalize=0,alimiter=limit=0.95,{tail}"])
+    # NOTE: the mix is built from the two rendered stems, not from a fourth copy of the
+    # graph. Reusing [vo] as both the side-chain key and an amix input in the same graph
+    # silently produced a mix where the voice only survived the first ~20 s.
+    graph_mix = ("[0:a][1:a]amix=inputs=2:normalize=0:duration=longest,"
+                 f"alimiter=limit=0.95:level=0,{tail}")
 
     run([FF, "-y", "-loglevel", "error", *inputs, "-filter_complex", graph_voice,
          "-map", "[vo]", "-ar", "48000", "-ac", "2", "-c:a", "pcm_s16le",
@@ -104,7 +107,9 @@ def main() -> None:
     run([FF, "-y", "-loglevel", "error", *inputs, "-filter_complex", graph_music,
          "-map", "[aout]", "-ar", "48000", "-ac", "2", "-c:a", "pcm_s16le",
          str(AUD / "music_10m56_ducked.wav")], "music bed")
-    run([FF, "-y", "-loglevel", "error", *inputs, "-filter_complex", graph_mix,
+    run([FF, "-y", "-loglevel", "error",
+         "-i", str(AUD / "narration_10m56.wav"), "-i", str(AUD / "music_10m56_ducked.wav"),
+         "-filter_complex", graph_mix,
          "-map", "[aout]", "-ar", "48000", "-ac", "2", "-c:a", "pcm_s16le",
          str(AUD / "mix_10m56.wav")], "mix")
 

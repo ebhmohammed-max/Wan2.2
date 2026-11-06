@@ -3,9 +3,9 @@
 Sheet for the v3 deliverable: the 10:56:01 continuous plate cut with the full spoken script and a
 background music bed.
 
-- Video: `01_v3 COMPLETE 10m56:01 — narration + music.mp4` (Drive id `1WO01KHN53AQVAUTp04g-v9GCNa_BeLhr`)
+- Video: `01_v3 COMPLETE 10m56:01 — narration + music.mp4` (Drive id `1DHxtoMn6HBBXwFHUNc9iW_wIVrs3e4OQ`)
 - Picture: the v2 plate cut, stream-copied — **no picture re-encode, no change to shot order, durations or overlays**
-- Audio: AAC-LC 112 kb/s stereo 48 kHz, master **−16 LUFS** integrated, **−1.5 dBTP**
+- Audio: AAC-LC stereo 48 kHz, master **−16.0 LUFS** integrated, true peak **−1.9 dBFS**
 - Length: **15,745 frames = 00:10:56:01** at 24 fps; audio 00:10:56.04
 
 ## Narration
@@ -37,7 +37,7 @@ before the music resolves.
 | Licence | **Creative Commons Attribution 4.0 (CC BY 4.0)** — https://creativecommons.org/licenses/by/4.0/ |
 | Source | 22:52 mp3, from the project's `Audio (voiceover + music)` folder |
 | Used | 0:00 → 10:56 of the track (first cue), changed in length and format |
-| Level | 0.16 (≈ −16 dB under the voice) |
+| Level | 0.45 (≈ 15 dB under the voice) |
 | Fades | 6 s in, 10 s out |
 | Ducking | side-chain compressor keyed by the narration — threshold 0.035, ratio 7, attack 15 ms, release 520 ms |
 
@@ -53,24 +53,32 @@ it. All four are in the credit line above and in the Drive file description.
 
 | Measure | Value |
 |---|---|
-| Mix before mastering | −23.25 LUFS, true peak −6.77 dBFS, LRA 28.6 LU |
-| Master | −16.8 LUFS integrated (ebur128), −1.5 dBTP ceiling |
+| Mix (pre-master) | −16.0 LUFS, true peak −2.0 dBFS, LRA 3.5 LU |
+| Master | −16.0 LUFS integrated (ebur128), true peak −1.9 dBFS |
 | Video | 1920×1080, H.264 High ≈ 1057 kb/s, 24 fps CFR, `+faststart` |
-| Size | 96.3 MB |
+| Size | 96.6 MB |
 
-The wide loudness range is the film's own shape — long quiet openings, a dense middle — and was left
-alone deliberately: the master is a linear gain, not a compressor.
+The music bed runs continuously, which is why the loudness range is small: the film has no silent
+stretch for a listener to fall into. The master is a linear gain pass with a −1.5 dBTP ceiling, never a
+compressor — nothing about the read's dynamics was altered.
 
 ## How it was built
 
 `scripts/assemble_vo.py`, four stages, each printed as it completes:
 
 1. **voice bed** — every chunk `atempo` × 1.000 → `adelay` to its scripted slot → `apad` to film length → `amix` → `loudnorm I=-16 TP=-2`
-2. **music bed** — `atrim 0:656.042` → `volume 0.16` → fade in/out → `sidechaincompress` keyed by the voice
-3. **mix** — voice + ducked music → `alimiter 0.95` → `apad`/`atrim` to exactly 656.042 s
+2. **music bed** — `atrim 0:656.042` → `volume 0.45` → fade in/out → `sidechaincompress` keyed by the voice
+3. **mix** — the two rendered stems (`narration_10m56.wav` + `music_10m56_ducked.wav`) → `amix` → `alimiter 0.95` → `apad`/`atrim` to exactly 656.042 s
 4. **master + mux** — two-pass `loudnorm` on the finished mix → picture stream copied, audio encoded `apad`-ed to film length
 
 Timeline data (per-segment starts, durations, tempo, pace) is in `audio/vo_timeline.json`.
+
+The mix is deliberately built from the two rendered stems rather than a fourth copy of the same
+filtergraph: reusing the voice label both as the side-chain key and as an `amix` input silently
+produced a mix in which the voice survived only its first 20 seconds. Checked after every build by
+measuring the delivered audio in six windows across the film (0–20 s, 120–140 s, 300–320 s,
+500–520 s, 600–620 s, 645–656 s), not just at the whole-file level — an integrated figure alone
+would not have shown it.
 
 ## Two things to know
 
