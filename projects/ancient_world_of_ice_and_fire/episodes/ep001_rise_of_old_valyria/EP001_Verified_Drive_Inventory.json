@@ -6,18 +6,19 @@
   "batch_size": 10,
   "total_batches": 105,
   "completed_batches": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9
+    "Batch 001",
+    "Batch 002",
+    "Batch 003",
+    "Batch 004",
+    "Batch 005",
+    "Batch 006",
+    "Batch 007",
+    "Batch 008",
+    "Batch 009",
+    "Batch 010"
   ],
-  "next_batch": 10,
-  "next_image_number": 93,
+  "next_batch": 11,
+  "next_image_number": 106,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -506,7 +507,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "completed_images": 95,
+  "completed_images": 105,
   "batch_002_images_65mm": [
     {
       "number": 11,
@@ -1128,15 +1129,15 @@
     }
   ],
   "in_progress_batch": {
-    "batch": 10,
-    "drive_folder_id": "177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY",
+    "batch": "Batch 011",
+    "drive_folder_id": "1ioLrKgrwqw8c-E5ZyVq4hGhVLukoVL9O",
     "uploaded_count": 5,
     "queued_scene_ids": [
-      "VAL-EP001-IMG0093",
-      "VAL-EP001-IMG0094",
-      "VAL-EP001-IMG0098",
-      "VAL-EP001-IMG0099",
-      "VAL-EP001-IMG0100"
+      "VAL-EP001-IMG0106",
+      "VAL-EP001-IMG0107",
+      "VAL-EP001-IMG0108",
+      "VAL-EP001-IMG0109",
+      "VAL-EP001-IMG0110"
     ]
   },
   "batch_007_verified_images": [
@@ -1567,74 +1568,247 @@
   ],
   "batch_010_verified_images": [
     {
-      "image_number": 91,
       "scene_id": "VAL-EP001-IMG0091",
-      "batch": 10,
       "timestamp": "03:00–03:02",
-      "file_name": "VAL-EP001-IMG0091.png",
-      "drive_id": "1Uu-qp4K7LKIqcImWifecGs1a3Ktk_Oo2",
-      "drive_folder_id": "177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY",
-      "resolution": "1376x768",
-      "size_bytes": 2105996,
+      "shot_lens": "LAM · 28mm",
+      "narration_slice": "At the opposite edge",
+      "shot_type": "Outer Basalt Sea-Fangs & Perpetual Twilight Strait Entering the Shadow Lands (28mm)",
+      "visual_beat": "65mm low-angle coastal wide: jagged wet black basalt sea-fangs & creeping fog framing oil-black strait as ink-navy twilight clouds swallow bruised-amber horizon",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "1Uu-qp4K7LKIqcImWifecGs1a3Ktk_Oo2",
+      "drive_url": "https://drive.google.com/file/d/1Uu-qp4K7LKIqcImWifecGs1a3Ktk_Oo2/view?usp=drivesdk",
       "md5": "96a16e4e37ad1b6ecee32b7ee935300f",
-      "md5_verified": true,
-      "narration_slice": "At the opposite edge"
+      "size_bytes": 2105996,
+      "qc_status": "APPROVED_65MM_V1"
     },
     {
-      "image_number": 92,
       "scene_id": "VAL-EP001-IMG0092",
-      "batch": 10,
       "timestamp": "03:02–03:04",
-      "file_name": "VAL-EP001-IMG0092.png",
-      "drive_id": "1Kx9AAnCrDf4sS95U6s2ae6cKet7hJKjk",
-      "drive_folder_id": "177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY",
-      "resolution": "1376x768",
-      "size_bytes": 1874813,
+      "shot_lens": "OTS · 40mm",
+      "narration_slice": "of the known map, where",
+      "shot_type": "Bronze-Age Navigator Bow OTS Approaching Razor-Toothed Shadow Mountains (40mm)",
+      "visual_beat": "65mm ship-bow OTS: cloaked Bronze-Age navigator with brass lantern staring across dead oil-black water toward jagged Shadow Lands peaks in pallid slate-green fog",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "1Kx9AAnCrDf4sS95U6s2ae6cKet7hJKjk",
+      "drive_url": "https://drive.google.com/file/d/1Kx9AAnCrDf4sS95U6s2ae6cKet7hJKjk/view?usp=drivesdk",
       "md5": "f83c1d328f0ce8bbd857d0db747d3767",
-      "md5_verified": true,
-      "narration_slice": "of the known map, where"
+      "size_bytes": 1874813,
+      "qc_status": "APPROVED_65MM_V1"
     },
     {
-      "image_number": 95,
+      "scene_id": "VAL-EP001-IMG0093",
+      "timestamp": "03:04–03:06",
+      "shot_lens": "WS · 28mm",
+      "narration_slice": "the poison-black waters of",
+      "shot_type": "Poison-Black River Ash Wilderness Gorge & Pale Ghost-Grass Banks (28mm)",
+      "visual_beat": "65mm Shadow Lands gorge wide: sluggish poison-black River Ash winding between barren black shale & dead bone-pale ghost-grass stalks under toxic twilight mist",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "15KSeBHMqZWUOvXsRSJgoYDFZh13dDL4e",
+      "drive_url": "https://drive.google.com/file/d/15KSeBHMqZWUOvXsRSJgoYDFZh13dDL4e/view?usp=drivesdk",
+      "md5": "4c51e38aefb9d03b6cdcbdc07a8a5555",
+      "size_bytes": 2172846,
+      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0094",
+      "timestamp": "03:06–03:08",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "the River Ash crept",
+      "shot_type": "High-Elevation Shadow Lands Gorge-Mouth First Revealing Distant Asshai (24mm)",
+      "visual_beat": "65mm high cliffside ultra-wide: serpentine ink-black River Ash creeping out of towering Shadow Mountain chasm toward distant misty silhouette of Asshai's walls",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "1vek4FbF14KscDWU-qAOc2uLFTUU3dNRS",
+      "drive_url": "https://drive.google.com/file/d/1vek4FbF14KscDWU-qAOc2uLFTUU3dNRS/view?usp=drivesdk",
+      "md5": "42e33ef425a0398d76c9f8c7ca6953e1",
+      "size_bytes": 2067590,
+      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+    },
+    {
       "scene_id": "VAL-EP001-IMG0095",
-      "batch": 10,
       "timestamp": "03:08–03:10",
-      "file_name": "VAL-EP001-IMG0095.png",
-      "drive_id": "1auoiJXvW43AACTaWgh9WQN3Z35fwCQqg",
-      "drive_folder_id": "177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY",
-      "resolution": "1376x768",
-      "size_bytes": 1988425,
+      "shot_lens": "MCU · 50mm",
+      "narration_slice": "beneath perpetual twilight, stood",
+      "shot_type": "Central River Ash Canal & Greasy Black Stone Monoliths of Asshai (50mm Master Anchor)",
+      "visual_beat": "65mm canal-level reveal matching ANCHOR-IMG0095: lone hooded figure poling black skiff between stepped greasy black stone pylons & dim crimson lanterns under twilight",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "1auoiJXvW43AACTaWgh9WQN3Z35fwCQqg",
+      "drive_url": "https://drive.google.com/file/d/1auoiJXvW43AACTaWgh9WQN3Z35fwCQqg/view?usp=drivesdk",
       "md5": "39212f8c36087bb1fbccce2a815038b9",
-      "md5_verified": true,
-      "narration_slice": "beneath perpetual twilight, stood"
+      "size_bytes": 1988425,
+      "qc_status": "APPROVED_65MM_V1"
     },
     {
-      "image_number": 96,
       "scene_id": "VAL-EP001-IMG0096",
-      "batch": 10,
       "timestamp": "03:10–03:12",
-      "file_name": "VAL-EP001-IMG0096.png",
-      "drive_id": "14sO_nQgz8Z7VVh1NuFaTIhLkgSDWdF49",
-      "drive_folder_id": "177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY",
-      "resolution": "1376x768",
-      "size_bytes": 1930091,
+      "shot_lens": "MS · 35mm",
+      "narration_slice": "Asshai-by-the-Shadow. Even five millennia before",
+      "shot_type": "Stupendous Cyclopean Harbor Walls, Megalithic Water-Gate & Stepped Pyramids of Asshai (35mm)",
+      "visual_beat": "65mm harbor panorama: miles of battered greasy black stone sea-walls, megalithic canal gate & endless stepped pyramids dwarfing two dark-sailed Bronze-Age ships",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "14sO_nQgz8Z7VVh1NuFaTIhLkgSDWdF49",
+      "drive_url": "https://drive.google.com/file/d/14sO_nQgz8Z7VVh1NuFaTIhLkgSDWdF49/view?usp=drivesdk",
       "md5": "9dbb8e75b7b62f845c8597b38a8265e9",
-      "md5_verified": true,
-      "narration_slice": "Asshai-by-the-Shadow. Even five millennia before"
+      "size_bytes": 1930091,
+      "qc_status": "APPROVED_65MM_V1"
     },
     {
-      "image_number": 97,
       "scene_id": "VAL-EP001-IMG0097",
-      "batch": 10,
       "timestamp": "03:12–03:14",
-      "file_name": "VAL-EP001-IMG0097.png",
-      "drive_id": "1aRc2EJQsEOSL8Fx6Sql_l5Zw7TziBedX",
-      "drive_folder_id": "177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY",
-      "resolution": "1376x768",
-      "size_bytes": 1928613,
+      "shot_lens": "MCU · 65mm",
+      "narration_slice": "the Conquest, Asshai was",
+      "shot_type": "Towering Jointless Black Monoliths Dwarfing Two Masked Lantern-Bearers on Wet Quay (65mm)",
+      "visual_beat": "65mm vertical telephoto study: soaring unadorned greasy black stone monoliths above wet canal quay dwarfing two adult hooded masked figures with dim crimson lantern",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "1aRc2EJQsEOSL8Fx6Sql_l5Zw7TziBedX",
+      "drive_url": "https://drive.google.com/file/d/1aRc2EJQsEOSL8Fx6Sql_l5Zw7TziBedX/view?usp=drivesdk",
       "md5": "81c496933a3b0a98efba91b2c2ef9bab",
-      "md5_verified": true,
-      "narration_slice": "the Conquest, Asshai was"
+      "size_bytes": 1928613,
+      "qc_status": "APPROVED_65MM_V1"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0098",
+      "timestamp": "03:14–03:16",
+      "shot_lens": "MS · 50mm",
+      "narration_slice": "already incomprehensibly ancient—a vast,",
+      "shot_type": "Crimson-Masked Shadowbinder Crossing Seamless Pre-Human Black Plaza (50mm)",
+      "visual_beat": "65mm courtyard medium: solitary crimson-masked adult shadowbinder crossing rain-slicked plaza of seamless eroded greasy black stone monoliths",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "1106C3JKNT5SCHA_FlnNjWHwRa6hTmMrD",
+      "drive_url": "https://drive.google.com/file/d/1106C3JKNT5SCHA_FlnNjWHwRa6hTmMrD/view?usp=drivesdk",
+      "md5": "49051d2cfc4edb23f46f68b425d259d3",
+      "size_bytes": 2012036,
+      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0099",
+      "timestamp": "03:16–03:18",
+      "shot_lens": "WS · 35mm",
+      "narration_slice": "childless necropolis of greasy",
+      "shot_type": "Silent Tomb-Like Street Canyon of Empty Black Palaces Without Children (35mm)",
+      "visual_beat": "65mm street-canyon wide: vast deserted avenue of dark uninhabited greasy black stone palace portals with three distant isolated adult masked figures & zero children",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "1AISJCnzGIAj4SQNmNvM8QIIQBvN3nB_5",
+      "drive_url": "https://drive.google.com/file/d/1AISJCnzGIAj4SQNmNvM8QIIQBvN3nB_5/view?usp=drivesdk",
+      "md5": "de435eec8e35d67e41124ecdfae3b35c",
+      "size_bytes": 2159774,
+      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0100",
+      "timestamp": "03:18–03:20",
+      "shot_lens": "CU · 85mm",
+      "narration_slice": "black stone that seemed to",
+      "shot_type": "Tactile Close Study of Flame Held Against Light-Drinking Greasy Black Stone (85mm)",
+      "visual_beat": "65mm close texture study: gloved Asshai'i hand holding iron fire-cresset inches from waxy unadorned greasy black stone wall that swallows the light into darkness",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "1lcfRHCQGu1U3s2P8EhXGdcGv9UnVEOS-",
+      "drive_url": "https://drive.google.com/file/d/1lcfRHCQGu1U3s2P8EhXGdcGv9UnVEOS-/view?usp=drivesdk",
+      "md5": "94f7c0587e3084bd5cf84b3a097d30c5",
+      "size_bytes": 2115776,
+      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
     }
-  ]
+  ],
+  "batch_011_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0101",
+      "timestamp": "03:20–03:22",
+      "shot_lens": "LAM · 24mm",
+      "narration_slice": "drink the light of",
+      "shot_type": "Towering Vertical Scale Composition — Asshai Black Stone",
+      "visual_beat": "Towering vertical scale composition — Asshai-by-the-Shadow & greasy light-drinking black stone",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "1bWPSRuPGAaQWWNqxYArT4EPMcrHBAniw",
+      "drive_url": "https://drive.google.com/file/d/1bWPSRuPGAaQWWNqxYArT4EPMcrHBAniw/view?usp=drivesdk",
+      "md5": "0d1f17e4ab6e31e3612f388c41b50364",
+      "size_bytes": 1775203,
+      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0102",
+      "timestamp": "03:22–03:24",
+      "shot_lens": "DET · 85mm",
+      "narration_slice": "torches, its original builders",
+      "shot_type": "Macro Material Texture Insert — Asshai Black Stone",
+      "visual_beat": "Macro environmental / material texture insert — Asshai-by-the-Shadow & greasy light-drinking black stone",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "1YE-fPphI0P65xJR7W3t4izTwpFP4CCAE",
+      "drive_url": "https://drive.google.com/file/d/1YE-fPphI0P65xJR7W3t4izTwpFP4CCAE/view?usp=drivesdk",
+      "md5": "6c241cefd49872b37e0c208903ea5019",
+      "size_bytes": 2221676,
+      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0103",
+      "timestamp": "03:24–03:26",
+      "shot_lens": "CU · 85mm",
+      "narration_slice": "forgotten even by the",
+      "shot_type": "Intimate Close-Up Mask Detail — Asshai Shadowbinder",
+      "visual_beat": "Intimate close-up detail / expression beat — Asshai-by-the-Shadow & greasy light-drinking black stone",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "1ZYkOKN5X87eSBIxFYSMszIExGzezX7zz",
+      "drive_url": "https://drive.google.com/file/d/1ZYkOKN5X87eSBIxFYSMszIExGzezX7zz/view?usp=drivesdk",
+      "md5": "79e1dd252aa0591f4b7249acff3f8d0f",
+      "size_bytes": 1683408,
+      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0104",
+      "timestamp": "03:26–03:28",
+      "shot_lens": "DET · 100mm",
+      "narration_slice": "masked shadowbinders and aeromancers who",
+      "shot_type": "Extreme Close-Up Tactile Light Study — Asshai Black Stone",
+      "visual_beat": "Extreme close-up tactile / light study — Asshai-by-the-Shadow & greasy light-drinking black stone",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "1KnGJlJfGGZKJ5UVO5Y79dI_bgrX7gdl2",
+      "drive_url": "https://drive.google.com/file/d/1KnGJlJfGGZKJ5UVO5Y79dI_bgrX7gdl2/view?usp=drivesdk",
+      "md5": "90c74cae3adfc8dfd679a1b3c19abcd2",
+      "size_bytes": 2021477,
+      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0105",
+      "timestamp": "03:28–03:30",
+      "shot_lens": "WS · 40mm",
+      "narration_slice": "walked its silent quays.",
+      "shot_type": "Transitional Wide Horizon / Bridge Framing — Asshai Quays",
+      "visual_beat": "Transitional wide horizon / bridge framing — Asshai-by-the-Shadow & greasy light-drinking black stone",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "1Tu1OgibAyr9W5h-fkGb33XZfM4ND40eJ",
+      "drive_url": "https://drive.google.com/file/d/1Tu1OgibAyr9W5h-fkGb33XZfM4ND40eJ/view?usp=drivesdk",
+      "md5": "b1268b9f04a76eb22bb8df945fa43a03",
+      "size_bytes": 2044754,
+      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+    }
+  ],
+  "last_updated": "2026-11-09T15:00:00Z"
 }

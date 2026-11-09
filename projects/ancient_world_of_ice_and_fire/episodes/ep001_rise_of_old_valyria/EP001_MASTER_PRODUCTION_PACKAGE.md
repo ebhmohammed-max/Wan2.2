@@ -6,7 +6,7 @@
 - **Visual Cadence:** **`30 images per minute`** (`1 image every 2.0 seconds` · **`1,050 total images`** across **`105 batches of 10`**)
 - **Locked Cinematic Visual Standard:** **65mm Live-Action / Physically Realistic 3D Historical Cinema** (*ARRI Alexa 65 · Panavision Primo Spherical Primes · Kodak Vision3 500T Grade: Warm Sandstone Highlights, Muted Archaeological Midtones, Deep Ink-Navy Shadows — calibrated to `The_Trojan_War_The_Legend_the_City_and_the_Evidence`*)
 - **Google Drive Master Archive:** `Game of thrones YT` (`1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo`)
-- **Current Gate Status:** **Batches 001–009 Complete (`90/90`) + Batch 010 (`5/10`) = `95 / 1,050` Verified 65mm Images QC-Approved & Uploaded to Google Drive (`00:00–03:14`) — Ready for Batch 010 Completion (`IMG0093–0094`, `IMG0098–0100`) + Batch 011 (`03:20–03:40`)**
+- **Current Gate Status:** **Batches 001–010 complete (`100/100`); Batch 011 `5/10` uploaded & MD5-verified (`IMG0101–0105`; programmatic QC passed, visual review pending) = `105 / 1,050` Drive-verified images (`10.0%`) — `IMG0106–0110` (Old Ghis) queued for next turn.**
 
 ---
 
@@ -3020,7 +3020,7 @@ This video is an independent, unofficial fan-created historical lore commentary 
 **Episode Number:** Episode 001 (`VAL-EP001`) — *Before the Dragons: The Rise of Old Valyria*  
 **Batch Number:** **Batch 010 of 105** (Covers `03:00–03:20` · **30 Images / Minute = 2.0 Seconds per Image**)  
 **Visual Standard:** **Locked 65mm Live-Action / Physically Realistic 3D Historical Cinema** (*Warm Sandstone Highlights · Muted Archaeological Midtones · Deep Ink-Navy Shadows · ARRI Alexa 65 + Panavision Primo Primes · Kodak Vision3 500T Grade*)  
-**Render & QC Status:** **5 / 10 IMAGES QC-APPROVED & UPLOADED (`IMG0091`, `IMG0092`, `IMG0095`, `IMG0096`, `IMG0097`); `IMG0093`, `IMG0094` (Standalone Shadow Lands Wilderness Gorge Renders) & `IMG0098–0100` QUEUED FIRST NEXT TURN**
+**Render & QC Status:** **10 / 10 UPLOADED & MD5-VERIFIED. Newly rendered `IMG0093`, `IMG0094`, `IMG0098`, `IMG0099`, `IMG0100` passed programmatic QC; visual review pending.**
 
 ---
 
@@ -3089,7 +3089,7 @@ This video is an independent, unofficial fan-created historical lore commentary 
 - **15. Visual Style:** Adult cinematic physically realistic 3D historical reconstruction and live-action 65mm location photography, Kodak Vision3 500T film grade, fine organic film grain.
 - **16. Aspect Ratio:** `16:9` (`1376x768`)
 - **17. Negative Prompt:** City buildings, boats, green plants, birds, fish, letterboxing, black bars, text, subtitles, watermarks.
-- **Refs & Continuity Check:** **QUEUED FIRST NEXT TURN** (v1 held back in Phase-D QC because passing `ANCHOR-IMG0095` as image-edit input duplicated `IMG0095`'s boatman and city skyline prematurely; standalone wilderness text-to-image prompt locked for Turn 13).
+- **Refs & Continuity Check:** **RENDERED & UPLOADED** (MD5/dimensions/sRGB verified; visual review pending).
 
 ---
 
@@ -3112,7 +3112,7 @@ This video is an independent, unofficial fan-created historical lore commentary 
 - **15. Visual Style:** Adult cinematic physically realistic 3D historical reconstruction and live-action 65mm location photography, Kodak Vision3 500T film grade, fine organic film grain.
 - **16. Aspect Ratio:** `16:9` (`1376x768`)
 - **17. Negative Prompt:** Foreground boatman, bright city lights, green trees, letterboxing, black bars, text, subtitles, watermarks.
-- **Refs & Continuity Check:** **QUEUED FIRST NEXT TURN** (v1 held back in Phase-D QC because image-edit lock produced a near-duplicate of `IMG0095`; high-elevation gorge-mouth standalone prompt locked for Turn 13).
+- **Refs & Continuity Check:** **RENDERED & UPLOADED** (MD5/dimensions/sRGB verified; visual review pending).
 
 ---
 

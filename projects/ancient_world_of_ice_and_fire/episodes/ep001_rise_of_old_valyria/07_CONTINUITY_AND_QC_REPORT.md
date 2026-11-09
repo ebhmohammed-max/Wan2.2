@@ -155,20 +155,20 @@
 | `VAL-EP001-IMG0089` | `02:56–02:58` | `assets/batch_009/VAL-EP001-IMG0089.png` | Tactile 100mm macro: Rhoynar smith hammering incandescent sparks from spongy wrought-iron bloom on stone anvil with turning waterwheel in soft bokeh. | **PASSED (65mm v1)** |
 | `VAL-EP001-IMG0090` | `02:58–03:00` | `assets/batch_009/VAL-EP001-IMG0090.png` | Exact 65mm live-action payoff of ANCHOR-IMG0082: two Rhoynar smiths tending roaring conical clay-and-stone bloomery iron furnace above golden Mother Rhoyne. | **PASSED (65mm v1)** |
 
-### J. Batch 010 (`03:00–03:20` · `VAL-EP001-IMG0091` – `IMG0100` · **5/10 QC-Approved & Uploaded; `IMG0093`, `IMG0094` & `IMG0098–0100` Queued Next Turn**)
+### J. Batch 010 (`03:00–03:20` · `VAL-EP001-IMG0091` – `IMG0100` · **10/10 Uploaded & MD5-Verified; visual review pending for five newly rendered frames**)
 
 | Scene ID | Timestamp | File Path | 65mm Cinematic Continuity & Phase D Inspection Result | Status |
 | :--- | :--- | :--- | :--- | :--- |
 | `VAL-EP001-IMG0091` | `03:00–03:02` | `assets/batch_010/VAL-EP001-IMG0091.png` | Dramatic coastal pivot to outer Shadow Lands strait: wet black basalt sea-fangs, creeping mist & ink-navy twilight clouds swallowing bruised-amber horizon; full-bleed `1376x768`. | **PASSED (65mm v1)** |
 | `VAL-EP001-IMG0092` | `03:02–03:04` | `assets/batch_010/VAL-EP001-IMG0092.png` | Atmospheric 40mm ship-bow OTS: cloaked Bronze-Age navigator with warm brass lantern facing razor-toothed Shadow Mountains across oil-black water; zero hull text. | **PASSED (65mm v1)** |
-| `VAL-EP001-IMG0093` | `03:04–03:06` | *(Queued next turn)* | HELD_BACK_FOR_CLEAN_V2 (Phase-D editorial QC caught image-edit lock on ANCHOR-IMG0095 duplicating IMG0095's boatman/city skyline prematurely; standalone wilderness gorge prompt locked for Turn 13). | **QUEUED (Editorial QC)** |
-| `VAL-EP001-IMG0094` | `03:06–03:08` | *(Queued next turn)* | HELD_BACK_FOR_CLEAN_V2 (Phase-D editorial QC caught near-duplicate framing with IMG0095; standalone high-elevation canyon-mouth reveal locked for Turn 13). | **QUEUED (Editorial QC)** |
+| `VAL-EP001-IMG0093` | `03:04–03:06` | `assets/batch_010/VAL-EP001-IMG0093.png` | River Ash wilderness gorge: poison-black water between barren black shale and bone-pale ghost-grass beneath toxic twilight mist. | **PROGRAMMATIC QC PASSED; visual review pending** |
+| `VAL-EP001-IMG0094` | `03:06–03:08` | `assets/batch_010/VAL-EP001-IMG0094.png` | High-elevation River Ash canyon reveal; black shale escarpments and pale ghost-grass banks under green-grey twilight haze. | **PROGRAMMATIC QC PASSED; visual review pending** |
 | `VAL-EP001-IMG0095` | `03:08–03:10` | `assets/batch_010/VAL-EP001-IMG0095.png` | Direct 65mm Kodak 500T realization of ANCHOR-IMG0095: hooded skiff-poler on mirror-black River Ash between stepped greasy black stone pylons & dim crimson lanterns. | **PASSED (65mm v1)** |
 | `VAL-EP001-IMG0096` | `03:10–03:12` | `assets/batch_010/VAL-EP001-IMG0096.png` | Monumental harbor panorama of Asshai: miles of cyclopean black sea-walls, megalithic canal gate & endless stepped pyramids dwarfing two dark-sailed Bronze-Age ships. | **PASSED (65mm v1)** |
 | `VAL-EP001-IMG0097` | `03:12–03:14` | `assets/batch_010/VAL-EP001-IMG0097.png` | Towering unadorned greasy black stone monoliths above wet quay; zoom-verified two adult hooded/masked lantern-bearers (strictly zero children, zero carvings). | **PASSED (65mm v1)** |
-| `VAL-EP001-IMG0098` | `03:14–03:16` | *(Queued next turn)* | QUEUED_NEXT_TURN_QUOTA (10-image per-turn generation limit reached after completing Batch 009 10/10 + Batch 010 renders). | **QUEUED (Turn Cap)** |
-| `VAL-EP001-IMG0099` | `03:16–03:18` | *(Queued next turn)* | QUEUED_NEXT_TURN_QUOTA (10-image per-turn generation limit reached; childless palace street-canyon prompt locked). | **QUEUED (Turn Cap)** |
-| `VAL-EP001-IMG0100` | `03:18–03:20` | *(Queued next turn)* | QUEUED_NEXT_TURN_QUOTA (10-image per-turn generation limit reached; tactile flame-against-light-drinking-stone bridge prompt locked). | **QUEUED (Turn Cap)** |
+| `VAL-EP001-IMG0098` | `03:14–03:16` | `assets/batch_010/VAL-EP001-IMG0098.png` | Veiled adult shadowbinder crossing a vast rain-slick black-stone courtyard between eroded monoliths in Asshai. | **PROGRAMMATIC QC PASSED; visual review pending** |
+| `VAL-EP001-IMG0099` | `03:16–03:18` | `assets/batch_010/VAL-EP001-IMG0099.png` | Empty black-stone street-canyon of Asshai with distant adult masked figures in pallid twilight fog. | **PROGRAMMATIC QC PASSED; visual review pending** |
+| `VAL-EP001-IMG0100` | `03:18–03:20` | `assets/batch_010/VAL-EP001-IMG0100.png` | Cresset flame inches from greasy black stone; the light is absorbed rather than reflected. | **PROGRAMMATIC QC PASSED; visual review pending** |
 
 ### K. Pre-Approved Character Identity Reference Plates & Chapter I Master Environment Anchors
 
@@ -183,3 +183,17 @@
 | `ANCHOR-IMG0082` | `assets/chapter_01_anchor_plates/VAL-EP001-IMG0082_mother_rhoyne_iron.png` | Master Anchor for Batch 009 (`02:42–02:44` · Mother Rhoyne Iron Bloomery) | **PASSED** |
 | `ANCHOR-IMG0095` | `assets/chapter_01_anchor_plates/VAL-EP001-IMG0095_asshai_shadow.png` | Master Anchor for Batch 010 (`03:08–03:10` · Asshai Greasy Black Stone) | **PASSED** |
 | `ANCHOR-IMG0110` | `assets/chapter_01_anchor_plates/VAL-EP001-IMG0110_old_ghis_harpy.png` | Master Anchor for Batch 011 (`03:38–03:40` · Old Ghis Armless Winged Harpy + Thunderbolt) | **PASSED (v2)** |
+
+
+## Turn 13 Continuation Addendum — Batch 010 Completion & Batch 011 Partial Sync (2026-11-09)
+
+- **Drive verification:** Batch 010 (`IMG0091–0100`) is 10/10 in folder `177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY`; Batch 011 (`IMG0101–0105`) is 5/10 in folder `1ioLrKgrwqw8c-E5ZyVq4hGhVLukoVL9O`. All ten newly synced files were matched against the local PNG MD5 and measured `1376×768`, sRGB.
+- **QC limitation:** Visual review was unavailable for these ten frames during this turn. The status is therefore **programmatic file/integrity QC passed; visual inspection pending**, not a claim of visual approval. No content-level visual criteria were asserted as verified.
+- **Continuity:** `IMG0101–0105` stay in `LOC-ESS-003` (Asshai), preserving the matte greasy light-drinking black-stone environment; `IMG0106–0110` remain queued for Old Ghis and the `ANCHOR-IMG0110` Harpy reference.
+- **Progress:** 105/1,050 Drive-verified images (10.0%). Batches 001–010 are complete; Batch 011 is 5/10 uploaded.
+
+| Scene IDs | Timestamp span | Result | Verification |
+| :--- | :--- | :--- | :--- |
+| `IMG0093–0094`, `IMG0098–0100` | `03:04–03:06`, `03:06–03:08`, `03:14–03:20` | Batch 010 completion; uploaded | MD5 match; 1376×768; sRGB; visual review pending |
+| `IMG0101–0105` | `03:20–03:30` | Batch 011 first half; uploaded | MD5 match; 1376×768; sRGB; visual review pending |
+| `IMG0106–0110` | `03:30–03:40` | Queued, not rendered/uploaded | Next batch continuation; use Old Ghis anchor `ANCHOR-IMG0110` |

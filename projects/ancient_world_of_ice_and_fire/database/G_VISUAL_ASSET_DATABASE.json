@@ -720,40 +720,203 @@
           "scene_id": "VAL-EP001-IMG0091",
           "file_name": "VAL-EP001-IMG0091.png",
           "resolution": "1376x768",
-          "size_bytes": 2105996,
-          "md5": "96a16e4e37ad1b6ecee32b7ee935300f"
+          "drive_file_id": "1Uu-qp4K7LKIqcImWifecGs1a3Ktk_Oo2",
+          "md5": "96a16e4e37ad1b6ecee32b7ee935300f",
+          "qc_status": "APPROVED_65MM_V1",
+          "timestamp": "03:00–03:02",
+          "shot_lens": "LAM · 28mm",
+          "location_refs": [
+            "LOC-ESS-003"
+          ]
         },
         {
           "scene_id": "VAL-EP001-IMG0092",
           "file_name": "VAL-EP001-IMG0092.png",
           "resolution": "1376x768",
-          "size_bytes": 1874813,
-          "md5": "f83c1d328f0ce8bbd857d0db747d3767"
+          "drive_file_id": "1Kx9AAnCrDf4sS95U6s2ae6cKet7hJKjk",
+          "md5": "f83c1d328f0ce8bbd857d0db747d3767",
+          "qc_status": "APPROVED_65MM_V1",
+          "timestamp": "03:02–03:04",
+          "shot_lens": "OTS · 40mm",
+          "location_refs": [
+            "LOC-ESS-003"
+          ]
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0093",
+          "file_name": "VAL-EP001-IMG0093.png",
+          "resolution": "1376x768",
+          "drive_file_id": "15KSeBHMqZWUOvXsRSJgoYDFZh13dDL4e",
+          "md5": "4c51e38aefb9d03b6cdcbdc07a8a5555",
+          "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+          "timestamp": "03:04–03:06",
+          "shot_lens": "WS · 28mm",
+          "location_refs": [
+            "LOC-ESS-003"
+          ]
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0094",
+          "file_name": "VAL-EP001-IMG0094.png",
+          "resolution": "1376x768",
+          "drive_file_id": "1vek4FbF14KscDWU-qAOc2uLFTUU3dNRS",
+          "md5": "42e33ef425a0398d76c9f8c7ca6953e1",
+          "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+          "timestamp": "03:06–03:08",
+          "shot_lens": "UWA · 24mm",
+          "location_refs": [
+            "LOC-ESS-003"
+          ]
         },
         {
           "scene_id": "VAL-EP001-IMG0095",
           "file_name": "VAL-EP001-IMG0095.png",
           "resolution": "1376x768",
-          "size_bytes": 1988425,
-          "md5": "39212f8c36087bb1fbccce2a815038b9"
+          "drive_file_id": "1auoiJXvW43AACTaWgh9WQN3Z35fwCQqg",
+          "md5": "39212f8c36087bb1fbccce2a815038b9",
+          "qc_status": "APPROVED_65MM_V1",
+          "timestamp": "03:08–03:10",
+          "shot_lens": "MCU · 50mm",
+          "location_refs": [
+            "LOC-ESS-003"
+          ]
         },
         {
           "scene_id": "VAL-EP001-IMG0096",
           "file_name": "VAL-EP001-IMG0096.png",
           "resolution": "1376x768",
-          "size_bytes": 1930091,
-          "md5": "9dbb8e75b7b62f845c8597b38a8265e9"
+          "drive_file_id": "14sO_nQgz8Z7VVh1NuFaTIhLkgSDWdF49",
+          "md5": "9dbb8e75b7b62f845c8597b38a8265e9",
+          "qc_status": "APPROVED_65MM_V1",
+          "timestamp": "03:10–03:12",
+          "shot_lens": "MS · 35mm",
+          "location_refs": [
+            "LOC-ESS-003"
+          ]
         },
         {
           "scene_id": "VAL-EP001-IMG0097",
           "file_name": "VAL-EP001-IMG0097.png",
           "resolution": "1376x768",
-          "size_bytes": 1928613,
-          "md5": "81c496933a3b0a98efba91b2c2ef9bab"
+          "drive_file_id": "1aRc2EJQsEOSL8Fx6Sql_l5Zw7TziBedX",
+          "md5": "81c496933a3b0a98efba91b2c2ef9bab",
+          "qc_status": "APPROVED_65MM_V1",
+          "timestamp": "03:12–03:14",
+          "shot_lens": "MCU · 65mm",
+          "location_refs": [
+            "LOC-ESS-003"
+          ]
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0098",
+          "file_name": "VAL-EP001-IMG0098.png",
+          "resolution": "1376x768",
+          "drive_file_id": "1106C3JKNT5SCHA_FlnNjWHwRa6hTmMrD",
+          "md5": "49051d2cfc4edb23f46f68b425d259d3",
+          "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+          "timestamp": "03:14–03:16",
+          "shot_lens": "MS · 50mm",
+          "location_refs": [
+            "LOC-ESS-003"
+          ]
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0099",
+          "file_name": "VAL-EP001-IMG0099.png",
+          "resolution": "1376x768",
+          "drive_file_id": "1AISJCnzGIAj4SQNmNvM8QIIQBvN3nB_5",
+          "md5": "de435eec8e35d67e41124ecdfae3b35c",
+          "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+          "timestamp": "03:16–03:18",
+          "shot_lens": "WS · 35mm",
+          "location_refs": [
+            "LOC-ESS-003"
+          ]
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0100",
+          "file_name": "VAL-EP001-IMG0100.png",
+          "resolution": "1376x768",
+          "drive_file_id": "1lcfRHCQGu1U3s2P8EhXGdcGv9UnVEOS-",
+          "md5": "94f7c0587e3084bd5cf84b3a097d30c5",
+          "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+          "timestamp": "03:18–03:20",
+          "shot_lens": "CU · 85mm",
+          "location_refs": [
+            "LOC-ESS-003"
+          ]
+        }
+      ],
+      "batch_011_03m20s_to_03m40s_65mm": [
+        {
+          "scene_id": "VAL-EP001-IMG0101",
+          "file_name": "VAL-EP001-IMG0101.png",
+          "resolution": "1376x768",
+          "drive_file_id": "1bWPSRuPGAaQWWNqxYArT4EPMcrHBAniw",
+          "md5": "0d1f17e4ab6e31e3612f388c41b50364",
+          "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+          "timestamp": "03:20–03:22",
+          "shot_lens": "LAM · 24mm",
+          "location_refs": [
+            "LOC-ESS-003"
+          ]
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0102",
+          "file_name": "VAL-EP001-IMG0102.png",
+          "resolution": "1376x768",
+          "drive_file_id": "1YE-fPphI0P65xJR7W3t4izTwpFP4CCAE",
+          "md5": "6c241cefd49872b37e0c208903ea5019",
+          "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+          "timestamp": "03:22–03:24",
+          "shot_lens": "DET · 85mm",
+          "location_refs": [
+            "LOC-ESS-003"
+          ]
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0103",
+          "file_name": "VAL-EP001-IMG0103.png",
+          "resolution": "1376x768",
+          "drive_file_id": "1ZYkOKN5X87eSBIxFYSMszIExGzezX7zz",
+          "md5": "79e1dd252aa0591f4b7249acff3f8d0f",
+          "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+          "timestamp": "03:24–03:26",
+          "shot_lens": "CU · 85mm",
+          "location_refs": [
+            "LOC-ESS-003"
+          ]
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0104",
+          "file_name": "VAL-EP001-IMG0104.png",
+          "resolution": "1376x768",
+          "drive_file_id": "1KnGJlJfGGZKJ5UVO5Y79dI_bgrX7gdl2",
+          "md5": "90c74cae3adfc8dfd679a1b3c19abcd2",
+          "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+          "timestamp": "03:26–03:28",
+          "shot_lens": "DET · 100mm",
+          "location_refs": [
+            "LOC-ESS-003"
+          ]
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0105",
+          "file_name": "VAL-EP001-IMG0105.png",
+          "resolution": "1376x768",
+          "drive_file_id": "1Tu1OgibAyr9W5h-fkGb33XZfM4ND40eJ",
+          "md5": "b1268b9f04a76eb22bb8df945fa43a03",
+          "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+          "timestamp": "03:28–03:30",
+          "shot_lens": "WS · 40mm",
+          "location_refs": [
+            "LOC-ESS-003"
+          ]
         }
       ]
     }
   },
   "style_reference_folder_id": "10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6",
-  "project_drive_archive_folder_id": "1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo"
+  "project_drive_archive_folder_id": "1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo",
+  "last_updated": "2026-11-09T15:00:00Z"
 }

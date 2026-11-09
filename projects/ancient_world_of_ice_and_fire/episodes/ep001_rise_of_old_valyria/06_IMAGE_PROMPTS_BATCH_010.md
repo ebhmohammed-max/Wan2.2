@@ -3,7 +3,7 @@
 **Episode Number:** Episode 001 (`VAL-EP001`) — *Before the Dragons: The Rise of Old Valyria*  
 **Batch Number:** **Batch 010 of 105** (Covers `03:00–03:20` · **30 Images / Minute = 2.0 Seconds per Image**)  
 **Visual Standard:** **Locked 65mm Live-Action / Physically Realistic 3D Historical Cinema** (*Warm Sandstone Highlights · Muted Archaeological Midtones · Deep Ink-Navy Shadows · ARRI Alexa 65 + Panavision Primo Primes · Kodak Vision3 500T Grade*)  
-**Render & QC Status:** **5 / 10 IMAGES QC-APPROVED & UPLOADED (`IMG0091`, `IMG0092`, `IMG0095`, `IMG0096`, `IMG0097`); `IMG0093`, `IMG0094` (Standalone Shadow Lands Wilderness Gorge Renders) & `IMG0098–0100` QUEUED FIRST NEXT TURN**
+**Render & QC Status:** **10 / 10 UPLOADED & MD5-VERIFIED. Newly rendered `IMG0093`, `IMG0094`, `IMG0098`, `IMG0099`, `IMG0100` passed programmatic QC; visual review pending.**
 
 ---
 
@@ -72,7 +72,7 @@
 - **15. Visual Style:** Adult cinematic physically realistic 3D historical reconstruction and live-action 65mm location photography, Kodak Vision3 500T film grade, fine organic film grain.
 - **16. Aspect Ratio:** `16:9` (`1376x768`)
 - **17. Negative Prompt:** City buildings, boats, green plants, birds, fish, letterboxing, black bars, text, subtitles, watermarks.
-- **Refs & Continuity Check:** **QUEUED FIRST NEXT TURN** (v1 held back in Phase-D QC because passing `ANCHOR-IMG0095` as image-edit input duplicated `IMG0095`'s boatman and city skyline prematurely; standalone wilderness text-to-image prompt locked for Turn 13).
+- **Refs & Continuity Check:** **RENDERED & UPLOADED** (MD5/dimensions/sRGB verified; visual review pending).
 
 ---
 
@@ -95,7 +95,7 @@
 - **15. Visual Style:** Adult cinematic physically realistic 3D historical reconstruction and live-action 65mm location photography, Kodak Vision3 500T film grade, fine organic film grain.
 - **16. Aspect Ratio:** `16:9` (`1376x768`)
 - **17. Negative Prompt:** Foreground boatman, bright city lights, green trees, letterboxing, black bars, text, subtitles, watermarks.
-- **Refs & Continuity Check:** **QUEUED FIRST NEXT TURN** (v1 held back in Phase-D QC because image-edit lock produced a near-duplicate of `IMG0095`; high-elevation gorge-mouth standalone prompt locked for Turn 13).
+- **Refs & Continuity Check:** **RENDERED & UPLOADED** (MD5/dimensions/sRGB verified; visual review pending).
 
 ---
 
