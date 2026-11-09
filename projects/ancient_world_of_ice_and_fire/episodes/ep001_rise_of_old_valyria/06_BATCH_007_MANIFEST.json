@@ -1,0 +1,224 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "visual_style_standard": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location cinematography (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade: warm sandstone highlights, muted earth/stone/bronze midtones, deep ink-navy shadows)",
+  "style_reference_benchmark": "The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_number": 7,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "02:00–02:20",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "8_OF_10_QC_APPROVED_AND_UPLOADED_2_QUEUED_AT_NEXT_TURN_START",
+  "pending_completion_scenes": [
+    "VAL-EP001-IMG0067",
+    "VAL-EP001-IMG0069"
+  ],
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0061",
+      "timestamp": "02:00–02:02",
+      "shot_lens": "LAM · 28mm",
+      "narration_slice": "Farther east, beyond the towering",
+      "shot_type": "Jagged Bleached-Limestone Peaks & Bone-Strewn Defile of the Bone Mountains (28mm)",
+      "visual_beat": "65mm low-angle mountain wide: colossal jagged Bone Mountains grazed by warm sandstone sun above brooding ink-navy storm clouds & bone-strewn rocky defile",
+      "character_refs": [],
+      "location_refs": [
+        "BONE-MOUNTAINS-HYRKOON"
+      ],
+      "file_path": "assets/batch_007/VAL-EP001-IMG0061.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2415470,
+      "md5": "ef1d64dc65d144106693968583aa003b",
+      "resolution": "1376x768",
+      "drive_file_id": "1JeN1vwDZeojU2nJEKN0yYNB6sNDTiBn4",
+      "drive_url": "https://drive.google.com/file/d/1JeN1vwDZeojU2nJEKN0yYNB6sNDTiBn4/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0062",
+      "timestamp": "02:02–02:04",
+      "shot_lens": "OTS · 40mm",
+      "narration_slice": "Bone Mountains and the grim",
+      "shot_type": "Over-the-Shoulder View Into Bone-Strewn Gorge & Cliff-Fortress of Hyrkoon (40mm)",
+      "visual_beat": "65mm over-the-shoulder depth shot: wool-cloaked Bronze-Age traveler overlooking sheer bone-strewn chasm & watchfire-lit cliff-carved fortress-gate of Hyrkoon",
+      "character_refs": [],
+      "location_refs": [
+        "BONE-MOUNTAINS-HYRKOON"
+      ],
+      "file_path": "assets/batch_007/VAL-EP001-IMG0062.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2210873,
+      "md5": "db41e82520e51d3043c5c9e20233ba03",
+      "resolution": "1376x768",
+      "drive_file_id": "1A5tr6gdC4-A5MbKTj5jZWMKSJbr8x9Wh",
+      "drive_url": "https://drive.google.com/file/d/1A5tr6gdC4-A5MbKTj5jZWMKSJbr8x9Wh/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0063",
+      "timestamp": "02:04–02:06",
+      "shot_lens": "WS · 28mm",
+      "narration_slice": "fortress-passes of Hyrkoon, the annals",
+      "shot_type": "Stone Causeway & Bastion Gate of Hyrkoon Opening Toward Eastern Essos (28mm)",
+      "visual_beat": "65mm deep-focus pass wide: battered stone bastion walls, bronze-shielded sentries & flaming braziers of Hyrkoon opening onto misty emerald eastern valleys",
+      "character_refs": [],
+      "location_refs": [
+        "BONE-MOUNTAINS-HYRKOON"
+      ],
+      "file_path": "assets/batch_007/VAL-EP001-IMG0063.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 1946772,
+      "md5": "8d4eb0bd020332d19868790dbe5059dc",
+      "resolution": "1376x768",
+      "drive_file_id": "1NFg-FKowMVXdDMeUspsK7wu3p_cQ-0nA",
+      "drive_url": "https://drive.google.com/file/d/1NFg-FKowMVXdDMeUspsK7wu3p_cQ-0nA/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0064",
+      "timestamp": "02:06–02:08",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "of Yi Ti preserve an",
+      "shot_type": "Ancient Tiered Cedar-and-Stone Archive Temple Complex of Early Yi Ti (24mm)",
+      "visual_beat": "65mm hillside ultra-wide: multi-tiered ancient cedar-and-stone archive pavilions of Yi Ti rising above misty karst river valleys under warm sandstone sunbeams",
+      "character_refs": [],
+      "location_refs": [
+        "BONE-MOUNTAINS-HYRKOON"
+      ],
+      "file_path": "assets/batch_007/VAL-EP001-IMG0064.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2627448,
+      "md5": "65f0581f01234842724f40e7cbdb7a49",
+      "resolution": "1376x768",
+      "drive_file_id": "1cEZ3Msfuh186zilBpQw4nsQCq_rej7Mw",
+      "drive_url": "https://drive.google.com/file/d/1cEZ3Msfuh186zilBpQw4nsQCq_rej7Mw/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0065",
+      "timestamp": "02:08–02:10",
+      "shot_lens": "MCU · 50mm",
+      "narration_slice": "even darker myth. Their priests",
+      "shot_type": "Elderly YiTish Scholar-Priests Unrolling Tied Bamboo-Slip Annals by Bronze Ding (50mm)",
+      "visual_beat": "65mm archive sanctuary medium close-up: two saffron-and-indigo-robed YiTish scholar-priests unrolling bamboo-slip annals beside smoking bronze cauldron & oil-lamp",
+      "character_refs": [],
+      "location_refs": [
+        "BONE-MOUNTAINS-HYRKOON"
+      ],
+      "file_path": "assets/batch_007/VAL-EP001-IMG0065.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2446147,
+      "md5": "9a8687e828eab708fff89767a52d9245",
+      "resolution": "1376x768",
+      "drive_file_id": "1AzFmj0KpMiWgIJ49OhKaCm-3yzCwOYX4",
+      "drive_url": "https://drive.google.com/file/d/1AzFmj0KpMiWgIJ49OhKaCm-3yzCwOYX4/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0066",
+      "timestamp": "02:10–02:12",
+      "shot_lens": "MS · 35mm",
+      "narration_slice": "speak of a primordial Great",
+      "shot_type": "Lantern-Lit Cracked Temple Mural of the Primordial Great Empire of the Dawn (35mm)",
+      "visual_beat": "65mm gallery tracking wide: aged YiTish priest with brass lantern passing cracked gold-leaf & mineral-pigment wall mural of stepped Dawn-Empire palaces",
+      "character_refs": [],
+      "location_refs": [
+        "BONE-MOUNTAINS-HYRKOON"
+      ],
+      "file_path": "assets/batch_007/VAL-EP001-IMG0066.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 1550575,
+      "md5": "7880d3778b9156aaa258bf8583c7e75b",
+      "resolution": "1376x768",
+      "drive_file_id": "1kWRCipAI5N-1-Ll1IFcLOvRAsoNApM0r",
+      "drive_url": "https://drive.google.com/file/d/1kWRCipAI5N-1-Ll1IFcLOvRAsoNApM0r/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0067",
+      "timestamp": "02:12–02:14",
+      "shot_lens": "MCU · 65mm",
+      "narration_slice": "Empire of the Dawn shattered",
+      "shot_type": "Shattered Dawn-Empire Sun-Disk Courtyard Under Advancing Storm Wall (65mm)",
+      "visual_beat": "65mm telephoto courtyard: split geometric pale-jade sun-disk monument & overturned smoking braziers before cyclopean palace colonnades under black storm wall",
+      "character_refs": [],
+      "location_refs": [
+        "BONE-MOUNTAINS-HYRKOON"
+      ],
+      "file_path": null,
+      "qc_status": "QUEUED_NEXT_TURN_QUOTA",
+      "size_bytes": null,
+      "md5": null,
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0068",
+      "timestamp": "02:14–02:16",
+      "shot_lens": "MS · 50mm",
+      "narration_slice": "by the Blood Betrayal, when",
+      "shot_type": "Overturned Pale-Jade Goblet, Spilled Crimson & Wind-Whipped Palace Tapestries (50mm)",
+      "visual_beat": "65mm low-angle palace chamber study: overturned carved pale-jade goblet, spilled dark crimson & billowing tapestries beside glowing iron floor-brazier",
+      "character_refs": [],
+      "location_refs": [
+        "BONE-MOUNTAINS-HYRKOON"
+      ],
+      "file_path": "assets/batch_007/VAL-EP001-IMG0068.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2236777,
+      "md5": "0d3f38edaaf59501d62d72b11b6ea336",
+      "resolution": "1376x768",
+      "drive_file_id": "1uhW8INCRomTIfYYc6BGCbUwlmLHV90_0",
+      "drive_url": "https://drive.google.com/file/d/1uhW8INCRomTIfYYc6BGCbUwlmLHV90_0/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0069",
+      "timestamp": "02:16–02:18",
+      "shot_lens": "WS · 35mm",
+      "narration_slice": "the Bloodstone Emperor murdered his",
+      "shot_type": "Usurping Bloodstone Emperor Claiming Fallen Amethyst Diadem on Throne Dais (35mm)",
+      "visual_beat": "65mm throne-hall wide: stern Bloodstone Emperor in dark charcoal-garnet robes & bronze shoulder-plates claiming fallen amethyst diadem between smoking dragon-braziers",
+      "character_refs": [],
+      "location_refs": [
+        "BONE-MOUNTAINS-HYRKOON"
+      ],
+      "file_path": null,
+      "qc_status": "QUEUED_NEXT_TURN_QUOTA",
+      "size_bytes": null,
+      "md5": null,
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0070",
+      "timestamp": "02:18–02:20",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "sister, the Amethyst Empress, plunging",
+      "shot_type": "Fallen Amethyst Empress on Palace Terrace Under Solar Eclipse & Advancing Night (24mm)",
+      "visual_beat": "65mm palace colonnade ultra-wide: fallen Amethyst Empress & amethyst hairpin on stone steps as total solar eclipse & ink-navy night wall swallow eastern horizon",
+      "character_refs": [],
+      "location_refs": [
+        "BONE-MOUNTAINS-HYRKOON"
+      ],
+      "file_path": "assets/batch_007/VAL-EP001-IMG0070.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 1414005,
+      "md5": "26a4a667d6e94e9c34a4b292c54864fe",
+      "resolution": "1376x768",
+      "drive_file_id": "1JYosRIkQIWALgcpqo71yvoZAWzgFekxZ",
+      "drive_url": "https://drive.google.com/file/d/1JYosRIkQIWALgcpqo71yvoZAWzgFekxZ/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    }
+  ],
+  "batch_drive_folder_id": "111crBQQMR7Yq6Kn8_-2AvKBWQu1hj4tB",
+  "batch_drive_folder_url": "https://drive.google.com/drive/folders/111crBQQMR7Yq6Kn8_-2AvKBWQu1hj4tB"
+}

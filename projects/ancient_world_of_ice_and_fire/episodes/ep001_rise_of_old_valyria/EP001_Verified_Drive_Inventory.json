@@ -13,8 +13,8 @@
     5,
     6
   ],
-  "next_batch": 7,
-  "next_image_number": 61,
+  "next_batch": 8,
+  "next_image_number": 67,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -71,6 +71,11 @@
       "name": "Batch_006_Images_0051-0060_Selhoru_Confluence_and_Song_of_the_Rhoyne_01m40s-02m00s",
       "drive_id": "1lCvQ1SjcrwiyO8Njm_fau0wXZIJUquFL",
       "url": "https://drive.google.com/drive/folders/1lCvQ1SjcrwiyO8Njm_fau0wXZIJUquFL"
+    },
+    "batch_007_images_folder": {
+      "name": "Batch_007_Images_0061-0070_Bone_Mountains_Yi_Ti_and_Blood_Betrayal_02m00s-02m20s",
+      "drive_id": "111crBQQMR7Yq6Kn8_-2AvKBWQu1hj4tB",
+      "url": "https://drive.google.com/drive/folders/111crBQQMR7Yq6Kn8_-2AvKBWQu1hj4tB"
     }
   },
   "batch_001_images_65mm_upgraded": [
@@ -253,7 +258,7 @@
   "production_documents_and_databases": [
     {
       "name": "README_Series_Master_Guide.md",
-      "drive_id": "1XojO5yYp76jeEPoV3NXtNJHNdnoBHBYV",
+      "drive_id": "1oK_jAiAg3AienFcav5QwOS6-j-fprz0t",
       "size": 8364,
       "md5": "56517b0bc7120cf99cb42cfaadb7a8c0",
       "upload_checksum_verified": true
@@ -295,14 +300,14 @@
     },
     {
       "name": "F_EPISODE_DATABASE.json",
-      "drive_id": "13pE_0uzTkU-eJTK6MH-BG9IZnQCJpADc",
+      "drive_id": "1ltA5YrVvfl10FWDMww2uBVduMCE8jAm4",
       "size": 1458,
       "md5": "e0e2983972fe153f56ea4ad81958d6b5",
       "upload_checksum_verified": true
     },
     {
       "name": "G_VISUAL_ASSET_DATABASE.json",
-      "drive_id": "1cImAsHLor1vHoYDcl8Jr7NzVjNQYTEeg",
+      "drive_id": "1aOeCa1pnURoHlU0u2dOj-tFLZcBJ8Ifr",
       "size": 12708,
       "md5": "d28428cdfd3ff6c71e426640f3d29f38",
       "upload_checksum_verified": true
@@ -316,7 +321,7 @@
     },
     {
       "name": "EP001_MASTER_PRODUCTION_PACKAGE.md",
-      "drive_id": "1c4LDMYf4kAwm0y-Q0JeQa_BgAkCLl65w",
+      "drive_id": "1ZYQROFZ-cA-uTbDuzd2GszyWxU2AiZQX",
       "size": 196763,
       "md5": "cf46210660480c09d2aeb95d0275fd9f",
       "upload_checksum_verified": true
@@ -358,21 +363,21 @@
     },
     {
       "name": "03_SCENE_BREAKDOWN_1050_SCENES.md",
-      "drive_id": "1SZGUU1vmnhjFrGAyJ3MAa3ofGtqsOTDQ",
+      "drive_id": "1FJlPjzKppmqq4kibzPZ_QCF2L6H3k-UW",
       "size": 262438,
       "md5": "1eb373dd42194d835462157ce6b34777",
       "upload_checksum_verified": true
     },
     {
       "name": "03_SCENE_BREAKDOWN_1050_SCENES.json",
-      "drive_id": "1NwQ1NBwSygz0vubs5WJt_07PbsK2pmbA",
+      "drive_id": "1_nvCOCsGMQofNY3jhI0OfPEUMYuYQgX_",
       "size": 471525,
       "md5": "4f064dda0f0435b88d5700d031d9d6a7",
       "upload_checksum_verified": true
     },
     {
       "name": "03_SCENE_BREAKDOWN_1050_SCENES.csv",
-      "drive_id": "14uOGtYe8kH5PFEx_vIDn25p37hFD8rY6",
+      "drive_id": "12pjEzVnEv1SlqwP2qtVF3kdpuqSyKbNI",
       "size": 390526,
       "md5": "40b0c5abb961831b22f12b1d9c989979",
       "upload_checksum_verified": true
@@ -407,7 +412,7 @@
     },
     {
       "name": "07_CONTINUITY_AND_QC_REPORT.md",
-      "drive_id": "12xiHXhT_kNbySBlEYL91FTKlv_BkrtW4",
+      "drive_id": "1zMgsefoe5-lV0Z3gyObSWSbfQmeinHBr",
       "size": 17066,
       "md5": "23c48a0b93a804315e767fad754c568d",
       "upload_checksum_verified": true
@@ -1102,6 +1107,128 @@
       "md5": "5bb69e5838883f58da365125165f1b7e",
       "md5_verified": true,
       "narration_slice": "song that brought back the day."
+    }
+  ],
+  "in_progress_batch": {
+    "batch": 7,
+    "approved_uploaded": 8,
+    "queued_next_turn": [
+      "VAL-EP001-IMG0067",
+      "VAL-EP001-IMG0069"
+    ]
+  },
+  "batch_007_verified_images": [
+    {
+      "image_number": 61,
+      "scene_id": "VAL-EP001-IMG0061",
+      "batch": 7,
+      "timestamp": "02:00–02:02",
+      "file_name": "VAL-EP001-IMG0061.png",
+      "drive_id": "1JeN1vwDZeojU2nJEKN0yYNB6sNDTiBn4",
+      "drive_folder_id": "111crBQQMR7Yq6Kn8_-2AvKBWQu1hj4tB",
+      "resolution": "1376x768",
+      "size_bytes": 2415470,
+      "md5": "ef1d64dc65d144106693968583aa003b",
+      "md5_verified": true,
+      "narration_slice": "Farther east, beyond the towering"
+    },
+    {
+      "image_number": 62,
+      "scene_id": "VAL-EP001-IMG0062",
+      "batch": 7,
+      "timestamp": "02:02–02:04",
+      "file_name": "VAL-EP001-IMG0062.png",
+      "drive_id": "1A5tr6gdC4-A5MbKTj5jZWMKSJbr8x9Wh",
+      "drive_folder_id": "111crBQQMR7Yq6Kn8_-2AvKBWQu1hj4tB",
+      "resolution": "1376x768",
+      "size_bytes": 2210873,
+      "md5": "db41e82520e51d3043c5c9e20233ba03",
+      "md5_verified": true,
+      "narration_slice": "Bone Mountains and the grim"
+    },
+    {
+      "image_number": 63,
+      "scene_id": "VAL-EP001-IMG0063",
+      "batch": 7,
+      "timestamp": "02:04–02:06",
+      "file_name": "VAL-EP001-IMG0063.png",
+      "drive_id": "1NFg-FKowMVXdDMeUspsK7wu3p_cQ-0nA",
+      "drive_folder_id": "111crBQQMR7Yq6Kn8_-2AvKBWQu1hj4tB",
+      "resolution": "1376x768",
+      "size_bytes": 1946772,
+      "md5": "8d4eb0bd020332d19868790dbe5059dc",
+      "md5_verified": true,
+      "narration_slice": "fortress-passes of Hyrkoon, the annals"
+    },
+    {
+      "image_number": 64,
+      "scene_id": "VAL-EP001-IMG0064",
+      "batch": 7,
+      "timestamp": "02:06–02:08",
+      "file_name": "VAL-EP001-IMG0064.png",
+      "drive_id": "1cEZ3Msfuh186zilBpQw4nsQCq_rej7Mw",
+      "drive_folder_id": "111crBQQMR7Yq6Kn8_-2AvKBWQu1hj4tB",
+      "resolution": "1376x768",
+      "size_bytes": 2627448,
+      "md5": "65f0581f01234842724f40e7cbdb7a49",
+      "md5_verified": true,
+      "narration_slice": "of Yi Ti preserve an"
+    },
+    {
+      "image_number": 65,
+      "scene_id": "VAL-EP001-IMG0065",
+      "batch": 7,
+      "timestamp": "02:08–02:10",
+      "file_name": "VAL-EP001-IMG0065.png",
+      "drive_id": "1AzFmj0KpMiWgIJ49OhKaCm-3yzCwOYX4",
+      "drive_folder_id": "111crBQQMR7Yq6Kn8_-2AvKBWQu1hj4tB",
+      "resolution": "1376x768",
+      "size_bytes": 2446147,
+      "md5": "9a8687e828eab708fff89767a52d9245",
+      "md5_verified": true,
+      "narration_slice": "even darker myth. Their priests"
+    },
+    {
+      "image_number": 66,
+      "scene_id": "VAL-EP001-IMG0066",
+      "batch": 7,
+      "timestamp": "02:10–02:12",
+      "file_name": "VAL-EP001-IMG0066.png",
+      "drive_id": "1kWRCipAI5N-1-Ll1IFcLOvRAsoNApM0r",
+      "drive_folder_id": "111crBQQMR7Yq6Kn8_-2AvKBWQu1hj4tB",
+      "resolution": "1376x768",
+      "size_bytes": 1550575,
+      "md5": "7880d3778b9156aaa258bf8583c7e75b",
+      "md5_verified": true,
+      "narration_slice": "speak of a primordial Great"
+    },
+    {
+      "image_number": 68,
+      "scene_id": "VAL-EP001-IMG0068",
+      "batch": 7,
+      "timestamp": "02:14–02:16",
+      "file_name": "VAL-EP001-IMG0068.png",
+      "drive_id": "1uhW8INCRomTIfYYc6BGCbUwlmLHV90_0",
+      "drive_folder_id": "111crBQQMR7Yq6Kn8_-2AvKBWQu1hj4tB",
+      "resolution": "1376x768",
+      "size_bytes": 2236777,
+      "md5": "0d3f38edaaf59501d62d72b11b6ea336",
+      "md5_verified": true,
+      "narration_slice": "by the Blood Betrayal, when"
+    },
+    {
+      "image_number": 70,
+      "scene_id": "VAL-EP001-IMG0070",
+      "batch": 7,
+      "timestamp": "02:18–02:20",
+      "file_name": "VAL-EP001-IMG0070.png",
+      "drive_id": "1JYosRIkQIWALgcpqo71yvoZAWzgFekxZ",
+      "drive_folder_id": "111crBQQMR7Yq6Kn8_-2AvKBWQu1hj4tB",
+      "resolution": "1376x768",
+      "size_bytes": 1414005,
+      "md5": "26a4a667d6e94e9c34a4b292c54864fe",
+      "md5_verified": true,
+      "narration_slice": "sister, the Amethyst Empress, plunging"
     }
   ]
 }

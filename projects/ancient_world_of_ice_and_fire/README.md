@@ -74,7 +74,9 @@ projects/ancient_world_of_ice_and_fire/
         ├── 06_BATCH_005_MANIFEST.json               # Machine-readable JSON manifest for Batch 005
         ├── 06_IMAGE_PROMPTS_BATCH_006.md            # Part 6: Upgraded 65mm Prompts (VAL-EP001-IMG0051–IMG0060)
         ├── 06_BATCH_006_MANIFEST.json               # Machine-readable JSON manifest for Batch 006
-        ├── 07_CONTINUITY_AND_QC_REPORT.md           # Part 7: Continuity Audit & 65mm Phase-D QC Log (Batches 001–006)
+        ├── 06_IMAGE_PROMPTS_BATCH_007.md            # Part 6: Upgraded 65mm Prompts (VAL-EP001-IMG0061–IMG0070)
+        ├── 06_BATCH_007_MANIFEST.json               # Machine-readable JSON manifest for Batch 007
+        ├── 07_CONTINUITY_AND_QC_REPORT.md           # Part 7: Continuity Audit & 65mm Phase-D QC Log (Batches 001–007)
         ├── 08_YOUTUBE_PUBLISHING_PACKAGE.md         # Part 8: YouTube SEO, Chapters, Thumbnail & Teaser
         ├── STORYBOARD_BATCH_001_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (00:00–00:20)
         ├── STORYBOARD_BATCH_002_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (00:20–00:40)
@@ -82,6 +84,7 @@ projects/ancient_world_of_ice_and_fire/
         ├── STORYBOARD_BATCH_004_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (01:00–01:20)
         ├── STORYBOARD_BATCH_005_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (01:20–01:40)
         ├── STORYBOARD_BATCH_006_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (01:40–02:00)
+        ├── STORYBOARD_BATCH_007_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (02:00–02:20)
         └── assets/
             ├── references/                          # Locked Character Identity Reference Plates
             ├── batch_001/                           # 65mm Cinematic Batch 001 Stills (IMG0001–IMG0010 · 00:00–00:20)
@@ -90,6 +93,7 @@ projects/ancient_world_of_ice_and_fire/
             ├── batch_004/                           # 65mm Cinematic Batch 004 Stills (IMG0031–IMG0040 · 01:00–01:20)
             ├── batch_005/                           # 65mm Cinematic Batch 005 Stills (IMG0041–IMG0050 · 01:20–01:40)
             ├── batch_006/                           # 65mm Cinematic Batch 006 Stills (IMG0051–IMG0060 · 01:40–02:00)
+            ├── batch_007/                           # 65mm Cinematic Batch 007 Stills (IMG0061–IMG0070 · 02:00–02:20)
             └── chapter_01_anchor_plates/            # Pre-Approved Chapter I Master Environment Anchors
 ```
 
@@ -99,4 +103,4 @@ projects/ancient_world_of_ice_and_fire/
 
 | Episode | Title | Duration | Total Frames (`30/min`) | Completed Batches | Completed Frames | Next Queued Batch |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–006** (`00:00–02:00`) | **60 / 1,050** (`IMG0001–IMG0060`) | **Batch 007** (`02:00–02:20`, `IMG0061–IMG0070`) |
+| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–006 + B007 (8/10)** (`00:00–02:20`) | **68 / 1,050** (`IMG0001–0066, 0068, 0070`) | **Complete B007 (`IMG0067, 0069`) + Batch 008** (`02:20–02:40`) |

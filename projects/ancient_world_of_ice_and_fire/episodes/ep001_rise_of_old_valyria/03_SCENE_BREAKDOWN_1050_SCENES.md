@@ -96,20 +96,20 @@
 | `VAL-EP001-IMG0059` | `01:56–01:58` | `DET · 100mm` | *"River—to join in a secret"* | 65mm firelit macro: frost-chapped hands in wool wrist-wraps plucking carved cedar-and-tortoiseshell river-lyre beside hammered bronze bowl with concentric sound ripples | `LOC-ESS-002` |
 | `VAL-EP001-IMG0060` | `01:58–02:00` | `WS · 40mm` | *"song that brought back the day."* | 65mm transitional dawn wide: cloaked Rhoynar elders on rose-sandstone bluff watching ink-navy winter cloud wall split into golden sunrise over cracking river ice | `LOC-ESS-002` |
 
-## BATCH 007 (Ch. I · `02:00–02:20` · `VAL-EP001-IMG0061–VAL-EP001-IMG0070`)
+## BATCH 007 (Ch. I · `02:00–02:20` · `VAL-EP001-IMG0061–VAL-EP001-IMG0070`) *(ALL 10 PROMPTS COMPLETE · 8/10 65MM RENDERS QC-APPROVED · IMG0067 & IMG0069 QUEUED NEXT TURN)*
 
 | Scene ID | Timestamp | Shot & Lens | Synced 2s Narration Slice | Visual Beat & Continuity | Refs |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `VAL-EP001-IMG0061` | `02:00–02:02` | `LAM · 28mm` | *"Farther east, beyond the towering"* | Low-angle monumental architectural / geological framing — Eastern myths of Yi Ti, Blood Betrayal & flaming blade | `BONE-MOUNTAINS-HYRKOON` |
-| `VAL-EP001-IMG0062` | `02:02–02:04` | `OTS · 40mm` | *"Bone Mountains and the grim"* | Over-the-shoulder depth perspective — Eastern myths of Yi Ti, Blood Betrayal & flaming blade | `BONE-MOUNTAINS-HYRKOON` |
-| `VAL-EP001-IMG0063` | `02:04–02:06` | `WS · 28mm` | *"fortress-passes of Hyrkoon, the annals"* | Deep-focus wide atmospheric composition — Eastern myths of Yi Ti, Blood Betrayal & flaming blade | `BONE-MOUNTAINS-HYRKOON` |
-| `VAL-EP001-IMG0064` | `02:06–02:08` | `UWA · 24mm` | *"of Yi Ti preserve an"* | Ultra-wide establishing vista — Eastern myths of Yi Ti, Blood Betrayal & flaming blade | `BONE-MOUNTAINS-HYRKOON` |
-| `VAL-EP001-IMG0065` | `02:08–02:10` | `MCU · 50mm` | *"even darker myth. Their priests"* | Medium close-up atmospheric focal beat — Eastern myths of Yi Ti, Blood Betrayal & flaming blade | `BONE-MOUNTAINS-HYRKOON` |
-| `VAL-EP001-IMG0066` | `02:10–02:12` | `MS · 35mm` | *"speak of a primordial Great"* | Dynamic medium lateral tracking angle — Eastern myths of Yi Ti, Blood Betrayal & flaming blade | `BONE-MOUNTAINS-HYRKOON` |
-| `VAL-EP001-IMG0067` | `02:12–02:14` | `MCU · 65mm` | *"Empire of the Dawn shattered"* | Compressed telephoto dramatic subject framing — Eastern myths of Yi Ti, Blood Betrayal & flaming blade | `BONE-MOUNTAINS-HYRKOON` |
-| `VAL-EP001-IMG0068` | `02:14–02:16` | `MS · 50mm` | *"by the Blood Betrayal, when"* | Medium cinematic subject focus — Eastern myths of Yi Ti, Blood Betrayal & flaming blade | `BONE-MOUNTAINS-HYRKOON` |
-| `VAL-EP001-IMG0069` | `02:16–02:18` | `WS · 35mm` | *"the Bloodstone Emperor murdered his"* | Wide environmental storytelling tableau — Eastern myths of Yi Ti, Blood Betrayal & flaming blade | `BONE-MOUNTAINS-HYRKOON` |
-| `VAL-EP001-IMG0070` | `02:18–02:20` | `UWA · 24mm` | *"sister, the Amethyst Empress, plunging"* | High-elevation geographic / scale reveal — Eastern myths of Yi Ti, Blood Betrayal & flaming blade | `BONE-MOUNTAINS-HYRKOON` |
+| `VAL-EP001-IMG0061` | `02:00–02:02` | `LAM · 28mm` | *"Farther east, beyond the towering"* | 65mm low-angle mountain wide: colossal jagged Bone Mountains grazed by warm sandstone sun above brooding ink-navy storm clouds & bone-strewn rocky defile | `BONE-MOUNTAINS-HYRKOON` |
+| `VAL-EP001-IMG0062` | `02:02–02:04` | `OTS · 40mm` | *"Bone Mountains and the grim"* | 65mm over-the-shoulder depth shot: wool-cloaked Bronze-Age traveler overlooking sheer bone-strewn chasm & watchfire-lit cliff-carved fortress-gate of Hyrkoon | `BONE-MOUNTAINS-HYRKOON` |
+| `VAL-EP001-IMG0063` | `02:04–02:06` | `WS · 28mm` | *"fortress-passes of Hyrkoon, the annals"* | 65mm deep-focus pass wide: battered stone bastion walls, bronze-shielded sentries & flaming braziers of Hyrkoon opening onto misty emerald eastern valleys | `BONE-MOUNTAINS-HYRKOON` |
+| `VAL-EP001-IMG0064` | `02:06–02:08` | `UWA · 24mm` | *"of Yi Ti preserve an"* | 65mm hillside ultra-wide: multi-tiered ancient cedar-and-stone archive pavilions of Yi Ti rising above misty karst river valleys under warm sandstone sunbeams | `BONE-MOUNTAINS-HYRKOON` |
+| `VAL-EP001-IMG0065` | `02:08–02:10` | `MCU · 50mm` | *"even darker myth. Their priests"* | 65mm archive sanctuary medium close-up: two saffron-and-indigo-robed YiTish scholar-priests unrolling bamboo-slip annals beside smoking bronze cauldron & oil-lamp | `BONE-MOUNTAINS-HYRKOON` |
+| `VAL-EP001-IMG0066` | `02:10–02:12` | `MS · 35mm` | *"speak of a primordial Great"* | 65mm gallery tracking wide: aged YiTish priest with brass lantern passing cracked gold-leaf & mineral-pigment wall mural of stepped Dawn-Empire palaces | `BONE-MOUNTAINS-HYRKOON` |
+| `VAL-EP001-IMG0067` | `02:12–02:14` | `MCU · 65mm` | *"Empire of the Dawn shattered"* | 65mm telephoto courtyard: split geometric pale-jade sun-disk monument & overturned smoking braziers before cyclopean palace colonnades under black storm wall | `BONE-MOUNTAINS-HYRKOON` |
+| `VAL-EP001-IMG0068` | `02:14–02:16` | `MS · 50mm` | *"by the Blood Betrayal, when"* | 65mm low-angle palace chamber study: overturned carved pale-jade goblet, spilled dark crimson & billowing tapestries beside glowing iron floor-brazier | `BONE-MOUNTAINS-HYRKOON` |
+| `VAL-EP001-IMG0069` | `02:16–02:18` | `WS · 35mm` | *"the Bloodstone Emperor murdered his"* | 65mm throne-hall wide: stern Bloodstone Emperor in dark charcoal-garnet robes & bronze shoulder-plates claiming fallen amethyst diadem between smoking dragon-braziers | `BONE-MOUNTAINS-HYRKOON` |
+| `VAL-EP001-IMG0070` | `02:18–02:20` | `UWA · 24mm` | *"sister, the Amethyst Empress, plunging"* | 65mm palace colonnade ultra-wide: fallen Amethyst Empress & amethyst hairpin on stone steps as total solar eclipse & ink-navy night wall swallow eastern horizon | `BONE-MOUNTAINS-HYRKOON` |
 
 ## BATCH 008 (Ch. I · `02:20–02:40` · `VAL-EP001-IMG0071–VAL-EP001-IMG0080`)
 

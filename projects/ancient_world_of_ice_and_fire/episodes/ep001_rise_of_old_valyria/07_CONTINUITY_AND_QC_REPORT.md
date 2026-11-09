@@ -110,7 +110,22 @@
 | `VAL-EP001-IMG0059` | `01:56–01:58` | `assets/batch_006/VAL-EP001-IMG0059.png` | Sublime physical acoustic storytelling: cedar-and-tortoiseshell lyre & concentric sound-ripples in hammered bronze bowl; zero CGI magic beams. | **PASSED (65mm v1)** |
 | `VAL-EP001-IMG0060` | `01:58–02:00` | `assets/batch_006/VAL-EP001-IMG0060.png` | Cathartic golden-sandstone sunrise splitting ink-navy Long Night clouds over thawing Mother Rhoyne; verified full-bleed 1376x768. | **PASSED (65mm v1)** |
 
-### G. Pre-Approved Character Identity Reference Plates & Chapter I Master Environment Anchors
+### G. Batch 007 (`02:00–02:20` · `VAL-EP001-IMG0061` – `IMG0070` · **8/10 QC-Approved & Uploaded; `IMG0067` & `IMG0069` Queued Next Turn**)
+
+| Scene ID | Timestamp | File Path | 65mm Cinematic Continuity & Phase D Inspection Result | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| `VAL-EP001-IMG0061` | `02:00–02:02` | `assets/batch_007/VAL-EP001-IMG0061.png` | Towering bleached-limestone summits in raking sandstone sunlight above bone-strewn rocky defile & ink-navy storm clouds. | **PASSED (65mm v1)** |
+| `VAL-EP001-IMG0062` | `02:02–02:04` | `assets/batch_007/VAL-EP001-IMG0062.png` | Exact cliff-bastion architectural match to ANCHOR-IMG0064; Bronze-Age wool cloak & oxidized-bronze pauldron overlooking bone-strewn chasm. | **PASSED (65mm v1)** |
+| `VAL-EP001-IMG0063` | `02:04–02:06` | `assets/batch_007/VAL-EP001-IMG0063.png` | Monumental battered ashlar pass fortress, bronze braziers & misty eastern valley vista; verified full-bleed 1376x768. | **PASSED (65mm v1)** |
+| `VAL-EP001-IMG0064` | `02:06–02:08` | `assets/batch_007/VAL-EP001-IMG0064.png` | Grounded moss-stone & root foreground overlooking tiered ancient YiTish cedar-and-stone pavilions, karst peaks & sandstone twilight rays. | **PASSED (65mm v1)** |
+| `VAL-EP001-IMG0065` | `02:08–02:10` | `assets/batch_007/VAL-EP001-IMG0065.png` | Authentic ancient YiTish scholar-priests, tied bamboo-slip annals, verdigris-bronze tripod censer & warm brass oil-lamp against ink-navy shelves. | **PASSED (65mm v1)** |
+| `VAL-EP001-IMG0066` | `02:10–02:12` | `assets/batch_007/VAL-EP001-IMG0066.png` | Tactile cracked plaster & gold-leaf fresco of stepped Dawn palaces & sun-banners; verified zero readable text & full-bleed 1376x768. | **PASSED (65mm v1)** |
+| `VAL-EP001-IMG0067` | `02:12–02:14` | *(Queued next turn)* | QUEUED_TURN_START_RERENDER (v1 held back in Phase-D QC to eliminate faint Latin rim inscription; 10-image turn cap reached). | **QUEUED (Turn Cap)** |
+| `VAL-EP001-IMG0068` | `02:14–02:16` | `assets/batch_007/VAL-EP001-IMG0068.png` | Restrained classical-cinema symbolism: carved pale-jade goblet, dark crimson spill on veined marble & warm floor-brazier against ink-navy arcade. | **PASSED (65mm v1)** |
+| `VAL-EP001-IMG0069` | `02:16–02:18` | *(Queued next turn)* | QUEUED_TURN_START_RENDER (clean royal-usurpation prompt staged after 10-image per-turn generation limit was reached). | **QUEUED (Turn Cap)** |
+| `VAL-EP001-IMG0070` | `02:18–02:20` | `assets/batch_007/VAL-EP001-IMG0070.png` | Haunting, dignified 65mm composition: fallen Amethyst Empress & amethyst hairpin beneath total solar eclipse & tidal ink-navy darkness; full-bleed 1376x768. | **PASSED (65mm v1)** |
+
+### H. Pre-Approved Character Identity Reference Plates & Chapter I Master Environment Anchors
 
 | Asset ID | File Path | Purpose | Status |
 | :--- | :--- | :--- | :--- |

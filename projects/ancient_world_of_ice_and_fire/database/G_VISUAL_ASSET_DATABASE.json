@@ -498,6 +498,64 @@
           "size_bytes": 1705459,
           "md5": "5bb69e5838883f58da365125165f1b7e"
         }
+      ],
+      "batch_007_02m00s_to_02m20s_65mm": [
+        {
+          "scene_id": "VAL-EP001-IMG0061",
+          "file_name": "VAL-EP001-IMG0061.png",
+          "resolution": "1376x768",
+          "size_bytes": 2415470,
+          "md5": "ef1d64dc65d144106693968583aa003b"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0062",
+          "file_name": "VAL-EP001-IMG0062.png",
+          "resolution": "1376x768",
+          "size_bytes": 2210873,
+          "md5": "db41e82520e51d3043c5c9e20233ba03"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0063",
+          "file_name": "VAL-EP001-IMG0063.png",
+          "resolution": "1376x768",
+          "size_bytes": 1946772,
+          "md5": "8d4eb0bd020332d19868790dbe5059dc"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0064",
+          "file_name": "VAL-EP001-IMG0064.png",
+          "resolution": "1376x768",
+          "size_bytes": 2627448,
+          "md5": "65f0581f01234842724f40e7cbdb7a49"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0065",
+          "file_name": "VAL-EP001-IMG0065.png",
+          "resolution": "1376x768",
+          "size_bytes": 2446147,
+          "md5": "9a8687e828eab708fff89767a52d9245"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0066",
+          "file_name": "VAL-EP001-IMG0066.png",
+          "resolution": "1376x768",
+          "size_bytes": 1550575,
+          "md5": "7880d3778b9156aaa258bf8583c7e75b"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0068",
+          "file_name": "VAL-EP001-IMG0068.png",
+          "resolution": "1376x768",
+          "size_bytes": 2236777,
+          "md5": "0d3f38edaaf59501d62d72b11b6ea336"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0070",
+          "file_name": "VAL-EP001-IMG0070.png",
+          "resolution": "1376x768",
+          "size_bytes": 1414005,
+          "md5": "26a4a667d6e94e9c34a4b292c54864fe"
+        }
       ]
     }
   },

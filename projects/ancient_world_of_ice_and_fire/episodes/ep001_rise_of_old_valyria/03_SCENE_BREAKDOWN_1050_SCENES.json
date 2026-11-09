@@ -857,11 +857,12 @@
     "timestamp": "02:00–02:02",
     "shot_lens": "LAM · 28mm",
     "narration_slice": "Farther east, beyond the towering",
-    "visual_beat": "Low-angle monumental architectural / geological framing — Eastern myths of Yi Ti, Blood Betrayal & flaming blade",
+    "visual_beat": "65mm low-angle mountain wide: colossal jagged Bone Mountains grazed by warm sandstone sun above brooding ink-navy storm clouds & bone-strewn rocky defile",
     "character_refs": [],
     "location_creature_refs": [
       "BONE-MOUNTAINS-HYRKOON"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0062",
@@ -870,11 +871,12 @@
     "timestamp": "02:02–02:04",
     "shot_lens": "OTS · 40mm",
     "narration_slice": "Bone Mountains and the grim",
-    "visual_beat": "Over-the-shoulder depth perspective — Eastern myths of Yi Ti, Blood Betrayal & flaming blade",
+    "visual_beat": "65mm over-the-shoulder depth shot: wool-cloaked Bronze-Age traveler overlooking sheer bone-strewn chasm & watchfire-lit cliff-carved fortress-gate of Hyrkoon",
     "character_refs": [],
     "location_creature_refs": [
       "BONE-MOUNTAINS-HYRKOON"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0063",
@@ -883,11 +885,12 @@
     "timestamp": "02:04–02:06",
     "shot_lens": "WS · 28mm",
     "narration_slice": "fortress-passes of Hyrkoon, the annals",
-    "visual_beat": "Deep-focus wide atmospheric composition — Eastern myths of Yi Ti, Blood Betrayal & flaming blade",
+    "visual_beat": "65mm deep-focus pass wide: battered stone bastion walls, bronze-shielded sentries & flaming braziers of Hyrkoon opening onto misty emerald eastern valleys",
     "character_refs": [],
     "location_creature_refs": [
       "BONE-MOUNTAINS-HYRKOON"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0064",
@@ -896,11 +899,12 @@
     "timestamp": "02:06–02:08",
     "shot_lens": "UWA · 24mm",
     "narration_slice": "of Yi Ti preserve an",
-    "visual_beat": "Ultra-wide establishing vista — Eastern myths of Yi Ti, Blood Betrayal & flaming blade",
+    "visual_beat": "65mm hillside ultra-wide: multi-tiered ancient cedar-and-stone archive pavilions of Yi Ti rising above misty karst river valleys under warm sandstone sunbeams",
     "character_refs": [],
     "location_creature_refs": [
       "BONE-MOUNTAINS-HYRKOON"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0065",
@@ -909,11 +913,12 @@
     "timestamp": "02:08–02:10",
     "shot_lens": "MCU · 50mm",
     "narration_slice": "even darker myth. Their priests",
-    "visual_beat": "Medium close-up atmospheric focal beat — Eastern myths of Yi Ti, Blood Betrayal & flaming blade",
+    "visual_beat": "65mm archive sanctuary medium close-up: two saffron-and-indigo-robed YiTish scholar-priests unrolling bamboo-slip annals beside smoking bronze cauldron & oil-lamp",
     "character_refs": [],
     "location_creature_refs": [
       "BONE-MOUNTAINS-HYRKOON"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0066",
@@ -922,11 +927,12 @@
     "timestamp": "02:10–02:12",
     "shot_lens": "MS · 35mm",
     "narration_slice": "speak of a primordial Great",
-    "visual_beat": "Dynamic medium lateral tracking angle — Eastern myths of Yi Ti, Blood Betrayal & flaming blade",
+    "visual_beat": "65mm gallery tracking wide: aged YiTish priest with brass lantern passing cracked gold-leaf & mineral-pigment wall mural of stepped Dawn-Empire palaces",
     "character_refs": [],
     "location_creature_refs": [
       "BONE-MOUNTAINS-HYRKOON"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0067",
@@ -935,11 +941,12 @@
     "timestamp": "02:12–02:14",
     "shot_lens": "MCU · 65mm",
     "narration_slice": "Empire of the Dawn shattered",
-    "visual_beat": "Compressed telephoto dramatic subject framing — Eastern myths of Yi Ti, Blood Betrayal & flaming blade",
+    "visual_beat": "65mm telephoto courtyard: split geometric pale-jade sun-disk monument & overturned smoking braziers before cyclopean palace colonnades under black storm wall",
     "character_refs": [],
     "location_creature_refs": [
       "BONE-MOUNTAINS-HYRKOON"
-    ]
+    ],
+    "qc_status": "QUEUED_NEXT_TURN_QUOTA"
   },
   {
     "scene_id": "VAL-EP001-IMG0068",
@@ -948,11 +955,12 @@
     "timestamp": "02:14–02:16",
     "shot_lens": "MS · 50mm",
     "narration_slice": "by the Blood Betrayal, when",
-    "visual_beat": "Medium cinematic subject focus — Eastern myths of Yi Ti, Blood Betrayal & flaming blade",
+    "visual_beat": "65mm low-angle palace chamber study: overturned carved pale-jade goblet, spilled dark crimson & billowing tapestries beside glowing iron floor-brazier",
     "character_refs": [],
     "location_creature_refs": [
       "BONE-MOUNTAINS-HYRKOON"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0069",
@@ -961,11 +969,12 @@
     "timestamp": "02:16–02:18",
     "shot_lens": "WS · 35mm",
     "narration_slice": "the Bloodstone Emperor murdered his",
-    "visual_beat": "Wide environmental storytelling tableau — Eastern myths of Yi Ti, Blood Betrayal & flaming blade",
+    "visual_beat": "65mm throne-hall wide: stern Bloodstone Emperor in dark charcoal-garnet robes & bronze shoulder-plates claiming fallen amethyst diadem between smoking dragon-braziers",
     "character_refs": [],
     "location_creature_refs": [
       "BONE-MOUNTAINS-HYRKOON"
-    ]
+    ],
+    "qc_status": "QUEUED_NEXT_TURN_QUOTA"
   },
   {
     "scene_id": "VAL-EP001-IMG0070",
@@ -974,11 +983,12 @@
     "timestamp": "02:18–02:20",
     "shot_lens": "UWA · 24mm",
     "narration_slice": "sister, the Amethyst Empress, plunging",
-    "visual_beat": "High-elevation geographic / scale reveal — Eastern myths of Yi Ti, Blood Betrayal & flaming blade",
+    "visual_beat": "65mm palace colonnade ultra-wide: fallen Amethyst Empress & amethyst hairpin on stone steps as total solar eclipse & ink-navy night wall swallow eastern horizon",
     "character_refs": [],
     "location_creature_refs": [
       "BONE-MOUNTAINS-HYRKOON"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0071",
