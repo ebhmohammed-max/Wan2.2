@@ -20,3 +20,7 @@ image-search/
 
 # scratch downscales used for eyeballing plates
 projects/atlas_understory/refpreview/
+
+# Ancient World of Ice and Fire — generated 65mm PNG batches archived on Google Drive
+projects/ancient_world_of_ice_and_fire/episodes/*/assets/
+Unselected files/

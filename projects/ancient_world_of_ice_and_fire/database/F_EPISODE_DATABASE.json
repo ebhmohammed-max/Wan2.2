@@ -1,0 +1,43 @@
+{
+  "series": "The Ancient World of Ice and Fire",
+  "canon_hierarchy": [
+    "The World of Ice & Fire",
+    "Fire & Blood",
+    "A Song of Ice and Fire (AGOT, ACOK, ASOS, AFFC, ADWD)",
+    "A Knight of the Seven Kingdoms",
+    "The Lands of Ice and Fire"
+  ],
+  "visual_production_spec": {
+    "images_per_minute": 30,
+    "seconds_per_image": 2.0,
+    "images_per_batch": 10,
+    "seconds_per_batch": 20.0,
+    "visual_style_standard": "65mm Live-Action / Physically Realistic 3D Historical Cinema (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T: warm sandstone highlights, deep ink-navy shadows)"
+  },
+  "episodes": [
+    {
+      "episode_number": "EP001",
+      "title": "Before the Dragons: The Rise of Old Valyria",
+      "historical_period": "Pre-Valyrian Antiquity to Early Valyrian Freehold (ca. 6,000–5,000+ BC)",
+      "target_runtime": "35:00",
+      "target_runtime_seconds": 2100,
+      "verified_spoken_words": 4580,
+      "speaking_rate_wpm": 130.9,
+      "total_scenes": 1050,
+      "total_batches": 105,
+      "status": "BATCHES_001_TO_006_COMPLETE_65MM_QC_APPROVED_AWAITING_BATCH_007",
+      "completed_batches": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "pending_batches_range": "007–105",
+      "next_episode_handoff": "EP002 — Iron Legions and Dragonfire: The Five Ghiscari Wars",
+      "completed_images_count": 60
+    }
+  ],
+  "google_drive_master_archive_id": "1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo"
+}

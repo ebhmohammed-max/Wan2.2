@@ -1,0 +1,220 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "visual_style_standard": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location cinematography (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade: warm sandstone highlights, muted earth/stone/bronze midtones, deep ink-navy shadows)",
+  "style_reference_benchmark": "The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_number": 6,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "01:40–02:00",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "ALL_10_RENDERED_IN_65MM_CINEMATIC_GRADE_AND_QC_APPROVED",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0051",
+      "timestamp": "01:40–01:42",
+      "shot_lens": "MS · 35mm",
+      "narration_slice": "watersheds of western Essos, legend",
+      "shot_type": "Frozen Rhoyne Watershed Towpath: Rhoynar Scouts & Multi-Arch Rose-Sandstone Bridge (35mm)",
+      "visual_beat": "65mm lateral tracking wide: two pelt-and-reed-cloaked Rhoynar river-scouts with bronze oil-lantern passing icicle-draped rose-sandstone bridge over buckled ice",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_006/VAL-EP001-IMG0051.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2456384,
+      "md5": "1d926eb5ad33e67fe28302e12d0f34ff",
+      "resolution": "1376x768",
+      "drive_file_id": "1XB6LUSkcJmJ5lGaGZa78jW9vVmTUlHBM",
+      "drive_url": "https://drive.google.com/file/d/1XB6LUSkcJmJ5lGaGZa78jW9vVmTUlHBM/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0052",
+      "timestamp": "01:42–01:44",
+      "shot_lens": "MCU · 65mm",
+      "narration_slice": "claims the waters of the River",
+      "shot_type": "Trapped Rhoynish Cedar River-Skiffs Crushed in Jagged Pressure-Ice Beside Quay (65mm)",
+      "visual_beat": "65mm telephoto medium-close: three shallow-draft carved cedar Rhoynish skiffs tilted in thick river pressure-ice beside snow-drifted rose-sandstone steps",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_006/VAL-EP001-IMG0052.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2891094,
+      "md5": "b4a3b79196beb11c0bc4f87eea795620",
+      "resolution": "1376x768",
+      "drive_file_id": "1JSAB3JrNmXygS3PplVXA_ptO3UdfvfP9",
+      "drive_url": "https://drive.google.com/file/d/1JSAB3JrNmXygS3PplVXA_ptO3UdfvfP9/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0053",
+      "timestamp": "01:44–01:46",
+      "shot_lens": "MS · 50mm",
+      "narration_slice": "Rhoyne froze as far south",
+      "shot_type": "Southern Rhoyne Freeze: Frost-Encased Lotus Pods, Palms & Weathered Sandstone Stele (50mm)",
+      "visual_beat": "65mm riverbank medium: withered lotus pods, reeds & southern date-palm fronds encased in heavy icicles beside weathered sandstone stele & terracotta oil-lamp",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_006/VAL-EP001-IMG0053.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2113238,
+      "md5": "47302ba2f4fef30cc2437ee133b01ddb",
+      "resolution": "1376x768",
+      "drive_file_id": "1JKsszW9MYwg5HU1Z5jQ7v-6ZPJmpbQYr",
+      "drive_url": "https://drive.google.com/file/d/1JKsszW9MYwg5HU1Z5jQ7v-6ZPJmpbQYr/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0054",
+      "timestamp": "01:46–01:48",
+      "shot_lens": "WS · 35mm",
+      "narration_slice": "as the joining of the Selhoru,",
+      "shot_type": "Frozen Confluence of the Selhoru & Mother Rhoyne Around Domed Island Pavilion (35mm)",
+      "visual_beat": "65mm cliff-bluff wide: Y-shaped frozen confluence of River Selhoru and Mother Rhoyne meeting around snow-covered island promontory & domed rose-sandstone pavilion",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_006/VAL-EP001-IMG0054.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2517827,
+      "md5": "675c5df6caa702f1bb82afc089ca9fd9",
+      "resolution": "1376x768",
+      "drive_file_id": "1RlK9anko7oxGXb7dj4si1DMHmGakczF4",
+      "drive_url": "https://drive.google.com/file/d/1RlK9anko7oxGXb7dj4si1DMHmGakczF4/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0055",
+      "timestamp": "01:48–01:50",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "lifting only when a hero",
+      "shot_type": "Lone Rhoynish Envoy Crossing Miles of Frozen River Ice With Bronze Lantern (24mm)",
+      "visual_beat": "65mm ice-level ultra-wide: solitary wolf-pelt-and-wool-cloaked Rhoynish hero-envoy walking across cracked frozen Mother Rhoyne toward distant torchlit sanctuary",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_006/VAL-EP001-IMG0055.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2303703,
+      "md5": "cbd0e65551c2e632669479d0ae7e4f0e",
+      "resolution": "1376x768",
+      "drive_file_id": "1MpI6x05PAyUAUa-LDufmj0Upr3rkLeGG",
+      "drive_url": "https://drive.google.com/file/d/1MpI6x05PAyUAUa-LDufmj0Upr3rkLeGG/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0056",
+      "timestamp": "01:50–01:52",
+      "shot_lens": "LAM · 24mm",
+      "narration_slice": "persuaded the quarreling children of Mother",
+      "shot_type": "Rival Rhoynish River-Clan Elders Facing Off Across Brazier in Rose-Sandstone Portico (24mm)",
+      "visual_beat": "65mm low-angle portico tableau: rival sea-slate & ochre-fur Rhoynar river-clan elders facing each other across stone fire-brazier as mediator urges unity",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_006/VAL-EP001-IMG0056.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2652298,
+      "md5": "a46d9e3707a7b9673e3854b7c11fc3d3",
+      "resolution": "1376x768",
+      "drive_file_id": "1HPF_t8mfeRi2Hg8HfrYzTArbA3ZzPLWi",
+      "drive_url": "https://drive.google.com/file/d/1HPF_t8mfeRi2Hg8HfrYzTArbA3ZzPLWi/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0057",
+      "timestamp": "01:52–01:54",
+      "shot_lens": "DET · 85mm",
+      "narration_slice": "Rhoyne—such as the Crab King",
+      "shot_type": "Torchlit Verdigris-Bronze Crab King Clan Totem & Crossed Tridents on Frost Plinth (85mm)",
+      "visual_beat": "65mm torchlit sanctuary close-up: ancient weathered verdigris-bronze Crab King ritual sculpture & crossed bronze fishing tridents dusted with frost & icicles",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_006/VAL-EP001-IMG0057.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 1770130,
+      "md5": "fc710418f9073e808726d5e30df76973",
+      "resolution": "1376x768",
+      "drive_file_id": "1Cwne_kExkSIdycPlzKgJBcGqg0r5d25X",
+      "drive_url": "https://drive.google.com/file/d/1Cwne_kExkSIdycPlzKgJBcGqg0r5d25X/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0058",
+      "timestamp": "01:54–01:56",
+      "shot_lens": "CU · 85mm",
+      "narration_slice": "and the Old Man of the",
+      "shot_type": "Close-Up of Sacred Rose-Sandstone Old Man of the River Giant Turtle Shrine (85mm)",
+      "visual_beat": "65mm sculptural close-up (locked to IMG0048): frost-and-icicle-rimmed pale rose-sandstone Giant River-Turtle shrine head lit by warm oil-lamp niche in snowfall",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_006/VAL-EP001-IMG0058.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2514785,
+      "md5": "734b726bf73b1dda67ec7a2ed968c393",
+      "resolution": "1376x768",
+      "drive_file_id": "195JVoTDUIiem298_l8Z7kAEVwdNKk-ng",
+      "drive_url": "https://drive.google.com/file/d/195JVoTDUIiem298_l8Z7kAEVwdNKk-ng/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0059",
+      "timestamp": "01:56–01:58",
+      "shot_lens": "DET · 100mm",
+      "narration_slice": "River—to join in a secret",
+      "shot_type": "Macro Hands Plucking Cedar-and-Tortoiseshell River-Lyre Beside Rippling Bronze Bowl (100mm)",
+      "visual_beat": "65mm firelit macro: frost-chapped hands in wool wrist-wraps plucking carved cedar-and-tortoiseshell river-lyre beside hammered bronze bowl with concentric sound ripples",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_006/VAL-EP001-IMG0059.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2346099,
+      "md5": "4ac626b38fc18fee14ce092fa9edc836",
+      "resolution": "1376x768",
+      "drive_file_id": "14ByiifTC-WOcyIKXsv_M_w2KSNchy3wh",
+      "drive_url": "https://drive.google.com/file/d/14ByiifTC-WOcyIKXsv_M_w2KSNchy3wh/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0060",
+      "timestamp": "01:58–02:00",
+      "shot_lens": "WS · 40mm",
+      "narration_slice": "song that brought back the day.",
+      "shot_type": "First Golden Sunrise Breaking Generation-Long Ink-Navy Clouds Over Thawing Rhoyne (40mm)",
+      "visual_beat": "65mm transitional dawn wide: cloaked Rhoynar elders on rose-sandstone bluff watching ink-navy winter cloud wall split into golden sunrise over cracking river ice",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_006/VAL-EP001-IMG0060.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 1705459,
+      "md5": "5bb69e5838883f58da365125165f1b7e",
+      "resolution": "1376x768",
+      "drive_file_id": "1hXs2vzoPSXTZTWbJMlHRvlEEvXckqksG",
+      "drive_url": "https://drive.google.com/file/d/1hXs2vzoPSXTZTWbJMlHRvlEEvXckqksG/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    }
+  ],
+  "batch_drive_folder_id": "1lCvQ1SjcrwiyO8Njm_fau0wXZIJUquFL",
+  "batch_drive_folder_url": "https://drive.google.com/drive/folders/1lCvQ1SjcrwiyO8Njm_fau0wXZIJUquFL"
+}

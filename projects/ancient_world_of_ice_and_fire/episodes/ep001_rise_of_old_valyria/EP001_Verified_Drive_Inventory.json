@@ -1,0 +1,1107 @@
+{
+  "project": "The Ancient World of Ice and Fire — Episode 001: Before the Dragons: The Rise of Old Valyria",
+  "target_runtime": "35:00 (2,100s · 4,580 spoken words)",
+  "visual_cadence": "30 images per minute (2.0 seconds per image)",
+  "target_images": 1050,
+  "batch_size": 10,
+  "total_batches": 105,
+  "completed_batches": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "next_batch": 7,
+  "next_image_number": 61,
+  "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "drive_folders": {
+    "master_root_folder": {
+      "name": "Game of thrones YT",
+      "drive_id": "1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo",
+      "url": "https://drive.google.com/drive/folders/1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo"
+    },
+    "series_continuity_database_folder": {
+      "name": "00_Series_Continuity_Database",
+      "drive_id": "11XqZp6EvaEJOlh4Qi6HFXhmW-BvrXV6N",
+      "url": "https://drive.google.com/drive/folders/11XqZp6EvaEJOlh4Qi6HFXhmW-BvrXV6N"
+    },
+    "episode_001_root_folder": {
+      "name": "EP001_Before_the_Dragons_The_Rise_of_Old_Valyria",
+      "drive_id": "1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn",
+      "url": "https://drive.google.com/drive/folders/1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn"
+    },
+    "episode_001_documents_folder": {
+      "name": "01_Production_Documents_and_1050_Scene_Map",
+      "drive_id": "1CxF8oJsax54b7-1wl28j7U16fijyy3gN",
+      "url": "https://drive.google.com/drive/folders/1CxF8oJsax54b7-1wl28j7U16fijyy3gN"
+    },
+    "episode_001_reference_plates_folder": {
+      "name": "02_Character_and_Chapter01_Reference_Plates",
+      "drive_id": "1N2J56MUziFyqGs0bEGGObj9tPhvkqh-L",
+      "url": "https://drive.google.com/drive/folders/1N2J56MUziFyqGs0bEGGObj9tPhvkqh-L"
+    },
+    "batch_001_folder": {
+      "name": "Batch_001_Images_0001-0010_Opening_Hook_00m00s-00m20s",
+      "drive_id": "1DdHqiHOcuhK1k0cItxMUtSgrlutbg4Ck",
+      "url": "https://drive.google.com/drive/folders/1DdHqiHOcuhK1k0cItxMUtSgrlutbg4Ck"
+    },
+    "batch_002_folder": {
+      "name": "Batch_002_Images_0011-0020_Dragons_and_Pastoral_Origins_00m20s-00m40s",
+      "drive_id": "1M3n_dNmKEw1doHuk7RIAqfw-pjmJwuEs",
+      "url": "https://drive.google.com/drive/folders/1M3n_dNmKEw1doHuk7RIAqfw-pjmJwuEs"
+    },
+    "batch_003_folder": {
+      "name": "Batch_003_Images_0021-0030_Shepherd_Clans_and_Fourteen_Flames_00m40s-01m00s",
+      "drive_id": "1ZducUWyyLb42NmkyReKqF4eYynbJbr9a",
+      "url": "https://drive.google.com/drive/folders/1ZducUWyyLb42NmkyReKqF4eYynbJbr9a"
+    },
+    "batch_004_folder": {
+      "name": "Batch_004_Images_0031-0040_Citadel_Chronology_and_Fragile_Records_01m00s-01m20s",
+      "drive_id": "1Lf1oGLC7V8WZbC2qKMmbhnGYLsHEn0rW",
+      "url": "https://drive.google.com/drive/folders/1Lf1oGLC7V8WZbC2qKMmbhnGYLsHEn0rW"
+    },
+    "batch_005_images_folder": {
+      "name": "Batch_005_Images_0041-0050_The_Long_Night_and_Frozen_Rhoyne_01m20s-01m40s",
+      "drive_id": "1VyMcx2FY3RmAoFzRgf_KUB7MHD3DvPKw",
+      "url": "https://drive.google.com/drive/folders/1VyMcx2FY3RmAoFzRgf_KUB7MHD3DvPKw"
+    },
+    "batch_006_images_folder": {
+      "name": "Batch_006_Images_0051-0060_Selhoru_Confluence_and_Song_of_the_Rhoyne_01m40s-02m00s",
+      "drive_id": "1lCvQ1SjcrwiyO8Njm_fau0wXZIJUquFL",
+      "url": "https://drive.google.com/drive/folders/1lCvQ1SjcrwiyO8Njm_fau0wXZIJUquFL"
+    }
+  },
+  "batch_001_images_65mm_upgraded": [
+    {
+      "number": 1,
+      "scene_id": "VAL-EP001-IMG0001",
+      "timestamp": "00:00–00:02",
+      "name": "VAL-EP001-IMG0001.png",
+      "drive_id": "1G1gd43xdLAukcY1C3A7er3nzVVocKI3p",
+      "resolution": "1376x768",
+      "size": 2374077,
+      "md5": "6b7a710fc0a7c60b0ff2f432d0ea31a0",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 2,
+      "scene_id": "VAL-EP001-IMG0002",
+      "timestamp": "00:02–00:04",
+      "name": "VAL-EP001-IMG0002.png",
+      "drive_id": "1t_LVCuGXVoF24WROCBTY7n7T2XEMEvEL",
+      "resolution": "1376x768",
+      "size": 2442518,
+      "md5": "8c624221d30ca5a86ff9cfaf02f1bc03",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 3,
+      "scene_id": "VAL-EP001-IMG0003",
+      "timestamp": "00:04–00:06",
+      "name": "VAL-EP001-IMG0003.png",
+      "drive_id": "18xCeiN_EqjBHEXc_WvoDHHgx7DOOjk2i",
+      "resolution": "1376x768",
+      "size": 2590008,
+      "md5": "79576030ad35e8b0e430e26143f604c3",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 4,
+      "scene_id": "VAL-EP001-IMG0004",
+      "timestamp": "00:06–00:08",
+      "name": "VAL-EP001-IMG0004.png",
+      "drive_id": "19HEs3nDg-ML015w8kq5ovHdG6HvqY0jY",
+      "resolution": "1376x768",
+      "size": 2676821,
+      "md5": "d12d57cb437588ee6267f1271550123a",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 5,
+      "scene_id": "VAL-EP001-IMG0005",
+      "timestamp": "00:08–00:10",
+      "name": "VAL-EP001-IMG0005.png",
+      "drive_id": "1b7UG0Dt8WE4Tsb0PgGqKfmnfiulc-KnC",
+      "resolution": "1376x768",
+      "size": 2688166,
+      "md5": "1f117bca6a904f32b1862f40131cd76f",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 6,
+      "scene_id": "VAL-EP001-IMG0006",
+      "timestamp": "00:10–00:12",
+      "name": "VAL-EP001-IMG0006.png",
+      "drive_id": "1sK-RRL7H2NIzunmbJp-KXdtqwpJmlNcG",
+      "resolution": "1376x768",
+      "size": 2697723,
+      "md5": "1e988847facb13c69f8a3cf6b1f5c723",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 7,
+      "scene_id": "VAL-EP001-IMG0007",
+      "timestamp": "00:12–00:14",
+      "name": "VAL-EP001-IMG0007.png",
+      "drive_id": "1KpgTktDhqD2vbJT1gCiFD6JdZZm6JP-n",
+      "resolution": "1376x768",
+      "size": 2330901,
+      "md5": "deee1c9e7dc8c2357e4964ee18acf317",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 8,
+      "scene_id": "VAL-EP001-IMG0008",
+      "timestamp": "00:14–00:16",
+      "name": "VAL-EP001-IMG0008.png",
+      "drive_id": "1s45WhZFs6goVvfM_HpBxfn0jmYpWl4w2",
+      "resolution": "1376x768",
+      "size": 2574060,
+      "md5": "2d7dc14e8827ea1a0ed258d9f8adda6f",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 9,
+      "scene_id": "VAL-EP001-IMG0009",
+      "timestamp": "00:16–00:18",
+      "name": "VAL-EP001-IMG0009.png",
+      "drive_id": "1JDwHwTaaJyZW_H1ee5bCm8AIr_1mZxK7",
+      "resolution": "1376x768",
+      "size": 2669053,
+      "md5": "18beeac10c15c70792adb4bf375b2613",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 10,
+      "scene_id": "VAL-EP001-IMG0010",
+      "timestamp": "00:18–00:20",
+      "name": "VAL-EP001-IMG0010.png",
+      "drive_id": "16n_uQUzAOho88RYhjJskFO8Jjb_rr-D-",
+      "resolution": "1376x768",
+      "size": 2812694,
+      "md5": "fcc3d1446d09ae086deec4e97f0c76cf",
+      "upload_checksum_verified": true
+    }
+  ],
+  "reference_and_anchor_plates": [
+    {
+      "name": "REF_CHAR_VAL_001_elder_shepherd.png",
+      "drive_id": "1IhjeyajzTq0BOR1Ec4WkpsqmY6iqGFsL",
+      "size": 2551255,
+      "md5": "b483fc2ec2878778e49f4779642798f9",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "REF_CHAR_GHI_001_grazdan_the_great.png",
+      "drive_id": "1pxkCgEI-KLlPaJq0GpT5YzX7JD-Liay6",
+      "size": 2783757,
+      "md5": "2469734b8313416c841deeeb08e94a90",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "VAL-EP001-IMG0010_peninsula_reveal.png",
+      "drive_id": "1QeZqKQ5IWhu0lO6XjJXo1Q3fFexiRCpF",
+      "size": 2812694,
+      "md5": "fcc3d1446d09ae086deec4e97f0c76cf",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "VAL-EP001-IMG0033_ancient_runes.png",
+      "drive_id": "11n3WLSLsaTqsy1jysXE46J6-tE2A81QG",
+      "size": 2321772,
+      "md5": "e8f78e2a71f61167e16324035e2137d3",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "VAL-EP001-IMG0048_frozen_rhoyne.png",
+      "drive_id": "1l9195I-XKrz3EDZ_1P6h3bM0TW99q7XY",
+      "size": 2575377,
+      "md5": "58c2a1daf59067a06fc311791911d305",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "VAL-EP001-IMG0064_bone_mountains.png",
+      "drive_id": "1lRZscGO-1FU3XUt0DEOS7SQwvucpy4mj",
+      "size": 2216814,
+      "md5": "e310e8e49345bd162d80468105278d5d",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "VAL-EP001-IMG0082_mother_rhoyne_iron.png",
+      "drive_id": "1jEMF5YZlKEkjseALHupfxbG0VB7h2Mfd",
+      "size": 2777775,
+      "md5": "f198a503145e66d4bc44b3c73372c0ec",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "VAL-EP001-IMG0095_asshai_shadow.png",
+      "drive_id": "1vyweIHcnIyrWXVRQaFrlBPFZ6wTFQvmW",
+      "size": 2052639,
+      "md5": "b31a0434f7ecde341345b7daaca90694",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "VAL-EP001-IMG0110_old_ghis_harpy.png",
+      "drive_id": "1mKonHpSHUPPGDEITZPehCoEie9J_-_nB",
+      "size": 2742033,
+      "md5": "bf5466223c358e5394e54f53d9757a2c",
+      "upload_checksum_verified": true
+    }
+  ],
+  "production_documents_and_databases": [
+    {
+      "name": "README_Series_Master_Guide.md",
+      "drive_id": "1XojO5yYp76jeEPoV3NXtNJHNdnoBHBYV",
+      "size": 8364,
+      "md5": "56517b0bc7120cf99cb42cfaadb7a8c0",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "A_MASTER_TIMELINE.md",
+      "drive_id": "1ztPj3_rgNzVqzweaxCT5Wh764xixlbZU",
+      "size": 6723,
+      "md5": "a5436ae4a7046f978deb002c905558b6",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "B_CHARACTER_DATABASE.md",
+      "drive_id": "1ROJkooPyb2prF9mdEMVL05nG04J-TFJK",
+      "size": 13240,
+      "md5": "7e4fcefdcce91db5dc49230e8da23061",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "C_FAMILY_DATABASE.md",
+      "drive_id": "1Vxj2riScX87DLZTmIv5FUPVFMpvgiC7A",
+      "size": 3005,
+      "md5": "7e1b063702f5f54b1d5bae62ba249637",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "D_LOCATION_DATABASE.md",
+      "drive_id": "1TPxh26bJcQstVBBBQRvf5-EXfowIvOMD",
+      "size": 14832,
+      "md5": "fb76bc2cc0b88e036a5ae21baaf4ca9a",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "E_DRAGON_DATABASE.md",
+      "drive_id": "1lwrbY3BlucEh-xMZFYe2xkj62TahG_Mm",
+      "size": 6620,
+      "md5": "ef68cc6d67523f4a4626eb6218601aed",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "F_EPISODE_DATABASE.json",
+      "drive_id": "13pE_0uzTkU-eJTK6MH-BG9IZnQCJpADc",
+      "size": 1458,
+      "md5": "e0e2983972fe153f56ea4ad81958d6b5",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "G_VISUAL_ASSET_DATABASE.json",
+      "drive_id": "1cImAsHLor1vHoYDcl8Jr7NzVjNQYTEeg",
+      "size": 12708,
+      "md5": "d28428cdfd3ff6c71e426640f3d29f38",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "H_UNRESOLVED_LORE_DATABASE.md",
+      "drive_id": "1I5jtlELM-OEk7_AOODPP9I1weWhlExDH",
+      "size": 4524,
+      "md5": "b8c4b54671b283f90ea38f9d0e1140c7",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "EP001_MASTER_PRODUCTION_PACKAGE.md",
+      "drive_id": "1c4LDMYf4kAwm0y-Q0JeQa_BgAkCLl65w",
+      "size": 196763,
+      "md5": "cf46210660480c09d2aeb95d0275fd9f",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "STORYBOARD_BATCH_001_PREVIEW.html",
+      "drive_id": "1f644edI4m3-48a1ozuE0Zh7BEVyerJAx",
+      "size": 11433,
+      "md5": "4feabd6c093f3dd9a96bae52db9c8ada",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "00_PRIVATE_RESEARCH_AND_SOURCES.md",
+      "drive_id": "16RPBPPjkQH9l_pd7JIVpnFvbIJChHdyV",
+      "size": 11488,
+      "md5": "50394cdce3a1e89abbb8027444e756e0",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "01_EPISODE_BLUEPRINT.md",
+      "drive_id": "1lEKLSQVtYZXgyCjhbwhVRXcadqWefBm9",
+      "size": 8583,
+      "md5": "696a89c5e0b450cf86ca2794af4821e7",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "02_COMPLETE_NARRATION_SCRIPT.md",
+      "drive_id": "1KKDHqF2JzoIWp6xA78JQQqf8bhXbGdOv",
+      "size": 42117,
+      "md5": "f779a5f7a81aa8503a37d047775dd0f2",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "02_SPOKEN_NARRATION_ONLY.txt",
+      "drive_id": "1QZY66oHL_pKdqWM0NtPXR0Hn5uZ1vmc8",
+      "size": 29829,
+      "md5": "bcc75ff9f6df9a90c82db5349eea7ceb",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "03_SCENE_BREAKDOWN_1050_SCENES.md",
+      "drive_id": "1SZGUU1vmnhjFrGAyJ3MAa3ofGtqsOTDQ",
+      "size": 262438,
+      "md5": "1eb373dd42194d835462157ce6b34777",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "03_SCENE_BREAKDOWN_1050_SCENES.json",
+      "drive_id": "1NwQ1NBwSygz0vubs5WJt_07PbsK2pmbA",
+      "size": 471525,
+      "md5": "4f064dda0f0435b88d5700d031d9d6a7",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "03_SCENE_BREAKDOWN_1050_SCENES.csv",
+      "drive_id": "14uOGtYe8kH5PFEx_vIDn25p37hFD8rY6",
+      "size": 390526,
+      "md5": "40b0c5abb961831b22f12b1d9c989979",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "04_CHARACTER_BIBLE.md",
+      "drive_id": "1X8CjoG3q60_DUWz8D1dVrG4PV9Ji67kX",
+      "size": 10593,
+      "md5": "39ede704a779766ed94dcca743b0a96b",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "05_LOCATION_AND_DRAGON_BIBLE.md",
+      "drive_id": "1uz9d5QKfZS1x1FgNDn84ARW2BgYn4pY8",
+      "size": 8105,
+      "md5": "11ebde1d2b0289aafceb19fd6ced94fc",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "06_IMAGE_PROMPTS_BATCH_001.md",
+      "drive_id": "1EsJ18GrgR3_Z_uP_7jeuRBjNMlvTNDLq",
+      "size": 24829,
+      "md5": "d298d152628f795b21d50fb0a3f10800",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "06_BATCH_001_MANIFEST.json",
+      "drive_id": "1IzACmsTfFMdljFk0mqxn3nSmb87vhSDm",
+      "size": 8439,
+      "md5": "0f71a0226f1100e823dfa92c6bbf5b5f",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "07_CONTINUITY_AND_QC_REPORT.md",
+      "drive_id": "12xiHXhT_kNbySBlEYL91FTKlv_BkrtW4",
+      "size": 17066,
+      "md5": "23c48a0b93a804315e767fad754c568d",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "08_YOUTUBE_PUBLISHING_PACKAGE.md",
+      "drive_id": "1uh8em94GMxwisicQgttaTNgRcoAro7Ta",
+      "size": 7965,
+      "md5": "34de2fb2d17359a7f582ef3d26c24361",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "06_IMAGE_PROMPTS_BATCH_002.md",
+      "drive_id": "1hGpw7PmAuu_xXuIrdgKCsJQuuea1rudd",
+      "size": 25038,
+      "md5": "6d3e678381d6be29bb94d7133c00d1f3",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "06_BATCH_002_MANIFEST.json",
+      "drive_id": "1hPikLKdcTL8lmv1JdJE1eOl_beTU-Ggf",
+      "size": 9594,
+      "md5": "482f829e03866ee8e8266a565e75fd5f",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "STORYBOARD_BATCH_002_PREVIEW.html",
+      "drive_id": "1AbMZuVGOTA62NoiRE9MzKKwNpdOFvIgJ",
+      "size": 19556,
+      "md5": "e648825bbc95aa20ef77506e3bd124f0",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "06_IMAGE_PROMPTS_BATCH_003.md",
+      "drive_id": "1yK2D6UB0ngx2iNaqkFrpLpnzxkMDCEi8",
+      "size": 25281,
+      "md5": "cbfb5b6f5b30cc726cbf8e8463410417",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "06_BATCH_003_MANIFEST.json",
+      "drive_id": "1_F7RdanBrvFuDtILNz3QLk7OlIlctrCP",
+      "size": 9884,
+      "md5": "d054f6bc8761c6c6ada9078303fbdc06",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "STORYBOARD_BATCH_003_PREVIEW.html",
+      "drive_id": "1rDhR_wYa_gBezsUUPATmxF7CP9Qd36KR",
+      "size": 12508,
+      "md5": "abd9961b0382fc5aa8591ee5915e4ff0",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "06_IMAGE_PROMPTS_BATCH_004.md",
+      "drive_id": "10eW6vzxEjxKOY4fGq0vjLvp461CLH_g9",
+      "size": 22224,
+      "md5": "8c4ddf51b0ae26737e3c9dc6dfaaa111",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "06_BATCH_004_MANIFEST.json",
+      "drive_id": "1MJGh4ITw1Eahd5zsEUyXZEIUWxZKTziL",
+      "size": 9615,
+      "md5": "ce728f31f35732127b81cf77fec01495",
+      "upload_checksum_verified": true
+    },
+    {
+      "name": "STORYBOARD_BATCH_004_PREVIEW.html",
+      "drive_id": "1dFB7yRvEBOqwd7TOH3eczJWF4md693K6",
+      "size": 12501,
+      "md5": "f62d18800c76b2e640a6bc26b6b53702",
+      "upload_checksum_verified": true
+    }
+  ],
+  "completed_images": 40,
+  "batch_002_images_65mm": [
+    {
+      "number": 11,
+      "scene_id": "VAL-EP001-IMG0011",
+      "timestamp": "00:20–00:22",
+      "name": "VAL-EP001-IMG0011.png",
+      "drive_id": "1XIpXcEhRmIfJj1bTuhYukNTc-V5467rI",
+      "resolution": "1376x768",
+      "size": 2688597,
+      "md5": "fd8784d21f8a3a682c83860157f2f04f",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 12,
+      "scene_id": "VAL-EP001-IMG0012",
+      "timestamp": "00:22–00:24",
+      "name": "VAL-EP001-IMG0012.png",
+      "drive_id": "1Zo4uGOGD_Fxfr8iAli3_paWFPi-clyEC",
+      "resolution": "1376x768",
+      "size": 2517197,
+      "md5": "7d905d3719c401130c31f04195ed83cb",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 13,
+      "scene_id": "VAL-EP001-IMG0013",
+      "timestamp": "00:24–00:26",
+      "name": "VAL-EP001-IMG0013.png",
+      "drive_id": "19k7eBOqNxy26c0X1gXRLi9r-XwLVRFBu",
+      "resolution": "1376x768",
+      "size": 2614534,
+      "md5": "09fad5a3fa8b077a51ce12dc4da8ae34",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 14,
+      "scene_id": "VAL-EP001-IMG0014",
+      "timestamp": "00:26–00:28",
+      "name": "VAL-EP001-IMG0014.png",
+      "drive_id": "1yNnwL-oRrPicpMPCi6LshmzNmy2DVDBc",
+      "resolution": "1376x768",
+      "size": 2421825,
+      "md5": "a0989de0f71b99dbcd755cfc73d30efc",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 15,
+      "scene_id": "VAL-EP001-IMG0015",
+      "timestamp": "00:28–00:30",
+      "name": "VAL-EP001-IMG0015.png",
+      "drive_id": "19k_fB9xeo-3gf8Pax57trR_FYzzLFvnU",
+      "resolution": "1376x768",
+      "size": 2172423,
+      "md5": "44d817c07b0cd037ab93518daa8deada",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 16,
+      "scene_id": "VAL-EP001-IMG0016",
+      "timestamp": "00:30–00:32",
+      "name": "VAL-EP001-IMG0016.png",
+      "drive_id": "1s3H9Fc4hxcpnbfmEjX7JSu76wObpJgIk",
+      "resolution": "1376x768",
+      "size": 2727778,
+      "md5": "f15f33803f24118aa8c3a0e93cd7446d",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 17,
+      "scene_id": "VAL-EP001-IMG0017",
+      "timestamp": "00:32–00:34",
+      "name": "VAL-EP001-IMG0017.png",
+      "drive_id": "1le4dRyjnME3YjJyF-3HFpcYdkg3OXdQf",
+      "resolution": "1376x768",
+      "size": 2418675,
+      "md5": "f8b5d5bf540d325ff5a90959161bf3a3",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 18,
+      "scene_id": "VAL-EP001-IMG0018",
+      "timestamp": "00:34–00:36",
+      "name": "VAL-EP001-IMG0018.png",
+      "drive_id": "17rKBVXL2Ac0e9O2Pxl8LiAhCOb8b78wP",
+      "resolution": "1376x768",
+      "size": 2661649,
+      "md5": "70dac308eb716bfe1875c24d4696e859",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 19,
+      "scene_id": "VAL-EP001-IMG0019",
+      "timestamp": "00:36–00:38",
+      "name": "VAL-EP001-IMG0019.png",
+      "drive_id": "1aQgFkkYI_X_xxq_t2O02qupdRdwsbJ79",
+      "resolution": "1376x768",
+      "size": 2660970,
+      "md5": "7834361b1947e571bf299820e076afa6",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 20,
+      "scene_id": "VAL-EP001-IMG0020",
+      "timestamp": "00:38–00:40",
+      "name": "VAL-EP001-IMG0020.png",
+      "drive_id": "13uyP4Jon2Ph_B6J9WR-6MwE2lFry1gU_",
+      "resolution": "1376x768",
+      "size": 2467299,
+      "md5": "84daa995f7db09e0fd0b1a6ec7471995",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_003_images_65mm": [
+    {
+      "number": 21,
+      "scene_id": "VAL-EP001-IMG0021",
+      "timestamp": "00:40–00:42",
+      "name": "VAL-EP001-IMG0021.png",
+      "drive_id": "1TEnxxKubYJm68hj5YTjxMPstuELdmYLN",
+      "resolution": "1376x768",
+      "size": 2755638,
+      "md5": "c1bda5333cb02fafdb672a656dcce490",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 22,
+      "scene_id": "VAL-EP001-IMG0022",
+      "timestamp": "00:42–00:44",
+      "name": "VAL-EP001-IMG0022.png",
+      "drive_id": "1LW2JWpU0226-SkZgoUpc5YTs-o-SVhVS",
+      "resolution": "1376x768",
+      "size": 2792419,
+      "md5": "3980e51d9bf62e0872397f6a0fa8cf50",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 23,
+      "scene_id": "VAL-EP001-IMG0023",
+      "timestamp": "00:44–00:46",
+      "name": "VAL-EP001-IMG0023.png",
+      "drive_id": "1DkKBK7jxor4gOw7sse4SoC_9kC3_on8H",
+      "resolution": "1376x768",
+      "size": 2767885,
+      "md5": "cda2435745b8edca56c9bd4619a72770",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 24,
+      "scene_id": "VAL-EP001-IMG0024",
+      "timestamp": "00:46–00:48",
+      "name": "VAL-EP001-IMG0024.png",
+      "drive_id": "17GaSlj7HNZoMVJHnmVZP_yjFRhEBOloF",
+      "resolution": "1376x768",
+      "size": 2691757,
+      "md5": "79dcb71705f6945e35a4fd1f4d54c8e3",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 25,
+      "scene_id": "VAL-EP001-IMG0025",
+      "timestamp": "00:48–00:50",
+      "name": "VAL-EP001-IMG0025.png",
+      "drive_id": "1ETrLzTakM05F34DUXsKaB4MDqAQAqVOO",
+      "resolution": "1376x768",
+      "size": 2265023,
+      "md5": "ee4c21f81ec604443342b4857ce22c21",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 26,
+      "scene_id": "VAL-EP001-IMG0026",
+      "timestamp": "00:50–00:52",
+      "name": "VAL-EP001-IMG0026.png",
+      "drive_id": "1yJ4qwp7xrs_ISiE79sDaiyZait0dYNmQ",
+      "resolution": "1376x768",
+      "size": 2809310,
+      "md5": "af301cc6fc7b7b34f9b3ddfd77f89454",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 27,
+      "scene_id": "VAL-EP001-IMG0027",
+      "timestamp": "00:52–00:54",
+      "name": "VAL-EP001-IMG0027.png",
+      "drive_id": "1Ln-2QYFnxaFd_8zrJ0ryz2OK5U8toNF0",
+      "resolution": "1376x768",
+      "size": 2790513,
+      "md5": "0902abb20d31ae4ffc22c4d3169450cd",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 28,
+      "scene_id": "VAL-EP001-IMG0028",
+      "timestamp": "00:54–00:56",
+      "name": "VAL-EP001-IMG0028.png",
+      "drive_id": "1TYsO5sbBsNPrkznZNtV1pItzjq9WdrcC",
+      "resolution": "1376x768",
+      "size": 2522582,
+      "md5": "2518b262bb8154c75397228b9a7243ab",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 29,
+      "scene_id": "VAL-EP001-IMG0029",
+      "timestamp": "00:56–00:58",
+      "name": "VAL-EP001-IMG0029.png",
+      "drive_id": "1Vke8LfksMLHMOQ2tQbDzrjdDIWGTeFvO",
+      "resolution": "1376x768",
+      "size": 3051068,
+      "md5": "099e5d3a7d558384d5dbd7d6e00e8934",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 30,
+      "scene_id": "VAL-EP001-IMG0030",
+      "timestamp": "00:58–01:00",
+      "name": "VAL-EP001-IMG0030.png",
+      "drive_id": "12wMP0PH8gyxThPzQKdo_zLoaExwqYzJw",
+      "resolution": "1376x768",
+      "size": 2311612,
+      "md5": "5b2459f42b6f8b6727e8b86848fb7974",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_004_images_65mm": [
+    {
+      "number": 31,
+      "scene_id": "VAL-EP001-IMG0031",
+      "timestamp": "01:00–01:02",
+      "name": "VAL-EP001-IMG0031.png",
+      "drive_id": "1jn-PEfRYveyNb3ZQsXpOm0yanThxeKql",
+      "resolution": "1376x768",
+      "size": 2110873,
+      "md5": "c0b516867be682ebea4171c60c226456",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 32,
+      "scene_id": "VAL-EP001-IMG0032",
+      "timestamp": "01:02–01:04",
+      "name": "VAL-EP001-IMG0032.png",
+      "drive_id": "1BjbinEb6v-ewj2RLCvxbL-D-LXgBj74_",
+      "resolution": "1376x768",
+      "size": 2769328,
+      "md5": "4f1b3c339f88445262821cbe77248395",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 33,
+      "scene_id": "VAL-EP001-IMG0033",
+      "timestamp": "01:04–01:06",
+      "name": "VAL-EP001-IMG0033.png",
+      "drive_id": "1RCLVRkNoMh1iSHpUGWIpKraKaWiDQsVV",
+      "resolution": "1376x768",
+      "size": 2458383,
+      "md5": "ab6223784afb729cef5a1e98e0416013",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 34,
+      "scene_id": "VAL-EP001-IMG0034",
+      "timestamp": "01:06–01:08",
+      "name": "VAL-EP001-IMG0034.png",
+      "drive_id": "1HHWeIvhVp3BgkcrgWjg0jgzTVqjV8Ib7",
+      "resolution": "1376x768",
+      "size": 2315504,
+      "md5": "9ac403ece2201797535d6ead898cafb0",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 35,
+      "scene_id": "VAL-EP001-IMG0035",
+      "timestamp": "01:08–01:10",
+      "name": "VAL-EP001-IMG0035.png",
+      "drive_id": "1xSG_Nofgj5JRogCCYtIq8yCm3UjH1AjR",
+      "resolution": "1376x768",
+      "size": 2644847,
+      "md5": "0c5071a377368280689aef799c88a0c2",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 36,
+      "scene_id": "VAL-EP001-IMG0036",
+      "timestamp": "01:10–01:12",
+      "name": "VAL-EP001-IMG0036.png",
+      "drive_id": "1dFpO6OQpH_KHwgkMdgfaE1mwbq4lPetT",
+      "resolution": "1376x768",
+      "size": 2354750,
+      "md5": "845aa92aa21b25f7c323060e4e01eccd",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 37,
+      "scene_id": "VAL-EP001-IMG0037",
+      "timestamp": "01:12–01:14",
+      "name": "VAL-EP001-IMG0037.png",
+      "drive_id": "1bOCTJNLnUtiRFewFPNyAGmdA6m5Yfb9V",
+      "resolution": "1376x768",
+      "size": 2585992,
+      "md5": "d32fcc190a249d8492e046264104c186",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 38,
+      "scene_id": "VAL-EP001-IMG0038",
+      "timestamp": "01:14–01:16",
+      "name": "VAL-EP001-IMG0038.png",
+      "drive_id": "1Df4r7mZoPizyuAPpDmiwQy0JGsbBAZpZ",
+      "resolution": "1376x768",
+      "size": 2615786,
+      "md5": "e4e8a1fcb5475573ed92f3d3c438c444",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 39,
+      "scene_id": "VAL-EP001-IMG0039",
+      "timestamp": "01:16–01:18",
+      "name": "VAL-EP001-IMG0039.png",
+      "drive_id": "1yjf3mjbs_8qJcJpLIvfi3vC7Uc-pIXVJ",
+      "resolution": "1376x768",
+      "size": 2658254,
+      "md5": "aa5e1277b8631717ec88811ccc9820de",
+      "upload_checksum_verified": true
+    },
+    {
+      "number": 40,
+      "scene_id": "VAL-EP001-IMG0040",
+      "timestamp": "01:18–01:20",
+      "name": "VAL-EP001-IMG0040.png",
+      "drive_id": "119wN8YR8ECwQ9QTxEJMz4jXOunsFHNni",
+      "resolution": "1376x768",
+      "size": 2339095,
+      "md5": "ea0ddff73acba5173c467cf155d6ba2c",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_005_verified_images": [
+    {
+      "image_number": 41,
+      "scene_id": "VAL-EP001-IMG0041",
+      "batch": 5,
+      "timestamp": "01:20–01:22",
+      "file_name": "VAL-EP001-IMG0041.png",
+      "drive_id": "1zV9plq87-4ptrnUJQEvhdmUPb4Z0uP3L",
+      "drive_folder_id": "1VyMcx2FY3RmAoFzRgf_KUB7MHD3DvPKw",
+      "resolution": "1376x768",
+      "size_bytes": 2413639,
+      "md5": "23764608d042a48c8a5bf76f2966b5ca",
+      "md5_verified": true,
+      "narration_slice": "wide continent of Essos"
+    },
+    {
+      "image_number": 42,
+      "scene_id": "VAL-EP001-IMG0042",
+      "batch": 5,
+      "timestamp": "01:22–01:24",
+      "file_name": "VAL-EP001-IMG0042.png",
+      "drive_id": "1MrAE8cuVvP84_7XCicHRgKSYd4-s9jjW",
+      "drive_folder_id": "1VyMcx2FY3RmAoFzRgf_KUB7MHD3DvPKw",
+      "resolution": "1376x768",
+      "size_bytes": 2864118,
+      "md5": "eb5bc38babb4df03cdd0b8aa92ef6f29",
+      "md5_verified": true,
+      "narration_slice": "was still emerging from the"
+    },
+    {
+      "image_number": 43,
+      "scene_id": "VAL-EP001-IMG0043",
+      "batch": 5,
+      "timestamp": "01:24–01:26",
+      "file_name": "VAL-EP001-IMG0043.png",
+      "drive_id": "1SfcWFyEaEAMFfXavgAO9jNzLhwwwOzeX",
+      "drive_folder_id": "1VyMcx2FY3RmAoFzRgf_KUB7MHD3DvPKw",
+      "resolution": "1376x768",
+      "size_bytes": 2313724,
+      "md5": "ee45ec337719afefe0802bda268adf70",
+      "md5_verified": true,
+      "narration_slice": "long, traumatized shadow of"
+    },
+    {
+      "image_number": 44,
+      "scene_id": "VAL-EP001-IMG0044",
+      "batch": 5,
+      "timestamp": "01:26–01:28",
+      "file_name": "VAL-EP001-IMG0044.png",
+      "drive_id": "1iFDVsoCYlj5R6WUORmfhQp2-0YHAj_WC",
+      "drive_folder_id": "1VyMcx2FY3RmAoFzRgf_KUB7MHD3DvPKw",
+      "resolution": "1376x768",
+      "size_bytes": 2422029,
+      "md5": "8af3a42ba968e5917ee967ddb1abf9fe",
+      "md5_verified": true,
+      "narration_slice": "a catastrophe remembered in every"
+    },
+    {
+      "image_number": 45,
+      "scene_id": "VAL-EP001-IMG0045",
+      "batch": 5,
+      "timestamp": "01:28–01:30",
+      "file_name": "VAL-EP001-IMG0045.png",
+      "drive_id": "1gyeNqgrfzrxx4VV9Ni1UoP5UeM0g0I2_",
+      "drive_folder_id": "1VyMcx2FY3RmAoFzRgf_KUB7MHD3DvPKw",
+      "resolution": "1376x768",
+      "size_bytes": 2004832,
+      "md5": "3e786f0fe6854c2a97e78ca1d0a48421",
+      "md5_verified": true,
+      "narration_slice": "tongue: the Long Night."
+    },
+    {
+      "image_number": 46,
+      "scene_id": "VAL-EP001-IMG0046",
+      "batch": 5,
+      "timestamp": "01:30–01:32",
+      "file_name": "VAL-EP001-IMG0046.png",
+      "drive_id": "1kQYsiTOUENlRQnEmIuLI06QIy50nnhIv",
+      "drive_folder_id": "1VyMcx2FY3RmAoFzRgf_KUB7MHD3DvPKw",
+      "resolution": "1376x768",
+      "size_bytes": 2444021,
+      "md5": "2dd531cc7942b6c53c36cc40da68d728",
+      "md5_verified": true,
+      "narration_slice": "According to the surviving accounts gathered"
+    },
+    {
+      "image_number": 47,
+      "scene_id": "VAL-EP001-IMG0047",
+      "batch": 5,
+      "timestamp": "01:32–01:34",
+      "file_name": "VAL-EP001-IMG0047.png",
+      "drive_id": "1uLvAqIN-_pOzZ0FUPqQIryXr-52c1dyF",
+      "drive_folder_id": "1VyMcx2FY3RmAoFzRgf_KUB7MHD3DvPKw",
+      "resolution": "1376x768",
+      "size_bytes": 2654316,
+      "md5": "3231cf318dba9382a62d5422ab483ce4",
+      "md5_verified": true,
+      "narration_slice": "in The World of Ice"
+    },
+    {
+      "image_number": 48,
+      "scene_id": "VAL-EP001-IMG0048",
+      "batch": 5,
+      "timestamp": "01:34–01:36",
+      "file_name": "VAL-EP001-IMG0048.png",
+      "drive_id": "142Jj-OPA_0094BjfrTZ9S4A6aP8jTR5q",
+      "drive_folder_id": "1VyMcx2FY3RmAoFzRgf_KUB7MHD3DvPKw",
+      "resolution": "1376x768",
+      "size_bytes": 2530929,
+      "md5": "5a17a15538207b00e9c7daffaaff43f8",
+      "md5_verified": true,
+      "narration_slice": "and Fire, bitter darkness had once"
+    },
+    {
+      "image_number": 49,
+      "scene_id": "VAL-EP001-IMG0049",
+      "batch": 5,
+      "timestamp": "01:36–01:38",
+      "file_name": "VAL-EP001-IMG0049.png",
+      "drive_id": "1Y85uQgMLtGtrxeD2eBs1gZpmoyz3t2Fm",
+      "drive_folder_id": "1VyMcx2FY3RmAoFzRgf_KUB7MHD3DvPKw",
+      "resolution": "1376x768",
+      "size_bytes": 1535092,
+      "md5": "714c5e8bfec0e50224476203b062568f",
+      "md5_verified": true,
+      "narration_slice": "gripped the eastern continent for"
+    },
+    {
+      "image_number": 50,
+      "scene_id": "VAL-EP001-IMG0050",
+      "batch": 5,
+      "timestamp": "01:38–01:40",
+      "file_name": "VAL-EP001-IMG0050.png",
+      "drive_id": "1wyM5Q85iyYe2tTq6ebmTwFVnLLxDFVLv",
+      "drive_folder_id": "1VyMcx2FY3RmAoFzRgf_KUB7MHD3DvPKw",
+      "resolution": "1376x768",
+      "size_bytes": 2624076,
+      "md5": "5dec02d8976d6cb8f2b31c3d2836eed8",
+      "md5_verified": true,
+      "narration_slice": "an entire generation. Along the vast"
+    }
+  ],
+  "batch_006_verified_images": [
+    {
+      "image_number": 51,
+      "scene_id": "VAL-EP001-IMG0051",
+      "batch": 6,
+      "timestamp": "01:40–01:42",
+      "file_name": "VAL-EP001-IMG0051.png",
+      "drive_id": "1XB6LUSkcJmJ5lGaGZa78jW9vVmTUlHBM",
+      "drive_folder_id": "1lCvQ1SjcrwiyO8Njm_fau0wXZIJUquFL",
+      "resolution": "1376x768",
+      "size_bytes": 2456384,
+      "md5": "1d926eb5ad33e67fe28302e12d0f34ff",
+      "md5_verified": true,
+      "narration_slice": "watersheds of western Essos, legend"
+    },
+    {
+      "image_number": 52,
+      "scene_id": "VAL-EP001-IMG0052",
+      "batch": 6,
+      "timestamp": "01:42–01:44",
+      "file_name": "VAL-EP001-IMG0052.png",
+      "drive_id": "1JSAB3JrNmXygS3PplVXA_ptO3UdfvfP9",
+      "drive_folder_id": "1lCvQ1SjcrwiyO8Njm_fau0wXZIJUquFL",
+      "resolution": "1376x768",
+      "size_bytes": 2891094,
+      "md5": "b4a3b79196beb11c0bc4f87eea795620",
+      "md5_verified": true,
+      "narration_slice": "claims the waters of the River"
+    },
+    {
+      "image_number": 53,
+      "scene_id": "VAL-EP001-IMG0053",
+      "batch": 6,
+      "timestamp": "01:44–01:46",
+      "file_name": "VAL-EP001-IMG0053.png",
+      "drive_id": "1JKsszW9MYwg5HU1Z5jQ7v-6ZPJmpbQYr",
+      "drive_folder_id": "1lCvQ1SjcrwiyO8Njm_fau0wXZIJUquFL",
+      "resolution": "1376x768",
+      "size_bytes": 2113238,
+      "md5": "47302ba2f4fef30cc2437ee133b01ddb",
+      "md5_verified": true,
+      "narration_slice": "Rhoyne froze as far south"
+    },
+    {
+      "image_number": 54,
+      "scene_id": "VAL-EP001-IMG0054",
+      "batch": 6,
+      "timestamp": "01:46–01:48",
+      "file_name": "VAL-EP001-IMG0054.png",
+      "drive_id": "1RlK9anko7oxGXb7dj4si1DMHmGakczF4",
+      "drive_folder_id": "1lCvQ1SjcrwiyO8Njm_fau0wXZIJUquFL",
+      "resolution": "1376x768",
+      "size_bytes": 2517827,
+      "md5": "675c5df6caa702f1bb82afc089ca9fd9",
+      "md5_verified": true,
+      "narration_slice": "as the joining of the Selhoru,"
+    },
+    {
+      "image_number": 55,
+      "scene_id": "VAL-EP001-IMG0055",
+      "batch": 6,
+      "timestamp": "01:48–01:50",
+      "file_name": "VAL-EP001-IMG0055.png",
+      "drive_id": "1MpI6x05PAyUAUa-LDufmj0Upr3rkLeGG",
+      "drive_folder_id": "1lCvQ1SjcrwiyO8Njm_fau0wXZIJUquFL",
+      "resolution": "1376x768",
+      "size_bytes": 2303703,
+      "md5": "cbd0e65551c2e632669479d0ae7e4f0e",
+      "md5_verified": true,
+      "narration_slice": "lifting only when a hero"
+    },
+    {
+      "image_number": 56,
+      "scene_id": "VAL-EP001-IMG0056",
+      "batch": 6,
+      "timestamp": "01:50–01:52",
+      "file_name": "VAL-EP001-IMG0056.png",
+      "drive_id": "1HPF_t8mfeRi2Hg8HfrYzTArbA3ZzPLWi",
+      "drive_folder_id": "1lCvQ1SjcrwiyO8Njm_fau0wXZIJUquFL",
+      "resolution": "1376x768",
+      "size_bytes": 2652298,
+      "md5": "a46d9e3707a7b9673e3854b7c11fc3d3",
+      "md5_verified": true,
+      "narration_slice": "persuaded the quarreling children of Mother"
+    },
+    {
+      "image_number": 57,
+      "scene_id": "VAL-EP001-IMG0057",
+      "batch": 6,
+      "timestamp": "01:52–01:54",
+      "file_name": "VAL-EP001-IMG0057.png",
+      "drive_id": "1Cwne_kExkSIdycPlzKgJBcGqg0r5d25X",
+      "drive_folder_id": "1lCvQ1SjcrwiyO8Njm_fau0wXZIJUquFL",
+      "resolution": "1376x768",
+      "size_bytes": 1770130,
+      "md5": "fc710418f9073e808726d5e30df76973",
+      "md5_verified": true,
+      "narration_slice": "Rhoyne—such as the Crab King"
+    },
+    {
+      "image_number": 58,
+      "scene_id": "VAL-EP001-IMG0058",
+      "batch": 6,
+      "timestamp": "01:54–01:56",
+      "file_name": "VAL-EP001-IMG0058.png",
+      "drive_id": "195JVoTDUIiem298_l8Z7kAEVwdNKk-ng",
+      "drive_folder_id": "1lCvQ1SjcrwiyO8Njm_fau0wXZIJUquFL",
+      "resolution": "1376x768",
+      "size_bytes": 2514785,
+      "md5": "734b726bf73b1dda67ec7a2ed968c393",
+      "md5_verified": true,
+      "narration_slice": "and the Old Man of the"
+    },
+    {
+      "image_number": 59,
+      "scene_id": "VAL-EP001-IMG0059",
+      "batch": 6,
+      "timestamp": "01:56–01:58",
+      "file_name": "VAL-EP001-IMG0059.png",
+      "drive_id": "14ByiifTC-WOcyIKXsv_M_w2KSNchy3wh",
+      "drive_folder_id": "1lCvQ1SjcrwiyO8Njm_fau0wXZIJUquFL",
+      "resolution": "1376x768",
+      "size_bytes": 2346099,
+      "md5": "4ac626b38fc18fee14ce092fa9edc836",
+      "md5_verified": true,
+      "narration_slice": "River—to join in a secret"
+    },
+    {
+      "image_number": 60,
+      "scene_id": "VAL-EP001-IMG0060",
+      "batch": 6,
+      "timestamp": "01:58–02:00",
+      "file_name": "VAL-EP001-IMG0060.png",
+      "drive_id": "1hXs2vzoPSXTZTWbJMlHRvlEEvXckqksG",
+      "drive_folder_id": "1lCvQ1SjcrwiyO8Njm_fau0wXZIJUquFL",
+      "resolution": "1376x768",
+      "size_bytes": 1705459,
+      "md5": "5bb69e5838883f58da365125165f1b7e",
+      "md5_verified": true,
+      "narration_slice": "song that brought back the day."
+    }
+  ]
+}
