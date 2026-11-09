@@ -1145,7 +1145,7 @@
     "timespan": "05:20–05:40",
     "first_image": 161,
     "last_image": 170,
-    "status": "PROMPTS_PREPARED_RENDER_PENDING",
+    "status": "9_OF_10_RENDERED_VISUAL_QC_APPROVED_IMG0169_PENDING_RENDER",
     "drive_folder_id": "1pOsldSLqDl5JQSc0xBMPGgJRJr0Qzp3o",
     "drive_folder_url": "https://drive.google.com/drive/folders/1pOsldSLqDl5JQSc0xBMPGgJRJr0Qzp3o"
   },

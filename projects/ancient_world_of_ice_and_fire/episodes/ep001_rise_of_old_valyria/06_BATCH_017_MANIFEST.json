@@ -13,20 +13,11 @@
   "batch_timespan": "05:20–05:40",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "PROMPTS_PREPARED_RENDER_PENDING",
+  "batch_status": "9_OF_10_RENDERED_VISUAL_QC_APPROVED_IMG0169_PENDING_RENDER",
   "pending_completion_scenes": [
-    "VAL-EP001-IMG0161",
-    "VAL-EP001-IMG0162",
-    "VAL-EP001-IMG0163",
-    "VAL-EP001-IMG0164",
-    "VAL-EP001-IMG0165",
-    "VAL-EP001-IMG0166",
-    "VAL-EP001-IMG0167",
-    "VAL-EP001-IMG0168",
-    "VAL-EP001-IMG0169",
-    "VAL-EP001-IMG0170"
+    "VAL-EP001-IMG0169"
   ],
-  "visual_qc_note": "Batch 017 prompts prepared from the scene breakdown; render, visual QC, Drive upload and MD5 verification pending.",
+  "visual_qc_note": "IMG0161–IMG0168 and IMG0170 rendered, visually reviewed and approved locally; all are 1376x768 sRGB PNGs. IMG0169 remains pending generation; no Batch 017 assets have been uploaded yet.",
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0161",
@@ -40,9 +31,12 @@
         "LOC-VAL-001"
       ],
       "file_path": "assets/batch_017/VAL-EP001-IMG0161.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain."
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 2683065,
+      "md5": "e94a6440c8ec5c7b52be387136e0b32d",
+      "resolution": "1376x768"
     },
     {
       "scene_id": "VAL-EP001-IMG0162",
@@ -56,9 +50,12 @@
         "LOC-VAL-001"
       ],
       "file_path": "assets/batch_017/VAL-EP001-IMG0162.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals."
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2508526,
+      "md5": "3e5e9af6ef5e205eff535e8561244da2",
+      "resolution": "1376x768"
     },
     {
       "scene_id": "VAL-EP001-IMG0163",
@@ -72,9 +69,12 @@
         "LOC-VAL-001"
       ],
       "file_path": "assets/batch_017/VAL-EP001-IMG0163.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat."
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2827031,
+      "md5": "bc2f928ee04343a41d9e06f14db256c9",
+      "resolution": "1376x768"
     },
     {
       "scene_id": "VAL-EP001-IMG0164",
@@ -88,9 +88,12 @@
         "LOC-VAL-001"
       ],
       "file_path": "assets/batch_017/VAL-EP001-IMG0164.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain."
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 2352535,
+      "md5": "81fb490c556799d29554306a34dd958c",
+      "resolution": "1376x768"
     },
     {
       "scene_id": "VAL-EP001-IMG0165",
@@ -104,9 +107,12 @@
         "LOC-VAL-001"
       ],
       "file_path": "assets/batch_017/VAL-EP001-IMG0165.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals."
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2573820,
+      "md5": "0dd86a13cc3a3175743501bddc415ccf",
+      "resolution": "1376x768"
     },
     {
       "scene_id": "VAL-EP001-IMG0166",
@@ -120,9 +126,12 @@
         "LOC-VAL-001"
       ],
       "file_path": "assets/batch_017/VAL-EP001-IMG0166.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat."
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2434744,
+      "md5": "271206db1c512a08136023c73e1b0c28",
+      "resolution": "1376x768"
     },
     {
       "scene_id": "VAL-EP001-IMG0167",
@@ -136,9 +145,12 @@
         "LOC-VAL-001"
       ],
       "file_path": "assets/batch_017/VAL-EP001-IMG0167.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain."
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 2506493,
+      "md5": "a0a0de8d7053910fa709a35f1b1bb500",
+      "resolution": "1376x768"
     },
     {
       "scene_id": "VAL-EP001-IMG0168",
@@ -152,9 +164,12 @@
         "LOC-VAL-001"
       ],
       "file_path": "assets/batch_017/VAL-EP001-IMG0168.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals."
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2532078,
+      "md5": "e636d3c7b98b7ef53dddb8851143950a",
+      "resolution": "1376x768"
     },
     {
       "scene_id": "VAL-EP001-IMG0169",
@@ -184,9 +199,12 @@
         "LOC-VAL-001"
       ],
       "file_path": "assets/batch_017/VAL-EP001-IMG0170.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain."
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 2403749,
+      "md5": "e632d0f34d50fc33380e5b1495431fff",
+      "resolution": "1376x768"
     }
   ]
 }
