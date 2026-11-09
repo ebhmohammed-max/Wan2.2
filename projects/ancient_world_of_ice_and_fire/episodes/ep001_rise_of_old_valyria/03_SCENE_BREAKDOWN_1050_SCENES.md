@@ -145,16 +145,16 @@
 
 | Scene ID | Timestamp | Shot & Lens | Synced 2s Narration Slice | Visual Beat & Continuity | Refs |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `VAL-EP001-IMG0091` | `03:00–03:02` | `LAM · 28mm` | *"At the opposite edge"* | Low-angle monumental architectural / geological framing — Asshai-by-the-Shadow & greasy light-drinking black stone | `LOC-ESS-003` |
-| `VAL-EP001-IMG0092` | `03:02–03:04` | `OTS · 40mm` | *"of the known map, where"* | Over-the-shoulder depth perspective — Asshai-by-the-Shadow & greasy light-drinking black stone | `LOC-ESS-003` |
-| `VAL-EP001-IMG0093` | `03:04–03:06` | `WS · 28mm` | *"the poison-black waters of"* | Deep-focus wide atmospheric composition — Asshai-by-the-Shadow & greasy light-drinking black stone | `LOC-ESS-003` |
-| `VAL-EP001-IMG0094` | `03:06–03:08` | `UWA · 24mm` | *"the River Ash crept"* | Ultra-wide establishing vista — Asshai-by-the-Shadow & greasy light-drinking black stone | `LOC-ESS-003` |
-| `VAL-EP001-IMG0095` | `03:08–03:10` | `MCU · 50mm` | *"beneath perpetual twilight, stood"* | Medium close-up atmospheric focal beat — Asshai-by-the-Shadow & greasy light-drinking black stone | `LOC-ESS-003` |
-| `VAL-EP001-IMG0096` | `03:10–03:12` | `MS · 35mm` | *"Asshai-by-the-Shadow. Even five millennia before"* | Dynamic medium lateral tracking angle — Asshai-by-the-Shadow & greasy light-drinking black stone | `LOC-ESS-003` |
-| `VAL-EP001-IMG0097` | `03:12–03:14` | `MCU · 65mm` | *"the Conquest, Asshai was"* | Compressed telephoto dramatic subject framing — Asshai-by-the-Shadow & greasy light-drinking black stone | `LOC-ESS-003` |
-| `VAL-EP001-IMG0098` | `03:14–03:16` | `MS · 50mm` | *"already incomprehensibly ancient—a vast,"* | Medium cinematic subject focus — Asshai-by-the-Shadow & greasy light-drinking black stone | `LOC-ESS-003` |
-| `VAL-EP001-IMG0099` | `03:16–03:18` | `WS · 35mm` | *"childless necropolis of greasy"* | Wide environmental storytelling tableau — Asshai-by-the-Shadow & greasy light-drinking black stone | `LOC-ESS-003` |
-| `VAL-EP001-IMG0100` | `03:18–03:20` | `UWA · 24mm` | *"black stone that seemed to"* | High-elevation geographic / scale reveal — Asshai-by-the-Shadow & greasy light-drinking black stone | `LOC-ESS-003` |
+| `VAL-EP001-IMG0091` | `03:00–03:02` | `LAM · 28mm` | *"At the opposite edge"* | 65mm low-angle coastal wide: jagged wet black basalt sea-fangs & creeping fog framing oil-black strait as ink-navy twilight clouds swallow bruised-amber horizon | `LOC-ESS-003` |
+| `VAL-EP001-IMG0092` | `03:02–03:04` | `OTS · 40mm` | *"of the known map, where"* | 65mm ship-bow OTS: cloaked Bronze-Age navigator with brass lantern staring across dead oil-black water toward jagged Shadow Lands peaks in pallid slate-green fog | `LOC-ESS-003` |
+| `VAL-EP001-IMG0093` | `03:04–03:06` | `WS · 28mm` | *"the poison-black waters of"* | 65mm Shadow Lands gorge wide: sluggish poison-black River Ash winding between barren black shale & dead bone-pale ghost-grass stalks under toxic twilight mist | `LOC-ESS-003` |
+| `VAL-EP001-IMG0094` | `03:06–03:08` | `UWA · 24mm` | *"the River Ash crept"* | 65mm high cliffside ultra-wide: serpentine ink-black River Ash creeping out of towering Shadow Mountain chasm toward distant misty silhouette of Asshai's walls | `LOC-ESS-003` |
+| `VAL-EP001-IMG0095` | `03:08–03:10` | `MCU · 50mm` | *"beneath perpetual twilight, stood"* | 65mm canal-level reveal matching ANCHOR-IMG0095: lone hooded figure poling black skiff between stepped greasy black stone pylons & dim crimson lanterns under twilight | `LOC-ESS-003` |
+| `VAL-EP001-IMG0096` | `03:10–03:12` | `MS · 35mm` | *"Asshai-by-the-Shadow. Even five millennia before"* | 65mm harbor panorama: miles of battered greasy black stone sea-walls, megalithic canal gate & endless stepped pyramids dwarfing two dark-sailed Bronze-Age ships | `LOC-ESS-003` |
+| `VAL-EP001-IMG0097` | `03:12–03:14` | `MCU · 65mm` | *"the Conquest, Asshai was"* | 65mm vertical telephoto study: soaring unadorned greasy black stone monoliths above wet canal quay dwarfing two adult hooded masked figures with dim crimson lantern | `LOC-ESS-003` |
+| `VAL-EP001-IMG0098` | `03:14–03:16` | `MS · 50mm` | *"already incomprehensibly ancient—a vast,"* | 65mm courtyard medium: solitary crimson-masked adult shadowbinder crossing rain-slicked plaza of seamless eroded greasy black stone monoliths | `LOC-ESS-003` |
+| `VAL-EP001-IMG0099` | `03:16–03:18` | `WS · 35mm` | *"childless necropolis of greasy"* | 65mm street-canyon wide: vast deserted avenue of dark uninhabited greasy black stone palace portals with three distant isolated adult masked figures & zero children | `LOC-ESS-003` |
+| `VAL-EP001-IMG0100` | `03:18–03:20` | `CU · 85mm` | *"black stone that seemed to"* | 65mm close texture study: gloved Asshai'i hand holding iron fire-cresset inches from waxy unadorned greasy black stone wall that swallows the light into darkness | `LOC-ESS-003` |
 
 ## BATCH 011 (Ch. I · `03:20–03:40` · `VAL-EP001-IMG0101–VAL-EP001-IMG0110`)
 

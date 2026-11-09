@@ -13,10 +13,11 @@
     5,
     6,
     7,
-    8
+    8,
+    9
   ],
   "next_batch": 10,
-  "next_image_number": 85,
+  "next_image_number": 93,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -88,6 +89,11 @@
       "name": "Batch_009_Images_0081-0090_Unknown_Valyria_Qaathi_and_Mother_Rhoyne_02m40s-03m00s",
       "drive_id": "1RmpAC5zaJ0gIpJhYzKfuwnTrBfKKkW-L",
       "url": "https://drive.google.com/drive/folders/1RmpAC5zaJ0gIpJhYzKfuwnTrBfKKkW-L"
+    },
+    "batch_010_images_folder": {
+      "name": "Batch_010_Images_0091-0100_River_Ash_and_Asshai_by_the_Shadow_03m00s-03m20s",
+      "drive_id": "177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY",
+      "url": "https://drive.google.com/drive/folders/177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY"
     }
   },
   "batch_001_images_65mm_upgraded": [
@@ -500,7 +506,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "completed_images": 40,
+  "completed_images": 95,
   "batch_002_images_65mm": [
     {
       "number": 11,
@@ -1122,12 +1128,15 @@
     }
   ],
   "in_progress_batch": {
-    "batch": 9,
-    "approved_uploaded": 7,
-    "queued_next_turn": [
-      "VAL-EP001-IMG0085",
-      "VAL-EP001-IMG0089",
-      "VAL-EP001-IMG0090"
+    "batch": 10,
+    "drive_folder_id": "177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY",
+    "uploaded_count": 5,
+    "queued_scene_ids": [
+      "VAL-EP001-IMG0093",
+      "VAL-EP001-IMG0094",
+      "VAL-EP001-IMG0098",
+      "VAL-EP001-IMG0099",
+      "VAL-EP001-IMG0100"
     ]
   },
   "batch_007_verified_images": [
@@ -1472,6 +1481,20 @@
       "narration_slice": "early fisher-kings of the Silver"
     },
     {
+      "image_number": 85,
+      "scene_id": "VAL-EP001-IMG0085",
+      "batch": 9,
+      "timestamp": "02:48–02:50",
+      "file_name": "VAL-EP001-IMG0085.png",
+      "drive_id": "1WAvPZkQSwMhy5kkiABt0aUYikKiok1Np",
+      "drive_folder_id": "1RmpAC5zaJ0gIpJhYzKfuwnTrBfKKkW-L",
+      "resolution": "1376x768",
+      "size_bytes": 2554170,
+      "md5": "30a1f74ddfa919fada8ba44fd3be4216",
+      "md5_verified": true,
+      "narration_slice": "Sea, while along the gentle"
+    },
+    {
       "image_number": 86,
       "scene_id": "VAL-EP001-IMG0086",
       "batch": 9,
@@ -1512,6 +1535,106 @@
       "md5": "7f9175f135a1fd01bd70f53f22b17212",
       "md5_verified": true,
       "narration_slice": "raised peaceful river-towns of music"
+    },
+    {
+      "image_number": 89,
+      "scene_id": "VAL-EP001-IMG0089",
+      "batch": 9,
+      "timestamp": "02:56–02:58",
+      "file_name": "VAL-EP001-IMG0089.png",
+      "drive_id": "1AKLYw6rnMbtP0DkbsxxpLqhEqD1o9Sc3",
+      "drive_folder_id": "1RmpAC5zaJ0gIpJhYzKfuwnTrBfKKkW-L",
+      "resolution": "1376x768",
+      "size_bytes": 2628215,
+      "md5": "5aa06741a033a179711e7ec5815eae0f",
+      "md5_verified": true,
+      "narration_slice": "and craft, becoming perhaps the"
+    },
+    {
+      "image_number": 90,
+      "scene_id": "VAL-EP001-IMG0090",
+      "batch": 9,
+      "timestamp": "02:58–03:00",
+      "file_name": "VAL-EP001-IMG0090.png",
+      "drive_id": "1mRWJplSxfhTvszr64D2PdWCBC7k2imeh",
+      "drive_folder_id": "1RmpAC5zaJ0gIpJhYzKfuwnTrBfKKkW-L",
+      "resolution": "1376x768",
+      "size_bytes": 2761329,
+      "md5": "bcb07758b712af2dc6338c707b7446b5",
+      "md5_verified": true,
+      "narration_slice": "first mortals to smelt iron."
+    }
+  ],
+  "batch_010_verified_images": [
+    {
+      "image_number": 91,
+      "scene_id": "VAL-EP001-IMG0091",
+      "batch": 10,
+      "timestamp": "03:00–03:02",
+      "file_name": "VAL-EP001-IMG0091.png",
+      "drive_id": "1Uu-qp4K7LKIqcImWifecGs1a3Ktk_Oo2",
+      "drive_folder_id": "177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY",
+      "resolution": "1376x768",
+      "size_bytes": 2105996,
+      "md5": "96a16e4e37ad1b6ecee32b7ee935300f",
+      "md5_verified": true,
+      "narration_slice": "At the opposite edge"
+    },
+    {
+      "image_number": 92,
+      "scene_id": "VAL-EP001-IMG0092",
+      "batch": 10,
+      "timestamp": "03:02–03:04",
+      "file_name": "VAL-EP001-IMG0092.png",
+      "drive_id": "1Kx9AAnCrDf4sS95U6s2ae6cKet7hJKjk",
+      "drive_folder_id": "177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY",
+      "resolution": "1376x768",
+      "size_bytes": 1874813,
+      "md5": "f83c1d328f0ce8bbd857d0db747d3767",
+      "md5_verified": true,
+      "narration_slice": "of the known map, where"
+    },
+    {
+      "image_number": 95,
+      "scene_id": "VAL-EP001-IMG0095",
+      "batch": 10,
+      "timestamp": "03:08–03:10",
+      "file_name": "VAL-EP001-IMG0095.png",
+      "drive_id": "1auoiJXvW43AACTaWgh9WQN3Z35fwCQqg",
+      "drive_folder_id": "177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY",
+      "resolution": "1376x768",
+      "size_bytes": 1988425,
+      "md5": "39212f8c36087bb1fbccce2a815038b9",
+      "md5_verified": true,
+      "narration_slice": "beneath perpetual twilight, stood"
+    },
+    {
+      "image_number": 96,
+      "scene_id": "VAL-EP001-IMG0096",
+      "batch": 10,
+      "timestamp": "03:10–03:12",
+      "file_name": "VAL-EP001-IMG0096.png",
+      "drive_id": "14sO_nQgz8Z7VVh1NuFaTIhLkgSDWdF49",
+      "drive_folder_id": "177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY",
+      "resolution": "1376x768",
+      "size_bytes": 1930091,
+      "md5": "9dbb8e75b7b62f845c8597b38a8265e9",
+      "md5_verified": true,
+      "narration_slice": "Asshai-by-the-Shadow. Even five millennia before"
+    },
+    {
+      "image_number": 97,
+      "scene_id": "VAL-EP001-IMG0097",
+      "batch": 10,
+      "timestamp": "03:12–03:14",
+      "file_name": "VAL-EP001-IMG0097.png",
+      "drive_id": "1aRc2EJQsEOSL8Fx6Sql_l5Zw7TziBedX",
+      "drive_folder_id": "177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY",
+      "resolution": "1376x768",
+      "size_bytes": 1928613,
+      "md5": "81c496933a3b0a98efba91b2c2ef9bab",
+      "md5_verified": true,
+      "narration_slice": "the Conquest, Asshai was"
     }
   ]
 }

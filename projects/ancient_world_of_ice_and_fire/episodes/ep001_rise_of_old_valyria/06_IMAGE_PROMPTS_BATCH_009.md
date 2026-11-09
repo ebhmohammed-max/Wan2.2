@@ -3,7 +3,7 @@
 **Episode Number:** Episode 001 (`VAL-EP001`) — *Before the Dragons: The Rise of Old Valyria*  
 **Batch Number:** **Batch 009 of 105** (Covers `02:40–03:00` · **30 Images / Minute = 2.0 Seconds per Image**)  
 **Visual Standard:** **Locked 65mm Live-Action / Physically Realistic 3D Historical Cinema** (*Warm Sandstone Highlights · Muted Archaeological Midtones · Deep Ink-Navy Shadows · ARRI Alexa 65 + Panavision Primo Primes · Kodak Vision3 500T Grade*)  
-**Render & QC Status:** **7 / 10 IMAGES QC-APPROVED & UPLOADED (`IMG0081–0084`, `IMG0086–0088`); `IMG0085`, `IMG0089` & `IMG0090` QUEUED FIRST NEXT TURN (AFTER COMPLETING BATCH 008 `10/10`)**
+**Render & QC Status:** **10 / 10 IMAGES QC-APPROVED & UPLOADED TO GOOGLE DRIVE (`100% COMPLETE`)**
 
 ---
 
@@ -191,7 +191,7 @@
 
 ---
 
-## PROMPT 0089 — `VAL-EP001-IMG0089` *(Queued First Next Turn After 10-Image Turn Limit)*
+## PROMPT 0089 — `VAL-EP001-IMG0089`
 
 - **1. Scene ID:** `VAL-EP001-IMG0089`
 - **2. Episode Number:** Episode 001 (`VAL-EP001`)
@@ -210,11 +210,11 @@
 - **15. Visual Style:** Adult cinematic physically realistic 3D historical reconstruction and live-action 65mm photography, Kodak Vision3 500T film grade, fine organic film grain.
 - **16. Aspect Ratio:** `16:9` (`1376x768`)
 - **17. Negative Prompt:** Modern steel factory, welding goggles, Valyrian steel runes, letterboxing, black bars, text, watermarks.
-- **Refs & Continuity Check:** **QUEUED FOR IMMEDIATE RENDER AT START OF NEXT TURN** (matches `ANCHOR-IMG0082`; 10-image turn cap reached).
+- **Refs & Continuity Check:** `LOC-ESS-002` (`assets/batch_009/VAL-EP001-IMG0089.png` — **QC PASSED**, 100mm wrought-iron bloomery anvil sparks, MD5 `5aa06741a033a179711e7ec5815eae0f`).
 
 ---
 
-## PROMPT 0090 — `VAL-EP001-IMG0090` *(Queued First Next Turn After 10-Image Turn Limit)*
+## PROMPT 0090 — `VAL-EP001-IMG0090`
 
 - **1. Scene ID:** `VAL-EP001-IMG0090`
 - **2. Episode Number:** Episode 001 (`VAL-EP001`)
@@ -233,4 +233,4 @@
 - **15. Visual Style:** Adult cinematic physically realistic 3D historical reconstruction and live-action 65mm location photography, Kodak Vision3 500T film grade, fine organic film grain.
 - **16. Aspect Ratio:** `16:9` (`1376x768`)
 - **17. Negative Prompt:** Industrial blast furnaces, modern chimneys, letterboxing, black bars, text, subtitles, watermarks.
-- **Refs & Continuity Check:** **QUEUED FOR IMMEDIATE RENDER AT START OF NEXT TURN** (exact master payoff of `ANCHOR-IMG0082`; 10-image turn cap reached).
+- **Refs & Continuity Check:** `LOC-ESS-002` (`assets/batch_009/VAL-EP001-IMG0090.png` — **QC PASSED**, 40mm bloomery furnace terrace matching `ANCHOR-IMG0082`, MD5 `bcb07758b712af2dc6338c707b7446b5`).

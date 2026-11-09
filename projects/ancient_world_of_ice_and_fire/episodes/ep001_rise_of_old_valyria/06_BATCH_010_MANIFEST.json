@@ -1,0 +1,201 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "visual_style_standard": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location cinematography (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade: warm sandstone highlights, muted earth/stone/bronze midtones, deep ink-navy shadows)",
+  "style_reference_benchmark": "The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY",
+  "batch_number": 10,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "03:00–03:20",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "5_OF_10_QC_APPROVED_AND_UPLOADED_5_QUEUED_AT_NEXT_TURN_START",
+  "pending_completion_scenes": [
+    "VAL-EP001-IMG0093",
+    "VAL-EP001-IMG0094",
+    "VAL-EP001-IMG0098",
+    "VAL-EP001-IMG0099",
+    "VAL-EP001-IMG0100"
+  ],
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0091",
+      "timestamp": "03:00–03:02",
+      "shot_lens": "LAM · 28mm",
+      "narration_slice": "At the opposite edge",
+      "shot_type": "Outer Basalt Sea-Fangs & Perpetual Twilight Strait Entering the Shadow Lands (28mm)",
+      "visual_beat": "65mm low-angle coastal wide: jagged wet black basalt sea-fangs & creeping fog framing oil-black strait as ink-navy twilight clouds swallow bruised-amber horizon",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "file_path": "assets/batch_010/VAL-EP001-IMG0091.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2105996,
+      "md5": "96a16e4e37ad1b6ecee32b7ee935300f",
+      "resolution": "1376x768",
+      "drive_file_id": "1Uu-qp4K7LKIqcImWifecGs1a3Ktk_Oo2",
+      "drive_url": "https://drive.google.com/file/d/1Uu-qp4K7LKIqcImWifecGs1a3Ktk_Oo2/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0092",
+      "timestamp": "03:02–03:04",
+      "shot_lens": "OTS · 40mm",
+      "narration_slice": "of the known map, where",
+      "shot_type": "Bronze-Age Navigator Bow OTS Approaching Razor-Toothed Shadow Mountains (40mm)",
+      "visual_beat": "65mm ship-bow OTS: cloaked Bronze-Age navigator with brass lantern staring across dead oil-black water toward jagged Shadow Lands peaks in pallid slate-green fog",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "file_path": "assets/batch_010/VAL-EP001-IMG0092.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 1874813,
+      "md5": "f83c1d328f0ce8bbd857d0db747d3767",
+      "resolution": "1376x768",
+      "drive_file_id": "1Kx9AAnCrDf4sS95U6s2ae6cKet7hJKjk",
+      "drive_url": "https://drive.google.com/file/d/1Kx9AAnCrDf4sS95U6s2ae6cKet7hJKjk/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0093",
+      "timestamp": "03:04–03:06",
+      "shot_lens": "WS · 28mm",
+      "narration_slice": "the poison-black waters of",
+      "shot_type": "Poison-Black River Ash Wilderness Gorge & Pale Ghost-Grass Banks (28mm)",
+      "visual_beat": "65mm Shadow Lands gorge wide: sluggish poison-black River Ash winding between barren black shale & dead bone-pale ghost-grass stalks under toxic twilight mist",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "file_path": null,
+      "qc_status": "QUEUED_NEXT_TURN_CLEAN_V2",
+      "note": "Held back in Phase-D editorial QC because image-edit lock on ANCHOR-IMG0095 duplicated IMG0095's boatman/city skyline prematurely; standalone wilderness text-to-image render queued first in Turn 13."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0094",
+      "timestamp": "03:06–03:08",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "the River Ash crept",
+      "shot_type": "High-Elevation Shadow Lands Gorge-Mouth First Revealing Distant Asshai (24mm)",
+      "visual_beat": "65mm high cliffside ultra-wide: serpentine ink-black River Ash creeping out of towering Shadow Mountain chasm toward distant misty silhouette of Asshai's walls",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "file_path": null,
+      "qc_status": "QUEUED_NEXT_TURN_CLEAN_V2",
+      "note": "Held back in Phase-D editorial QC to prevent jump-cut duplication with IMG0095; standalone high-elevation canyon-mouth reveal queued first in Turn 13."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0095",
+      "timestamp": "03:08–03:10",
+      "shot_lens": "MCU · 50mm",
+      "narration_slice": "beneath perpetual twilight, stood",
+      "shot_type": "Central River Ash Canal & Greasy Black Stone Monoliths of Asshai (50mm Master Anchor)",
+      "visual_beat": "65mm canal-level reveal matching ANCHOR-IMG0095: lone hooded figure poling black skiff between stepped greasy black stone pylons & dim crimson lanterns under twilight",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "file_path": "assets/batch_010/VAL-EP001-IMG0095.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 1988425,
+      "md5": "39212f8c36087bb1fbccce2a815038b9",
+      "resolution": "1376x768",
+      "drive_file_id": "1auoiJXvW43AACTaWgh9WQN3Z35fwCQqg",
+      "drive_url": "https://drive.google.com/file/d/1auoiJXvW43AACTaWgh9WQN3Z35fwCQqg/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0096",
+      "timestamp": "03:10–03:12",
+      "shot_lens": "MS · 35mm",
+      "narration_slice": "Asshai-by-the-Shadow. Even five millennia before",
+      "shot_type": "Stupendous Cyclopean Harbor Walls, Megalithic Water-Gate & Stepped Pyramids of Asshai (35mm)",
+      "visual_beat": "65mm harbor panorama: miles of battered greasy black stone sea-walls, megalithic canal gate & endless stepped pyramids dwarfing two dark-sailed Bronze-Age ships",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "file_path": "assets/batch_010/VAL-EP001-IMG0096.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 1930091,
+      "md5": "9dbb8e75b7b62f845c8597b38a8265e9",
+      "resolution": "1376x768",
+      "drive_file_id": "14sO_nQgz8Z7VVh1NuFaTIhLkgSDWdF49",
+      "drive_url": "https://drive.google.com/file/d/14sO_nQgz8Z7VVh1NuFaTIhLkgSDWdF49/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0097",
+      "timestamp": "03:12–03:14",
+      "shot_lens": "MCU · 65mm",
+      "narration_slice": "the Conquest, Asshai was",
+      "shot_type": "Towering Jointless Black Monoliths Dwarfing Two Masked Lantern-Bearers on Wet Quay (65mm)",
+      "visual_beat": "65mm vertical telephoto study: soaring unadorned greasy black stone monoliths above wet canal quay dwarfing two adult hooded masked figures with dim crimson lantern",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "file_path": "assets/batch_010/VAL-EP001-IMG0097.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 1928613,
+      "md5": "81c496933a3b0a98efba91b2c2ef9bab",
+      "resolution": "1376x768",
+      "drive_file_id": "1aRc2EJQsEOSL8Fx6Sql_l5Zw7TziBedX",
+      "drive_url": "https://drive.google.com/file/d/1aRc2EJQsEOSL8Fx6Sql_l5Zw7TziBedX/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0098",
+      "timestamp": "03:14–03:16",
+      "shot_lens": "MS · 50mm",
+      "narration_slice": "already incomprehensibly ancient—a vast,",
+      "shot_type": "Crimson-Masked Shadowbinder Crossing Seamless Pre-Human Black Plaza (50mm)",
+      "visual_beat": "65mm courtyard medium: solitary crimson-masked adult shadowbinder crossing rain-slicked plaza of seamless eroded greasy black stone monoliths",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "file_path": null,
+      "qc_status": "QUEUED_NEXT_TURN_QUOTA",
+      "note": "10-image per-turn generation limit reached after completing Batch 009 (10/10) + Batch 010 renders; queued first in Turn 13."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0099",
+      "timestamp": "03:16–03:18",
+      "shot_lens": "WS · 35mm",
+      "narration_slice": "childless necropolis of greasy",
+      "shot_type": "Silent Tomb-Like Street Canyon of Empty Black Palaces Without Children (35mm)",
+      "visual_beat": "65mm street-canyon wide: vast deserted avenue of dark uninhabited greasy black stone palace portals with three distant isolated adult masked figures & zero children",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "file_path": null,
+      "qc_status": "QUEUED_NEXT_TURN_QUOTA",
+      "note": "10-image per-turn generation limit reached; queued first in Turn 13."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0100",
+      "timestamp": "03:18–03:20",
+      "shot_lens": "CU · 85mm",
+      "narration_slice": "black stone that seemed to",
+      "shot_type": "Tactile Close Study of Flame Held Against Light-Drinking Greasy Black Stone (85mm)",
+      "visual_beat": "65mm close texture study: gloved Asshai'i hand holding iron fire-cresset inches from waxy unadorned greasy black stone wall that swallows the light into darkness",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "file_path": null,
+      "qc_status": "QUEUED_NEXT_TURN_QUOTA",
+      "note": "10-image per-turn generation limit reached; bridges into Batch 011 ('drink the very light'); queued first in Turn 13."
+    }
+  ]
+}

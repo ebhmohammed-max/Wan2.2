@@ -673,6 +673,13 @@
           "md5": "048551f69c2ad31268db87bea84673a6"
         },
         {
+          "scene_id": "VAL-EP001-IMG0085",
+          "file_name": "VAL-EP001-IMG0085.png",
+          "resolution": "1376x768",
+          "size_bytes": 2554170,
+          "md5": "30a1f74ddfa919fada8ba44fd3be4216"
+        },
+        {
           "scene_id": "VAL-EP001-IMG0086",
           "file_name": "VAL-EP001-IMG0086.png",
           "resolution": "1376x768",
@@ -692,6 +699,57 @@
           "resolution": "1376x768",
           "size_bytes": 2933749,
           "md5": "7f9175f135a1fd01bd70f53f22b17212"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0089",
+          "file_name": "VAL-EP001-IMG0089.png",
+          "resolution": "1376x768",
+          "size_bytes": 2628215,
+          "md5": "5aa06741a033a179711e7ec5815eae0f"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0090",
+          "file_name": "VAL-EP001-IMG0090.png",
+          "resolution": "1376x768",
+          "size_bytes": 2761329,
+          "md5": "bcb07758b712af2dc6338c707b7446b5"
+        }
+      ],
+      "batch_010_03m00s_to_03m20s_65mm": [
+        {
+          "scene_id": "VAL-EP001-IMG0091",
+          "file_name": "VAL-EP001-IMG0091.png",
+          "resolution": "1376x768",
+          "size_bytes": 2105996,
+          "md5": "96a16e4e37ad1b6ecee32b7ee935300f"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0092",
+          "file_name": "VAL-EP001-IMG0092.png",
+          "resolution": "1376x768",
+          "size_bytes": 1874813,
+          "md5": "f83c1d328f0ce8bbd857d0db747d3767"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0095",
+          "file_name": "VAL-EP001-IMG0095.png",
+          "resolution": "1376x768",
+          "size_bytes": 1988425,
+          "md5": "39212f8c36087bb1fbccce2a815038b9"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0096",
+          "file_name": "VAL-EP001-IMG0096.png",
+          "resolution": "1376x768",
+          "size_bytes": 1930091,
+          "md5": "9dbb8e75b7b62f845c8597b38a8265e9"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0097",
+          "file_name": "VAL-EP001-IMG0097.png",
+          "resolution": "1376x768",
+          "size_bytes": 1928613,
+          "md5": "81c496933a3b0a98efba91b2c2ef9bab"
         }
       ]
     }

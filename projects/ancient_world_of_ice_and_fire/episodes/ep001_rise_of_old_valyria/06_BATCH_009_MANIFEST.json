@@ -12,12 +12,8 @@
   "batch_timespan": "02:40–03:00",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "7_OF_10_QC_APPROVED_AND_UPLOADED_3_QUEUED_AT_NEXT_TURN_START",
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0085",
-    "VAL-EP001-IMG0089",
-    "VAL-EP001-IMG0090"
-  ],
+  "batch_status": "COMPLETE_10_OF_10_QC_APPROVED_AND_UPLOADED",
+  "pending_completion_scenes": [],
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0081",
@@ -110,14 +106,14 @@
       "location_refs": [
         "LOC-ESS-002"
       ],
-      "file_path": null,
-      "qc_status": "QUEUED_NEXT_TURN_QUOTA",
-      "size_bytes": null,
-      "md5": null,
+      "file_path": "assets/batch_009/VAL-EP001-IMG0085.png",
+      "qc_status": "APPROVED_65MM_V2",
+      "size_bytes": 2554170,
+      "md5": "30a1f74ddfa919fada8ba44fd3be4216",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false
+      "drive_file_id": "1WAvPZkQSwMhy5kkiABt0aUYikKiok1Np",
+      "drive_url": "https://drive.google.com/file/d/1WAvPZkQSwMhy5kkiABt0aUYikKiok1Np/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0086",
@@ -190,14 +186,14 @@
       "location_refs": [
         "LOC-ESS-002"
       ],
-      "file_path": null,
-      "qc_status": "QUEUED_NEXT_TURN_QUOTA",
-      "size_bytes": null,
-      "md5": null,
+      "file_path": "assets/batch_009/VAL-EP001-IMG0089.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2628215,
+      "md5": "5aa06741a033a179711e7ec5815eae0f",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false
+      "drive_file_id": "1AKLYw6rnMbtP0DkbsxxpLqhEqD1o9Sc3",
+      "drive_url": "https://drive.google.com/file/d/1AKLYw6rnMbtP0DkbsxxpLqhEqD1o9Sc3/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0090",
@@ -210,14 +206,14 @@
       "location_refs": [
         "LOC-ESS-002"
       ],
-      "file_path": null,
-      "qc_status": "QUEUED_NEXT_TURN_QUOTA",
-      "size_bytes": null,
-      "md5": null,
+      "file_path": "assets/batch_009/VAL-EP001-IMG0090.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2761329,
+      "md5": "bcb07758b712af2dc6338c707b7446b5",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false
+      "drive_file_id": "1mRWJplSxfhTvszr64D2PdWCBC7k2imeh",
+      "drive_url": "https://drive.google.com/file/d/1mRWJplSxfhTvszr64D2PdWCBC7k2imeh/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     }
   ],
   "batch_drive_folder_id": "1RmpAC5zaJ0gIpJhYzKfuwnTrBfKKkW-L",

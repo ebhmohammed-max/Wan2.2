@@ -79,7 +79,9 @@ projects/ancient_world_of_ice_and_fire/
         ├── 06_IMAGE_PROMPTS_BATCH_008.md            # Part 6: Upgraded 65mm Prompts (VAL-EP001-IMG0071–IMG0080)
         ├── 06_BATCH_008_MANIFEST.json               # Machine-readable JSON manifest for Batch 008
         ├── 06_IMAGE_PROMPTS_BATCH_009.md            # Part 6: Upgraded 65mm Prompts (VAL-EP001-IMG0081–IMG0090)
-        ├── 06_BATCH_009_MANIFEST.json               # Machine-readable JSON manifest for Batch 009
+        ├── 06_BATCH_009_MANIFEST.json               # Machine-readable JSON manifest for Batch 009 (10/10 Complete)
+        ├── 06_IMAGE_PROMPTS_BATCH_010.md            # 17-field prompts for Batch 010 (03:00–03:20 · Asshai-by-the-Shadow)
+        ├── 06_BATCH_010_MANIFEST.json               # Machine-readable JSON manifest for Batch 010
         ├── 07_CONTINUITY_AND_QC_REPORT.md           # Part 7: Continuity Audit & 65mm Phase-D QC Log (Batches 001–009)
         ├── 08_YOUTUBE_PUBLISHING_PACKAGE.md         # Part 8: YouTube SEO, Chapters, Thumbnail & Teaser
         ├── STORYBOARD_BATCH_001_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (00:00–00:20)
@@ -109,4 +111,4 @@ projects/ancient_world_of_ice_and_fire/
 
 | Episode | Title | Duration | Total Frames (`30/min`) | Completed Batches | Completed Frames | Next Queued Batch |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–008 + B009 (7/10)** (`00:00–03:00`) | **87 / 1,050** (`IMG0001–0084, 0086–0088`) | **Complete B009 (`IMG0085, 0089, 0090`) + Batch 010** (`03:00–03:20`) |
+| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–009 (`90/90`) + B010 (`5/10`)** (`00:00–03:20`) | **95 / 1,050** (`IMG0001–0092, 0095–0097`) | **Complete B010 (`IMG0093–0094, 0098–0100`) + Batch 011** (`03:20–03:40`) |

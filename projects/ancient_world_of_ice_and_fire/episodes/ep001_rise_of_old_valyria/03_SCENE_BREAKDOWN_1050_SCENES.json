@@ -1198,7 +1198,7 @@
     "location_creature_refs": [
       "LOC-ESS-002"
     ],
-    "qc_status": "QUEUED_NEXT_TURN_QUOTA"
+    "qc_status": "APPROVED_65MM_V2"
   },
   {
     "scene_id": "VAL-EP001-IMG0086",
@@ -1254,7 +1254,7 @@
     "location_creature_refs": [
       "LOC-ESS-002"
     ],
-    "qc_status": "QUEUED_NEXT_TURN_QUOTA"
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0090",
@@ -1268,7 +1268,7 @@
     "location_creature_refs": [
       "LOC-ESS-002"
     ],
-    "qc_status": "QUEUED_NEXT_TURN_QUOTA"
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0091",
@@ -1277,11 +1277,12 @@
     "timestamp": "03:00–03:02",
     "shot_lens": "LAM · 28mm",
     "narration_slice": "At the opposite edge",
-    "visual_beat": "Low-angle monumental architectural / geological framing — Asshai-by-the-Shadow & greasy light-drinking black stone",
+    "visual_beat": "65mm low-angle coastal wide: jagged wet black basalt sea-fangs & creeping fog framing oil-black strait as ink-navy twilight clouds swallow bruised-amber horizon",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-003"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0092",
@@ -1290,11 +1291,12 @@
     "timestamp": "03:02–03:04",
     "shot_lens": "OTS · 40mm",
     "narration_slice": "of the known map, where",
-    "visual_beat": "Over-the-shoulder depth perspective — Asshai-by-the-Shadow & greasy light-drinking black stone",
+    "visual_beat": "65mm ship-bow OTS: cloaked Bronze-Age navigator with brass lantern staring across dead oil-black water toward jagged Shadow Lands peaks in pallid slate-green fog",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-003"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0093",
@@ -1303,11 +1305,12 @@
     "timestamp": "03:04–03:06",
     "shot_lens": "WS · 28mm",
     "narration_slice": "the poison-black waters of",
-    "visual_beat": "Deep-focus wide atmospheric composition — Asshai-by-the-Shadow & greasy light-drinking black stone",
+    "visual_beat": "65mm Shadow Lands gorge wide: sluggish poison-black River Ash winding between barren black shale & dead bone-pale ghost-grass stalks under toxic twilight mist",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-003"
-    ]
+    ],
+    "qc_status": "QUEUED_NEXT_TURN_CLEAN_V2"
   },
   {
     "scene_id": "VAL-EP001-IMG0094",
@@ -1316,11 +1319,12 @@
     "timestamp": "03:06–03:08",
     "shot_lens": "UWA · 24mm",
     "narration_slice": "the River Ash crept",
-    "visual_beat": "Ultra-wide establishing vista — Asshai-by-the-Shadow & greasy light-drinking black stone",
+    "visual_beat": "65mm high cliffside ultra-wide: serpentine ink-black River Ash creeping out of towering Shadow Mountain chasm toward distant misty silhouette of Asshai's walls",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-003"
-    ]
+    ],
+    "qc_status": "QUEUED_NEXT_TURN_CLEAN_V2"
   },
   {
     "scene_id": "VAL-EP001-IMG0095",
@@ -1329,11 +1333,12 @@
     "timestamp": "03:08–03:10",
     "shot_lens": "MCU · 50mm",
     "narration_slice": "beneath perpetual twilight, stood",
-    "visual_beat": "Medium close-up atmospheric focal beat — Asshai-by-the-Shadow & greasy light-drinking black stone",
+    "visual_beat": "65mm canal-level reveal matching ANCHOR-IMG0095: lone hooded figure poling black skiff between stepped greasy black stone pylons & dim crimson lanterns under twilight",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-003"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0096",
@@ -1342,11 +1347,12 @@
     "timestamp": "03:10–03:12",
     "shot_lens": "MS · 35mm",
     "narration_slice": "Asshai-by-the-Shadow. Even five millennia before",
-    "visual_beat": "Dynamic medium lateral tracking angle — Asshai-by-the-Shadow & greasy light-drinking black stone",
+    "visual_beat": "65mm harbor panorama: miles of battered greasy black stone sea-walls, megalithic canal gate & endless stepped pyramids dwarfing two dark-sailed Bronze-Age ships",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-003"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0097",
@@ -1355,11 +1361,12 @@
     "timestamp": "03:12–03:14",
     "shot_lens": "MCU · 65mm",
     "narration_slice": "the Conquest, Asshai was",
-    "visual_beat": "Compressed telephoto dramatic subject framing — Asshai-by-the-Shadow & greasy light-drinking black stone",
+    "visual_beat": "65mm vertical telephoto study: soaring unadorned greasy black stone monoliths above wet canal quay dwarfing two adult hooded masked figures with dim crimson lantern",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-003"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0098",
@@ -1368,11 +1375,12 @@
     "timestamp": "03:14–03:16",
     "shot_lens": "MS · 50mm",
     "narration_slice": "already incomprehensibly ancient—a vast,",
-    "visual_beat": "Medium cinematic subject focus — Asshai-by-the-Shadow & greasy light-drinking black stone",
+    "visual_beat": "65mm courtyard medium: solitary crimson-masked adult shadowbinder crossing rain-slicked plaza of seamless eroded greasy black stone monoliths",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-003"
-    ]
+    ],
+    "qc_status": "QUEUED_NEXT_TURN_QUOTA"
   },
   {
     "scene_id": "VAL-EP001-IMG0099",
@@ -1381,24 +1389,26 @@
     "timestamp": "03:16–03:18",
     "shot_lens": "WS · 35mm",
     "narration_slice": "childless necropolis of greasy",
-    "visual_beat": "Wide environmental storytelling tableau — Asshai-by-the-Shadow & greasy light-drinking black stone",
+    "visual_beat": "65mm street-canyon wide: vast deserted avenue of dark uninhabited greasy black stone palace portals with three distant isolated adult masked figures & zero children",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-003"
-    ]
+    ],
+    "qc_status": "QUEUED_NEXT_TURN_QUOTA"
   },
   {
     "scene_id": "VAL-EP001-IMG0100",
     "batch": "Batch 010",
     "chapter": "Ch. I",
     "timestamp": "03:18–03:20",
-    "shot_lens": "UWA · 24mm",
+    "shot_lens": "CU · 85mm",
     "narration_slice": "black stone that seemed to",
-    "visual_beat": "High-elevation geographic / scale reveal — Asshai-by-the-Shadow & greasy light-drinking black stone",
+    "visual_beat": "65mm close texture study: gloved Asshai'i hand holding iron fire-cresset inches from waxy unadorned greasy black stone wall that swallows the light into darkness",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-003"
-    ]
+    ],
+    "qc_status": "QUEUED_NEXT_TURN_QUOTA"
   },
   {
     "scene_id": "VAL-EP001-IMG0101",
