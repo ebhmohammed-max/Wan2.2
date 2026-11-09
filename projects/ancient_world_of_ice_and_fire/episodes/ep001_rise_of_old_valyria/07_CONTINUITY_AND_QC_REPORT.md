@@ -211,3 +211,10 @@
 - **Batch 012 (`IMG0111–0120`, `03:40–04:00`):** 10/10 rendered, visually QC-approved, uploaded to Drive folder `1LD_VPZ5l6U4bkGa_D1QhkxmzbrkH2yoD`, and MD5-verified. All files are `1376×768` sRGB PNGs.
 - **Continuity:** Old Ghis stepped fired-brick pyramids, defensive walls and bronze Harpy remain aligned to `ANCHOR-IMG0110`; the batch moves from imperial plaza and Gulf geography to brick/fortification/Harpy details.
 - **Current progress:** 120/1,050 verified images (11.43%); Batches 001–012 complete. Batch 013 is next.
+
+
+## Turn 16 Addendum — Batch 013 Complete (2026-11-09)
+
+- **Batch 013 (`IMG0121–0130`, `04:00–04:20`):** 10/10 frames rendered, visually reviewed, uploaded to Drive folder `1fDZk-LqYBJSkFH4TOKGh8gPnk5aW5fqF`, and MD5-verified. Every local PNG is `1376×768` sRGB; Drive lists exactly ten files and its MD5 values match local files.
+- **Visual QC:** Old Ghis brick architecture and canonical Grazdan appearance held consistent; all frames depict the disciplined Lockstep Legions with shields, short swords and graduated spears. IMG0129's thin letterbox bands were removed before the final full-bleed 16:9 upload.
+- **Progress:** 130/1,050 verified images (12.38%); Batches 001–013 complete. Batch 014 (`04:20–04:40`) is next.

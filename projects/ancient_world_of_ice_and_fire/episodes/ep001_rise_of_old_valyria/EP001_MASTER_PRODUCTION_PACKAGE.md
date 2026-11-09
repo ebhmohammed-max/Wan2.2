@@ -6,7 +6,7 @@
 - **Visual Cadence:** **`30 images per minute`** (`1 image every 2.0 seconds` · **`1,050 total images`** across **`105 batches of 10`**)
 - **Locked Cinematic Visual Standard:** **65mm Live-Action / Physically Realistic 3D Historical Cinema** (*ARRI Alexa 65 · Panavision Primo Spherical Primes · Kodak Vision3 500T Grade: Warm Sandstone Highlights, Muted Archaeological Midtones, Deep Ink-Navy Shadows — calibrated to `The_Trojan_War_The_Legend_the_City_and_the_Evidence`*)
 - **Google Drive Master Archive:** `Game of thrones YT` (`1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo`)
-- **Current Gate Status:** **Batches 001–012 complete (`120/120`); `120 / 1,050` Drive-verified and visually QC-approved images (`11.43%`). Batch 013 is next.**
+- **Current Gate Status:** **Batches 001–013 complete (`130/130`); `130 / 1,050` Drive-verified and visually QC-approved images (`12.38%`). Batch 014 is next.**
 
 ---
 
@@ -3251,3 +3251,8 @@ This video is an independent, unofficial fan-created historical lore commentary 
 - **16. Aspect Ratio:** `16:9` (`1376x768`)
 - **17. Negative Prompt:** Glossy mirror reflection, carved letters, runes, magic neon beams, letterboxing, black bars, text, watermarks.
 - **Refs & Continuity Check:** **QUEUED FOR IMMEDIATE RENDER AT START OF NEXT TURN** (10-image per-turn generation limit reached).
+
+
+## Production Continuation — Batch 013 (2026-11-09)
+
+Batch 013 (`IMG0121–IMG0130`, `04:00–04:20`) is complete: all ten Grazdan and Lockstep Legion frames were visually reviewed, uploaded to Drive folder `1fDZk-LqYBJSkFH4TOKGh8gPnk5aW5fqF`, and MD5-verified. All are `1376×768` sRGB PNGs. Current verified progress is **130/1,050 (12.38%)**; next queued batch is 014 (`04:20–04:40`). The canonical Ghis brick, Grazdan identity and Lockstep equipment continuity are recorded in the batch prompt package and manifest.
