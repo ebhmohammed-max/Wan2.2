@@ -6,7 +6,7 @@
 - **Visual Cadence:** **`30 images per minute`** (`1 image every 2.0 seconds` · **`1,050 total images`** across **`105 batches of 10`**)
 - **Locked Cinematic Visual Standard:** **65mm Live-Action / Physically Realistic 3D Historical Cinema** (*ARRI Alexa 65 · Panavision Primo Spherical Primes · Kodak Vision3 500T Grade: Warm Sandstone Highlights, Muted Archaeological Midtones, Deep Ink-Navy Shadows — calibrated to `The_Trojan_War_The_Legend_the_City_and_the_Evidence`*)
 - **Google Drive Master Archive:** `Game of thrones YT` (`1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo`)
-- **Current Gate Status:** **Batches 001–016 complete (`160/160`); `160 / 1,050` Drive-verified and visually QC-approved images (`15.24%`). Batch 017 is next.**
+- **Current Gate Status:** **Batches 001–017 complete (`170/170`); `170 / 1,050` Drive-verified and visually QC-approved images (`16.19%`). Batch 018 is next.**
 
 ---
 
@@ -3271,3 +3271,8 @@ Batch 015 (`IMG0141–IMG0150`, `04:40–05:00`) is complete: ten frames lead fr
 ## Production Continuation — Batch 016 (2026-11-09)
 
 Batch 016 (`IMG0151–IMG0160`, `05:00–05:20`) is complete: ten frames map the intact green Valyrian Peninsula and Summer Sea, uploaded to Drive folder `1DA3IWrW0NdfrngHmJu0LxRkRCO8JuIZe`. All ten are visually QC-approved `1376×768` sRGB PNGs with local and Drive MD5 matches. IMG0160 was reframed as a tighter geographic finale. Verified progress is **160/1,050 (15.24%)**; next queued batch is 017 (`05:20–05:40`).
+
+
+## Production Continuation — Batch 017 (2026-11-09)
+
+Batch 017 (`IMG0161–IMG0170`, `05:20–05:40`) is complete: ten frames carry the view from the eastern coast into the intact Fourteen Flames chain. All ten were visually reviewed, uploaded to Drive folder `1pOsldSLqDl5JQSc0xBMPGgJRJr0Qzp3o`, and MD5-verified as `1376×768` sRGB PNGs. Verified progress is **170/1,050 (16.19%)**; next queued batch is 018 (`05:40–06:00`).

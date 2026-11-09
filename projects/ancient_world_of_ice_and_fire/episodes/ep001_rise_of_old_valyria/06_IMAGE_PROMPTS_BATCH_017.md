@@ -4,7 +4,7 @@
 **Batch:** 017 of 105 · `05:20–05:40` · 10 frames · 2 seconds/frame  
 **Visual standard:** grounded 65mm historical cinema, ARRI Alexa 65 / Panavision Primo spherical primes / Kodak Vision3 500T, warm sandstone highlights, deep cerulean Summer Sea, lush emerald pastures, muted volcanic stone, fine organic film grain.  
 **Continuity:** Pre-Doom Valyria remains an intact, lush volcanic peninsula. Match ANCHOR-IMG0010: mountainous finger of land extending south into the Summer Sea, fertile green coastal plains and a horseshoe-like spine of fourteen volcanic peaks. In this batch the view travels from the eastern Gulf of Grief toward the Fourteen Flames. Natural steam/smoke only; no eruption, destruction, fused-city architecture, dragons or modern map graphics.  
-**Render/QC status:** Nine frames (IMG0161–0168, IMG0170) are rendered and visually approved locally; IMG0169 render is pending. Batch upload and checksum verification are pending.
+**Render/QC status:** All ten frames rendered, visually reviewed and approved; uploaded to Drive and MD5-verified.
 
 ## PROMPT 151 — `VAL-EP001-IMG0161`
 

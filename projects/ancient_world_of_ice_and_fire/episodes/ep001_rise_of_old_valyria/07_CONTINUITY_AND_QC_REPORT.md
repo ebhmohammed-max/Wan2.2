@@ -239,3 +239,10 @@
 - **Batch 016 (`IMG0151–0160`, `05:00–05:20`):** 10/10 frames visually reviewed, uploaded to Drive folder `1DA3IWrW0NdfrngHmJu0LxRkRCO8JuIZe`, and MD5-verified. All local files are `1376×768` sRGB PNGs; Drive contains exactly ten images and every checksum matches.
 - **Visual continuity:** Lush, intact pre-Doom Valyria and the Summer Sea; warm coastal light, volcanic spine and natural smoke only. IMG0160 was reframed as a tighter high-elevation geographic reveal.
 - **Progress:** 160/1,050 verified images (15.24%); Batches 001–016 complete. Batch 017 (`05:20–05:40`) is next.
+
+
+## Turn 21 Addendum — Batch 017 Complete (2026-11-09)
+
+- **Batch 017 (`IMG0161–0170`, `05:20–05:40`):** 10/10 frames visually reviewed, uploaded to Drive folder `1pOsldSLqDl5JQSc0xBMPGgJRJr0Qzp3o`, and MD5-verified. Every local PNG is `1376×768` sRGB; Drive contains exactly ten images and every checksum matches.
+- **Visual continuity:** The landscape moves from the eastern Gulf coast into the intact, green Fourteen Flames volcanic chain. Natural steam only; no cataclysm, dragons or later cityscape.
+- **Progress:** 170/1,050 verified images (16.19%); Batches 001–017 complete. Batch 018 (`05:40–06:00`) is next.

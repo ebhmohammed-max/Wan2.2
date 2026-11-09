@@ -13,11 +13,9 @@
   "batch_timespan": "05:20–05:40",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "9_OF_10_RENDERED_VISUAL_QC_APPROVED_IMG0169_PENDING_RENDER",
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0169"
-  ],
-  "visual_qc_note": "IMG0161–IMG0168 and IMG0170 rendered, visually reviewed and approved locally; all are 1376x768 sRGB PNGs. IMG0169 remains pending generation; no Batch 017 assets have been uploaded yet.",
+  "batch_status": "10_OF_10_UPLOADED_MD5_VERIFIED_VISUAL_QC_APPROVED",
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten frames visually reviewed; all are 1376x768 sRGB PNGs, uploaded to the Batch 017 Drive folder, and Drive MD5 checksums match local files.",
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0161",
@@ -36,7 +34,10 @@
       "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
       "size_bytes": 2683065,
       "md5": "e94a6440c8ec5c7b52be387136e0b32d",
-      "resolution": "1376x768"
+      "resolution": "1376x768",
+      "drive_file_id": "1WkHGQVqrwxkofsW2AOBVNtpfcjmO-tZw",
+      "drive_url": "https://drive.google.com/file/d/1WkHGQVqrwxkofsW2AOBVNtpfcjmO-tZw/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0162",
@@ -55,7 +56,10 @@
       "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
       "size_bytes": 2508526,
       "md5": "3e5e9af6ef5e205eff535e8561244da2",
-      "resolution": "1376x768"
+      "resolution": "1376x768",
+      "drive_file_id": "1mbL2yMBrUue9_rl1zC6zE-WvvbMoTuut",
+      "drive_url": "https://drive.google.com/file/d/1mbL2yMBrUue9_rl1zC6zE-WvvbMoTuut/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0163",
@@ -74,7 +78,10 @@
       "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
       "size_bytes": 2827031,
       "md5": "bc2f928ee04343a41d9e06f14db256c9",
-      "resolution": "1376x768"
+      "resolution": "1376x768",
+      "drive_file_id": "1dJWVYbW-vPJ7qaVWEl0Rapq_LWTPmLZ6",
+      "drive_url": "https://drive.google.com/file/d/1dJWVYbW-vPJ7qaVWEl0Rapq_LWTPmLZ6/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0164",
@@ -93,7 +100,10 @@
       "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
       "size_bytes": 2352535,
       "md5": "81fb490c556799d29554306a34dd958c",
-      "resolution": "1376x768"
+      "resolution": "1376x768",
+      "drive_file_id": "1I8fBnMLtTQatrTgJZv22vS-_tuci8_65",
+      "drive_url": "https://drive.google.com/file/d/1I8fBnMLtTQatrTgJZv22vS-_tuci8_65/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0165",
@@ -112,7 +122,10 @@
       "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
       "size_bytes": 2573820,
       "md5": "0dd86a13cc3a3175743501bddc415ccf",
-      "resolution": "1376x768"
+      "resolution": "1376x768",
+      "drive_file_id": "1wXiCmoJIrR_1BZSkEMqCDf2PBwQY_bp3",
+      "drive_url": "https://drive.google.com/file/d/1wXiCmoJIrR_1BZSkEMqCDf2PBwQY_bp3/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0166",
@@ -131,7 +144,10 @@
       "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
       "size_bytes": 2434744,
       "md5": "271206db1c512a08136023c73e1b0c28",
-      "resolution": "1376x768"
+      "resolution": "1376x768",
+      "drive_file_id": "1IY0WG-RllN42sqVYA7OShbz3vOlziA5_",
+      "drive_url": "https://drive.google.com/file/d/1IY0WG-RllN42sqVYA7OShbz3vOlziA5_/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0167",
@@ -150,7 +166,10 @@
       "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
       "size_bytes": 2506493,
       "md5": "a0a0de8d7053910fa709a35f1b1bb500",
-      "resolution": "1376x768"
+      "resolution": "1376x768",
+      "drive_file_id": "1T2NBq54Tw-7jtSTVdJh_rlGhVQc6pWg5",
+      "drive_url": "https://drive.google.com/file/d/1T2NBq54Tw-7jtSTVdJh_rlGhVQc6pWg5/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0168",
@@ -169,7 +188,10 @@
       "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
       "size_bytes": 2532078,
       "md5": "e636d3c7b98b7ef53dddb8851143950a",
-      "resolution": "1376x768"
+      "resolution": "1376x768",
+      "drive_file_id": "183BW5PNR0ExDn8JSS0AARUq5PFc8g4GZ",
+      "drive_url": "https://drive.google.com/file/d/183BW5PNR0ExDn8JSS0AARUq5PFc8g4GZ/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0169",
@@ -183,9 +205,15 @@
         "LOC-VAL-001"
       ],
       "file_path": "assets/batch_017/VAL-EP001-IMG0169.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat."
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2588164,
+      "md5": "2bf4d24c0f810521f2cb0a5ed69cf82f",
+      "resolution": "1376x768",
+      "drive_file_id": "1k0dy_HzWSzFa27fAR23wEcxLzKVgY8Lk",
+      "drive_url": "https://drive.google.com/file/d/1k0dy_HzWSzFa27fAR23wEcxLzKVgY8Lk/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0170",
@@ -204,7 +232,10 @@
       "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
       "size_bytes": 2403749,
       "md5": "e632d0f34d50fc33380e5b1495431fff",
-      "resolution": "1376x768"
+      "resolution": "1376x768",
+      "drive_file_id": "1Zx7PwuN1tJnvBjAEb0GSdvIMzt9xcK3y",
+      "drive_url": "https://drive.google.com/file/d/1Zx7PwuN1tJnvBjAEb0GSdvIMzt9xcK3y/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     }
   ]
 }
