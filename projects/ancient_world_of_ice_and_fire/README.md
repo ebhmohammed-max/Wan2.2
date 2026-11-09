@@ -122,4 +122,4 @@ projects/ancient_world_of_ice_and_fire/
 | **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–011 (`110/110`)** (`00:00–03:40`) | **110 / 1,050** (`10.48%`) | **Batch 012** (`03:40–04:00`) |
 
 
-**Current progress note (2026-11-10):** 110/1,050 images are in Drive (Batches 001–011 complete). Newly rendered frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after a visual-QC correction.
+**Current progress note (2026-11-09):** 110/1,050 images are in Drive (Batches 001–011 complete). Newly rendered frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after a visual-QC correction.

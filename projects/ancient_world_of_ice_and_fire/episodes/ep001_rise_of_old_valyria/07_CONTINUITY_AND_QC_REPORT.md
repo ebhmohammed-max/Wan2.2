@@ -199,7 +199,7 @@
 | `IMG0106–0110` | `03:30–03:40` | Queued, not rendered/uploaded | Next batch continuation; use Old Ghis anchor `ANCHOR-IMG0110` |
 
 
-## Turn 14 Addendum — Batch 011 Complete; Visual QC & Asshai Correction (2026-11-10)
+## Turn 14 Addendum — Batch 011 Complete; Visual QC & Asshai Correction (2026-11-09)
 
 - **Batch 011:** IMG0101–0110 now 10/10 uploaded in Drive folder `1ioLrKgrwqw8c-E5ZyVq4hGhVLukoVL9O`; all ten visually reviewed against their shot intent, with IMG0106–0110 checked against `ANCHOR-IMG0110`. All local PNGs are 1376×768 sRGB, and Drive MD5 checksums match local files.
 - **Batch 010 visual QC:** Re-reviewed the previously generated frames. Replaced IMG0094 after spotting an unintended castle silhouette: the new standalone render is a wilderness-only River Ash canyon with no architecture. The replacement is uploaded and MD5-verified. The full batch now passes visual review.
