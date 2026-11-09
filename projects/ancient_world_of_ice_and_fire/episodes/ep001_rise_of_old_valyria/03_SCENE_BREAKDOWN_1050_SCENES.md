@@ -111,7 +111,7 @@
 | `VAL-EP001-IMG0069` | `02:16–02:18` | `WS · 35mm` | *"the Bloodstone Emperor murdered his"* | 65mm throne-hall wide: stern Bloodstone Emperor in dark charcoal-garnet robes & bronze shoulder-plates claiming fallen amethyst diadem between smoking dragon-braziers | `BONE-MOUNTAINS-HYRKOON` |
 | `VAL-EP001-IMG0070` | `02:18–02:20` | `UWA · 24mm` | *"sister, the Amethyst Empress, plunging"* | 65mm palace colonnade ultra-wide: fallen Amethyst Empress & amethyst hairpin on stone steps as total solar eclipse & ink-navy night wall swallow eastern horizon | `BONE-MOUNTAINS-HYRKOON` |
 
-## BATCH 008 (Ch. I · `02:20–02:40` · `VAL-EP001-IMG0071–VAL-EP001-IMG0080`) *(ALL 10 PROMPTS COMPLETE · 8/10 65MM RENDERS QC-APPROVED · IMG0079 & IMG0080 QUEUED NEXT TURN)*
+## BATCH 008 (Ch. I · `02:20–02:40` · `VAL-EP001-IMG0071–VAL-EP001-IMG0080`) *(ALL 10 PROMPTS + 65MM RENDERS COMPLETE & QC-APPROVED)*
 
 | Scene ID | Timestamp | Shot & Lens | Synced 2s Narration Slice | Visual Beat & Continuity | Refs |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -126,20 +126,20 @@
 | `VAL-EP001-IMG0079` | `02:36–02:38` | `UWA · 24mm` | *"is that when warmth"* | 65mm orchard-terrace ultra-wide: golden spring sunlight bathing irrigated green terraces & Bronze-Age farmers along the shimmering silver-green Mother Rhoyne | `LOC-ESS-002` |
 | `VAL-EP001-IMG0080` | `02:38–02:40` | `MCU · 50mm` | *"returned to the world, great"* | 65mm riverside quay medium-wide: early Rhoynar artisans & traders unloading bronze vessels & amphorae beside gilded wooden skiffs & basking giant river turtle | `LOC-ESS-002` |
 
-## BATCH 009 (Ch. I · `02:40–03:00` · `VAL-EP001-IMG0081–VAL-EP001-IMG0090`)
+## BATCH 009 (Ch. I · `02:40–03:00` · `VAL-EP001-IMG0081–VAL-EP001-IMG0090`) *(ALL 10 PROMPTS COMPLETE · 7/10 65MM RENDERS QC-APPROVED · IMG0085, 0089, 0090 QUEUED NEXT TURN)*
 
 | Scene ID | Timestamp | Shot & Lens | Synced 2s Narration Slice | Visual Beat & Continuity | Refs |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `VAL-EP001-IMG0081` | `02:40–02:42` | `MS · 35mm` | *"peoples blossomed across Essos—while Valyria"* | Dynamic medium lateral tracking angle — Early Rhoynar river-towns & iron-smelting bloomeries | `LOC-ESS-002` |
-| `VAL-EP001-IMG0082` | `02:42–02:44` | `MCU · 65mm` | *"remained unknown. Across the northern"* | Compressed telephoto dramatic subject framing — Early Rhoynar river-towns & iron-smelting bloomeries | `LOC-ESS-002` |
-| `VAL-EP001-IMG0083` | `02:44–02:46` | `MS · 50mm` | *"grasslands roamed the Qaathi and"* | Medium cinematic subject focus — Early Rhoynar river-towns & iron-smelting bloomeries | `LOC-ESS-002` |
-| `VAL-EP001-IMG0084` | `02:46–02:48` | `WS · 35mm` | *"early fisher-kings of the Silver"* | Wide environmental storytelling tableau — Early Rhoynar river-towns & iron-smelting bloomeries | `LOC-ESS-002` |
-| `VAL-EP001-IMG0085` | `02:48–02:50` | `UWA · 24mm` | *"Sea, while along the gentle"* | High-elevation geographic / scale reveal — Early Rhoynar river-towns & iron-smelting bloomeries | `LOC-ESS-002` |
-| `VAL-EP001-IMG0086` | `02:50–02:52` | `LAM · 24mm` | *"silver expanse of the Mother"* | Towering vertical scale composition — Early Rhoynar river-towns & iron-smelting bloomeries | `LOC-ESS-002` |
-| `VAL-EP001-IMG0087` | `02:52–02:54` | `DET · 85mm` | *"Rhoyne, the early Rhoynar"* | Macro environmental / material texture insert — Early Rhoynar river-towns & iron-smelting bloomeries | `LOC-ESS-002` |
-| `VAL-EP001-IMG0088` | `02:54–02:56` | `CU · 85mm` | *"raised peaceful river-towns of music"* | Intimate close-up detail / expression beat — Early Rhoynar river-towns & iron-smelting bloomeries | `LOC-ESS-002` |
-| `VAL-EP001-IMG0089` | `02:56–02:58` | `DET · 100mm` | *"and craft, becoming perhaps the"* | Extreme close-up tactile / light study — Early Rhoynar river-towns & iron-smelting bloomeries | `LOC-ESS-002` |
-| `VAL-EP001-IMG0090` | `02:58–03:00` | `WS · 40mm` | *"first mortals to smelt iron."* | Transitional wide horizon / bridge framing — Early Rhoynar river-towns & iron-smelting bloomeries | `LOC-ESS-002` |
+| `VAL-EP001-IMG0081` | `02:40–02:42` | `MS · 35mm` | *"peoples blossomed across Essos—while Valyria"* | 65mm coastal trade-road wide: copper-laden ox-carts & Bronze-Age merchants above mudbrick port while unknown smoking volcanic peaks of Valyria brood across sea | `LOC-ESS-002` |
+| `VAL-EP001-IMG0082` | `02:42–02:44` | `MCU · 65mm` | *"remained unknown. Across the northern"* | 65mm coastal telephoto: uninhabited black basalt cliffs, sulfur fumaroles & dark Fourteen Flames cones above wave-lashed black sand with zero buildings | `LOC-ESS-002` |
+| `VAL-EP001-IMG0083` | `02:44–02:46` | `MS · 50mm` | *"grasslands roamed the Qaathi and"* | 65mm steppe tracking wide: early Qaathi pastoralists in ochre-indigo wool & bronze chest-discs guiding hide-canopied ox-wagons through golden grasslands under storm sky | `LOC-ESS-002` |
+| `VAL-EP001-IMG0084` | `02:46–02:48` | `WS · 35mm` | *"early fisher-kings of the Silver"* | 65mm shingle-shore wide: silver-circleted Fisher-King in fur-trimmed cloak beside brazier & cedar longboats as fishermen haul gleaming silver fish | `LOC-ESS-002` |
+| `VAL-EP001-IMG0085` | `02:48–02:50` | `UWA · 24mm` | *"Sea, while along the gentle"* | 65mm willow-bluff ultra-wide: shadowed weeping-willow branches & natural mossy boulders framing golden afternoon waters, lateen skiffs & rose-sandstone pavilions of Mother Rhoyne | `LOC-ESS-002` |
+| `VAL-EP001-IMG0086` | `02:50–02:52` | `LAM · 24mm` | *"silver expanse of the Mother"* | 65mm water-skimming wide: giant mossy-shelled river turtle surfacing in ink-navy ripples before gilded lateen skiffs on endless golden-mist expanse of Mother Rhoyne | `LOC-ESS-002` |
+| `VAL-EP001-IMG0087` | `02:52–02:54` | `DET · 85mm` | *"Rhoyne, the early Rhoynar"* | 65mm telephoto waterfront medium: olive-skinned Rhoynar potters & weavers in saffron-cream linen beside spiral-wave bridge carvings & sunlit lateen skiffs | `LOC-ESS-002` |
+| `VAL-EP001-IMG0088` | `02:54–02:56` | `CU · 85mm` | *"raised peaceful river-towns of music"* | 65mm water-pavilion portrait: Rhoynar female lyre-player & bearded reed-piper in saffron-indigo linen framed by sandstone columns & glittering River Rhoyne | `LOC-ESS-002` |
+| `VAL-EP001-IMG0089` | `02:56–02:58` | `DET · 100mm` | *"and craft, becoming perhaps the"* | 65mm riverside anvil macro: Rhoynar smith's tongs & hammer striking incandescent sparks from spongy wrought-iron bloom with turning waterwheel in soft bokeh | `LOC-ESS-002` |
+| `VAL-EP001-IMG0090` | `02:58–03:00` | `WS · 40mm` | *"first mortals to smelt iron."* | 65mm riverside terrace wide: two Rhoynar smiths tending roaring conical clay-and-stone bloomery iron furnace beside wooden waterwheel & golden-lit Rhoynar city | `LOC-ESS-002` |
 
 ## BATCH 010 (Ch. I · `03:00–03:20` · `VAL-EP001-IMG0091–VAL-EP001-IMG0100`)
 

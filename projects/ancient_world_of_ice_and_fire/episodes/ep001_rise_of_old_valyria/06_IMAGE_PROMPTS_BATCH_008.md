@@ -3,7 +3,7 @@
 **Episode Number:** Episode 001 (`VAL-EP001`) — *Before the Dragons: The Rise of Old Valyria*  
 **Batch Number:** **Batch 008 of 105** (Covers `02:20–02:40` · **30 Images / Minute = 2.0 Seconds per Image**)  
 **Visual Standard:** **Locked 65mm Live-Action / Physically Realistic 3D Historical Cinema** (*Warm Sandstone Highlights · Muted Archaeological Midtones · Deep Ink-Navy Shadows · ARRI Alexa 65 + Panavision Primo Primes · Kodak Vision3 500T Grade*)  
-**Render & QC Status:** **8 / 10 IMAGES QC-APPROVED & UPLOADED (`IMG0071–0078`); `IMG0079` & `IMG0080` QUEUED FIRST NEXT TURN AFTER 10-IMAGE TURN LIMIT (2 USED TO COMPLETE BATCH 007 `10/10`)**
+**Render & QC Status:** **ALL 10 / 10 IMAGES RENDERED AT 65MM `1376x768`, VISUALLY QC-APPROVED, AND ARCHIVED TO GOOGLE DRIVE**
 
 ---
 
@@ -191,7 +191,7 @@
 
 ---
 
-## PROMPT 0079 — `VAL-EP001-IMG0079` *(Queued First Next Turn After 10-Image Turn Limit)*
+## PROMPT 0079 — `VAL-EP001-IMG0079`
 
 - **1. Scene ID:** `VAL-EP001-IMG0079`
 - **2. Episode Number:** Episode 001 (`VAL-EP001`)
@@ -210,11 +210,11 @@
 - **15. Visual Style:** Adult cinematic physically realistic 3D historical reconstruction and live-action 65mm location photography, Kodak Vision3 500T film grade, fine organic film grain.
 - **16. Aspect Ratio:** `16:9` (`1376x768`)
 - **17. Negative Prompt:** Modern farm machinery, fences, letterboxing, black bars, text, subtitles, watermarks.
-- **Refs & Continuity Check:** **QUEUED FOR IMMEDIATE RENDER AT START OF NEXT TURN** (10-image per-turn generation limit reached after completing Batch 007 `10/10` + Batch 008 `IMG0071–0078`).
+- **Refs & Continuity Check:** `LOC-ESS-002` · Full-bleed `1376x768` verified (`assets/batch_008/VAL-EP001-IMG0079.png` — **QC PASSED**).
 
 ---
 
-## PROMPT 0080 — `VAL-EP001-IMG0080` *(Queued First Next Turn After 10-Image Turn Limit)*
+## PROMPT 0080 — `VAL-EP001-IMG0080`
 
 - **1. Scene ID:** `VAL-EP001-IMG0080`
 - **2. Episode Number:** Episode 001 (`VAL-EP001`)
@@ -233,4 +233,4 @@
 - **15. Visual Style:** Adult cinematic physically realistic 3D historical reconstruction and live-action 65mm location photography, Kodak Vision3 500T film grade, fine organic film grain.
 - **16. Aspect Ratio:** `16:9` (`1376x768`)
 - **17. Negative Prompt:** Medieval European galleons, modern docks, letterboxing, black bars, text, subtitles, watermarks.
-- **Refs & Continuity Check:** **QUEUED FOR IMMEDIATE RENDER AT START OF NEXT TURN** (10-image per-turn generation limit reached).
+- **Refs & Continuity Check:** `LOC-ESS-002` · Matches `ANCHOR-IMG0082` waterwheel, pavilions & river turtle (`assets/batch_008/VAL-EP001-IMG0080.png` — **QC PASSED**).

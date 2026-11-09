@@ -12,10 +12,11 @@
     4,
     5,
     6,
-    7
+    7,
+    8
   ],
-  "next_batch": 9,
-  "next_image_number": 79,
+  "next_batch": 10,
+  "next_image_number": 85,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -82,6 +83,11 @@
       "name": "Batch_008_Images_0071-0080_Azor_Ahai_and_Return_of_Warmth_02m20s-02m40s",
       "drive_id": "153sskGJiJOSLzOwPqb8XUaCcXUOHjCQQ",
       "url": "https://drive.google.com/drive/folders/153sskGJiJOSLzOwPqb8XUaCcXUOHjCQQ"
+    },
+    "batch_009_images_folder": {
+      "name": "Batch_009_Images_0081-0090_Unknown_Valyria_Qaathi_and_Mother_Rhoyne_02m40s-03m00s",
+      "drive_id": "1RmpAC5zaJ0gIpJhYzKfuwnTrBfKKkW-L",
+      "url": "https://drive.google.com/drive/folders/1RmpAC5zaJ0gIpJhYzKfuwnTrBfKKkW-L"
     }
   },
   "batch_001_images_65mm_upgraded": [
@@ -264,7 +270,7 @@
   "production_documents_and_databases": [
     {
       "name": "README_Series_Master_Guide.md",
-      "drive_id": "1v-I9JIPziEbABOjtooum-NIYB2QWCq_V",
+      "drive_id": "1c-CzGXKJ3WExjevwynLv1iv8NkfVbEDN",
       "size": 8364,
       "md5": "56517b0bc7120cf99cb42cfaadb7a8c0",
       "upload_checksum_verified": true
@@ -306,14 +312,14 @@
     },
     {
       "name": "F_EPISODE_DATABASE.json",
-      "drive_id": "1PMbDTm_ie0EzUA44VDHNCCkNGV66l2bb",
+      "drive_id": "1v0TWkPBOAmBNQZZYp8imPLrhOE_t5fgR",
       "size": 1458,
       "md5": "e0e2983972fe153f56ea4ad81958d6b5",
       "upload_checksum_verified": true
     },
     {
       "name": "G_VISUAL_ASSET_DATABASE.json",
-      "drive_id": "1pKSlZlGCjdGSr82l2iHNhzAqNRpP3qls",
+      "drive_id": "1CpllRZsCfl_ukZfdWOKVBmwKH2rTkILd",
       "size": 12708,
       "md5": "d28428cdfd3ff6c71e426640f3d29f38",
       "upload_checksum_verified": true
@@ -327,7 +333,7 @@
     },
     {
       "name": "EP001_MASTER_PRODUCTION_PACKAGE.md",
-      "drive_id": "1KDU3XZG5KMZcpO71d1AtEHmfJM8_BZMD",
+      "drive_id": "1HqtXhRboWASrM0Mqxb0Xcxj65WroJqhY",
       "size": 196763,
       "md5": "cf46210660480c09d2aeb95d0275fd9f",
       "upload_checksum_verified": true
@@ -369,21 +375,21 @@
     },
     {
       "name": "03_SCENE_BREAKDOWN_1050_SCENES.md",
-      "drive_id": "1l4821q8U6OYyjBYkqEmwqylgh4iRpcwS",
+      "drive_id": "1KE2i__uwl3quqqkXMrKDV3D98pKEWMls",
       "size": 262438,
       "md5": "1eb373dd42194d835462157ce6b34777",
       "upload_checksum_verified": true
     },
     {
       "name": "03_SCENE_BREAKDOWN_1050_SCENES.json",
-      "drive_id": "1UmZ56OseQNoY4sx5MIqtl9bSJWWMsFso",
+      "drive_id": "1YHIyJkRQ6UXZJmw9ld5lJeP4zenyP_WV",
       "size": 471525,
       "md5": "4f064dda0f0435b88d5700d031d9d6a7",
       "upload_checksum_verified": true
     },
     {
       "name": "03_SCENE_BREAKDOWN_1050_SCENES.csv",
-      "drive_id": "1lH5-rjlL8NXQWP7bgiez--AL8Dv6-u4P",
+      "drive_id": "1pSavR9YkzzQahoiTBouizRC2vW62gLFj",
       "size": 390526,
       "md5": "40b0c5abb961831b22f12b1d9c989979",
       "upload_checksum_verified": true
@@ -418,7 +424,7 @@
     },
     {
       "name": "07_CONTINUITY_AND_QC_REPORT.md",
-      "drive_id": "1CXbKxWFxwIBg98qs0Kpa7vOCqEFAUynY",
+      "drive_id": "1Camsf1rOPSO-Ez3fXY8qEaMAo2DbKjIQ",
       "size": 17066,
       "md5": "23c48a0b93a804315e767fad754c568d",
       "upload_checksum_verified": true
@@ -1116,11 +1122,12 @@
     }
   ],
   "in_progress_batch": {
-    "batch": 8,
-    "approved_uploaded": 8,
+    "batch": 9,
+    "approved_uploaded": 7,
     "queued_next_turn": [
-      "VAL-EP001-IMG0079",
-      "VAL-EP001-IMG0080"
+      "VAL-EP001-IMG0085",
+      "VAL-EP001-IMG0089",
+      "VAL-EP001-IMG0090"
     ]
   },
   "batch_007_verified_images": [
@@ -1377,6 +1384,134 @@
       "md5": "c1702ee9d5cd1c68161525c9eecea4c6",
       "md5_verified": true,
       "narration_slice": "with certainty. What is clear"
+    },
+    {
+      "image_number": 79,
+      "scene_id": "VAL-EP001-IMG0079",
+      "batch": 8,
+      "timestamp": "02:36–02:38",
+      "file_name": "VAL-EP001-IMG0079.png",
+      "drive_id": "1v0aIIrdxQV6FrsnBilnHv-FKh6qlo8Ru",
+      "drive_folder_id": "153sskGJiJOSLzOwPqb8XUaCcXUOHjCQQ",
+      "resolution": "1376x768",
+      "size_bytes": 1935183,
+      "md5": "b4cb96fb8797e37932b8293a26f80e9f",
+      "md5_verified": true,
+      "narration_slice": "is that when warmth"
+    },
+    {
+      "image_number": 80,
+      "scene_id": "VAL-EP001-IMG0080",
+      "batch": 8,
+      "timestamp": "02:38–02:40",
+      "file_name": "VAL-EP001-IMG0080.png",
+      "drive_id": "1TyOWIXHv1pS4sJVsdD81G-esPS8kZ5yW",
+      "drive_folder_id": "153sskGJiJOSLzOwPqb8XUaCcXUOHjCQQ",
+      "resolution": "1376x768",
+      "size_bytes": 2847730,
+      "md5": "54c0421bca6347867f6102f02c797ac6",
+      "md5_verified": true,
+      "narration_slice": "returned to the world, great"
+    }
+  ],
+  "batch_009_verified_images": [
+    {
+      "image_number": 81,
+      "scene_id": "VAL-EP001-IMG0081",
+      "batch": 9,
+      "timestamp": "02:40–02:42",
+      "file_name": "VAL-EP001-IMG0081.png",
+      "drive_id": "1qWg0qCc60tbnFGcvbqLYvj4k8zMhhPFb",
+      "drive_folder_id": "1RmpAC5zaJ0gIpJhYzKfuwnTrBfKKkW-L",
+      "resolution": "1376x768",
+      "size_bytes": 2702586,
+      "md5": "c52830e4e0049d8c9339dbf0cf626a47",
+      "md5_verified": true,
+      "narration_slice": "peoples blossomed across Essos—while Valyria"
+    },
+    {
+      "image_number": 82,
+      "scene_id": "VAL-EP001-IMG0082",
+      "batch": 9,
+      "timestamp": "02:42–02:44",
+      "file_name": "VAL-EP001-IMG0082.png",
+      "drive_id": "1EXD5em3HA9v0Hu6dxT8kjlDugzy_jzQF",
+      "drive_folder_id": "1RmpAC5zaJ0gIpJhYzKfuwnTrBfKKkW-L",
+      "resolution": "1376x768",
+      "size_bytes": 1984223,
+      "md5": "3c6d98f9e42438ba872bebfdebce813f",
+      "md5_verified": true,
+      "narration_slice": "remained unknown. Across the northern"
+    },
+    {
+      "image_number": 83,
+      "scene_id": "VAL-EP001-IMG0083",
+      "batch": 9,
+      "timestamp": "02:44–02:46",
+      "file_name": "VAL-EP001-IMG0083.png",
+      "drive_id": "1pDhUwQVEDqyBfFPlxwmhzRw9lAI4u22x",
+      "drive_folder_id": "1RmpAC5zaJ0gIpJhYzKfuwnTrBfKKkW-L",
+      "resolution": "1376x768",
+      "size_bytes": 2718910,
+      "md5": "3e37848c70489ee4557c474b8b056e5d",
+      "md5_verified": true,
+      "narration_slice": "grasslands roamed the Qaathi and"
+    },
+    {
+      "image_number": 84,
+      "scene_id": "VAL-EP001-IMG0084",
+      "batch": 9,
+      "timestamp": "02:46–02:48",
+      "file_name": "VAL-EP001-IMG0084.png",
+      "drive_id": "1rf8AOsJOCkiUzgxKsTCwzKyY5toMYvT2",
+      "drive_folder_id": "1RmpAC5zaJ0gIpJhYzKfuwnTrBfKKkW-L",
+      "resolution": "1376x768",
+      "size_bytes": 1993678,
+      "md5": "048551f69c2ad31268db87bea84673a6",
+      "md5_verified": true,
+      "narration_slice": "early fisher-kings of the Silver"
+    },
+    {
+      "image_number": 86,
+      "scene_id": "VAL-EP001-IMG0086",
+      "batch": 9,
+      "timestamp": "02:50–02:52",
+      "file_name": "VAL-EP001-IMG0086.png",
+      "drive_id": "1dmwIiWVI92-0s59STnMfWzQhs0g39liv",
+      "drive_folder_id": "1RmpAC5zaJ0gIpJhYzKfuwnTrBfKKkW-L",
+      "resolution": "1376x768",
+      "size_bytes": 2437082,
+      "md5": "663bf7de12fde133fe2d7a08d7395836",
+      "md5_verified": true,
+      "narration_slice": "silver expanse of the Mother"
+    },
+    {
+      "image_number": 87,
+      "scene_id": "VAL-EP001-IMG0087",
+      "batch": 9,
+      "timestamp": "02:52–02:54",
+      "file_name": "VAL-EP001-IMG0087.png",
+      "drive_id": "13TCnCC4BHeA6RjCGJw6aFSUFG9wwnZX5",
+      "drive_folder_id": "1RmpAC5zaJ0gIpJhYzKfuwnTrBfKKkW-L",
+      "resolution": "1376x768",
+      "size_bytes": 2933898,
+      "md5": "b7ee75aecd54143a034206286840d5fb",
+      "md5_verified": true,
+      "narration_slice": "Rhoyne, the early Rhoynar"
+    },
+    {
+      "image_number": 88,
+      "scene_id": "VAL-EP001-IMG0088",
+      "batch": 9,
+      "timestamp": "02:54–02:56",
+      "file_name": "VAL-EP001-IMG0088.png",
+      "drive_id": "129fMGu2d0LxBQn_TIcdVxd2xatKPYChG",
+      "drive_folder_id": "1RmpAC5zaJ0gIpJhYzKfuwnTrBfKKkW-L",
+      "resolution": "1376x768",
+      "size_bytes": 2933749,
+      "md5": "7f9175f135a1fd01bd70f53f22b17212",
+      "md5_verified": true,
+      "narration_slice": "raised peaceful river-towns of music"
     }
   ]
 }

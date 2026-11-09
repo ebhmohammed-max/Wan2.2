@@ -25,7 +25,7 @@
       "speaking_rate_wpm": 130.9,
       "total_scenes": 1050,
       "total_batches": 105,
-      "status": "BATCHES_001_TO_007_COMPLETE_BATCH_008_8_OF_10_UPLOADED_2_QUEUED_NEXT_TURN",
+      "status": "BATCHES_001_TO_008_COMPLETE_BATCH_009_7_OF_10_UPLOADED_3_QUEUED_NEXT_TURN",
       "completed_batches": [
         1,
         2,
@@ -33,17 +33,19 @@
         4,
         5,
         6,
-        7
+        7,
+        8
       ],
-      "pending_batches_range": "008 (2 frames) + 009–105",
+      "pending_batches_range": "009 (3 frames) + 010–105",
       "next_episode_handoff": "EP002 — Iron Legions and Dragonfire: The Five Ghiscari Wars",
-      "completed_images_count": 78,
+      "completed_images_count": 87,
       "in_progress_batch": {
-        "batch": 8,
-        "approved_count": 8,
+        "batch": 9,
+        "approved_count": 7,
         "queued_scene_ids": [
-          "VAL-EP001-IMG0079",
-          "VAL-EP001-IMG0080"
+          "VAL-EP001-IMG0085",
+          "VAL-EP001-IMG0089",
+          "VAL-EP001-IMG0090"
         ]
       }
     }

@@ -1114,7 +1114,7 @@
     "location_creature_refs": [
       "LOC-ESS-002"
     ],
-    "qc_status": "QUEUED_NEXT_TURN_QUOTA"
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0080",
@@ -1128,7 +1128,7 @@
     "location_creature_refs": [
       "LOC-ESS-002"
     ],
-    "qc_status": "QUEUED_NEXT_TURN_QUOTA"
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0081",
@@ -1137,11 +1137,12 @@
     "timestamp": "02:40–02:42",
     "shot_lens": "MS · 35mm",
     "narration_slice": "peoples blossomed across Essos—while Valyria",
-    "visual_beat": "Dynamic medium lateral tracking angle — Early Rhoynar river-towns & iron-smelting bloomeries",
+    "visual_beat": "65mm coastal trade-road wide: copper-laden ox-carts & Bronze-Age merchants above mudbrick port while unknown smoking volcanic peaks of Valyria brood across sea",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-002"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0082",
@@ -1150,11 +1151,12 @@
     "timestamp": "02:42–02:44",
     "shot_lens": "MCU · 65mm",
     "narration_slice": "remained unknown. Across the northern",
-    "visual_beat": "Compressed telephoto dramatic subject framing — Early Rhoynar river-towns & iron-smelting bloomeries",
+    "visual_beat": "65mm coastal telephoto: uninhabited black basalt cliffs, sulfur fumaroles & dark Fourteen Flames cones above wave-lashed black sand with zero buildings",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-002"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0083",
@@ -1163,11 +1165,12 @@
     "timestamp": "02:44–02:46",
     "shot_lens": "MS · 50mm",
     "narration_slice": "grasslands roamed the Qaathi and",
-    "visual_beat": "Medium cinematic subject focus — Early Rhoynar river-towns & iron-smelting bloomeries",
+    "visual_beat": "65mm steppe tracking wide: early Qaathi pastoralists in ochre-indigo wool & bronze chest-discs guiding hide-canopied ox-wagons through golden grasslands under storm sky",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-002"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0084",
@@ -1176,11 +1179,12 @@
     "timestamp": "02:46–02:48",
     "shot_lens": "WS · 35mm",
     "narration_slice": "early fisher-kings of the Silver",
-    "visual_beat": "Wide environmental storytelling tableau — Early Rhoynar river-towns & iron-smelting bloomeries",
+    "visual_beat": "65mm shingle-shore wide: silver-circleted Fisher-King in fur-trimmed cloak beside brazier & cedar longboats as fishermen haul gleaming silver fish",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-002"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0085",
@@ -1189,11 +1193,12 @@
     "timestamp": "02:48–02:50",
     "shot_lens": "UWA · 24mm",
     "narration_slice": "Sea, while along the gentle",
-    "visual_beat": "High-elevation geographic / scale reveal — Early Rhoynar river-towns & iron-smelting bloomeries",
+    "visual_beat": "65mm willow-bluff ultra-wide: shadowed weeping-willow branches & natural mossy boulders framing golden afternoon waters, lateen skiffs & rose-sandstone pavilions of Mother Rhoyne",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-002"
-    ]
+    ],
+    "qc_status": "QUEUED_NEXT_TURN_QUOTA"
   },
   {
     "scene_id": "VAL-EP001-IMG0086",
@@ -1202,11 +1207,12 @@
     "timestamp": "02:50–02:52",
     "shot_lens": "LAM · 24mm",
     "narration_slice": "silver expanse of the Mother",
-    "visual_beat": "Towering vertical scale composition — Early Rhoynar river-towns & iron-smelting bloomeries",
+    "visual_beat": "65mm water-skimming wide: giant mossy-shelled river turtle surfacing in ink-navy ripples before gilded lateen skiffs on endless golden-mist expanse of Mother Rhoyne",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-002"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0087",
@@ -1215,11 +1221,12 @@
     "timestamp": "02:52–02:54",
     "shot_lens": "DET · 85mm",
     "narration_slice": "Rhoyne, the early Rhoynar",
-    "visual_beat": "Macro environmental / material texture insert — Early Rhoynar river-towns & iron-smelting bloomeries",
+    "visual_beat": "65mm telephoto waterfront medium: olive-skinned Rhoynar potters & weavers in saffron-cream linen beside spiral-wave bridge carvings & sunlit lateen skiffs",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-002"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0088",
@@ -1228,11 +1235,12 @@
     "timestamp": "02:54–02:56",
     "shot_lens": "CU · 85mm",
     "narration_slice": "raised peaceful river-towns of music",
-    "visual_beat": "Intimate close-up detail / expression beat — Early Rhoynar river-towns & iron-smelting bloomeries",
+    "visual_beat": "65mm water-pavilion portrait: Rhoynar female lyre-player & bearded reed-piper in saffron-indigo linen framed by sandstone columns & glittering River Rhoyne",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-002"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0089",
@@ -1241,11 +1249,12 @@
     "timestamp": "02:56–02:58",
     "shot_lens": "DET · 100mm",
     "narration_slice": "and craft, becoming perhaps the",
-    "visual_beat": "Extreme close-up tactile / light study — Early Rhoynar river-towns & iron-smelting bloomeries",
+    "visual_beat": "65mm riverside anvil macro: Rhoynar smith's tongs & hammer striking incandescent sparks from spongy wrought-iron bloom with turning waterwheel in soft bokeh",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-002"
-    ]
+    ],
+    "qc_status": "QUEUED_NEXT_TURN_QUOTA"
   },
   {
     "scene_id": "VAL-EP001-IMG0090",
@@ -1254,11 +1263,12 @@
     "timestamp": "02:58–03:00",
     "shot_lens": "WS · 40mm",
     "narration_slice": "first mortals to smelt iron.",
-    "visual_beat": "Transitional wide horizon / bridge framing — Early Rhoynar river-towns & iron-smelting bloomeries",
+    "visual_beat": "65mm riverside terrace wide: two Rhoynar smiths tending roaring conical clay-and-stone bloomery iron furnace beside wooden waterwheel & golden-lit Rhoynar city",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-002"
-    ]
+    ],
+    "qc_status": "QUEUED_NEXT_TURN_QUOTA"
   },
   {
     "scene_id": "VAL-EP001-IMG0091",

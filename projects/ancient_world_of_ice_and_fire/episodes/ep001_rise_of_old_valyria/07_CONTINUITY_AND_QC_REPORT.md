@@ -125,7 +125,7 @@
 | `VAL-EP001-IMG0069` | `02:16–02:18` | `assets/batch_007/VAL-EP001-IMG0069.png` | Stern Bloodstone Emperor in charcoal-garnet silk & oxidized bronze shoulder-plates claiming fallen amethyst diadem before high throne; full-bleed `1376x768`. | **PASSED (65mm v1)** |
 | `VAL-EP001-IMG0070` | `02:18–02:20` | `assets/batch_007/VAL-EP001-IMG0070.png` | Haunting, dignified 65mm composition: fallen Amethyst Empress & amethyst hairpin beneath total solar eclipse & tidal ink-navy darkness; full-bleed 1376x768. | **PASSED (65mm v1)** |
 
-### H. Batch 008 (`02:20–02:40` · `VAL-EP001-IMG0071` – `IMG0080` · **8/10 QC-Approved & Uploaded; `IMG0079` & `IMG0080` Queued Next Turn**)
+### H. Batch 008 (`02:20–02:40` · `VAL-EP001-IMG0071` – `IMG0080` · **10/10 Complete & QC-Approved**)
 
 | Scene ID | Timestamp | File Path | 65mm Cinematic Continuity & Phase D Inspection Result | Status |
 | :--- | :--- | :--- | :--- | :--- |
@@ -137,10 +137,25 @@
 | `VAL-EP001-IMG0076` | `02:30–02:32` | `assets/batch_008/VAL-EP001-IMG0076.png` | Poetic transition from myth to early history; eroded wordless spiral monoliths framing golden sunrise mist over river-terraces. | **PASSED (65mm v1)** |
 | `VAL-EP001-IMG0077` | `02:32–02:34` | `assets/batch_008/VAL-EP001-IMG0077.png` | Authentic documentary staging; completely wordless contour-and-river map weighted with verdigris-bronze astrolabe rings in sunlit sandstone loggia. | **PASSED (65mm v1)** |
 | `VAL-EP001-IMG0078` | `02:34–02:36` | `assets/batch_008/VAL-EP001-IMG0078.png` | Sweeping continental thaw; twin snowmelt waterfalls, silver-jade Rhoyne, early rose-sandstone river hamlets & receding ink-navy cloud wall. | **PASSED (65mm v1)** |
-| `VAL-EP001-IMG0079` | `02:36–02:38` | *(Queued next turn)* | QUEUED_NEXT_TURN_QUOTA (10-image per-turn generation limit reached after completing Batch 007 10/10 + Batch 008 IMG0071–0078). | **QUEUED (Turn Cap)** |
-| `VAL-EP001-IMG0080` | `02:38–02:40` | *(Queued next turn)* | QUEUED_NEXT_TURN_QUOTA (10-image per-turn generation limit reached after completing Batch 007 10/10 + Batch 008 IMG0071–0078). | **QUEUED (Turn Cap)** |
+| `VAL-EP001-IMG0079` | `02:36–02:38` | `assets/batch_008/VAL-EP001-IMG0079.png` | Olive trunks in ink-navy shade framing blossoming orchards, sandstone irrigation rills & Bronze-Age oxen plowmen along the Mother Rhoyne; full-bleed `1376x768`. | **PASSED (65mm v1)** |
+| `VAL-EP001-IMG0080` | `02:38–02:40` | `assets/batch_008/VAL-EP001-IMG0080.png` | Exact architectural match to ANCHOR-IMG0082: waterwheel, domed rose-sandstone pavilions, gilded skiffs, Rhoynar unloading bronze vessels & giant river turtle. | **PASSED (65mm v1)** |
 
-### I. Pre-Approved Character Identity Reference Plates & Chapter I Master Environment Anchors
+### I. Batch 009 (`02:40–03:00` · `VAL-EP001-IMG0081` – `IMG0090` · **7/10 QC-Approved & Uploaded; `IMG0085`, `IMG0089` & `IMG0090` Queued Next Turn**)
+
+| Scene ID | Timestamp | File Path | 65mm Cinematic Continuity & Phase D Inspection Result | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| `VAL-EP001-IMG0081` | `02:40–02:42` | `assets/batch_009/VAL-EP001-IMG0081.png` | Sunlit Bronze-Age trade caravan with copper ox-hide ingots & harbor town contrasted against dark smoking unknown Valyrian volcanoes. | **PASSED (65mm v1)** |
+| `VAL-EP001-IMG0082` | `02:42–02:44` | `assets/batch_009/VAL-EP001-IMG0082.png` | Strictly pre-civilizational Fourteen Flames peninsula; black volcanic beaches, sulfur fumaroles & ink-navy cones with warm sandstone rim. | **PASSED (65mm v1)** |
+| `VAL-EP001-IMG0083` | `02:44–02:46` | `assets/batch_009/VAL-EP001-IMG0083.png` | Authentic Bronze-Age Qaathi wagon-clans & steppe outriders in golden grasslands beneath towering ink-navy storm clouds. | **PASSED (65mm v1)** |
+| `VAL-EP001-IMG0084` | `02:46–02:48` | `assets/batch_009/VAL-EP001-IMG0084.png` | Archaic Fisher-King on misty inland Silver Sea shore; tiny modern hull mark healed cleanly to seamless cedar plank & verified via read_file. | **PASSED (65mm v1)** |
+| `VAL-EP001-IMG0085` | `02:48–02:50` | *(Queued next turn)* | QUEUED_TURN_START_RERENDER (v1 held back in Phase-D QC because foreground mooring stones resembled inscribed Roman stelae; 10-image turn cap reached). | **QUEUED (Turn Cap)** |
+| `VAL-EP001-IMG0086` | `02:50–02:52` | `assets/batch_009/VAL-EP001-IMG0086.png` | Sacred Old Man of the River turtle & gilded lateen skiffs on shoreless golden-silver expanse matching ANCHOR-IMG0082 bridges. | **PASSED (65mm v1)** |
+| `VAL-EP001-IMG0087` | `02:52–02:54` | `assets/batch_009/VAL-EP001-IMG0087.png` | Exact rose-sandstone multi-arched bridge & wordless wave-spiral carvings matching ANCHOR-IMG0082; verified zero text. | **PASSED (65mm v1)** |
+| `VAL-EP001-IMG0088` | `02:54–02:56` | `assets/batch_009/VAL-EP001-IMG0088.png` | Authentic tortoiseshell-and-bronze lyre & double reed-pipes in dappled sandstone water-pavilion overlooking glittering Rhoyne. | **PASSED (65mm v1)** |
+| `VAL-EP001-IMG0089` | `02:56–02:58` | *(Queued next turn)* | QUEUED_NEXT_TURN_QUOTA (10-image per-turn generation limit reached after completing Batch 008 10/10 + Batch 009 renders). | **QUEUED (Turn Cap)** |
+| `VAL-EP001-IMG0090` | `02:58–03:00` | *(Queued next turn)* | QUEUED_NEXT_TURN_QUOTA (exact master payoff of ANCHOR-IMG0082; 10-image per-turn generation limit reached). | **QUEUED (Turn Cap)** |
+
+### J. Pre-Approved Character Identity Reference Plates & Chapter I Master Environment Anchors
 
 | Asset ID | File Path | Purpose | Status |
 | :--- | :--- | :--- | :--- |

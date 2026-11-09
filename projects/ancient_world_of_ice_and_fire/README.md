@@ -78,7 +78,9 @@ projects/ancient_world_of_ice_and_fire/
         ├── 06_BATCH_007_MANIFEST.json               # Machine-readable JSON manifest for Batch 007
         ├── 06_IMAGE_PROMPTS_BATCH_008.md            # Part 6: Upgraded 65mm Prompts (VAL-EP001-IMG0071–IMG0080)
         ├── 06_BATCH_008_MANIFEST.json               # Machine-readable JSON manifest for Batch 008
-        ├── 07_CONTINUITY_AND_QC_REPORT.md           # Part 7: Continuity Audit & 65mm Phase-D QC Log (Batches 001–008)
+        ├── 06_IMAGE_PROMPTS_BATCH_009.md            # Part 6: Upgraded 65mm Prompts (VAL-EP001-IMG0081–IMG0090)
+        ├── 06_BATCH_009_MANIFEST.json               # Machine-readable JSON manifest for Batch 009
+        ├── 07_CONTINUITY_AND_QC_REPORT.md           # Part 7: Continuity Audit & 65mm Phase-D QC Log (Batches 001–009)
         ├── 08_YOUTUBE_PUBLISHING_PACKAGE.md         # Part 8: YouTube SEO, Chapters, Thumbnail & Teaser
         ├── STORYBOARD_BATCH_001_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (00:00–00:20)
         ├── STORYBOARD_BATCH_002_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (00:20–00:40)
@@ -88,6 +90,7 @@ projects/ancient_world_of_ice_and_fire/
         ├── STORYBOARD_BATCH_006_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (01:40–02:00)
         ├── STORYBOARD_BATCH_007_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (02:00–02:20)
         ├── STORYBOARD_BATCH_008_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (02:20–02:40)
+        ├── STORYBOARD_BATCH_009_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (02:40–03:00)
         └── assets/
             ├── references/                          # Locked Character Identity Reference Plates
             ├── batch_001/                           # 65mm Cinematic Batch 001 Stills (IMG0001–IMG0010 · 00:00–00:20)
@@ -106,4 +109,4 @@ projects/ancient_world_of_ice_and_fire/
 
 | Episode | Title | Duration | Total Frames (`30/min`) | Completed Batches | Completed Frames | Next Queued Batch |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–007 + B008 (8/10)** (`00:00–02:40`) | **78 / 1,050** (`IMG0001–IMG0078`) | **Complete B008 (`IMG0079–0080`) + Batch 009** (`02:40–03:00`) |
+| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–008 + B009 (7/10)** (`00:00–03:00`) | **87 / 1,050** (`IMG0001–0084, 0086–0088`) | **Complete B009 (`IMG0085, 0089, 0090`) + Batch 010** (`03:00–03:20`) |
