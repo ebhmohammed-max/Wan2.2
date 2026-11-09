@@ -18,10 +18,11 @@
     "Batch 010",
     "Batch 011",
     "Batch 012",
-    "Batch 013"
+    "Batch 013",
+    "Batch 014"
   ],
-  "next_batch": 14,
-  "next_image_number": 131,
+  "next_batch": 15,
+  "next_image_number": 141,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -100,7 +101,8 @@
       "url": "https://drive.google.com/drive/folders/177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY"
     },
     "batch_012": "1LD_VPZ5l6U4bkGa_D1QhkxmzbrkH2yoD",
-    "batch_013": "https://drive.google.com/drive/folders/1fDZk-LqYBJSkFH4TOKGh8gPnk5aW5fqF"
+    "batch_013": "https://drive.google.com/drive/folders/1fDZk-LqYBJSkFH4TOKGh8gPnk5aW5fqF",
+    "batch_014": "https://drive.google.com/drive/folders/1A5Jptk8Q4UidgDY2q_yd_8jwnlkcZX38"
   },
   "batch_001_images_65mm_upgraded": [
     {
@@ -512,7 +514,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "completed_images": 130,
+  "completed_images": 140,
   "batch_002_images_65mm": [
     {
       "number": 11,
@@ -1884,8 +1886,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-09T15:34:47Z",
-  "verified_progress_percent": 12.38,
+  "last_updated": "2026-11-09T15:47:34Z",
+  "verified_progress_percent": 13.33,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -2255,6 +2257,213 @@
       "drive_url": "https://drive.google.com/file/d/1uczRBtyBSqJM0BCuUFLe_cDElrYN9VAm/view?usp=drivesdk",
       "md5": "100315a39f07ecda26df3503739601ac",
       "size_bytes": 2785211,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_014_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0131",
+      "timestamp": "04:20–04:22",
+      "shot_lens": "LAM · 24mm",
+      "narration_slice": "with mechanical discipline. Victory",
+      "shot_type": "Towering vertical scale composition — Grazdan the Great & triple-speared Lockstep Legions",
+      "visual_beat": "Towering vertical scale composition — Grazdan the Great & triple-speared Lockstep Legions",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "character_refs": [
+        "CHAR-GHI-001"
+      ],
+      "drive_file_id": "1_pzA9r8ctf7rkdLucxYRNNaPqPWow20O",
+      "drive_url": "https://drive.google.com/file/d/1_pzA9r8ctf7rkdLucxYRNNaPqPWow20O/view?usp=drivesdk",
+      "md5": "f35823fc91d7c7e380102292ee35235e",
+      "size_bytes": 2848160,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0132",
+      "timestamp": "04:22–04:24",
+      "shot_lens": "DET · 85mm",
+      "narration_slice": "fed an insatiable slave",
+      "shot_type": "Macro environmental / material texture insert — Grazdan the Great & triple-speared Lockstep Legions",
+      "visual_beat": "Macro environmental / material texture insert — Grazdan the Great & triple-speared Lockstep Legions",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "character_refs": [
+        "CHAR-GHI-001"
+      ],
+      "drive_file_id": "1ikE1f1hBYx_9pn1XA9pLh-oumNlN-lQU",
+      "drive_url": "https://drive.google.com/file/d/1ikE1f1hBYx_9pn1XA9pLh-oumNlN-lQU/view?usp=drivesdk",
+      "md5": "8aabcc771d9a584de5baebecf315ee79",
+      "size_bytes": 2967548,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0133",
+      "timestamp": "04:24–04:26",
+      "shot_lens": "CU · 85mm",
+      "narration_slice": "economy, and slavery built",
+      "shot_type": "Intimate close-up detail / expression beat — Grazdan the Great & triple-speared Lockstep Legions",
+      "visual_beat": "Intimate close-up detail / expression beat — Grazdan the Great & triple-speared Lockstep Legions",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "character_refs": [
+        "CHAR-GHI-001"
+      ],
+      "drive_file_id": "12HhAWSjqPWvc-o7nH3IzfAIz7JPoj2zG",
+      "drive_url": "https://drive.google.com/file/d/12HhAWSjqPWvc-o7nH3IzfAIz7JPoj2zG/view?usp=drivesdk",
+      "md5": "bcd039a5dce68b20b70aa54428f2f036",
+      "size_bytes": 1245654,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0134",
+      "timestamp": "04:26–04:28",
+      "shot_lens": "DET · 100mm",
+      "narration_slice": "the brick monuments of an",
+      "shot_type": "Extreme close-up tactile / light study — Grazdan the Great & triple-speared Lockstep Legions",
+      "visual_beat": "Extreme close-up tactile / light study — Grazdan the Great & triple-speared Lockstep Legions",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "character_refs": [
+        "CHAR-GHI-001"
+      ],
+      "drive_file_id": "1P6WTpPTvfNiyjkdW9nC79cRnzgOBxMvY",
+      "drive_url": "https://drive.google.com/file/d/1P6WTpPTvfNiyjkdW9nC79cRnzgOBxMvY/view?usp=drivesdk",
+      "md5": "e58a586ea9ce862bd67405aaa4aea96c",
+      "size_bytes": 2813895,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0135",
+      "timestamp": "04:28–04:30",
+      "shot_lens": "WS · 40mm",
+      "narration_slice": "arrogant, seemingly eternal order.",
+      "shot_type": "Transitional wide horizon / bridge framing — Grazdan the Great & triple-speared Lockstep Legions",
+      "visual_beat": "Transitional wide horizon / bridge framing — Grazdan the Great & triple-speared Lockstep Legions",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "character_refs": [
+        "CHAR-GHI-001"
+      ],
+      "drive_file_id": "1oHFzyXHCvaRSdqQ7mCQZrJSeBPd5MXrv",
+      "drive_url": "https://drive.google.com/file/d/1oHFzyXHCvaRSdqQ7mCQZrJSeBPd5MXrv/view?usp=drivesdk",
+      "md5": "31b3fd49d791af7b509d1063d35f68ff",
+      "size_bytes": 2591096,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0136",
+      "timestamp": "04:30–04:32",
+      "shot_lens": "LAM · 28mm",
+      "narration_slice": "When Ghiscari captains stood",
+      "shot_type": "Low-angle monumental architectural / geological framing — Ghiscari ramparts looking west toward Valyria's smoke",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Ghiscari ramparts looking west toward Valyria's smoke",
+      "location_refs": [
+        "LOC-ESS-001",
+        "LOC-VAL-001"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1KqTWOijPWm0JaBRhTeZA3HSf7hZ3rGKO",
+      "drive_url": "https://drive.google.com/file/d/1KqTWOijPWm0JaBRhTeZA3HSf7hZ3rGKO/view?usp=drivesdk",
+      "md5": "14c0c5d49c3540a6acc9d576f5e6df00",
+      "size_bytes": 2725218,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0137",
+      "timestamp": "04:32–04:34",
+      "shot_lens": "OTS · 40mm",
+      "narration_slice": "upon their western ramparts",
+      "shot_type": "Over-the-shoulder depth perspective — Ghiscari ramparts looking west toward Valyria's smoke",
+      "visual_beat": "Over-the-shoulder depth perspective — Ghiscari ramparts looking west toward Valyria's smoke",
+      "location_refs": [
+        "LOC-ESS-001",
+        "LOC-VAL-001"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1mvm23xTR-qSoFKBr6VwKxMhBcicxvq5Z",
+      "drive_url": "https://drive.google.com/file/d/1mvm23xTR-qSoFKBr6VwKxMhBcicxvq5Z/view?usp=drivesdk",
+      "md5": "a07eae64cafdf902568b434de8419be8",
+      "size_bytes": 2444076,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0138",
+      "timestamp": "04:34–04:36",
+      "shot_lens": "WS · 28mm",
+      "narration_slice": "and gazed across the blue",
+      "shot_type": "Deep-focus wide atmospheric composition — Ghiscari ramparts looking west toward Valyria's smoke",
+      "visual_beat": "Deep-focus wide atmospheric composition — Ghiscari ramparts looking west toward Valyria's smoke",
+      "location_refs": [
+        "LOC-ESS-001",
+        "LOC-VAL-001"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1HCW-rNbmMeYh2CDdFutSUSzi9euUsyGI",
+      "drive_url": "https://drive.google.com/file/d/1HCW-rNbmMeYh2CDdFutSUSzi9euUsyGI/view?usp=drivesdk",
+      "md5": "a80e52efc8eb6da0e3301aeda82ac170",
+      "size_bytes": 2445013,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0139",
+      "timestamp": "04:36–04:38",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "waters of the Gulf,",
+      "shot_type": "Ultra-wide establishing vista — Ghiscari ramparts looking west toward Valyria's smoke",
+      "visual_beat": "Ultra-wide establishing vista — Ghiscari ramparts looking west toward Valyria's smoke",
+      "location_refs": [
+        "LOC-ESS-001",
+        "LOC-VAL-001"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1WH3266fDYUcLIr46gQ4yg9LAtRTCog6_",
+      "drive_url": "https://drive.google.com/file/d/1WH3266fDYUcLIr46gQ4yg9LAtRTCog6_/view?usp=drivesdk",
+      "md5": "3f432cccdea54aa1efe1a708f964611e",
+      "size_bytes": 2527387,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0140",
+      "timestamp": "04:38–04:40",
+      "shot_lens": "MCU · 50mm",
+      "narration_slice": "they saw no rival",
+      "shot_type": "Medium close-up atmospheric focal beat — Ghiscari ramparts looking west toward Valyria's smoke",
+      "visual_beat": "Medium close-up atmospheric focal beat — Ghiscari ramparts looking west toward Valyria's smoke",
+      "location_refs": [
+        "LOC-ESS-001",
+        "LOC-VAL-001"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1brgHGofcajvIC3clfKO2FTF5gkxTfIdO",
+      "drive_url": "https://drive.google.com/file/d/1brgHGofcajvIC3clfKO2FTF5gkxTfIdO/view?usp=drivesdk",
+      "md5": "eafe4fa8387305b5034a822fb26db4e3",
+      "size_bytes": 2501580,
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true

@@ -218,3 +218,10 @@
 - **Batch 013 (`IMG0121–0130`, `04:00–04:20`):** 10/10 frames rendered, visually reviewed, uploaded to Drive folder `1fDZk-LqYBJSkFH4TOKGh8gPnk5aW5fqF`, and MD5-verified. Every local PNG is `1376×768` sRGB; Drive lists exactly ten files and its MD5 values match local files.
 - **Visual QC:** Old Ghis brick architecture and canonical Grazdan appearance held consistent; all frames depict the disciplined Lockstep Legions with shields, short swords and graduated spears. IMG0129's thin letterbox bands were removed before the final full-bleed 16:9 upload.
 - **Progress:** 130/1,050 verified images (12.38%); Batches 001–013 complete. Batch 014 (`04:20–04:40`) is next.
+
+
+## Turn 17 Addendum — Batch 014 Complete (2026-11-09)
+
+- **Batch 014 (`IMG0131–0140`, `04:20–04:40`):** 10/10 frames rendered, visually reviewed, uploaded to Drive folder `1A5Jptk8Q4UidgDY2q_yd_8jwnlkcZX38`, and MD5-verified. All local PNGs are `1376×768` sRGB; Drive lists exactly ten images and every checksum matches.
+- **Visual continuity:** The sequence concludes the Old Ghis brick-and-legion chapter beat, then pivots west from the fired-brick ramparts over the Gulf toward distant Valyria. IMG0133 was cropped to remove a duplicate-face artifact before upload; no other replacements were needed.
+- **Progress:** 140/1,050 verified images (13.33%); Batches 001–014 complete. Batch 015 (`04:40–05:00`) is next.
