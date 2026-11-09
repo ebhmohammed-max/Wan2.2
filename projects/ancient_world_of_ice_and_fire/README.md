@@ -83,7 +83,7 @@ projects/ancient_world_of_ice_and_fire/
         ├── 06_IMAGE_PROMPTS_BATCH_010.md            # 17-field prompts for Batch 010 (03:00–03:20 · Asshai-by-the-Shadow)
         ├── 06_BATCH_010_MANIFEST.json               # Machine-readable JSON manifest for Batch 010 (10/10 uploaded)
         ├── 06_IMAGE_PROMPTS_BATCH_011.md            # 17-field prompts for Batch 011 (03:20–03:40 · Asshai → Old Ghis)
-        ├── 06_BATCH_011_MANIFEST.json               # Machine-readable JSON manifest for Batch 011 (5/10 uploaded)
+        ├── 06_BATCH_011_MANIFEST.json               # Machine-readable JSON manifest for Batch 011 (10/10 uploaded and visually QC-approved)
         ├── 07_CONTINUITY_AND_QC_REPORT.md           # Part 7: Continuity Audit & QC Log (Batches 001–011; visual-review caveat noted)
         ├── 08_YOUTUBE_PUBLISHING_PACKAGE.md         # Part 8: YouTube SEO, Chapters, Thumbnail & Teaser
         ├── STORYBOARD_BATCH_001_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (00:00–00:20)
@@ -119,7 +119,7 @@ projects/ancient_world_of_ice_and_fire/
 
 | Episode | Title | Duration | Total Frames (`30/min`) | Completed Batches | Completed Frames | Next Queued Batch |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–010 (`100/100`) + B011 (`5/10`)** (`00:00–03:30`) | **105 / 1,050** (`10.0%`) | **Complete B011 (`IMG0106–0110`)** (`03:30–03:40`) |
+| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–011 (`110/110`)** (`00:00–03:40`) | **110 / 1,050** (`10.48%`) | **Batch 012** (`03:40–04:00`) |
 
 
-**Current progress note (2026-11-09):** 105/1,050 images are in Drive (Batches 001–010 complete; Batch 011 5/10 uploaded). Newly generated images passed programmatic dimensions/colorspace/MD5 checks; visual review is pending.
+**Current progress note (2026-11-10):** 110/1,050 images are in Drive (Batches 001–011 complete). Newly rendered frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after a visual-QC correction.

@@ -15,10 +15,11 @@
     "Batch 007",
     "Batch 008",
     "Batch 009",
-    "Batch 010"
+    "Batch 010",
+    "Batch 011"
   ],
-  "next_batch": 11,
-  "next_image_number": 106,
+  "next_batch": 12,
+  "next_image_number": 111,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -507,7 +508,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "completed_images": 105,
+  "completed_images": 110,
   "batch_002_images_65mm": [
     {
       "number": 11,
@@ -1128,18 +1129,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": {
-    "batch": "Batch 011",
-    "drive_folder_id": "1ioLrKgrwqw8c-E5ZyVq4hGhVLukoVL9O",
-    "uploaded_count": 5,
-    "queued_scene_ids": [
-      "VAL-EP001-IMG0106",
-      "VAL-EP001-IMG0107",
-      "VAL-EP001-IMG0108",
-      "VAL-EP001-IMG0109",
-      "VAL-EP001-IMG0110"
-    ]
-  },
+  "in_progress_batch": null,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1581,7 +1571,7 @@
       "drive_url": "https://drive.google.com/file/d/1Uu-qp4K7LKIqcImWifecGs1a3Ktk_Oo2/view?usp=drivesdk",
       "md5": "96a16e4e37ad1b6ecee32b7ee935300f",
       "size_bytes": 2105996,
-      "qc_status": "APPROVED_65MM_V1"
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
     },
     {
       "scene_id": "VAL-EP001-IMG0092",
@@ -1597,7 +1587,7 @@
       "drive_url": "https://drive.google.com/file/d/1Kx9AAnCrDf4sS95U6s2ae6cKet7hJKjk/view?usp=drivesdk",
       "md5": "f83c1d328f0ce8bbd857d0db747d3767",
       "size_bytes": 1874813,
-      "qc_status": "APPROVED_65MM_V1"
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
     },
     {
       "scene_id": "VAL-EP001-IMG0093",
@@ -1613,7 +1603,7 @@
       "drive_url": "https://drive.google.com/file/d/15KSeBHMqZWUOvXsRSJgoYDFZh13dDL4e/view?usp=drivesdk",
       "md5": "4c51e38aefb9d03b6cdcbdc07a8a5555",
       "size_bytes": 2172846,
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
     },
     {
       "scene_id": "VAL-EP001-IMG0094",
@@ -1625,11 +1615,11 @@
       "location_refs": [
         "LOC-ESS-003"
       ],
-      "drive_file_id": "1vek4FbF14KscDWU-qAOc2uLFTUU3dNRS",
-      "drive_url": "https://drive.google.com/file/d/1vek4FbF14KscDWU-qAOc2uLFTUU3dNRS/view?usp=drivesdk",
-      "md5": "42e33ef425a0398d76c9f8c7ca6953e1",
-      "size_bytes": 2067590,
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+      "drive_file_id": "12ZXu7Zd55elg9yzegRQothDMB4DfnJJx",
+      "drive_url": "https://drive.google.com/file/d/12ZXu7Zd55elg9yzegRQothDMB4DfnJJx/view?usp=drivesdk",
+      "md5": "02c797ad00aa34d452416efe77c18b98",
+      "size_bytes": 2265513,
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
     },
     {
       "scene_id": "VAL-EP001-IMG0095",
@@ -1645,7 +1635,7 @@
       "drive_url": "https://drive.google.com/file/d/1auoiJXvW43AACTaWgh9WQN3Z35fwCQqg/view?usp=drivesdk",
       "md5": "39212f8c36087bb1fbccce2a815038b9",
       "size_bytes": 1988425,
-      "qc_status": "APPROVED_65MM_V1"
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
     },
     {
       "scene_id": "VAL-EP001-IMG0096",
@@ -1661,7 +1651,7 @@
       "drive_url": "https://drive.google.com/file/d/14sO_nQgz8Z7VVh1NuFaTIhLkgSDWdF49/view?usp=drivesdk",
       "md5": "9dbb8e75b7b62f845c8597b38a8265e9",
       "size_bytes": 1930091,
-      "qc_status": "APPROVED_65MM_V1"
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
     },
     {
       "scene_id": "VAL-EP001-IMG0097",
@@ -1677,7 +1667,7 @@
       "drive_url": "https://drive.google.com/file/d/1aRc2EJQsEOSL8Fx6Sql_l5Zw7TziBedX/view?usp=drivesdk",
       "md5": "81c496933a3b0a98efba91b2c2ef9bab",
       "size_bytes": 1928613,
-      "qc_status": "APPROVED_65MM_V1"
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
     },
     {
       "scene_id": "VAL-EP001-IMG0098",
@@ -1693,7 +1683,7 @@
       "drive_url": "https://drive.google.com/file/d/1106C3JKNT5SCHA_FlnNjWHwRa6hTmMrD/view?usp=drivesdk",
       "md5": "49051d2cfc4edb23f46f68b425d259d3",
       "size_bytes": 2012036,
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
     },
     {
       "scene_id": "VAL-EP001-IMG0099",
@@ -1709,7 +1699,7 @@
       "drive_url": "https://drive.google.com/file/d/1AISJCnzGIAj4SQNmNvM8QIIQBvN3nB_5/view?usp=drivesdk",
       "md5": "de435eec8e35d67e41124ecdfae3b35c",
       "size_bytes": 2159774,
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
     },
     {
       "scene_id": "VAL-EP001-IMG0100",
@@ -1725,7 +1715,7 @@
       "drive_url": "https://drive.google.com/file/d/1lcfRHCQGu1U3s2P8EhXGdcGv9UnVEOS-/view?usp=drivesdk",
       "md5": "94f7c0587e3084bd5cf84b3a097d30c5",
       "size_bytes": 2115776,
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
   "batch_011_verified_images": [
@@ -1734,7 +1724,7 @@
       "timestamp": "03:20–03:22",
       "shot_lens": "LAM · 24mm",
       "narration_slice": "drink the light of",
-      "shot_type": "Towering Vertical Scale Composition — Asshai Black Stone",
+      "shot_type": "Towering vertical scale composition — Asshai-by-the-Shadow & greasy light-drinking black stone",
       "visual_beat": "Towering vertical scale composition — Asshai-by-the-Shadow & greasy light-drinking black stone",
       "location_refs": [
         "LOC-ESS-003"
@@ -1743,14 +1733,14 @@
       "drive_url": "https://drive.google.com/file/d/1bWPSRuPGAaQWWNqxYArT4EPMcrHBAniw/view?usp=drivesdk",
       "md5": "0d1f17e4ab6e31e3612f388c41b50364",
       "size_bytes": 1775203,
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
     },
     {
       "scene_id": "VAL-EP001-IMG0102",
       "timestamp": "03:22–03:24",
       "shot_lens": "DET · 85mm",
       "narration_slice": "torches, its original builders",
-      "shot_type": "Macro Material Texture Insert — Asshai Black Stone",
+      "shot_type": "Macro environmental / material texture insert — Asshai-by-the-Shadow & greasy light-drinking black stone",
       "visual_beat": "Macro environmental / material texture insert — Asshai-by-the-Shadow & greasy light-drinking black stone",
       "location_refs": [
         "LOC-ESS-003"
@@ -1759,14 +1749,14 @@
       "drive_url": "https://drive.google.com/file/d/1YE-fPphI0P65xJR7W3t4izTwpFP4CCAE/view?usp=drivesdk",
       "md5": "6c241cefd49872b37e0c208903ea5019",
       "size_bytes": 2221676,
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
     },
     {
       "scene_id": "VAL-EP001-IMG0103",
       "timestamp": "03:24–03:26",
       "shot_lens": "CU · 85mm",
       "narration_slice": "forgotten even by the",
-      "shot_type": "Intimate Close-Up Mask Detail — Asshai Shadowbinder",
+      "shot_type": "Intimate close-up detail / expression beat — Asshai-by-the-Shadow & greasy light-drinking black stone",
       "visual_beat": "Intimate close-up detail / expression beat — Asshai-by-the-Shadow & greasy light-drinking black stone",
       "location_refs": [
         "LOC-ESS-003"
@@ -1775,14 +1765,14 @@
       "drive_url": "https://drive.google.com/file/d/1ZYkOKN5X87eSBIxFYSMszIExGzezX7zz/view?usp=drivesdk",
       "md5": "79e1dd252aa0591f4b7249acff3f8d0f",
       "size_bytes": 1683408,
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
     },
     {
       "scene_id": "VAL-EP001-IMG0104",
       "timestamp": "03:26–03:28",
       "shot_lens": "DET · 100mm",
       "narration_slice": "masked shadowbinders and aeromancers who",
-      "shot_type": "Extreme Close-Up Tactile Light Study — Asshai Black Stone",
+      "shot_type": "Extreme close-up tactile / light study — Asshai-by-the-Shadow & greasy light-drinking black stone",
       "visual_beat": "Extreme close-up tactile / light study — Asshai-by-the-Shadow & greasy light-drinking black stone",
       "location_refs": [
         "LOC-ESS-003"
@@ -1791,14 +1781,14 @@
       "drive_url": "https://drive.google.com/file/d/1KnGJlJfGGZKJ5UVO5Y79dI_bgrX7gdl2/view?usp=drivesdk",
       "md5": "90c74cae3adfc8dfd679a1b3c19abcd2",
       "size_bytes": 2021477,
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
     },
     {
       "scene_id": "VAL-EP001-IMG0105",
       "timestamp": "03:28–03:30",
       "shot_lens": "WS · 40mm",
       "narration_slice": "walked its silent quays.",
-      "shot_type": "Transitional Wide Horizon / Bridge Framing — Asshai Quays",
+      "shot_type": "Transitional wide horizon / bridge framing — Asshai-by-the-Shadow & greasy light-drinking black stone",
       "visual_beat": "Transitional wide horizon / bridge framing — Asshai-by-the-Shadow & greasy light-drinking black stone",
       "location_refs": [
         "LOC-ESS-003"
@@ -1807,8 +1797,89 @@
       "drive_url": "https://drive.google.com/file/d/1Tu1OgibAyr9W5h-fkGb33XZfM4ND40eJ/view?usp=drivesdk",
       "md5": "b1268b9f04a76eb22bb8df945fa43a03",
       "size_bytes": 2044754,
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING"
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0106",
+      "timestamp": "03:30–03:32",
+      "shot_lens": "LAM · 28mm",
+      "narration_slice": "Yet in central Essos,",
+      "shot_type": "Low-angle monumental architectural / geological framing — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "drive_file_id": "1KCv1jW36JPjtNUi9-Rd1xedotX9ZCzVV",
+      "drive_url": "https://drive.google.com/file/d/1KCv1jW36JPjtNUi9-Rd1xedotX9ZCzVV/view?usp=drivesdk",
+      "md5": "4296358352f1320a83bd15cd76fce7ea",
+      "size_bytes": 2319941,
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0107",
+      "timestamp": "03:32–03:34",
+      "shot_lens": "OTS · 40mm",
+      "narration_slice": "neither the river-singers of the",
+      "shot_type": "Over-the-shoulder depth perspective — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "visual_beat": "Over-the-shoulder depth perspective — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "drive_file_id": "1QAHJpjQAgqRWCFvTRknChpzX6O0fbFGJ",
+      "drive_url": "https://drive.google.com/file/d/1QAHJpjQAgqRWCFvTRknChpzX6O0fbFGJ/view?usp=drivesdk",
+      "md5": "10938a7c9fda72ecb44695100124db30",
+      "size_bytes": 2529778,
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0108",
+      "timestamp": "03:34–03:36",
+      "shot_lens": "WS · 28mm",
+      "narration_slice": "Rhoyne nor the mystics",
+      "shot_type": "Deep-focus wide atmospheric composition — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "visual_beat": "Deep-focus wide atmospheric composition — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "drive_file_id": "1dCfYwAscBvgeKF8rwcLhesf442nsblzK",
+      "drive_url": "https://drive.google.com/file/d/1dCfYwAscBvgeKF8rwcLhesf442nsblzK/view?usp=drivesdk",
+      "md5": "de623abdf9b9307d99a2475b2c3cc22a",
+      "size_bytes": 2473425,
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0109",
+      "timestamp": "03:36–03:38",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "of Asshai commanded the true",
+      "shot_type": "Ultra-wide establishing vista — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "visual_beat": "Ultra-wide establishing vista — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "drive_file_id": "16jQQQhE__enIM2UwgSjooV99ewvXTM2Y",
+      "drive_url": "https://drive.google.com/file/d/16jQQQhE__enIM2UwgSjooV99ewvXTM2Y/view?usp=drivesdk",
+      "md5": "c69d09927e25332dc55333cc73a96175",
+      "size_bytes": 2637575,
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0110",
+      "timestamp": "03:38–03:40",
+      "shot_lens": "MCU · 50mm",
+      "narration_slice": "center of worldly might.",
+      "shot_type": "Medium close-up atmospheric focal beat — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "visual_beat": "Medium close-up atmospheric focal beat — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "drive_file_id": "14h4A64IdJeWxK2ynS2wXQz8qepMmOo8Q",
+      "drive_url": "https://drive.google.com/file/d/14h4A64IdJeWxK2ynS2wXQz8qepMmOo8Q/view?usp=drivesdk",
+      "md5": "73a2c03f50bc2f235fa0f9613debd8b0",
+      "size_bytes": 2541504,
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-09T15:00:00Z"
+  "last_updated": "2026-11-10T00:00:00Z",
+  "verified_progress_percent": 10.48
 }

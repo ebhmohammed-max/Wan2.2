@@ -13,7 +13,7 @@
   "batch_timespan": "03:00–03:20",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "10_OF_10_UPLOADED_MD5_VERIFIED_PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+  "batch_status": "10_OF_10_UPLOADED_MD5_VERIFIED_VISUAL_QC_APPROVED",
   "pending_completion_scenes": [],
   "scenes": [
     {
@@ -28,7 +28,7 @@
         "LOC-ESS-003"
       ],
       "file_path": "assets/batch_010/VAL-EP001-IMG0091.png",
-      "qc_status": "APPROVED_65MM_V1",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "size_bytes": 2105996,
       "md5": "96a16e4e37ad1b6ecee32b7ee935300f",
       "resolution": "1376x768",
@@ -48,7 +48,7 @@
         "LOC-ESS-003"
       ],
       "file_path": "assets/batch_010/VAL-EP001-IMG0092.png",
-      "qc_status": "APPROVED_65MM_V1",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "size_bytes": 1874813,
       "md5": "f83c1d328f0ce8bbd857d0db747d3767",
       "resolution": "1376x768",
@@ -68,7 +68,7 @@
         "LOC-ESS-003"
       ],
       "file_path": "assets/batch_010/VAL-EP001-IMG0093.png",
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "size_bytes": 2172846,
       "md5": "4c51e38aefb9d03b6cdcbdc07a8a5555",
       "drive_file_id": "15KSeBHMqZWUOvXsRSJgoYDFZh13dDL4e",
@@ -87,12 +87,13 @@
         "LOC-ESS-003"
       ],
       "file_path": "assets/batch_010/VAL-EP001-IMG0094.png",
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
-      "size_bytes": 2067590,
-      "md5": "42e33ef425a0398d76c9f8c7ca6953e1",
-      "drive_file_id": "1vek4FbF14KscDWU-qAOc2uLFTUU3dNRS",
-      "drive_url": "https://drive.google.com/file/d/1vek4FbF14KscDWU-qAOc2uLFTUU3dNRS/view?usp=drivesdk",
-      "md5_verified_on_drive": true
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "size_bytes": 2265513,
+      "md5": "02c797ad00aa34d452416efe77c18b98",
+      "drive_file_id": "12ZXu7Zd55elg9yzegRQothDMB4DfnJJx",
+      "drive_url": "https://drive.google.com/file/d/12ZXu7Zd55elg9yzegRQothDMB4DfnJJx/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "resolution": "1376x768"
     },
     {
       "scene_id": "VAL-EP001-IMG0095",
@@ -106,7 +107,7 @@
         "LOC-ESS-003"
       ],
       "file_path": "assets/batch_010/VAL-EP001-IMG0095.png",
-      "qc_status": "APPROVED_65MM_V1",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "size_bytes": 1988425,
       "md5": "39212f8c36087bb1fbccce2a815038b9",
       "resolution": "1376x768",
@@ -126,7 +127,7 @@
         "LOC-ESS-003"
       ],
       "file_path": "assets/batch_010/VAL-EP001-IMG0096.png",
-      "qc_status": "APPROVED_65MM_V1",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "size_bytes": 1930091,
       "md5": "9dbb8e75b7b62f845c8597b38a8265e9",
       "resolution": "1376x768",
@@ -146,7 +147,7 @@
         "LOC-ESS-003"
       ],
       "file_path": "assets/batch_010/VAL-EP001-IMG0097.png",
-      "qc_status": "APPROVED_65MM_V1",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "size_bytes": 1928613,
       "md5": "81c496933a3b0a98efba91b2c2ef9bab",
       "resolution": "1376x768",
@@ -166,7 +167,7 @@
         "LOC-ESS-003"
       ],
       "file_path": "assets/batch_010/VAL-EP001-IMG0098.png",
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "size_bytes": 2012036,
       "md5": "49051d2cfc4edb23f46f68b425d259d3",
       "drive_file_id": "1106C3JKNT5SCHA_FlnNjWHwRa6hTmMrD",
@@ -185,7 +186,7 @@
         "LOC-ESS-003"
       ],
       "file_path": "assets/batch_010/VAL-EP001-IMG0099.png",
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "size_bytes": 2159774,
       "md5": "de435eec8e35d67e41124ecdfae3b35c",
       "drive_file_id": "1AISJCnzGIAj4SQNmNvM8QIIQBvN3nB_5",
@@ -204,7 +205,7 @@
         "LOC-ESS-003"
       ],
       "file_path": "assets/batch_010/VAL-EP001-IMG0100.png",
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "size_bytes": 2115776,
       "md5": "94f7c0587e3084bd5cf84b3a097d30c5",
       "drive_file_id": "1lcfRHCQGu1U3s2P8EhXGdcGv9UnVEOS-",
@@ -213,5 +214,5 @@
     }
   ],
   "batch_progress": "COMPLETE",
-  "visual_qc_note": "For IMG0093, IMG0094, IMG0098, IMG0099, and IMG0100, file integrity, 1376x768 dimensions, and sRGB colorspace were checked programmatically. Visual inspection was unavailable this turn; visual review remains pending."
+  "visual_qc_note": "All 10 frames received visual content review and passed. Local PNG dimensions/colorspace and MD5 checks passed; uploaded Drive MD5s match."
 }

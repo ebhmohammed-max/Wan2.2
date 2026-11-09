@@ -3,7 +3,7 @@
 **Episode Number:** Episode 001 (`VAL-EP001`) — *Before the Dragons: The Rise of Old Valyria*  
 **Batch Number:** **Batch 011 of 105** (Covers `03:20–03:40` · **30 Images / Minute = 2.0 Seconds per Image**)  
 **Visual Standard:** **Locked 65mm Live-Action / Physically Realistic 3D Historical Cinema** (*Warm Sandstone Highlights · Muted Archaeological Midtones · Deep Ink-Navy Shadows · ARRI Alexa 65 + Panavision Primo Primes · Kodak Vision3 500T Grade*)  
-**Render & QC Status:** **5 / 10 UPLOADED & MD5-VERIFIED (`IMG0101`–`IMG0105`; programmatic QC passed, visual review pending); `IMG0106`–`IMG0110` (Old Ghis) queued for next turn**
+**Render & QC Status:** **10 / 10 UPLOADED, MD5-VERIFIED & VISUALLY QC-APPROVED (`IMG0101`–`IMG0110`; Asshai → Old Ghis).**
 
 ---
 
@@ -122,7 +122,7 @@
 
 ---
 
-## PROMPT 0106 — `VAL-EP001-IMG0106` *(Queued Next Turn — Old Ghis)*
+## PROMPT 0106 — `VAL-EP001-IMG0106` *(Rendered & visually QC-approved — Old Ghis)*
 
 - **1. Scene ID:** `VAL-EP001-IMG0106`
 - **2. Episode Number:** Episode 001 (`VAL-EP001`)
@@ -141,11 +141,11 @@
 - **15. Visual Style:** Adult cinematic physically realistic 3D historical reconstruction and live-action 65mm location photography, Kodak Vision3 500T film grade, fine organic film grain.
 - **16. Aspect Ratio:** `16:9` (`1376x768`)
 - **17. Negative Prompt:** Green trees, modern buildings, letterboxing, black bars, text, subtitles, watermarks.
-- **Refs & Continuity Check:** **QUEUED NEXT TURN** (Old Ghis anchor `ANCHOR-IMG0110` to be used).
+- **Refs & Continuity Check:** **VISUALLY QC-APPROVED** (Old Ghis continuity checked against `ANCHOR-IMG0110`).
 
 ---
 
-## PROMPT 0107 — `VAL-EP001-IMG0107` *(Queued Next Turn — Old Ghis)*
+## PROMPT 0107 — `VAL-EP001-IMG0107` *(Rendered & visually QC-approved — Old Ghis)*
 
 - **1. Scene ID:** `VAL-EP001-IMG0107`
 - **2. Episode Number:** Episode 001 (`VAL-EP001`)
@@ -164,11 +164,11 @@
 - **15. Visual Style:** Adult cinematic physically realistic 3D historical reconstruction and live-action 65mm location photography, Kodak Vision3 500T film grade, fine organic film grain.
 - **16. Aspect Ratio:** `16:9` (`1376x768`)
 - **17. Negative Prompt:** Green trees, modern buildings, letterboxing, black bars, text, subtitles, watermarks.
-- **Refs & Continuity Check:** **QUEUED NEXT TURN** (Old Ghis anchor `ANCHOR-IMG0110`).
+- **Refs & Continuity Check:** **VISUALLY QC-APPROVED** (Old Ghis continuity checked against `ANCHOR-IMG0110`).
 
 ---
 
-## PROMPT 0108 — `VAL-EP001-IMG0108` *(Queued Next Turn — Old Ghis)*
+## PROMPT 0108 — `VAL-EP001-IMG0108` *(Rendered & visually QC-approved — Old Ghis)*
 
 - **1. Scene ID:** `VAL-EP001-IMG0108`
 - **2. Episode Number:** Episode 001 (`VAL-EP001`)
@@ -187,11 +187,11 @@
 - **15. Visual Style:** Adult cinematic physically realistic 3D historical reconstruction and live-action 65mm location photography, Kodak Vision3 500T film grade, fine organic film grain.
 - **16. Aspect Ratio:** `16:9` (`1376x768`)
 - **17. Negative Prompt:** Green trees, modern buildings, letterboxing, black bars, text, subtitles, watermarks.
-- **Refs & Continuity Check:** **QUEUED NEXT TURN** (Old Ghis anchor `ANCHOR-IMG0110`).
+- **Refs & Continuity Check:** **VISUALLY QC-APPROVED** (Old Ghis continuity checked against `ANCHOR-IMG0110`).
 
 ---
 
-## PROMPT 0109 — `VAL-EP001-IMG0109` *(Queued Next Turn — Old Ghis)*
+## PROMPT 0109 — `VAL-EP001-IMG0109` *(Rendered & visually QC-approved — Old Ghis)*
 
 - **1. Scene ID:** `VAL-EP001-IMG0109`
 - **2. Episode Number:** Episode 001 (`VAL-EP001`)
@@ -210,11 +210,11 @@
 - **15. Visual Style:** Adult cinematic physically realistic 3D historical reconstruction and live-action 65mm location photography, Kodak Vision3 500T film grade, fine organic film grain.
 - **16. Aspect Ratio:** `16:9` (`1376x768`)
 - **17. Negative Prompt:** Green trees, modern buildings, letterboxing, black bars, text, subtitles, watermarks.
-- **Refs & Continuity Check:** **QUEUED NEXT TURN** (Old Ghis anchor `ANCHOR-IMG0110`).
+- **Refs & Continuity Check:** **VISUALLY QC-APPROVED** (Old Ghis continuity checked against `ANCHOR-IMG0110`).
 
 ---
 
-## PROMPT 0110 — `VAL-EP001-IMG0110` *(Queued Next Turn — Old Ghis)*
+## PROMPT 0110 — `VAL-EP001-IMG0110` *(Rendered & visually QC-approved — Old Ghis)*
 
 - **1. Scene ID:** `VAL-EP001-IMG0110`
 - **2. Episode Number:** Episode 001 (`VAL-EP001`)
@@ -233,4 +233,4 @@
 - **15. Visual Style:** Adult cinematic physically realistic 3D historical reconstruction and live-action 65mm location photography, Kodak Vision3 500T film grade, fine organic film grain.
 - **16. Aspect Ratio:** `16:9` (`1376x768`)
 - **17. Negative Prompt:** Green trees, modern buildings, letterboxing, black bars, text, subtitles, watermarks.
-- **Refs & Continuity Check:** **QUEUED NEXT TURN** (Old Ghis anchor `ANCHOR-IMG0110` — harpy + thunderbolt plate from `1N2J56MUziFyqGs0bEGGObj9tPhvkqh-L`).
+- **Refs & Continuity Check:** **VISUALLY QC-APPROVED** (Old Ghis Harpy continuity checked against `ANCHOR-IMG0110`).

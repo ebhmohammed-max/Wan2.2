@@ -3,7 +3,7 @@
 **Episode Number:** Episode 001 (`VAL-EP001`) — *Before the Dragons: The Rise of Old Valyria*  
 **Batch Number:** **Batch 010 of 105** (Covers `03:00–03:20` · **30 Images / Minute = 2.0 Seconds per Image**)  
 **Visual Standard:** **Locked 65mm Live-Action / Physically Realistic 3D Historical Cinema** (*Warm Sandstone Highlights · Muted Archaeological Midtones · Deep Ink-Navy Shadows · ARRI Alexa 65 + Panavision Primo Primes · Kodak Vision3 500T Grade*)  
-**Render & QC Status:** **10 / 10 UPLOADED & MD5-VERIFIED. Newly rendered `IMG0093`, `IMG0094`, `IMG0098`, `IMG0099`, `IMG0100` passed programmatic QC; visual review pending.**
+**Render & QC Status:** **10 / 10 UPLOADED, MD5-VERIFIED & VISUALLY QC-APPROVED. `IMG0094` was replaced with a clean, architecture-free River Ash canyon render after visual review.**
 
 ---
 
@@ -72,7 +72,7 @@
 - **15. Visual Style:** Adult cinematic physically realistic 3D historical reconstruction and live-action 65mm location photography, Kodak Vision3 500T film grade, fine organic film grain.
 - **16. Aspect Ratio:** `16:9` (`1376x768`)
 - **17. Negative Prompt:** City buildings, boats, green plants, birds, fish, letterboxing, black bars, text, subtitles, watermarks.
-- **Refs & Continuity Check:** **RENDERED & UPLOADED** (MD5/dimensions/sRGB verified; visual review pending).
+- **Refs & Continuity Check:** **RENDERED & UPLOADED** (MD5/dimensions/sRGB verified; visual review approved).
 
 ---
 
@@ -95,7 +95,7 @@
 - **15. Visual Style:** Adult cinematic physically realistic 3D historical reconstruction and live-action 65mm location photography, Kodak Vision3 500T film grade, fine organic film grain.
 - **16. Aspect Ratio:** `16:9` (`1376x768`)
 - **17. Negative Prompt:** Foreground boatman, bright city lights, green trees, letterboxing, black bars, text, subtitles, watermarks.
-- **Refs & Continuity Check:** **RENDERED & UPLOADED** (MD5/dimensions/sRGB verified; visual review pending).
+- **Refs & Continuity Check:** **RENDERED & UPLOADED** (MD5/dimensions/sRGB verified; visual review approved).
 
 ---
 

@@ -25,7 +25,7 @@
       "speaking_rate_wpm": 130.9,
       "total_scenes": 1050,
       "total_batches": 105,
-      "status": "BATCHES_001_TO_010_COMPLETE_BATCH_011_5_OF_10_UPLOADED_VISUAL_REVIEW_PENDING",
+      "status": "BATCHES_001_TO_011_COMPLETE_NEXT_BATCH_012",
       "completed_batches": [
         1,
         2,
@@ -36,29 +36,19 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
-      "pending_batches_range": "011 (5 frames) + 012–105",
+      "pending_batches_range": "012–105",
       "next_episode_handoff": "EP002 — Iron Legions and Dragonfire: The Five Ghiscari Wars",
-      "completed_images_count": 105,
-      "in_progress_batch": {
-        "batch": 11,
-        "approved_count": 5,
-        "uploaded_count": 5,
-        "queued_scene_ids": [
-          "VAL-EP001-IMG0106",
-          "VAL-EP001-IMG0107",
-          "VAL-EP001-IMG0108",
-          "VAL-EP001-IMG0109",
-          "VAL-EP001-IMG0110"
-        ]
-      },
-      "verified_images": 105,
-      "verified_percent": 10.0,
-      "batches_completed": 10,
-      "current_batch": 11,
-      "current_batch_progress": "5/10",
-      "last_updated": "2026-11-09T15:00:00Z"
+      "completed_images_count": 110,
+      "in_progress_batch": null,
+      "verified_images": 110,
+      "verified_percent": 10.48,
+      "batches_completed": 11,
+      "current_batch": 12,
+      "current_batch_progress": "0/10",
+      "last_updated": "2026-11-10T00:00:00Z"
     }
   ],
   "google_drive_master_archive_id": "1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo"

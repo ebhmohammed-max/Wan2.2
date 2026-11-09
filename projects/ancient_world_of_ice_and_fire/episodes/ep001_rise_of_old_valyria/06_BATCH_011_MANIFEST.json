@@ -13,14 +13,8 @@
   "batch_timespan": "03:20–03:40",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "5_OF_10_UPLOADED_MD5_VERIFIED_PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0106",
-    "VAL-EP001-IMG0107",
-    "VAL-EP001-IMG0108",
-    "VAL-EP001-IMG0109",
-    "VAL-EP001-IMG0110"
-  ],
+  "batch_status": "10_OF_10_UPLOADED_MD5_VERIFIED_VISUAL_QC_APPROVED",
+  "pending_completion_scenes": [],
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0101",
@@ -34,7 +28,7 @@
         "LOC-ESS-003"
       ],
       "file_path": "assets/batch_011/VAL-EP001-IMG0101.png",
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "size_bytes": 1775203,
       "md5": "0d1f17e4ab6e31e3612f388c41b50364",
       "resolution": "1376x768",
@@ -56,7 +50,7 @@
         "LOC-ESS-003"
       ],
       "file_path": "assets/batch_011/VAL-EP001-IMG0102.png",
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "size_bytes": 2221676,
       "md5": "6c241cefd49872b37e0c208903ea5019",
       "resolution": "1376x768",
@@ -78,7 +72,7 @@
         "LOC-ESS-003"
       ],
       "file_path": "assets/batch_011/VAL-EP001-IMG0103.png",
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "size_bytes": 1683408,
       "md5": "79e1dd252aa0591f4b7249acff3f8d0f",
       "resolution": "1376x768",
@@ -100,7 +94,7 @@
         "LOC-ESS-003"
       ],
       "file_path": "assets/batch_011/VAL-EP001-IMG0104.png",
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "size_bytes": 2021477,
       "md5": "90c74cae3adfc8dfd679a1b3c19abcd2",
       "resolution": "1376x768",
@@ -122,7 +116,7 @@
         "LOC-ESS-003"
       ],
       "file_path": "assets/batch_011/VAL-EP001-IMG0105.png",
-      "qc_status": "PROGRAMMATIC_QC_PASSED_VISUAL_REVIEW_PENDING",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "size_bytes": 2044754,
       "md5": "b1268b9f04a76eb22bb8df945fa43a03",
       "resolution": "1376x768",
@@ -143,11 +137,17 @@
       "location_refs": [
         "LOC-ESS-001"
       ],
-      "file_path": null,
-      "qc_status": "QUEUED_NEXT_TURN",
+      "file_path": "assets/batch_011/VAL-EP001-IMG0106.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "note": "Old Ghis frames awaiting generation; use ANCHOR-IMG0110 continuity plate.",
       "chapter": "Ch. I",
-      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals."
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "drive_file_id": "1KCv1jW36JPjtNUi9-Rd1xedotX9ZCzVV",
+      "md5": "4296358352f1320a83bd15cd76fce7ea",
+      "size_bytes": 2319941,
+      "resolution": "1376x768",
+      "md5_verified_on_drive": true,
+      "drive_url": "https://drive.google.com/file/d/1KCv1jW36JPjtNUi9-Rd1xedotX9ZCzVV/view?usp=drivesdk"
     },
     {
       "scene_id": "VAL-EP001-IMG0107",
@@ -160,11 +160,17 @@
       "location_refs": [
         "LOC-ESS-001"
       ],
-      "file_path": null,
-      "qc_status": "QUEUED_NEXT_TURN",
+      "file_path": "assets/batch_011/VAL-EP001-IMG0107.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "note": "Old Ghis frames awaiting generation; use ANCHOR-IMG0110 continuity plate.",
       "chapter": "Ch. I",
-      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat."
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "drive_file_id": "1QAHJpjQAgqRWCFvTRknChpzX6O0fbFGJ",
+      "md5": "10938a7c9fda72ecb44695100124db30",
+      "size_bytes": 2529778,
+      "resolution": "1376x768",
+      "md5_verified_on_drive": true,
+      "drive_url": "https://drive.google.com/file/d/1QAHJpjQAgqRWCFvTRknChpzX6O0fbFGJ/view?usp=drivesdk"
     },
     {
       "scene_id": "VAL-EP001-IMG0108",
@@ -177,11 +183,17 @@
       "location_refs": [
         "LOC-ESS-001"
       ],
-      "file_path": null,
-      "qc_status": "QUEUED_NEXT_TURN",
+      "file_path": "assets/batch_011/VAL-EP001-IMG0108.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "note": "Old Ghis frames awaiting generation; use ANCHOR-IMG0110 continuity plate.",
       "chapter": "Ch. I",
-      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain."
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "drive_file_id": "1dCfYwAscBvgeKF8rwcLhesf442nsblzK",
+      "md5": "de623abdf9b9307d99a2475b2c3cc22a",
+      "size_bytes": 2473425,
+      "resolution": "1376x768",
+      "md5_verified_on_drive": true,
+      "drive_url": "https://drive.google.com/file/d/1dCfYwAscBvgeKF8rwcLhesf442nsblzK/view?usp=drivesdk"
     },
     {
       "scene_id": "VAL-EP001-IMG0109",
@@ -194,11 +206,17 @@
       "location_refs": [
         "LOC-ESS-001"
       ],
-      "file_path": null,
-      "qc_status": "QUEUED_NEXT_TURN",
+      "file_path": "assets/batch_011/VAL-EP001-IMG0109.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "note": "Old Ghis frames awaiting generation; use ANCHOR-IMG0110 continuity plate.",
       "chapter": "Ch. I",
-      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals."
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "drive_file_id": "16jQQQhE__enIM2UwgSjooV99ewvXTM2Y",
+      "md5": "c69d09927e25332dc55333cc73a96175",
+      "size_bytes": 2637575,
+      "resolution": "1376x768",
+      "md5_verified_on_drive": true,
+      "drive_url": "https://drive.google.com/file/d/16jQQQhE__enIM2UwgSjooV99ewvXTM2Y/view?usp=drivesdk"
     },
     {
       "scene_id": "VAL-EP001-IMG0110",
@@ -211,12 +229,18 @@
       "location_refs": [
         "LOC-ESS-001"
       ],
-      "file_path": null,
-      "qc_status": "QUEUED_NEXT_TURN",
+      "file_path": "assets/batch_011/VAL-EP001-IMG0110.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "note": "Old Ghis frames awaiting generation; use ANCHOR-IMG0110 continuity plate.",
       "chapter": "Ch. I",
-      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat."
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "drive_file_id": "14h4A64IdJeWxK2ynS2wXQz8qepMmOo8Q",
+      "md5": "73a2c03f50bc2f235fa0f9613debd8b0",
+      "size_bytes": 2541504,
+      "resolution": "1376x768",
+      "md5_verified_on_drive": true,
+      "drive_url": "https://drive.google.com/file/d/14h4A64IdJeWxK2ynS2wXQz8qepMmOo8Q/view?usp=drivesdk"
     }
   ],
-  "visual_qc_note": "For IMG0101–0105, file integrity, 1376x768 dimensions, and sRGB colorspace were checked programmatically. Visual inspection was unavailable this turn; visual review remains pending."
+  "visual_qc_note": "All 10 frames received visual content review and passed. Local PNG dimensions/colorspace and MD5 checks passed; uploaded Drive MD5s match."
 }
