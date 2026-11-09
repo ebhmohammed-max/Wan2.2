@@ -204,3 +204,10 @@
 - **Batch 011:** IMG0101–0110 now 10/10 uploaded in Drive folder `1ioLrKgrwqw8c-E5ZyVq4hGhVLukoVL9O`; all ten visually reviewed against their shot intent, with IMG0106–0110 checked against `ANCHOR-IMG0110`. All local PNGs are 1376×768 sRGB, and Drive MD5 checksums match local files.
 - **Batch 010 visual QC:** Re-reviewed the previously generated frames. Replaced IMG0094 after spotting an unintended castle silhouette: the new standalone render is a wilderness-only River Ash canyon with no architecture. The replacement is uploaded and MD5-verified. The full batch now passes visual review.
 - **Current progress:** 110/1,050 verified images (10.48%); Batches 001–011 complete. Batch 012 is next.
+
+
+## Turn 15 Addendum — Batch 012 Complete (2026-11-09)
+
+- **Batch 012 (`IMG0111–0120`, `03:40–04:00`):** 10/10 rendered, visually QC-approved, uploaded to Drive folder `1LD_VPZ5l6U4bkGa_D1QhkxmzbrkH2yoD`, and MD5-verified. All files are `1376×768` sRGB PNGs.
+- **Continuity:** Old Ghis stepped fired-brick pyramids, defensive walls and bronze Harpy remain aligned to `ANCHOR-IMG0110`; the batch moves from imperial plaza and Gulf geography to brick/fortification/Harpy details.
+- **Current progress:** 120/1,050 verified images (11.43%); Batches 001–012 complete. Batch 013 is next.

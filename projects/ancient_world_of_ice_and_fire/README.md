@@ -84,7 +84,9 @@ projects/ancient_world_of_ice_and_fire/
         ├── 06_BATCH_010_MANIFEST.json               # Machine-readable JSON manifest for Batch 010 (10/10 uploaded)
         ├── 06_IMAGE_PROMPTS_BATCH_011.md            # 17-field prompts for Batch 011 (03:20–03:40 · Asshai → Old Ghis)
         ├── 06_BATCH_011_MANIFEST.json               # Machine-readable JSON manifest for Batch 011 (10/10 uploaded and visually QC-approved)
-        ├── 07_CONTINUITY_AND_QC_REPORT.md           # Part 7: Continuity Audit & QC Log (Batches 001–011; visual-review caveat noted)
+        ├── 06_IMAGE_PROMPTS_BATCH_012.md            # 17-field prompts for Batch 012 (03:40–04:00 · Old Ghis)
+        ├── 06_BATCH_012_MANIFEST.json               # Machine-readable JSON manifest for Batch 012 (10/10 uploaded, visually QC-approved, MD5-verified)
+        ├── 07_CONTINUITY_AND_QC_REPORT.md           # Part 7: Continuity Audit & QC Log (Batches 001–012; visual-QC status recorded)
         ├── 08_YOUTUBE_PUBLISHING_PACKAGE.md         # Part 8: YouTube SEO, Chapters, Thumbnail & Teaser
         ├── STORYBOARD_BATCH_001_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (00:00–00:20)
         ├── STORYBOARD_BATCH_002_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (00:20–00:40)
@@ -97,6 +99,7 @@ projects/ancient_world_of_ice_and_fire/
         ├── STORYBOARD_BATCH_009_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (02:40–03:00)
         ├── STORYBOARD_BATCH_010_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (03:00–03:20)
         ├── STORYBOARD_BATCH_011_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (03:20–03:40)
+        ├── STORYBOARD_BATCH_012_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (03:40–04:00)
         └── assets/
             ├── references/                          # Locked Character Identity Reference Plates
             ├── batch_001/                           # 65mm Cinematic Batch 001 Stills (IMG0001–IMG0010 · 00:00–00:20)
@@ -110,6 +113,7 @@ projects/ancient_world_of_ice_and_fire/
             ├── batch_009/                           # 65mm Cinematic Batch 009 Stills (IMG0081–IMG0090 · 02:40–03:00)
             ├── batch_010/                           # 65mm Cinematic Batch 010 Stills (IMG0091–IMG0100 · 03:00–03:20)
             ├── batch_011/                           # 65mm Cinematic Batch 011 Stills (IMG0101–IMG0110 · 03:20–03:40)
+            ├── batch_012/                           # 65mm Cinematic Batch 012 Stills (IMG0111–IMG0120 · 03:40–04:00)
             └── chapter_01_anchor_plates/            # Pre-Approved Chapter I Master Environment Anchors
 ```
 
@@ -119,7 +123,7 @@ projects/ancient_world_of_ice_and_fire/
 
 | Episode | Title | Duration | Total Frames (`30/min`) | Completed Batches | Completed Frames | Next Queued Batch |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–011 (`110/110`)** (`00:00–03:40`) | **110 / 1,050** (`10.48%`) | **Batch 012** (`03:40–04:00`) |
+| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–012 (`120/120`)** (`00:00–04:00`) | **120 / 1,050** (`11.43%`) | **Batch 013** (`04:00–04:20`) |
 
 
-**Current progress note (2026-11-09):** 110/1,050 images are in Drive (Batches 001–011 complete). Newly rendered frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after a visual-QC correction.
+**Current progress note (2026-11-09):** 120/1,050 images are in Drive (Batches 001–012 complete). All new frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after a visual-QC correction.

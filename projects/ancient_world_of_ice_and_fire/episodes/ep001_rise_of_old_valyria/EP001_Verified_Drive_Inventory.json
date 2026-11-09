@@ -16,10 +16,11 @@
     "Batch 008",
     "Batch 009",
     "Batch 010",
-    "Batch 011"
+    "Batch 011",
+    "Batch 012"
   ],
-  "next_batch": 12,
-  "next_image_number": 111,
+  "next_batch": 13,
+  "next_image_number": 121,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -96,7 +97,8 @@
       "name": "Batch_010_Images_0091-0100_River_Ash_and_Asshai_by_the_Shadow_03m00s-03m20s",
       "drive_id": "177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY",
       "url": "https://drive.google.com/drive/folders/177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY"
-    }
+    },
+    "batch_012": "1LD_VPZ5l6U4bkGa_D1QhkxmzbrkH2yoD"
   },
   "batch_001_images_65mm_upgraded": [
     {
@@ -508,7 +510,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "completed_images": 110,
+  "completed_images": 120,
   "batch_002_images_65mm": [
     {
       "number": 11,
@@ -1880,6 +1882,168 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-09T15:15:00Z",
-  "verified_progress_percent": 10.48
+  "last_updated": "2026-11-09T15:20:00Z",
+  "verified_progress_percent": 11.43,
+  "batch_012_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0111",
+      "timestamp": "03:40–03:42",
+      "shot_lens": "MS · 35mm",
+      "narration_slice": "That prize belonged to the",
+      "shot_type": "Dynamic medium lateral tracking angle — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "visual_beat": "Dynamic medium lateral tracking angle — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "drive_file_id": "1pmRpbjqzQxY6b-g2TO4sFeNOCPPacczR",
+      "drive_url": "https://drive.google.com/file/d/1pmRpbjqzQxY6b-g2TO4sFeNOCPPacczR/view?usp=drivesdk",
+      "md5": "399a8cd29d9a77324ab588a9b803b0d9",
+      "size_bytes": 2683648,
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0112",
+      "timestamp": "03:42–03:44",
+      "shot_lens": "MCU · 65mm",
+      "narration_slice": "Old Empire of Ghis.",
+      "shot_type": "Compressed telephoto dramatic subject framing — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "drive_file_id": "17gcwTy_ou-Ixe8mO6hJI-vWo7XihjVax",
+      "drive_url": "https://drive.google.com/file/d/17gcwTy_ou-Ixe8mO6hJI-vWo7XihjVax/view?usp=drivesdk",
+      "md5": "c5357457698d1467ee298079c9e8144b",
+      "size_bytes": 2680257,
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0113",
+      "timestamp": "03:44–03:46",
+      "shot_lens": "MS · 50mm",
+      "narration_slice": "Rising along the sun-baked eastern",
+      "shot_type": "Medium cinematic subject focus — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "visual_beat": "Medium cinematic subject focus — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "drive_file_id": "1ggatOeTJhoVmsve2RwdlumWSuyNizQX6",
+      "drive_url": "https://drive.google.com/file/d/1ggatOeTJhoVmsve2RwdlumWSuyNizQX6/view?usp=drivesdk",
+      "md5": "09a1f3e3527006acfaf7ff21a2690b60",
+      "size_bytes": 2571073,
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0114",
+      "timestamp": "03:46–03:48",
+      "shot_lens": "WS · 35mm",
+      "narration_slice": "coast of what sailors",
+      "shot_type": "Wide environmental storytelling tableau — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "visual_beat": "Wide environmental storytelling tableau — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "drive_file_id": "1WD4F3SkO7J9XEGBrSbC7TGP2J8I6Hjwg",
+      "drive_url": "https://drive.google.com/file/d/1WD4F3SkO7J9XEGBrSbC7TGP2J8I6Hjwg/view?usp=drivesdk",
+      "md5": "18d9b4f432c8a8d22a2e01fcfb7570a4",
+      "size_bytes": 2711396,
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0115",
+      "timestamp": "03:48–03:50",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "called the Gulf of Grief,",
+      "shot_type": "High-elevation geographic / scale reveal — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "visual_beat": "High-elevation geographic / scale reveal — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "drive_file_id": "13XtRWA4EAGG1HzrWsTCw6DY0XpBo1YYE",
+      "drive_url": "https://drive.google.com/file/d/13XtRWA4EAGG1HzrWsTCw6DY0XpBo1YYE/view?usp=drivesdk",
+      "md5": "836f8592fd2143b6af02aec143170fb8",
+      "size_bytes": 2455360,
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0116",
+      "timestamp": "03:50–03:52",
+      "shot_lens": "LAM · 24mm",
+      "narration_slice": "Old Ghis erected colossal",
+      "shot_type": "Towering vertical scale composition — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "visual_beat": "Towering vertical scale composition — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "drive_file_id": "1QZzyyEPfHofyLqqh_19xQVnI_rc140Iu",
+      "drive_url": "https://drive.google.com/file/d/1QZzyyEPfHofyLqqh_19xQVnI_rc140Iu/view?usp=drivesdk",
+      "md5": "eccf246469c675ee36001986f25d47db",
+      "size_bytes": 2386140,
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0117",
+      "timestamp": "03:52–03:54",
+      "shot_lens": "DET · 85mm",
+      "narration_slice": "stepped pyramids of fired brick",
+      "shot_type": "Macro environmental / material texture insert — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "visual_beat": "Macro environmental / material texture insert — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "drive_file_id": "1c2JQZDDO_zrvOXekipaAx8LbGCOsqDYe",
+      "drive_url": "https://drive.google.com/file/d/1c2JQZDDO_zrvOXekipaAx8LbGCOsqDYe/view?usp=drivesdk",
+      "md5": "3ec97e078fe1245e96e6163cb02b659a",
+      "size_bytes": 2963868,
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0118",
+      "timestamp": "03:54–03:56",
+      "shot_lens": "CU · 85mm",
+      "narration_slice": "behind thick defensive walls,",
+      "shot_type": "Intimate close-up detail / expression beat — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "visual_beat": "Intimate close-up detail / expression beat — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "drive_file_id": "1Tiz8UDEeOrulkiRky_JDlgkHLvUfRGoM",
+      "drive_url": "https://drive.google.com/file/d/1Tiz8UDEeOrulkiRky_JDlgkHLvUfRGoM/view?usp=drivesdk",
+      "md5": "f16ccd490f0297b2c4fe750df16d20cd",
+      "size_bytes": 2827711,
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0119",
+      "timestamp": "03:56–03:58",
+      "shot_lens": "DET · 100mm",
+      "narration_slice": "crowned by a towering bronze",
+      "shot_type": "Extreme close-up tactile / light study — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "visual_beat": "Extreme close-up tactile / light study — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "drive_file_id": "1F0DIC27Z0GuE0p-hsm39XSpYooLdAXIs",
+      "drive_url": "https://drive.google.com/file/d/1F0DIC27Z0GuE0p-hsm39XSpYooLdAXIs/view?usp=drivesdk",
+      "md5": "12e13067b9aeff0633486f040a94fd0a",
+      "size_bytes": 2629527,
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0120",
+      "timestamp": "03:58–04:00",
+      "shot_lens": "WS · 40mm",
+      "narration_slice": "Harpy clutching a thunderbolt.",
+      "shot_type": "Transitional wide horizon / bridge framing — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "visual_beat": "Transitional wide horizon / bridge framing — Old Ghis stepped brick pyramids & Bronze Harpy with thunderbolt",
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "drive_file_id": "1NLoiGB1e961978WwNHgyFzjttZc945TJ",
+      "drive_url": "https://drive.google.com/file/d/1NLoiGB1e961978WwNHgyFzjttZc945TJ/view?usp=drivesdk",
+      "md5": "9deee584c133167a792fd712a33f479d",
+      "size_bytes": 2568303,
+      "qc_status": "APPROVED_VISUAL_65MM_V1"
+    }
+  ]
 }
