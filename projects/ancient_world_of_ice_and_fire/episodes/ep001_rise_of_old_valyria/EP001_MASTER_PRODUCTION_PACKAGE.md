@@ -6,7 +6,7 @@
 - **Visual Cadence:** **`30 images per minute`** (`1 image every 2.0 seconds` · **`1,050 total images`** across **`105 batches of 10`**)
 - **Locked Cinematic Visual Standard:** **65mm Live-Action / Physically Realistic 3D Historical Cinema** (*ARRI Alexa 65 · Panavision Primo Spherical Primes · Kodak Vision3 500T Grade: Warm Sandstone Highlights, Muted Archaeological Midtones, Deep Ink-Navy Shadows — calibrated to `The_Trojan_War_The_Legend_the_City_and_the_Evidence`*)
 - **Google Drive Master Archive:** `Game of thrones YT` (`1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo`)
-- **Current Gate Status:** **Batches 001–014 complete (`140/140`); `140 / 1,050` Drive-verified and visually QC-approved images (`13.33%`). Batch 015 is next.**
+- **Current Gate Status:** **Batches 001–015 complete (`150/150`); `150 / 1,050` Drive-verified and visually QC-approved images (`14.29%`). Batch 016 is next.**
 
 ---
 
@@ -3261,3 +3261,8 @@ Batch 013 (`IMG0121–IMG0130`, `04:00–04:20`) is complete: all ten Grazdan an
 ## Production Continuation — Batch 014 (2026-11-09)
 
 Batch 014 (`IMG0131–IMG0140`, `04:20–04:40`) is complete: ten frames spanning Old Ghis monument construction and western ramparts looking toward distant Valyria were visually reviewed, uploaded to Drive folder `1A5Jptk8Q4UidgDY2q_yd_8jwnlkcZX38`, and MD5-verified. All are `1376×768` sRGB PNGs. Current verified progress is **140/1,050 (13.33%)**; next queued batch is 015 (`04:40–05:00`).
+
+
+## Production Continuation — Batch 015 (2026-11-09)
+
+Batch 015 (`IMG0141–IMG0150`, `04:40–05:00`) is complete: ten frames lead from the western ramparts of Old Ghis across the Gulf to distant Valyrian smoke. All were visually reviewed, uploaded to Drive folder `1lHLoQleXDSPP6_ol4nZkCbTol3qKf7f3`, and MD5-verified as `1376×768` sRGB PNGs. Current verified progress is **150/1,050 (14.29%)**; next queued batch is 016 (`05:00–05:20`).

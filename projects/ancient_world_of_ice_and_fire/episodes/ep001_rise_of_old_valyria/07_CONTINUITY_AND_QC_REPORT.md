@@ -225,3 +225,10 @@
 - **Batch 014 (`IMG0131–0140`, `04:20–04:40`):** 10/10 frames rendered, visually reviewed, uploaded to Drive folder `1A5Jptk8Q4UidgDY2q_yd_8jwnlkcZX38`, and MD5-verified. All local PNGs are `1376×768` sRGB; Drive lists exactly ten images and every checksum matches.
 - **Visual continuity:** The sequence concludes the Old Ghis brick-and-legion chapter beat, then pivots west from the fired-brick ramparts over the Gulf toward distant Valyria. IMG0133 was cropped to remove a duplicate-face artifact before upload; no other replacements were needed.
 - **Progress:** 140/1,050 verified images (13.33%); Batches 001–014 complete. Batch 015 (`04:40–05:00`) is next.
+
+
+## Turn 19 Addendum — Batch 015 Complete (2026-11-09)
+
+- **Batch 015 (`IMG0141–0150`, `04:40–05:00`):** 10/10 frames rendered, visually reviewed, uploaded to Drive folder `1lHLoQleXDSPP6_ol4nZkCbTol3qKf7f3`, and MD5-verified. All files are `1376×768` sRGB PNGs; Drive lists exactly ten images and each MD5 matches its local file.
+- **Continuity:** The sequence carries the view from Old Ghis’s western ramparts over the Gulf to the distant Valyrian peninsula and suspended grey smoke; the images show a calm coast and latent threat, not eruption or destruction.
+- **Progress:** 150/1,050 verified images (14.29%); Batches 001–015 complete. Batch 016 (`05:00–05:20`) is next.

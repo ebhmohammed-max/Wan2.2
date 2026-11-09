@@ -90,7 +90,9 @@ projects/ancient_world_of_ice_and_fire/
         ├── 06_BATCH_013_MANIFEST.json               # Machine-readable JSON manifest for Batch 013 (10/10 uploaded, visually QC-approved, MD5-verified)
         ├── 06_IMAGE_PROMPTS_BATCH_014.md            # 17-field prompts for Batch 014 (04:20–04:40 · Ghis to western ramparts)
         ├── 06_BATCH_014_MANIFEST.json               # Machine-readable JSON manifest for Batch 014 (10/10 uploaded, visually QC-approved, MD5-verified)
-        ├── 07_CONTINUITY_AND_QC_REPORT.md           # Part 7: Continuity Audit & QC Log (Batches 001–014; visual-QC status recorded)
+        ├── 06_IMAGE_PROMPTS_BATCH_015.md            # 17-field prompts for Batch 015 (04:40–05:00 · distant Valyrian smoke)
+        ├── 06_BATCH_015_MANIFEST.json               # Machine-readable JSON manifest for Batch 015 (10/10 uploaded, visually QC-approved, MD5-verified)
+        ├── 07_CONTINUITY_AND_QC_REPORT.md           # Part 7: Continuity Audit & QC Log (Batches 001–015; visual-QC status recorded)
         ├── 08_YOUTUBE_PUBLISHING_PACKAGE.md         # Part 8: YouTube SEO, Chapters, Thumbnail & Teaser
         ├── STORYBOARD_BATCH_001_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (00:00–00:20)
         ├── STORYBOARD_BATCH_002_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (00:20–00:40)
@@ -106,6 +108,7 @@ projects/ancient_world_of_ice_and_fire/
         ├── STORYBOARD_BATCH_012_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (03:40–04:00)
         ├── STORYBOARD_BATCH_013_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (04:00–04:20)
         ├── STORYBOARD_BATCH_014_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (04:20–04:40)
+        ├── STORYBOARD_BATCH_015_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (04:40–05:00)
         └── assets/
             ├── references/                          # Locked Character Identity Reference Plates
             ├── batch_001/                           # 65mm Cinematic Batch 001 Stills (IMG0001–IMG0010 · 00:00–00:20)
@@ -122,6 +125,7 @@ projects/ancient_world_of_ice_and_fire/
             ├── batch_012/                           # 65mm Cinematic Batch 012 Stills (IMG0111–IMG0120 · 03:40–04:00)
             ├── batch_013/                           # 65mm Cinematic Batch 013 Stills (IMG0121–IMG0130 · 04:00–04:20)
             ├── batch_014/                           # 65mm Cinematic Batch 014 Stills (IMG0131–IMG0140 · 04:20–04:40)
+            ├── batch_015/                           # 65mm Cinematic Batch 015 Stills (IMG0141–IMG0150 · 04:40–05:00)
             └── chapter_01_anchor_plates/            # Pre-Approved Chapter I Master Environment Anchors
 ```
 
@@ -131,7 +135,7 @@ projects/ancient_world_of_ice_and_fire/
 
 | Episode | Title | Duration | Total Frames (`30/min`) | Completed Batches | Completed Frames | Next Queued Batch |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–014 (`140/140`)** (`00:00–04:40`) | **140 / 1,050** (`13.33%`) | **Batch 015** (`04:40–05:00`) |
+| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–015 (`150/150`)** (`00:00–05:00`) | **150 / 1,050** (`14.29%`) | **Batch 016** (`05:00–05:20`) |
 
 
-**Current progress note (2026-11-09):** 140/1,050 images are in Drive (Batches 001–014 complete). All new frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after a visual-QC correction; IMG0129 was reframed to remove letterbox strips before upload.
+**Current progress note (2026-11-09):** 150/1,050 images are in Drive (Batches 001–015 complete). All new frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after a visual-QC correction; IMG0129 was reframed to remove letterbox strips before upload.
