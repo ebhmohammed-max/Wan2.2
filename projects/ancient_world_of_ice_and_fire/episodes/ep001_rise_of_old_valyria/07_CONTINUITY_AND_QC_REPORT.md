@@ -232,3 +232,10 @@
 - **Batch 015 (`IMG0141–0150`, `04:40–05:00`):** 10/10 frames rendered, visually reviewed, uploaded to Drive folder `1lHLoQleXDSPP6_ol4nZkCbTol3qKf7f3`, and MD5-verified. All files are `1376×768` sRGB PNGs; Drive lists exactly ten images and each MD5 matches its local file.
 - **Continuity:** The sequence carries the view from Old Ghis’s western ramparts over the Gulf to the distant Valyrian peninsula and suspended grey smoke; the images show a calm coast and latent threat, not eruption or destruction.
 - **Progress:** 150/1,050 verified images (14.29%); Batches 001–015 complete. Batch 016 (`05:00–05:20`) is next.
+
+
+## Turn 20 Addendum — Batch 016 Complete (2026-11-09)
+
+- **Batch 016 (`IMG0151–0160`, `05:00–05:20`):** 10/10 frames visually reviewed, uploaded to Drive folder `1DA3IWrW0NdfrngHmJu0LxRkRCO8JuIZe`, and MD5-verified. All local files are `1376×768` sRGB PNGs; Drive contains exactly ten images and every checksum matches.
+- **Visual continuity:** Lush, intact pre-Doom Valyria and the Summer Sea; warm coastal light, volcanic spine and natural smoke only. IMG0160 was reframed as a tighter high-elevation geographic reveal.
+- **Progress:** 160/1,050 verified images (15.24%); Batches 001–016 complete. Batch 017 (`05:20–05:40`) is next.

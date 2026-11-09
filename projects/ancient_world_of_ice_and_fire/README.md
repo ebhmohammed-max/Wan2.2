@@ -91,7 +91,9 @@ projects/ancient_world_of_ice_and_fire/
         ├── 06_IMAGE_PROMPTS_BATCH_014.md            # 17-field prompts for Batch 014 (04:20–04:40 · Ghis to western ramparts)
         ├── 06_BATCH_014_MANIFEST.json               # Machine-readable JSON manifest for Batch 014 (10/10 uploaded, visually QC-approved, MD5-verified)
         ├── 06_IMAGE_PROMPTS_BATCH_015.md            # 17-field prompts for Batch 015 (04:40–05:00 · distant Valyrian smoke)
+        ├── 06_IMAGE_PROMPTS_BATCH_016.md            # 17-field prompts for Batch 016 (05:00–05:20 · Valyrian Peninsula and Summer Sea)
         ├── 06_BATCH_015_MANIFEST.json               # Machine-readable JSON manifest for Batch 015 (10/10 uploaded, visually QC-approved, MD5-verified)
+        ├── 06_BATCH_016_MANIFEST.json               # Machine-readable JSON manifest for Batch 016 (10/10 uploaded, visually QC-approved, MD5-verified)
         ├── 07_CONTINUITY_AND_QC_REPORT.md           # Part 7: Continuity Audit & QC Log (Batches 001–015; visual-QC status recorded)
         ├── 08_YOUTUBE_PUBLISHING_PACKAGE.md         # Part 8: YouTube SEO, Chapters, Thumbnail & Teaser
         ├── STORYBOARD_BATCH_001_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (00:00–00:20)
@@ -126,6 +128,7 @@ projects/ancient_world_of_ice_and_fire/
             ├── batch_013/                           # 65mm Cinematic Batch 013 Stills (IMG0121–IMG0130 · 04:00–04:20)
             ├── batch_014/                           # 65mm Cinematic Batch 014 Stills (IMG0131–IMG0140 · 04:20–04:40)
             ├── batch_015/                           # 65mm Cinematic Batch 015 Stills (IMG0141–IMG0150 · 04:40–05:00)
+            ├── batch_016/                           # 65mm Cinematic Batch 016 Stills (IMG0151–IMG0160 · 05:00–05:20)
             └── chapter_01_anchor_plates/            # Pre-Approved Chapter I Master Environment Anchors
 ```
 
@@ -138,4 +141,4 @@ projects/ancient_world_of_ice_and_fire/
 | **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–015 (`150/150`)** (`00:00–05:00`) | **150 / 1,050** (`14.29%`) | **Batch 016** (`05:00–05:20`) |
 
 
-**Current progress note (2026-11-09):** 150/1,050 images are in Drive (Batches 001–015 complete). All new frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after a visual-QC correction; IMG0129 was reframed to remove letterbox strips before upload.
+**Current progress note (2026-11-09):** 160/1,050 images are in Drive (Batches 001–016 complete). All new frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after visual-QC correction; IMG0129 was reframed to remove letterbox strips; IMG0160 was tightened for the geographic finale.
