@@ -543,6 +543,13 @@
           "md5": "7880d3778b9156aaa258bf8583c7e75b"
         },
         {
+          "scene_id": "VAL-EP001-IMG0067",
+          "file_name": "VAL-EP001-IMG0067.png",
+          "resolution": "1376x768",
+          "size_bytes": 2417559,
+          "md5": "468c52d4a992291a4c38e25acb7947f5"
+        },
+        {
           "scene_id": "VAL-EP001-IMG0068",
           "file_name": "VAL-EP001-IMG0068.png",
           "resolution": "1376x768",
@@ -550,11 +557,76 @@
           "md5": "0d3f38edaaf59501d62d72b11b6ea336"
         },
         {
+          "scene_id": "VAL-EP001-IMG0069",
+          "file_name": "VAL-EP001-IMG0069.png",
+          "resolution": "1376x768",
+          "size_bytes": 1418788,
+          "md5": "77b5e5dbc84e38d005fb72f05e32bba5"
+        },
+        {
           "scene_id": "VAL-EP001-IMG0070",
           "file_name": "VAL-EP001-IMG0070.png",
           "resolution": "1376x768",
           "size_bytes": 1414005,
           "md5": "26a4a667d6e94e9c34a4b292c54864fe"
+        }
+      ],
+      "batch_008_02m20s_to_02m40s_65mm": [
+        {
+          "scene_id": "VAL-EP001-IMG0071",
+          "file_name": "VAL-EP001-IMG0071.png",
+          "resolution": "1376x768",
+          "size_bytes": 2385096,
+          "md5": "086aa876c2be43c6a93da769be199cfa"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0072",
+          "file_name": "VAL-EP001-IMG0072.png",
+          "resolution": "1376x768",
+          "size_bytes": 2523204,
+          "md5": "60d29523927c2a626c4f9f537ed44d60"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0073",
+          "file_name": "VAL-EP001-IMG0073.png",
+          "resolution": "1376x768",
+          "size_bytes": 2524863,
+          "md5": "63538866a727944f4acecb3678ff3753"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0074",
+          "file_name": "VAL-EP001-IMG0074.png",
+          "resolution": "1376x768",
+          "size_bytes": 2365733,
+          "md5": "8b7179490dc43431139a13c2d002e6e2"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0075",
+          "file_name": "VAL-EP001-IMG0075.png",
+          "resolution": "1376x768",
+          "size_bytes": 2603958,
+          "md5": "ae5fed66ba3dcdb67b2279ab451152e9"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0076",
+          "file_name": "VAL-EP001-IMG0076.png",
+          "resolution": "1376x768",
+          "size_bytes": 2594766,
+          "md5": "3dcb910a30c02c2fc4262e5c333053ec"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0077",
+          "file_name": "VAL-EP001-IMG0077.png",
+          "resolution": "1376x768",
+          "size_bytes": 2678718,
+          "md5": "8e1296e9142fe8e5deac244b97123f5a"
+        },
+        {
+          "scene_id": "VAL-EP001-IMG0078",
+          "file_name": "VAL-EP001-IMG0078.png",
+          "resolution": "1376x768",
+          "size_bytes": 2870990,
+          "md5": "c1702ee9d5cd1c68161525c9eecea4c6"
         }
       ]
     }

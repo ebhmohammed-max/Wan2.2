@@ -12,11 +12,7 @@
   "batch_timespan": "02:00–02:20",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "8_OF_10_QC_APPROVED_AND_UPLOADED_2_QUEUED_AT_NEXT_TURN_START",
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0067",
-    "VAL-EP001-IMG0069"
-  ],
+  "batch_status": "ALL_10_QC_APPROVED_AND_UPLOADED",
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0061",
@@ -149,14 +145,14 @@
       "location_refs": [
         "BONE-MOUNTAINS-HYRKOON"
       ],
-      "file_path": null,
-      "qc_status": "QUEUED_NEXT_TURN_QUOTA",
-      "size_bytes": null,
-      "md5": null,
+      "file_path": "assets/batch_007/VAL-EP001-IMG0067.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2417559,
+      "md5": "468c52d4a992291a4c38e25acb7947f5",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false
+      "drive_file_id": "1MTLjTRz7NhjlDBeHIF0e1BbFVlMg_YTb",
+      "drive_url": "https://drive.google.com/file/d/1MTLjTRz7NhjlDBeHIF0e1BbFVlMg_YTb/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0068",
@@ -189,14 +185,14 @@
       "location_refs": [
         "BONE-MOUNTAINS-HYRKOON"
       ],
-      "file_path": null,
-      "qc_status": "QUEUED_NEXT_TURN_QUOTA",
-      "size_bytes": null,
-      "md5": null,
+      "file_path": "assets/batch_007/VAL-EP001-IMG0069.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 1418788,
+      "md5": "77b5e5dbc84e38d005fb72f05e32bba5",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false
+      "drive_file_id": "1unL4PsFAsQCmrPwPeUyjZcnt2FCuu7Sr",
+      "drive_url": "https://drive.google.com/file/d/1unL4PsFAsQCmrPwPeUyjZcnt2FCuu7Sr/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0070",

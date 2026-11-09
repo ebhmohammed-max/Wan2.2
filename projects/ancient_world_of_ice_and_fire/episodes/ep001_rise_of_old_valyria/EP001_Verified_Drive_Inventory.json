@@ -11,10 +11,11 @@
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
-  "next_batch": 8,
-  "next_image_number": 67,
+  "next_batch": 9,
+  "next_image_number": 79,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -76,6 +77,11 @@
       "name": "Batch_007_Images_0061-0070_Bone_Mountains_Yi_Ti_and_Blood_Betrayal_02m00s-02m20s",
       "drive_id": "111crBQQMR7Yq6Kn8_-2AvKBWQu1hj4tB",
       "url": "https://drive.google.com/drive/folders/111crBQQMR7Yq6Kn8_-2AvKBWQu1hj4tB"
+    },
+    "batch_008_images_folder": {
+      "name": "Batch_008_Images_0071-0080_Azor_Ahai_and_Return_of_Warmth_02m20s-02m40s",
+      "drive_id": "153sskGJiJOSLzOwPqb8XUaCcXUOHjCQQ",
+      "url": "https://drive.google.com/drive/folders/153sskGJiJOSLzOwPqb8XUaCcXUOHjCQQ"
     }
   },
   "batch_001_images_65mm_upgraded": [
@@ -258,7 +264,7 @@
   "production_documents_and_databases": [
     {
       "name": "README_Series_Master_Guide.md",
-      "drive_id": "1oK_jAiAg3AienFcav5QwOS6-j-fprz0t",
+      "drive_id": "1v-I9JIPziEbABOjtooum-NIYB2QWCq_V",
       "size": 8364,
       "md5": "56517b0bc7120cf99cb42cfaadb7a8c0",
       "upload_checksum_verified": true
@@ -300,14 +306,14 @@
     },
     {
       "name": "F_EPISODE_DATABASE.json",
-      "drive_id": "1ltA5YrVvfl10FWDMww2uBVduMCE8jAm4",
+      "drive_id": "1PMbDTm_ie0EzUA44VDHNCCkNGV66l2bb",
       "size": 1458,
       "md5": "e0e2983972fe153f56ea4ad81958d6b5",
       "upload_checksum_verified": true
     },
     {
       "name": "G_VISUAL_ASSET_DATABASE.json",
-      "drive_id": "1aOeCa1pnURoHlU0u2dOj-tFLZcBJ8Ifr",
+      "drive_id": "1pKSlZlGCjdGSr82l2iHNhzAqNRpP3qls",
       "size": 12708,
       "md5": "d28428cdfd3ff6c71e426640f3d29f38",
       "upload_checksum_verified": true
@@ -321,7 +327,7 @@
     },
     {
       "name": "EP001_MASTER_PRODUCTION_PACKAGE.md",
-      "drive_id": "1ZYQROFZ-cA-uTbDuzd2GszyWxU2AiZQX",
+      "drive_id": "1KDU3XZG5KMZcpO71d1AtEHmfJM8_BZMD",
       "size": 196763,
       "md5": "cf46210660480c09d2aeb95d0275fd9f",
       "upload_checksum_verified": true
@@ -363,21 +369,21 @@
     },
     {
       "name": "03_SCENE_BREAKDOWN_1050_SCENES.md",
-      "drive_id": "1FJlPjzKppmqq4kibzPZ_QCF2L6H3k-UW",
+      "drive_id": "1l4821q8U6OYyjBYkqEmwqylgh4iRpcwS",
       "size": 262438,
       "md5": "1eb373dd42194d835462157ce6b34777",
       "upload_checksum_verified": true
     },
     {
       "name": "03_SCENE_BREAKDOWN_1050_SCENES.json",
-      "drive_id": "1_nvCOCsGMQofNY3jhI0OfPEUMYuYQgX_",
+      "drive_id": "1UmZ56OseQNoY4sx5MIqtl9bSJWWMsFso",
       "size": 471525,
       "md5": "4f064dda0f0435b88d5700d031d9d6a7",
       "upload_checksum_verified": true
     },
     {
       "name": "03_SCENE_BREAKDOWN_1050_SCENES.csv",
-      "drive_id": "12pjEzVnEv1SlqwP2qtVF3kdpuqSyKbNI",
+      "drive_id": "1lH5-rjlL8NXQWP7bgiez--AL8Dv6-u4P",
       "size": 390526,
       "md5": "40b0c5abb961831b22f12b1d9c989979",
       "upload_checksum_verified": true
@@ -412,7 +418,7 @@
     },
     {
       "name": "07_CONTINUITY_AND_QC_REPORT.md",
-      "drive_id": "1zMgsefoe5-lV0Z3gyObSWSbfQmeinHBr",
+      "drive_id": "1CXbKxWFxwIBg98qs0Kpa7vOCqEFAUynY",
       "size": 17066,
       "md5": "23c48a0b93a804315e767fad754c568d",
       "upload_checksum_verified": true
@@ -1110,11 +1116,11 @@
     }
   ],
   "in_progress_batch": {
-    "batch": 7,
+    "batch": 8,
     "approved_uploaded": 8,
     "queued_next_turn": [
-      "VAL-EP001-IMG0067",
-      "VAL-EP001-IMG0069"
+      "VAL-EP001-IMG0079",
+      "VAL-EP001-IMG0080"
     ]
   },
   "batch_007_verified_images": [
@@ -1203,6 +1209,20 @@
       "narration_slice": "speak of a primordial Great"
     },
     {
+      "image_number": 67,
+      "scene_id": "VAL-EP001-IMG0067",
+      "batch": 7,
+      "timestamp": "02:12–02:14",
+      "file_name": "VAL-EP001-IMG0067.png",
+      "drive_id": "1MTLjTRz7NhjlDBeHIF0e1BbFVlMg_YTb",
+      "drive_folder_id": "111crBQQMR7Yq6Kn8_-2AvKBWQu1hj4tB",
+      "resolution": "1376x768",
+      "size_bytes": 2417559,
+      "md5": "468c52d4a992291a4c38e25acb7947f5",
+      "md5_verified": true,
+      "narration_slice": "Empire of the Dawn shattered"
+    },
+    {
       "image_number": 68,
       "scene_id": "VAL-EP001-IMG0068",
       "batch": 7,
@@ -1217,6 +1237,20 @@
       "narration_slice": "by the Blood Betrayal, when"
     },
     {
+      "image_number": 69,
+      "scene_id": "VAL-EP001-IMG0069",
+      "batch": 7,
+      "timestamp": "02:16–02:18",
+      "file_name": "VAL-EP001-IMG0069.png",
+      "drive_id": "1unL4PsFAsQCmrPwPeUyjZcnt2FCuu7Sr",
+      "drive_folder_id": "111crBQQMR7Yq6Kn8_-2AvKBWQu1hj4tB",
+      "resolution": "1376x768",
+      "size_bytes": 1418788,
+      "md5": "77b5e5dbc84e38d005fb72f05e32bba5",
+      "md5_verified": true,
+      "narration_slice": "the Bloodstone Emperor murdered his"
+    },
+    {
       "image_number": 70,
       "scene_id": "VAL-EP001-IMG0070",
       "batch": 7,
@@ -1229,6 +1263,120 @@
       "md5": "26a4a667d6e94e9c34a4b292c54864fe",
       "md5_verified": true,
       "narration_slice": "sister, the Amethyst Empress, plunging"
+    }
+  ],
+  "batch_008_verified_images": [
+    {
+      "image_number": 71,
+      "scene_id": "VAL-EP001-IMG0071",
+      "batch": 8,
+      "timestamp": "02:20–02:22",
+      "file_name": "VAL-EP001-IMG0071.png",
+      "drive_id": "174hNwQ5PtisRkL5M77hh_fTnYe5fDafq",
+      "drive_folder_id": "153sskGJiJOSLzOwPqb8XUaCcXUOHjCQQ",
+      "resolution": "1376x768",
+      "size_bytes": 2385096,
+      "md5": "086aa876c2be43c6a93da769be199cfa",
+      "md5_verified": true,
+      "narration_slice": "the earth into night until"
+    },
+    {
+      "image_number": 72,
+      "scene_id": "VAL-EP001-IMG0072",
+      "batch": 8,
+      "timestamp": "02:22–02:24",
+      "file_name": "VAL-EP001-IMG0072.png",
+      "drive_id": "1xaRPnQAeJUh5x1u1ckeUMwr_NVIAy40e",
+      "drive_folder_id": "153sskGJiJOSLzOwPqb8XUaCcXUOHjCQQ",
+      "resolution": "1376x768",
+      "size_bytes": 2523204,
+      "md5": "60d29523927c2a626c4f9f537ed44d60",
+      "md5_verified": true,
+      "narration_slice": "a champion wielding a blade"
+    },
+    {
+      "image_number": 73,
+      "scene_id": "VAL-EP001-IMG0073",
+      "batch": 8,
+      "timestamp": "02:24–02:26",
+      "file_name": "VAL-EP001-IMG0073.png",
+      "drive_id": "1uEEz1c42jSMs_Byj-nYRxVvEFG5pm7c4",
+      "drive_folder_id": "153sskGJiJOSLzOwPqb8XUaCcXUOHjCQQ",
+      "resolution": "1376x768",
+      "size_bytes": 2524863,
+      "md5": "63538866a727944f4acecb3678ff3753",
+      "md5_verified": true,
+      "narration_slice": "of living fire—called Azor Ahai,"
+    },
+    {
+      "image_number": 74,
+      "scene_id": "VAL-EP001-IMG0074",
+      "batch": 8,
+      "timestamp": "02:26–02:28",
+      "file_name": "VAL-EP001-IMG0074.png",
+      "drive_id": "1PVSbp_m2SQsEbV2QzViqcm5JAC_Cqto8",
+      "drive_folder_id": "153sskGJiJOSLzOwPqb8XUaCcXUOHjCQQ",
+      "resolution": "1376x768",
+      "size_bytes": 2365733,
+      "md5": "8b7179490dc43431139a13c2d002e6e2",
+      "md5_verified": true,
+      "narration_slice": "Hyrkoon the Hero, Yin Tar,"
+    },
+    {
+      "image_number": 75,
+      "scene_id": "VAL-EP001-IMG0075",
+      "batch": 8,
+      "timestamp": "02:28–02:30",
+      "file_name": "VAL-EP001-IMG0075.png",
+      "drive_id": "14Zkk_5L-_q9u2IqBljxKeFzKxPo6VnDp",
+      "drive_folder_id": "153sskGJiJOSLzOwPqb8XUaCcXUOHjCQQ",
+      "resolution": "1376x768",
+      "size_bytes": 2603958,
+      "md5": "ae5fed66ba3dcdb67b2279ab451152e9",
+      "md5_verified": true,
+      "narration_slice": "or Neferion—drove back the gloom."
+    },
+    {
+      "image_number": 76,
+      "scene_id": "VAL-EP001-IMG0076",
+      "batch": 8,
+      "timestamp": "02:30–02:32",
+      "file_name": "VAL-EP001-IMG0076.png",
+      "drive_id": "1ORxAAab9pe5-F-9D4PxHWq6l4m2ybvYL",
+      "drive_folder_id": "153sskGJiJOSLzOwPqb8XUaCcXUOHjCQQ",
+      "resolution": "1376x768",
+      "size_bytes": 2594766,
+      "md5": "3dcb910a30c02c2fc4262e5c333053ec",
+      "md5_verified": true,
+      "narration_slice": "Where myth ended and history"
+    },
+    {
+      "image_number": 77,
+      "scene_id": "VAL-EP001-IMG0077",
+      "batch": 8,
+      "timestamp": "02:32–02:34",
+      "file_name": "VAL-EP001-IMG0077.png",
+      "drive_id": "1_CNknajj8lENHMXQyyq3TlFMyHYMeBiR",
+      "drive_folder_id": "153sskGJiJOSLzOwPqb8XUaCcXUOHjCQQ",
+      "resolution": "1376x768",
+      "size_bytes": 2678718,
+      "md5": "8e1296e9142fe8e5deac244b97123f5a",
+      "md5_verified": true,
+      "narration_slice": "began, no scholar can say"
+    },
+    {
+      "image_number": 78,
+      "scene_id": "VAL-EP001-IMG0078",
+      "batch": 8,
+      "timestamp": "02:34–02:36",
+      "file_name": "VAL-EP001-IMG0078.png",
+      "drive_id": "1mu8lLQpZSt61tG2KGp8J3MWwXIqN78h4",
+      "drive_folder_id": "153sskGJiJOSLzOwPqb8XUaCcXUOHjCQQ",
+      "resolution": "1376x768",
+      "size_bytes": 2870990,
+      "md5": "c1702ee9d5cd1c68161525c9eecea4c6",
+      "md5_verified": true,
+      "narration_slice": "with certainty. What is clear"
     }
   ]
 }

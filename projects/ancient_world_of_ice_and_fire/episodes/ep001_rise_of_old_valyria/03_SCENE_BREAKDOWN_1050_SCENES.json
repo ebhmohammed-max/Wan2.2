@@ -946,7 +946,7 @@
     "location_creature_refs": [
       "BONE-MOUNTAINS-HYRKOON"
     ],
-    "qc_status": "QUEUED_NEXT_TURN_QUOTA"
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0068",
@@ -974,7 +974,7 @@
     "location_creature_refs": [
       "BONE-MOUNTAINS-HYRKOON"
     ],
-    "qc_status": "QUEUED_NEXT_TURN_QUOTA"
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0070",
@@ -997,11 +997,12 @@
     "timestamp": "02:20–02:22",
     "shot_lens": "LAM · 24mm",
     "narration_slice": "the earth into night until",
-    "visual_beat": "Towering vertical scale composition — Eastern myths of Yi Ti, Blood Betrayal & flaming blade",
+    "visual_beat": "65mm low-angle ultra-wide: snow-buried Bronze-Age watchtowers & ice-locked river terraces below Bone Mountains under crushing ink-navy storm night & lone amber beacon",
     "character_refs": [],
     "location_creature_refs": [
       "BONE-MOUNTAINS-HYRKOON"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0072",
@@ -1010,11 +1011,12 @@
     "timestamp": "02:22–02:24",
     "shot_lens": "DET · 85mm",
     "narration_slice": "a champion wielding a blade",
-    "visual_beat": "Macro environmental / material texture insert — Eastern myths of Yi Ti, Blood Betrayal & flaming blade",
+    "visual_beat": "65mm macro-telephoto detail: weathered leather-and-verdigris-bronze gauntleted hands gripping oxidized hilt as living orange-gold fire roars up forged blade in snowstorm",
     "character_refs": [],
     "location_creature_refs": [
       "BONE-MOUNTAINS-HYRKOON"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0073",
@@ -1023,11 +1025,12 @@
     "timestamp": "02:24–02:26",
     "shot_lens": "CU · 85mm",
     "narration_slice": "of living fire—called Azor Ahai,",
-    "visual_beat": "Intimate close-up detail / expression beat — Eastern myths of Yi Ti, Blood Betrayal & flaming blade",
+    "visual_beat": "65mm portrait close-up: frost-rimmed eastern Bronze-Age champion in wolf-fur & oxidized bronze collar lit by blazing sword of living fire against winter storm",
     "character_refs": [],
     "location_creature_refs": [
       "BONE-MOUNTAINS-HYRKOON"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0074",
@@ -1036,11 +1039,12 @@
     "timestamp": "02:26–02:28",
     "shot_lens": "DET · 100mm",
     "narration_slice": "Hyrkoon the Hero, Yin Tar,",
-    "visual_beat": "Extreme close-up tactile / light study — Eastern myths of Yi Ti, Blood Betrayal & flaming blade",
+    "visual_beat": "65mm archaeological relief detail: three wordless cliff-cut stone bas-reliefs depicting Hyrkoon the Hero, Yin Tar & eastern steppe champion with gold-leaf blades",
     "character_refs": [],
     "location_creature_refs": [
       "BONE-MOUNTAINS-HYRKOON"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0075",
@@ -1049,11 +1053,12 @@
     "timestamp": "02:28–02:30",
     "shot_lens": "WS · 40mm",
     "narration_slice": "or Neferion—drove back the gloom.",
-    "visual_beat": "Transitional wide horizon / bridge framing — Eastern myths of Yi Ti, Blood Betrayal & flaming blade",
+    "visual_beat": "65mm epic mountain wide: lone champion atop bone-strewn crag between Hyrkoon cliff-bastions raising blazing sword as warm sandstone dawn pierces ink-navy storm",
     "character_refs": [],
     "location_creature_refs": [
       "BONE-MOUNTAINS-HYRKOON"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0076",
@@ -1062,11 +1067,12 @@
     "timestamp": "02:30–02:32",
     "shot_lens": "LAM · 28mm",
     "narration_slice": "Where myth ended and history",
-    "visual_beat": "Low-angle monumental architectural / geological framing — Early Rhoynar river-towns & iron-smelting bloomeries",
+    "visual_beat": "65mm low-angle bluff wide: shadowed moss-grown spiral monoliths overlooking sunlit misty river valley & awakening terraced Bronze-Age hamlets",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-002"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0077",
@@ -1075,11 +1081,12 @@
     "timestamp": "02:32–02:34",
     "shot_lens": "OTS · 40mm",
     "narration_slice": "began, no scholar can say",
-    "visual_beat": "Over-the-shoulder depth perspective — Early Rhoynar river-towns & iron-smelting bloomeries",
+    "visual_beat": "65mm riverside archive medium-wide: silver-bearded ancient historian tracing quill over wordless river-and-mountain vellum map weighted by bronze astrolabe rings",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-002"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0078",
@@ -1088,11 +1095,12 @@
     "timestamp": "02:34–02:36",
     "shot_lens": "WS · 28mm",
     "narration_slice": "with certainty. What is clear",
-    "visual_beat": "Deep-focus wide atmospheric composition — Early Rhoynar river-towns & iron-smelting bloomeries",
+    "visual_beat": "65mm cliff-edge landscape wide: snowmelt waterfalls cascading down sandstone bluffs into silver-jade River Rhoyne & rose-sandstone hamlets as winter storm retreats",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-002"
-    ]
+    ],
+    "qc_status": "APPROVED_65MM_V1"
   },
   {
     "scene_id": "VAL-EP001-IMG0079",
@@ -1101,11 +1109,12 @@
     "timestamp": "02:36–02:38",
     "shot_lens": "UWA · 24mm",
     "narration_slice": "is that when warmth",
-    "visual_beat": "Ultra-wide establishing vista — Early Rhoynar river-towns & iron-smelting bloomeries",
+    "visual_beat": "65mm orchard-terrace ultra-wide: golden spring sunlight bathing irrigated green terraces & Bronze-Age farmers along the shimmering silver-green Mother Rhoyne",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-002"
-    ]
+    ],
+    "qc_status": "QUEUED_NEXT_TURN_QUOTA"
   },
   {
     "scene_id": "VAL-EP001-IMG0080",
@@ -1114,11 +1123,12 @@
     "timestamp": "02:38–02:40",
     "shot_lens": "MCU · 50mm",
     "narration_slice": "returned to the world, great",
-    "visual_beat": "Medium close-up atmospheric focal beat — Early Rhoynar river-towns & iron-smelting bloomeries",
+    "visual_beat": "65mm riverside quay medium-wide: early Rhoynar artisans & traders unloading bronze vessels & amphorae beside gilded wooden skiffs & basking giant river turtle",
     "character_refs": [],
     "location_creature_refs": [
       "LOC-ESS-002"
-    ]
+    ],
+    "qc_status": "QUEUED_NEXT_TURN_QUOTA"
   },
   {
     "scene_id": "VAL-EP001-IMG0081",

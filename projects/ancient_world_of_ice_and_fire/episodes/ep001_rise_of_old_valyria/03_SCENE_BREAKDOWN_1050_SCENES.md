@@ -96,7 +96,7 @@
 | `VAL-EP001-IMG0059` | `01:56–01:58` | `DET · 100mm` | *"River—to join in a secret"* | 65mm firelit macro: frost-chapped hands in wool wrist-wraps plucking carved cedar-and-tortoiseshell river-lyre beside hammered bronze bowl with concentric sound ripples | `LOC-ESS-002` |
 | `VAL-EP001-IMG0060` | `01:58–02:00` | `WS · 40mm` | *"song that brought back the day."* | 65mm transitional dawn wide: cloaked Rhoynar elders on rose-sandstone bluff watching ink-navy winter cloud wall split into golden sunrise over cracking river ice | `LOC-ESS-002` |
 
-## BATCH 007 (Ch. I · `02:00–02:20` · `VAL-EP001-IMG0061–VAL-EP001-IMG0070`) *(ALL 10 PROMPTS COMPLETE · 8/10 65MM RENDERS QC-APPROVED · IMG0067 & IMG0069 QUEUED NEXT TURN)*
+## BATCH 007 (Ch. I · `02:00–02:20` · `VAL-EP001-IMG0061–VAL-EP001-IMG0070`) *(ALL 10 PROMPTS + 65MM RENDERS COMPLETE & QC-APPROVED)*
 
 | Scene ID | Timestamp | Shot & Lens | Synced 2s Narration Slice | Visual Beat & Continuity | Refs |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -111,20 +111,20 @@
 | `VAL-EP001-IMG0069` | `02:16–02:18` | `WS · 35mm` | *"the Bloodstone Emperor murdered his"* | 65mm throne-hall wide: stern Bloodstone Emperor in dark charcoal-garnet robes & bronze shoulder-plates claiming fallen amethyst diadem between smoking dragon-braziers | `BONE-MOUNTAINS-HYRKOON` |
 | `VAL-EP001-IMG0070` | `02:18–02:20` | `UWA · 24mm` | *"sister, the Amethyst Empress, plunging"* | 65mm palace colonnade ultra-wide: fallen Amethyst Empress & amethyst hairpin on stone steps as total solar eclipse & ink-navy night wall swallow eastern horizon | `BONE-MOUNTAINS-HYRKOON` |
 
-## BATCH 008 (Ch. I · `02:20–02:40` · `VAL-EP001-IMG0071–VAL-EP001-IMG0080`)
+## BATCH 008 (Ch. I · `02:20–02:40` · `VAL-EP001-IMG0071–VAL-EP001-IMG0080`) *(ALL 10 PROMPTS COMPLETE · 8/10 65MM RENDERS QC-APPROVED · IMG0079 & IMG0080 QUEUED NEXT TURN)*
 
 | Scene ID | Timestamp | Shot & Lens | Synced 2s Narration Slice | Visual Beat & Continuity | Refs |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| `VAL-EP001-IMG0071` | `02:20–02:22` | `LAM · 24mm` | *"the earth into night until"* | Towering vertical scale composition — Eastern myths of Yi Ti, Blood Betrayal & flaming blade | `BONE-MOUNTAINS-HYRKOON` |
-| `VAL-EP001-IMG0072` | `02:22–02:24` | `DET · 85mm` | *"a champion wielding a blade"* | Macro environmental / material texture insert — Eastern myths of Yi Ti, Blood Betrayal & flaming blade | `BONE-MOUNTAINS-HYRKOON` |
-| `VAL-EP001-IMG0073` | `02:24–02:26` | `CU · 85mm` | *"of living fire—called Azor Ahai,"* | Intimate close-up detail / expression beat — Eastern myths of Yi Ti, Blood Betrayal & flaming blade | `BONE-MOUNTAINS-HYRKOON` |
-| `VAL-EP001-IMG0074` | `02:26–02:28` | `DET · 100mm` | *"Hyrkoon the Hero, Yin Tar,"* | Extreme close-up tactile / light study — Eastern myths of Yi Ti, Blood Betrayal & flaming blade | `BONE-MOUNTAINS-HYRKOON` |
-| `VAL-EP001-IMG0075` | `02:28–02:30` | `WS · 40mm` | *"or Neferion—drove back the gloom."* | Transitional wide horizon / bridge framing — Eastern myths of Yi Ti, Blood Betrayal & flaming blade | `BONE-MOUNTAINS-HYRKOON` |
-| `VAL-EP001-IMG0076` | `02:30–02:32` | `LAM · 28mm` | *"Where myth ended and history"* | Low-angle monumental architectural / geological framing — Early Rhoynar river-towns & iron-smelting bloomeries | `LOC-ESS-002` |
-| `VAL-EP001-IMG0077` | `02:32–02:34` | `OTS · 40mm` | *"began, no scholar can say"* | Over-the-shoulder depth perspective — Early Rhoynar river-towns & iron-smelting bloomeries | `LOC-ESS-002` |
-| `VAL-EP001-IMG0078` | `02:34–02:36` | `WS · 28mm` | *"with certainty. What is clear"* | Deep-focus wide atmospheric composition — Early Rhoynar river-towns & iron-smelting bloomeries | `LOC-ESS-002` |
-| `VAL-EP001-IMG0079` | `02:36–02:38` | `UWA · 24mm` | *"is that when warmth"* | Ultra-wide establishing vista — Early Rhoynar river-towns & iron-smelting bloomeries | `LOC-ESS-002` |
-| `VAL-EP001-IMG0080` | `02:38–02:40` | `MCU · 50mm` | *"returned to the world, great"* | Medium close-up atmospheric focal beat — Early Rhoynar river-towns & iron-smelting bloomeries | `LOC-ESS-002` |
+| `VAL-EP001-IMG0071` | `02:20–02:22` | `LAM · 24mm` | *"the earth into night until"* | 65mm low-angle ultra-wide: snow-buried Bronze-Age watchtowers & ice-locked river terraces below Bone Mountains under crushing ink-navy storm night & lone amber beacon | `BONE-MOUNTAINS-HYRKOON` |
+| `VAL-EP001-IMG0072` | `02:22–02:24` | `DET · 85mm` | *"a champion wielding a blade"* | 65mm macro-telephoto detail: weathered leather-and-verdigris-bronze gauntleted hands gripping oxidized hilt as living orange-gold fire roars up forged blade in snowstorm | `BONE-MOUNTAINS-HYRKOON` |
+| `VAL-EP001-IMG0073` | `02:24–02:26` | `CU · 85mm` | *"of living fire—called Azor Ahai,"* | 65mm portrait close-up: frost-rimmed eastern Bronze-Age champion in wolf-fur & oxidized bronze collar lit by blazing sword of living fire against winter storm | `BONE-MOUNTAINS-HYRKOON` |
+| `VAL-EP001-IMG0074` | `02:26–02:28` | `DET · 100mm` | *"Hyrkoon the Hero, Yin Tar,"* | 65mm archaeological relief detail: three wordless cliff-cut stone bas-reliefs depicting Hyrkoon the Hero, Yin Tar & eastern steppe champion with gold-leaf blades | `BONE-MOUNTAINS-HYRKOON` |
+| `VAL-EP001-IMG0075` | `02:28–02:30` | `WS · 40mm` | *"or Neferion—drove back the gloom."* | 65mm epic mountain wide: lone champion atop bone-strewn crag between Hyrkoon cliff-bastions raising blazing sword as warm sandstone dawn pierces ink-navy storm | `BONE-MOUNTAINS-HYRKOON` |
+| `VAL-EP001-IMG0076` | `02:30–02:32` | `LAM · 28mm` | *"Where myth ended and history"* | 65mm low-angle bluff wide: shadowed moss-grown spiral monoliths overlooking sunlit misty river valley & awakening terraced Bronze-Age hamlets | `LOC-ESS-002` |
+| `VAL-EP001-IMG0077` | `02:32–02:34` | `OTS · 40mm` | *"began, no scholar can say"* | 65mm riverside archive medium-wide: silver-bearded ancient historian tracing quill over wordless river-and-mountain vellum map weighted by bronze astrolabe rings | `LOC-ESS-002` |
+| `VAL-EP001-IMG0078` | `02:34–02:36` | `WS · 28mm` | *"with certainty. What is clear"* | 65mm cliff-edge landscape wide: snowmelt waterfalls cascading down sandstone bluffs into silver-jade River Rhoyne & rose-sandstone hamlets as winter storm retreats | `LOC-ESS-002` |
+| `VAL-EP001-IMG0079` | `02:36–02:38` | `UWA · 24mm` | *"is that when warmth"* | 65mm orchard-terrace ultra-wide: golden spring sunlight bathing irrigated green terraces & Bronze-Age farmers along the shimmering silver-green Mother Rhoyne | `LOC-ESS-002` |
+| `VAL-EP001-IMG0080` | `02:38–02:40` | `MCU · 50mm` | *"returned to the world, great"* | 65mm riverside quay medium-wide: early Rhoynar artisans & traders unloading bronze vessels & amphorae beside gilded wooden skiffs & basking giant river turtle | `LOC-ESS-002` |
 
 ## BATCH 009 (Ch. I · `02:40–03:00` · `VAL-EP001-IMG0081–VAL-EP001-IMG0090`)
 
