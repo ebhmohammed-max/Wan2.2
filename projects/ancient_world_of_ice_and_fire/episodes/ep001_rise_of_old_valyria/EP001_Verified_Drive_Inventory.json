@@ -108,7 +108,8 @@
     "batch_014": "https://drive.google.com/drive/folders/1A5Jptk8Q4UidgDY2q_yd_8jwnlkcZX38",
     "batch_015": "https://drive.google.com/drive/folders/1lHLoQleXDSPP6_ol4nZkCbTol3qKf7f3",
     "batch_016": "https://drive.google.com/drive/folders/1DA3IWrW0NdfrngHmJu0LxRkRCO8JuIZe",
-    "batch_017": "https://drive.google.com/drive/folders/1pOsldSLqDl5JQSc0xBMPGgJRJr0Qzp3o"
+    "batch_017": "https://drive.google.com/drive/folders/1pOsldSLqDl5JQSc0xBMPGgJRJr0Qzp3o",
+    "batch_018": "https://drive.google.com/drive/folders/15tqAVdqCqPBuhuSyatfWHCUYYTk--_Hq"
   },
   "batch_001_images_65mm_upgraded": [
     {
@@ -1141,7 +1142,15 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": null,
+  "in_progress_batch": {
+    "batch_number": 18,
+    "timespan": "05:40–06:00",
+    "first_image": 171,
+    "last_image": 180,
+    "status": "9_OF_10_RENDERED_VISUAL_QC_APPROVED_IMG0180_PENDING_RENDER",
+    "drive_folder_id": "15tqAVdqCqPBuhuSyatfWHCUYYTk--_Hq",
+    "drive_folder_url": "https://drive.google.com/drive/folders/15tqAVdqCqPBuhuSyatfWHCUYYTk--_Hq"
+  },
   "batch_007_verified_images": [
     {
       "image_number": 61,

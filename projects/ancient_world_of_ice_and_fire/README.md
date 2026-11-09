@@ -93,6 +93,7 @@ projects/ancient_world_of_ice_and_fire/
         ├── 06_IMAGE_PROMPTS_BATCH_015.md            # 17-field prompts for Batch 015 (04:40–05:00 · distant Valyrian smoke)
         ├── 06_IMAGE_PROMPTS_BATCH_016.md            # 17-field prompts for Batch 016 (05:00–05:20 · Valyrian Peninsula and Summer Sea)
         ├── 06_IMAGE_PROMPTS_BATCH_017.md            # 17-field prompts for Batch 017 (05:20–05:40 · The Fourteen Flames)
+        ├── 06_IMAGE_PROMPTS_BATCH_018.md            # 17-field prompts for Batch 018 (05:40–06:00 · Fourteen Flames day/night)
         ├── 06_BATCH_015_MANIFEST.json               # Machine-readable JSON manifest for Batch 015 (10/10 uploaded, visually QC-approved, MD5-verified)
         ├── 06_BATCH_016_MANIFEST.json               # Machine-readable JSON manifest for Batch 016 (10/10 uploaded, visually QC-approved, MD5-verified)
         ├── 06_BATCH_017_MANIFEST.json               # Batch 017 manifest (10/10 uploaded, visually QC-approved, MD5-verified)

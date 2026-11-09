@@ -1,0 +1,210 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "visual_style_standard": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location cinematography (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade: warm sandstone highlights, deep cerulean Summer Sea, lush emerald pastures, muted volcanic stone)",
+  "style_reference_benchmark": "The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "15tqAVdqCqPBuhuSyatfWHCUYYTk--_Hq",
+  "batch_number": 18,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "05:40–06:00",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "9_OF_10_RENDERED_VISUAL_QC_APPROVED_IMG0180_PENDING_RENDER",
+  "pending_completion_scenes": [
+    "VAL-EP001-IMG0180"
+  ],
+  "visual_qc_note": "IMG0171–IMG0179 rendered and visually reviewed; all local frames are 1376x768 sRGB PNGs. IMG0171 was reframed to remove an incongruous later settlement; IMG0179 was reframed to a restrained cloud-glow detail. IMG0180 remains pending generation; batch upload and Drive checksum verification are pending.",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0171",
+      "timestamp": "05:40–05:42",
+      "shot_lens": "MS · 35mm",
+      "narration_slice": "the peninsula, these fourteen active",
+      "shot_type": "Dynamic medium lateral tracking angle — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "visual_beat": "Dynamic medium lateral tracking angle — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_018/VAL-EP001-IMG0171.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 1013527,
+      "md5": "a2a985e18f65564a563664e0da83334f",
+      "resolution": "1376x768"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0172",
+      "timestamp": "05:42–05:44",
+      "shot_lens": "MCU · 65mm",
+      "narration_slice": "volcanoes never truly slept. By",
+      "shot_type": "Compressed telephoto dramatic subject framing — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "visual_beat": "Compressed telephoto dramatic subject framing — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_018/VAL-EP001-IMG0172.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2410540,
+      "md5": "c9d1e4ce7b86c9cd3221f65a202cebdb",
+      "resolution": "1376x768"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0173",
+      "timestamp": "05:44–05:46",
+      "shot_lens": "MS · 50mm",
+      "narration_slice": "day, columns of white",
+      "shot_type": "Medium cinematic subject focus — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "visual_beat": "Medium cinematic subject focus — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_018/VAL-EP001-IMG0173.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 2437382,
+      "md5": "d6de4635ef2d1e400b4726d78562ffa4",
+      "resolution": "1376x768"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0174",
+      "timestamp": "05:46–05:48",
+      "shot_lens": "WS · 35mm",
+      "narration_slice": "steam and dark ash trailed",
+      "shot_type": "Wide environmental storytelling tableau — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "visual_beat": "Wide environmental storytelling tableau — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_018/VAL-EP001-IMG0174.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2504326,
+      "md5": "32c1ebe911536d23bf2b5a8021be7f76",
+      "resolution": "1376x768"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0175",
+      "timestamp": "05:48–05:50",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "across the azure southern sky;",
+      "shot_type": "High-elevation geographic / scale reveal — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "visual_beat": "High-elevation geographic / scale reveal — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_018/VAL-EP001-IMG0175.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2593115,
+      "md5": "111c433ffffc3c55adcbd7c731edb81b",
+      "resolution": "1376x768"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0176",
+      "timestamp": "05:50–05:52",
+      "shot_lens": "LAM · 24mm",
+      "narration_slice": "by night, their high",
+      "shot_type": "Towering vertical scale composition — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "visual_beat": "Towering vertical scale composition — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_018/VAL-EP001-IMG0176.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 2432380,
+      "md5": "86480d7adaeb5ee0fe3c7ecdc4365e3b",
+      "resolution": "1376x768"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0177",
+      "timestamp": "05:52–05:54",
+      "shot_lens": "DET · 85mm",
+      "narration_slice": "calderas pulsed with a sullen",
+      "shot_type": "Macro environmental / material texture insert — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "visual_beat": "Macro environmental / material texture insert — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_018/VAL-EP001-IMG0177.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2127734,
+      "md5": "5ece2a5888405b65a683144679b720fd",
+      "resolution": "1376x768"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0178",
+      "timestamp": "05:54–05:56",
+      "shot_lens": "CU · 85mm",
+      "narration_slice": "crimson glow, painting the bellies",
+      "shot_type": "Intimate close-up detail / expression beat — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "visual_beat": "Intimate close-up detail / expression beat — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_018/VAL-EP001-IMG0178.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 1860122,
+      "md5": "873d831f62aab19f1e93ecaf31cf000a",
+      "resolution": "1376x768"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0179",
+      "timestamp": "05:56–05:58",
+      "shot_lens": "DET · 100mm",
+      "narration_slice": "of passing clouds the",
+      "shot_type": "Extreme close-up tactile / light study — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "visual_beat": "Extreme close-up tactile / light study — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_018/VAL-EP001-IMG0179.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 1056189,
+      "md5": "0a619f560e33d39f601b25698217c6b6",
+      "resolution": "1376x768"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0180",
+      "timestamp": "05:58–06:00",
+      "shot_lens": "WS · 40mm",
+      "narration_slice": "color of freshly spilled blood.",
+      "shot_type": "Transitional wide horizon / bridge framing — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "visual_beat": "Transitional wide horizon / bridge framing — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_018/VAL-EP001-IMG0180.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals."
+    }
+  ]
+}
