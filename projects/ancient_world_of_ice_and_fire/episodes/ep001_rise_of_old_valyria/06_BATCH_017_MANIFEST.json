@@ -1,0 +1,192 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "visual_style_standard": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location cinematography (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade: warm sandstone highlights, deep cerulean Summer Sea, lush emerald pastures, muted volcanic stone)",
+  "style_reference_benchmark": "The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1pOsldSLqDl5JQSc0xBMPGgJRJr0Qzp3o",
+  "batch_number": 17,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "05:20–05:40",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "PROMPTS_PREPARED_RENDER_PENDING",
+  "pending_completion_scenes": [
+    "VAL-EP001-IMG0161",
+    "VAL-EP001-IMG0162",
+    "VAL-EP001-IMG0163",
+    "VAL-EP001-IMG0164",
+    "VAL-EP001-IMG0165",
+    "VAL-EP001-IMG0166",
+    "VAL-EP001-IMG0167",
+    "VAL-EP001-IMG0168",
+    "VAL-EP001-IMG0169",
+    "VAL-EP001-IMG0170"
+  ],
+  "visual_qc_note": "Batch 017 prompts prepared from the scene breakdown; render, visual QC, Drive upload and MD5 verification pending.",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0161",
+      "timestamp": "05:20–05:22",
+      "shot_lens": "LAM · 24mm",
+      "narration_slice": "of the Long Summer; to",
+      "shot_type": "Towering vertical scale composition — Pre-Doom Valyrian peninsula geography & Summer Sea",
+      "visual_beat": "Towering vertical scale composition — Pre-Doom Valyrian peninsula geography & Summer Sea",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_017/VAL-EP001-IMG0161.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0162",
+      "timestamp": "05:22–05:24",
+      "shot_lens": "DET · 85mm",
+      "narration_slice": "its east lay the",
+      "shot_type": "Macro environmental / material texture insert — Pre-Doom Valyrian peninsula geography & Summer Sea",
+      "visual_beat": "Macro environmental / material texture insert — Pre-Doom Valyrian peninsula geography & Summer Sea",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_017/VAL-EP001-IMG0162.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0163",
+      "timestamp": "05:24–05:26",
+      "shot_lens": "CU · 85mm",
+      "narration_slice": "Gulf of Grief; and",
+      "shot_type": "Intimate close-up detail / expression beat — Pre-Doom Valyrian peninsula geography & Summer Sea",
+      "visual_beat": "Intimate close-up detail / expression beat — Pre-Doom Valyrian peninsula geography & Summer Sea",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_017/VAL-EP001-IMG0163.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0164",
+      "timestamp": "05:26–05:28",
+      "shot_lens": "DET · 100mm",
+      "narration_slice": "across its spine towered a",
+      "shot_type": "Extreme close-up tactile / light study — Pre-Doom Valyrian peninsula geography & Summer Sea",
+      "visual_beat": "Extreme close-up tactile / light study — Pre-Doom Valyrian peninsula geography & Summer Sea",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_017/VAL-EP001-IMG0164.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0165",
+      "timestamp": "05:28–05:30",
+      "shot_lens": "WS · 40mm",
+      "narration_slice": "natural fortress of fire.",
+      "shot_type": "Transitional wide horizon / bridge framing — Pre-Doom Valyrian peninsula geography & Summer Sea",
+      "visual_beat": "Transitional wide horizon / bridge framing — Pre-Doom Valyrian peninsula geography & Summer Sea",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_017/VAL-EP001-IMG0165.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0166",
+      "timestamp": "05:30–05:32",
+      "shot_lens": "LAM · 28mm",
+      "narration_slice": "The ancients named that mountain",
+      "shot_type": "Low-angle monumental architectural / geological framing — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "visual_beat": "Low-angle monumental architectural / geological framing — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_017/VAL-EP001-IMG0166.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0167",
+      "timestamp": "05:32–05:34",
+      "shot_lens": "OTS · 40mm",
+      "narration_slice": "chain the Fourteen Flames.",
+      "shot_type": "Over-the-shoulder depth perspective — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "visual_beat": "Over-the-shoulder depth perspective — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_017/VAL-EP001-IMG0167.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0168",
+      "timestamp": "05:34–05:36",
+      "shot_lens": "WS · 28mm",
+      "narration_slice": "Arranged like a jagged crescent",
+      "shot_type": "Deep-focus wide atmospheric composition — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "visual_beat": "Deep-focus wide atmospheric composition — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_017/VAL-EP001-IMG0168.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0169",
+      "timestamp": "05:36–05:38",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "of titan peaks guarding the",
+      "shot_type": "Ultra-wide establishing vista — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "visual_beat": "Ultra-wide establishing vista — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_017/VAL-EP001-IMG0169.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0170",
+      "timestamp": "05:38–05:40",
+      "shot_lens": "MCU · 50mm",
+      "narration_slice": "neck and spine of",
+      "shot_type": "Medium close-up atmospheric focal beat — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "visual_beat": "Medium close-up atmospheric focal beat — The Fourteen Flames by day steam and nocturnal crimson glow",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "file_path": "assets/batch_017/VAL-EP001-IMG0170.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain."
+    }
+  ]
+}
