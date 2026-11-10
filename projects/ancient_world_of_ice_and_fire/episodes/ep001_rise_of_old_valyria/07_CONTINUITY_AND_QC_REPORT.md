@@ -246,3 +246,10 @@
 - **Batch 017 (`IMG0161–0170`, `05:20–05:40`):** 10/10 frames visually reviewed, uploaded to Drive folder `1pOsldSLqDl5JQSc0xBMPGgJRJr0Qzp3o`, and MD5-verified. Every local PNG is `1376×768` sRGB; Drive contains exactly ten images and every checksum matches.
 - **Visual continuity:** The landscape moves from the eastern Gulf coast into the intact, green Fourteen Flames volcanic chain. Natural steam only; no cataclysm, dragons or later cityscape.
 - **Progress:** 170/1,050 verified images (16.19%); Batches 001–017 complete. Batch 018 (`05:40–06:00`) is next.
+
+
+## Turn 22 Addendum — Batch 018 Complete (2026-11-09)
+
+- **Batch 018 (`IMG0171–0180`, `05:40–06:00`):** 10/10 frames visually reviewed, uploaded to Drive folder `15tqAVdqCqPBuhuSyatfWHCUYYTk--_Hq`, and MD5-verified. Every local PNG is `1376×768` sRGB; Drive contains exactly ten images and all checksums match.
+- **Visual continuity:** Daytime steam and dark ash traces transition into subtle nocturnal crimson caldera glow over intact Valyria; no cataclysm or eruption. IMG0171 and IMG0179 were reframed during visual QC.
+- **Progress:** 180/1,050 verified images (17.14%); Batches 001–018 complete. Batch 019 (`06:00–06:20`) is next.

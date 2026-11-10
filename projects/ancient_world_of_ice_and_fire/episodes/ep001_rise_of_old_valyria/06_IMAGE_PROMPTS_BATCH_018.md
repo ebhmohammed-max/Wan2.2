@@ -4,7 +4,7 @@
 **Batch:** 018 of 105 · `05:40–06:00` · 10 frames · 2 seconds/frame  
 **Visual standard:** Photoreal live-action landscape reconstruction; grounded 65mm historical cinema, ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade; natural geology, muted volcanic stone, warm pasture highlights and deep cerulean/indigo sky.  
 **Continuity:** Pre-Doom Valyria remains intact and fertile. Match ANCHOR-IMG0010: mountainous peninsula and horseshoe-like chain of fourteen volcanic peaks. Show gentle daytime white steam/dark ash traces, then transition to a restrained nocturnal crimson caldera glow on cloud bellies. This is atmospheric evidence that the volcanoes are active—not eruption, cataclysm, destruction, lava fountains or ashfall.  
-**Render/QC status:** Nine frames (IMG0171–0179) rendered and visually approved; IMG0180 is pending generation. Batch upload and Drive verification are pending.
+**Render/QC status:** All ten frames rendered, visually reviewed and approved; uploaded to Drive and MD5-verified.
 
 ## PROMPT 161 — `VAL-EP001-IMG0171`
 
