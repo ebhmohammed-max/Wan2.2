@@ -43,10 +43,11 @@
     35,
     36,
     37,
-    38
+    38,
+    39
   ],
-  "next_batch": 39,
-  "next_image_number": 381,
+  "next_batch": 40,
+  "next_image_number": 391,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1927,8 +1928,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-11T18:05:00Z",
-  "verified_progress_percent": "36.76%",
+  "last_updated": "2026-11-11T18:35:00Z",
+  "verified_progress_percent": "37.71%",
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3624,7 +3625,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 386,
+  "verified_image_count": 396,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -7296,5 +7297,202 @@
   "batch_038_drive_folder_id": "1ZclGT1z__lsTL2H7pELKZXGLFvIfi4VY",
   "batch_038_drive_verified_count": 10,
   "batch_038_pending_rerender": 0,
-  "batch_038_note": "Hinge batch: 0371-0375 close the pastoral raid movement in LOC-VAL-002 and 0376-0380 open LOC-VAL-003, the high caldera, for the first time since the early episode. Eleven generations for ten frames, the lowest rejection rate of the episode; only 0375 needed a second pass, because three shepherds came back with brown bowl cuts instead of the clan's long loose silver-white hair. All four dragon frames landed first time because the Batch 037 five-part shape signature was written into every brief. 0372 and 0374 carry the aftermath and the birth of observation with no animal and no wound in frame; 0380 is the best of the batch."
+  "batch_038_note": "Hinge batch: 0371-0375 close the pastoral raid movement in LOC-VAL-002 and 0376-0380 open LOC-VAL-003, the high caldera, for the first time since the early episode. Eleven generations for ten frames, the lowest rejection rate of the episode; only 0375 needed a second pass, because three shepherds came back with brown bowl cuts instead of the clan's long loose silver-white hair. All four dragon frames landed first time because the Batch 037 five-part shape signature was written into every brief. 0372 and 0374 carry the aftermath and the birth of observation with no animal and no wound in frame; 0380 is the best of the batch.",
+  "batch_039_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0381",
+      "timestamp": "12:40–12:42",
+      "narration_slice": "and leviathans over the",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "19-Nr-kXVPMZ4I247mf23uBqzNcC2oQia",
+      "drive_url": "https://drive.google.com/file/d/19-Nr-kXVPMZ4I247mf23uBqzNcC2oQia/view?usp=drivesdk",
+      "md5": "db51c47ad17d26ae05cc05d97142d4c6",
+      "size_bytes": 1376326,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0382",
+      "timestamp": "12:42–12:44",
+      "narration_slice": "Summer Sea and when they",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1_QE-XEfthZ--RX5fE3ngENRKW1QKzUG_",
+      "drive_url": "https://drive.google.com/file/d/1_QE-XEfthZ--RX5fE3ngENRKW1QKzUG_/view?usp=drivesdk",
+      "md5": "0b660e83f6fbc583308bd6e63463d562",
+      "size_bytes": 1508520,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0383",
+      "timestamp": "12:44–12:46",
+      "narration_slice": "slept gorged upon cavern",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1WNIJKFqXvLOxuX0vqKyDbxZw1H_Iv-NA",
+      "drive_url": "https://drive.google.com/file/d/1WNIJKFqXvLOxuX0vqKyDbxZw1H_Iv-NA/view?usp=drivesdk",
+      "md5": "78af4c052b94ba5065d339ad84d8e28d",
+      "size_bytes": 1495686,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0384",
+      "timestamp": "12:46–12:48",
+      "narration_slice": "shelves. They observed clutches of",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1C8ic9Ak18zSeVyA3dZaKE1SPO_pGLA1t",
+      "drive_url": "https://drive.google.com/file/d/1C8ic9Ak18zSeVyA3dZaKE1SPO_pGLA1t/view?usp=drivesdk",
+      "md5": "46229c185543c89a673def8855ed564c",
+      "size_bytes": 2649523,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0385",
+      "timestamp": "12:48–12:50",
+      "narration_slice": "hard, scale-textured eggs nestled",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1LC07JIOESugtpnyfqQpH2yF2V6aXUm0_",
+      "drive_url": "https://drive.google.com/file/d/1LC07JIOESugtpnyfqQpH2yF2V6aXUm0_/view?usp=drivesdk",
+      "md5": "40b8e7537c3fb4b22a0bc55cdb994d84",
+      "size_bytes": 2315933,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0386",
+      "timestamp": "12:50–12:52",
+      "narration_slice": "directly inside geothermal ash-beds,",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1KiD6EYoFXtvgqWobbypWXl9y_mBc8Vi3",
+      "drive_url": "https://drive.google.com/file/d/1KiD6EYoFXtvgqWobbypWXl9y_mBc8Vi3/view?usp=drivesdk",
+      "md5": "8b0dab46e2105b5544b6c6e3d42d07a5",
+      "size_bytes": 2375833,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0387",
+      "timestamp": "12:52–12:54",
+      "narration_slice": "watching winged hatchlings no larger",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1yff3Ic5HkTScS-iNmJjygYgUBfwtAwkh",
+      "drive_url": "https://drive.google.com/file/d/1yff3Ic5HkTScS-iNmJjygYgUBfwtAwkh/view?usp=drivesdk",
+      "md5": "4acebab76329b55828deb25ce6120a58",
+      "size_bytes": 2566847,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0388",
+      "timestamp": "12:54–12:56",
+      "narration_slice": "than hounds claw free",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "12YP6QLpAs1THd3Eywf-NNsrrkQyrzchB",
+      "drive_url": "https://drive.google.com/file/d/12YP6QLpAs1THd3Eywf-NNsrrkQyrzchB/view?usp=drivesdk",
+      "md5": "5e567da614d7320d1c17d54c860342e5",
+      "size_bytes": 1791828,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0389",
+      "timestamp": "12:56–12:58",
+      "narration_slice": "of smoking shells and hiss",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1IdU3C2vietBYsrpYBs8O6Wcs5-bdJ5S3",
+      "drive_url": "https://drive.google.com/file/d/1IdU3C2vietBYsrpYBs8O6Wcs5-bdJ5S3/view?usp=drivesdk",
+      "md5": "724a715f68f08920809099eaa9853a6c",
+      "size_bytes": 1580746,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0390",
+      "timestamp": "12:58–13:00",
+      "narration_slice": "at the mountain sky.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "12vkTrCNaoBJf1KESUOG665cp3Ve093dN",
+      "drive_url": "https://drive.google.com/file/d/12vkTrCNaoBJf1KESUOG665cp3Ve093dN/view?usp=drivesdk",
+      "md5": "189816f549b6934ab96cbe6dccc53412",
+      "size_bytes": 1406113,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_039_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_039_drive_folder_id": "1H-Pvs5y4gn7Uhh_-z8NI38wqgMBKEbY-",
+  "batch_039_drive_verified_count": 10,
+  "batch_039_pending_rerender": 0,
+  "batch_039_note": "Single-location caldera batch, the cleanest of them: eleven generations for ten frames and nine first-pass approvals. 0381 is now the definitive dragon frame of the production, an adult loping on two taloned hind legs with wings as counterbalance. The hatching sequence escalates by scale rather than detail: eggs as objects, eggs against the columnar wall, a claw through the split shell, a head-and-shoulder portrait of the newborn, the folded wet wing, then the hatchling alone on the rim at two percent of frame. Only 0388 needed a second pass, because a whole newborn animal described alone comes back as a figurine; the fix was to shoot it as a portrait."
 }
