@@ -1921,7 +1921,7 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-10T14:55:00Z",
+  "last_updated": "2026-11-10T15:10:00Z",
   "verified_progress_percent": 31.05,
   "batch_012_verified_images": [
     {
@@ -6052,5 +6052,156 @@
       "upload_checksum_verified": true
     }
   ],
-  "batch_032_note": "DRG-VAL-001 debuts in this batch: monumental in IMG0316 with the neck running out of the top edge, through a column gap in IMG0317, as a silhouette in IMG0318, ultra-wide in IMG0319, and above frame in IMG0320. Twenty-one generations were needed for ten approvals, almost all of it on IMG0316 (seven passes) and IMG0320 (regenerated after a sandbox reset lost the approved file)."
+  "batch_032_note": "DRG-VAL-001 debuts in this batch: monumental in IMG0316 with the neck running out of the top edge, through a column gap in IMG0317, as a silhouette in IMG0318, ultra-wide in IMG0319, and above frame in IMG0320. Twenty-one generations were needed for ten approvals, almost all of it on IMG0316 (seven passes) and IMG0320 (regenerated after a sandbox reset lost the approved file).",
+  "batch_033_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0324",
+      "timestamp": "10:46–10:48",
+      "narration_slice": "coiled upon ledges warmed",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1T3grTSszflLS1WbV5roJAHiYH2ryChuq",
+      "drive_url": "https://drive.google.com/file/d/1T3grTSszflLS1WbV5roJAHiYH2ryChuq/view?usp=drivesdk",
+      "md5": "9ee58c82da6c0dc34e88b1be4dad54f6",
+      "size_bytes": 1432423,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0325",
+      "timestamp": "10:48–10:50",
+      "narration_slice": "by rivers of subterranean",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "11vDhpspa21McUTo8prsJL09ldPu6xWI_",
+      "drive_url": "https://drive.google.com/file/d/11vDhpspa21McUTo8prsJL09ldPu6xWI_/view?usp=drivesdk",
+      "md5": "444f19d9f8608f72fb38e90fd5d3f44c",
+      "size_bytes": 1630330,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0326",
+      "timestamp": "10:50–10:52",
+      "narration_slice": "magma, they beheld the true",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "13ZEEWQ3vCy96bQ916koj864MSUS4Ts37",
+      "drive_url": "https://drive.google.com/file/d/13ZEEWQ3vCy96bQ916koj864MSUS4Ts37/view?usp=drivesdk",
+      "md5": "35e75da3e2e926ab4122f096df811ad7",
+      "size_bytes": 1818838,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0327",
+      "timestamp": "10:52–10:54",
+      "narration_slice": "masters of the Fourteen",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1URh0gPEjj4elyVoIUyYeIMacBjI3e63g",
+      "drive_url": "https://drive.google.com/file/d/1URh0gPEjj4elyVoIUyYeIMacBjI3e63g/view?usp=drivesdk",
+      "md5": "b6e8702d73dc52b79757691729b685cb",
+      "size_bytes": 2130299,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0328",
+      "timestamp": "10:54–10:56",
+      "narration_slice": "Flames—dragons, wild, untamed, and",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1NsL1CnLgX9-4OMIh1oYfk-vaLvYJMoIg",
+      "drive_url": "https://drive.google.com/file/d/1NsL1CnLgX9-4OMIh1oYfk-vaLvYJMoIg/view?usp=drivesdk",
+      "md5": "071f3f2572b403f33706a2b62453049c",
+      "size_bytes": 1222913,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0329",
+      "timestamp": "10:56–10:58",
+      "narration_slice": "older than any kingdom of",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1z2Pn_QpMdgDT8sZuSRrCBSoheKyTACKs",
+      "drive_url": "https://drive.google.com/file/d/1z2Pn_QpMdgDT8sZuSRrCBSoheKyTACKs/view?usp=drivesdk",
+      "md5": "1b59f43a640feb179950c0b44f30912a",
+      "size_bytes": 2108798,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0330",
+      "timestamp": "10:58–11:00",
+      "narration_slice": "men upon the earth.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1GXxNAOqGjbp0YcGCCKzwXXn6iOha1rC_",
+      "drive_url": "https://drive.google.com/file/d/1GXxNAOqGjbp0YcGCCKzwXXn6iOha1rC_/view?usp=drivesdk",
+      "md5": "a2ed1a1c001fdf360cda0bdb5f3d0fe5",
+      "size_bytes": 1844096,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_033_status": "IN_PROGRESS_7_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_033_drive_folder_id": "1_w2nSiYNWdy6AX5ZQub_6js4w5isAm8_",
+  "batch_033_drive_verified_count": 7,
+  "batch_033_pending_rerender": [
+    "VAL-EP001-IMG0321",
+    "VAL-EP001-IMG0322",
+    "VAL-EP001-IMG0323"
+  ],
+  "batch_033_note": "DRG-VAL-001 fully revealed: whole animal coiled asleep on a warm ledge (0324), landscape scale with three of them (0325), rising low angle with the neck out of the top edge (0326), and the healed wing tear now a recurring continuity seam (0324, 0329). Seven passed first time; 0321, 0322 and 0323 are background, angle and distant-mass failures respectively and are queued for rerender. Progress held at 326/1,050 until they pass."
 }
