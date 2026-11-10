@@ -1,0 +1,250 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1SupUjzhhKC1y7WVfPav15j_geg8yqVjz",
+  "batch_drive_folder_name": "Batch_034_Images_0331-0340_Apex_Terror_11m00s-11m20s",
+  "batch_number": 34,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "11:00–11:20",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "IN_PROGRESS_3_OF_10_APPROVED_UPLOADED_7_PENDING",
+  "approved_count": 3,
+  "approved_uploaded_count": 3,
+  "drive_verified_count": 3,
+  "pending_rerender_count": 3,
+  "pending_generate_count": 4,
+  "pending_completion_scenes": [
+    "VAL-EP001-IMG0331",
+    "VAL-EP001-IMG0332",
+    "VAL-EP001-IMG0334",
+    "VAL-EP001-IMG0337",
+    "VAL-EP001-IMG0338",
+    "VAL-EP001-IMG0339",
+    "VAL-EP001-IMG0340"
+  ],
+  "verified_episode_frames_after_batch": 346,
+  "verified_episode_percent_after_batch": "32.95%",
+  "visual_qc_note": "Three of ten approved so far and they are the three that matter: 0335 is the sleeping head and 0336 is the first clean apex portrait with the amber slit eye — together they lock the skull, horns, brow and scale value that every remaining dragon frame depends on. 0333 holds the resting whole-body pose with four limbs and the healed wing seam. The batch is also the first to produce a genuinely new failure: 0332 turned the cavern walls into churning white water. 0331 broke the four-limb lock badly (feets in a row plus two wings) and 0334 left the wing-knuckles hovering.",
+  "four_limb_note": "Batch 034 is the strictest test of the four-limb rule so far because there are no humans to distract the frame and the legs are the subject of two scenes. Count them in every review: two taloned hind feet, two calloused wing-knuckles, four points of contact, nothing else. 0331 failed this twice.",
+  "letterbox_scan_note": "Per-row content-box scan run on every frame. 0331 arrived 1408x768 and was cropped to 1376x768; 0332 carried strips (rows 12-756) and 0333 and 0335 (rows 12-755) and were reframed. 0334, 0336 full-bleed.",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0331",
+      "timestamp": "11:00–11:02",
+      "narration_slice": "They were not heraldic",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_034/VAL-EP001-IMG0331.png",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": "21791809277e06f040a42f72ecf2a142",
+      "size_bytes": 1542162,
+      "md5_verified_on_drive": false,
+      "qc_status": "PENDING_RERENDER",
+      "qc_note": "REJECTED. Rerender was worse than pass 1: five or six clawed feet planted in a row along the body plus two separate wing membranes, so the animal reads as a centipede with wings, and the neck-plus-shoulder silhouette resembles a rearing horse. Four grounded limbs is the hard lock and it was broken in the most visible way possible. Reframe to a simple side-on rest pose with the limbs listed explicitly as two hind feet plus two wing-knuckles and nothing else."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0332",
+      "timestamp": "11:02–11:04",
+      "narration_slice": "ornaments or creatures of courtly",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_034/VAL-EP001-IMG0332.png",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": "74599a148107ce7256c7ac5fb6e731fc",
+      "size_bytes": 1944048,
+      "md5_verified_on_drive": false,
+      "qc_status": "PENDING_RERENDER",
+      "qc_note": "REJECTED. New failure mode: the cavern walls and background rendered as CHURNING WHITE WATER — a bright writhing texture that reads as a freezing waterfall or an iced-over torrent, against every black-ground rule in the episode, and it pushes mean luma to 0.257. The animal itself is acceptable (folded wing, four limbs, neck out of top edge going grey rather than black). Rerender with the walls as matte black faceted basalt, no bright texture anywhere, no white."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0333",
+      "timestamp": "11:04–11:06",
+      "narration_slice": "song. In the living",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_034/VAL-EP001-IMG0333.png",
+      "drive_file_id": "1mdTAV1EW7ZrAmDhLsCTjF5s88GN6unQG",
+      "drive_url": "https://drive.google.com/file/d/1mdTAV1EW7ZrAmDhLsCTjF5s88GN6unQG/view?usp=drivesdk",
+      "md5": "c2009584a630ea3f6e3c580a9d68f744",
+      "size_bytes": 1402180,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Wide 28mm of the animal at rest across a black ledge: whole body in one coil, neck folded back along the flank, head resting low, eyes closed, twin swept horns, one cowled wing with the pale healed seam clearly visible, two hind legs tucked and two wing-knuckles grounded — exactly four limbs. Cavern black to the edges. Reframed off letterbox strips (rows 12-755)."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0334",
+      "timestamp": "11:06–11:08",
+      "narration_slice": "flesh, a wild dragon of",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_034/VAL-EP001-IMG0334.png",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": "0503279ca91e38225b0d1901bebda4e0",
+      "size_bytes": 1792719,
+      "md5_verified_on_drive": false,
+      "qc_status": "PENDING_RERENDER",
+      "qc_note": "REJECTED on a detail. The low-angle architecture is good and the four limbs are correct, but the two wing-knuckles hang in mid-air with their talons pointing down and NOT touching the rock, so the animal appears to hover; the floor also reads slightly pale in the lower left. Rerender with both wing-knuckles planted flat on the stone, weight visibly coming down through them."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0335",
+      "timestamp": "11:08–11:10",
+      "narration_slice": "the Fourteen Flames was",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_034/VAL-EP001-IMG0335.png",
+      "drive_file_id": "1pbtlEoDXHLOLgvWAEwmnod8joqdXHbfe",
+      "drive_url": "https://drive.google.com/file/d/1pbtlEoDXHLOLgvWAEwmnod8joqdXHbfe/view?usp=drivesdk",
+      "md5": "52c837a56a190623f4caca46c5450011",
+      "size_bytes": 1452770,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Medium close-up of the sleeping head resting on a folded forelimb: long blunt crocodilian snout, closed jaw, eye shut behind a heavy scaled brow with no iris showing, twin ridged obsidian horns catching a thin ember line, stiff jaw bristles, healed membrane seam soft in the background. Reframed off letterbox strips (rows 12-755)."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0336",
+      "timestamp": "11:10–11:12",
+      "narration_slice": "an apex terror of jet-black",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_034/VAL-EP001-IMG0336.png",
+      "drive_file_id": "1obU9o-eYVnr5wCSiKn_jr891H3JpYkSD",
+      "drive_url": "https://drive.google.com/file/d/1obU9o-eYVnr5wCSiKn_jr891H3JpYkSD/view?usp=drivesdk",
+      "md5": "5a1375902fb79da9247ffcd7fe7d31d5",
+      "size_bytes": 1773862,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Medium 35mm apex portrait: head lowered and turned away, near side profile from slightly below, blunt squared snout, closed jaw, deep cheek, one half-lidded amber-brass slit eye looking down and OFF the lens, twin curved obsidian horns with a ridge of spikes between them, thick ringed neck running out of frame right. Only warmth is ember under the jaw. This is the anatomy reference frame for DRG-VAL-001."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0337",
+      "timestamp": "11:12–11:14",
+      "narration_slice": "iron-rich bone, furnace heat,",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_034/VAL-EP001-IMG0337.png",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": null,
+      "size_bytes": null,
+      "md5_verified_on_drive": false,
+      "qc_status": "NOT_GENERATED",
+      "qc_note": "NOT YET GENERATED. Throat and jaw study with the ember fissure between throat scutes, mouth shut, no fire. Queued behind the 10-images-per-turn cap."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0338",
+      "timestamp": "11:14–11:16",
+      "narration_slice": "and armored scale. Resting upon",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_034/VAL-EP001-IMG0338.png",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": null,
+      "size_bytes": null,
+      "md5_verified_on_drive": false,
+      "qc_status": "NOT_GENERATED",
+      "qc_note": "NOT YET GENERATED. Queued."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0339",
+      "timestamp": "11:16–11:18",
+      "narration_slice": "two massive taloned hind",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_034/VAL-EP001-IMG0339.png",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": null,
+      "size_bytes": null,
+      "md5_verified_on_drive": false,
+      "qc_status": "NOT_GENERATED",
+      "qc_note": "NOT YET GENERATED. Queued — two massive taloned hind legs, the narration's own emphasis."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0340",
+      "timestamp": "11:18–11:20",
+      "narration_slice": "legs and the calloused knuckles",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_034/VAL-EP001-IMG0340.png",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": null,
+      "size_bytes": null,
+      "md5_verified_on_drive": false,
+      "qc_status": "NOT_GENERATED",
+      "qc_note": "NOT YET GENERATED. Queued — UWA of the calloused knuckles taking the weight."
+    }
+  ],
+  "pending_uploads": [],
+  "upload_note": "Three approved frames uploaded and MD5-verified against Drive.",
+  "rerender_history": {}
+}
