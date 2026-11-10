@@ -1,0 +1,192 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "visual_style_standard": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location cinematography (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade: warm sandstone highlights, deep cerulean Summer Sea, lush emerald pastures, muted volcanic stone)",
+  "style_reference_benchmark": "The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1p60C66cm_rEKBz3fw3RxgiyRFSopKWdl",
+  "batch_number": 19,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "06:00–06:20",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "PROMPTS_PREPARED_RENDER_PENDING",
+  "pending_completion_scenes": [
+    "VAL-EP001-IMG0181",
+    "VAL-EP001-IMG0182",
+    "VAL-EP001-IMG0183",
+    "VAL-EP001-IMG0184",
+    "VAL-EP001-IMG0185",
+    "VAL-EP001-IMG0186",
+    "VAL-EP001-IMG0187",
+    "VAL-EP001-IMG0188",
+    "VAL-EP001-IMG0189",
+    "VAL-EP001-IMG0190"
+  ],
+  "visual_qc_note": "Batch 019 prompts prepared from scene breakdown; render, visual QC, Drive upload and MD5 verification pending.",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0181",
+      "timestamp": "06:00–06:02",
+      "shot_lens": "LAM · 28mm",
+      "narration_slice": "To a cautious mariner sailing",
+      "shot_type": "Low-angle monumental architectural / geological framing — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_019/VAL-EP001-IMG0181.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0182",
+      "timestamp": "06:02–06:04",
+      "shot_lens": "OTS · 40mm",
+      "narration_slice": "offshore, such a landscape",
+      "shot_type": "Over-the-shoulder depth perspective — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "Over-the-shoulder depth perspective — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_019/VAL-EP001-IMG0182.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0183",
+      "timestamp": "06:04–06:06",
+      "shot_lens": "WS · 28mm",
+      "narration_slice": "looked cursed by angry gods.",
+      "shot_type": "Deep-focus wide atmospheric composition — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "Deep-focus wide atmospheric composition — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_019/VAL-EP001-IMG0183.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0184",
+      "timestamp": "06:06–06:08",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "Yet volcanic fury carries",
+      "shot_type": "Ultra-wide establishing vista — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "Ultra-wide establishing vista — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_019/VAL-EP001-IMG0184.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0185",
+      "timestamp": "06:08–06:10",
+      "shot_lens": "MCU · 50mm",
+      "narration_slice": "an ancient ecological gift. Every",
+      "shot_type": "Medium close-up atmospheric focal beat — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "Medium close-up atmospheric focal beat — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_019/VAL-EP001-IMG0185.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0186",
+      "timestamp": "06:10–06:12",
+      "shot_lens": "MS · 35mm",
+      "narration_slice": "eruption across millennia had blanketed",
+      "shot_type": "Dynamic medium lateral tracking angle — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "Dynamic medium lateral tracking angle — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_019/VAL-EP001-IMG0186.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0187",
+      "timestamp": "06:12–06:14",
+      "shot_lens": "MCU · 65mm",
+      "narration_slice": "the lower valleys in",
+      "shot_type": "Compressed telephoto dramatic subject framing — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_019/VAL-EP001-IMG0187.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0188",
+      "timestamp": "06:14–06:16",
+      "shot_lens": "MS · 50mm",
+      "narration_slice": "mineral-rich ash, weathering under warm",
+      "shot_type": "Medium cinematic subject focus — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "Medium cinematic subject focus — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_019/VAL-EP001-IMG0188.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0189",
+      "timestamp": "06:16–06:18",
+      "shot_lens": "WS · 35mm",
+      "narration_slice": "coastal rains into dark",
+      "shot_type": "Wide environmental storytelling tableau — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "Wide environmental storytelling tableau — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_019/VAL-EP001-IMG0189.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0190",
+      "timestamp": "06:18–06:20",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "soil of extraordinary fertility. Below",
+      "shot_type": "High-elevation geographic / scale reveal — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "High-elevation geographic / scale reveal — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_019/VAL-EP001-IMG0190.png",
+      "qc_status": "PENDING_RENDER",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat."
+    }
+  ]
+}
