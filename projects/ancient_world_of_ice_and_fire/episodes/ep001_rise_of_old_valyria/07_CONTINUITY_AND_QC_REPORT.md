@@ -265,3 +265,8 @@
 ### Batch 020 — Fertile Surface to Subterranean Mineral Veins (`06:20–06:40`) — **10/10 Approved**
 
 All ten images were visually reviewed as a continuous tonal transition: black scree and new growth (`IMG0191–0192`), wild olives and figs (`IMG0193`), spring water (`IMG0194`), broad summer landscape (`IMG0195`), then natural basalt caverns and ore-bearing fissures (`IMG0196–0200`). The sequence keeps Valyria intact and pre-Doom; no active eruption, modern mine infrastructure, dragons or graphic overlays. All frames are `1376×768` sRGB PNGs; Drive lists exactly ten images and the Drive MD5 matches each local checksum. **Verified progress: 200/1,050 (19.05%); next Batch 021 (`06:40–07:00`).**
+
+
+### Batch 021 — Subterranean Ore and Firewyrm Danger (`06:40–07:00`) — **8/10 approved; 2 rerenders pending**
+
+Eight frames (`IMG0202–0204`, `IMG0206–0210`) passed visual review, are `1376×768` sRGB PNGs, and were uploaded to Drive folder `https://drive.google.com/drive/folders/17xs4PfQxDKJ_2baNHXtv5oo86s9Tr8mZ`; the folder lists exactly these eight and every Drive MD5 matches the local file. `IMG0201` is held for rerender because the copper seam reads as luminous/molten ore. `IMG0205` is held because its surface sky and distant volcanic skyline break the subterranean continuity. The remaining two have not been counted as approved or uploaded. Total verified frames: **208/1,050 (19.81%)**; Batch 021 remains open.

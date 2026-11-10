@@ -6,7 +6,7 @@
 
 **Visual standard:** Photoreal live-action 65mm historical cinema, ARRI Alexa 65, Panavision Primo spherical primes, Kodak Vision3 500T, grounded volcanic geology, restrained natural film grain and physically plausible dark exposure.  
 **Continuity:** Continue directly underground from Batch 020. Reveal mineral wealth, then shift from geological beauty to danger: the tunnels are natural fissures and bores, not constructed mines. `CRT-VAL-001` firewyrms are blind, heat-sensing, cylindrical, wingless and legless burrowing fire-breathers with pale blistered armor rings and a rock-crushing maw. Reveal them gradually; no dragons or human-like faces.  
-**Render/QC status:** Prompts prepared; rendering and visual QC pending.
+**Render/QC status:** Eight of ten frames approved, uploaded and checksum-verified. Rerender IMG0201 (molten-looking copper seam) and IMG0205 (surface sky breaks underground continuity) before batch completion.
 
 ## PROMPT 201 — `VAL-EP001-IMG0201`
 

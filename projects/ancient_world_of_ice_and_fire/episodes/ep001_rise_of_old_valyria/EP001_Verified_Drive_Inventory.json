@@ -3595,5 +3595,162 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
     }
+  ],
+  "verified_image_count": 208,
+  "batch_021_pending_scenes": [
+    "VAL-EP001-IMG0201",
+    "VAL-EP001-IMG0205"
+  ],
+  "batch_021_partial_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0202",
+      "timestamp": "06:42–06:44",
+      "narration_slice": "copper, tin, iron, silver, and",
+      "shot_type": "Compressed telephoto dramatic subject framing — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1tgWQWPTjwLVDPs_4tn6RNQDlkmaukbI3",
+      "drive_url": "https://drive.google.com/file/d/1tgWQWPTjwLVDPs_4tn6RNQDlkmaukbI3/view?usp=drivesdk",
+      "md5": "13b0a4e62164e8a55d32aa8332cad0b6",
+      "size_bytes": 2415258,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0203",
+      "timestamp": "06:44–06:46",
+      "narration_slice": "gleaming native gold, alongside",
+      "shot_type": "Medium cinematic subject focus — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "Medium cinematic subject focus — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1_iqCXWUHU2DHUNP7NQqGGpLXSh28Mtld",
+      "drive_url": "https://drive.google.com/file/d/1_iqCXWUHU2DHUNP7NQqGGpLXSh28Mtld/view?usp=drivesdk",
+      "md5": "0a3ab2f2a3c6fb3e5bcdcfe9a6d71312",
+      "size_bytes": 2582200,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0204",
+      "timestamp": "06:46–06:48",
+      "narration_slice": "glassy seams of black volcanic",
+      "shot_type": "Wide environmental storytelling tableau — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "Wide environmental storytelling tableau — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "character_refs": [],
+      "drive_file_id": "15e_8kfHb85AZlbEO1r5dXy0CEKZ5hZkJ",
+      "drive_url": "https://drive.google.com/file/d/15e_8kfHb85AZlbEO1r5dXy0CEKZ5hZkJ/view?usp=drivesdk",
+      "md5": "54cc6e39be96cd0003438c0119e2b152",
+      "size_bytes": 2508643,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0206",
+      "timestamp": "06:50–06:52",
+      "narration_slice": "men would call dragonglass.",
+      "shot_type": "Towering vertical scale composition — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "Towering vertical scale composition — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1VxPJX44XxWHVL16UKS1qfz2N6XHyKRA2",
+      "drive_url": "https://drive.google.com/file/d/1VxPJX44XxWHVL16UKS1qfz2N6XHyKRA2/view?usp=drivesdk",
+      "md5": "685a2a0efdd08ac210c4b33037665ff1",
+      "size_bytes": 2265706,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0207",
+      "timestamp": "06:52–06:54",
+      "narration_slice": "Yet those subterranean labyrinths were",
+      "shot_type": "Macro environmental / material texture insert — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "Macro environmental / material texture insert — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1HkguqHxoaPKKjPBCwxk0bZYxRtmeQ8cv",
+      "drive_url": "https://drive.google.com/file/d/1HkguqHxoaPKKjPBCwxk0bZYxRtmeQ8cv/view?usp=drivesdk",
+      "md5": "7f5efea8dba3dac8243f150f001949ef",
+      "size_bytes": 2021793,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0208",
+      "timestamp": "06:54–06:56",
+      "narration_slice": "neither empty nor safe, for",
+      "shot_type": "Intimate close-up detail / expression beat — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "Intimate close-up detail / expression beat — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "location_refs": [
+        "CRT-VAL-001"
+      ],
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "drive_file_id": "1dy09-CVLb-yECZHQPGObmt9EOOU43sJ3",
+      "drive_url": "https://drive.google.com/file/d/1dy09-CVLb-yECZHQPGObmt9EOOU43sJ3/view?usp=drivesdk",
+      "md5": "9d21f60a84521b43126bfd7a7f9b5772",
+      "size_bytes": 2368868,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0209",
+      "timestamp": "06:56–06:58",
+      "narration_slice": "things older than humanity",
+      "shot_type": "Extreme close-up tactile / light study — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "Extreme close-up tactile / light study — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "location_refs": [
+        "CRT-VAL-001"
+      ],
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "drive_file_id": "1OTudCpu2WEzTr6RRCDSfE0D-8A4G4MUV",
+      "drive_url": "https://drive.google.com/file/d/1OTudCpu2WEzTr6RRCDSfE0D-8A4G4MUV/view?usp=drivesdk",
+      "md5": "a050ce7abb81a6f15aee23688674d434",
+      "size_bytes": 2478078,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0210",
+      "timestamp": "06:58–07:00",
+      "narration_slice": "stirred within the superheated rock.",
+      "shot_type": "Transitional wide horizon / bridge framing — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "Transitional wide horizon / bridge framing — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "location_refs": [
+        "CRT-VAL-001"
+      ],
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "drive_file_id": "1-bcjsK9a4GKpo23U951_XbUtwea0yspm",
+      "drive_url": "https://drive.google.com/file/d/1-bcjsK9a4GKpo23U951_XbUtwea0yspm/view?usp=drivesdk",
+      "md5": "9d4424f130e2934990df2a9dea0a73dd",
+      "size_bytes": 2346733,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
   ]
 }
