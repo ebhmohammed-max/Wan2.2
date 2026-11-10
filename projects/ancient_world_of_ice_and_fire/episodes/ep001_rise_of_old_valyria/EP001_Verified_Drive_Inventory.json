@@ -124,7 +124,8 @@
     "batch_022": "https://drive.google.com/drive/folders/1KTaABRWYhUZKbdNpjsmxl08Iq3k3YWaQ",
     "batch_023": "https://drive.google.com/drive/folders/1V6YsdqUSkso6Y6WHw5FSe_DuTZaMnC9k",
     "batch_024": "https://drive.google.com/drive/folders/1LLJg7LOGHGxlXZJMWLaST7MlaPywL0Ew",
-    "batch_025": "https://drive.google.com/drive/folders/1LngtxGrC35nCcg96bkF6NlqJJb5O-ilB"
+    "batch_025": "https://drive.google.com/drive/folders/1LngtxGrC35nCcg96bkF6NlqJJb5O-ilB",
+    "batch_026": "https://drive.google.com/drive/folders/1C-0rzizehths1tSA0As1NXfVJRW81y0G"
   },
   "batch_001_images_65mm_upgraded": [
     {
@@ -1157,7 +1158,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": null,
+  "in_progress_batch": 26,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1908,7 +1909,7 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-10T01:00:00Z",
+  "last_updated": "2026-11-10T08:55:00Z",
   "verified_progress_percent": 24.38,
   "batch_012_verified_images": [
     {
@@ -4596,5 +4597,137 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
     }
+  ],
+  "batch_026_partial_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0252",
+      "timestamp": "08:22–08:24",
+      "narration_slice": "of luminous silver-gold or spun",
+      "shot_type": "Macro environmental / material texture insert",
+      "visual_beat": "Macro material study — hand-spun wool glowing like filament silver-gold",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1c9Uwc2vx1cfDW-IQInqJyBliLMIeyUbL",
+      "drive_url": "https://drive.google.com/file/d/1c9Uwc2vx1cfDW-IQInqJyBliLMIeyUbL/view?usp=drivesdk",
+      "md5": "0112767ed784f87b2a268799fdb44b3e",
+      "size_bytes": 2366145,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0253",
+      "timestamp": "08:24–08:26",
+      "narration_slice": "platinum white, and striking",
+      "shot_type": "Intimate close-up detail / expression beat",
+      "visual_beat": "Intimate close-up — platinum-white coiled hair, seventy-year-old clan woman",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1Ww9bnQ1JNEAM1Tghb8SG7RvLzDuNGVs2",
+      "drive_url": "https://drive.google.com/file/d/1Ww9bnQ1JNEAM1Tghb8SG7RvLzDuNGVs2/view?usp=drivesdk",
+      "md5": "5b72d1b047a54744e84a044835c15748",
+      "size_bytes": 2500469,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0257",
+      "timestamp": "08:32–08:34",
+      "narration_slice": "call such beauty unearthly, almost",
+      "shot_type": "Over-the-shoulder depth perspective",
+      "visual_beat": "Over-the-shoulder — the young herdsman turning to answer, eyes narrowed to the light",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1RYh7D_27nWmtBD-LHJF2xg49eX_iojP7",
+      "drive_url": "https://drive.google.com/file/d/1RYh7D_27nWmtBD-LHJF2xg49eX_iojP7/view?usp=drivesdk",
+      "md5": "07bdf697a89a519be900ea617734fb63",
+      "size_bytes": 2689433,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0258",
+      "timestamp": "08:34–08:36",
+      "narration_slice": "more than human. Yet why",
+      "shot_type": "Deep-focus wide atmospheric composition",
+      "visual_beat": "Deep-focus wide — homestead ring, hurdle carried between the roundhouses",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1WS377NIjdbzuf-Hys2qY8wGzMB9_2BIy",
+      "drive_url": "https://drive.google.com/file/d/1WS377NIjdbzuf-Hys2qY8wGzMB9_2BIy/view?usp=drivesdk",
+      "md5": "2f0b219c4bb49247bedb0060e1003646",
+      "size_bytes": 2771058,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0259",
+      "timestamp": "08:36–08:38",
+      "narration_slice": "did a quiet community of",
+      "shot_type": "Ultra-wide establishing vista",
+      "visual_beat": "Ultra-wide establishing vista — the whole homestead in its green fold",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1GUOrUsEG74uecYCslC3sINeGJptOCqHG",
+      "drive_url": "https://drive.google.com/file/d/1GUOrUsEG74uecYCslC3sINeGJptOCqHG/view?usp=drivesdk",
+      "md5": "14d82bd8f75857e3e0439c0c81e02623",
+      "size_bytes": 2663618,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0260",
+      "timestamp": "08:38–08:40",
+      "narration_slice": "isolated herdsmen bear features found",
+      "shot_type": "Medium close-up atmospheric focal beat",
+      "visual_beat": "Medium close-up — young herdsman at the fold gate, mid-thought, unimpressed",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1P7sokHuTbz8i9YchnRc4rZY_5euaeHsC",
+      "drive_url": "https://drive.google.com/file/d/1P7sokHuTbz8i9YchnRc4rZY_5euaeHsC/view?usp=drivesdk",
+      "md5": "906e099a42986228e40be5d714cb1f08",
+      "size_bytes": 2572729,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_026_pending_scenes": [
+    "VAL-EP001-IMG0251",
+    "VAL-EP001-IMG0254",
+    "VAL-EP001-IMG0255",
+    "VAL-EP001-IMG0256"
   ]
 }

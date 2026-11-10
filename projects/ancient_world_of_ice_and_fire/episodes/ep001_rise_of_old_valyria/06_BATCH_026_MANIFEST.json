@@ -1,0 +1,283 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "visual_style_standard": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location cinematography (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade: warm sandstone highlights, deep cerulean Summer Sea, lush emerald pastures, muted volcanic stone)",
+  "style_reference_benchmark": "The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1C-0rzizehths1tSA0As1NXfVJRW81y0G",
+  "batch_number": 26,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "08:20–08:40",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "IN_PROGRESS_6_OF_10_APPROVED_UPLOADED_4_RERENDER_PENDING",
+  "pending_completion_scenes": [
+    "VAL-EP001-IMG0251",
+    "VAL-EP001-IMG0254",
+    "VAL-EP001-IMG0255",
+    "VAL-EP001-IMG0256"
+  ],
+  "visual_qc_note": "First pass: six of ten frames passed and were uploaded to Drive folder 1C-0rzizehths1tSA0As1NXfVJRW81y0G, each Drive MD5 matching its local file. Four were rejected and await targeted rerenders: IMG0251 and IMG0256 rendered the elder shepherd's irises pale steel-blue rather than indigo-violet (IMG0256 also settling into a symmetrical heroic poster stance); IMG0254's iris study drifted to a heavily stubbled adult male face with no temple braids and a synthetic lens-like iris; IMG0255 drifted to a posed cast procession and gave the woman carrying the child a strong likeness of a known screen actress. Eye-colour wording is tightened for the rerenders so iris brightness and size are stated explicitly and the violet cannot wash out to grey at distance.",
+  "verified_episode_frames_after_batch": 256,
+  "verified_episode_percent_after_batch": "24.38%",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0251",
+      "timestamp": "08:20–08:22",
+      "shot_lens": "LAM · 24mm",
+      "narration_slice": "pale alabaster skin, hair",
+      "shot_type": "Towering vertical scale composition",
+      "visual_beat": "Low-angle vertical scale — two herdsmen dwarfed by a columnar basalt cliff",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_026/VAL-EP001-IMG0251.png",
+      "qc_status": "QC_REJECTED_RERENDER_REQUIRED",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2874586,
+      "md5": "e07fc6f0397ecff9255b028c7e75f545",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_note": "REJECTED: the elder shepherd's irises rendered pale steel-blue rather than indigo-violet, and both faces tipped so far back that the eyes barely read. Awaiting rerender."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0252",
+      "timestamp": "08:22–08:24",
+      "shot_lens": "DET · 85mm",
+      "narration_slice": "of luminous silver-gold or spun",
+      "shot_type": "Macro environmental / material texture insert",
+      "visual_beat": "Macro material study — hand-spun wool glowing like filament silver-gold",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_026/VAL-EP001-IMG0252.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2366145,
+      "md5": "0112767ed784f87b2a268799fdb44b3e",
+      "resolution": "1376x768",
+      "drive_file_id": "1c9Uwc2vx1cfDW-IQInqJyBliLMIeyUbL",
+      "drive_url": "https://drive.google.com/file/d/1c9Uwc2vx1cfDW-IQInqJyBliLMIeyUbL/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: hands only, calloused with rawhide wrist wraps, hank catching hard low sun; fibre reads as pale silver-gold shading to platinum white. Interior is a thatched-roof croft-like room, acceptable as a roundhouse interior, though the thatch must not be read as the exterior roof type."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0253",
+      "timestamp": "08:24–08:26",
+      "shot_lens": "CU · 85mm",
+      "narration_slice": "platinum white, and striking",
+      "shot_type": "Intimate close-up detail / expression beat",
+      "visual_beat": "Intimate close-up — platinum-white coiled hair, seventy-year-old clan woman",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_026/VAL-EP001-IMG0253.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2500469,
+      "md5": "5b72d1b047a54744e84a044835c15748",
+      "resolution": "1376x768",
+      "drive_file_id": "1Ww9bnQ1JNEAM1Tghb8SG7RvLzDuNGVs2",
+      "drive_url": "https://drive.google.com/file/d/1Ww9bnQ1JNEAM1Tghb8SG7RvLzDuNGVs2/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: pure bone-white hair with no grey or dye, deeply lined alabaster skin weathered ruddy, unmistakable violet iris crescent under a heavy lid, wholly unglamorous and unposed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0254",
+      "timestamp": "08:26–08:28",
+      "shot_lens": "DET · 100mm",
+      "narration_slice": "eyes of lilac, pale indigo,",
+      "shot_type": "Extreme close-up tactile / light study",
+      "visual_beat": "Extreme close-up iris study — lilac, pale indigo and amethyst",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_026/VAL-EP001-IMG0254.png",
+      "qc_status": "QC_REJECTED_RERENDER_REQUIRED",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2967486,
+      "md5": "a6a13fc3e617d630ff11774129206cb8",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_note": "REJECTED: the model drifted to a heavily stubbled adult male face with a dense brow and no temple braids, contradicting the 24-year-old clean-shaven herdsman, and the iris read as a synthetic lens-like purple. Awaiting rerender."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0255",
+      "timestamp": "08:28–08:30",
+      "shot_lens": "WS · 40mm",
+      "narration_slice": "and deep amethyst violet.",
+      "shot_type": "Transitional wide horizon / bridge framing",
+      "visual_beat": "Transitional wide at dusk — scattered clan along the crest, three cones and the sea",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_026/VAL-EP001-IMG0255.png",
+      "qc_status": "QC_REJECTED_RERENDER_REQUIRED",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2415303,
+      "md5": "0412c94aba7aedb5290b08ff1cf09a24",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_note": "REJECTED: the frame drifted to a posed cast procession walking in line toward camera, and the woman carrying the child is a strong likeness of a known screen actress. Both are episode-level prohibitions. Awaiting rerender."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0256",
+      "timestamp": "08:30–08:32",
+      "shot_lens": "LAM · 28mm",
+      "narration_slice": "Centuries later, awed outsiders would",
+      "shot_type": "Low-angle monumental architectural / geological framing",
+      "visual_beat": "Low-angle monumental framing — elder and young herdsman on a basalt shelf",
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_026/VAL-EP001-IMG0256.png",
+      "qc_status": "QC_REJECTED_RERENDER_REQUIRED",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2472445,
+      "md5": "d8e851390fb93399da64244b38761c49",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_note": "REJECTED: the elder shepherd's irises rendered pale blue-grey rather than indigo-violet, and the two-shot settled into a symmetrical heroic poster stance. Awaiting rerender."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0257",
+      "timestamp": "08:32–08:34",
+      "shot_lens": "OTS · 40mm",
+      "narration_slice": "call such beauty unearthly, almost",
+      "shot_type": "Over-the-shoulder depth perspective",
+      "visual_beat": "Over-the-shoulder — the young herdsman turning to answer, eyes narrowed to the light",
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_026/VAL-EP001-IMG0257.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2689433,
+      "md5": "07bdf697a89a519be900ea617734fb63",
+      "resolution": "1376x768",
+      "drive_file_id": "1RYh7D_27nWmtBD-LHJF2xg49eX_iojP7",
+      "drive_url": "https://drive.google.com/file/d/1RYh7D_27nWmtBD-LHJF2xg49eX_iojP7/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: elder's silver hair and sheepskin soft in the near foreground, young face sharp with unmistakable violet eyes, temple braids lifted by wind, wattle fold behind."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0258",
+      "timestamp": "08:34–08:36",
+      "shot_lens": "WS · 28mm",
+      "narration_slice": "more than human. Yet why",
+      "shot_type": "Deep-focus wide atmospheric composition",
+      "visual_beat": "Deep-focus wide — homestead ring, hurdle carried between the roundhouses",
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_026/VAL-EP001-IMG0258.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2771058,
+      "md5": "2f0b219c4bb49247bedb0060e1003646",
+      "resolution": "1376x768",
+      "drive_file_id": "1WS377NIjdbzuf-Hys2qY8wGzMB9_2BIy",
+      "drive_url": "https://drive.google.com/file/d/1WS377NIjdbzuf-Hys2qY8wGzMB9_2BIy/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: nine conical dark slate roofs on circular dry-stone basalt walls, children running ahead, wool beating at the left edge, cone smoking above. Continuity flag: the woman at the left edge wears a braided wool headband — that accessory has now recurred and must stay out of later frames."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0259",
+      "timestamp": "08:36–08:38",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "did a quiet community of",
+      "shot_type": "Ultra-wide establishing vista",
+      "visual_beat": "Ultra-wide establishing vista — the whole homestead in its green fold",
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_026/VAL-EP001-IMG0259.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2663618,
+      "md5": "14d82bd8f75857e3e0439c0c81e02623",
+      "resolution": "1376x768",
+      "drive_file_id": "1GUOrUsEG74uecYCslC3sINeGJptOCqHG",
+      "drive_url": "https://drive.google.com/file/d/1GUOrUsEG74uecYCslC3sINeGJptOCqHG/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: nine or ten round stone roofs in open wild pasture with no boundaries, tracks or walls in lines, three smoking cones on the horizon and the Summer Sea at far right; a crook leans on the near roundhouse wall."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0260",
+      "timestamp": "08:38–08:40",
+      "shot_lens": "MCU · 50mm",
+      "narration_slice": "isolated herdsmen bear features found",
+      "shot_type": "Medium close-up atmospheric focal beat",
+      "visual_beat": "Medium close-up — young herdsman at the fold gate, mid-thought, unimpressed",
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_026/VAL-EP001-IMG0260.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2572729,
+      "md5": "906e099a42986228e40be5d714cb1f08",
+      "resolution": "1376x768",
+      "drive_file_id": "1P7sokHuTbz8i9YchnRc4rZY_5euaeHsC",
+      "drive_url": "https://drive.google.com/file/d/1P7sokHuTbz8i9YchnRc4rZY_5euaeHsC/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: a working man interrupted rather than a posed hero, sharp chiselled features, two thin temple braids, saturated violet irises confirmed by eye crop, flock and cone behind."
+    }
+  ]
+}

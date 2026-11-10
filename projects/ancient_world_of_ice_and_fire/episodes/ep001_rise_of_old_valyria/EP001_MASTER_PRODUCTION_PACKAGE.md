@@ -6,7 +6,7 @@
 - **Visual Cadence:** **`30 images per minute`** (`1 image every 2.0 seconds` · **`1,050 total images`** across **`105 batches of 10`**)
 - **Locked Cinematic Visual Standard:** **65mm Live-Action / Physically Realistic 3D Historical Cinema** (*ARRI Alexa 65 · Panavision Primo Spherical Primes · Kodak Vision3 500T Grade: Warm Sandstone Highlights, Muted Archaeological Midtones, Deep Ink-Navy Shadows — calibrated to `The_Trojan_War_The_Legend_the_City_and_the_Evidence`*)
 - **Google Drive Master Archive:** `Game of thrones YT` (`1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo`)
-- **Current Gate Status:** **Batches 001–025 complete. `256 / 1,050` images are Drive-verified and visually QC-approved (`24.38%`). Next: Batch 026 (`08:20–08:40`).**
+- **Current Gate Status:** **Batches 001–025 complete. `256 / 1,050` images are Drive-verified and visually QC-approved (`24.38%`). Batch 026 (`08:20–08:40`) is open: six frames are approved and uploaded, four are held for rerender (`IMG0251`, `IMG0254`, `IMG0255`, `IMG0256`).**
 
 ---
 
