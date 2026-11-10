@@ -40,10 +40,11 @@
     32,
     33,
     34,
-    35
+    35,
+    36
   ],
-  "next_batch": 36,
-  "next_image_number": 351,
+  "next_batch": 37,
+  "next_image_number": 361,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1173,7 +1174,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": 36,
+  "in_progress_batch": 37,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1924,8 +1925,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-11T13:05:00Z",
-  "verified_progress_percent": 33.9,
+  "last_updated": "2026-11-11T15:20:00Z",
+  "verified_progress_percent": 34.86,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3621,7 +3622,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 356,
+  "verified_image_count": 366,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -6672,6 +6673,213 @@
       "drive_url": "https://drive.google.com/file/d/1L15pHZFT1vQ7pOjo1qjP2poWB2NQuiHV/view?usp=drivesdk",
       "md5": "b2a7cec3a09e34260860af489ec0358f",
       "size_bytes": 2052590,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_036_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_036_drive_folder_id": "1KvpZywicth-pVpwyAUwA8Amdh_kvpmQ_",
+  "batch_036_drive_verified_count": 10,
+  "batch_036_pending_rerender": [],
+  "batch_036_note": "The fire batch and the hinge of the chapter: 0351-0355 keep the old discipline (heat inside the animal), 0356-0360 turn the flame loose. The fire itself was the easy part — 0357 (macro jet with a black core), 0358 (blistering ledge, no body in frame) and 0359 (the seam opening) all passed first time by treating combustion as texture rather than as a light source. The cost was silhouette: 0355 collapsed the animal into a feathered fan at distance, and 0356 read as a bipedal fire demon until the glow was confined to the throat and the pose held in profile. Thirteen generations for ten frames.",
+  "batch_036_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0351",
+      "timestamp": "11:40–11:42",
+      "narration_slice": "and more supple than",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1z2kd9046Lkfoh8hxO0JpaJQl5KAw-HW2",
+      "drive_url": "https://drive.google.com/file/d/1z2kd9046Lkfoh8hxO0JpaJQl5KAw-HW2/view?usp=drivesdk",
+      "md5": "1f081be457485a55083d2b485432732e",
+      "size_bytes": 1364373,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0352",
+      "timestamp": "11:42–11:44",
+      "narration_slice": "forged steel. Beneath overlapping",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1Qk02RdGvOpHfZe7NP_BjwtEW0CibGjzS",
+      "drive_url": "https://drive.google.com/file/d/1Qk02RdGvOpHfZe7NP_BjwtEW0CibGjzS/view?usp=drivesdk",
+      "md5": "3fde7aba8dc075fa446025c462cccae3",
+      "size_bytes": 1429261,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0353",
+      "timestamp": "11:44–11:46",
+      "narration_slice": "scutes thicker than bronze shields",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1AoAjMbM0JuNTKRoaU2nipERjvkPmYq3c",
+      "drive_url": "https://drive.google.com/file/d/1AoAjMbM0JuNTKRoaU2nipERjvkPmYq3c/view?usp=drivesdk",
+      "md5": "0b4a5fedc43a118e634a096af28206b8",
+      "size_bytes": 1789466,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0354",
+      "timestamp": "11:46–11:48",
+      "narration_slice": "beat hearts hot enough",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "13rxXm1rNY3I762fcfHpV7Ohhv3oVmegb",
+      "drive_url": "https://drive.google.com/file/d/13rxXm1rNY3I762fcfHpV7Ohhv3oVmegb/view?usp=drivesdk",
+      "md5": "f4b583f0c9c5d99b93ae9a67dc42b20a",
+      "size_bytes": 1269881,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0355",
+      "timestamp": "11:48–11:50",
+      "narration_slice": "to hiss mountain dampness",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1mmg5omHiggXyBJGHToF_BQVKp43WZ_Sh",
+      "drive_url": "https://drive.google.com/file/d/1mmg5omHiggXyBJGHToF_BQVKp43WZ_Sh/view?usp=drivesdk",
+      "md5": "5719125ac25b17fc321a3bd602ccd2fc",
+      "size_bytes": 1957147,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0356",
+      "timestamp": "11:50–11:52",
+      "narration_slice": "into steam, before unleashing torrents",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1I_3FAq-mAgI8mH5-wAHCo-xzpAlGaVpF",
+      "drive_url": "https://drive.google.com/file/d/1I_3FAq-mAgI8mH5-wAHCo-xzpAlGaVpF/view?usp=drivesdk",
+      "md5": "836f5572b3ac6c007958208dde725de7",
+      "size_bytes": 1400675,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0357",
+      "timestamp": "11:52–11:54",
+      "narration_slice": "of orange-and-black flame fierce",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1zQE4ifr-HQODvKn3vPYWlXwQLwSywD7m",
+      "drive_url": "https://drive.google.com/file/d/1zQE4ifr-HQODvKn3vPYWlXwQLwSywD7m/view?usp=drivesdk",
+      "md5": "71bd74deda5020b2c222975c05aaeeb5",
+      "size_bytes": 2504336,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0358",
+      "timestamp": "11:54–11:56",
+      "narration_slice": "enough to reduce flesh",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1rr_Jhnv0gd1TZm9lznQ8XA74In-pL1B5",
+      "drive_url": "https://drive.google.com/file/d/1rr_Jhnv0gd1TZm9lznQ8XA74In-pL1B5/view?usp=drivesdk",
+      "md5": "bc79b402c80ed42558ce10f57e50f045",
+      "size_bytes": 1722686,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0359",
+      "timestamp": "11:56–11:58",
+      "narration_slice": "to ash and turn basalt",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1VCC2fwe5tT5g4qawi0z4Avm9dk2T3P6h",
+      "drive_url": "https://drive.google.com/file/d/1VCC2fwe5tT5g4qawi0z4Avm9dk2T3P6h/view?usp=drivesdk",
+      "md5": "ff5e80467ba1e41b3691348ddfb9fadb",
+      "size_bytes": 2306496,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0360",
+      "timestamp": "11:58–12:00",
+      "narration_slice": "ledges molten in seconds.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1A8Bxr_OcDMAJ9ugDI5YH4VqSic4POSlV",
+      "drive_url": "https://drive.google.com/file/d/1A8Bxr_OcDMAJ9ugDI5YH4VqSic4POSlV/view?usp=drivesdk",
+      "md5": "ecd203944b9d7307c896ee299dc5c704",
+      "size_bytes": 1771231,
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true

@@ -12,24 +12,20 @@
   "batch_timespan": "11:40–12:00",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "IN_PROGRESS_7_OF_10_APPROVED_UPLOADED",
-  "approved_count": 7,
-  "approved_uploaded_count": 7,
-  "drive_verified_count": 7,
-  "pending_rerender_count": 1,
-  "pending_generate_count": 2,
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0356",
-    "VAL-EP001-IMG0359",
-    "VAL-EP001-IMG0360"
-  ],
-  "generations_used": 10,
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "approved_uploaded_count": 10,
+  "drive_verified_count": 10,
+  "pending_rerender_count": 0,
+  "pending_generate_count": 0,
+  "pending_completion_scenes": [],
+  "generations_used": 13,
   "verified_episode_frames_after_batch": 366,
   "verified_episode_percent_after_batch": "34.86%",
-  "visual_qc_note": "The fire batch, and the first time the narration has demanded flame — which reverses four batches of discipline. The five body-and-air frames keep the old rule (heat inside the animal) and the three fire frames that passed treat combustion as texture rather than as a light source. 0357 and 0358 are the best of them: the jet studied as a black-cored macro, and the aftermath carried entirely by melting stone with no body in frame. The batch's cost is entirely silhouette: 0355 collapsed the animal into a feathered fan at distance, and 0356 turned it into a bipedal fire demon.",
+  "visual_qc_note": "The fire batch, and the first time the narration has demanded flame — reversing four batches of discipline in which fire was the thing to avoid. It closes cleanly: thirteen generations for ten frames, and the two fire inserts that carry the verse's destruction (0357's black-cored jet, 0358's blistering ledge with no body in frame) both landed first time. The cost was entirely silhouette: 0355 collapsed the animal into a feathered fan of plates at distance, and 0356 turned it into a bipedal fire demon. Both were cured compositionally rather than by negation.",
   "four_limb_note": "No limb-count failures this batch. Both rejections were silhouette legibility: a folded wing resolving as a ribbed fan at distance, and a reared neck with both wing-arms spread resolving as a bipedal figure. Limb number and silhouette legibility are separate checks and the second is now the harder one.",
   "letterbox_scan_note": "Per-row content-box scan run on every frame. 0356 and 0357 were full-bleed on arrival; 0351, 0352, 0353, 0354, 0357-pass-1 and 0358 carried strips (rows 12-755) and 0355 (rows 12-756); all cropped and resized back to 1376x768.",
-  "md5_verification_note": "All seven uploaded frames were checked against local md5sum at upload time; the folder will be re-listed for a full pass once the batch completes.",
+  "md5_verification_note": "All ten Drive checksums were re-listed from the folder after upload and match the local md5sum byte-for-byte (10/10).",
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0351",
@@ -155,11 +151,13 @@
       ],
       "file_path": "assets/batch_036/VAL-EP001-IMG0356.png",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "PENDING_RERENDER",
-      "qc_note": "REJECTED. The throat glow and the compact orange-and-black jet from the jaws are both right, and the flame reads as pressurised rather than explosive. The failure is the animal: reared vertical with both wing-arms flung out symmetrically to left and right, the ember-lit chest filling the lower frame like a torso, so the whole frame resolves as a bipedal fire demon. This is the third bipedal failure in two batches. Rerender as PROFILE with the neck raised up and to the right, glow confined to throat and under-jaw, and the neck rising out of a heavy horizontal body held low across the bottom third with a forelimb and the folded wing on the floor."
+      "drive_file_id": "1I_3FAq-mAgI8mH5-wAHCo-xzpAlGaVpF",
+      "drive_url": "https://drive.google.com/file/d/1I_3FAq-mAgI8mH5-wAHCo-xzpAlGaVpF/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 2. The breath, and the batch's most instructive fix. Seen in clean profile: the head and long neck are thrown back and up, the ember glow runs up the throat and under-jaw only, and a compact pressurised jet of orange-and-black fire spills from the parted jaws with black smoke curling above. The body stays low and horizontal across the bottom third with four planted limbs and the folded wing on the floor. Pass 1 was rejected for reading as a bipedal fire demon — reared vertical with both wing-arms flung out symmetrically and the ember-lit chest filling the frame like a torso. Confining the glow to the throat and holding the pose in profile solved both problems at once. Reframed rows 12-755.",
+      "md5": "836f5572b3ac6c007958208dde725de7",
+      "size_bytes": 1400675
     },
     {
       "scene_id": "VAL-EP001-IMG0357",
@@ -219,11 +217,13 @@
       ],
       "file_path": "assets/batch_036/VAL-EP001-IMG0359.png",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "QUEUED",
-      "qc_note": "Not yet generated — generation cap reached."
+      "drive_file_id": "1VCC2fwe5tT5g4qawi0z4Avm9dk2T3P6h",
+      "drive_url": "https://drive.google.com/file/d/1VCC2fwe5tT5g4qawi0z4Avm9dk2T3P6h/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Near-macro of basalt turning molten: a field of black blistered rock split by one open seam of glowing stone, the rock slumping and sagging either side, the surface passing from black through dull red into a hot orange core, vesicles catching their own glow, and matte grey ash flakes lifting and lying on the crust. Stone and heat only — no animal anywhere. Full-bleed.",
+      "md5": "ff5e80467ba1e41b3691348ddfb9fadb",
+      "size_bytes": 2306496
     },
     {
       "scene_id": "VAL-EP001-IMG0360",
@@ -239,11 +239,13 @@
       ],
       "file_path": "assets/batch_036/VAL-EP001-IMG0360.png",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "QUEUED",
-      "qc_note": "Not yet generated — generation cap reached."
+      "drive_file_id": "1A8Bxr_OcDMAJ9ugDI5YH4VqSic4POSlV",
+      "drive_url": "https://drive.google.com/file/d/1A8Bxr_OcDMAJ9ugDI5YH4VqSic4POSlV/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Transitional wide out of the chapter. A molten basalt shelf runs horizontally through the frame as the brightest element, its heart orange and its edges dull red, the ledges above it slumped. Beyond and above, the animal stands in silhouette on four limbs with its long neck rising out of the top edge so no head is visible, and one folded wing carried as a closed ribbed case. Thin black smoke crosses the middle. Reads as landscape and aftermath rather than a creature portrait. Reframed rows 12-755.",
+      "md5": "ecd203944b9d7307c896ee299dc5c704",
+      "size_bytes": 1771231
     }
   ]
 }

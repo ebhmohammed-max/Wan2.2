@@ -18,29 +18,32 @@
 - **Walls are a positive requirement** — matte black faceted basalt.
 - **Four limbs, stated as a count.**
 
-**Render/QC status:** **7 of 10 approved and uploaded · 1 rejected for rerender (`0356`) · 2 not yet generated (`0359`, `0360`).** The generation cap (10/turn) was hit; the remaining three need a fresh turn.
+**Render/QC status:** **COMPLETE — 10 of 10 approved, uploaded and MD5-verified on Drive.** Thirteen generations for ten frames: eight passed first time (`0351`, `0352`, `0353`, `0357`, `0358`, `0359`, `0360`, plus `0354`'s subject matter) and three needed a second pass (`0354`, `0355`, `0356`). All three rejections were value or silhouette failures, none anatomical.
 
 | Frame | Status | Note |
 | :--- | :--- | :--- |
 | `IMG0351` | ✅ Approved, uploaded | **Pass 1.** Lateral tracking MS: armour plates carried over fluid muscle, spine horizontal, ember fissures only in the seams, head and tail both out of frame. Reframed rows 12–755. |
 | `IMG0352` | ✅ Approved, uploaded | **Pass 1.** Over-lapped scutes stacking like hammered plate, worn iron-grey edges, one ember hairline deep in a join. Reframed rows 12–755. |
-| `IMG0353` | ✅ Approved, uploaded | **Pass 1.** Throat and chest: scutes broader than bronze shields, bronze-grey wear on the edges, internal ember heat between the rows, head out of frame above. Reframed rows 12–755. |
-| `IMG0354` | ✅ Approved, uploaded | **Pass 2.** Animal at rest on a shelf with sparse dark-grey vapour filaments peeling off the wet rock; four limbs and a folded wing legible. **Pass 1 was a white fog machine** — bright billowing cloud and pale rock, breaking the no-white rule at full volume. Reframed rows 12–755. |
-| `IMG0355` | ✅ Approved, uploaded | **Pass 2.** UWA high angle: caldera floor the size of a cathedral nave, animal about a fifth of frame width and still legible, folded wing a solid sheet. **Pass 1 failed twice over** — the animal collapsed into a ribbed fan of plates (the `0323`/`0330` feathered-wing failure) and the floor came back flat mid-grey instead of obsidian. Reframed rows 12–756. |
-| `IMG0356` | ❌ Rerender | The breath. Throat glowing up the neck and a compact orange-and-black jet from the jaws are both correct, but **the animal reads as a bipedal fire demon**: reared vertical, both wing-arms flung out symmetrically to left and right, ember-lit chest filling the lower frame like a torso. Third bipedal failure in two batches. |
-| `IMG0357` | ✅ Approved, uploaded | **Pass 1.** Macro of the flame itself: black dense core, translucent orange outer layers, fraying licks and black smoke, scorched jaw scutes lit at the edges. Full-bleed. |
-| `IMG0358` | ✅ Approved, uploaded | **Pass 1.** Aftermath insert: basalt blistering and slumping, one molten seam, matte grey ash flakes lifting. Deliberately contains no body of any kind. Reframed rows 12–755. |
-| `IMG0359` | ⏳ Queued | 100mm — basalt turning molten, the seam opening, stone slumping. No animal. |
-| `IMG0360` | ⏳ Queued | 40mm — transitional wide: molten ledges, animal in silhouette, neck out of frame, four limbs. |
+| `IMG0353` | ✅ Approved, uploaded | **Pass 1.** Throat and chest: scutes broader than bronze shields, bronze-grey wear, internal ember heat between the rows, head out of frame above. Reframed rows 12–755. |
+| `IMG0354` | ✅ Approved, uploaded | **Pass 2.** Animal at rest with sparse dark-grey vapour filaments peeling off the wet rock. **Pass 1 was a white fog machine.** Reframed rows 12–755. |
+| `IMG0355` | ✅ Approved, uploaded | **Pass 2.** UWA high angle, caldera floor scale, animal legible at a fifth of frame width. **Pass 1:** feathered fan of plates + flat mid-grey floor. Reframed rows 12–756. |
+| `IMG0356` | ✅ Approved, uploaded | **Pass 2.** The breath: profile, neck thrown back, glow confined to throat and under-jaw, compact orange-and-black jet, body low with four limbs. **Pass 1 was a bipedal fire demon.** Reframed rows 12–755. |
+| `IMG0357` | ✅ Approved, uploaded | **Pass 1.** Macro of the jet: dense black core, translucent orange layers, fraying licks, scorched jaw scutes lit at the edges. Full-bleed. |
+| `IMG0358` | ✅ Approved, uploaded | **Pass 1.** Aftermath insert: basalt blistering and slumping, one molten seam, matte grey ash. No body of any kind. Reframed rows 12–755. |
+| `IMG0359` | ✅ Approved, uploaded | **Pass 1.** 100mm near-macro of the seam opening, rock slumping, dull red into orange core, ash flakes on the crust. Full-bleed. |
+| `IMG0360` | ✅ Approved, uploaded | **Pass 1.** Transitional wide: molten ledge through the lower third, animal in silhouette on four limbs, neck out of frame top, folded wing closed. Reframed rows 12–755. |
 
-**Rerender brief for `IMG0356`:**
+**Rerender briefs that were used (all resolved):**
 
-1. **The animal is a four-legged beast, not a figure.** The failure is symmetrical limb spread plus a vertical torso. Rewrite as **profile**: head and neck raised high and angled **up and to the right**, the glow running up the **throat and under-jaw only** (pass 1 lit the whole chest like a furnace front), and the neck rising out of a **heavy horizontal body that stays low across the bottom third** with a forelimb and the folded wing resting on the floor. Negate explicitly: "no wide symmetrical arms-outstretched silhouette, no splayed limbs, no bipedal shape, no demon, no human-like torso". The flame stays a compact pressurised jet, not an explosion.
+1. **`IMG0354` — white fog machine.** Steam rewritten as "sparse thin filaments of dull grey, semi-transparent, a few dozen threads, never a cloud, never white", with the negatives "no white steam, no white smoke, no bright fog, no pale rock".
+2. **`IMG0355` — feathered wing and grey floor.** The folded wing written as "one unbroken dark membrane lying flat, one continuous smooth mass with no radiating lines" and negatives "no fan, no splayed ribbed plates, no feathered, no layered"; floor forced to "near-black obsidian, definitely not mid-grey".
+3. **`IMG0356` — bipedal fire demon.** Profile pose, head and neck thrown back and up and away, glow confined to "throat and under-jaw only", the neck rising out of "a heavy horizontal body held low across the bottom third", with the explicit negatives "no wide symmetrical arms-outstretched silhouette, no splayed limbs, no bipedal shape, no demon, no human-like torso, no lit ribcage across the front of the chest".
 
-**Lessons from this batch so far:**
+**Lessons from this batch to carry into 037:**
 
-1. **The biped is now the dominant failure and it has three triggers**: a body axis pointed at a low camera (`0341`), a wing membrane bulging across a chest (`0341`), and a raised neck with both wing-arms spread (`0356`). All three are silhouette problems, and all three are cured compositionally — by constraining the pose, never by negating anatomy.
-2. **Lit chest reads as torso.** In `0356` the internal ember network ran the full height of the chest and instantly became a humanoid ribcage. Internal heat must be localised to the throat and under-jaw when the animal rears.
-3. **Steam is the new white trap.** After a whole episode of ruling out snow and pale rock, water vapour is the thing that turns a black cave into a bright one. Sparse filaments, dark grey, never a cloud.
-4. **At distance, a folded wing grows ribs.** `0355` pass 1 reproduced the feathered fan from `0323` and `0330`; the fix is to call the folded wing "one unbroken dark membrane lying flat" and negate "fan, splayed ribbed plates, feathered, layered".
-5. **Fire is safer at macro than at scale.** `0357` and `0358` both passed first time because the flame is texture, not a light source for a whole cavern; the moment fire has to light an animal, it flattens the shadow structure and the silhouette suffers.
+1. **The biped now has four known triggers**: a body axis pointed at a low camera (`0341`), a wing membrane bulging across a chest (`0341`), a raised neck with both wing-arms spread (`0356`), and an ember-lit chest running the full height of the torso (`0356`). All four are silhouette problems with compositional cures — constrain the pose, localise the light.
+2. **Lit chest reads as ribcage.** Internal heat has to be *localised* (throat, under-jaw, one seam) the moment the animal rears; spread it across a chest and the frame becomes a humanoid.
+3. **Steam is the new white trap.** After ruling out snow and pale rock all episode, water vapour is what brightens a black cave. Sparse dark-grey filaments, never a cloud.
+4. **At distance, a folded wing grows ribs.** Third occurrence across the episode. Call it "one unbroken membrane lying flat" and negate fan/feathered/layered.
+5. **Fire is safest at macro, and safest of all with no animal in frame.** `0357`, `0358` and `0359` all passed first time because the flame is texture rather than a light source for a whole cavern. The moment fire must light the animal, it flattens the shadow structure and the silhouette suffers.
+6. **A value lock beats a value warning.** Every rejection this batch was cured by naming the *positive* target ("near-black obsidian", "dark grey filament", "glow under the jaw only") rather than adding another prohibition.
