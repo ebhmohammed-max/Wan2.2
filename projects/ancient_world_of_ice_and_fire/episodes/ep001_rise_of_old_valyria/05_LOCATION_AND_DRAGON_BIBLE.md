@@ -43,6 +43,16 @@
 - **`LOC-VAL-005` (Subterranean Mines):** Suffocating volcanic ore shafts veined with gold, silver, and copper; timber-and-chain winches over magma chasms; scalding red steam vents.
 - **`LOC-VAL-006` (Valyrian Dragonroad):** Arrow-straight, seamless fused grey-black stone highway raised six inches above lush green earth (*ADWD* Tyrion II).
 
+### 7. `QARTH-MYTHIC`: QARTH, THE QUEEN OF CITIES — THE STORYTELLERS' TERRACES *(Batches 041–043: `IMG0406–0430`)*
+- **Historical Period:** Ancient, fabulously wealthy Essoi merchant city, contemporaneous with pre-Doom Valyria; the eastern pole of the episode's trade world.
+- **Geography & Climate:** A hot, humid harbour city on the Strait of Qarth at the southern tip of Essos, built on terraces between the sea and dry hills; flat dark water, dense shipping, long still evenings.
+- **Palette — THE LOCK:** Everything is rendered in the **deep indigo and violet of late twilight**. Stone reads cool grey-lavender rather than warm sand. Light comes only from cold stars, two moons, and sparse **pale blue-white** street lamps or braziers burning **pale blue-white, never orange**. **No gold, no golden bazaars, no warm yellow light, no daylight blue sky.** Canon-readers expect a golden market; the production deliberately denies it, and every warm source must be explicitly negated in the prompt or the frame drifts to a generic desert port.
+- **Architecture:** Pale carved sandstone throughout, hot and ancient and ornate: monumental gate towers sheathed in **shallow geometric, vine and animal relief**, projecting tiered balconies, arched loggias and colonnades, lacquered wood screens, domes and needle-thin towers, sagging **silk awnings in violet, indigo and dull crimson** strung between poles. Carving is abstract — **never legible script, signage or numerals**.
+- **The terraces:** Raised roof terraces and palace balconies with low carved stone parapets, rugs on paving, low benches, lamp brackets and a view over the roofs to a harbour crowded with thin masts. These are the stage for the moon fable.
+- **TWO MOONS — CANON, AND ONLY HERE:** For the Qartheen fable the sky holds **two moons**: one large **silvery-cream** disc with a mottled grey surface, one smaller, duller **bronze-grey** disc. Both are pale, cold and **without halo, flare or glow**, photographed as objects in an indigo sky with cold stars. Their one fracture is a **branching shell crack filled with cold white-blue light**, never an explosion. **Two moons must never appear over Valyria or any other location.**
+- **People:** Qartheen merchants and listeners in long pale robes, draped violet and indigo silk, dark head-wraps, pale carved stone finger rings. **Anonymous by rule:** backs, shoulders, hands, a profile turned away — **never a portrait, never a face to the lens**. The storyteller is a voice: a back in batch 041, a shoulder and a pair of hands thereafter.
+- **Narration anchor:** *"Elsewhere in Essos, storytellers spun stranger fables. In the merchant palaces of Qarth, traders long repeated an enchanting myth: that two moons once hung above the earth…"*
+
 ---
 
 ## SECTION B — DRAGON & CREATURE CONTINUITY PROFILES

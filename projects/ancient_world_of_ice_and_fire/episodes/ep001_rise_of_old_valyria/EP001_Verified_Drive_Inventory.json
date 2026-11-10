@@ -46,10 +46,11 @@
     38,
     39,
     40,
-    41
+    41,
+    42
   ],
-  "next_batch": 42,
-  "next_image_number": 411,
+  "next_batch": 43,
+  "next_image_number": 421,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1930,8 +1931,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-11T19:40:00Z",
-  "verified_progress_percent": "39.62%",
+  "last_updated": "2026-11-11T21:10:00Z",
+  "verified_progress_percent": "40.57%",
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3627,7 +3628,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 416,
+  "verified_image_count": 426,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -7883,5 +7884,193 @@
   "batch_041_drive_verified_count": 10,
   "batch_041_pending_rerender": 0,
   "batch_041_note": "First perfect batch of the episode: ten generations for ten frames, no re-renders. 0401-0405 close the Valyrian claim in black rock and one contained ember line (0403 the best single object so far, a scaled egg-stone split in an ash cradle); 0406-0410 cut straight to QARTH-MYTHIC, a location new to the production, defined here in indigo and violet twilight with pale carved sandstone, silk awnings and cool blue-white lamps, and no warmth anywhere. 0410 gives the cracked-moon fable a prop: a cracked disc of polished stone in a storyteller's hands.",
-  "qarth_mythic_location_lock": "New location, no bible entry. Hot ancient ornate merchant city of pale carved sandstone with shallow relief carving, arched colonnades, tiered towers, lacquered wood and silk awnings in indigo and violet; rendered entirely in the deep indigo and violet of late twilight, lit by sparse pale blue-white lamps. No gold, no sun, no warm light, no daylight blue sky, no green grass, no modern forms, no legible script. Qartheen figures are anonymous: backs, shoulders, hands, never faces."
+  "qarth_mythic_location_lock": "New location, no bible entry. Hot ancient ornate merchant city of pale carved sandstone with shallow relief carving, arched colonnades, tiered towers, lacquered wood and silk awnings in indigo and violet; rendered entirely in the deep indigo and violet of late twilight, lit by sparse pale blue-white lamps. No gold, no sun, no warm light, no daylight blue sky, no green grass, no modern forms, no legible script. Qartheen figures are anonymous: backs, shoulders, hands, never faces.",
+  "batch_042_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0411",
+      "timestamp": "13:40–13:42",
+      "narration_slice": "hung above the earth,",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1PjvHLAlBCW0sMX5UK6cXHwP-7Fy1nVd5",
+      "drive_url": "https://drive.google.com/file/d/1PjvHLAlBCW0sMX5UK6cXHwP-7Fy1nVd5/view?usp=drivesdk",
+      "md5": "23743f058da6639d782fc47bf6fc2659",
+      "size_bytes": 2106636,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0412",
+      "timestamp": "13:42–13:44",
+      "narration_slice": "until one wandered too close",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1ULDou8cW_1Dgn2KcGpjZK0KbwJHYgC18",
+      "drive_url": "https://drive.google.com/file/d/1ULDou8cW_1Dgn2KcGpjZK0KbwJHYgC18/view?usp=drivesdk",
+      "md5": "23b93ac4dfa75cc2c0e76f10d264215d",
+      "size_bytes": 1080819,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0413",
+      "timestamp": "13:44–13:46",
+      "narration_slice": "to the sun and",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1zrAE9Gb111FcxDVNE4CUgqUQTOfe_-lX",
+      "drive_url": "https://drive.google.com/file/d/1zrAE9Gb111FcxDVNE4CUgqUQTOfe_-lX/view?usp=drivesdk",
+      "md5": "75b4ce2191df39244de99b661087c2b6",
+      "size_bytes": 1233475,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0414",
+      "timestamp": "13:46–13:48",
+      "narration_slice": "cracked from the heat like",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1z7idumSGxR3WpwP0aA-3dfi-tCJc6ygp",
+      "drive_url": "https://drive.google.com/file/d/1z7idumSGxR3WpwP0aA-3dfi-tCJc6ygp/view?usp=drivesdk",
+      "md5": "6aae0111b70c8f146fc03146113e1225",
+      "size_bytes": 1170755,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0415",
+      "timestamp": "13:48–13:50",
+      "narration_slice": "a giant egg, spilling",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1jH_HPdlkfFeqmyrsXk3fjdALdNXYtBpr",
+      "drive_url": "https://drive.google.com/file/d/1jH_HPdlkfFeqmyrsXk3fjdALdNXYtBpr/view?usp=drivesdk",
+      "md5": "748a246e532a0059483691688b321fbe",
+      "size_bytes": 1192100,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0416",
+      "timestamp": "13:50–13:52",
+      "narration_slice": "a thousand thousand dragons across",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1IS6DwrdXE3rex7JGkLG4S0UIHcVXiyv2",
+      "drive_url": "https://drive.google.com/file/d/1IS6DwrdXE3rex7JGkLG4S0UIHcVXiyv2/view?usp=drivesdk",
+      "md5": "14a2c10fe15c28718eec894dc3442cf0",
+      "size_bytes": 2043274,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0417",
+      "timestamp": "13:52–13:54",
+      "narration_slice": "the heavens after they",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1Cui-L_jqYXSimAt0Qrx4px15pky-87Fn",
+      "drive_url": "https://drive.google.com/file/d/1Cui-L_jqYXSimAt0Qrx4px15pky-87Fn/view?usp=drivesdk",
+      "md5": "90f4d7e89173d165ecbab364285e0280",
+      "size_bytes": 2345740,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0418",
+      "timestamp": "13:54–13:56",
+      "narration_slice": "had drunk the sun's own",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1sMvOySXgzUFrQc21c-56JfVOPRcw8lO3",
+      "drive_url": "https://drive.google.com/file/d/1sMvOySXgzUFrQc21c-56JfVOPRcw8lO3/view?usp=drivesdk",
+      "md5": "8d8c4a2c730f60ad8dc321a25b07f3c6",
+      "size_bytes": 2001526,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0419",
+      "timestamp": "13:56–13:58",
+      "narration_slice": "fire. Maesters of the",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1-QxxvWYIKLqxsDGh80E9LvrOc7BWtCdU",
+      "drive_url": "https://drive.google.com/file/d/1-QxxvWYIKLqxsDGh80E9LvrOc7BWtCdU/view?usp=drivesdk",
+      "md5": "6bdca5996086bfbd6990ec9c4e1e57ea",
+      "size_bytes": 1212538,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0420",
+      "timestamp": "13:58–14:00",
+      "narration_slice": "Citadel understandably dismissed such poetry.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1BBQPb4Sf52YBzdYp5PzREFe8KU8fHtFb",
+      "drive_url": "https://drive.google.com/file/d/1BBQPb4Sf52YBzdYp5PzREFe8KU8fHtFb/view?usp=drivesdk",
+      "md5": "749d19693fe626e9defb9920ea3cbe0d",
+      "size_bytes": 1889147,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_042_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_042_drive_folder_id": "1WS3SDLpvsAo1JAs-bb2-RoW1DrfyWrzK",
+  "batch_042_drive_verified_count": 10,
+  "batch_042_pending_rerender": 0,
+  "batch_042_note": "The fable's climax. 0411 the teller and his listeners; 0412-0415 two moons over Qarth at four scales; 0416 the crack - a shell splitting along a branching fracture, cold white-blue, never an explosion; 0417 chalky shell shards on the paving; 0418 a listener's awe; 0419 the myth back in weathered hands; 0420 the empty terrace and the split moon. All ten approved pass 1, rendered twice after a sandbox reset destroyed the first set.",
+  "qarth_two_moons_note": "Two moons are canon for the Qartheen fable from batch 042 onward and must not appear in any other location's sky. They are material objects: one large silvery-cream with a mottled grey surface, one smaller duller bronze-grey, both pale and cold with no halo, in an indigo sky. Their fracture is a branching shell crack filled with cold white-blue light."
 }
