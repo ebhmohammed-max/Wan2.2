@@ -146,7 +146,10 @@ projects/ancient_world_of_ice_and_fire/
 
 | Episode | Title | Duration | Total Frames (`30/min`) | Completed Batches | Completed Frames | Next Queued Batch |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–015 (`150/150`)** (`00:00–05:00`) | **150 / 1,050** (`14.29%`) | **Batch 016** (`05:00–05:20`) |
+| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–019 (`190/190`)** (`00:00–06:20`) | **190 / 1,050** (`18.10%`) | **Batch 020** (`06:20–06:40`) |
 
 
-**Current progress note (2026-11-09):** 190/1,050 images are in Drive (Batches 001–019 complete). All new frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after visual-QC correction; IMG0129 was reframed to remove letterbox strips; IMG0160 and IMG0171 were reframed during QC.
+**Current progress note (2026-11-09):** 190/1,050 images are in Drive (Batches 001–019 complete). All new frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after visual-QC correction; IMG0129 was reframed to remove letterbox strips; IMG0171 was reframed during QC. IMG0160 remains unresolved: its top-left crop was rejected; restore or regenerate the original composition, resizing only if appropriate.
+
+
+**Batch 020 preparation:** Prompts and manifest are ready for `IMG0191–IMG0200` (`06:20–06:40`); Drive folder: `https://drive.google.com/drive/folders/1qGCm4kPxpOzc9x5Befotaj1Vq42xxkhO`. Rendering and QC are pending.

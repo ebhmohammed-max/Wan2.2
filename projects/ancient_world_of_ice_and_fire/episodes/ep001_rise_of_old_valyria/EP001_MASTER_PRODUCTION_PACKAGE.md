@@ -3286,3 +3286,8 @@ Batch 018 (`IMG0171–IMG0180`, `05:40–06:00`) is complete: ten frames transit
 ## Production Continuation — Batch 019 (2026-11-09)
 
 Batch 019 (`IMG0181–IMG0190`, `06:00–06:20`) is complete: ten frames move from a mariner’s austere offshore impression to olive groves, hot springs and exceptionally fertile mineral-rich ash soil. All ten were visually reviewed, uploaded to Drive folder `1p60C66cm_rEKBz3fw3RxgiyRFSopKWdl`, and MD5-verified as `1376×768` sRGB PNGs. Verified progress is **190/1,050 (18.10%)**; next queued batch is 020 (`06:20–06:40`).
+
+
+## Production Continuation — Batch 020 prepared (2026-11-09)
+
+Batch 020 (`IMG0191–IMG0200`, `06:20–06:40`) prompts and manifest are prepared. The sequence carries the fertile volcanic foothills through olives, figs and hot springs, then descends into natural, unworked ore veins beneath the Fourteen Flames. Drive folder: `https://drive.google.com/drive/folders/1qGCm4kPxpOzc9x5Befotaj1Vq42xxkhO`. Rendering, visual review, image upload and checksum verification remain pending; no Batch 020 frames are counted complete. **Open correction:** IMG0160 remains unresolved. The user rejected its top-left crop and prefers the original framing; restore or regenerate the original composition (resizing only if appropriate), then review and replace the Drive asset without treating the crop as approved.
