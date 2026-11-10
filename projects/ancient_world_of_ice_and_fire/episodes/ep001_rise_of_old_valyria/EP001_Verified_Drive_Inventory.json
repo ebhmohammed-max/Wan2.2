@@ -45,10 +45,11 @@
     37,
     38,
     39,
-    40
+    40,
+    41
   ],
-  "next_batch": 41,
-  "next_image_number": 401,
+  "next_batch": 42,
+  "next_image_number": 411,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1929,8 +1930,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-11T19:05:00Z",
-  "verified_progress_percent": "38.67%",
+  "last_updated": "2026-11-11T19:40:00Z",
+  "verified_progress_percent": "39.62%",
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3626,7 +3627,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 406,
+  "verified_image_count": 416,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -7690,5 +7691,197 @@
   "batch_040_drive_folder_id": "1iRRTfuhPdsoWYHhkhxi8z80B4yHsnT6c",
   "batch_040_drive_verified_count": 10,
   "batch_040_pending_rerender": 0,
-  "batch_040_note": "The myth movement, in LOC-VAL-001, and the batch that found its visual language: heat as a single contained line inside black rock, never a fire. Eleven generations for ten frames. 0394 is the best landscape of the production, four cones stacked in haze with emerald valleys between them; 0397 is the batch's argument, a horned head emerging out of the rock lit only by an ember rim; 0396 solves the animal problem by showing only its wing shadow on a colonnade of basalt. 0398 needed a second pass because its tucked limbs read as three gripping feet and its neck had gone serpentine at 2x."
+  "batch_040_note": "The myth movement, in LOC-VAL-001, and the batch that found its visual language: heat as a single contained line inside black rock, never a fire. Eleven generations for ten frames. 0394 is the best landscape of the production, four cones stacked in haze with emerald valleys between them; 0397 is the batch's argument, a horned head emerging out of the rock lit only by an ember rim; 0396 solves the animal problem by showing only its wing shadow on a colonnade of basalt. 0398 needed a second pass because its tucked limbs read as three gripping feet and its neck had gone serpentine at 2x.",
+  "batch_041_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0401",
+      "timestamp": "13:20–13:22",
+      "narration_slice": "they proclaimed, were the",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1jAU79U0MwmMwFI_XnzxKIszryGqAutnd",
+      "drive_url": "https://drive.google.com/file/d/1jAU79U0MwmMwFI_XnzxKIszryGqAutnd/view?usp=drivesdk",
+      "md5": "0f3c86729d9242f2ad2737d03f5e987a",
+      "size_bytes": 2123225,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0402",
+      "timestamp": "13:22–13:24",
+      "narration_slice": "literal children of the",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1cZoK32IheO4Ou4cR2p0oBXTSLKyOjvgk",
+      "drive_url": "https://drive.google.com/file/d/1cZoK32IheO4Ou4cR2p0oBXTSLKyOjvgk/view?usp=drivesdk",
+      "md5": "2b5e16f9c6162575d15aa5dbd5a6156d",
+      "size_bytes": 2404932,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0403",
+      "timestamp": "13:24–13:26",
+      "narration_slice": "Fourteen Flames—born directly from the",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1TYDcy_yHkwgyvMp15MNpj1-YJQzAEk2m",
+      "drive_url": "https://drive.google.com/file/d/1TYDcy_yHkwgyvMp15MNpj1-YJQzAEk2m/view?usp=drivesdk",
+      "md5": "3c3b9e4973335641cfe28d0d18cbb7a6",
+      "size_bytes": 1627432,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0404",
+      "timestamp": "13:26–13:28",
+      "narration_slice": "womb of the volcanoes,",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1bPBsmo1ZivH4rDDPuo6DPAwuTx-VluCB",
+      "drive_url": "https://drive.google.com/file/d/1bPBsmo1ZivH4rDDPuo6DPAwuTx-VluCB/view?usp=drivesdk",
+      "md5": "7b3cbc0f27aa3dde7a020f6c3a01915e",
+      "size_bytes": 2254661,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0405",
+      "timestamp": "13:28–13:30",
+      "narration_slice": "bestowed uniquely upon Valyria.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1Uru2ZILevbPma3rVxPovThelvUrqpUAX",
+      "drive_url": "https://drive.google.com/file/d/1Uru2ZILevbPma3rVxPovThelvUrqpUAX/view?usp=drivesdk",
+      "md5": "bb6793bb306efc5044793ecfda0014b6",
+      "size_bytes": 1412073,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0406",
+      "timestamp": "13:30–13:32",
+      "narration_slice": "Elsewhere in Essos, storytellers spun",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1wWpT9Xk5gaUGQUA7b6Lw80bayD5yGzpJ",
+      "drive_url": "https://drive.google.com/file/d/1wWpT9Xk5gaUGQUA7b6Lw80bayD5yGzpJ/view?usp=drivesdk",
+      "md5": "ffe405e1181b7cfb1724d17fae0bba65",
+      "size_bytes": 2373607,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0407",
+      "timestamp": "13:32–13:34",
+      "narration_slice": "stranger fables. In the",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1HJyxRCcuX7KvtbQAGTNQ3ZKhEvdwHDlD",
+      "drive_url": "https://drive.google.com/file/d/1HJyxRCcuX7KvtbQAGTNQ3ZKhEvdwHDlD/view?usp=drivesdk",
+      "md5": "0836d0cdf86e4a930538317041629a47",
+      "size_bytes": 1297934,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0408",
+      "timestamp": "13:34–13:36",
+      "narration_slice": "merchant palaces of Qarth, traders",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "13ROLlNIbQ_cMOxqCjx7niLqpS0wdcwM8",
+      "drive_url": "https://drive.google.com/file/d/13ROLlNIbQ_cMOxqCjx7niLqpS0wdcwM8/view?usp=drivesdk",
+      "md5": "14517179caca0712a191da19e6e17547",
+      "size_bytes": 2558137,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0409",
+      "timestamp": "13:36–13:38",
+      "narration_slice": "long repeated an enchanting",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "13NlV57nAYeYw5wEdP73QOCGKOqGznkNf",
+      "drive_url": "https://drive.google.com/file/d/13NlV57nAYeYw5wEdP73QOCGKOqGznkNf/view?usp=drivesdk",
+      "md5": "2382325fda16317d1098aac8cbbfa9db",
+      "size_bytes": 2283897,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0410",
+      "timestamp": "13:38–13:40",
+      "narration_slice": "myth: that two moons once",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1FMtful-GBZv5VqJI0Sg846qU6WcRBnmJ",
+      "drive_url": "https://drive.google.com/file/d/1FMtful-GBZv5VqJI0Sg846qU6WcRBnmJ/view?usp=drivesdk",
+      "md5": "c40d9011dab73a8bdfd56d8850ba781b",
+      "size_bytes": 2498460,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_041_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_041_drive_folder_id": "1Qe46wSukiOYhhKPExnFtXgy3A_NOpvz1",
+  "batch_041_drive_verified_count": 10,
+  "batch_041_pending_rerender": 0,
+  "batch_041_note": "First perfect batch of the episode: ten generations for ten frames, no re-renders. 0401-0405 close the Valyrian claim in black rock and one contained ember line (0403 the best single object so far, a scaled egg-stone split in an ash cradle); 0406-0410 cut straight to QARTH-MYTHIC, a location new to the production, defined here in indigo and violet twilight with pale carved sandstone, silk awnings and cool blue-white lamps, and no warmth anywhere. 0410 gives the cracked-moon fable a prop: a cracked disc of polished stone in a storyteller's hands.",
+  "qarth_mythic_location_lock": "New location, no bible entry. Hot ancient ornate merchant city of pale carved sandstone with shallow relief carving, arched colonnades, tiered towers, lacquered wood and silk awnings in indigo and violet; rendered entirely in the deep indigo and violet of late twilight, lit by sparse pale blue-white lamps. No gold, no sun, no warm light, no daylight blue sky, no green grass, no modern forms, no legible script. Qartheen figures are anonymous: backs, shoulders, hands, never faces."
 }
