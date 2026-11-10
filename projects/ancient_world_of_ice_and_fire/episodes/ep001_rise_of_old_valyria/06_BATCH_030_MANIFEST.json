@@ -1,0 +1,236 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "13OX8F00yUGUB4cXK7WndAHVN4gcBy0Tv",
+  "batch_number": 30,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "09:40–10:00",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "IN_PROGRESS_8_OF_10_APPROVED_UPLOADED_2_RERENDER_PENDING",
+  "pending_completion_scenes": [
+    "VAL-EP001-IMG0291",
+    "VAL-EP001-IMG0300"
+  ],
+  "pending_reasons": {
+    "VAL-EP001-IMG0291": "The young herdsman came back with warm light-brown hair and a soft, almost feminine face, breaking the single most load-bearing trait in the episode — the Valyrian silver-gold/blond lock — and drifting toward the actress-likeness failure seen in Batches 026 and 027. Must be rerendered with explicitly cool platinum silver-white hair, a harder angular male jawline and the face never square to camera.",
+    "VAL-EP001-IMG0300": "The elder is back in an ankle-length flared coat with the hood UP and a pale fur mantle, which is the exact Batch 029 failure recurring: the silhouette reads as a figure in a long modern coat rather than a 48-year-old flocksman in a knee-length felted cloak. Must be rerendered with a hoodless head, a knee-length cloak stopping above the boot tops, matte ash-white hair visible from behind, and a broad male shoulder line."
+  },
+  "visual_qc_note": "Eight of ten frames passed visual review, are 1376x768 sRGB PNGs, are uploaded to Drive folder 13OX8F00yUGUB4cXK7WndAHVN4gcBy0Tv and each Drive MD5 matches its local file. IMG0300 was reframed from a 1376x744 image area to full-bleed 1376x768 to strip 12 px letterbox bars before review. Two frames are held for rerender for the reasons in pending_reasons. Director's boundaries held across all ten: no cave interior, cavern mouth, tunnel or vent interior is shown; no sheep is taken on camera; no bones, blood or struggle appear before IMG0299's ambiguous skull; and no dragon or dragon-sign appears anywhere.",
+  "verified_episode_frames_after_batch": 296,
+  "verified_episode_percent_after_batch": "28.19%",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0291",
+      "timestamp": "09:40–09:42",
+      "narration_slice": "shun the sulfurous vents",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_030/VAL-EP001-IMG0291.png",
+      "qc_status": "HELD_FOR_RERENDER"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0292",
+      "timestamp": "09:42–09:44",
+      "narration_slice": "above the tree line. Yet",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_030/VAL-EP001-IMG0292.png",
+      "drive_file_id": "1o7eRqnBblFt_aZKhe8g5_xgBhF1uJhC5",
+      "drive_url": "https://drive.google.com/file/d/1o7eRqnBblFt_aZKhe8g5_xgBhF1uJhC5/view?usp=drivesdk",
+      "md5": "1c6a4ec8c827029d94f9764754cb462e",
+      "size_bytes": 2275519,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. Telephoto at 65mm, head fully away with only jaw and ear showing; hair loose and unplaited — no scalp braid. Faint coloured blobs in the far background are out-of-focus pasture flowers, acceptable at this blur."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0293",
+      "timestamp": "09:44–09:46",
+      "narration_slice": "seasons turn, flocks stray",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_030/VAL-EP001-IMG0293.png",
+      "drive_file_id": "1vggUU72oiGvybah97jJy4PYUwjI4jJEM",
+      "drive_url": "https://drive.google.com/file/d/1vggUU72oiGvybah97jJy4PYUwjI4jJEM/view?usp=drivesdk",
+      "md5": "6e9ba5b4ebc3340b0e5b8da7340787da",
+      "size_bytes": 2837368,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. The ewe at the mineral lick carries the compulsion beat entirely; lamb behind, two more sheep already climbing. No people, no props."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0294",
+      "timestamp": "09:46–09:48",
+      "narration_slice": "toward high mineral licks, and",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_030/VAL-EP001-IMG0294.png",
+      "drive_file_id": "1DQk1mfwsGymPWOR7ul2c-T47yzhSOSns",
+      "drive_url": "https://drive.google.com/file/d/1DQk1mfwsGymPWOR7ul2c-T47yzhSOSns/view?usp=drivesdk",
+      "md5": "22d6c4060735b09d06b7912c159a42d5",
+      "size_bytes": 2628936,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. Four or five clanfolk working the flock back, no two doing the same thing and none lined up; long unplaited silver-white hair on every head, no black clothing. The child with the crook keeps the community readable as a whole people rather than a cast."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0295",
+      "timestamp": "09:48–09:50",
+      "narration_slice": "bold young herdsmen inevitably",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_030/VAL-EP001-IMG0295.png",
+      "drive_file_id": "1JMqBr1HMUvTPxD-ydqh7V7cbnHP8dTLT",
+      "drive_url": "https://drive.google.com/file/d/1JMqBr1HMUvTPxD-ydqh7V7cbnHP8dTLT/view?usp=drivesdk",
+      "md5": "ef541412e070009dd548c1d4908a6d42",
+      "size_bytes": 2434482,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. Scale reveal: flock as pale seeds, a dozen steaming vents, and one tiny figure alone on the black ground at the right edge."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0296",
+      "timestamp": "09:50–09:52",
+      "narration_slice": "climb higher than their",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_030/VAL-EP001-IMG0296.png",
+      "drive_file_id": "1fSg2M5ovuDemx8knqak5y7AicPw1JrMy",
+      "drive_url": "https://drive.google.com/file/d/1fSg2M5ovuDemx8knqak5y7AicPw1JrMy/view?usp=drivesdk",
+      "md5": "21c8dfb684b5bb066110c1a35316ef43",
+      "size_bytes": 2627251,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. Raw broken basalt and scree with sulphur above; no cut steps, no coursed blocks, no cave. Hair loose, no braid."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0297",
+      "timestamp": "09:52–09:54",
+      "narration_slice": "fathers dared—up into the black",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_030/VAL-EP001-IMG0297.png",
+      "drive_file_id": "1E3V2v132H3vJuhD-UgJqtsKA8UiBLUQr",
+      "drive_url": "https://drive.google.com/file/d/1E3V2v132H3vJuhD-UgJqtsKA8UiBLUQr/view?usp=drivesdk",
+      "md5": "3cb17b8a370b67bc91f3074a3730d157",
+      "size_bytes": 2919922,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. Sulphur crust, one recent hoofprint and two strands of wool — the evidence beat without a body. No bones here, so the skull in IMG0299 still lands as a separate revelation."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0298",
+      "timestamp": "09:54–09:56",
+      "narration_slice": "basalt throats of the",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_030/VAL-EP001-IMG0298.png",
+      "drive_file_id": "1MKHjh8bdSwKBFluTXZ3yfv6DdGPNYd1h",
+      "drive_url": "https://drive.google.com/file/d/1MKHjh8bdSwKBFluTXZ3yfv6DdGPNYd1h/view?usp=drivesdk",
+      "md5": "6065983680ae342e1a8b4cdbecae664d",
+      "size_bytes": 2531678,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass with a continuity flag. The grief beat works and the eyes stay shut and shadowed, but the hair reads darker and more ash-blond here than the silver-white in IMG0296 — inside the range, but this is now the third batch in which hair tone drifts frame to frame and it needs a single explicit value in Batch 031."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0299",
+      "timestamp": "09:56–09:58",
+      "narration_slice": "Fourteen Flames, where sheep began",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_030/VAL-EP001-IMG0299.png",
+      "drive_file_id": "1jIOFwXqpgIOZgPFX6FFqBNlXARwJOL5H",
+      "drive_url": "https://drive.google.com/file/d/1jIOFwXqpgIOZgPFX6FFqBNlXARwJOL5H/view?usp=drivesdk",
+      "md5": "817080523637d27974bef1a34bd5e92a",
+      "size_bytes": 2429074,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. Sun-bleached horned skull on wet black basalt, no flesh, no blood, no tooth or drag marks: reads as weather, a fall, or something older. Nothing points at a dragon, which is correct — DRG-VAL-001 is not revealed until Batch 032."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0300",
+      "timestamp": "09:58–10:00",
+      "narration_slice": "vanishing without a trace.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_030/VAL-EP001-IMG0300.png",
+      "qc_status": "HELD_FOR_RERENDER"
+    }
+  ]
+}

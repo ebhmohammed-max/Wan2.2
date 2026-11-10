@@ -132,7 +132,8 @@
     "batch_026": "https://drive.google.com/drive/folders/1C-0rzizehths1tSA0As1NXfVJRW81y0G",
     "batch_027": "https://drive.google.com/drive/folders/1r9uwSLfYkNeHxU9J48g0ZBF5Txwe1wgO",
     "batch_028": "https://drive.google.com/drive/folders/1VpOcpUx4CFeqhs9Yklgm3_ezzixvRQSM",
-    "batch_029": "https://drive.google.com/drive/folders/1wAKHTfOOyFxJSW0KL9_ma1pn2sJO283F"
+    "batch_029": "https://drive.google.com/drive/folders/1wAKHTfOOyFxJSW0KL9_ma1pn2sJO283F",
+    "batch_030": "https://drive.google.com/drive/folders/13OX8F00yUGUB4cXK7WndAHVN4gcBy0Tv"
   },
   "batch_001_images_65mm_upgraded": [
     {
@@ -5433,5 +5434,6 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
     }
-  ]
+  ],
+  "batch_030_status": "IN_PROGRESS_8_OF_10_APPROVED_UPLOADED_2_RERENDER_PENDING"
 }
