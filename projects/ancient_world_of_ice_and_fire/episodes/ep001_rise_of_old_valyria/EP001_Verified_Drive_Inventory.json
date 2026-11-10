@@ -44,10 +44,11 @@
     36,
     37,
     38,
-    39
+    39,
+    40
   ],
-  "next_batch": 40,
-  "next_image_number": 391,
+  "next_batch": 41,
+  "next_image_number": 401,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1928,8 +1929,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-11T18:35:00Z",
-  "verified_progress_percent": "37.71%",
+  "last_updated": "2026-11-11T19:05:00Z",
+  "verified_progress_percent": "38.67%",
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3625,7 +3626,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 396,
+  "verified_image_count": 406,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -7494,5 +7495,200 @@
   "batch_039_drive_folder_id": "1H-Pvs5y4gn7Uhh_-z8NI38wqgMBKEbY-",
   "batch_039_drive_verified_count": 10,
   "batch_039_pending_rerender": 0,
-  "batch_039_note": "Single-location caldera batch, the cleanest of them: eleven generations for ten frames and nine first-pass approvals. 0381 is now the definitive dragon frame of the production, an adult loping on two taloned hind legs with wings as counterbalance. The hatching sequence escalates by scale rather than detail: eggs as objects, eggs against the columnar wall, a claw through the split shell, a head-and-shoulder portrait of the newborn, the folded wet wing, then the hatchling alone on the rim at two percent of frame. Only 0388 needed a second pass, because a whole newborn animal described alone comes back as a figurine; the fix was to shoot it as a portrait."
+  "batch_039_note": "Single-location caldera batch, the cleanest of them: eleven generations for ten frames and nine first-pass approvals. 0381 is now the definitive dragon frame of the production, an adult loping on two taloned hind legs with wings as counterbalance. The hatching sequence escalates by scale rather than detail: eggs as objects, eggs against the columnar wall, a claw through the split shell, a head-and-shoulder portrait of the newborn, the folded wet wing, then the hatchling alone on the rim at two percent of frame. Only 0388 needed a second pass, because a whole newborn animal described alone comes back as a figurine; the fix was to shoot it as a portrait.",
+  "batch_040_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0391",
+      "timestamp": "13:00–13:02",
+      "narration_slice": "Still, a deeper question",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1ipNTrOtySBgREb1lgvEheGJ77lpIQaUj",
+      "drive_url": "https://drive.google.com/file/d/1ipNTrOtySBgREb1lgvEheGJ77lpIQaUj/view?usp=drivesdk",
+      "md5": "5efd7cb55dcf76e6b548a96459f49d3e",
+      "size_bytes": 2573896,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0392",
+      "timestamp": "13:02–13:04",
+      "narration_slice": "haunted later historians who",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1-3sKdLPBlViiSftiF6ECW1VOK0fT_TwF",
+      "drive_url": "https://drive.google.com/file/d/1-3sKdLPBlViiSftiF6ECW1VOK0fT_TwF/view?usp=drivesdk",
+      "md5": "2bdb6a53b297d791f7f06a10f9c48fe5",
+      "size_bytes": 2115938,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0393",
+      "timestamp": "13:04–13:06",
+      "narration_slice": "looked back upon those caverns:",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1o-24n33Gz_1MtxDhFhhRywfVlwI9MqJf",
+      "drive_url": "https://drive.google.com/file/d/1o-24n33Gz_1MtxDhFhhRywfVlwI9MqJf/view?usp=drivesdk",
+      "md5": "52d4da70856f2b40fd2ddafb91ff0c81",
+      "size_bytes": 2215882,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0394",
+      "timestamp": "13:06–13:08",
+      "narration_slice": "how had dragons come",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1nlHQM_1LVeaTCh4ut1rbk7poFOBlo_Y7",
+      "drive_url": "https://drive.google.com/file/d/1nlHQM_1LVeaTCh4ut1rbk7poFOBlo_Y7/view?usp=drivesdk",
+      "md5": "14b5d336e1eafa48902dd0c29c410923",
+      "size_bytes": 1843258,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0395",
+      "timestamp": "13:08–13:10",
+      "narration_slice": "to dwell inside the",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1-j8zoEhJXxu7bJJiH6BzDmXE7vnjX2al",
+      "drive_url": "https://drive.google.com/file/d/1-j8zoEhJXxu7bJJiH6BzDmXE7vnjX2al/view?usp=drivesdk",
+      "md5": "2b0273ee0f48984e0e9055b8a0c6852f",
+      "size_bytes": 1511008,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0396",
+      "timestamp": "13:10–13:12",
+      "narration_slice": "Fourteen Flames at all?",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1qnDJtLDaBFTQVm6KxoAsyIfv7091LzZ3",
+      "drive_url": "https://drive.google.com/file/d/1qnDJtLDaBFTQVm6KxoAsyIfv7091LzZ3/view?usp=drivesdk",
+      "md5": "1e0177681910b73c3ace9d10e5b5926a",
+      "size_bytes": 2311592,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0397",
+      "timestamp": "13:12–13:14",
+      "narration_slice": "When Valyria stood at",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1lhYYzG4WRQkrcXOk4sgFB3zjplWmiyww",
+      "drive_url": "https://drive.google.com/file/d/1lhYYzG4WRQkrcXOk4sgFB3zjplWmiyww/view?usp=drivesdk",
+      "md5": "aa83c029c1f1f6e871e3e9ff2f49ff4a",
+      "size_bytes": 1752527,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0398",
+      "timestamp": "13:14–13:16",
+      "narration_slice": "the height of its pride,",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1hLfyEo2eXapLu28yR8mXpQpQAYlkSj_l",
+      "drive_url": "https://drive.google.com/file/d/1hLfyEo2eXapLu28yR8mXpQpQAYlkSj_l/view?usp=drivesdk",
+      "md5": "5d0ac55403fdef2927d44b0b96fcb41e",
+      "size_bytes": 1408096,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0399",
+      "timestamp": "13:16–13:18",
+      "narration_slice": "its dragonlords offered a",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1M6-py87rP3hrfIwkYO07t6wAOOj9AhxL",
+      "drive_url": "https://drive.google.com/file/d/1M6-py87rP3hrfIwkYO07t6wAOOj9AhxL/view?usp=drivesdk",
+      "md5": "ad99bfac37706fa21b737900661ea91e",
+      "size_bytes": 2203525,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0400",
+      "timestamp": "13:18–13:20",
+      "narration_slice": "simple, self-glorifying answer. Dragons,",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1fazE2q9F3u3a0h1DzTwNCxpwexXP-TP4",
+      "drive_url": "https://drive.google.com/file/d/1fazE2q9F3u3a0h1DzTwNCxpwexXP-TP4/view?usp=drivesdk",
+      "md5": "174b0bce016294a0ccdaae2da0f500ab",
+      "size_bytes": 2173707,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_040_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_040_drive_folder_id": "1iRRTfuhPdsoWYHhkhxi8z80B4yHsnT6c",
+  "batch_040_drive_verified_count": 10,
+  "batch_040_pending_rerender": 0,
+  "batch_040_note": "The myth movement, in LOC-VAL-001, and the batch that found its visual language: heat as a single contained line inside black rock, never a fire. Eleven generations for ten frames. 0394 is the best landscape of the production, four cones stacked in haze with emerald valleys between them; 0397 is the batch's argument, a horned head emerging out of the rock lit only by an ember rim; 0396 solves the animal problem by showing only its wing shadow on a colonnade of basalt. 0398 needed a second pass because its tucked limbs read as three gripping feet and its neck had gone serpentine at 2x."
 }
