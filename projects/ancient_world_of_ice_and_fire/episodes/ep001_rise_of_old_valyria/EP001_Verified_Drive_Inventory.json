@@ -25,10 +25,11 @@
     "Batch 017",
     "Batch 018",
     "Batch 019",
-    "Batch 020"
+    "Batch 020",
+    "Batch 021"
   ],
-  "next_batch": 21,
-  "next_image_number": 201,
+  "next_batch": 22,
+  "next_image_number": 211,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -3596,12 +3597,26 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 208,
-  "batch_021_pending_scenes": [
-    "VAL-EP001-IMG0201",
-    "VAL-EP001-IMG0205"
-  ],
-  "batch_021_partial_verified_images": [
+  "verified_image_count": 210,
+  "batch_021_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0201",
+      "timestamp": "06:40–06:42",
+      "narration_slice": "with immense deposits of red",
+      "shot_type": "Dynamic medium lateral tracking angle — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "Dynamic medium lateral tracking angle — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1jmtuGmNQ5RLIEPjSKkk2kJ0u6Dlt2q-Y",
+      "drive_url": "https://drive.google.com/file/d/1jmtuGmNQ5RLIEPjSKkk2kJ0u6Dlt2q-Y/view?usp=drivesdk",
+      "md5": "f8fbd8defe600f69694416b543252508",
+      "size_bytes": 2102868,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
     {
       "scene_id": "VAL-EP001-IMG0202",
       "timestamp": "06:42–06:44",
@@ -3652,6 +3667,24 @@
       "drive_url": "https://drive.google.com/file/d/15e_8kfHb85AZlbEO1r5dXy0CEKZ5hZkJ/view?usp=drivesdk",
       "md5": "54cc6e39be96cd0003438c0119e2b152",
       "size_bytes": 2508643,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0205",
+      "timestamp": "06:48–06:50",
+      "narration_slice": "obsidian—the frozen fire later Westerosi",
+      "shot_type": "High-elevation geographic / scale reveal — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "High-elevation geographic / scale reveal — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1AFjVodXcX28aPSjopojlIEXyAucWWezZ",
+      "drive_url": "https://drive.google.com/file/d/1AFjVodXcX28aPSjopojlIEXyAucWWezZ/view?usp=drivesdk",
+      "md5": "087975c137dd1275a123756d93d6f578",
+      "size_bytes": 2251862,
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true

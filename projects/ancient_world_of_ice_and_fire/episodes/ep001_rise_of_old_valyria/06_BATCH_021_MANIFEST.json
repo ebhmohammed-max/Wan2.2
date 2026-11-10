@@ -13,12 +13,9 @@
   "batch_timespan": "06:40–07:00",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "8_OF_10_APPROVED_UPLOADED_MD5_VERIFIED_2_RERENDERS_PENDING",
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0201",
-    "VAL-EP001-IMG0205"
-  ],
-  "visual_qc_note": "Eight frames (IMG0202–0204 and IMG0206–0210) passed visual review, were uploaded, and have matching Drive/local MD5s. IMG0201 was rejected because the copper seam reads as luminous molten ore; IMG0205 was rejected because its surface sky/volcanic skyline breaks the subterranean continuity. Rerender only these two before marking the batch complete. Drive folder currently contains exactly eight approved frames.",
+  "batch_status": "10_OF_10_UPLOADED_MD5_VERIFIED_VISUAL_QC_APPROVED",
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten frames were visually reviewed and approved as a progression from ore-bearing basalt and obsidian to the first anatomically canonical subterranean firewyrm reveal. The two earlier weak renders were replaced: IMG0201 now shows a subdued non-luminous copper seam; IMG0205 is clearly an enclosed subterranean fissure without a surface skyline. All ten are 1376x768 sRGB PNGs; Drive lists exactly ten images and every Drive MD5 matches the local file.",
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -32,15 +29,15 @@
         "LOC-VAL-005"
       ],
       "file_path": "assets/batch_021/VAL-EP001-IMG0201.png",
-      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
-      "size_bytes": 2382038,
-      "md5": "08b5f0341f85a8ef70740d7c03a6fafe",
+      "size_bytes": 2102868,
+      "md5": "f8fbd8defe600f69694416b543252508",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false
+      "drive_file_id": "1jmtuGmNQ5RLIEPjSKkk2kJ0u6Dlt2q-Y",
+      "drive_url": "https://drive.google.com/file/d/1jmtuGmNQ5RLIEPjSKkk2kJ0u6Dlt2q-Y/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0202",
@@ -120,15 +117,15 @@
         "LOC-VAL-005"
       ],
       "file_path": "assets/batch_021/VAL-EP001-IMG0205.png",
-      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
-      "size_bytes": 2385908,
-      "md5": "41beeca67cb1c58a66eaf023d5cc3d11",
+      "size_bytes": 2251862,
+      "md5": "087975c137dd1275a123756d93d6f578",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false
+      "drive_file_id": "1AFjVodXcX28aPSjopojlIEXyAucWWezZ",
+      "drive_url": "https://drive.google.com/file/d/1AFjVodXcX28aPSjopojlIEXyAucWWezZ/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0206",

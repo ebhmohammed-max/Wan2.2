@@ -146,16 +146,16 @@ projects/ancient_world_of_ice_and_fire/
 
 | Episode | Title | Duration | Total Frames (`30/min`) | Completed Batches | Completed Frames | Next Queued Batch |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–020 complete; Batch 021 8/10** (`06:40–07:00 partial`) | **208 / 1,050** (`19.81%`) | **Finish Batch 021: IMG0201, IMG0205** |
+| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–021 (`210/210`)** (`00:00–07:00`) | **210 / 1,050** (`20.00%`) | **Batch 022** (`07:00–07:20`) |
 
 
-**Current progress note (2026-11-09):** 208/1,050 frames are Drive-verified (Batches 001–020 complete; Batch 021 has 8/10 approved). All approved frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after visual-QC correction; IMG0129 was reframed to remove letterbox strips; IMG0171 was reframed during QC. IMG0160 remains unresolved: its top-left crop was rejected; restore or regenerate the original composition, resizing only if appropriate.
+**Current progress note (2026-11-09):** 210/1,050 frames are Drive-verified (Batches 001–021 complete). All approved frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after visual-QC correction; IMG0129 was reframed to remove letterbox strips; IMG0171 was reframed during QC. IMG0160 remains unresolved: its top-left crop was rejected; restore or regenerate the original composition, resizing only if appropriate.
 
 
-**Batch 020 complete:** `IMG0191–IMG0200` (`06:20–06:40`) are visually approved, uploaded and checksum-verified in Drive folder `https://drive.google.com/drive/folders/1qGCm4kPxpOzc9x5Befotaj1Vq42xxkhO`. Batch 021 is in progress with two rerenders still required.
+**Batch 020 complete:** `IMG0191–IMG0200` (`06:20–06:40`) are visually approved, uploaded and checksum-verified in Drive folder `https://drive.google.com/drive/folders/1qGCm4kPxpOzc9x5Befotaj1Vq42xxkhO`. Batch 021 is complete; see the verified inventory and QC report.
 
 
 **Open correction:** IMG0160 remains unresolved. The top-left crop was rejected; restore or regenerate the original composition, resizing only if appropriate.
 
 
-**Batch 021 partial QC:** Eight frames are approved and Drive-verified. `IMG0201` (molten-looking copper) and `IMG0205` (surface sky) require rerender before the batch is complete. Drive folder: `https://drive.google.com/drive/folders/17xs4PfQxDKJ_2baNHXtv5oo86s9Tr8mZ`.
+**Batch 021 complete:** All ten frames are visually approved, uploaded and checksum-verified in Drive folder `https://drive.google.com/drive/folders/17xs4PfQxDKJ_2baNHXtv5oo86s9Tr8mZ`. IMG0201 and IMG0205 were replaced after visual QC. Next is Batch 022 (`07:00–07:20`).

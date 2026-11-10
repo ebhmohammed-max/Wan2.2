@@ -6,7 +6,7 @@
 - **Visual Cadence:** **`30 images per minute`** (`1 image every 2.0 seconds` · **`1,050 total images`** across **`105 batches of 10`**)
 - **Locked Cinematic Visual Standard:** **65mm Live-Action / Physically Realistic 3D Historical Cinema** (*ARRI Alexa 65 · Panavision Primo Spherical Primes · Kodak Vision3 500T Grade: Warm Sandstone Highlights, Muted Archaeological Midtones, Deep Ink-Navy Shadows — calibrated to `The_Trojan_War_The_Legend_the_City_and_the_Evidence`*)
 - **Google Drive Master Archive:** `Game of thrones YT` (`1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo`)
-- **Current Gate Status:** **Batches 001–020 complete; Batch 021 is partial (8/10). `208 / 1,050` images are Drive-verified and visually QC-approved (`19.81%`). Finish Batch 021 by rerendering IMG0201 and IMG0205.**
+- **Current Gate Status:** **Batches 001–021 complete (`210/210`); `210 / 1,050` images are Drive-verified and visually QC-approved (`20.00%`). Batch 022 is next.**
 
 ---
 
@@ -3298,6 +3298,6 @@ Batch 020 (`IMG0191–IMG0200`, `06:20–06:40`) was prepared and completed. The
 Batch 020 (`IMG0191–IMG0200`, `06:20–06:40`) is complete. Ten frames progress from fertile volcanic scree, wild olives, figs and geothermal water into natural subterranean mineral veins. All frames passed visual review, are `1376×768` sRGB PNGs, and were uploaded to Drive folder `https://drive.google.com/drive/folders/1qGCm4kPxpOzc9x5Befotaj1Vq42xxkhO`; the folder contains exactly ten images and every Drive MD5 matches its local checksum. Verified progress is **200/1,050 (19.05%)**; next is Batch 021 (`06:40–07:00`). **IMG0160 remains an open correction:** the user rejected its top-left crop and prefers the original framing; restore or regenerate the original composition, resizing only if appropriate.
 
 
-## Production Continuation — Batch 021 partial QC (2026-11-09)
+## Production Continuation — Batch 021 complete (2026-11-09)
 
-Batch 021 (`IMG0201–IMG0210`, `06:40–07:00`) has eight approved frames uploaded to `https://drive.google.com/drive/folders/17xs4PfQxDKJ_2baNHXtv5oo86s9Tr8mZ`; Drive MD5s match local. Rerender IMG0201 (molten-looking copper seam) and IMG0205 (surface sky breaks underground continuity) before completing the batch. Current verified progress is **208/1,050 (19.81%)**; Batch 021 is not counted complete. **IMG0160 remains unresolved:** the rejected crop must be replaced by restoring or regenerating the original composition (resizing only if appropriate).
+Batch 021 (`IMG0201–IMG0210`, `06:40–07:00`) is complete. Ten images were visually approved, uploaded to Drive folder `https://drive.google.com/drive/folders/17xs4PfQxDKJ_2baNHXtv5oo86s9Tr8mZ`, and all Drive MD5s match their local files. IMG0201 and IMG0205 were replaced after QC: copper is now subdued and non-luminous; IMG0205 is an enclosed subterranean fissure without a surface skyline. Verified progress is **210/1,050 (20.00%)**; next is Batch 022 (`07:00–07:20`). **IMG0160 remains unresolved:** the rejected crop must be replaced by restoring or regenerating the original composition (resizing only if appropriate).
