@@ -1,0 +1,243 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1t1t10Iw3s40-vvanLTavMJ1ToTw5JDUR",
+  "batch_drive_folder_name": "Batch_037_Images_0361-0370_Pastoral_Terror_12m00s-12m20s",
+  "batch_number": 37,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "12:00–12:20",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "IN_PROGRESS_2_OF_10_APPROVED_UPLOADED",
+  "approved_count": 2,
+  "approved_uploaded_count": 2,
+  "drive_verified_count": 2,
+  "pending_rerender_count": 3,
+  "pending_generate_count": 5,
+  "pending_completion_scenes": [
+    "VAL-EP001-IMG0362",
+    "VAL-EP001-IMG0363",
+    "VAL-EP001-IMG0364",
+    "VAL-EP001-IMG0366",
+    "VAL-EP001-IMG0367",
+    "VAL-EP001-IMG0368",
+    "VAL-EP001-IMG0369",
+    "VAL-EP001-IMG0370"
+  ],
+  "generations_used": 10,
+  "verified_episode_frames_after_batch": 376,
+  "verified_episode_percent_after_batch": "35.81%",
+  "visual_qc_note": "A new movement and a new palette: out of the black caldera and into daylit highland green, with people back in frame for the first time since Batch 033. The batch found two systemic problems fast. First, the location drifted without its architectural form written in — pass 1 gave a European pastoral postcard of gabled cottages, chimneys, boundary walls and a field grid, and was fixed by three words: round, conical, unenclosed. Second, and more serious for the rest of the episode, every flying silhouette came back as a wyvern: tiny body, whip tail, oversized thin wings, dangling clawed legs and no head, because the prompt said 'no head detail' and the head was deleted rather than hidden.",
+  "silhouette_note": "The animal now needs its shape signature stated at every distance: deep barrel chest, thick short ringed neck, heavy blunt wedge skull with a broad crocodilian snout and two swept-back horns, wing-arms folded tight against the body, long thick tapering tail. Without those five descriptors it degrades to a generic wyvern. This is the outdoor form of the same failure that produced bipeds and feathered fans indoors.",
+  "letterbox_scan_note": "Per-row content-box scan run on every frame. All five carried strips and were cropped and resized back to 1376x768 (rows 12-755, 0364 arriving at rows 11-755).",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0361",
+      "timestamp": "12:00–12:02",
+      "narration_slice": "For the pastoral clans",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_037/VAL-EP001-IMG0361.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1xB4FerXKS5oTycUWItLQxAUNVnW2RqEP",
+      "drive_url": "https://drive.google.com/file/d/1xB4FerXKS5oTycUWItLQxAUNVnW2RqEP/view?usp=drivesdk",
+      "md5": "8d442fef300f213a6e6cd187a64ed571",
+      "size_bytes": 1649571,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 2. Pastoral homestead on a cold overcast morning: three circular dry-stacked basalt huts with conical slate roofs and rafter ends showing at the eaves, a large wattle hurdle fold full of long-woolled sheep, two shepherds in undyed wool and ragged sheepskin seen from behind with loose pale hair, a steaming mineral stream cutting through open unenclosed emerald meadow, heavy grey mist, a smoking cone beyond. Pass 1 was a European postcard — gabled cottages with chimneys, dry-stone boundary walls, a field grid and a golden sunset. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0362",
+      "timestamp": "12:02–12:04",
+      "narration_slice": "below, discovery brought terror",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_037/VAL-EP001-IMG0362.png",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_status": "PENDING_RERENDER",
+      "qc_note": "REJECTED. Over-the-shoulder out of the valley. The shot itself works — back of the head, loose silver-white hair, no braids, correct clothing, valley and flock beyond — but the distant animal is a wyvern: tiny narrow body, whip tail, huge thin bat wings, headless silhouette with dangling clawed legs."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0363",
+      "timestamp": "12:04–12:06",
+      "narration_slice": "long before it promised",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_037/VAL-EP001-IMG0363.png",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_status": "PENDING_RERENDER",
+      "qc_note": "REJECTED. Wide panic shot. Scattering sheep and the two running shepherds are right, but the flying animal is again a wyvern with whip tail and hanging clawed legs, and one shepherd came back honey-blonde and one in dark navy."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0364",
+      "timestamp": "12:06–12:08",
+      "narration_slice": "dominion. A single hungry dragon",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_037/VAL-EP001-IMG0364.png",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_status": "PENDING_RERENDER",
+      "qc_note": "REJECTED. UWA vista. The settlement is now correct — round huts, conical roofs, wattle folds, no walls or field grid — but the animal overhead has a barbed spiked tail tip and a dangling clawed leg, and its head is invisible."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0365",
+      "timestamp": "12:08–12:10",
+      "narration_slice": "descending through morning mist",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_037/VAL-EP001-IMG0365.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1p46I3lzB7IF19gK2lwt8d11l7UuRrMEy",
+      "drive_url": "https://drive.google.com/file/d/1p46I3lzB7IF19gK2lwt8d11l7UuRrMEy/view?usp=drivesdk",
+      "md5": "d343e8de519a43436733ebea12b04c6d",
+      "size_bytes": 1466928,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Wing membrane close-up: one smooth taut dark sheet stretched between three long straight rib-spars running out of frame, beaded with condensation, its ragged torn trailing margin fraying at the lower left, and a healed semicircular scar reading as a pale pinkish seam near the top right. No head, no body, no face anywhere. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0366",
+      "timestamp": "12:10–12:12",
+      "narration_slice": "could scatter an entire",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_037/VAL-EP001-IMG0366.png",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_status": "QUEUED",
+      "qc_note": "Not yet generated — generation cap reached."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0367",
+      "timestamp": "12:12–12:14",
+      "narration_slice": "valley's flock in heartbeats,",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_037/VAL-EP001-IMG0367.png",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_status": "QUEUED",
+      "qc_note": "Not yet generated — generation cap reached."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0368",
+      "timestamp": "12:14–12:16",
+      "narration_slice": "leaving behind nothing save",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_037/VAL-EP001-IMG0368.png",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_status": "QUEUED",
+      "qc_note": "Not yet generated — generation cap reached."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0369",
+      "timestamp": "12:16–12:18",
+      "narration_slice": "scorched wool, blackened stone,",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_037/VAL-EP001-IMG0369.png",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_status": "QUEUED",
+      "qc_note": "Not yet generated — generation cap reached."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0370",
+      "timestamp": "12:18–12:20",
+      "narration_slice": "and smoking craters. Yet",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_037/VAL-EP001-IMG0370.png",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_status": "QUEUED",
+      "qc_note": "Not yet generated — generation cap reached."
+    }
+  ]
+}
