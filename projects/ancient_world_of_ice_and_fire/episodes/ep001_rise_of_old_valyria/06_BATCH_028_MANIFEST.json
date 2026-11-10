@@ -1,0 +1,277 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "visual_style_standard": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location cinematography (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade: warm sandstone highlights, deep cerulean Summer Sea, lush emerald pastures, muted volcanic stone)",
+  "style_reference_benchmark": "The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1VpOcpUx4CFeqhs9Yklgm3_ezzixvRQSM",
+  "batch_number": 28,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "09:00–09:20",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "IN_PROGRESS_7_OF_10_APPROVED_UPLOADED_3_RERENDER_PENDING",
+  "pending_completion_scenes": [
+    "VAL-EP001-IMG0271",
+    "VAL-EP001-IMG0279",
+    "VAL-EP001-IMG0280"
+  ],
+  "visual_qc_note": "First pass: seven of ten frames passed and were uploaded to Drive folder 1VpOcpUx4CFeqhs9Yklgm3_ezzixvRQSM, each Drive MD5 matching its local file. The myth is carried entirely by material traces and weather — no cut to Yi Ti, no imperial court, no crown, no writing anywhere. Three frames are held: IMG0271 gave the young herdsman bare feet on volcanic scree against his locked boots and gaiters; IMG0279 repeated the Batch 027 shaved-side braid failure on two background figures and planted a wattle hurdle that reads as a gallows; IMG0280 put an ermine-like fur cloak and a snow-dusted alpine ridge into a Valyrian peninsula frame. IMG0273 was reframed from 1376x756 to full-bleed 1376x768 to remove a 12 px black strip at the bottom.",
+  "verified_episode_frames_after_batch": 276,
+  "verified_episode_percent_after_batch": "26.29%",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0271",
+      "timestamp": "09:00–09:02",
+      "shot_lens": "LAM · 28mm",
+      "narration_slice": "Other commentators, more inclined",
+      "shot_type": "Low-angle monumental architectural / geological framing",
+      "visual_beat": "Low-angle up the ash cone, young herdsman a silhouette on the scree",
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_028/VAL-EP001-IMG0271.png",
+      "qc_status": "QC_REJECTED_RERENDER_REQUIRED",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2282287,
+      "md5": "528cf1ec24146c6e19b76d150bd215ec",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_note": "REJECTED: the young herdsman stands barefoot on sharp volcanic scree — the locked wardrobe requires wrapped goat-leather gaiters and boots, and a shepherd on a pyroclastic slope without boots is a continuity break nobody can unsee. Awaiting rerender."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0272",
+      "timestamp": "09:02–09:04",
+      "shot_lens": "OTS · 40mm",
+      "narration_slice": "toward arcane lore, have wondered",
+      "shot_type": "Over-the-shoulder depth perspective",
+      "visual_beat": "Over-the-shoulder — the young man stops and turns into the rising mist",
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_028/VAL-EP001-IMG0272.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2583020,
+      "md5": "470b41daaa01473a4d99974ba3f873c1",
+      "resolution": "1376x768",
+      "drive_file_id": "1TXYb5Xp1iVXI85fsCYgii-yI1giNTj1q",
+      "drive_url": "https://drive.google.com/file/d/1TXYb5Xp1iVXI85fsCYgii-yI1giNTj1q/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: elder's shoulder, sheepskin and crook soft in the near frame; the young man in profile, face turned into the mist, no irises exposed; a bank of white vapour filling the valley behind him. Boots and gaiters correct."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0273",
+      "timestamp": "09:04–09:06",
+      "shot_lens": "WS · 28mm",
+      "narration_slice": "aloud whether the early",
+      "shot_type": "Deep-focus wide atmospheric composition",
+      "visual_beat": "Deep-focus wide — homestead half-dissolved in a tide of volcanic mist",
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_028/VAL-EP001-IMG0273.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 1703321,
+      "md5": "c3fd70f26f8d7ef6d530c7b4b8a38464",
+      "resolution": "1376x768",
+      "drive_file_id": "1WYSq-ArE7jhXY3rsEEWMJ14l7iG3G2lV",
+      "drive_url": "https://drive.google.com/file/d/1WYSq-ArE7jhXY3rsEEWMJ14l7iG3G2lV/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved after reframing: the mist reads as real volume rather than smoke, roofs and wattle emerge and vanish, the foreground wall holds texture, and the cones are barely differentiated silhouettes. **The render carried a solid black letterbox strip across the bottom 12 px; cropped to 1376x756 and rescaled to full-bleed 1376x768 before upload.**"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0274",
+      "timestamp": "09:06–09:08",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "Valyrians descended from some older,",
+      "shot_type": "Ultra-wide establishing vista",
+      "visual_beat": "Ultra-wide vista — ridges islanded in vapour, no trace of people anywhere",
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_028/VAL-EP001-IMG0274.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2267946,
+      "md5": "3beb80261b836959acd2b5e2215b813c",
+      "resolution": "1376x768",
+      "drive_file_id": "1wB59xhYeE7xlPhXiqwYScLzEAdoquJj-",
+      "drive_url": "https://drive.google.com/file/d/1wB59xhYeE7xlPhXiqwYScLzEAdoquJj-/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: receding ridgelines drowned in layered mist, three cones including one faintly smoking, a sliver of pale sea at right; entirely empty of buildings, roads and people, which is exactly the point of the frame."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0275",
+      "timestamp": "09:08–09:10",
+      "shot_lens": "MCU · 50mm",
+      "narration_slice": "forgotten Dawn Age lineage—pointing",
+      "shot_type": "Medium close-up atmospheric focal beat",
+      "visual_beat": "Medium close-up — the young herdsman looking past the lens, wary",
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_028/VAL-EP001-IMG0275.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2369651,
+      "md5": "2516112e00a16bfd9b9836a9bf3c6860",
+      "resolution": "1376x768",
+      "drive_file_id": "1dyi23ms2TWrQo8DU3W06xJBjoI2ArePG",
+      "drive_url": "https://drive.google.com/file/d/1dyi23ms2TWrQo8DU3W06xJBjoI2ArePG/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: 50mm chest-up with soft haze behind, unreadable wariness rather than awe; iris crop at 450% confirms saturated amethyst-violet on both eyes, no circlet or ornament."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0276",
+      "timestamp": "09:10–09:12",
+      "shot_lens": "MS · 35mm",
+      "narration_slice": "to curious echoes in",
+      "shot_type": "Dynamic medium lateral tracking angle",
+      "visual_beat": "Lateral tracking medium — profile walk through knee-high ground mist",
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_028/VAL-EP001-IMG0276.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2546981,
+      "md5": "a506757cd1f641c34e627e72ca05866f",
+      "resolution": "1376x768",
+      "drive_file_id": "1asfqt6Js4T16TPkaNbkf1deBnUdInJ8k",
+      "drive_url": "https://drive.google.com/file/d/1asfqt6Js4T16TPkaNbkf1deBnUdInJ8k/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: clean profile with head down so no eyes are presented, crook absent but the bronze-tipped spear carried low, mist breaking around his legs, correct boots and gaiters, one cone flat behind."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0277",
+      "timestamp": "09:12–09:14",
+      "shot_lens": "MCU · 65mm",
+      "narration_slice": "the myths of the Far",
+      "shot_type": "Compressed telephoto dramatic subject framing",
+      "visual_beat": "Compressed 65mm — listening close-up, background crushed to grey haze",
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_028/VAL-EP001-IMG0277.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2214197,
+      "md5": "a46cfd193e56fc06beddf184b5c9d087",
+      "resolution": "1376x768",
+      "drive_file_id": "1OxSk3REAliZ8LIqM-LLvqI1-O9ykD73D",
+      "drive_url": "https://drive.google.com/file/d/1OxSk3REAliZ8LIqM-LLvqI1-O9ykD73D/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: warm side key and cool fill on an attentive three-quarter face; iris crop at 450% confirms violet, and the braided temple hair matches Stage A. Background entirely featureless grey."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0278",
+      "timestamp": "09:14–09:16",
+      "shot_lens": "MS · 50mm",
+      "narration_slice": "East, where legends spoke",
+      "shot_type": "Medium cinematic subject focus",
+      "visual_beat": "High-angle insert — an amethyst bead passed between two hands",
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_028/VAL-EP001-IMG0278.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2601560,
+      "md5": "feb1c37f6916a729c53e6b16745c8d31",
+      "resolution": "1376x768",
+      "drive_file_id": "1ufCjUyDCyIJ1810PWUt9DNhWwujGDHQ-",
+      "drive_url": "https://drive.google.com/file/d/1ufCjUyDCyIJ1810PWUt9DNhWwujGDHQ-/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: one small violet glass bead on a scrap of undyed cloth among a bone awl, a hammered copper pin, three knuckle-bones and a hank of wool. No faces, no writing, no gold, nothing else exotic — the myth stays an object you could hold and cannot read."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0279",
+      "timestamp": "09:16–09:18",
+      "shot_lens": "WS · 35mm",
+      "narration_slice": "of an Amethyst Empress with",
+      "shot_type": "Wide environmental storytelling tableau",
+      "visual_beat": "Wide dusk tableau — the clan around the fire, an old woman telling",
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_028/VAL-EP001-IMG0279.png",
+      "qc_status": "QC_REJECTED_RERENDER_REQUIRED",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2408932,
+      "md5": "4a527c2a8d9ae23600e186761670046b",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_note": "REJECTED: two background figures carry long braids over shaved-side scalp patterns, and a wattle hurdle in the middle distance stands on end reading as a gallows. The first is a repeat of the Batch 027 failure and the second is an unintended grim image. Awaiting rerender."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0280",
+      "timestamp": "09:18–09:20",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "eyes of violet, though",
+      "shot_type": "High-elevation geographic / scale reveal",
+      "visual_beat": "High-elevation reveal — the peninsula dissolved into mist with two tiny figures",
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_028/VAL-EP001-IMG0280.png",
+      "qc_status": "QC_REJECTED_RERENDER_REQUIRED",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2109358,
+      "md5": "3623b5fd5a811a60c98833a41d067e4e",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_note": "REJECTED: the older figure's ankle-length pale fur cloak reads as ermine and the pair sit on a snow-dusted alpine ridge with a rebuilt stone stair, which looks like the Wall approaches rather than the Valyrian peninsula. Awaiting rerender."
+    }
+  ]
+}
