@@ -270,3 +270,8 @@ All ten images were visually reviewed as a continuous tonal transition: black sc
 ### Batch 021 — Subterranean Ore and Firewyrm Danger (`06:40–07:00`) — **10/10 Approved**
 
 All ten frames are visually reviewed, `1376×768` sRGB PNGs, uploaded and MD5-verified in Drive folder `https://drive.google.com/drive/folders/17xs4PfQxDKJ_2baNHXtv5oo86s9Tr8mZ`. IMG0201 was replaced with a subdued non-luminous native copper seam; IMG0205 now reads as an enclosed subterranean fissure, with no surface skyline. The sequence moves through copper, tin, iron, silver, native gold and obsidian, then gradually reveals a blind, cylindrical, wingless and legless firewyrm. Drive lists exactly ten images and each checksum matches the local file. **Verified progress: 210/1,050 (20.00%); next Batch 022 (`07:00–07:20`).**
+
+
+### Batch 022 — Subterranean Firewyrm Accounts and Burrowing (`07:00–07:20`) — **6/10 Approved; 4 Rerenders Pending**
+
+Six frames (`IMG0212`, `IMG0214–IMG0218`) passed visual review, were confirmed as `1376×768` sRGB PNGs, and uploaded to Drive folder `https://drive.google.com/drive/folders/1KTaABRWYhUZKbdNpjsmxl08Iq3k3YWaQ`; upload-reported MD5s match local files. Rejected: `IMG0211` and `IMG0219` read as constructed tunnels; `IMG0213` contains modern-looking miners and incorrect creature anatomy; `IMG0220` duplicates the artificial lit-bore composition and misses the juvenile scale beat. Rerender only these four. **Verified progress: 216/1,050 (20.57%); Batch 022 remains incomplete.** IMG0160 remains an open correction.

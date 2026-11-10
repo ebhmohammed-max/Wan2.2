@@ -146,10 +146,10 @@ projects/ancient_world_of_ice_and_fire/
 
 | Episode | Title | Duration | Total Frames (`30/min`) | Completed Batches | Completed Frames | Next Queued Batch |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–021 (`210/210`)** (`00:00–07:00`) | **210 / 1,050** (`20.00%`) | **Batch 022** (`07:00–07:20`) |
+| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–021 complete; Batch 022 6/10** (`07:00–07:20 partial`) | **216 / 1,050** (`20.57%`) | **Finish Batch 022: IMG0211, IMG0213, IMG0219, IMG0220** |
 
 
-**Current progress note (2026-11-09):** 210/1,050 frames are Drive-verified (Batches 001–021 complete). All approved frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after visual-QC correction; IMG0129 was reframed to remove letterbox strips; IMG0171 was reframed during QC. IMG0160 remains unresolved: its top-left crop was rejected; restore or regenerate the original composition, resizing only if appropriate.
+**Current progress note (2026-11-09):** 216/1,050 frames are Drive-verified (Batches 001–021 complete; Batch 022 is 6/10 with four rerenders pending). All approved frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after visual-QC correction; IMG0129 was reframed to remove letterbox strips; IMG0171 was reframed during QC. IMG0160 remains unresolved: its top-left crop was rejected; restore or regenerate the original composition, resizing only if appropriate.
 
 
 **Batch 020 complete:** `IMG0191–IMG0200` (`06:20–06:40`) are visually approved, uploaded and checksum-verified in Drive folder `https://drive.google.com/drive/folders/1qGCm4kPxpOzc9x5Befotaj1Vq42xxkhO`. Batch 021 is complete; see the verified inventory and QC report.
@@ -158,4 +158,7 @@ projects/ancient_world_of_ice_and_fire/
 **Open correction:** IMG0160 remains unresolved. The top-left crop was rejected; restore or regenerate the original composition, resizing only if appropriate.
 
 
-**Batch 021 complete:** All ten frames are visually approved, uploaded and checksum-verified in Drive folder `https://drive.google.com/drive/folders/17xs4PfQxDKJ_2baNHXtv5oo86s9Tr8mZ`. IMG0201 and IMG0205 were replaced after visual QC. Next is Batch 022 (`07:00–07:20`).
+**Batch 021 complete:** All ten frames are visually approved, uploaded and checksum-verified in Drive folder `https://drive.google.com/drive/folders/17xs4PfQxDKJ_2baNHXtv5oo86s9Tr8mZ`. IMG0201 and IMG0205 were replaced after visual QC. Batch 022 (`07:00–07:20`) is in progress: six approved frames are Drive-verified; rerender IMG0211, IMG0213, IMG0219 and IMG0220.
+
+
+**Batch 022 partial QC:** Six approved images are uploaded and MD5-verified in Drive folder `https://drive.google.com/drive/folders/1KTaABRWYhUZKbdNpjsmxl08Iq3k3YWaQ`. Rerender `IMG0211`, `IMG0213`, `IMG0219`, and `IMG0220`; do not mark the batch complete until all ten are approved and verified.

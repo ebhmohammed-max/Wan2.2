@@ -6,7 +6,7 @@
 - **Visual Cadence:** **`30 images per minute`** (`1 image every 2.0 seconds` · **`1,050 total images`** across **`105 batches of 10`**)
 - **Locked Cinematic Visual Standard:** **65mm Live-Action / Physically Realistic 3D Historical Cinema** (*ARRI Alexa 65 · Panavision Primo Spherical Primes · Kodak Vision3 500T Grade: Warm Sandstone Highlights, Muted Archaeological Midtones, Deep Ink-Navy Shadows — calibrated to `The_Trojan_War_The_Legend_the_City_and_the_Evidence`*)
 - **Google Drive Master Archive:** `Game of thrones YT` (`1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo`)
-- **Current Gate Status:** **Batches 001–021 complete (`210/210`); `210 / 1,050` images are Drive-verified and visually QC-approved (`20.00%`). Batch 022 is next.**
+- **Current Gate Status:** **Batches 001–021 complete; Batch 022 is in progress (6/10 approved). `216 / 1,050` images are Drive-verified and visually QC-approved (`20.57%`). Rerender IMG0211, IMG0213, IMG0219 and IMG0220.**
 
 ---
 
@@ -3301,3 +3301,8 @@ Batch 020 (`IMG0191–IMG0200`, `06:20–06:40`) is complete. Ten frames progres
 ## Production Continuation — Batch 021 complete (2026-11-09)
 
 Batch 021 (`IMG0201–IMG0210`, `06:40–07:00`) is complete. Ten images were visually approved, uploaded to Drive folder `https://drive.google.com/drive/folders/17xs4PfQxDKJ_2baNHXtv5oo86s9Tr8mZ`, and all Drive MD5s match their local files. IMG0201 and IMG0205 were replaced after QC: copper is now subdued and non-luminous; IMG0205 is an enclosed subterranean fissure without a surface skyline. Verified progress is **210/1,050 (20.00%)**; next is Batch 022 (`07:00–07:20`). **IMG0160 remains unresolved:** the rejected crop must be replaced by restoring or regenerating the original composition (resizing only if appropriate).
+
+
+## Production Continuation — Batch 022 partial QC (2026-11-09)
+
+Batch 022 (`IMG0211–IMG0220`, `07:00–07:20`) has six approved, uploaded and MD5-verified frames: IMG0212 and IMG0214–IMG0218. Drive folder `https://drive.google.com/drive/folders/1KTaABRWYhUZKbdNpjsmxl08Iq3k3YWaQ`. Four initial renders were rejected and need rerender: IMG0211 and IMG0219 look like constructed tunnels; IMG0213 adds modern-looking miners and wrong creature anatomy; IMG0220 repeats the tunnel composition and misses the juvenile scale cue. Verified progress is **216/1,050 (20.57%)**, but Batch 022 is not complete. **IMG0160 remains unresolved:** restore or regenerate original composition; resize only if appropriate.

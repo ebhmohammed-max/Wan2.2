@@ -3597,7 +3597,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 210,
+  "verified_image_count": 216,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -3781,6 +3781,134 @@
       "drive_url": "https://drive.google.com/file/d/1-bcjsK9a4GKpo23U951_XbUtwea0yspm/view?usp=drivesdk",
       "md5": "9d4424f130e2934990df2a9dea0a73dd",
       "size_bytes": 2346733,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_022_pending_scenes": [
+    "VAL-EP001-IMG0211",
+    "VAL-EP001-IMG0213",
+    "VAL-EP001-IMG0219",
+    "VAL-EP001-IMG0220"
+  ],
+  "batch_022_partial_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0212",
+      "timestamp": "07:02–07:04",
+      "narration_slice": "the Faceless Men of Braavos",
+      "shot_type": "Over-the-shoulder depth perspective — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Over-the-shoulder depth perspective — Blind wingless Firewyrms boring through superheated rock",
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "drive_file_id": "1mbMrguQAjQVzd-Y830iD_1i7Q6pEJNoZ",
+      "drive_url": "https://drive.google.com/file/d/1mbMrguQAjQVzd-Y830iD_1i7Q6pEJNoZ/view?usp=drivesdk",
+      "md5": "f2d48e0f115c6fb589c8ba028805b679",
+      "size_bytes": 2328413,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0214",
+      "timestamp": "07:06–07:08",
+      "narration_slice": "Citadel speak of firewyrms—pale, blind,",
+      "shot_type": "Ultra-wide establishing vista — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Ultra-wide establishing vista — Blind wingless Firewyrms boring through superheated rock",
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "drive_file_id": "1wVeL8LCWtdxM8tFXWufU8cfN1xl_vu39",
+      "drive_url": "https://drive.google.com/file/d/1wVeL8LCWtdxM8tFXWufU8cfN1xl_vu39/view?usp=drivesdk",
+      "md5": "93118d3d522619177fad12565c6cfaee",
+      "size_bytes": 2314718,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0215",
+      "timestamp": "07:08–07:10",
+      "narration_slice": "wingless burrowing creatures akin",
+      "shot_type": "Medium close-up atmospheric focal beat — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Medium close-up atmospheric focal beat — Blind wingless Firewyrms boring through superheated rock",
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "drive_file_id": "1icNjXd6wDr2DAXcmSpHtgv4ygz4Y2GDn",
+      "drive_url": "https://drive.google.com/file/d/1icNjXd6wDr2DAXcmSpHtgv4ygz4Y2GDn/view?usp=drivesdk",
+      "md5": "13ddb62c69c1ea4caeca843dd4d5c3b7",
+      "size_bytes": 1866837,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0216",
+      "timestamp": "07:10–07:12",
+      "narration_slice": "to dragons that breathed",
+      "shot_type": "Dynamic medium lateral tracking angle — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Dynamic medium lateral tracking angle — Blind wingless Firewyrms boring through superheated rock",
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "drive_file_id": "1gLN5q171HU5wSXYVJD-MI2WAQ74bk8yl",
+      "drive_url": "https://drive.google.com/file/d/1gLN5q171HU5wSXYVJD-MI2WAQ74bk8yl/view?usp=drivesdk",
+      "md5": "0cde6ebf77ce1c7d9ef8fe5665ef0da4",
+      "size_bytes": 2270089,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0217",
+      "timestamp": "07:12–07:14",
+      "narration_slice": "scorching flame and bored effortlessly",
+      "shot_type": "Compressed telephoto dramatic subject framing — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Blind wingless Firewyrms boring through superheated rock",
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "drive_file_id": "1wUL32aAsvUF1MFceyNNodv-V3wSWfYUn",
+      "drive_url": "https://drive.google.com/file/d/1wUL32aAsvUF1MFceyNNodv-V3wSWfYUn/view?usp=drivesdk",
+      "md5": "fbc956ffce1d2be83426392d1be8b486",
+      "size_bytes": 2309106,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0218",
+      "timestamp": "07:14–07:16",
+      "narration_slice": "through solid stone and",
+      "shot_type": "Medium cinematic subject focus — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Medium cinematic subject focus — Blind wingless Firewyrms boring through superheated rock",
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "drive_file_id": "1HN_mLvBM71vmjrEiQ_hs69aJ6NOuPfQp",
+      "drive_url": "https://drive.google.com/file/d/1HN_mLvBM71vmjrEiQ_hs69aJ6NOuPfQp/view?usp=drivesdk",
+      "md5": "ece1379aae34e62cb929ceada044b0a1",
+      "size_bytes": 2340609,
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
