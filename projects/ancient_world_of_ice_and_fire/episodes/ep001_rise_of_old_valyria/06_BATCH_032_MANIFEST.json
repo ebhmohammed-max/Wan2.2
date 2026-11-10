@@ -1,0 +1,234 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1nCILn9jFijvgVozX6g99f5Z1uaVegCo-",
+  "batch_drive_folder_name": "Batch_032_Images_0311-0320_Bones_and_the_First_Dragon_10m20s-10m40s",
+  "batch_number": 32,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "10:20–10:40",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "IN_PROGRESS_7_OF_10_APPROVED_3_PENDING_RERENDER",
+  "approved_count": 7,
+  "pending_rerender_count": 3,
+  "pending_completion_scenes": [
+    "VAL-EP001-IMG0315",
+    "VAL-EP001-IMG0316",
+    "VAL-EP001-IMG0317",
+    "VAL-EP001-IMG0319"
+  ],
+  "visual_qc_note": "Seven frames approved on pass one or after a letterbox reframe (0313, 0318). Four frames failed review and are queued for rerender at the start of the next turn, blocked only by the 10-images-per-turn generation cap: 0316 breaks the four-limb anatomy lock (a third limb pair reads behind the wing line); 0317 breaks setting (coursed masonry ledge and a daylight sea-cliff with green hills instead of a caldera interior); 0319 breaks two standing rules (five-figure crowd line-up, bright molten lava river instead of dull ember, dragon on a squared block); 0315 breaks the black-ground rule (pale white/yellow crust reading as snow). Every frame remains 1376x768 sRGB PNG.",
+  "letterbox_scan_note": "Per-row edge-mean scan run on all ten frames. Strips found and cropped on 0313 (content rows 12-755), 0315 (12-755) and 0318 (44-675), then resized to 1376x768. 0315 still needs a re-crop after its rerender.",
+  "dragon_reveal_note": "DRG-VAL-001 debuts here and is deliberately given in fragments: out-of-frame wing-shoulder (0316), through a column gap (0317), as a silhouette in an ember-lit chamber (0318), ultra-wide at the limit of legibility (0319), and only a fuller read in 0319-0320 while coiled and turned away. Never centred, never posed, never facing camera, never breathing fire in this batch.",
+  "verified_episode_frames_after_batch": 326,
+  "verified_episode_percent_after_batch": "31.05%",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0311",
+      "timestamp": "10:20–10:22",
+      "narration_slice": "of iron and ash,",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_032/VAL-EP001-IMG0311.png",
+      "drive_file_id": "13eKnENq02J1M-gI4CtzQcmXkbEr3hS0U",
+      "drive_url": "https://drive.google.com/file/d/13eKnENq02J1M-gI4CtzQcmXkbEr3hS0U/view?usp=drivesdk",
+      "md5": "2e014889b5fdf64149c4adf50dd64398",
+      "size_bytes": 2449348,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. Vitrified black wall with ribs and horned sheep skull fused into the glass, herdsman tiny at base, back to camera. No snow, no masonry. Letterbox scan clean."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0312",
+      "timestamp": "10:22–10:24",
+      "narration_slice": "early Valyrian climbers found the",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_032/VAL-EP001-IMG0312.png",
+      "drive_file_id": "1bDfdV2DlBoxmIS9np3miJcAtTt7XC-kt",
+      "drive_url": "https://drive.google.com/file/d/1bDfdV2DlBoxmIS9np3miJcAtTt7XC-kt/view?usp=drivesdk",
+      "md5": "7b56856143f101b3c5534782ddade2a8",
+      "size_bytes": 2314717,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. Macro ribs in black glass, meniscus reading bright on one edge, no flesh/blood. Letterbox scan clean."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0313",
+      "timestamp": "10:24–10:26",
+      "narration_slice": "grim answer to their",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_032/VAL-EP001-IMG0313.png",
+      "drive_file_id": "1gVMScRsoL2s0w-RVemU8ng8FGJ8NyCKS",
+      "drive_url": "https://drive.google.com/file/d/1gVMScRsoL2s0w-RVemU8ng8FGJ8NyCKS/view?usp=drivesdk",
+      "md5": "a7e8355579213c59c620d8bd2d853855",
+      "size_bytes": 1694933,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved after letterbox reframe (content rows 12-755 cropped and resized). Strict profile, no eye visible, hair #EFE8D8 with two narrow temple braids only. Letterbox scan clean after fix."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0314",
+      "timestamp": "10:26–10:28",
+      "narration_slice": "vanished flocks: bones, blackened and",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_032/VAL-EP001-IMG0314.png",
+      "drive_file_id": "1mqG2jds2x5K5MitCOI5YFwen_282Y8Ti",
+      "drive_url": "https://drive.google.com/file/d/1mqG2jds2x5K5MitCOI5YFwen_282Y8Ti/view?usp=drivesdk",
+      "md5": "8f164b2219dc52ab58cc5d4619f0b5ba",
+      "size_bytes": 2672551,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. Macro horned skull half-dissolved into melt, no gore. No people in frame as specified."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0315",
+      "timestamp": "10:28–10:30",
+      "narration_slice": "half-melted into the rock.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_032/VAL-EP001-IMG0315.png",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": "323bfc8cf7b21ea4bf7ae443fdd58eca",
+      "size_bytes": 1841037,
+      "md5_verified_on_drive": false,
+      "qc_status": "PENDING_RERENDER",
+      "qc_note": "RERENDER QUEUED. Mid-ground pale white/yellow mineral crust reads as snow under the grey key, and the sheet surface reads bright enough to break the black-ground rule. Elder hair/cloak otherwise correct at 300%. Reframe to darker crust only, sulphur seams duller."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0316",
+      "timestamp": "10:30–10:32",
+      "narration_slice": "No mountain wolf or",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_032/VAL-EP001-IMG0316.png",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": "70ac46e3a3428afd26242ef47f07bfe8",
+      "size_bytes": 2569697,
+      "md5_verified_on_drive": false,
+      "qc_status": "PENDING_RERENDER",
+      "qc_note": "RERENDER QUEUED. Failed the four-limb anatomy lock: a third limb pair reads behind the wing line in the lower band, so the animal reads six-limbed. Also the elder is in a floor-length cloak with a bald crown patch at 300%. Rebuild with two hind legs and two wings only, and knee-length cloak."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0317",
+      "timestamp": "10:32–10:34",
+      "narration_slice": "shadowcat left stone vitrified into",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_032/VAL-EP001-IMG0317.png",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": "12b7563b353433219e31c385990b3d50",
+      "size_bytes": 2182734,
+      "md5_verified_on_drive": false,
+      "qc_status": "PENDING_RERENDER",
+      "qc_note": "RERENDER QUEUED. Failed setting: the ledge reads as coursed masonry slabs and the background opens to a daylight sea-cliff with green hills, not a caldera interior. Rebuild fully interior, no sky, no hewn stone."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0318",
+      "timestamp": "10:34–10:36",
+      "narration_slice": "shining glass. Drawn by",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_032/VAL-EP001-IMG0318.png",
+      "drive_file_id": "1nyAy9vZQsBnKY3RcqhG-HsSKABdqstS1",
+      "drive_url": "https://drive.google.com/file/d/1nyAy9vZQsBnKY3RcqhG-HsSKABdqstS1/view?usp=drivesdk",
+      "md5": "3a4fc88ba802630d085df3efbb06dc0b",
+      "size_bytes": 1152084,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved after letterbox reframe (content rows 44-675 cropped and resized). Coiled dragon silhouette, strictly four limbs, no humans, at limit of legibility. Letterbox scan clean after fix."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0319",
+      "timestamp": "10:36–10:38",
+      "narration_slice": "dread and wonder alike,",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_032/VAL-EP001-IMG0319.png",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": "d227a2f9eb07fcb5bb0c77849ee9838f",
+      "size_bytes": 2047511,
+      "md5_verified_on_drive": false,
+      "qc_status": "PENDING_RERENDER",
+      "qc_note": "RERENDER QUEUED. Crowd is a perfect five-figure line-up (standing rule violation), the dragon sits on a squared block, and the floor reads as a bright molten lava river rather than dull ember fissures. Rebuild scattered non-line-up crowd, raw natural ledge, ember not lava."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0320",
+      "timestamp": "10:38–10:40",
+      "narration_slice": "the first witnesses crept to",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_032/VAL-EP001-IMG0320.png",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": "f3435cc883cee1f452cc6d93592bc8cb",
+      "size_bytes": 2596271,
+      "md5_verified_on_drive": false,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. MCU herdsman behind black rock lip, head turned away, no eye to camera, two narrow temple braids, soot; ember rim light. Letterbox scan clean. Upload queued (Drive upload rate limit hit after five files this turn)."
+    }
+  ],
+  "pending_uploads": [
+    "VAL-EP001-IMG0320"
+  ]
+}

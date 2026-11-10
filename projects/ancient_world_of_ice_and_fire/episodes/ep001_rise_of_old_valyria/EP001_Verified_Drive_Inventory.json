@@ -1169,7 +1169,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": null,
+  "in_progress_batch": 32,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1920,7 +1920,7 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-10T14:10:00Z",
+  "last_updated": "2026-11-10T12:35:00Z",
   "verified_progress_percent": 30.1,
   "batch_012_verified_images": [
     {
@@ -5853,5 +5853,13 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
     }
+  ],
+  "batch_032_status": "IN_PROGRESS_7_OF_10_APPROVED_3_PENDING_RERENDER",
+  "batch_032_drive_folder_id": "1nCILn9jFijvgVozX6g99f5Z1uaVegCo-",
+  "batch_032_pending_rerender": [
+    "VAL-EP001-IMG0315",
+    "VAL-EP001-IMG0316",
+    "VAL-EP001-IMG0317",
+    "VAL-EP001-IMG0319"
   ]
 }
