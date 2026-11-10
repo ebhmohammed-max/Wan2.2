@@ -6,7 +6,7 @@
 - **Visual Cadence:** **`30 images per minute`** (`1 image every 2.0 seconds` · **`1,050 total images`** across **`105 batches of 10`**)
 - **Locked Cinematic Visual Standard:** **65mm Live-Action / Physically Realistic 3D Historical Cinema** (*ARRI Alexa 65 · Panavision Primo Spherical Primes · Kodak Vision3 500T Grade: Warm Sandstone Highlights, Muted Archaeological Midtones, Deep Ink-Navy Shadows — calibrated to `The_Trojan_War_The_Legend_the_City_and_the_Evidence`*)
 - **Google Drive Master Archive:** `Game of thrones YT` (`1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo`)
-- **Current Gate Status:** **Batches 001–024 complete; Batch 025 is in progress (5/10 approved). `246 / 1,050` images are Drive-verified and visually QC-approved (`23.43%`). Rerender IMG0242, IMG0245, IMG0247, IMG0249 and IMG0250.**
+- **Current Gate Status:** **Batches 001–025 complete. `256 / 1,050` images are Drive-verified and visually QC-approved (`24.38%`). Next: Batch 026 (`08:20–08:40`).**
 
 ---
 
@@ -3315,6 +3315,6 @@ Batch 023 (`IMG0221–IMG0230`, `07:20–07:40`) is complete: all ten frames are
 
 Batch 024 (`IMG0231–IMG0240`, `07:40–08:00`) is complete: all ten frames are visually approved, `1376×768` sRGB PNGs, uploaded to Drive folder `https://drive.google.com/drive/folders/1LLJg7LOGHGxlXZJMWLaST7MlaPywL0Ew`, and MD5-verified. The batch stays at `LOC-VAL-002` and establishes the pastoral society: round dry-stone basalt homesteads, wattle folds, flocks, clan elders and hand-woven wool, with `CHAR-VAL-001` consistent across the batch. `IMG0240` was cropped and rescaled to full-bleed 16:9 to remove thin letterbox strips before upload. Continuity flags: `IMG0233` carries an unlisted braided headband that should not be repeated, and `IMG0232` renders the copper pin as a coiled wire spiral. Verified progress is **246/1,050 (23.43%)**; next is Batch 025 (`08:00–08:20`). **IMG0160 remains unresolved:** restore or regenerate the original composition (resizing only if appropriate).
 
-## Production Continuation — Batch 025 started (2026-11-09)
+## Production Continuation — Batch 025 complete (2026-11-09)
 
-Batch 025 (`IMG0241–IMG0250`, `08:00–08:20`) is 5/10 approved: IMG0241, IMG0243, IMG0244, IMG0246 and IMG0248 are uploaded and MD5-verified in Drive folder `https://drive.google.com/drive/folders/1LngtxGrC35nCcg96bkF6NlqJJb5O-ilB`. Five rerenders pending: IMG0242 (posed cast lineup, off-model young woman), IMG0245 (grey-blue eyes instead of indigo-violet), IMG0247 (broken CHAR-VAL-001 wardrobe), IMG0249 (thatched roofs and metal shears), IMG0250 (modern enclosed farmland). Verified progress is **246/1,050 (23.43%)**; Batch 025 is not complete. **IMG0160 remains unresolved:** restore or regenerate the original composition (resizing only if appropriate).
+Batch 025 (`IMG0241–IMG0250`, `08:00–08:20`) is complete: all ten frames are visually approved, `1376×768` sRGB PNGs, uploaded to Drive folder `https://drive.google.com/drive/folders/1LngtxGrC35nCcg96bkF6NlqJJb5O-ilB`, and MD5-verified. Five frames were rerendered after QC: IMG0242 no longer poses the clan as a lineup, IMG0245 carries locked indigo-violet eyes after a second attempt, IMG0247 restores the CHAR-VAL-001 wardrobe, IMG0249 has slate-coned roundhouses and stone-blade shearing, and IMG0250 is wild open pasture. Verified progress is **256/1,050 (24.38%)**; next is Batch 026 (`08:20–08:40`). **IMG0160 remains unresolved:** restore or regenerate the original composition (resizing only if appropriate).

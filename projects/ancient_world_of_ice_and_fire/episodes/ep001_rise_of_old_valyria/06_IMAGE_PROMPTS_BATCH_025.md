@@ -8,7 +8,7 @@
 
 **Continuity:** Still entirely at `LOC-VAL-002`. The narration now describes the Valyrians' physical distinctiveness from the Ghiscari and the Rhoynar. Director's decision: the comparison is carried by holding on Valyrian faces and community rather than casting other peoples as characters — `IMG0247` is the single exception, where a distant anonymous caravan of darker-skinned travellers is glimpsed far below the pasture as unidentifiable contrast. Nobody outside `CHAR-VAL-001` and the anonymous clan is named or characterised. Valyrian colouring is locked: alabaster-pale skin, silver-gold to ash-white hair, indigo-violet eyes. No kings, no armour, no weapons.
 
-**Render/QC status:** Five frames (IMG0241, IMG0243, IMG0244, IMG0246, IMG0248) visually approved, uploaded and MD5-verified. Five require rerender after QC: IMG0242 (posed cast lineup, off-model young woman), IMG0245 (grey-blue eyes instead of indigo-violet), IMG0247 (broken CHAR-VAL-001 wardrobe), IMG0249 (thatched roofs, metal shears) and IMG0250 (modern enclosed farmland).
+**Render/QC status:** Batch complete — all ten frames visually approved, `1376x768` sRGB PNGs, uploaded to Drive and MD5-verified. IMG0242, IMG0245, IMG0247, IMG0249 and IMG0250 were rerendered (approved text retained below); IMG0245 needed a second attempt with the indigo-violet eye colour explicitly locked.
 
 ## PROMPT 241 — `VAL-EP001-IMG0241`
 

@@ -13,15 +13,9 @@
   "batch_timespan": "08:00–08:20",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "5_OF_10_APPROVED_UPLOADED_MD5_VERIFIED_5_RERENDERS_PENDING",
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0242",
-    "VAL-EP001-IMG0245",
-    "VAL-EP001-IMG0247",
-    "VAL-EP001-IMG0249",
-    "VAL-EP001-IMG0250"
-  ],
-  "visual_qc_note": "Five frames (IMG0241, IMG0243, IMG0244, IMG0246, IMG0248) passed visual review, are 1376x768 sRGB PNGs, and were uploaded with matching Drive/local MD5s. Five require rerender: IMG0242 poses the clan as a cast lineup and renders the young woman as a polished likeness of a known screen character; IMG0245 renders grey-blue rather than indigo-violet eyes; IMG0247 breaks CHAR-VAL-001 wardrobe continuity; IMG0249 uses thatched roofs and metal shears; IMG0250 reads as modern enclosed farmland.",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten frames passed visual review, are 1376x768 sRGB PNGs, are uploaded to Drive folder 1LngtxGrC35nCcg96bkF6NlqJJb5O-ilB, and each Drive MD5 matches its local file; Drive lists exactly ten images. IMG0242, IMG0245, IMG0247, IMG0249 and IMG0250 were rerendered after the first pass: IMG0242 had posed a cast lineup with an off-model young woman, IMG0245 rendered blue rather than indigo-violet eyes (corrected on a second attempt with the eye colour locked), IMG0247 broke the CHAR-VAL-001 wardrobe, IMG0249 used thatched roofs and metal shears, and IMG0250 read as modern enclosed farmland.",
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0241",
@@ -62,16 +56,16 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_025/VAL-EP001-IMG0242.png",
-      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
-      "size_bytes": null,
-      "md5": null,
-      "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "Young woman reads as a polished likeness of a known screen character (braided platinum styling, glamour lighting) and the group is posed like a cast lineup. Rerender as ordinary clan folk working the fold, plainer faces, no braided platinum hair."
+      "size_bytes": 2566357,
+      "md5": "8d206bab38d2dcb002f5479bfcc733fa",
+      "resolution": "1376x768",
+      "drive_file_id": "1sCggGwwUeJoZI818XBQT_gkVuy-7Xz9L",
+      "drive_url": "https://drive.google.com/file/d/1sCggGwwUeJoZI818XBQT_gkVuy-7Xz9L/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: clan working the fold mid-task (no posed lineup), violet eyes, plain wool head-cloth, unglamorous faces."
     },
     {
       "scene_id": "VAL-EP001-IMG0243",
@@ -137,16 +131,16 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_025/VAL-EP001-IMG0245.png",
-      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
-      "size_bytes": null,
-      "md5": null,
-      "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "Eyes render grey-blue rather than the locked indigo-violet, and the skin reads freckled-rosy instead of alabaster-pale. Rerender with unmistakable violet eyes."
+      "size_bytes": 2338266,
+      "md5": "3347dbf2ba572bb1b94c852c9c8c4fe0",
+      "resolution": "1376x768",
+      "drive_file_id": "1gyPz9H0OskpSzMV8AZriM9qIfMKz_twa",
+      "drive_url": "https://drive.google.com/file/d/1gyPz9H0OskpSzMV8AZriM9qIfMKz_twa/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved after second attempt: unmistakable amethyst-violet irises, matte pale skin, flat daylight, no glamour."
     },
     {
       "scene_id": "VAL-EP001-IMG0246",
@@ -187,16 +181,16 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_025/VAL-EP001-IMG0247.png",
-      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
-      "size_bytes": null,
-      "md5": null,
-      "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "Costume continuity broken: blue tunic and leather vest replace the cream wool, felted cloak, sheepskin mantle and copper pin. Rerender with the locked CHAR-VAL-001 wardrobe."
+      "size_bytes": 2819422,
+      "md5": "464d1f7ed637d60bbc7095af455e5cdb",
+      "resolution": "1376x768",
+      "drive_file_id": "1HS5mF7F8XaXnVOausELICPT2j7CFGrEi",
+      "drive_url": "https://drive.google.com/file/d/1HS5mF7F8XaXnVOausELICPT2j7CFGrEi/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: locked CHAR-VAL-001 wardrobe restored (cream wool, felted cloak, sheepskin mantle, rawhide bracers, copper spiral pin) with the distant caravan as tonal contrast."
     },
     {
       "scene_id": "VAL-EP001-IMG0248",
@@ -237,16 +231,16 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_025/VAL-EP001-IMG0249.png",
-      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
-      "size_bytes": null,
-      "md5": null,
-      "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "Roundhouses have thatched straw roofs instead of dark slate, and metal shears appear. Rerender with slate-coned roofs and non-metal shearing."
+      "size_bytes": 2766135,
+      "md5": "6d6c16a8f2c77a2e22db0a1a61214f9a",
+      "resolution": "1376x768",
+      "drive_file_id": "1Ta03ucxkOxpEzUGaBpJDY3cfJqtoE-T-",
+      "drive_url": "https://drive.google.com/file/d/1Ta03ucxkOxpEzUGaBpJDY3cfJqtoE-T-/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: conical dark slate roofs restored, stone-blade shearing, wooden hand combs, no metal tools."
     },
     {
       "scene_id": "VAL-EP001-IMG0250",
@@ -262,16 +256,18 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_025/VAL-EP001-IMG0250.png",
-      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
-      "size_bytes": null,
-      "md5": null,
-      "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "Landscape reads as modern enclosed farmland — stone-bounded field plots, a road and tidy patchwork terraces — instead of wild open pasture. Rerender without field boundaries or roads."
+      "size_bytes": 2624901,
+      "md5": "891f7d74a2ef52644c769cfecde734da",
+      "resolution": "1376x768",
+      "drive_file_id": "1B9AGIdQVdV6qVjX9x7tjP3eZ4KzenHe6",
+      "drive_url": "https://drive.google.com/file/d/1B9AGIdQVdV6qVjX9x7tjP3eZ4KzenHe6/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: wild open peninsula with no field grid, walls in lines or roads; roundhouse cluster small against unbroken pasture and sea."
     }
-  ]
+  ],
+  "verified_episode_frames_after_batch": 256,
+  "verified_episode_percent_after_batch": "24.38%"
 }
