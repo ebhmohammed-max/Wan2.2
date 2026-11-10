@@ -13,13 +13,11 @@
   "batch_timespan": "08:40–09:00",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "IN_PROGRESS_9_OF_10_APPROVED_UPLOADED_1_RERENDER_PENDING",
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0264"
-  ],
-  "visual_qc_note": "First pass: nine of ten frames passed and were uploaded to Drive folder 1r9uwSLfYkNeHxU9J48g0ZBF5Txwe1wgO, each Drive MD5 matching its local file. The wide-shot eye rule worked — because IMG0261, 0263, 0264, 0266 and 0270 keep faces in profile, angled down or seen from behind, no iris colour was exposed to wash out at 24–35mm, and the three frames that do present eyes (IMG0262, IMG0268 and the eye crops on IMG0263) all rendered saturated amethyst-violet on first attempt. One frame is held: IMG0264's wide clan tableau contains a background figure with a shaved-side undercut and long braid plus a second dark-clad man in the middle distance, both breaking the locked undyed cream-and-charcoal clan silhouette.",
-  "verified_episode_frames_after_batch": 266,
-  "verified_episode_percent_after_batch": "25.33%",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten frames passed visual review, are 1376x768 sRGB PNGs, are uploaded to Drive folder 1r9uwSLfYkNeHxU9J48g0ZBF5Txwe1wgO, and each Drive MD5 matches its local file; Drive lists exactly ten images. Nine passed on the first pass — the wide-shot eye rule now keeps faces in profile, bowed or turned away at 24–35mm, so no iris colour was exposed to wash out, while the three frames that do present eyes (IMG0262, IMG0268, and the crop on IMG0263) all rendered saturated amethyst-violet first time. IMG0264 needed two rerenders: the first pass had a shaved-side undercut with a long braid and a second dark-clad man breaking the clan silhouette; the first rerender fixed the palette and removed cattle but reintroduced a known screen-actress likeness on two women; the second rerender de-identified every face and passed. Continuity flags carried forward: no shaved or undercut hair, no black or navy clothing, and no cattle in any later frame.",
+  "verified_episode_frames_after_batch": 276,
+  "verified_episode_percent_after_batch": "26.29%",
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0261",
@@ -114,16 +112,16 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_027/VAL-EP001-IMG0264.png",
-      "qc_status": "QC_REJECTED_RERENDER_REQUIRED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
-      "size_bytes": 2648773,
-      "md5": "cef4459ea8e8a0a4992e8589c0ddf5c0",
+      "size_bytes": 2679507,
+      "md5": "9566f56461394de342b18e03700dc815",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "REJECTED: a background figure at the right edge carries a shaved-side undercut with a long braid and a black tunic — a modern \"Viking\" silhouette that breaks the locked clan look — and a second man in the middle distance reads dark-clad and off-model. Awaiting rerender with every adult in the same undyed cream-and-charcoal palette and no shaved or undercut hair."
+      "drive_file_id": "1r-XVz-X2MTcrP5Fp_Rml_ovVkgMoypit",
+      "drive_url": "https://drive.google.com/file/d/1r-XVz-X2MTcrP5Fp_Rml_ovVkgMoypit/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved after two rerenders: the whole clan in one frame across the homestead, every adult in the same undyed cream-and-charcoal palette with slate-grey or sheepskin over-garments and rawhide wraps, all hair uniformly silver-gold to ash-white and long, every head bowed to work or turned aside, faces plain and undistinctive. Livestock is long-wooled sheep only. First rerender was rejected for a screen-actress likeness on the woman carrying the infant and the wool-carder; the second de-identified all faces and removed a stray horned bovine."
     },
     {
       "scene_id": "VAL-EP001-IMG0265",

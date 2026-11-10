@@ -31,10 +31,11 @@
     23,
     24,
     25,
-    26
+    26,
+    27
   ],
-  "next_batch": 27,
-  "next_image_number": 261,
+  "next_batch": 28,
+  "next_image_number": 271,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -126,7 +127,8 @@
     "batch_023": "https://drive.google.com/drive/folders/1V6YsdqUSkso6Y6WHw5FSe_DuTZaMnC9k",
     "batch_024": "https://drive.google.com/drive/folders/1LLJg7LOGHGxlXZJMWLaST7MlaPywL0Ew",
     "batch_025": "https://drive.google.com/drive/folders/1LngtxGrC35nCcg96bkF6NlqJJb5O-ilB",
-    "batch_026": "https://drive.google.com/drive/folders/1C-0rzizehths1tSA0As1NXfVJRW81y0G"
+    "batch_026": "https://drive.google.com/drive/folders/1C-0rzizehths1tSA0As1NXfVJRW81y0G",
+    "batch_027": "https://drive.google.com/drive/folders/1r9uwSLfYkNeHxU9J48g0ZBF5Txwe1wgO"
   },
   "batch_001_images_65mm_upgraded": [
     {
@@ -1910,8 +1912,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-10T09:40:00Z",
-  "verified_progress_percent": 25.33,
+  "last_updated": "2026-11-10T10:20:00Z",
+  "verified_progress_percent": 26.29,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3607,7 +3609,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 266,
+  "verified_image_count": 276,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -4801,6 +4803,218 @@
       "drive_url": "https://drive.google.com/file/d/1P7sokHuTbz8i9YchnRc4rZY_5euaeHsC/view?usp=drivesdk",
       "md5": "906e099a42986228e40be5d714cb1f08",
       "size_bytes": 2572729,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_027_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0261",
+      "timestamp": "08:40–08:42",
+      "narration_slice": "almost nowhere else in the",
+      "shot_type": "Dynamic medium lateral tracking angle",
+      "visual_beat": "Lateral tracking walk along the low basalt wall, both men in profile",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1J-fpyY3MPW03f-r9ym98cfY9ytw-QQ5y",
+      "drive_url": "https://drive.google.com/file/d/1J-fpyY3MPW03f-r9ym98cfY9ytw-QQ5y/view?usp=drivesdk",
+      "md5": "2aa77e88f0e7d912be376dbb5865faad",
+      "size_bytes": 2370405,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0262",
+      "timestamp": "08:42–08:44",
+      "narration_slice": "known world? Most maesters of",
+      "shot_type": "Compressed telephoto dramatic subject framing",
+      "visual_beat": "Compressed telephoto medium close-up of the elder, half-smiling",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1PZdMqQcx6wzqXIy8Py-PjMZuw82wfRj1",
+      "drive_url": "https://drive.google.com/file/d/1PZdMqQcx6wzqXIy8Py-PjMZuw82wfRj1/view?usp=drivesdk",
+      "md5": "058c8b123b2925b4a82df198b570f9fe",
+      "size_bytes": 2623224,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0263",
+      "timestamp": "08:44–08:46",
+      "narration_slice": "the Citadel propose a",
+      "shot_type": "Medium cinematic subject focus",
+      "visual_beat": "Two-shot sharing bread on the wall, heads bent to the work",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "10NjJUd0y5Es1IDo7cAD79ldrLfXmf-HG",
+      "drive_url": "https://drive.google.com/file/d/10NjJUd0y5Es1IDo7cAD79ldrLfXmf-HG/view?usp=drivesdk",
+      "md5": "c863a464d40aba6d3d962b2c41adb077",
+      "size_bytes": 2591986,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0264",
+      "timestamp": "08:46–08:48",
+      "narration_slice": "grounded natural answer: ages of",
+      "shot_type": "Wide environmental storytelling tableau",
+      "visual_beat": "Wide tableau of the whole clan at work across the homestead",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1r-XVz-X2MTcrP5Fp_Rml_ovVkgMoypit",
+      "drive_url": "https://drive.google.com/file/d/1r-XVz-X2MTcrP5Fp_Rml_ovVkgMoypit/view?usp=drivesdk",
+      "md5": "9566f56461394de342b18e03700dc815",
+      "size_bytes": 2679507,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0265",
+      "timestamp": "08:48–08:50",
+      "narration_slice": "geographic isolation trapped between sea",
+      "shot_type": "High-elevation geographic / scale reveal",
+      "visual_beat": "High-elevation reveal — land pinched between the sea and the cones",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1YmvIt6M3np338gTDn0Ce4ox35DawdQdz",
+      "drive_url": "https://drive.google.com/file/d/1YmvIt6M3np338gTDn0Ce4ox35DawdQdz/view?usp=drivesdk",
+      "md5": "dded4fdab0af156456c8a76348c5d5f4",
+      "size_bytes": 2734506,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0266",
+      "timestamp": "08:50–08:52",
+      "narration_slice": "and volcano, reinforced by close",
+      "shot_type": "Towering vertical scale composition",
+      "visual_beat": "Towering defile — two figures walking out toward a sliver of sea",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "11DqH3XDKVNIsN_4lvcQKY3UKoK24B_6d",
+      "drive_url": "https://drive.google.com/file/d/11DqH3XDKVNIsN_4lvcQKY3UKoK24B_6d/view?usp=drivesdk",
+      "md5": "a9d3d1bdec62e0d4843c8e70130ebbdc",
+      "size_bytes": 2283999,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0267",
+      "timestamp": "08:52–08:54",
+      "narration_slice": "kinship marriage among a small",
+      "shot_type": "Macro environmental / material texture insert",
+      "visual_beat": "Macro insert — old and young hands on the same ground loom",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1iMMmHIM3k4gK7nGaovBiuTb5PVdiA_uW",
+      "drive_url": "https://drive.google.com/file/d/1iMMmHIM3k4gK7nGaovBiuTb5PVdiA_uW/view?usp=drivesdk",
+      "md5": "b8a0e4efdd880ddc9f8b11d38895c02f",
+      "size_bytes": 2775970,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0268",
+      "timestamp": "08:54–08:56",
+      "narration_slice": "founding population, fixed rare recessive",
+      "shot_type": "Intimate close-up detail / expression beat",
+      "visual_beat": "Intimate close-up — clan woman, child's head at the bottom edge",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1KyRNPrOznL7pU8UXv2vR6-0-DOXgO0Bt",
+      "drive_url": "https://drive.google.com/file/d/1KyRNPrOznL7pU8UXv2vR6-0-DOXgO0Bt/view?usp=drivesdk",
+      "md5": "5dc2e6d6ca221a00044f335ddb7ca867",
+      "size_bytes": 2650896,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0269",
+      "timestamp": "08:56–08:58",
+      "narration_slice": "traits of silver hair and",
+      "shot_type": "Extreme close-up tactile / light study",
+      "visual_beat": "Extreme close-up — backlit silver-gold hair over the shoulder",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1nGtoHL2djdWMUVGQ6sr964X5CHYZCMJh",
+      "drive_url": "https://drive.google.com/file/d/1nGtoHL2djdWMUVGQ6sr964X5CHYZCMJh/view?usp=drivesdk",
+      "md5": "dc4a05c7003e1ec59a2498afde72fd36",
+      "size_bytes": 2793648,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0270",
+      "timestamp": "08:58–09:00",
+      "narration_slice": "purple eyes across the clans.",
+      "shot_type": "Transitional wide horizon / bridge framing",
+      "visual_beat": "Transitional wide — the clan on the sea shelf, backs to camera",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1AdYHWfg9A4Y9MyWZSNSquiB64KTpIawp",
+      "drive_url": "https://drive.google.com/file/d/1AdYHWfg9A4Y9MyWZSNSquiB64KTpIawp/view?usp=drivesdk",
+      "md5": "83dea1c20a4ad0b4506d4528a02ebe87",
+      "size_bytes": 2450862,
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
