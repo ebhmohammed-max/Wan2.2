@@ -6,7 +6,7 @@
 - **Visual Cadence:** **`30 images per minute`** (`1 image every 2.0 seconds` · **`1,050 total images`** across **`105 batches of 10`**)
 - **Locked Cinematic Visual Standard:** **65mm Live-Action / Physically Realistic 3D Historical Cinema** (*ARRI Alexa 65 · Panavision Primo Spherical Primes · Kodak Vision3 500T Grade: Warm Sandstone Highlights, Muted Archaeological Midtones, Deep Ink-Navy Shadows — calibrated to `The_Trojan_War_The_Legend_the_City_and_the_Evidence`*)
 - **Google Drive Master Archive:** `Game of thrones YT` (`1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo`)
-- **Current Gate Status:** **Batches 001–022 complete; Batch 023 is in progress (6/10 approved). `226 / 1,050` images are Drive-verified and visually QC-approved (`21.52%`). Rerender IMG0222, IMG0225, IMG0226 and IMG0229.**
+- **Current Gate Status:** **Batches 001–023 complete. `236 / 1,050` images are Drive-verified and visually QC-approved (`22.48%`). Next: Batch 024 (`07:40–08:00`).**
 
 ---
 
@@ -3307,6 +3307,6 @@ Batch 021 (`IMG0201–IMG0210`, `06:40–07:00`) is complete. Ten images were vi
 
 Batch 022 (`IMG0211–IMG0220`, `07:00–07:20`) is complete: all ten frames are visually approved, `1376×768` sRGB PNGs, uploaded to Drive folder `https://drive.google.com/drive/folders/1KTaABRWYhUZKbdNpjsmxl08Iq3k3YWaQ`, and MD5-verified. Four frames were replaced after the first pass: `IMG0211` and `IMG0219` no longer read as constructed tunnels, `IMG0213` removes modern-looking miners and incorrect creature anatomy, and `IMG0220` now holds a high-angle juvenile-scale reveal from an irregular natural crack. Verified progress is **226/1,050 (21.52%)**; next is Batch 023 (`07:20–07:40`). **IMG0160 remains unresolved:** restore or regenerate the original composition (resizing only if appropriate).
 
-## Production Continuation — Batch 023 started (2026-11-09)
+## Production Continuation — Batch 023 complete (2026-11-09)
 
-Batch 023 (`IMG0221–IMG0230`, `07:20–07:40`) is 6/10 approved: IMG0221, IMG0223, IMG0224, IMG0227, IMG0228 and IMG0230 are uploaded and MD5-verified in Drive folder `https://drive.google.com/drive/folders/1V6YsdqUSkso6Y6WHw5FSe_DuTZaMnC9k`. Four rerenders pending: IMG0222 (bone-like segment instead of living armor ring), IMG0225 (round cave mouth onto a full landscape), IMG0226 (rectangular longhouse forms instead of round basalt roundhouses), IMG0229 (modern field grid and tracks). Verified progress is **226/1,050 (21.52%)**; Batch 023 is not complete. **IMG0160 remains unresolved:** restore or regenerate the original composition (resizing only if appropriate).
+Batch 023 (`IMG0221–IMG0230`, `07:20–07:40`) is complete: all ten frames are visually approved, `1376×768` sRGB PNGs, uploaded to Drive folder `https://drive.google.com/drive/folders/1V6YsdqUSkso6Y6WHw5FSe_DuTZaMnC9k`, and MD5-verified. Four frames were rerendered after QC: `IMG0222` no longer reads as a bone joint, `IMG0225` replaces the round cave mouth onto a landscape with a thin blade of daylight, `IMG0226` uses round dry-stone basalt roundhouses instead of longhouse forms, and `IMG0229` removes the modern field grid and tracks. Verified progress is **236/1,050 (22.48%)**; next is Batch 024 (`07:40–08:00`). **IMG0160 remains unresolved:** restore or regenerate the original composition (resizing only if appropriate).

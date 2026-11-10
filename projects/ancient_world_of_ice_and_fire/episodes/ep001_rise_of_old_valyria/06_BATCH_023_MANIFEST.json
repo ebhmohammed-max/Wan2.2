@@ -13,14 +13,9 @@
   "batch_timespan": "07:20–07:40",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "6_OF_10_APPROVED_UPLOADED_MD5_VERIFIED_4_RERENDERS_PENDING",
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0222",
-    "VAL-EP001-IMG0225",
-    "VAL-EP001-IMG0226",
-    "VAL-EP001-IMG0229"
-  ],
-  "visual_qc_note": "Six frames (IMG0221, IMG0223, IMG0224, IMG0227, IMG0228, IMG0230) passed visual review, are 1376x768 sRGB PNGs, and were uploaded with matching Drive/local MD5s. Four frames require rerender: IMG0222 reads as a skeletonised bone joint rather than living armor ring; IMG0225 opens onto a full landscape through a round cave mouth instead of a sliver of daylight; IMG0226 uses rectangular longhouse forms instead of round dry-stone basalt dwellings; IMG0229 shows a modern-looking field grid and tracks.",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten frames passed visual review, are 1376x768 sRGB PNGs, are uploaded to Drive folder 1V6YsdqUSkso6Y6WHw5FSe_DuTZaMnC9k, and each Drive MD5 matches its local file. IMG0222, IMG0225, IMG0226 and IMG0229 were rerendered after the first pass: IMG0222 had read as a bleached bone joint, IMG0225 showed a round cave mouth onto a full landscape, IMG0226 used rectangular longhouse forms, and IMG0229 showed a modern-looking field grid with tracks.",
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0221",
@@ -59,16 +54,16 @@
         "CRT-VAL-001"
       ],
       "file_path": "assets/batch_023/VAL-EP001-IMG0222.png",
-      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": null,
-      "size_bytes": null,
-      "md5": null,
-      "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "H"
+      "size_bytes": 2845039,
+      "md5": "4d47c4418059bc4678e47a42b6444555",
+      "resolution": "1376x768",
+      "drive_file_id": "1GeuLQhW13n3rauL89aw0E4Sd46v9utJ8",
+      "drive_url": "https://drive.google.com/file/d/1GeuLQhW13n3rauL89aw0E4Sd46v9utJ8/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: soft glossy pale blistered hide band fused into pitted basalt and obsidian; no bone, joint or skeletal read."
     },
     {
       "scene_id": "VAL-EP001-IMG0223",
@@ -131,16 +126,16 @@
         "CRT-VAL-001"
       ],
       "file_path": "assets/batch_023/VAL-EP001-IMG0225.png",
-      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": null,
-      "size_bytes": null,
-      "md5": null,
-      "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "T"
+      "size_bytes": 2125106,
+      "md5": "cd92fee0b38b06075cd02e4b3acb011b",
+      "resolution": "1376x768",
+      "drive_file_id": "1IhXcY6UOv3V1V1rL-2nj-tG1zfw0VNj7",
+      "drive_url": "https://drive.google.com/file/d/1IhXcY6UOv3V1V1rL-2nj-tG1zfw0VNj7/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: narrow jagged rock chimney with only a thin blade of cold daylight between leaning stone lips; no landscape reveal."
     },
     {
       "scene_id": "VAL-EP001-IMG0226",
@@ -156,16 +151,16 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_023/VAL-EP001-IMG0226.png",
-      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": null,
-      "size_bytes": null,
-      "md5": null,
-      "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "T"
+      "size_bytes": 2747194,
+      "md5": "263ba3db8f73ec2ca8c83954d897399d",
+      "resolution": "1376x768",
+      "drive_file_id": "1ueiLB_mFzz5rB6EISitybnQPsM7DZ7BB",
+      "drive_url": "https://drive.google.com/file/d/1ueiLB_mFzz5rB6EISitybnQPsM7DZ7BB/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: cluster of round dry-stacked basalt roundhouses with conical slate roofs and wattle folds; shepherd correct in costume and crook."
     },
     {
       "scene_id": "VAL-EP001-IMG0227",
@@ -231,16 +226,16 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_023/VAL-EP001-IMG0229.png",
-      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": null,
-      "size_bytes": null,
-      "md5": null,
-      "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "L"
+      "size_bytes": 2643392,
+      "md5": "f1ce698f9693fbbf75f3e24ac81fc614",
+      "resolution": "1376x768",
+      "drive_file_id": "1v8MIUsRkKT8BqslZ7eB5mKWRTECLtqL8",
+      "drive_url": "https://drive.google.com/file/d/1v8MIUsRkKT8BqslZ7eB5mKWRTECLtqL8/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: wild open pasture descending to the cerulean Summer Sea, roundhouse cluster, steaming clefts and three smoking cones; no field grid or tracks."
     },
     {
       "scene_id": "VAL-EP001-IMG0230",
@@ -268,5 +263,7 @@
       "qc_note": "Approved: three-quarter elder shepherd portrait, indigo-violet eyes, ruddy weathered cheekbones, hammered red-copper spiral pin, smoking cones out of focus."
     }
   ],
-  "verified_episode_frames_after_batch_if_completed": 236
+  "verified_episode_frames_after_batch_if_completed": 236,
+  "verified_episode_frames_after_batch": 236,
+  "verified_episode_percent_after_batch": "22.48%"
 }

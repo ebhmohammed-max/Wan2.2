@@ -8,7 +8,7 @@
 
 **Continuity:** Continue directly from Batch 022's subterranean firewyrm chambers. The first five frames close out the underworld: monstrous scale, heat-sensing anatomy and then a single upward breath toward daylight. `IMG0226` is the hard cut to the surface — `LOC-VAL-002` pastoral foothills and basalt sheepherder homesteads, with `CHAR-VAL-001` introduced in the locked costume and face described in the character bible. No kings, no armies, no imperial architecture anywhere in this batch.
 
-**Render/QC status:** Six frames (IMG0221, IMG0223, IMG0224, IMG0227, IMG0228, IMG0230) visually approved, uploaded and MD5-verified. Four frames require rerender after QC: IMG0222 (bone-like segment), IMG0225 (round cave mouth onto full landscape), IMG0226 (rectangular longhouse forms instead of roundhouses) and IMG0229 (modern field grid and tracks).
+**Render/QC status:** Batch complete — all ten frames visually approved, `1376x768` sRGB PNGs, uploaded to Drive and MD5-verified. IMG0222, IMG0225, IMG0226 and IMG0229 were rerendered (approved v2 prompt text retained below) after the first pass produced a bone-like segment, a round cave mouth onto a full landscape, rectangular longhouse forms and a modern-looking field grid.
 
 ## PROMPT 221 — `VAL-EP001-IMG0221`
 

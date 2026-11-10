@@ -146,10 +146,10 @@ projects/ancient_world_of_ice_and_fire/
 
 | Episode | Title | Duration | Total Frames (`30/min`) | Completed Batches | Completed Frames | Next Queued Batch |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–022 complete; Batch 023 6/10** (`07:20–07:40` partial) | **226 / 1,050** (`21.52%`) | **Finish Batch 023: IMG0222, IMG0225, IMG0226, IMG0229** |
+| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–023 complete** (`07:20–07:40`) | **236 / 1,050** (`22.48%`) | **Batch 024: `07:40–08:00`** |
 
 
-**Current progress note (2026-11-09):** 226/1,050 frames are Drive-verified (Batches 001–022 complete; Batch 022's four rerenders are approved and checksum-verified). All approved frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after visual-QC correction; IMG0129 was reframed to remove letterbox strips; IMG0171 was reframed during QC. IMG0160 remains unresolved: its top-left crop was rejected; restore or regenerate the original composition, resizing only if appropriate.
+**Current progress note (2026-11-09):** 236/1,050 frames are Drive-verified (Batches 001–023 complete; the four Batch 022 and four Batch 023 rerenders are approved and checksum-verified). All approved frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after visual-QC correction; IMG0129 was reframed to remove letterbox strips; IMG0171 was reframed during QC. IMG0160 remains unresolved: its top-left crop was rejected; restore or regenerate the original composition, resizing only if appropriate.
 
 
 **Batch 020 complete:** `IMG0191–IMG0200` (`06:20–06:40`) are visually approved, uploaded and checksum-verified in Drive folder `https://drive.google.com/drive/folders/1qGCm4kPxpOzc9x5Befotaj1Vq42xxkhO`. Batch 021 is complete; see the verified inventory and QC report.
@@ -163,4 +163,4 @@ projects/ancient_world_of_ice_and_fire/
 
 **Batch 022 complete:** All ten approved images are uploaded and MD5-verified in Drive folder `https://drive.google.com/drive/folders/1KTaABRWYhUZKbdNpjsmxl08Iq3k3YWaQ`. `IMG0211`, `IMG0213`, `IMG0219` and `IMG0220` were rerendered after QC rejected the first pass (constructed-tunnel looks, modern-looking miners, wrong creature anatomy, missed juvenile scale cue).
 
-**Batch 023 partial QC:** Six approved images are uploaded and MD5-verified in Drive folder `https://drive.google.com/drive/folders/1V6YsdqUSkso6Y6WHw5FSe_DuTZaMnC9k` (IMG0221, IMG0223, IMG0224, IMG0227, IMG0228, IMG0230). Rerender `IMG0222` (bone-like segment), `IMG0225` (round cave mouth), `IMG0226` (longhouse forms), `IMG0229` (field grid and tracks); do not mark the batch complete until all ten are approved and verified.
+**Batch 023 complete:** All ten approved images are uploaded and MD5-verified in Drive folder `https://drive.google.com/drive/folders/1V6YsdqUSkso6Y6WHw5FSe_DuTZaMnC9k`. `IMG0222`, `IMG0225`, `IMG0226` and `IMG0229` were rerendered after QC rejected the first pass (bone-like segment, round cave mouth onto a landscape, longhouse forms, modern field grid). Next batch: `07:40–08:00`.

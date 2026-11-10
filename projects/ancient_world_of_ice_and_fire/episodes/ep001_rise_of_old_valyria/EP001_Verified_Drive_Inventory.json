@@ -27,10 +27,11 @@
     "Batch 019",
     "Batch 020",
     "Batch 021",
-    22
+    22,
+    23
   ],
-  "next_batch": 23,
-  "next_image_number": 221,
+  "next_batch": 24,
+  "next_image_number": 231,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1152,7 +1153,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": 23,
+  "in_progress_batch": null,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1903,8 +1904,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-09T22:05:00Z",
-  "verified_progress_percent": 21.52,
+  "last_updated": "2026-11-09T22:40:00Z",
+  "verified_progress_percent": 22.48,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3601,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 226,
+  "verified_image_count": 236,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -3991,13 +3992,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "batch_023_pending_scenes": [
-    "VAL-EP001-IMG0222",
-    "VAL-EP001-IMG0225",
-    "VAL-EP001-IMG0226",
-    "VAL-EP001-IMG0229"
-  ],
-  "batch_023_partial_verified_images": [
+  "batch_023_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0221",
       "timestamp": "07:20–07:22",
@@ -4013,6 +4008,25 @@
       "drive_url": "https://drive.google.com/file/d/1xV13m7-Ed2ArXxJBY65gE_4vJjMb7mb5/view?usp=drivesdk",
       "md5": "3d422bdb9a8ff461f1514c5bbbaab21e",
       "size_bytes": 2221169,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0222",
+      "timestamp": "07:22–07:24",
+      "narration_slice": "specimens reached monstrous lengths in",
+      "shot_type": "Macro environmental / material texture insert — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Macro environmental / material texture insert — Blind wingless Firewyrms boring through superheated rock",
+      "location_refs": [
+        "LOC-VAL-005",
+        "CRT-VAL-001"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1GeuLQhW13n3rauL89aw0E4Sd46v9utJ8",
+      "drive_url": "https://drive.google.com/file/d/1GeuLQhW13n3rauL89aw0E4Sd46v9utJ8/view?usp=drivesdk",
+      "md5": "4d47c4418059bc4678e47a42b6444555",
+      "size_bytes": 2845039,
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
@@ -4056,6 +4070,45 @@
       "upload_checksum_verified": true
     },
     {
+      "scene_id": "VAL-EP001-IMG0225",
+      "timestamp": "07:28–07:30",
+      "narration_slice": "that deep earth undisturbed.",
+      "shot_type": "Transitional wide horizon / bridge framing — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Transitional wide horizon / bridge framing — Blind wingless Firewyrms boring through superheated rock",
+      "location_refs": [
+        "LOC-VAL-005",
+        "CRT-VAL-001"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1IhXcY6UOv3V1V1rL-2nj-tG1zfw0VNj7",
+      "drive_url": "https://drive.google.com/file/d/1IhXcY6UOv3V1V1rL-2nj-tG1zfw0VNj7/view?usp=drivesdk",
+      "md5": "cd92fee0b38b06075cd02e4b3acb011b",
+      "size_bytes": 2125106,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0226",
+      "timestamp": "07:30–07:32",
+      "narration_slice": "Those surface-dwellers were the early",
+      "shot_type": "Low-angle monumental architectural / geological framing — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1ueiLB_mFzz5rB6EISitybnQPsM7DZ7BB",
+      "drive_url": "https://drive.google.com/file/d/1ueiLB_mFzz5rB6EISitybnQPsM7DZ7BB/view?usp=drivesdk",
+      "md5": "263ba3db8f73ec2ca8c83954d897399d",
+      "size_bytes": 2747194,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
       "scene_id": "VAL-EP001-IMG0227",
       "timestamp": "07:32–07:34",
       "narration_slice": "Valyrians. The surviving histories",
@@ -4091,6 +4144,26 @@
       "drive_url": "https://drive.google.com/file/d/1N-fQ_JYLjeV07ot4PpOqMnwswT18suzg/view?usp=drivesdk",
       "md5": "47fda29c2017c2f8f560d2e0aa37450b",
       "size_bytes": 2541088,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0229",
+      "timestamp": "07:36–07:38",
+      "narration_slice": "kings, bronze-armored emperors, or conquering",
+      "shot_type": "Ultra-wide establishing vista — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Ultra-wide establishing vista — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1v8MIUsRkKT8BqslZ7eB5mKWRTECLtqL8",
+      "drive_url": "https://drive.google.com/file/d/1v8MIUsRkKT8BqslZ7eB5mKWRTECLtqL8/view?usp=drivesdk",
+      "md5": "f1ce698f9693fbbf75f3e24ac81fc614",
+      "size_bytes": 2643392,
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
