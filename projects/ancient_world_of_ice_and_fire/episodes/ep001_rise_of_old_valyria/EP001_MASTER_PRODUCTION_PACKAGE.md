@@ -6,7 +6,7 @@
 - **Visual Cadence:** **`30 images per minute`** (`1 image every 2.0 seconds` · **`1,050 total images`** across **`105 batches of 10`**)
 - **Locked Cinematic Visual Standard:** **65mm Live-Action / Physically Realistic 3D Historical Cinema** (*ARRI Alexa 65 · Panavision Primo Spherical Primes · Kodak Vision3 500T Grade: Warm Sandstone Highlights, Muted Archaeological Midtones, Deep Ink-Navy Shadows — calibrated to `The_Trojan_War_The_Legend_the_City_and_the_Evidence`*)
 - **Google Drive Master Archive:** `Game of thrones YT` (`1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo`)
-- **Current Gate Status:** **Batches 001–018 complete (`180/180`); `180 / 1,050` Drive-verified and visually QC-approved images (`17.14%`). Batch 019 is next.**
+- **Current Gate Status:** **Batches 001–019 complete (`190/190`); `190 / 1,050` Drive-verified and visually QC-approved images (`18.10%`). Batch 020 is next.**
 
 ---
 
@@ -3281,3 +3281,8 @@ Batch 017 (`IMG0161–IMG0170`, `05:20–05:40`) is complete: ten frames carry t
 ## Production Continuation — Batch 018 (2026-11-09)
 
 Batch 018 (`IMG0171–IMG0180`, `05:40–06:00`) is complete: ten frames transition from daylight steam above the Fourteen Flames to restrained crimson caldera glow at night. All ten were visually reviewed, uploaded to Drive folder `15tqAVdqCqPBuhuSyatfWHCUYYTk--_Hq`, and MD5-verified as `1376×768` sRGB PNGs. Verified progress is **180/1,050 (17.14%)**; next queued batch is 019 (`06:00–06:20`).
+
+
+## Production Continuation — Batch 019 (2026-11-09)
+
+Batch 019 (`IMG0181–IMG0190`, `06:00–06:20`) is complete: ten frames move from a mariner’s austere offshore impression to olive groves, hot springs and exceptionally fertile mineral-rich ash soil. All ten were visually reviewed, uploaded to Drive folder `1p60C66cm_rEKBz3fw3RxgiyRFSopKWdl`, and MD5-verified as `1376×768` sRGB PNGs. Verified progress is **190/1,050 (18.10%)**; next queued batch is 020 (`06:20–06:40`).

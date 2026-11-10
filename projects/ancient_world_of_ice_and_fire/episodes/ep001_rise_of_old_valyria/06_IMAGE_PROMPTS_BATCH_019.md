@@ -4,7 +4,7 @@
 **Batch:** 019 of 105 · `06:00–06:20` · 10 frames · 2 seconds/frame  
 **Visual standard:** photoreal live-action landscape reconstruction, grounded 65mm historical cinema, ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T; warm sandstone highlights, emerald olive groves, deep cerulean Summer Sea and muted volcanic stone.  
 **Continuity:** Pre-Doom Valyria remains intact. The Fourteen Flames are geologically active but not erupting in the present; volcanic ash from ancient eruptions has weathered into exceptionally fertile black soil. Show natural olive groves, warm springs, rain-dark earth and restrained steam. No destruction, modern ships, towns, dragons or modern map graphics.  
-**Render/QC status:** Prompts prepared; render, visual QC and Drive upload pending.
+**Render/QC status:** All ten frames rendered, visually reviewed and approved; uploaded to Drive and MD5-verified.
 
 ## PROMPT 171 — `VAL-EP001-IMG0181`
 

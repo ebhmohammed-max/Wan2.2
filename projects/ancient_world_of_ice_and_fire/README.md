@@ -100,6 +100,7 @@ projects/ancient_world_of_ice_and_fire/
         ├── 06_BATCH_017_MANIFEST.json               # Batch 017 manifest (10/10 uploaded, visually QC-approved, MD5-verified)
         ├── STORYBOARD_BATCH_017_PREVIEW.html         # QC storyboard preview for Batch 017
         ├── STORYBOARD_BATCH_018_PREVIEW.html         # QC storyboard preview for Batch 018
+        ├── STORYBOARD_BATCH_019_PREVIEW.html         # QC storyboard preview for Batch 019
         ├── 07_CONTINUITY_AND_QC_REPORT.md           # Part 7: Continuity Audit & QC Log (Batches 001–015; visual-QC status recorded)
         ├── 08_YOUTUBE_PUBLISHING_PACKAGE.md         # Part 8: YouTube SEO, Chapters, Thumbnail & Teaser
         ├── STORYBOARD_BATCH_001_PREVIEW.html        # Visual 16:9 Storyboard & 2s Cut Sync Viewer (00:00–00:20)
@@ -148,4 +149,4 @@ projects/ancient_world_of_ice_and_fire/
 | **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–015 (`150/150`)** (`00:00–05:00`) | **150 / 1,050** (`14.29%`) | **Batch 016** (`05:00–05:20`) |
 
 
-**Current progress note (2026-11-09):** 180/1,050 images are in Drive (Batches 001–018 complete). All new frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after visual-QC correction; IMG0129 was reframed to remove letterbox strips; IMG0160 and IMG0171 were reframed during QC.
+**Current progress note (2026-11-09):** 190/1,050 images are in Drive (Batches 001–019 complete). All new frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after visual-QC correction; IMG0129 was reframed to remove letterbox strips; IMG0160 and IMG0171 were reframed during QC.

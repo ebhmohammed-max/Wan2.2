@@ -13,20 +13,9 @@
   "batch_timespan": "06:00–06:20",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "PROMPTS_PREPARED_RENDER_PENDING",
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0181",
-    "VAL-EP001-IMG0182",
-    "VAL-EP001-IMG0183",
-    "VAL-EP001-IMG0184",
-    "VAL-EP001-IMG0185",
-    "VAL-EP001-IMG0186",
-    "VAL-EP001-IMG0187",
-    "VAL-EP001-IMG0188",
-    "VAL-EP001-IMG0189",
-    "VAL-EP001-IMG0190"
-  ],
-  "visual_qc_note": "Batch 019 prompts prepared from scene breakdown; render, visual QC, Drive upload and MD5 verification pending.",
+  "batch_status": "10_OF_10_UPLOADED_MD5_VERIFIED_VISUAL_QC_APPROVED",
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten frames visually reviewed; all are 1376x768 sRGB PNGs, uploaded to Drive, and each Drive MD5 matches the local checksum. The sequence reframes apparently harsh volcanic terrain as fertile olive valleys, dark mineral soil and natural springs.",
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0181",
@@ -40,9 +29,15 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_019/VAL-EP001-IMG0181.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat."
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2522619,
+      "md5": "3e553c267f8213244bc6178f8bdf2315",
+      "resolution": "1376x768",
+      "drive_file_id": "1bPp0MBLKKtVDURBoDBVCGQCxrtffTp6A",
+      "drive_url": "https://drive.google.com/file/d/1bPp0MBLKKtVDURBoDBVCGQCxrtffTp6A/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0182",
@@ -56,9 +51,15 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_019/VAL-EP001-IMG0182.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain."
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 2685495,
+      "md5": "792debbe388284507f8935671ee0837e",
+      "resolution": "1376x768",
+      "drive_file_id": "1Vg1vjVPpsdDmQrOrBlIK0wnxTr2CY7-c",
+      "drive_url": "https://drive.google.com/file/d/1Vg1vjVPpsdDmQrOrBlIK0wnxTr2CY7-c/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0183",
@@ -72,9 +73,15 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_019/VAL-EP001-IMG0183.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals."
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2605464,
+      "md5": "c8743a23457797430ff3cc92cb400a4b",
+      "resolution": "1376x768",
+      "drive_file_id": "13GYRA1N-O-QvO2iGf3_HZ_7PuA16TXv8",
+      "drive_url": "https://drive.google.com/file/d/13GYRA1N-O-QvO2iGf3_HZ_7PuA16TXv8/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0184",
@@ -88,9 +95,15 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_019/VAL-EP001-IMG0184.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat."
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2720817,
+      "md5": "767a92799ca94a71cc897eef1b338fad",
+      "resolution": "1376x768",
+      "drive_file_id": "1BgshJ1TKUG1r82V0dEKqxIracfUkeQRu",
+      "drive_url": "https://drive.google.com/file/d/1BgshJ1TKUG1r82V0dEKqxIracfUkeQRu/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0185",
@@ -104,9 +117,15 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_019/VAL-EP001-IMG0185.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain."
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 2783259,
+      "md5": "ee37a39d22b28f3e3e13bb9245a20099",
+      "resolution": "1376x768",
+      "drive_file_id": "1ITBBpQrsHiQKe6x1tK2gkTbOSDlJ-ptz",
+      "drive_url": "https://drive.google.com/file/d/1ITBBpQrsHiQKe6x1tK2gkTbOSDlJ-ptz/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0186",
@@ -120,9 +139,15 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_019/VAL-EP001-IMG0186.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals."
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2531752,
+      "md5": "29a0d605a15aac8f2ec3beb675dbd697",
+      "resolution": "1376x768",
+      "drive_file_id": "1H2oidlhHH4gQw3ghfPLFMmgYJmhNK2Gw",
+      "drive_url": "https://drive.google.com/file/d/1H2oidlhHH4gQw3ghfPLFMmgYJmhNK2Gw/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0187",
@@ -136,9 +161,15 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_019/VAL-EP001-IMG0187.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat."
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2646997,
+      "md5": "a7855770aa5c0898e29788040cb5734d",
+      "resolution": "1376x768",
+      "drive_file_id": "1K_VH9AMBt7IqKFzi7Yf28prDjQmSvbSb",
+      "drive_url": "https://drive.google.com/file/d/1K_VH9AMBt7IqKFzi7Yf28prDjQmSvbSb/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0188",
@@ -152,9 +183,15 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_019/VAL-EP001-IMG0188.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain."
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 2743381,
+      "md5": "b2c1098868f46f58a358c1fee18aa8ee",
+      "resolution": "1376x768",
+      "drive_file_id": "1WJQcJAGEVdAddR6GQ8NgrM-T2TrWE1LV",
+      "drive_url": "https://drive.google.com/file/d/1WJQcJAGEVdAddR6GQ8NgrM-T2TrWE1LV/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0189",
@@ -168,9 +205,15 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_019/VAL-EP001-IMG0189.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals."
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2518548,
+      "md5": "4dda5f8bf9406183b029a955ba74b187",
+      "resolution": "1376x768",
+      "drive_file_id": "1WKuvqtlXhaHZN01mNZQdCP790Dm49jyG",
+      "drive_url": "https://drive.google.com/file/d/1WKuvqtlXhaHZN01mNZQdCP790Dm49jyG/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     },
     {
       "scene_id": "VAL-EP001-IMG0190",
@@ -184,9 +227,15 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_019/VAL-EP001-IMG0190.png",
-      "qc_status": "PENDING_RENDER",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
-      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat."
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2527029,
+      "md5": "15581dc46b585eee93c247e710e74d3f",
+      "resolution": "1376x768",
+      "drive_file_id": "1-Jlc5enPdGIRB3zSiBcYr__QoF3792up",
+      "drive_url": "https://drive.google.com/file/d/1-Jlc5enPdGIRB3zSiBcYr__QoF3792up/view?usp=drivesdk",
+      "md5_verified_on_drive": true
     }
   ]
 }

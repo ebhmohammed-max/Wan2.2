@@ -23,10 +23,11 @@
     "Batch 015",
     "Batch 016",
     "Batch 017",
-    "Batch 018"
+    "Batch 018",
+    "Batch 019"
   ],
-  "next_batch": 19,
-  "next_image_number": 181,
+  "next_batch": 20,
+  "next_image_number": 191,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -523,7 +524,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "completed_images": 180,
+  "completed_images": 190,
   "batch_002_images_65mm": [
     {
       "number": 11,
@@ -1144,15 +1145,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": {
-    "batch_number": 19,
-    "timespan": "06:00–06:20",
-    "first_image": 181,
-    "last_image": 190,
-    "status": "PROMPTS_PREPARED_RENDER_PENDING",
-    "drive_folder_id": "1p60C66cm_rEKBz3fw3RxgiyRFSopKWdl",
-    "drive_folder_url": "https://drive.google.com/drive/folders/1p60C66cm_rEKBz3fw3RxgiyRFSopKWdl"
-  },
+  "in_progress_batch": null,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1903,8 +1896,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-09T19:45:00Z",
-  "verified_progress_percent": 17.14,
+  "last_updated": "2026-11-09T20:30:00Z",
+  "verified_progress_percent": 18.1,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3229,6 +3222,188 @@
       "drive_url": "https://drive.google.com/file/d/1-ZBldTnng39xE5A-NPV3Cxx03qdD5llA/view?usp=drivesdk",
       "md5": "812076831221ddf444828b99d713f26f",
       "size_bytes": 1951838,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_019_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0181",
+      "timestamp": "06:00–06:02",
+      "narration_slice": "To a cautious mariner sailing",
+      "shot_type": "Low-angle monumental architectural / geological framing — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1bPp0MBLKKtVDURBoDBVCGQCxrtffTp6A",
+      "drive_url": "https://drive.google.com/file/d/1bPp0MBLKKtVDURBoDBVCGQCxrtffTp6A/view?usp=drivesdk",
+      "md5": "3e553c267f8213244bc6178f8bdf2315",
+      "size_bytes": 2522619,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0182",
+      "timestamp": "06:02–06:04",
+      "narration_slice": "offshore, such a landscape",
+      "shot_type": "Over-the-shoulder depth perspective — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "Over-the-shoulder depth perspective — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1Vg1vjVPpsdDmQrOrBlIK0wnxTr2CY7-c",
+      "drive_url": "https://drive.google.com/file/d/1Vg1vjVPpsdDmQrOrBlIK0wnxTr2CY7-c/view?usp=drivesdk",
+      "md5": "792debbe388284507f8935671ee0837e",
+      "size_bytes": 2685495,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0183",
+      "timestamp": "06:04–06:06",
+      "narration_slice": "looked cursed by angry gods.",
+      "shot_type": "Deep-focus wide atmospheric composition — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "Deep-focus wide atmospheric composition — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [],
+      "drive_file_id": "13GYRA1N-O-QvO2iGf3_HZ_7PuA16TXv8",
+      "drive_url": "https://drive.google.com/file/d/13GYRA1N-O-QvO2iGf3_HZ_7PuA16TXv8/view?usp=drivesdk",
+      "md5": "c8743a23457797430ff3cc92cb400a4b",
+      "size_bytes": 2605464,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0184",
+      "timestamp": "06:06–06:08",
+      "narration_slice": "Yet volcanic fury carries",
+      "shot_type": "Ultra-wide establishing vista — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "Ultra-wide establishing vista — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1BgshJ1TKUG1r82V0dEKqxIracfUkeQRu",
+      "drive_url": "https://drive.google.com/file/d/1BgshJ1TKUG1r82V0dEKqxIracfUkeQRu/view?usp=drivesdk",
+      "md5": "767a92799ca94a71cc897eef1b338fad",
+      "size_bytes": 2720817,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0185",
+      "timestamp": "06:08–06:10",
+      "narration_slice": "an ancient ecological gift. Every",
+      "shot_type": "Medium close-up atmospheric focal beat — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "Medium close-up atmospheric focal beat — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1ITBBpQrsHiQKe6x1tK2gkTbOSDlJ-ptz",
+      "drive_url": "https://drive.google.com/file/d/1ITBBpQrsHiQKe6x1tK2gkTbOSDlJ-ptz/view?usp=drivesdk",
+      "md5": "ee37a39d22b28f3e3e13bb9245a20099",
+      "size_bytes": 2783259,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0186",
+      "timestamp": "06:10–06:12",
+      "narration_slice": "eruption across millennia had blanketed",
+      "shot_type": "Dynamic medium lateral tracking angle — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "Dynamic medium lateral tracking angle — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1H2oidlhHH4gQw3ghfPLFMmgYJmhNK2Gw",
+      "drive_url": "https://drive.google.com/file/d/1H2oidlhHH4gQw3ghfPLFMmgYJmhNK2Gw/view?usp=drivesdk",
+      "md5": "29a0d605a15aac8f2ec3beb675dbd697",
+      "size_bytes": 2531752,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0187",
+      "timestamp": "06:12–06:14",
+      "narration_slice": "the lower valleys in",
+      "shot_type": "Compressed telephoto dramatic subject framing — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1K_VH9AMBt7IqKFzi7Yf28prDjQmSvbSb",
+      "drive_url": "https://drive.google.com/file/d/1K_VH9AMBt7IqKFzi7Yf28prDjQmSvbSb/view?usp=drivesdk",
+      "md5": "a7855770aa5c0898e29788040cb5734d",
+      "size_bytes": 2646997,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0188",
+      "timestamp": "06:14–06:16",
+      "narration_slice": "mineral-rich ash, weathering under warm",
+      "shot_type": "Medium cinematic subject focus — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "Medium cinematic subject focus — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1WJQcJAGEVdAddR6GQ8NgrM-T2TrWE1LV",
+      "drive_url": "https://drive.google.com/file/d/1WJQcJAGEVdAddR6GQ8NgrM-T2TrWE1LV/view?usp=drivesdk",
+      "md5": "b2c1098868f46f58a358c1fee18aa8ee",
+      "size_bytes": 2743381,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0189",
+      "timestamp": "06:16–06:18",
+      "narration_slice": "coastal rains into dark",
+      "shot_type": "Wide environmental storytelling tableau — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "Wide environmental storytelling tableau — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1WKuvqtlXhaHZN01mNZQdCP790Dm49jyG",
+      "drive_url": "https://drive.google.com/file/d/1WKuvqtlXhaHZN01mNZQdCP790Dm49jyG/view?usp=drivesdk",
+      "md5": "4dda5f8bf9406183b029a955ba74b187",
+      "size_bytes": 2518548,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0190",
+      "timestamp": "06:18–06:20",
+      "narration_slice": "soil of extraordinary fertility. Below",
+      "shot_type": "High-elevation geographic / scale reveal — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "visual_beat": "High-elevation geographic / scale reveal — Mineral-rich volcanic ash soil, olive groves & hot springs",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1-Jlc5enPdGIRB3zSiBcYr__QoF3792up",
+      "drive_url": "https://drive.google.com/file/d/1-Jlc5enPdGIRB3zSiBcYr__QoF3792up/view?usp=drivesdk",
+      "md5": "15581dc46b585eee93c247e710e74d3f",
+      "size_bytes": 2527029,
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true

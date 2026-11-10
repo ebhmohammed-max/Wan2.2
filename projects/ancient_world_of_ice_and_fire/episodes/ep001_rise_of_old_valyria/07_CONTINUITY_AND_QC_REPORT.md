@@ -253,3 +253,10 @@
 - **Batch 018 (`IMG0171–0180`, `05:40–06:00`):** 10/10 frames visually reviewed, uploaded to Drive folder `15tqAVdqCqPBuhuSyatfWHCUYYTk--_Hq`, and MD5-verified. Every local PNG is `1376×768` sRGB; Drive contains exactly ten images and all checksums match.
 - **Visual continuity:** Daytime steam and dark ash traces transition into subtle nocturnal crimson caldera glow over intact Valyria; no cataclysm or eruption. IMG0171 and IMG0179 were reframed during visual QC.
 - **Progress:** 180/1,050 verified images (17.14%); Batches 001–018 complete. Batch 019 (`06:00–06:20`) is next.
+
+
+## Turn 23 Addendum — Batch 019 Complete (2026-11-09)
+
+- **Batch 019 (`IMG0181–0190`, `06:00–06:20`):** 10/10 frames visually reviewed, uploaded to Drive folder `1p60C66cm_rEKBz3fw3RxgiyRFSopKWdl`, and MD5-verified. Every local file is `1376×768` sRGB; Drive contains exactly ten images and each checksum matches.
+- **Visual continuity:** The sequence starts with the harsh view of volcanic Valyria from offshore, then reveals olive groves, hot springs and productive mineral-rich ash soil in the lower valleys. No current eruption or cataclysm.
+- **Progress:** 190/1,050 verified images (18.10%); Batches 001–019 complete. Batch 020 (`06:20–06:40`) is next.
