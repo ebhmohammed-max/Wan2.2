@@ -146,7 +146,7 @@ projects/ancient_world_of_ice_and_fire/
 
 | Episode | Title | Duration | Total Frames (`30/min`) | Completed Batches | Completed Frames | Next Queued Batch |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–022 complete** (`07:00–07:20`) | **226 / 1,050** (`21.52%`) | **Batch 023: `07:20–07:40`** |
+| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–022 complete; Batch 023 6/10** (`07:20–07:40` partial) | **226 / 1,050** (`21.52%`) | **Finish Batch 023: IMG0222, IMG0225, IMG0226, IMG0229** |
 
 
 **Current progress note (2026-11-09):** 226/1,050 frames are Drive-verified (Batches 001–022 complete; Batch 022's four rerenders are approved and checksum-verified). All approved frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after visual-QC correction; IMG0129 was reframed to remove letterbox strips; IMG0171 was reframed during QC. IMG0160 remains unresolved: its top-left crop was rejected; restore or regenerate the original composition, resizing only if appropriate.
@@ -161,4 +161,6 @@ projects/ancient_world_of_ice_and_fire/
 **Batch 021 complete:** All ten frames are visually approved, uploaded and checksum-verified in Drive folder `https://drive.google.com/drive/folders/17xs4PfQxDKJ_2baNHXtv5oo86s9Tr8mZ`. IMG0201 and IMG0205 were replaced after visual QC. Batch 022 (`07:00–07:20`) is complete: all ten frames are Drive-verified, with IMG0211, IMG0213, IMG0219 and IMG0220 replaced after visual QC.
 
 
-**Batch 022 complete:** All ten approved images are uploaded and MD5-verified in Drive folder `https://drive.google.com/drive/folders/1KTaABRWYhUZKbdNpjsmxl08Iq3k3YWaQ`. `IMG0211`, `IMG0213`, `IMG0219` and `IMG0220` were rerendered after QC rejected the first pass (constructed-tunnel looks, modern-looking miners, wrong creature anatomy, missed juvenile scale cue). Next batch: `07:20–07:40`.
+**Batch 022 complete:** All ten approved images are uploaded and MD5-verified in Drive folder `https://drive.google.com/drive/folders/1KTaABRWYhUZKbdNpjsmxl08Iq3k3YWaQ`. `IMG0211`, `IMG0213`, `IMG0219` and `IMG0220` were rerendered after QC rejected the first pass (constructed-tunnel looks, modern-looking miners, wrong creature anatomy, missed juvenile scale cue).
+
+**Batch 023 partial QC:** Six approved images are uploaded and MD5-verified in Drive folder `https://drive.google.com/drive/folders/1V6YsdqUSkso6Y6WHw5FSe_DuTZaMnC9k` (IMG0221, IMG0223, IMG0224, IMG0227, IMG0228, IMG0230). Rerender `IMG0222` (bone-like segment), `IMG0225` (round cave mouth), `IMG0226` (longhouse forms), `IMG0229` (field grid and tracks); do not mark the batch complete until all ten are approved and verified.

@@ -118,7 +118,8 @@
     "batch_019": "https://drive.google.com/drive/folders/1p60C66cm_rEKBz3fw3RxgiyRFSopKWdl",
     "batch_020": "https://drive.google.com/drive/folders/1qGCm4kPxpOzc9x5Befotaj1Vq42xxkhO",
     "batch_021": "https://drive.google.com/drive/folders/17xs4PfQxDKJ_2baNHXtv5oo86s9Tr8mZ",
-    "batch_022": "https://drive.google.com/drive/folders/1KTaABRWYhUZKbdNpjsmxl08Iq3k3YWaQ"
+    "batch_022": "https://drive.google.com/drive/folders/1KTaABRWYhUZKbdNpjsmxl08Iq3k3YWaQ",
+    "batch_023": "https://drive.google.com/drive/folders/1V6YsdqUSkso6Y6WHw5FSe_DuTZaMnC9k"
   },
   "batch_001_images_65mm_upgraded": [
     {
@@ -1151,7 +1152,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": null,
+  "in_progress_batch": 23,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1902,7 +1903,7 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-09T21:10:00Z",
+  "last_updated": "2026-11-09T22:05:00Z",
   "verified_progress_percent": 21.52,
   "batch_012_verified_images": [
     {
@@ -3985,6 +3986,131 @@
       "drive_url": "https://drive.google.com/file/d/1GicW9D3d8rT8OJTNodZ3gxSDFpACab_d/view?usp=drivesdk",
       "md5": "647e4a4aad0663dc445031b775736c06",
       "size_bytes": 2266525,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_023_pending_scenes": [
+    "VAL-EP001-IMG0222",
+    "VAL-EP001-IMG0225",
+    "VAL-EP001-IMG0226",
+    "VAL-EP001-IMG0229"
+  ],
+  "batch_023_partial_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0221",
+      "timestamp": "07:20–07:22",
+      "narration_slice": "child's arm, while ancient",
+      "shot_type": "Towering vertical scale composition — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Towering vertical scale composition — Blind wingless Firewyrms boring through superheated rock",
+      "location_refs": [
+        "LOC-VAL-005",
+        "CRT-VAL-001"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1xV13m7-Ed2ArXxJBY65gE_4vJjMb7mb5",
+      "drive_url": "https://drive.google.com/file/d/1xV13m7-Ed2ArXxJBY65gE_4vJjMb7mb5/view?usp=drivesdk",
+      "md5": "3d422bdb9a8ff461f1514c5bbbaab21e",
+      "size_bytes": 2221169,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0223",
+      "timestamp": "07:24–07:26",
+      "narration_slice": "the lightless depths. For",
+      "shot_type": "Intimate close-up detail / expression beat — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Intimate close-up detail / expression beat — Blind wingless Firewyrms boring through superheated rock",
+      "location_refs": [
+        "LOC-VAL-005",
+        "CRT-VAL-001"
+      ],
+      "character_refs": [],
+      "drive_file_id": "14JNDWMOIZxOebWzXGcac8Hpki9CwYZBr",
+      "drive_url": "https://drive.google.com/file/d/14JNDWMOIZxOebWzXGcac8Hpki9CwYZBr/view?usp=drivesdk",
+      "md5": "78f7839626043c6165178a30dd0b502d",
+      "size_bytes": 2027500,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0224",
+      "timestamp": "07:26–07:28",
+      "narration_slice": "ages, the surface-dwellers wisely left",
+      "shot_type": "Extreme close-up tactile / light study — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Extreme close-up tactile / light study — Blind wingless Firewyrms boring through superheated rock",
+      "location_refs": [
+        "LOC-VAL-005",
+        "CRT-VAL-001"
+      ],
+      "character_refs": [],
+      "drive_file_id": "1aBWfYGlJtOJGU6L1hEGRZey96Cp6IbuE",
+      "drive_url": "https://drive.google.com/file/d/1aBWfYGlJtOJGU6L1hEGRZey96Cp6IbuE/view?usp=drivesdk",
+      "md5": "4d3edac0864be474b5362392ba26b399",
+      "size_bytes": 1661278,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0227",
+      "timestamp": "07:32–07:34",
+      "narration_slice": "Valyrians. The surviving histories",
+      "shot_type": "Over-the-shoulder depth perspective — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Over-the-shoulder depth perspective — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "10QPbsiDUWs3doD0IqzWkrE4rPjasVLmI",
+      "drive_url": "https://drive.google.com/file/d/10QPbsiDUWs3doD0IqzWkrE4rPjasVLmI/view?usp=drivesdk",
+      "md5": "df9eea8d1a334d8a9d536c9606287bf0",
+      "size_bytes": 2828240,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0228",
+      "timestamp": "07:34–07:36",
+      "narration_slice": "tell us nothing of great",
+      "shot_type": "Deep-focus wide atmospheric composition — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Deep-focus wide atmospheric composition — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1N-fQ_JYLjeV07ot4PpOqMnwswT18suzg",
+      "drive_url": "https://drive.google.com/file/d/1N-fQ_JYLjeV07ot4PpOqMnwswT18suzg/view?usp=drivesdk",
+      "md5": "47fda29c2017c2f8f560d2e0aa37450b",
+      "size_bytes": 2541088,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0230",
+      "timestamp": "07:38–07:40",
+      "narration_slice": "warlords among them in this",
+      "shot_type": "Medium close-up atmospheric focal beat — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Medium close-up atmospheric focal beat — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1mG2TF3qN3Q4hiqdP_Lk_4TSvNvlIM_n2",
+      "drive_url": "https://drive.google.com/file/d/1mG2TF3qN3Q4hiqdP_Lk_4TSvNvlIM_n2/view?usp=drivesdk",
+      "md5": "efa2ea1f0456327615db9a12d22da833",
+      "size_bytes": 2414285,
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
