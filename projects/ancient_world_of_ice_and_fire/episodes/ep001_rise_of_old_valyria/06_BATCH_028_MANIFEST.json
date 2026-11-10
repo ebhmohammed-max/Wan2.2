@@ -13,15 +13,11 @@
   "batch_timespan": "09:00–09:20",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "IN_PROGRESS_7_OF_10_APPROVED_UPLOADED_3_RERENDER_PENDING",
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0271",
-    "VAL-EP001-IMG0279",
-    "VAL-EP001-IMG0280"
-  ],
-  "visual_qc_note": "First pass: seven of ten frames passed and were uploaded to Drive folder 1VpOcpUx4CFeqhs9Yklgm3_ezzixvRQSM, each Drive MD5 matching its local file. The myth is carried entirely by material traces and weather — no cut to Yi Ti, no imperial court, no crown, no writing anywhere. Three frames are held: IMG0271 gave the young herdsman bare feet on volcanic scree against his locked boots and gaiters; IMG0279 repeated the Batch 027 shaved-side braid failure on two background figures and planted a wattle hurdle that reads as a gallows; IMG0280 put an ermine-like fur cloak and a snow-dusted alpine ridge into a Valyrian peninsula frame. IMG0273 was reframed from 1376x756 to full-bleed 1376x768 to remove a 12 px black strip at the bottom.",
-  "verified_episode_frames_after_batch": 276,
-  "verified_episode_percent_after_batch": "26.29%",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten frames passed visual review, are 1376x768 sRGB PNGs, are uploaded to Drive folder 1VpOcpUx4CFeqhs9Yklgm3_ezzixvRQSM, and each Drive MD5 matches its local file; Drive lists exactly ten images. Seven passed on the first pass. Three were rerendered: IMG0271 had put the herdsman barefoot on volcanic scree against his locked boots and gaiters; IMG0279 repeated the Batch 027 shaved-side braid failure on two background figures and planted a wattle hurdle that read as a gallows; IMG0280 had dressed the elder in ermine-like fur and placed a snow-dusted alpine ridge with a rebuilt stone stair in a Valyrian frame. IMG0273 had a 12 px black letterbox strip and was reframed from 1376x756 to full-bleed 1376x768 before upload. Director's decision held throughout: the Amethyst Empress is never dramatised — no court, no crown, no writing; the myth exists only as weather and as one small amethyst trade bead in IMG0278. Continuity flags carried forward: uniform long loose or half-bound hair stated positively (not just banned), no shaved or undercut scalp, and no clothing darker than charcoal.",
+  "verified_episode_frames_after_batch": 286,
+  "verified_episode_percent_after_batch": "27.24%",
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0271",
@@ -37,16 +33,16 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_028/VAL-EP001-IMG0271.png",
-      "qc_status": "QC_REJECTED_RERENDER_REQUIRED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
-      "size_bytes": 2282287,
-      "md5": "528cf1ec24146c6e19b76d150bd215ec",
+      "size_bytes": 2565984,
+      "md5": "0e93555be18113310aff4b7e52047b55",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "REJECTED: the young herdsman stands barefoot on sharp volcanic scree — the locked wardrobe requires wrapped goat-leather gaiters and boots, and a shepherd on a pyroclastic slope without boots is a continuity break nobody can unsee. Awaiting rerender."
+      "drive_file_id": "1zWg-5UWTUq6twYR2gMmKe1yhDssRKJKk",
+      "drive_url": "https://drive.google.com/file/d/1zWg-5UWTUq6twYR2gMmKe1yhDssRKJKk/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved rerender: low-angle up the smoking cone with the herdsman a dark rear-view silhouette on the scree, rim-lit hair and spear correct. Feet now fully shod in wrapped goat-leather gaiters cross-bound with rawhide over sturdy boots — the bare-foot break is gone."
     },
     {
       "scene_id": "VAL-EP001-IMG0272",
@@ -237,16 +233,16 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_028/VAL-EP001-IMG0279.png",
-      "qc_status": "QC_REJECTED_RERENDER_REQUIRED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
-      "size_bytes": 2408932,
-      "md5": "4a527c2a8d9ae23600e186761670046b",
+      "size_bytes": 2467719,
+      "md5": "7c1fc4cb1e423b71d92e1bf9288521b2",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "REJECTED: two background figures carry long braids over shaved-side scalp patterns, and a wattle hurdle in the middle distance stands on end reading as a gallows. The first is a repeat of the Batch 027 failure and the second is an unintended grim image. Awaiting rerender."
+      "drive_file_id": "16SuTADFhz6uQ4SzDt6HJD6kg0N9OPA_n",
+      "drive_url": "https://drive.google.com/file/d/16SuTADFhz6uQ4SzDt6HJD6kg0N9OPA_n/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved rerender: eight clanfolk round the fire, the old woman mid-gesture. Every head is uniformly long, loose or half-bound silver-gold; the shaved-side braids are gone and no tall hurdle or scaffold stands in the background. Continuity flag: the man at the right wears a very dark charcoal tunic that reads near-navy at dusk — charcoal is within the locked palette but this shade must not deepen toward black in later frames."
     },
     {
       "scene_id": "VAL-EP001-IMG0280",
@@ -262,16 +258,16 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_028/VAL-EP001-IMG0280.png",
-      "qc_status": "QC_REJECTED_RERENDER_REQUIRED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
-      "size_bytes": 2109358,
-      "md5": "3623b5fd5a811a60c98833a41d067e4e",
+      "size_bytes": 2308529,
+      "md5": "cbde8d991128ef792c068d44bdb77a4a",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "REJECTED: the older figure's ankle-length pale fur cloak reads as ermine and the pair sit on a snow-dusted alpine ridge with a rebuilt stone stair, which looks like the Wall approaches rather than the Valyrian peninsula. Awaiting rerender."
+      "drive_file_id": "1h-mZmoLOboiOvI9Kv_Qu4rL3CFNivOwl",
+      "drive_url": "https://drive.google.com/file/d/1h-mZmoLOboiOvI9Kv_Qu4rL3CFNivOwl/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved rerender: two small figures on a bare green-and-basalt ridge above a sea of mist, no snow, no stone stair, no built path. The elder's mantle now reads as coarse matted raw sheepskin rather than ermine."
     }
   ]
 }

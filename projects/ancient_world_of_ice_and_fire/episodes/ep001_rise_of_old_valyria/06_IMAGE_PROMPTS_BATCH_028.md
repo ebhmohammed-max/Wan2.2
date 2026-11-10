@@ -14,7 +14,7 @@ The anachronism rule is strict here: nothing that implies literacy, record-keepi
 
 **Wide-shot eye rule (standing, from Batches 026–027):** at 24–35mm the indigo-violet iris reliably greys out, so any frame wider than a 50mm medium close-up keeps faces in profile, bowed, or turned away, and iris colour is stated only in frames close enough to hold it (`IMG0275`, `IMG0277`).
 
-**Render/QC status:** First pass complete — 7 of 10 approved and uploaded (`IMG0272`, `IMG0273`, `IMG0274`, `IMG0275`, `IMG0276`, `IMG0277`, `IMG0278`). `IMG0273` was reframed from `1376x756` to full-bleed `1376x768` to strip a 12 px black bar at the bottom. Awaiting rerenders: `IMG0271` (bare feet on volcanic scree against the locked boots and gaiters), `IMG0279` (shaved-side braids on two background figures, plus a wattle hurdle standing on end that reads as a gallows) and `IMG0280` (an ermine-like fur cloak and a snow-dusted alpine ridge in a Valyrian peninsula frame).
+**Render/QC status:** Batch complete — all ten frames visually approved, `1376x768` sRGB PNGs, uploaded to Drive and MD5-verified. `IMG0271`, `IMG0279` and `IMG0280` were rerendered (approved text below): `IMG0271` had put the herdsman barefoot on scree, `IMG0279` repeated the shaved-side braid failure and left a hurdle reading as a gallows, and `IMG0280` had an ermine-like mantle plus a snow-dusted ridge with a stone stair. `IMG0273` was reframed from `1376x756` to full-bleed to strip a 12 px black bar. Lesson now written into the prompts: state long uniform hair **positively** rather than only banning shaved sides.
 
 ## PROMPT 271 — `VAL-EP001-IMG0271`
 
