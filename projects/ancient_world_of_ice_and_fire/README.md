@@ -146,7 +146,7 @@ projects/ancient_world_of_ice_and_fire/
 
 | Episode | Title | Duration | Total Frames (`30/min`) | Completed Batches | Completed Frames | Next Queued Batch |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–024 complete** (`07:40–08:00`) | **246 / 1,050** (`23.43%`) | **Batch 025: `08:00–08:20`** |
+| **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–024 complete; Batch 025 5/10** (`08:00–08:20` partial) | **246 / 1,050** (`23.43%`) | **Finish Batch 025: IMG0242, IMG0245, IMG0247, IMG0249, IMG0250** |
 
 
 **Current progress note (2026-11-09):** 246/1,050 frames are Drive-verified (Batches 001–024 complete; all Batch 022 and Batch 023 rerenders are approved and checksum-verified, and IMG0240 was reframed to full-bleed 16:9). All approved frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after visual-QC correction; IMG0129 was reframed to remove letterbox strips; IMG0171 was reframed during QC. IMG0160 remains unresolved: its top-left crop was rejected; restore or regenerate the original composition, resizing only if appropriate.
@@ -164,5 +164,7 @@ projects/ancient_world_of_ice_and_fire/
 **Batch 022 complete:** All ten approved images are uploaded and MD5-verified in Drive folder `https://drive.google.com/drive/folders/1KTaABRWYhUZKbdNpjsmxl08Iq3k3YWaQ`. `IMG0211`, `IMG0213`, `IMG0219` and `IMG0220` were rerendered after QC rejected the first pass (constructed-tunnel looks, modern-looking miners, wrong creature anatomy, missed juvenile scale cue).
 
 **Batch 023 complete:** All ten approved images are uploaded and MD5-verified in Drive folder `https://drive.google.com/drive/folders/1V6YsdqUSkso6Y6WHw5FSe_DuTZaMnC9k`. `IMG0222`, `IMG0225`, `IMG0226` and `IMG0229` were rerendered after QC rejected the first pass (bone-like segment, round cave mouth onto a landscape, longhouse forms, modern field grid). Next batch: `08:00–08:20`.
+
+**Batch 025 partial QC:** Five approved images are uploaded and MD5-verified in Drive folder `https://drive.google.com/drive/folders/1LngtxGrC35nCcg96bkF6NlqJJb5O-ilB` (IMG0241, IMG0243, IMG0244, IMG0246, IMG0248). Rerender `IMG0242` (posed cast lineup), `IMG0245` (eye colour off-model), `IMG0247` (wardrobe continuity), `IMG0249` (thatched roofs, metal shears), `IMG0250` (modern farmland); do not mark the batch complete until all ten are approved and verified.
 
 **Batch 024 complete:** All ten approved images are uploaded and MD5-verified in Drive folder `https://drive.google.com/drive/folders/1LLJg7LOGHGxlXZJMWLaST7MlaPywL0Ew` — the pastoral society batch (round basalt homesteads, flocks, clan elders, woven wool). IMG0240 was cropped and rescaled to remove thin letterbox strips before upload. Continuity notes: IMG0233 carries an unlisted braided headband (do not repeat) and IMG0232 renders the copper pin as a coiled spiral.

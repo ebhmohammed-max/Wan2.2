@@ -122,7 +122,8 @@
     "batch_021": "https://drive.google.com/drive/folders/17xs4PfQxDKJ_2baNHXtv5oo86s9Tr8mZ",
     "batch_022": "https://drive.google.com/drive/folders/1KTaABRWYhUZKbdNpjsmxl08Iq3k3YWaQ",
     "batch_023": "https://drive.google.com/drive/folders/1V6YsdqUSkso6Y6WHw5FSe_DuTZaMnC9k",
-    "batch_024": "https://drive.google.com/drive/folders/1LLJg7LOGHGxlXZJMWLaST7MlaPywL0Ew"
+    "batch_024": "https://drive.google.com/drive/folders/1LLJg7LOGHGxlXZJMWLaST7MlaPywL0Ew",
+    "batch_025": "https://drive.google.com/drive/folders/1LngtxGrC35nCcg96bkF6NlqJJb5O-ilB"
   },
   "batch_001_images_65mm_upgraded": [
     {
@@ -1155,7 +1156,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": null,
+  "in_progress_batch": 25,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1906,7 +1907,7 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-09T23:25:00Z",
+  "last_updated": "2026-11-10T00:10:00Z",
   "verified_progress_percent": 23.43,
   "batch_012_verified_images": [
     {
@@ -4388,6 +4389,115 @@
       "drive_url": "https://drive.google.com/file/d/17mJmqesVAt_orB5YYk976wqn1E-yGz5l/view?usp=drivesdk",
       "md5": "d93dcf9ab8bd4143e59638bde3ff98a9",
       "size_bytes": 1700998,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_025_pending_scenes": [
+    "VAL-EP001-IMG0242",
+    "VAL-EP001-IMG0245",
+    "VAL-EP001-IMG0247",
+    "VAL-EP001-IMG0249",
+    "VAL-EP001-IMG0250"
+  ],
+  "batch_025_partial_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0241",
+      "timestamp": "08:00–08:02",
+      "narration_slice": "Even as humble herdsmen,",
+      "shot_type": "Low-angle monumental architectural / geological framing — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1mXfcHciS9btKmBsSmQVr8fy7ZopR_5t6",
+      "drive_url": "https://drive.google.com/file/d/1mXfcHciS9btKmBsSmQVr8fy7ZopR_5t6/view?usp=drivesdk",
+      "md5": "e79f8578e7533e81b10fb25444fc97e9",
+      "size_bytes": 2715055,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0243",
+      "timestamp": "08:04–08:06",
+      "narration_slice": "apart from every neighboring",
+      "shot_type": "Deep-focus wide atmospheric composition — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "visual_beat": "Deep-focus wide atmospheric composition — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1p5XSNpXtYPm8riPbO7V_CWI6th7l614x",
+      "drive_url": "https://drive.google.com/file/d/1p5XSNpXtYPm8riPbO7V_CWI6th7l614x/view?usp=drivesdk",
+      "md5": "16783e98bbeaa2f36aac09a0535cd5ff",
+      "size_bytes": 2373700,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0244",
+      "timestamp": "08:06–08:08",
+      "narration_slice": "people in Essos. Where the",
+      "shot_type": "Ultra-wide establishing vista — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "visual_beat": "Ultra-wide establishing vista — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1risDbDtYcleHbSaaHJMFMfTn0ZNrA21B",
+      "drive_url": "https://drive.google.com/file/d/1risDbDtYcleHbSaaHJMFMfTn0ZNrA21B/view?usp=drivesdk",
+      "md5": "b7e598504303e04be7c554b9c8bfa54b",
+      "size_bytes": 2679218,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0246",
+      "timestamp": "08:10–08:12",
+      "narration_slice": "skin and coarse dark-and-copper hair,",
+      "shot_type": "Dynamic medium lateral tracking angle — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "visual_beat": "Dynamic medium lateral tracking angle — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1K_JwA4wz6HdZi9TOuSQIVjoYn0PJD_yO",
+      "drive_url": "https://drive.google.com/file/d/1K_JwA4wz6HdZi9TOuSQIVjoYn0PJD_yO/view?usp=drivesdk",
+      "md5": "49f6c52a23e42f4b0315fbad38e0d4de",
+      "size_bytes": 2891832,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0248",
+      "timestamp": "08:14–08:16",
+      "narration_slice": "the Rhoyne bore sun-browned complexions",
+      "shot_type": "Medium cinematic subject focus — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "visual_beat": "Medium cinematic subject focus — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1FcZ8PPkCRIRingociDhsM-iNZolz4vUq",
+      "drive_url": "https://drive.google.com/file/d/1FcZ8PPkCRIRingociDhsM-iNZolz4vUq/view?usp=drivesdk",
+      "md5": "e0e0bf998c6dbada51476ca7353c1fb6",
+      "size_bytes": 2576908,
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true

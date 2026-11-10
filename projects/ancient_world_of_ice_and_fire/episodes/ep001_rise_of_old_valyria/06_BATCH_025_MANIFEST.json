@@ -1,0 +1,277 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "visual_style_standard": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location cinematography (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade: warm sandstone highlights, deep cerulean Summer Sea, lush emerald pastures, muted volcanic stone)",
+  "style_reference_benchmark": "The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1LngtxGrC35nCcg96bkF6NlqJJb5O-ilB",
+  "batch_number": 25,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "08:00–08:20",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "5_OF_10_APPROVED_UPLOADED_MD5_VERIFIED_5_RERENDERS_PENDING",
+  "pending_completion_scenes": [
+    "VAL-EP001-IMG0242",
+    "VAL-EP001-IMG0245",
+    "VAL-EP001-IMG0247",
+    "VAL-EP001-IMG0249",
+    "VAL-EP001-IMG0250"
+  ],
+  "visual_qc_note": "Five frames (IMG0241, IMG0243, IMG0244, IMG0246, IMG0248) passed visual review, are 1376x768 sRGB PNGs, and were uploaded with matching Drive/local MD5s. Five require rerender: IMG0242 poses the clan as a cast lineup and renders the young woman as a polished likeness of a known screen character; IMG0245 renders grey-blue rather than indigo-violet eyes; IMG0247 breaks CHAR-VAL-001 wardrobe continuity; IMG0249 uses thatched roofs and metal shears; IMG0250 reads as modern enclosed farmland.",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0241",
+      "timestamp": "08:00–08:02",
+      "shot_lens": "LAM · 28mm",
+      "narration_slice": "Even as humble herdsmen,",
+      "shot_type": "Low-angle monumental architectural / geological framing — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_025/VAL-EP001-IMG0241.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2715055,
+      "md5": "e79f8578e7533e81b10fb25444fc97e9",
+      "resolution": "1376x768",
+      "drive_file_id": "1mXfcHciS9btKmBsSmQVr8fy7ZopR_5t6",
+      "drive_url": "https://drive.google.com/file/d/1mXfcHciS9btKmBsSmQVr8fy7ZopR_5t6/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: low-angle shepherd portrait on a rock shelf before erupting cones; unmilitary, crook and wool only, copper spiral pin consistent."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0242",
+      "timestamp": "08:02–08:04",
+      "shot_lens": "OTS · 40mm",
+      "narration_slice": "however, the Valyrians stood physically",
+      "shot_type": "Over-the-shoulder depth perspective — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "visual_beat": "Over-the-shoulder depth perspective — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_025/VAL-EP001-IMG0242.png",
+      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": null,
+      "md5": null,
+      "resolution": null,
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_note": "Young woman reads as a polished likeness of a known screen character (braided platinum styling, glamour lighting) and the group is posed like a cast lineup. Rerender as ordinary clan folk working the fold, plainer faces, no braided platinum hair."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0243",
+      "timestamp": "08:04–08:06",
+      "shot_lens": "WS · 28mm",
+      "narration_slice": "apart from every neighboring",
+      "shot_type": "Deep-focus wide atmospheric composition — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "visual_beat": "Deep-focus wide atmospheric composition — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_025/VAL-EP001-IMG0243.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2373700,
+      "md5": "16783e98bbeaa2f36aac09a0535cd5ff",
+      "resolution": "1376x768",
+      "drive_file_id": "1p5XSNpXtYPm8riPbO7V_CWI6th7l614x",
+      "drive_url": "https://drive.google.com/file/d/1p5XSNpXtYPm8riPbO7V_CWI6th7l614x/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: seven clan members along a dry-stone wall at dawn, one face repeated across the line — the bloodline read the narration needs."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0244",
+      "timestamp": "08:06–08:08",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "people in Essos. Where the",
+      "shot_type": "Ultra-wide establishing vista — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "visual_beat": "Ultra-wide establishing vista — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_025/VAL-EP001-IMG0244.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2679218,
+      "md5": "b7e598504303e04be7c554b9c8bfa54b",
+      "resolution": "1376x768",
+      "drive_file_id": "1risDbDtYcleHbSaaHJMFMfTn0ZNrA21B",
+      "drive_url": "https://drive.google.com/file/d/1risDbDtYcleHbSaaHJMFMfTn0ZNrA21B/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: ultra-wide homestead bowl with roundhouses, wattle folds, steaming stream, cones and the Summer Sea; scale and isolation both legible."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0245",
+      "timestamp": "08:08–08:10",
+      "shot_lens": "MCU · 50mm",
+      "narration_slice": "Ghiscari possessed warm olive-amber",
+      "shot_type": "Medium close-up atmospheric focal beat — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "visual_beat": "Medium close-up atmospheric focal beat — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_025/VAL-EP001-IMG0245.png",
+      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": null,
+      "md5": null,
+      "resolution": null,
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_note": "Eyes render grey-blue rather than the locked indigo-violet, and the skin reads freckled-rosy instead of alabaster-pale. Rerender with unmistakable violet eyes."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0246",
+      "timestamp": "08:10–08:12",
+      "shot_lens": "MS · 35mm",
+      "narration_slice": "skin and coarse dark-and-copper hair,",
+      "shot_type": "Dynamic medium lateral tracking angle — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "visual_beat": "Dynamic medium lateral tracking angle — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_025/VAL-EP001-IMG0246.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2891832,
+      "md5": "49f6c52a23e42f4b0315fbad38e0d4de",
+      "resolution": "1376x768",
+      "drive_file_id": "1K_JwA4wz6HdZi9TOuSQIVjoYn0PJD_yO",
+      "drive_url": "https://drive.google.com/file/d/1K_JwA4wz6HdZi9TOuSQIVjoYn0PJD_yO/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: four children running the pasture edge, all silver-haired and violet-eyed, genuine motion and warmth."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0247",
+      "timestamp": "08:12–08:14",
+      "shot_lens": "MCU · 65mm",
+      "narration_slice": "and the river-folk of",
+      "shot_type": "Compressed telephoto dramatic subject framing — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_025/VAL-EP001-IMG0247.png",
+      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": null,
+      "md5": null,
+      "resolution": null,
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_note": "Costume continuity broken: blue tunic and leather vest replace the cream wool, felted cloak, sheepskin mantle and copper pin. Rerender with the locked CHAR-VAL-001 wardrobe."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0248",
+      "timestamp": "08:14–08:16",
+      "shot_lens": "MS · 50mm",
+      "narration_slice": "the Rhoyne bore sun-browned complexions",
+      "shot_type": "Medium cinematic subject focus — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "visual_beat": "Medium cinematic subject focus — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_025/VAL-EP001-IMG0248.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2576908,
+      "md5": "e0e0bf998c6dbada51476ca7353c1fb6",
+      "resolution": "1376x768",
+      "drive_file_id": "1FcZ8PPkCRIRingociDhsM-iNZolz4vUq",
+      "drive_url": "https://drive.google.com/file/d/1FcZ8PPkCRIRingociDhsM-iNZolz4vUq/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: two elders with a folded blanket inside a roundhouse; matched weathering, no hierarchy."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0249",
+      "timestamp": "08:16–08:18",
+      "shot_lens": "WS · 35mm",
+      "narration_slice": "and dark eyes, the",
+      "shot_type": "Wide environmental storytelling tableau — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "visual_beat": "Wide environmental storytelling tableau — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_025/VAL-EP001-IMG0249.png",
+      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": null,
+      "md5": null,
+      "resolution": null,
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_note": "Roundhouses have thatched straw roofs instead of dark slate, and metal shears appear. Rerender with slate-coned roofs and non-metal shearing."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0250",
+      "timestamp": "08:18–08:20",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "shepherds of the peninsula possessed",
+      "shot_type": "High-elevation geographic / scale reveal — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "visual_beat": "High-elevation geographic / scale reveal — Alabaster skin, silver-gold hair & indigo-violet eyes",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_025/VAL-EP001-IMG0250.png",
+      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": null,
+      "md5": null,
+      "resolution": null,
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_note": "Landscape reads as modern enclosed farmland — stone-bounded field plots, a road and tidy patchwork terraces — instead of wild open pasture. Rerender without field boundaries or roads."
+    }
+  ]
+}
