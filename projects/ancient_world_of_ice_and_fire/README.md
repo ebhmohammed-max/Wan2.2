@@ -156,3 +156,6 @@ projects/ancient_world_of_ice_and_fire/
 
 
 **Open correction:** IMG0160 remains unresolved. The top-left crop was rejected; restore or regenerate the original composition, resizing only if appropriate.
+
+
+**Batch 021 preparation:** Prompts and manifest are ready for `IMG0201–IMG0210` (`06:40–07:00`); Drive folder: `https://drive.google.com/drive/folders/17xs4PfQxDKJ_2baNHXtv5oo86s9Tr8mZ`. Rendering is pending.

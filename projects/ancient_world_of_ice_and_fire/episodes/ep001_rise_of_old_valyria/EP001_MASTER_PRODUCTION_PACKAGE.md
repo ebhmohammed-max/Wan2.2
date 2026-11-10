@@ -3296,3 +3296,8 @@ Batch 020 (`IMG0191–IMG0200`, `06:20–06:40`) was prepared and completed. The
 ## Production Continuation — Batch 020 complete
 
 Batch 020 (`IMG0191–IMG0200`, `06:20–06:40`) is complete. Ten frames progress from fertile volcanic scree, wild olives, figs and geothermal water into natural subterranean mineral veins. All frames passed visual review, are `1376×768` sRGB PNGs, and were uploaded to Drive folder `https://drive.google.com/drive/folders/1qGCm4kPxpOzc9x5Befotaj1Vq42xxkhO`; the folder contains exactly ten images and every Drive MD5 matches its local checksum. Verified progress is **200/1,050 (19.05%)**; next is Batch 021 (`06:40–07:00`). **IMG0160 remains an open correction:** the user rejected its top-left crop and prefers the original framing; restore or regenerate the original composition, resizing only if appropriate.
+
+
+## Production Continuation — Batch 021 prepared (2026-11-10)
+
+Batch 021 (`IMG0201–IMG0210`, `06:40–07:00`) prompts and manifest are ready. The sequence reveals copper, tin, iron, silver, native gold and obsidian, then introduces the blind, wingless and legless subterranean firewyrm in deep rock. Drive folder: `https://drive.google.com/drive/folders/17xs4PfQxDKJ_2baNHXtv5oo86s9Tr8mZ`. Rendering and QC are pending; verified progress remains **200/1,050 (19.05%)** until images are generated, reviewed, uploaded and checksum-verified. **IMG0160 remains unresolved:** the rejected crop must be replaced by restoring or regenerating the original composition (resizing only if appropriate).
