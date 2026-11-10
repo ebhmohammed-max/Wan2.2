@@ -12,16 +12,14 @@
   "batch_timespan": "10:20–10:40",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "IN_PROGRESS_7_OF_10_APPROVED_3_PENDING_RERENDER",
-  "approved_count": 7,
-  "pending_rerender_count": 3,
+  "batch_status": "IN_PROGRESS_8_OF_10_APPROVED_UPLOADED_2_PENDING",
+  "approved_count": 8,
+  "pending_rerender_count": 1,
   "pending_completion_scenes": [
-    "VAL-EP001-IMG0315",
     "VAL-EP001-IMG0316",
-    "VAL-EP001-IMG0317",
-    "VAL-EP001-IMG0319"
+    "VAL-EP001-IMG0320"
   ],
-  "visual_qc_note": "Seven frames approved on pass one or after a letterbox reframe (0313, 0318). Four frames failed review and are queued for rerender at the start of the next turn, blocked only by the 10-images-per-turn generation cap: 0316 breaks the four-limb anatomy lock (a third limb pair reads behind the wing line); 0317 breaks setting (coursed masonry ledge and a daylight sea-cliff with green hills instead of a caldera interior); 0319 breaks two standing rules (five-figure crowd line-up, bright molten lava river instead of dull ember, dragon on a squared block); 0315 breaks the black-ground rule (pale white/yellow crust reading as snow). Every frame remains 1376x768 sRGB PNG.",
+  "visual_qc_note": "Eight of ten frames approved and MD5-verified on Drive. Two remain: 0316 needs a fourth pass because its folded wing wrist renders as a pointed golden beak (bird anatomy against the reptilian lock), and 0320 must be regenerated because the approved file was lost in a sandbox reset before its upload succeeded and the asset directory is gitignored. Both are queued behind the 10-images-per-turn generation cap. Progress holds at 316/1,050 (30.10%) until both pass.",
   "letterbox_scan_note": "Per-row edge-mean scan run on all ten frames. Strips found and cropped on 0313 (content rows 12-755), 0315 (12-755) and 0318 (44-675), then resized to 1376x768. 0315 still needs a re-crop after its rerender.",
   "dragon_reveal_note": "DRG-VAL-001 debuts here and is deliberately given in fragments: out-of-frame wing-shoulder (0316), through a column gap (0317), as a silhouette in an ember-lit chamber (0318), ultra-wide at the limit of legibility (0319), and only a fuller read in 0319-0320 while coiled and turned away. Never centred, never posed, never facing camera, never breathing fire in this batch.",
   "verified_episode_frames_after_batch": 326,
@@ -114,13 +112,13 @@
       ],
       "creature_refs": [],
       "file_path": "assets/batch_032/VAL-EP001-IMG0315.png",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": "323bfc8cf7b21ea4bf7ae443fdd58eca",
-      "size_bytes": 1841037,
-      "md5_verified_on_drive": false,
-      "qc_status": "PENDING_RERENDER",
-      "qc_note": "RERENDER QUEUED. Mid-ground pale white/yellow mineral crust reads as snow under the grey key, and the sheet surface reads bright enough to break the black-ground rule. Elder hair/cloak otherwise correct at 300%. Reframe to darker crust only, sulphur seams duller."
+      "drive_file_id": "1RPNyAGE_0jQd86VuGiFAr0PuflleEQm1",
+      "drive_url": "https://drive.google.com/file/d/1RPNyAGE_0jQd86VuGiFAr0PuflleEQm1/view?usp=drivesdk",
+      "md5": "5de9e27c75aad2855a98f678ce7c9523",
+      "size_bytes": 1725191,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved on pass 3, then letterbox-reframed (content rows 12-755). Bones now genuinely EMBEDDED under a hard black glass casing with the upper halves swallowed, not resting on top; ground matte black to every edge; elder in a mid-thigh cloak with trousers and boots visible and a fully haired crown. Drive copy replaced after the reframe so the uploaded MD5 matches the cropped file."
     },
     {
       "scene_id": "VAL-EP001-IMG0316",
@@ -141,7 +139,7 @@
       "size_bytes": 2569697,
       "md5_verified_on_drive": false,
       "qc_status": "PENDING_RERENDER",
-      "qc_note": "RERENDER QUEUED. Failed the four-limb anatomy lock: a third limb pair reads behind the wing line in the lower band, so the animal reads six-limbed. Also the elder is in a floor-length cloak with a bald crown patch at 300%. Rebuild with two hind legs and two wings only, and knee-length cloak."
+      "qc_note": "RERENDER QUEUED (pass 4 needed). Four attempts. Pass 1 read six-limbed; pass 2 fixed the legs but kept a floor-length cloak and a bald crown; pass 3 fixed the elder completely and the limbs read correctly, but the pose rotated the animal almost side-on and the folded wing wrist rendered as a pointed GOLDEN BEAK with the snout suppressed - bird anatomy, a hard fail against the reptilian lock. Ground in passes 2-3 also drifted pale grey. Next pass must rotate back toward the wing-shoulder-out-of-frame framing, make the wing joint a blunt rounded scaled knuckle with no hook or point, and state \"reptile not bird / no beak / no hooked bill\" in the subject text."
     },
     {
       "scene_id": "VAL-EP001-IMG0317",
@@ -156,13 +154,13 @@
         "DRG-VAL-001"
       ],
       "file_path": "assets/batch_032/VAL-EP001-IMG0317.png",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": "12b7563b353433219e31c385990b3d50",
-      "size_bytes": 2182734,
-      "md5_verified_on_drive": false,
-      "qc_status": "PENDING_RERENDER",
-      "qc_note": "RERENDER QUEUED. Failed setting: the ledge reads as coursed masonry slabs and the background opens to a daylight sea-cliff with green hills, not a caldera interior. Rebuild fully interior, no sky, no hewn stone."
+      "drive_file_id": "1kCQjGhiELUSwsnNZJ3DmqgTkkPV9bgoV",
+      "drive_url": "https://drive.google.com/file/d/1kCQjGhiELUSwsnNZJ3DmqgTkkPV9bgoV/view?usp=drivesdk",
+      "md5": "dbb04adc1f464b7010e37bc46bdcccf7",
+      "size_bytes": 2239320,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved on pass 3. Fully interior: no sky, no daylight, no green hills; ledge is raw fractured basalt, not coursed masonry; no flame of any kind. Long crocodilian skull, twin obsidian horns, one folded wing, four limbs. Pass 2 had produced a literal column of fire behind the animal, which is a hard fail."
     },
     {
       "scene_id": "VAL-EP001-IMG0318",
@@ -198,13 +196,13 @@
         "DRG-VAL-001"
       ],
       "file_path": "assets/batch_032/VAL-EP001-IMG0319.png",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": "d227a2f9eb07fcb5bb0c77849ee9838f",
-      "size_bytes": 2047511,
-      "md5_verified_on_drive": false,
-      "qc_status": "PENDING_RERENDER",
-      "qc_note": "RERENDER QUEUED. Crowd is a perfect five-figure line-up (standing rule violation), the dragon sits on a squared block, and the floor reads as a bright molten lava river rather than dull ember fissures. Rebuild scattered non-line-up crowd, raw natural ledge, ember not lava."
+      "drive_file_id": "1EEmQ3OyYzarF3s-IYU21N4OMKiNH0q1w",
+      "drive_url": "https://drive.google.com/file/d/1EEmQ3OyYzarF3s-IYU21N4OMKiNH0q1w/view?usp=drivesdk",
+      "md5": "b854f5b8e8862592e715f2adf5c90510",
+      "size_bytes": 1459796,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved on pass 2 after letterbox reframe (content rows 12-755). Crowd genuinely scattered at six different distances and postures with no line-up; floor carries only thin dull ember cracks, no molten channel; dragon on a shattered tilted slab rather than a squared block. The pale columnar rock of the ledge is natural jointing, not masonry."
     },
     {
       "scene_id": "VAL-EP001-IMG0320",
@@ -224,12 +222,20 @@
       "md5": "f3435cc883cee1f452cc6d93592bc8cb",
       "size_bytes": 2596271,
       "md5_verified_on_drive": false,
-      "qc_status": "APPROVED_VISUAL_65MM_V1",
-      "qc_note": "Approved first pass. MCU herdsman behind black rock lip, head turned away, no eye to camera, two narrow temple braids, soot; ember rim light. Letterbox scan clean. Upload queued (Drive upload rate limit hit after five files this turn)."
+      "qc_status": "PENDING_REGENERATE",
+      "qc_note": "REGENERATE. Approved on pass 1 but the file was lost in a sandbox reset before its upload succeeded (the upload was rate-limited that turn), and the asset directory is gitignored so nothing local survives. Drive has no copy. The approved composition is recorded here and in the prompt file: MCU behind a black rock lip, head turned away, no eye to camera, two narrow temple braids, ember rim light."
     }
   ],
-  "pending_uploads": [
-    "VAL-EP001-IMG0320"
-  ],
-  "upload_note": "Five approved frames (0311-0314, 0318) uploaded and MD5-verified to 1nCILn9jFijvgVozX6g99f5Z1uaVegCo-. IMG0320 approved but not yet uploaded: Drive upload rate limit reached for this turn; retry next turn."
+  "pending_uploads": [],
+  "upload_note": "Eight approved frames uploaded and MD5-verified against Drive (0311-0315, 0317-0319). One duplicate upload of 0315 and one premature upload of 0316 were moved to trash after replacement.",
+  "approved_uploaded_count": 8,
+  "pending_regenerate_count": 1,
+  "drive_verified_count": 8,
+  "rerender_history": {
+    "VAL-EP001-IMG0315": "pass 1 snow-reading crust; pass 2 bones floating on the slab, long cloak, bald crown; pass 3 approved then reframed",
+    "VAL-EP001-IMG0316": "pass 1 six limbs + long cloak + bald crown; pass 2 fixed legs, kept cloak/crown; pass 3 limbs and elder correct but wing wrist read as a bird beak; pass 4 queued",
+    "VAL-EP001-IMG0317": "pass 1 masonry ledge + daylight sea-cliff; pass 2 interior but a column of fire; pass 3 approved",
+    "VAL-EP001-IMG0319": "pass 1 crowd line-up + lava river + squared block; pass 2 approved after reframe",
+    "VAL-EP001-IMG0320": "pass 1 approved, file lost in sandbox reset before upload; regenerate queued"
+  }
 }

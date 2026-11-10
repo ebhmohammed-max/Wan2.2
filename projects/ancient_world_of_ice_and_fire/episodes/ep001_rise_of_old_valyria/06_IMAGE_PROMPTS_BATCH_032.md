@@ -22,28 +22,34 @@
 - **Crowds must be scattered.** Different distances, heights and postures, or the render becomes a line-up.
 - **Wide-shot eye rule:** nothing wider than a 50mm MCU exposes human iris colour.
 
-**Render/QC status:** **7 of 10 approved, 3 pending rerender.** Ten frames generated at `10:20–10:40`, all native `1376x768` sRGB PNG.
+**Render/QC status:** **8 of 10 approved and MD5-verified on Drive; 2 pending.** All ten frames are native `1376x768` sRGB PNGs.
 
 | Frame | Status | Note |
 | :--- | :--- | :--- |
 | `IMG0311` | ✅ Approved, uploaded | Vitrified wall, ribs + horned skull fused into glass, herdsman tiny at base, no face. |
 | `IMG0312` | ✅ Approved, uploaded | Macro ribs in black glass, meniscus bright on one edge, no gore. |
-| `IMG0313` | ✅ Approved, uploaded | Passed after letterbox reframe (content rows 12–755). Strict profile, no eye. |
+| `IMG0313` | ✅ Approved, uploaded | Passed after letterbox reframe (rows 12–755). Strict profile, no eye. |
 | `IMG0314` | ✅ Approved, uploaded | Macro horned skull half-dissolved into melt, no people. |
-| `IMG0315` | ❌ Rerender | Pale white/yellow mineral crust **reads as snow**; breaks the black-ground rule. |
-| `IMG0316` | ❌ Rerender | **Four-limb lock broken** — a third limb pair reads behind the wing line, so the animal reads six-limbed. Elder also in a floor-length cloak with a bald crown patch. |
-| `IMG0317` | ❌ Rerender | **Setting broken** — ledge reads as coursed masonry, background opens to a daylight sea-cliff with green hills. |
-| `IMG0318` | ✅ Approved, uploaded | Passed after letterbox reframe (content rows 44–675). Silhouette only, four limbs, no humans. |
-| `IMG0319` | ❌ Rerender | **Two standing rules broken** — five-figure crowd line-up, and a bright molten lava river instead of dull ember; dragon on a squared block. |
-| `IMG0320` | ✅ Approved, upload queued | MCU behind the rock lip, head turned away, no eye to camera, two temple braids. |
+| `IMG0315` | ✅ Approved, uploaded | **Pass 3.** Bones genuinely embedded under a hard glass casing; black ground edge to edge; elder mid-thigh cloak, full crown. Reframed rows 12–755, Drive copy replaced. |
+| `IMG0316` | ❌ 4th pass queued | **Bird anatomy.** Limbs now correct (two hind legs, two wings) and the elder is fixed, but the folded wing wrist renders as a pointed **golden beak** with the snout suppressed. |
+| `IMG0317` | ✅ Approved, uploaded | **Pass 3.** Fully interior, raw fractured ledge, no flame, correct crocodilian skull. |
+| `IMG0318` | ✅ Approved, uploaded | Passed after letterbox reframe (rows 44–675). Silhouette only, four limbs, no humans. |
+| `IMG0319` | ✅ Approved, uploaded | **Pass 2.** Crowd genuinely scattered, dull ember cracks only, dragon on a shattered tilted slab. Reframed rows 12–755. |
+| `IMG0320` | ❌ Regenerate | Approved on pass 1, but the file was lost in a sandbox reset before its upload landed and `assets/` is gitignored. Composition preserved below. |
 
-**Rerender briefs are written and held.** All three frames are queued at the top of the next turn; they were blocked only by the hard cap of ten generated images per turn, which the first pass had already consumed. **Pass-one lessons to carry into the rerender:**
+**Rerender briefs, both queued behind the 10-images-per-turn cap:**
 
-1. **Stating the limb count is not enough.** `0316` said "strictly four-limbed — two hind legs and two wings" in the subject text and negated extras, and still produced a third limb pair because the wing-shoulder framing left room under the wing line. The rerender must describe the *ground contact* — only two taloned feet touching rock, wings folded onto knuckles — and negate "third leg", "front legs", "forelegs under the wing" explicitly.
-2. **"Natural basalt" drifts to masonry on any ledge that is squared off.** `0317` needed "no squared flagstones, no stacked slabs, no brickwork" as well as the existing no-masonry negation, plus an explicit interior lock: "no sky, no horizon, no daylight, no landscape".
-3. **A magma-lit chamber renders as a lava river.** Ember must be described as "dull ember fissures, no flowing molten surface", or the floor becomes a bright orange river that breaks the palette and the darkness rule.
-4. **Crowd variation has to be written into the figure description itself**, not only into a "no line-up" negation — `0319` gave five identical rear-view figures at identical spacing.
-5. **Pale mineral crust still reads as snow** under cold grey light, the ninth occurrence in the project. Only the ground description can fix it: "pure matte black wet basalt, no pale mineral deposits".
+1. **`IMG0316` — the wing wrist is reading as a beak.** The fix is not more "no beak" in the negative list; it is making the joint a *blunt, rounded, scaled knuckle* described positively ("overlapping scale rings, no hook, no point, no protrusion") and rotating the pose back to a wing-shoulder that runs out of frame, rather than a near-side-on animal whose wrist points into open space. State "reptile, not bird — long low crocodilian skull with a blunt squared snout" in the subject text itself.
+2. **`IMG0320` — regenerate.** No local copy and no Drive copy survive. Rebuild to the recorded composition: 50mm MCU, head and shoulders behind a black rock lip, head turned away with no eye to camera, soot, two narrow temple braids, warm ember rim from off-frame right.
+
+**Pass-one-through-three lessons to carry into Batch 033:**
+
+1. **Stating the limb count is not enough** — the *ground contact* has to be described (two taloned feet plus two wing-knuckles, nothing else), or the wing-shoulder framing leaves room for a phantom third leg.
+2. **"Embedded, not resting on" needs a material model.** "Bones fused into glass" rendered bones lying on a slab three times running; "thick glass has flowed over the bones and set hard, each bone locked under the surface with only its upper face exposed, no contact shadow beneath it" finally worked. Value matters as much as geometry: bright white bone also read as clean and new, so the bone had to be described as dirty tan-grey, close in value to the slab.
+3. **A folded wing wrist will grow a beak.** Any pointed or hooked protrusion at the end of a wing membrane reads as a bird bill at cinema scale. The joint must be written as a blunt scaled knuckle.
+4. **"Magma-lit" produces fire.** Even with "no fire" negated, a warm wall behind the animal rendered as a literal column of flame; the acceptable language is dull ember-red heat *inside the rock*, evenly diffuse, with the throat unlit.
+5. **Columnar basalt drifts to masonry from any level ledge.** Angled slabs, snapped plates and irregular shattered blocks survive; horizontal flat-topped ledges do not.
+6. **Pale mineral crust still reads as snow** under cold grey key (ninth occurrence); ground must be described as pure matte black wet basalt with black glass shards.
 
 ## PROMPT 311 — `VAL-EP001-IMG0311`
 
