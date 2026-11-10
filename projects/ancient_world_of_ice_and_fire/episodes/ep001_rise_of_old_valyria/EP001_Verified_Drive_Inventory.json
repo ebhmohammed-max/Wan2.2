@@ -36,10 +36,11 @@
     28,
     29,
     30,
-    31
+    31,
+    32
   ],
-  "next_batch": 32,
-  "next_image_number": 311,
+  "next_batch": 33,
+  "next_image_number": 321,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1169,7 +1170,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": 32,
+  "in_progress_batch": 33,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1920,8 +1921,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-10T14:40:00Z",
-  "verified_progress_percent": 30.1,
+  "last_updated": "2026-11-10T14:55:00Z",
+  "verified_progress_percent": 31.05,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3617,7 +3618,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 316,
+  "verified_image_count": 326,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -5854,17 +5855,202 @@
       "upload_checksum_verified": true
     }
   ],
-  "batch_032_status": "IN_PROGRESS_8_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_032_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
   "batch_032_drive_folder_id": "1nCILn9jFijvgVozX6g99f5Z1uaVegCo-",
-  "batch_032_pending_rerender": [
-    "VAL-EP001-IMG0315",
-    "VAL-EP001-IMG0316",
-    "VAL-EP001-IMG0317",
-    "VAL-EP001-IMG0319"
+  "batch_032_pending_rerender": [],
+  "batch_032_drive_verified_count": 10,
+  "batch_032_pending": [],
+  "batch_032_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0311",
+      "timestamp": "10:20–10:22",
+      "narration_slice": "of iron and ash,",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "13eKnENq02J1M-gI4CtzQcmXkbEr3hS0U",
+      "drive_url": "https://drive.google.com/file/d/13eKnENq02J1M-gI4CtzQcmXkbEr3hS0U/view?usp=drivesdk",
+      "md5": "2e014889b5fdf64149c4adf50dd64398",
+      "size_bytes": 2449348,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0312",
+      "timestamp": "10:22–10:24",
+      "narration_slice": "early Valyrian climbers found the",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1bDfdV2DlBoxmIS9np3miJcAtTt7XC-kt",
+      "drive_url": "https://drive.google.com/file/d/1bDfdV2DlBoxmIS9np3miJcAtTt7XC-kt/view?usp=drivesdk",
+      "md5": "7b56856143f101b3c5534782ddade2a8",
+      "size_bytes": 2314717,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0313",
+      "timestamp": "10:24–10:26",
+      "narration_slice": "grim answer to their",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1gVMScRsoL2s0w-RVemU8ng8FGJ8NyCKS",
+      "drive_url": "https://drive.google.com/file/d/1gVMScRsoL2s0w-RVemU8ng8FGJ8NyCKS/view?usp=drivesdk",
+      "md5": "a7e8355579213c59c620d8bd2d853855",
+      "size_bytes": 1694933,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0314",
+      "timestamp": "10:26–10:28",
+      "narration_slice": "vanished flocks: bones, blackened and",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1mqG2jds2x5K5MitCOI5YFwen_282Y8Ti",
+      "drive_url": "https://drive.google.com/file/d/1mqG2jds2x5K5MitCOI5YFwen_282Y8Ti/view?usp=drivesdk",
+      "md5": "8f164b2219dc52ab58cc5d4619f0b5ba",
+      "size_bytes": 2672551,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0315",
+      "timestamp": "10:28–10:30",
+      "narration_slice": "half-melted into the rock.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1RPNyAGE_0jQd86VuGiFAr0PuflleEQm1",
+      "drive_url": "https://drive.google.com/file/d/1RPNyAGE_0jQd86VuGiFAr0PuflleEQm1/view?usp=drivesdk",
+      "md5": "5de9e27c75aad2855a98f678ce7c9523",
+      "size_bytes": 1725191,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0316",
+      "timestamp": "10:30–10:32",
+      "narration_slice": "No mountain wolf or",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1gu2gAcL3xSk1nREIkUgQCnbXmq9r-1QO",
+      "drive_url": "https://drive.google.com/file/d/1gu2gAcL3xSk1nREIkUgQCnbXmq9r-1QO/view?usp=drivesdk",
+      "md5": "a6f5d3a8031689123b31799b594cf198",
+      "size_bytes": 2184904,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0317",
+      "timestamp": "10:32–10:34",
+      "narration_slice": "shadowcat left stone vitrified into",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1kCQjGhiELUSwsnNZJ3DmqgTkkPV9bgoV",
+      "drive_url": "https://drive.google.com/file/d/1kCQjGhiELUSwsnNZJ3DmqgTkkPV9bgoV/view?usp=drivesdk",
+      "md5": "dbb04adc1f464b7010e37bc46bdcccf7",
+      "size_bytes": 2239320,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0318",
+      "timestamp": "10:34–10:36",
+      "narration_slice": "shining glass. Drawn by",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1nyAy9vZQsBnKY3RcqhG-HsSKABdqstS1",
+      "drive_url": "https://drive.google.com/file/d/1nyAy9vZQsBnKY3RcqhG-HsSKABdqstS1/view?usp=drivesdk",
+      "md5": "3a4fc88ba802630d085df3efbb06dc0b",
+      "size_bytes": 1152084,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0319",
+      "timestamp": "10:36–10:38",
+      "narration_slice": "dread and wonder alike,",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1EEmQ3OyYzarF3s-IYU21N4OMKiNH0q1w",
+      "drive_url": "https://drive.google.com/file/d/1EEmQ3OyYzarF3s-IYU21N4OMKiNH0q1w/view?usp=drivesdk",
+      "md5": "b854f5b8e8862592e715f2adf5c90510",
+      "size_bytes": 1459796,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0320",
+      "timestamp": "10:38–10:40",
+      "narration_slice": "the first witnesses crept to",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1dhQHCc3LmcnT9DcneTM8YZqethTj5ubt",
+      "drive_url": "https://drive.google.com/file/d/1dhQHCc3LmcnT9DcneTM8YZqethTj5ubt/view?usp=drivesdk",
+      "md5": "8d7d5e7559c2c9b877314262314ee568",
+      "size_bytes": 2710709,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
   ],
-  "batch_032_drive_verified_count": 8,
-  "batch_032_pending": [
-    "VAL-EP001-IMG0316",
-    "VAL-EP001-IMG0320"
-  ]
+  "batch_032_note": "DRG-VAL-001 debuts in this batch: monumental in IMG0316 with the neck running out of the top edge, through a column gap in IMG0317, as a silhouette in IMG0318, ultra-wide in IMG0319, and above frame in IMG0320. Twenty-one generations were needed for ten approvals, almost all of it on IMG0316 (seven passes) and IMG0320 (regenerated after a sandbox reset lost the approved file)."
 }

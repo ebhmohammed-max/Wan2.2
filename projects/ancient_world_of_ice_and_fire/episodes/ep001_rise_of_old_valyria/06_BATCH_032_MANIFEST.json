@@ -12,16 +12,13 @@
   "batch_timespan": "10:20–10:40",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "IN_PROGRESS_8_OF_10_APPROVED_UPLOADED_2_PENDING",
-  "approved_count": 8,
-  "pending_rerender_count": 1,
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0316",
-    "VAL-EP001-IMG0320"
-  ],
-  "visual_qc_note": "Eight of ten frames approved and MD5-verified on Drive. Two remain: 0316 needs a fourth pass because its folded wing wrist renders as a pointed golden beak (bird anatomy against the reptilian lock), and 0320 must be regenerated because the approved file was lost in a sandbox reset before its upload succeeded and the asset directory is gitignored. Both are queued behind the 10-images-per-turn generation cap. Progress holds at 316/1,050 (30.10%) until both pass.",
-  "letterbox_scan_note": "Per-row edge-mean scan run on all ten frames. Strips found and cropped on 0313 (content rows 12-755), 0315 (12-755) and 0318 (44-675), then resized to 1376x768. 0315 still needs a re-crop after its rerender.",
-  "dragon_reveal_note": "DRG-VAL-001 debuts here and is deliberately given in fragments: out-of-frame wing-shoulder (0316), through a column gap (0317), as a silhouette in an ember-lit chamber (0318), ultra-wide at the limit of legibility (0319), and only a fuller read in 0319-0320 while coiled and turned away. Never centred, never posed, never facing camera, never breathing fire in this batch.",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "pending_rerender_count": 0,
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten frames of Batch 032 approved, uploaded to Drive and MD5-verified against Drive's own checksum. The batch covers the bones fused into black glass and the debut of DRG-VAL-001, and it took 21 generations to reach ten approvals. The last two frames were the hard ones: 0316 needed six passes before the animal read as a reptile at cinema scale, and 0320 was regenerated after its approved file was lost in a sandbox reset before upload. Episode progress advances to 326/1,050 (31.05%).",
+  "letterbox_scan_note": "Per-row edge-mean scan run on every frame before approval. Letterbox strips were found and cropped on 0313 (content rows 12-755), 0315 (12-755, cropped after its rerender), 0319 (12-755) and 0318 (44-675), each then resized to 1376x768. All ten delivered frames are full-bleed 1376x768 with no black bars.",
+  "dragon_reveal_note": "DRG-VAL-001 debuts here and is given first as monumental fragments rather than a full reveal: out-of-frame wing-shoulder with the neck running off the top edge (0316), through a column gap (0317), as a silhouette in an ember-lit chamber (0318), ultra-wide at the limit of legibility (0319), and a closer read in 0320 while the animal is above frame and the boy turns away. Never centred on a complete pose, never facing camera, never breathing fire in this batch. 0316 is the batch's establishing dragon image: the neck terminates above the frame, which is both a scale device and the fix for a recurring failure in which any closed off-frame mass resolved as a head.",
   "verified_episode_frames_after_batch": 326,
   "verified_episode_percent_after_batch": "31.05%",
   "scenes": [
@@ -133,13 +130,13 @@
         "DRG-VAL-001"
       ],
       "file_path": "assets/batch_032/VAL-EP001-IMG0316.png",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": "70ac46e3a3428afd26242ef47f07bfe8",
-      "size_bytes": 2569697,
-      "md5_verified_on_drive": false,
-      "qc_status": "PENDING_RERENDER",
-      "qc_note": "RERENDER QUEUED (pass 4 needed). Four attempts. Pass 1 read six-limbed; pass 2 fixed the legs but kept a floor-length cloak and a bald crown; pass 3 fixed the elder completely and the limbs read correctly, but the pose rotated the animal almost side-on and the folded wing wrist rendered as a pointed GOLDEN BEAK with the snout suppressed - bird anatomy, a hard fail against the reptilian lock. Ground in passes 2-3 also drifted pale grey. Next pass must rotate back toward the wing-shoulder-out-of-frame framing, make the wing joint a blunt rounded scaled knuckle with no hook or point, and state \"reptile not bird / no beak / no hooked bill\" in the subject text."
+      "drive_file_id": "1gu2gAcL3xSk1nREIkUgQCnbXmq9r-1QO",
+      "drive_url": "https://drive.google.com/file/d/1gu2gAcL3xSk1nREIkUgQCnbXmq9r-1QO/view?usp=drivesdk",
+      "md5": "a6f5d3a8031689123b31799b594cf198",
+      "size_bytes": 2184904,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED on the seventh generation. Low angle: the dragon fills the upper right, its neck rising up and out of the top edge so the mass has no terminus; one folded wing sweeps down across the middle as a taut leathery membrane with ragged scalloped margins and long straight rib-spars; a blunt-clawed forefoot rests on black rock at lower right. Two rear-view figures at lower left. Reptilian hide throughout, no feathers, no beak, no head, eye or jaw anywhere in frame, no fire. Ground and walls stay black to the corners. This pass abandoned the strategy of negating bird anatomy and instead removed the head from frame entirely."
     },
     {
       "scene_id": "VAL-EP001-IMG0317",
@@ -217,25 +214,30 @@
         "DRG-VAL-001"
       ],
       "file_path": "assets/batch_032/VAL-EP001-IMG0320.png",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": "f3435cc883cee1f452cc6d93592bc8cb",
-      "size_bytes": 2596271,
-      "md5_verified_on_drive": false,
-      "qc_status": "PENDING_REGENERATE",
-      "qc_note": "REGENERATE. Approved on pass 1 but the file was lost in a sandbox reset before its upload succeeded (the upload was rate-limited that turn), and the asset directory is gitignored so nothing local survives. Drive has no copy. The approved composition is recorded here and in the prompt file: MCU behind a black rock lip, head turned away, no eye to camera, two narrow temple braids, ember rim light."
+      "drive_file_id": "1dhQHCc3LmcnT9DcneTM8YZqethTj5ubt",
+      "drive_url": "https://drive.google.com/file/d/1dhQHCc3LmcnT9DcneTM8YZqethTj5ubt/view?usp=drivesdk",
+      "md5": "8d7d5e7559c2c9b877314262314ee568",
+      "size_bytes": 2710709,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED on the second generation after the first approved file was lost in a sandbox reset. MCU 50mm: the boy behind a black wet rock lip, three-quarter turned away, eyes fixed off-frame with no lens contact, pale silver-white shoulder-length hair with a single temple braid, basalt soot on cheek and neck, brown leather jerkin and ash-grey tunic, warm ember rim on the hair. Full-bleed 1376x768."
     }
   ],
   "pending_uploads": [],
-  "upload_note": "Eight approved frames uploaded and MD5-verified against Drive (0311-0315, 0317-0319). One duplicate upload of 0315 and one premature upload of 0316 were moved to trash after replacement.",
-  "approved_uploaded_count": 8,
-  "pending_regenerate_count": 1,
-  "drive_verified_count": 8,
+  "upload_note": "Ten approved frames uploaded to the batch folder and MD5-verified against Drive. A duplicate upload of 0315, a pre-reframe 0315 and a premature 0316 were moved to trash after replacement. Final checksum comparison returned ten files, ten exact matches.",
+  "approved_uploaded_count": 10,
+  "pending_regenerate_count": 0,
+  "drive_verified_count": 10,
   "rerender_history": {
+    "VAL-EP001-IMG0311": "pass 1 approved",
+    "VAL-EP001-IMG0312": "pass 1 approved",
+    "VAL-EP001-IMG0313": "pass 1 approved, then reframed off letterbox strips",
+    "VAL-EP001-IMG0314": "pass 1 approved",
     "VAL-EP001-IMG0315": "pass 1 snow-reading crust; pass 2 bones floating on the slab, long cloak, bald crown; pass 3 approved then reframed",
-    "VAL-EP001-IMG0316": "pass 1 six limbs + long cloak + bald crown; pass 2 fixed legs, kept cloak/crown; pass 3 limbs and elder correct but wing wrist read as a bird beak; pass 4 queued",
+    "VAL-EP001-IMG0316": "pass 1 six limbs + long cloak + bald crown; pass 2 fixed the legs, kept cloak and crown; pass 3 wing wrist read as a bird beak; pass 4 produced two eye sockets in the wing mass; pass 5 crushed the frame to near-black and flattened the wing into a plank; pass 6 introduced a literal pool of fire and a fully spread bat wing; pass 7 approved - dragon dominant in the upper right, neck rising out of the top edge, one folded wing sweeping across the middle, forefoot on black rock",
     "VAL-EP001-IMG0317": "pass 1 masonry ledge + daylight sea-cliff; pass 2 interior but a column of fire; pass 3 approved",
+    "VAL-EP001-IMG0318": "pass 1 approved",
     "VAL-EP001-IMG0319": "pass 1 crowd line-up + lava river + squared block; pass 2 approved after reframe",
-    "VAL-EP001-IMG0320": "pass 1 approved, file lost in sandbox reset before upload; regenerate queued"
+    "VAL-EP001-IMG0320": "pass 1 approved, file lost in sandbox reset before upload; pass 2 regenerated and approved"
   }
 }
