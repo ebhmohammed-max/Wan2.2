@@ -30,10 +30,11 @@
     22,
     23,
     24,
-    25
+    25,
+    26
   ],
-  "next_batch": 26,
-  "next_image_number": 251,
+  "next_batch": 27,
+  "next_image_number": 261,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1158,7 +1159,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": 26,
+  "in_progress_batch": null,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1909,8 +1910,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-10T08:55:00Z",
-  "verified_progress_percent": 24.38,
+  "last_updated": "2026-11-10T09:40:00Z",
+  "verified_progress_percent": 25.33,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3606,7 +3607,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 256,
+  "verified_image_count": 266,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -4598,7 +4599,27 @@
       "upload_checksum_verified": true
     }
   ],
-  "batch_026_partial_verified_images": [
+  "batch_026_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0251",
+      "timestamp": "08:20–08:22",
+      "narration_slice": "pale alabaster skin, hair",
+      "shot_type": "Towering vertical scale composition",
+      "visual_beat": "Low-angle vertical scale — two herdsmen dwarfed by a columnar basalt cliff",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1UAOlwVATo5PYPgivwfEKcXl6rmRYhGoe",
+      "drive_url": "https://drive.google.com/file/d/1UAOlwVATo5PYPgivwfEKcXl6rmRYhGoe/view?usp=drivesdk",
+      "md5": "7d2eb34fcb9900803e7523f4f797ee52",
+      "size_bytes": 2722438,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
     {
       "scene_id": "VAL-EP001-IMG0252",
       "timestamp": "08:22–08:24",
@@ -4640,6 +4661,67 @@
       "upload_checksum_verified": true
     },
     {
+      "scene_id": "VAL-EP001-IMG0254",
+      "timestamp": "08:26–08:28",
+      "narration_slice": "eyes of lilac, pale indigo,",
+      "shot_type": "Extreme close-up tactile / light study",
+      "visual_beat": "Extreme close-up iris study — lilac, pale indigo and amethyst",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1vaAV_FPQiHzqKQopdJuFfHK3XxlXqm20",
+      "drive_url": "https://drive.google.com/file/d/1vaAV_FPQiHzqKQopdJuFfHK3XxlXqm20/view?usp=drivesdk",
+      "md5": "d1f0d511ac9afcb3dc9108b6dc1e3d27",
+      "size_bytes": 2661722,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0255",
+      "timestamp": "08:28–08:30",
+      "narration_slice": "and deep amethyst violet.",
+      "shot_type": "Transitional wide horizon / bridge framing",
+      "visual_beat": "Transitional wide at dusk — scattered clan along the crest, three cones and the sea",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1N9QviNaW7gEfFRMSWofTZsG4n4dXV-Rn",
+      "drive_url": "https://drive.google.com/file/d/1N9QviNaW7gEfFRMSWofTZsG4n4dXV-Rn/view?usp=drivesdk",
+      "md5": "80ed70b9533697360fc0376260ba1598",
+      "size_bytes": 2181135,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0256",
+      "timestamp": "08:30–08:32",
+      "narration_slice": "Centuries later, awed outsiders would",
+      "shot_type": "Low-angle monumental architectural / geological framing",
+      "visual_beat": "Low-angle monumental framing — elder and young herdsman on a basalt shelf",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1MGXC3iF2O-Ww-UGtHi9OdeDXWK8YgyPy",
+      "drive_url": "https://drive.google.com/file/d/1MGXC3iF2O-Ww-UGtHi9OdeDXWK8YgyPy/view?usp=drivesdk",
+      "md5": "78ac30c1a618c2e4cda6bd189cde3322",
+      "size_bytes": 2400038,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
       "scene_id": "VAL-EP001-IMG0257",
       "timestamp": "08:32–08:34",
       "narration_slice": "call such beauty unearthly, almost",
@@ -4673,8 +4755,8 @@
         "CHAR-VAL-001",
         "CHAR-VAL-002"
       ],
-      "drive_file_id": "1WS377NIjdbzuf-Hys2qY8wGzMB9_2BIy",
-      "drive_url": "https://drive.google.com/file/d/1WS377NIjdbzuf-Hys2qY8wGzMB9_2BIy/view?usp=drivesdk",
+      "drive_file_id": "1WS377NIjdbzuf-Hys2qY88GzMB9_2BIy",
+      "drive_url": "https://drive.google.com/file/d/1WS377NIjdbzuf-Hys2qY88GzMB9_2BIy/view?usp=drivesdk",
       "md5": "2f0b219c4bb49247bedb0060e1003646",
       "size_bytes": 2771058,
       "resolution": "1376x768",
@@ -4723,11 +4805,5 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
     }
-  ],
-  "batch_026_pending_scenes": [
-    "VAL-EP001-IMG0251",
-    "VAL-EP001-IMG0254",
-    "VAL-EP001-IMG0255",
-    "VAL-EP001-IMG0256"
   ]
 }

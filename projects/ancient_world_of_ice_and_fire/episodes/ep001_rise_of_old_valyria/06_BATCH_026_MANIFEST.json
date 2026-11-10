@@ -13,16 +13,11 @@
   "batch_timespan": "08:20–08:40",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "IN_PROGRESS_6_OF_10_APPROVED_UPLOADED_4_RERENDER_PENDING",
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0251",
-    "VAL-EP001-IMG0254",
-    "VAL-EP001-IMG0255",
-    "VAL-EP001-IMG0256"
-  ],
-  "visual_qc_note": "First pass: six of ten frames passed and were uploaded to Drive folder 1C-0rzizehths1tSA0As1NXfVJRW81y0G, each Drive MD5 matching its local file. Four were rejected and await targeted rerenders: IMG0251 and IMG0256 rendered the elder shepherd's irises pale steel-blue rather than indigo-violet (IMG0256 also settling into a symmetrical heroic poster stance); IMG0254's iris study drifted to a heavily stubbled adult male face with no temple braids and a synthetic lens-like iris; IMG0255 drifted to a posed cast procession and gave the woman carrying the child a strong likeness of a known screen actress. Eye-colour wording is tightened for the rerenders so iris brightness and size are stated explicitly and the violet cannot wash out to grey at distance.",
-  "verified_episode_frames_after_batch": 256,
-  "verified_episode_percent_after_batch": "24.38%",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten frames passed visual review, are 1376x768 sRGB PNGs, are uploaded to Drive folder 1C-0rzizehths1tSA0As1NXfVJRW81y0G, and each Drive MD5 matches its local file; Drive lists exactly ten images. Six passed on the first pass (IMG0252, IMG0253, IMG0257, IMG0258, IMG0259, IMG0260). Four were rerendered: IMG0251 and IMG0256 had given the elder shepherd pale steel-blue irises (and IMG0256 had drifted into a heroic poster stance and a valley with white farm buildings and patchwork fields), so both were re-blocked to show the men in profile or from behind with no iris colour exposed; IMG0254's iris study had drifted to a stubbled adult male with a lens-like iris and was reframed to a clean-shaven young face with a natural amethyst gradient; IMG0255 had been a posed cast procession with a likeness of a known screen actress and was re-blocked to scattered anonymous figures mostly turned away. Continuity flag carried forward: the braided wool headband on the woman in IMG0258 must not appear again.",
+  "verified_episode_frames_after_batch": 266,
+  "verified_episode_percent_after_batch": "25.33%",
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0251",
@@ -38,16 +33,16 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_026/VAL-EP001-IMG0251.png",
-      "qc_status": "QC_REJECTED_RERENDER_REQUIRED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
-      "size_bytes": 2874586,
-      "md5": "e07fc6f0397ecff9255b028c7e75f545",
+      "size_bytes": 2722438,
+      "md5": "7d2eb34fcb9900803e7523f4f797ee52",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "REJECTED: the elder shepherd's irises rendered pale steel-blue rather than indigo-violet, and both faces tipped so far back that the eyes barely read. Awaiting rerender."
+      "drive_file_id": "1UAOlwVATo5PYPgivwfEKcXl6rmRYhGoe",
+      "drive_url": "https://drive.google.com/file/d/1UAOlwVATo5PYPgivwfEKcXl6rmRYhGoe/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved rerender: low-angle rear three-quarter view below the columnar basalt cliff, both men seen in profile from behind so no iris colour is exposed — the pale hair and skin read as the brightest elements against black rock. No eye-colour exposure means no risk of the steel-blue failure."
     },
     {
       "scene_id": "VAL-EP001-IMG0252",
@@ -72,7 +67,7 @@
       "drive_file_id": "1c9Uwc2vx1cfDW-IQInqJyBliLMIeyUbL",
       "drive_url": "https://drive.google.com/file/d/1c9Uwc2vx1cfDW-IQInqJyBliLMIeyUbL/view?usp=drivesdk",
       "md5_verified_on_drive": true,
-      "qc_note": "Approved: hands only, calloused with rawhide wrist wraps, hank catching hard low sun; fibre reads as pale silver-gold shading to platinum white. Interior is a thatched-roof croft-like room, acceptable as a roundhouse interior, though the thatch must not be read as the exterior roof type."
+      "qc_note": "Approved: hands only, calloused with rawhide wrist wraps, hank catching hard low sun; fibre reads as pale silver-gold shading to platinum white. Interior is a croft-like room, acceptable as a roundhouse interior; its thatch must not be read as the exterior roof type."
     },
     {
       "scene_id": "VAL-EP001-IMG0253",
@@ -113,16 +108,16 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_026/VAL-EP001-IMG0254.png",
-      "qc_status": "QC_REJECTED_RERENDER_REQUIRED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
-      "size_bytes": 2967486,
-      "md5": "a6a13fc3e617d630ff11774129206cb8",
+      "size_bytes": 2661722,
+      "md5": "d1f0d511ac9afcb3dc9108b6dc1e3d27",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "REJECTED: the model drifted to a heavily stubbled adult male face with a dense brow and no temple braids, contradicting the 24-year-old clean-shaven herdsman, and the iris read as a synthetic lens-like purple. Awaiting rerender."
+      "drive_file_id": "1vaAV_FPQiHzqKQopdJuFfHK3XxlXqm20",
+      "drive_url": "https://drive.google.com/file/d/1vaAV_FPQiHzqKQopdJuFfHK3XxlXqm20/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved rerender: reframed from an isolated eyeball to a tight portrait from brow to upper lip, clean-shaven young face with both temple braids visible; amethyst-violet irises with a natural lilac-to-indigo gradient and a soft sky catchlight, human rather than lens-like. No beard, no brow drift."
     },
     {
       "scene_id": "VAL-EP001-IMG0255",
@@ -138,16 +133,16 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_026/VAL-EP001-IMG0255.png",
-      "qc_status": "QC_REJECTED_RERENDER_REQUIRED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
-      "size_bytes": 2415303,
-      "md5": "0412c94aba7aedb5290b08ff1cf09a24",
+      "size_bytes": 2181135,
+      "md5": "80ed70b9533697360fc0376260ba1598",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "REJECTED: the frame drifted to a posed cast procession walking in line toward camera, and the woman carrying the child is a strong likeness of a known screen actress. Both are episode-level prohibitions. Awaiting rerender."
+      "drive_file_id": "1N9QviNaW7gEfFRMSWofTZsG4n4dXV-Rn",
+      "drive_url": "https://drive.google.com/file/d/1N9QviNaW7gEfFRMSWofTZsG4n4dXV-Rn/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved rerender: clansfolk scattered in twos and threes across the dark crest, mostly turned away and mid-task, no procession and no face resembling a known performer. Distant figures are tiny and anonymous; three cones and a pale sea line behind."
     },
     {
       "scene_id": "VAL-EP001-IMG0256",
@@ -164,16 +159,16 @@
         "LOC-VAL-002"
       ],
       "file_path": "assets/batch_026/VAL-EP001-IMG0256.png",
-      "qc_status": "QC_REJECTED_RERENDER_REQUIRED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
-      "size_bytes": 2472445,
-      "md5": "d8e851390fb93399da64244b38761c49",
+      "size_bytes": 2400038,
+      "md5": "78ac30c1a618c2e4cda6bd189cde3322",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "REJECTED: the elder shepherd's irises rendered pale blue-grey rather than indigo-violet, and the two-shot settled into a symmetrical heroic poster stance. Awaiting rerender."
+      "drive_file_id": "1MGXC3iF2O-Ww-UGtHi9OdeDXWK8YgyPy",
+      "drive_url": "https://drive.google.com/file/d/1MGXC3iF2O-Ww-UGtHi9OdeDXWK8YgyPy/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved rerender: both men in profile facing out over a wild valley, eyes narrowed to thin shadowed slits against low sun, so the colour is implied rather than exposed. The earlier valley (white farm buildings, patchwork fields) is replaced by unbroken open pasture and a braided river with no structures."
     },
     {
       "scene_id": "VAL-EP001-IMG0257",
@@ -222,10 +217,10 @@
       "size_bytes": 2771058,
       "md5": "2f0b219c4bb49247bedb0060e1003646",
       "resolution": "1376x768",
-      "drive_file_id": "1WS377NIjdbzuf-Hys2qY8wGzMB9_2BIy",
-      "drive_url": "https://drive.google.com/file/d/1WS377NIjdbzuf-Hys2qY8wGzMB9_2BIy/view?usp=drivesdk",
+      "drive_file_id": "1WS377NIjdbzuf-Hys2qY88GzMB9_2BIy",
+      "drive_url": "https://drive.google.com/file/d/1WS377NIjdbzuf-Hys2qY88GzMB9_2BIy/view?usp=drivesdk",
       "md5_verified_on_drive": true,
-      "qc_note": "Approved: nine conical dark slate roofs on circular dry-stone basalt walls, children running ahead, wool beating at the left edge, cone smoking above. Continuity flag: the woman at the left edge wears a braided wool headband — that accessory has now recurred and must stay out of later frames."
+      "qc_note": "Approved: nine conical dark slate roofs on circular dry-stone basalt walls, children running ahead, wool beating at the left edge, cone smoking above. Continuity flag: the woman at the left edge wears a braided wool headband — that accessory must stay out of later frames."
     },
     {
       "scene_id": "VAL-EP001-IMG0259",
@@ -251,7 +246,7 @@
       "drive_file_id": "1GUOrUsEG74uecYCslC3sINeGJptOCqHG",
       "drive_url": "https://drive.google.com/file/d/1GUOrUsEG74uecYCslC3sINeGJptOCqHG/view?usp=drivesdk",
       "md5_verified_on_drive": true,
-      "qc_note": "Approved: nine or ten round stone roofs in open wild pasture with no boundaries, tracks or walls in lines, three smoking cones on the horizon and the Summer Sea at far right; a crook leans on the near roundhouse wall."
+      "qc_note": "Approved: nine or ten round stone roofs in open wild pasture with no boundaries, tracks or walls in lines, three smoking cones and the Summer Sea at far right; a crook leans on the near roundhouse wall."
     },
     {
       "scene_id": "VAL-EP001-IMG0260",

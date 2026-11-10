@@ -6,7 +6,7 @@
 - **Visual Cadence:** **`30 images per minute`** (`1 image every 2.0 seconds` · **`1,050 total images`** across **`105 batches of 10`**)
 - **Locked Cinematic Visual Standard:** **65mm Live-Action / Physically Realistic 3D Historical Cinema** (*ARRI Alexa 65 · Panavision Primo Spherical Primes · Kodak Vision3 500T Grade: Warm Sandstone Highlights, Muted Archaeological Midtones, Deep Ink-Navy Shadows — calibrated to `The_Trojan_War_The_Legend_the_City_and_the_Evidence`*)
 - **Google Drive Master Archive:** `Game of thrones YT` (`1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo`)
-- **Current Gate Status:** **Batches 001–025 complete. `256 / 1,050` images are Drive-verified and visually QC-approved (`24.38%`). Batch 026 (`08:20–08:40`) is open: six frames are approved and uploaded, four are held for rerender (`IMG0251`, `IMG0254`, `IMG0255`, `IMG0256`).**
+- **Current Gate Status:** **Batches 001–026 complete. `266 / 1,050` images are Drive-verified and visually QC-approved (`25.33%`). Next: Batch 027 (`08:40–09:00`).**
 
 ---
 
@@ -3318,3 +3318,7 @@ Batch 024 (`IMG0231–IMG0240`, `07:40–08:00`) is complete: all ten frames are
 ## Production Continuation — Batch 025 complete (2026-11-09)
 
 Batch 025 (`IMG0241–IMG0250`, `08:00–08:20`) is complete: all ten frames are visually approved, `1376×768` sRGB PNGs, uploaded to Drive folder `https://drive.google.com/drive/folders/1LngtxGrC35nCcg96bkF6NlqJJb5O-ilB`, and MD5-verified. Five frames were rerendered after QC: IMG0242 no longer poses the clan as a lineup, IMG0245 carries locked indigo-violet eyes after a second attempt, IMG0247 restores the CHAR-VAL-001 wardrobe, IMG0249 has slate-coned roundhouses and stone-blade shearing, and IMG0250 is wild open pasture. Verified progress is **256/1,050 (24.38%)**; next is Batch 026 (`08:20–08:40`). **IMG0160 remains unresolved:** restore or regenerate the original composition (resizing only if appropriate).
+
+## Production Continuation — Batch 026 complete (2026-11-09)
+
+Batch 026 (`IMG0251–IMG0260`, `08:20–08:40`) is complete: all ten frames are visually approved, `1376×768` sRGB PNGs, uploaded to Drive folder `https://drive.google.com/drive/folders/1C-0rzizehths1tSA0As1NXfVJRW81y0G`, and MD5-verified. Six frames passed at first pass. Four were rerendered: IMG0251 and IMG0256 had both given the elder shepherd pale steel-blue irises at distance, with IMG0256 also settling into a heroic poster stance over a valley of white farm buildings and patchwork fields — both were re-blocked so the men read in profile or from behind, exposing no iris colour, and the valley returned to unbroken open pasture; IMG0254's iris study had drifted to a stubbled adult male with a lens-like synthetic iris and was reframed to a clean-shaven young face with a natural amethyst gradient; IMG0255 had become a posed cast procession with a screen-actress likeness and was re-blocked to anonymous scattered figures mostly turned away. `CHAR-VAL-002` (Stage A) is established on screen as a clean-shaven 24-year-old in ash-grey wool and plain leather, two thin temple braids, no armour or ornament. Continuity flag: the braided wool headband on the woman in IMG0258 must not recur. Verified progress is **266/1,050 (25.33%)**; next is Batch 027 (`08:40–09:00`). **IMG0160 remains unresolved:** restore or regenerate the original composition (resizing only if appropriate).
