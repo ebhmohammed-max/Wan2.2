@@ -38,10 +38,11 @@
     30,
     31,
     32,
-    33
+    33,
+    34
   ],
-  "next_batch": 34,
-  "next_image_number": 331,
+  "next_batch": 35,
+  "next_image_number": 341,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1171,7 +1172,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": 34,
+  "in_progress_batch": 35,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1922,8 +1923,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-10T15:18:00Z",
-  "verified_progress_percent": 32.0,
+  "last_updated": "2026-11-11T09:30:00Z",
+  "verified_progress_percent": 32.95,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3619,7 +3620,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 336,
+  "verified_image_count": 346,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -6260,5 +6261,212 @@
   "batch_033_drive_folder_id": "1_w2nSiYNWdy6AX5ZQub_6js4w5isAm8_",
   "batch_033_drive_verified_count": 10,
   "batch_033_pending_rerender": [],
-  "batch_033_note": "DRG-VAL-001 fully revealed and the head allowed in shot for the first time: 0324 whole animal coiled asleep with the correct wedge skull and twin obsidian horns, 0325 landscape scale, 0326 rising with the neck out of the top edge. The healed wing tear becomes a recurring continuity seam (0324, 0329). Seven passed first time; three background/angle/distant-mass rerenders each cleared in one pass."
+  "batch_033_note": "DRG-VAL-001 fully revealed and the head allowed in shot for the first time: 0324 whole animal coiled asleep with the correct wedge skull and twin obsidian horns, 0325 landscape scale, 0326 rising with the neck out of the top edge. The healed wing tear becomes a recurring continuity seam (0324, 0329). Seven passed first time; three background/angle/distant-mass rerenders each cleared in one pass.",
+  "batch_034_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_034_drive_folder_id": "1SupUjzhhKC1y7WVfPav15j_geg8yqVjz",
+  "batch_034_drive_verified_count": 10,
+  "batch_034_pending_rerender": [],
+  "batch_034_note": "The first batch with no humans in it, and the batch that locks DRG-VAL-001's design: 0335 (sleeping head) and 0336 (apex portrait, amber-brass slit eye off-lens) settle skull, horns, brow and scale value; 0333 holds the resting whole-body pose with exactly four limbs and the healed membrane seam. 0337 adds the first internal-heat device (ember fissure between throat scutes) that lights neither rock nor air. Sixteen generations for ten approvals: 0331 took three passes to stop adding limbs and reading as a rearing horse, 0332 rendered the cavern walls as churning white water, 0334 left the wing-knuckles hovering, and 0339 grounded four feet plus two open wings.",
+  "batch_034_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0331",
+      "timestamp": "11:00–11:02",
+      "narration_slice": "They were not heraldic",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1gRCfumigBPPDaorTpdF_IQo2iqzWT_Mm",
+      "drive_url": "https://drive.google.com/file/d/1gRCfumigBPPDaorTpdF_IQo2iqzWT_Mm/view?usp=drivesdk",
+      "md5": "dfbb447ee403c6fbc44f6b92bf1e9f8b",
+      "size_bytes": 1640351,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0332",
+      "timestamp": "11:02–11:04",
+      "narration_slice": "ornaments or creatures of courtly",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1M4IOf32V2EYzMKOfT7VVjhcUDx9fAR-k",
+      "drive_url": "https://drive.google.com/file/d/1M4IOf32V2EYzMKOfT7VVjhcUDx9fAR-k/view?usp=drivesdk",
+      "md5": "90df23b9ad6c1db6f29c0a83eca2359f",
+      "size_bytes": 1617880,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0333",
+      "timestamp": "11:04–11:06",
+      "narration_slice": "song. In the living",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1mdTAV1EW7ZrAmDhLsCTjF5s88GN6unQG",
+      "drive_url": "https://drive.google.com/file/d/1mdTAV1EW7ZrAmDhLsCTjF5s88GN6unQG/view?usp=drivesdk",
+      "md5": "c2009584a630ea3f6e3c580a9d68f744",
+      "size_bytes": 1402180,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0334",
+      "timestamp": "11:06–11:08",
+      "narration_slice": "flesh, a wild dragon of",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1-PH1igyY2zB2OEPvwdJmGXQcVnJi3fzK",
+      "drive_url": "https://drive.google.com/file/d/1-PH1igyY2zB2OEPvwdJmGXQcVnJi3fzK/view?usp=drivesdk",
+      "md5": "136b7a7a5feb80c4448b6cdbb304250e",
+      "size_bytes": 1981382,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0335",
+      "timestamp": "11:08–11:10",
+      "narration_slice": "the Fourteen Flames was",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1pbtlEoDXHLOLgvWAEwmnod8joqdXHbfe",
+      "drive_url": "https://drive.google.com/file/d/1pbtlEoDXHLOLgvWAEwmnod8joqdXHbfe/view?usp=drivesdk",
+      "md5": "52c837a56a190623f4caca46c5450011",
+      "size_bytes": 1452770,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0336",
+      "timestamp": "11:10–11:12",
+      "narration_slice": "an apex terror of jet-black",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1obU9o-eYVnr5wCSiKn_jr891H3JpYkSD",
+      "drive_url": "https://drive.google.com/file/d/1obU9o-eYVnr5wCSiKn_jr891H3JpYkSD/view?usp=drivesdk",
+      "md5": "5a1375902fb79da9247ffcd7fe7d31d5",
+      "size_bytes": 1773862,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0337",
+      "timestamp": "11:12–11:14",
+      "narration_slice": "iron-rich bone, furnace heat,",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "19G1RUyyaFsIHTurMzisfFt3p3uEJjWeT",
+      "drive_url": "https://drive.google.com/file/d/19G1RUyyaFsIHTurMzisfFt3p3uEJjWeT/view?usp=drivesdk",
+      "md5": "058aef67ed7e0ee2f7bf5c69bcb84ab1",
+      "size_bytes": 1494733,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0338",
+      "timestamp": "11:14–11:16",
+      "narration_slice": "and armored scale. Resting upon",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1yixpiOM3qThV3YMW9qJtH-p4BeXlMU-w",
+      "drive_url": "https://drive.google.com/file/d/1yixpiOM3qThV3YMW9qJtH-p4BeXlMU-w/view?usp=drivesdk",
+      "md5": "d3fe416246ad1c337307ec2ff0682cf4",
+      "size_bytes": 1798413,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0339",
+      "timestamp": "11:16–11:18",
+      "narration_slice": "two massive taloned hind",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1SQJ9w_5TeQ8LQOrFJXJ0q5TKZKkLByLg",
+      "drive_url": "https://drive.google.com/file/d/1SQJ9w_5TeQ8LQOrFJXJ0q5TKZKkLByLg/view?usp=drivesdk",
+      "md5": "728a3530bbd171f16c37c2c79c4815dd",
+      "size_bytes": 1453037,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0340",
+      "timestamp": "11:18–11:20",
+      "narration_slice": "legs and the calloused knuckles",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "10YI65RIHzhCd9_c7scNd-mg8BjrUBzYZ",
+      "drive_url": "https://drive.google.com/file/d/10YI65RIHzhCd9_c7scNd-mg8BjrUBzYZ/view?usp=drivesdk",
+      "md5": "617da55cd3f62aa54c2144d15e861110",
+      "size_bytes": 1831497,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ]
 }

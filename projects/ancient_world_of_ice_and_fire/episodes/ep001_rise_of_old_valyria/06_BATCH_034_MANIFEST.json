@@ -12,26 +12,20 @@
   "batch_timespan": "11:00–11:20",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "IN_PROGRESS_3_OF_10_APPROVED_UPLOADED_7_PENDING",
-  "approved_count": 3,
-  "approved_uploaded_count": 3,
-  "drive_verified_count": 3,
-  "pending_rerender_count": 3,
-  "pending_generate_count": 4,
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0331",
-    "VAL-EP001-IMG0332",
-    "VAL-EP001-IMG0334",
-    "VAL-EP001-IMG0337",
-    "VAL-EP001-IMG0338",
-    "VAL-EP001-IMG0339",
-    "VAL-EP001-IMG0340"
-  ],
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "approved_uploaded_count": 10,
+  "drive_verified_count": 10,
+  "pending_rerender_count": 0,
+  "pending_generate_count": 0,
+  "pending_completion_scenes": [],
+  "generations_used": 16,
   "verified_episode_frames_after_batch": 346,
   "verified_episode_percent_after_batch": "32.95%",
-  "visual_qc_note": "Three of ten approved so far and they are the three that matter: 0335 is the sleeping head and 0336 is the first clean apex portrait with the amber slit eye — together they lock the skull, horns, brow and scale value that every remaining dragon frame depends on. 0333 holds the resting whole-body pose with four limbs and the healed wing seam. The batch is also the first to produce a genuinely new failure: 0332 turned the cavern walls into churning white water. 0331 broke the four-limb lock badly (feets in a row plus two wings) and 0334 left the wing-knuckles hovering.",
-  "four_limb_note": "Batch 034 is the strictest test of the four-limb rule so far because there are no humans to distract the frame and the legs are the subject of two scenes. Count them in every review: two taloned hind feet, two calloused wing-knuckles, four points of contact, nothing else. 0331 failed this twice.",
-  "letterbox_scan_note": "Per-row content-box scan run on every frame. 0331 arrived 1408x768 and was cropped to 1376x768; 0332 carried strips (rows 12-756) and 0333 and 0335 (rows 12-755) and were reframed. 0334, 0336 full-bleed.",
+  "visual_qc_note": "The first batch with no humans in it, and it exists to lock a creature rather than to tell a beat. It did that: 0335 (sleeping head) and 0336 (apex portrait) together settle skull, horns, brow, eye and scale value for every remaining dragon frame, and 0333 holds the resting whole-body pose with four limbs and the healed membrane seam. 0337 introduced the batch's one real invention — internal heat, a fissure of ember between throat scutes, the only warmth source in four batches that does not light the rock or start a fire. Six of ten were rejected at least once, all of them on limb count or background value, none on the dragon's design.",
+  "four_limb_note": "The strictest test of the four-limb lock so far because there are no humans to distract the frame and legs are the subject of two scenes. Six generations were spent on it. What worked: state the count as an instruction (\"count them: four, no more\"), constrain the pose to side-on rest, and say explicitly that the wing stays shut — an open membrane in a leg shot silently re-adds two limbs.",
+  "letterbox_scan_note": "Per-row content-box scan run on every frame. 0331 arrived 1408x768 and was cropped to 1376x768. 0332 (rows 12-756), 0331 pass 3, 0333, 0334, 0335, 0337, 0338 and 0339 (rows 12-755) all carried letterbox strips and were cropped and resized back to 1376x768. 0336 and 0340 were full-bleed.",
+  "md5_verification_note": "All ten Drive checksums were re-listed from the folder after upload and match the local md5sum byte-for-byte (10/10).",
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0331",
@@ -46,13 +40,13 @@
         "DRG-VAL-001"
       ],
       "file_path": "assets/batch_034/VAL-EP001-IMG0331.png",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": "21791809277e06f040a42f72ecf2a142",
-      "size_bytes": 1542162,
-      "md5_verified_on_drive": false,
-      "qc_status": "PENDING_RERENDER",
-      "qc_note": "REJECTED. Rerender was worse than pass 1: five or six clawed feet planted in a row along the body plus two separate wing membranes, so the animal reads as a centipede with wings, and the neck-plus-shoulder silhouette resembles a rearing horse. Four grounded limbs is the hard lock and it was broken in the most visible way possible. Reframe to a simple side-on rest pose with the limbs listed explicitly as two hind feet plus two wing-knuckles and nothing else."
+      "drive_file_id": "1gRCfumigBPPDaorTpdF_IQo2iqzWT_Mm",
+      "drive_url": "https://drive.google.com/file/d/1gRCfumigBPPDaorTpdF_IQo2iqzWT_Mm/view?usp=drivesdk",
+      "md5": "dfbb447ee403c6fbc44f6b92bf1e9f8b",
+      "size_bytes": 1640351,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 3. Third generation is the first to hold the four-limb lock in a low wide frame. The animal lies flat and side-on across the foreground, entirely at rest: two taloned forefeet planted on cracked black basalt at lower left, the hind quarters folded behind them, and both wings stowed as long ribbed cases pressed along the spine — no membrane sheet anywhere, no second fan panel, and the head turned away with the eye off the lens. Neck runs out of the left edge so the mass has no closed contour. Reframed off letterbox strips (rows 12-755). Two passes were spent learning that limb count survives a low camera only when it is written as a count and the pose is constrained to rest."
     },
     {
       "scene_id": "VAL-EP001-IMG0332",
@@ -67,13 +61,13 @@
         "DRG-VAL-001"
       ],
       "file_path": "assets/batch_034/VAL-EP001-IMG0332.png",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": "74599a148107ce7256c7ac5fb6e731fc",
-      "size_bytes": 1944048,
-      "md5_verified_on_drive": false,
-      "qc_status": "PENDING_RERENDER",
-      "qc_note": "REJECTED. New failure mode: the cavern walls and background rendered as CHURNING WHITE WATER — a bright writhing texture that reads as a freezing waterfall or an iced-over torrent, against every black-ground rule in the episode, and it pushes mean luma to 0.257. The animal itself is acceptable (folded wing, four limbs, neck out of top edge going grey rather than black). Rerender with the walls as matte black faceted basalt, no bright texture anywhere, no white."
+      "drive_file_id": "1M4IOf32V2EYzMKOfT7VVjhcUDx9fAR-k",
+      "drive_url": "https://drive.google.com/file/d/1M4IOf32V2EYzMKOfT7VVjhcUDx9fAR-k/view?usp=drivesdk",
+      "md5": "90df23b9ad6c1db6f29c0a83eca2359f",
+      "size_bytes": 1617880,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 2. Over-the-shoulder past a black basalt spur at right: the animal fills the middle distance with the folded wing cowled tight, exactly four limbs, and the neck lifting out of the top edge so the body has no terminus. The walls are now matte black faceted basalt to every corner — the cure for pass 1, which rendered the entire background as churning white water (mean luma 0.257) and read as a freezing torrent. Reframed off letterbox strips (rows 12-756)."
     },
     {
       "scene_id": "VAL-EP001-IMG0333",
@@ -94,7 +88,7 @@
       "size_bytes": 1402180,
       "md5_verified_on_drive": true,
       "qc_status": "APPROVED",
-      "qc_note": "APPROVED pass 1. Wide 28mm of the animal at rest across a black ledge: whole body in one coil, neck folded back along the flank, head resting low, eyes closed, twin swept horns, one cowled wing with the pale healed seam clearly visible, two hind legs tucked and two wing-knuckles grounded — exactly four limbs. Cavern black to the edges. Reframed off letterbox strips (rows 12-755)."
+      "qc_note": "APPROVED pass 1. Wide 28mm of the animal at rest across a black ledge: whole body in one coil, neck folded back along the flank, head resting low, eyes closed, twin swept horns, one cowled wing with the pale healed seam clearly visible, two hind legs tucked and two wing-knuckles grounded — exactly four limbs. Cavern black to the edges. Reframed off letterbox strips (rows 12-755). Now the reference for the resting whole-body pose."
     },
     {
       "scene_id": "VAL-EP001-IMG0334",
@@ -109,13 +103,13 @@
         "DRG-VAL-001"
       ],
       "file_path": "assets/batch_034/VAL-EP001-IMG0334.png",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": "0503279ca91e38225b0d1901bebda4e0",
-      "size_bytes": 1792719,
-      "md5_verified_on_drive": false,
-      "qc_status": "PENDING_RERENDER",
-      "qc_note": "REJECTED on a detail. The low-angle architecture is good and the four limbs are correct, but the two wing-knuckles hang in mid-air with their talons pointing down and NOT touching the rock, so the animal appears to hover; the floor also reads slightly pale in the lower left. Rerender with both wing-knuckles planted flat on the stone, weight visibly coming down through them."
+      "drive_file_id": "1-PH1igyY2zB2OEPvwdJmGXQcVnJi3fzK",
+      "drive_url": "https://drive.google.com/file/d/1-PH1igyY2zB2OEPvwdJmGXQcVnJi3fzK/view?usp=drivesdk",
+      "md5": "136b7a7a5feb80c4448b6cdbb304250e",
+      "size_bytes": 1981382,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 2. Ultra-wide 24mm from the floor: near wing-knuckles planted flat and taking visible weight, the credit-card scale of the legs against the animal's own mass, four contacting limbs and nothing else. Pass 1 was rejected on a detail rather than an anatomy fault — both knuckles hung in mid-air with talons pointing down and the animal appeared to hover. Ground contact has to be written as weight, not as proximity. Reframed off letterbox strips (rows 12-755)."
     },
     {
       "scene_id": "VAL-EP001-IMG0335",
@@ -136,7 +130,7 @@
       "size_bytes": 1452770,
       "md5_verified_on_drive": true,
       "qc_status": "APPROVED",
-      "qc_note": "APPROVED pass 1. Medium close-up of the sleeping head resting on a folded forelimb: long blunt crocodilian snout, closed jaw, eye shut behind a heavy scaled brow with no iris showing, twin ridged obsidian horns catching a thin ember line, stiff jaw bristles, healed membrane seam soft in the background. Reframed off letterbox strips (rows 12-755)."
+      "qc_note": "APPROVED pass 1. Micro-close 50mm on the sleeping head: long blunt crocodilian snout, closed jaw, a shut eye with no iris showing, twin ridged obsidian horns catching a thin ember line, stiff bristles along the jaw. No fire, no lit rock — the only warmth is a hairline on the horn ridges. Reframed off letterbox strips (rows 12-755)."
     },
     {
       "scene_id": "VAL-EP001-IMG0336",
@@ -157,7 +151,7 @@
       "size_bytes": 1773862,
       "md5_verified_on_drive": true,
       "qc_status": "APPROVED",
-      "qc_note": "APPROVED pass 1. Medium 35mm apex portrait: head lowered and turned away, near side profile from slightly below, blunt squared snout, closed jaw, deep cheek, one half-lidded amber-brass slit eye looking down and OFF the lens, twin curved obsidian horns with a ridge of spikes between them, thick ringed neck running out of frame right. Only warmth is ember under the jaw. This is the anatomy reference frame for DRG-VAL-001."
+      "qc_note": "APPROVED pass 1. The first clean apex portrait and now the creature reference frame: head lowered and turned away, near-side profile from slightly below, one half-lidded amber-brass slit eye looking down and off the lens, a ridge of spikes between the horns, the thick ringed neck running out of frame. Settles skull, brow, horn, eye and scale value for every later dragon beat. Full-bleed, no reframe needed."
     },
     {
       "scene_id": "VAL-EP001-IMG0337",
@@ -172,13 +166,13 @@
         "DRG-VAL-001"
       ],
       "file_path": "assets/batch_034/VAL-EP001-IMG0337.png",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": null,
-      "size_bytes": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "NOT_GENERATED",
-      "qc_note": "NOT YET GENERATED. Throat and jaw study with the ember fissure between throat scutes, mouth shut, no fire. Queued behind the 10-images-per-turn cap."
+      "drive_file_id": "19G1RUyyaFsIHTurMzisfFt3p3uEJjWeT",
+      "drive_url": "https://drive.google.com/file/d/19G1RUyyaFsIHTurMzisfFt3p3uEJjWeT/view?usp=drivesdk",
+      "md5": "058aef67ed7e0ee2f7bf5c69bcb84ab1",
+      "size_bytes": 1494733,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Micro-close 65mm under and along the jaw: overlapping throat scutes, and between two plates a narrow fissure of dull ember-red heat breathing from inside the body. This is the first frame where warmth is internal rather than a lit wall or a fire, and it is the most controllable form of heat found in the episode so far. Reframed off letterbox strips (rows 12-755). Caveat recorded: shot frontally the throat plates begin to read as a face, so later throat frames must keep the camera under or along the jaw rather than square to it."
     },
     {
       "scene_id": "VAL-EP001-IMG0338",
@@ -193,13 +187,13 @@
         "DRG-VAL-001"
       ],
       "file_path": "assets/batch_034/VAL-EP001-IMG0338.png",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": null,
-      "size_bytes": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "NOT_GENERATED",
-      "qc_note": "NOT YET GENERATED. Queued."
+      "drive_file_id": "1yixpiOM3qThV3YMW9qJtH-p4BeXlMU-w",
+      "drive_url": "https://drive.google.com/file/d/1yixpiOM3qThV3YMW9qJtH-p4BeXlMU-w/view?usp=drivesdk",
+      "md5": "d3fe416246ad1c337307ec2ff0682cf4",
+      "size_bytes": 1798413,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Medium 50mm field of scale and armour: overlapping oxidised plates in basalt black, a wing knuckle at the edge, the ridged back. Value discipline holds — the scale reads as black stone with single-point rim light and no colour contamination. Reframed off letterbox strips (rows 12-755)."
     },
     {
       "scene_id": "VAL-EP001-IMG0339",
@@ -214,13 +208,13 @@
         "DRG-VAL-001"
       ],
       "file_path": "assets/batch_034/VAL-EP001-IMG0339.png",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": null,
-      "size_bytes": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "NOT_GENERATED",
-      "qc_note": "NOT YET GENERATED. Queued — two massive taloned hind legs, the narration's own emphasis."
+      "drive_file_id": "1SQJ9w_5TeQ8LQOrFJXJ0q5TKZKkLByLg",
+      "drive_url": "https://drive.google.com/file/d/1SQJ9w_5TeQ8LQOrFJXJ0q5TKZKkLByLg/view?usp=drivesdk",
+      "md5": "728a3530bbd171f16c37c2c79c4815dd",
+      "size_bytes": 1453037,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 2. Wide 35mm side-on at rest: two hind feet planted, one wing-knuckle grounded, the other wing kept folded shut against the flank. Pass 1 broke the lock by grounding four feet and opening two spread wings — six limbs, and the open membrane in a leg shot is what re-adds them. The fix was to specify that the wing stays shut. Reframed off letterbox strips (rows 12-755)."
     },
     {
       "scene_id": "VAL-EP001-IMG0340",
@@ -235,16 +229,13 @@
         "DRG-VAL-001"
       ],
       "file_path": "assets/batch_034/VAL-EP001-IMG0340.png",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": null,
-      "size_bytes": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "NOT_GENERATED",
-      "qc_note": "NOT YET GENERATED. Queued — UWA of the calloused knuckles taking the weight."
+      "drive_file_id": "10YI65RIHzhCd9_c7scNd-mg8BjrUBzYZ",
+      "drive_url": "https://drive.google.com/file/d/10YI65RIHzhCd9_c7scNd-mg8BjrUBzYZ/view?usp=drivesdk",
+      "md5": "617da55cd3f62aa54c2144d15e861110",
+      "size_bytes": 1831497,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Ultra-wide 24mm, full-bleed: a calloused wing-knuckle planted in the extreme foreground with the arm receding into the animal's mass behind it, talons gripping cracked basalt. Works as the scale punctuation that closes the batch. No reframe needed."
     }
-  ],
-  "pending_uploads": [],
-  "upload_note": "Three approved frames uploaded and MD5-verified against Drive.",
-  "rerender_history": {}
+  ]
 }

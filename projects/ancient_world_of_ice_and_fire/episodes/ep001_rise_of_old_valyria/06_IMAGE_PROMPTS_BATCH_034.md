@@ -19,33 +19,35 @@
 - **A warm background is a fire.** Write the cavern dark first; negate "lit chamber, glowing wall, furnace, amber backlight".
 - **Nothing may read as white or pale.** Ninth-batch occurrence in a new form: `0332` rendered the cavern walls as **churning white water**.
 
-**Render/QC status:** **3 of 10 approved, uploaded and MD5-verified on Drive. Three rerenders and four first generations outstanding.**
+**Render/QC status:** **COMPLETE — 10 of 10 approved, uploaded and MD5-verified on Drive.** Sixteen generations were used in total: six frames passed on the first attempt (`0333`, `0335`, `0336`, `0337`, `0338`, `0340`) and four needed a second or third (`0331` three passes, `0332`, `0334`, `0339` two each). Every rejection was on limb count or background value; none was on the dragon's design.
 
 | Frame | Status | Note |
 | :--- | :--- | :--- |
-| `IMG0331` | ❌ Rerender | Low-angle mass and stance, neck out of top edge. Failed the limb count badly: **five or six clawed feet in a row** plus two membranes, and a rearing-horse silhouette. |
-| `IMG0332` | ❌ Rerender | Over-the-shoulder into the turned-away back. Cavern walls rendered as **churning white water**. |
+| `IMG0331` | ✅ Approved, uploaded | **Pass 3.** Side-on rest, two taloned forefeet planted, wings stowed as long ribbed cases along the spine with no membrane sheet and no second fan panel. Reframed rows 12–755. Passes 1–2 failed the limb count: **five or six clawed feet in a row** plus two membranes, and a rearing-horse silhouette. |
+| `IMG0332` | ✅ Approved, uploaded | **Pass 2.** OTS past a black basalt spur, four limbs, folded wing cowled tight, neck out of the top edge. Walls now matte black faceted basalt. Reframed rows 12–756. Pass 1 rendered the walls as **churning white water** (mean luma 0.257). |
 | `IMG0333` | ✅ Approved, uploaded | **Pass 1.** Whole animal at rest across a black ledge, head low and asleep, healed wing seam, exactly four limbs. Reframed rows 12–755. |
-| `IMG0334` | ❌ Rerender | UWA architecture, four limbs correct, but the **wing-knuckles hover** off the rock with talons pointing down. |
+| `IMG0334` | ✅ Approved, uploaded | **Pass 2.** UWA from the floor, near wing-knuckles planted flat and taking visible weight, four contacting limbs. Reframed rows 12–755. Pass 1 had the knuckles **hovering** with talons pointing down. |
 | `IMG0335` | ✅ Approved, uploaded | **Pass 1.** The sleeping head: blunt crocodilian snout, closed jaw, shut eye with no iris, twin ridged horns, jaw bristles. Reframed rows 12–755. |
-| `IMG0336` | ✅ Approved, uploaded | **Pass 1 — the anatomy reference frame.** Lowered head, near side profile, one half-lidded amber-brass slit eye looking off-lens, twin obsidian horns with a spike ridge, thick ringed neck running out of frame. |
-| `IMG0337` | ⏳ Queued | Throat and jaw: shut mouth, scute fissure with dull internal ember, no fire. |
-| `IMG0338` | ⏳ Queued | Scale and armor detail across the shoulder. |
-| `IMG0339` | ⏳ Queued | Two massive taloned hind legs — the narration's own emphasis. |
-| `IMG0340` | ⏳ Queued | UWA of the calloused knuckles taking the weight. |
+| `IMG0336` | ✅ Approved, uploaded | **Pass 1 — the anatomy reference frame.** Lowered head, near side profile, one half-lidded amber-brass slit eye looking off-lens, twin obsidian horns with a spike ridge, thick ringed neck running out of frame. Full-bleed. |
+| `IMG0337` | ✅ Approved, uploaded | **Pass 1.** Throat scutes with a narrow fissure of dull ember-red heat between two plates — the batch's one invention. Reframed rows 12–755. Caveat: shot square-on the throat reads as a face, so keep the camera under or along the jaw. |
+| `IMG0338` | ✅ Approved, uploaded | **Pass 1.** Scale and armour field, overlapping oxidised plates in basalt black, wing knuckle at the edge, single-point rim light. Reframed rows 12–755. |
+| `IMG0339` | ✅ Approved, uploaded | **Pass 2.** Wide side-on rest: two hind feet and one knuckle grounded, the other wing kept folded shut. Reframed rows 12–755. Pass 1 grounded four feet **and** opened two spread wings — six limbs; an open membrane in a leg shot re-adds them. |
+| `IMG0340` | ✅ Approved, uploaded | **Pass 1.** UWA full-bleed, calloused wing-knuckle planted in the extreme foreground, talons gripping cracked basalt. No reframe. |
 
-**Rerender briefs:**
+**Rerender briefs that were used (all resolved):**
 
-1. **`IMG0331` — the animal has five or six feet.** Strip the pose back to a simple side-on rest. List the contact points in the subject text as an instruction, not a description: "four grounded feet visible in a row along the body: two taloned hind feet and the two calloused knuckles of the folded wings, each gripping the stone. Count them: four, no more." Also negate "horse, stallion, rearing silhouette" — pass 2 read as a rearing horse.
-2. **`IMG0332` — churning white water.** The animal is fine; the walls are the failure. Walls must be "matte black faceted basalt, no bright texture anywhere, no white". Add "no white water, no ice, no waterfall, no foam" to the negatives.
-3. **`IMG0334` — hovering knuckles.** Require both wing-knuckles "planted flat on the stone, weight visibly coming down through them"; also keep the lower-left floor dark rather than pale.
+1. **`IMG0331` — the animal has five or six feet.** Pose stripped back to side-on rest, contact points written as an instruction rather than a description: "four grounded feet visible in a row along the body: two taloned hind feet and the two calloused knuckles of the folded wings, each gripping the stone. Count them: four, no more." "Horse, stallion, rearing silhouette" negated — pass 2 had read as a rearing horse. Pass 3 went further and removed the wing membranes entirely, describing them as "two long ribbed wing-arms like closed beetle cases".
+2. **`IMG0332` — churning white water.** The animal was fine; the walls were the failure. Walls became "matte black faceted basalt, no bright texture anywhere, no white", with "no white water, no ice, no waterfall, no foam" in the negatives.
+3. **`IMG0334` — hovering knuckles.** Both wing-knuckles "planted flat on the stone, weight visibly coming down through them", and the lower-left floor kept dark rather than pale.
+4. **`IMG0339` — six limbs.** Cut back to two hind feet and one knuckle, with an explicit instruction that the other wing stays folded shut against the flank.
 
 **Lessons from this batch to carry into 035:**
 
-1. **Naming four limbs in prose does not survive a low angle.** Where the camera is under the animal and the legs are strung out along the frame, the model adds contact points. The count has to be given as a countable instruction with the pose constrained to side-on rest.
+1. **Naming four limbs in prose does not survive a low angle.** Where the camera is under the animal and the legs are strung out along the frame, the model adds contact points. The count has to be given as a countable instruction with the pose constrained to side-on rest — and if that still fails, remove the membranes from the description altogether.
 2. **A quadrant of bright texture will out-shout the animal.** `0332`'s white water pulled mean luma to 0.257 and every eye to the background. Matte black walls are a positive requirement, not an absence.
 3. **A knuckle that does not touch the rock turns the animal into a bird.** Ground contact has to be stated with weight: "planted flat, weight coming down through it".
 4. **Describing the eye is safe; pointing it at the lens is not.** `0336` gives a full amber slit eye looking down and away and stays inside the gaze rule. The rule is about the camera, not about anatomy.
 5. **Internal heat is the most controllable form of warmth** found so far: written as a fissure between throat scutes, it produced warmth with no fire, no glow and no lit rock.
 6. **The neck-out-of-top-edge device keeps working** across both batches and every angle; it is the reliable way to keep scale without closing the silhouette.
+7. **A throat is not a face only if you do not shoot it square.** `0337` is approved, but the plate pattern frontally is the closest this batch came to the head illusion again; later throat and chest frames should keep the camera under or along the jaw.
 
