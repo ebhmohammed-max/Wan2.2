@@ -42,10 +42,11 @@
     34,
     35,
     36,
-    37
+    37,
+    38
   ],
-  "next_batch": 38,
-  "next_image_number": 371,
+  "next_batch": 39,
+  "next_image_number": 381,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1926,8 +1927,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-11T17:40:00Z",
-  "verified_progress_percent": 35.81,
+  "last_updated": "2026-11-11T18:05:00Z",
+  "verified_progress_percent": "36.76%",
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3623,7 +3624,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 376,
+  "verified_image_count": 386,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -7092,5 +7093,208 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
     }
-  ]
+  ],
+  "batch_038_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0371",
+      "timestamp": "12:20–12:22",
+      "narration_slice": "fear did not drive",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1fOj8W6RJnhn1j-qKPl1Hy18Ark0Y19wg",
+      "drive_url": "https://drive.google.com/file/d/1fOj8W6RJnhn1j-qKPl1Hy18Ark0Y19wg/view?usp=drivesdk",
+      "md5": "1cb26e33a576ef22a8aaf4e439302a10",
+      "size_bytes": 2438152,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0372",
+      "timestamp": "12:22–12:24",
+      "narration_slice": "the Valyrians from their homeland.",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1NBsteBCpJQm-vZvZ68IKq0cC6zN5M4ka",
+      "drive_url": "https://drive.google.com/file/d/1NBsteBCpJQm-vZvZ68IKq0cC6zN5M4ka/view?usp=drivesdk",
+      "md5": "1b96e550b319f649eff9ddd23c50f3eb",
+      "size_bytes": 2386666,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0373",
+      "timestamp": "12:24–12:26",
+      "narration_slice": "Instead, something rarer took",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "16R4WPR45iPCe0fwI3rYivumQZfWzwVxU",
+      "drive_url": "https://drive.google.com/file/d/16R4WPR45iPCe0fwI3rYivumQZfWzwVxU/view?usp=drivesdk",
+      "md5": "4ee5351c6db1473fb8683ebc04f9068b",
+      "size_bytes": 2358641,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0374",
+      "timestamp": "12:26–12:28",
+      "narration_slice": "hold among their boldest",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1Qen8RlJuy8nX1_eDDyDaJwxYEICfBfL5",
+      "drive_url": "https://drive.google.com/file/d/1Qen8RlJuy8nX1_eDDyDaJwxYEICfBfL5/view?usp=drivesdk",
+      "md5": "04ef6fa279fc6e6e9018bbb844ddf8b5",
+      "size_bytes": 2596636,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0375",
+      "timestamp": "12:28–12:30",
+      "narration_slice": "youths: patient, relentless observation.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1meAezVthZhe6QN9Tb2N2hAEFb8yuDhQo",
+      "drive_url": "https://drive.google.com/file/d/1meAezVthZhe6QN9Tb2N2hAEFb8yuDhQo/view?usp=drivesdk",
+      "md5": "ca9744bdf62158e7655265cf4c4b8774",
+      "size_bytes": 1413923,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0376",
+      "timestamp": "12:30–12:32",
+      "narration_slice": "Hidden behind ridges of",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1emDl352VSLSRlHdgAciYfhb3vBjK09nr",
+      "drive_url": "https://drive.google.com/file/d/1emDl352VSLSRlHdgAciYfhb3vBjK09nr/view?usp=drivesdk",
+      "md5": "23de08901a2af3d7017c3017b6cc5a8b",
+      "size_bytes": 2329495,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0377",
+      "timestamp": "12:32–12:34",
+      "narration_slice": "volcanic glass, watchers studied the",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1eTbv4Uf2JLSfbrnJKeJYQUDvRR9gfIM0",
+      "drive_url": "https://drive.google.com/file/d/1eTbv4Uf2JLSfbrnJKeJYQUDvRR9gfIM0/view?usp=drivesdk",
+      "md5": "7800c6e6c4cf8195eebd39bb1650c77e",
+      "size_bytes": 2461980,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0378",
+      "timestamp": "12:34–12:36",
+      "narration_slice": "beasts across years and",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1SU4EY3J9ZBAacwg-_y2OL1_qlC3y5_1g",
+      "drive_url": "https://drive.google.com/file/d/1SU4EY3J9ZBAacwg-_y2OL1_qlC3y5_1g/view?usp=drivesdk",
+      "md5": "76741bbeea59515a1ea31b108a29b52b",
+      "size_bytes": 2207054,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0379",
+      "timestamp": "12:36–12:38",
+      "narration_slice": "generations. They learned when the",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1VS1tyBddKyu261kreKp10cttUZefWRcu",
+      "drive_url": "https://drive.google.com/file/d/1VS1tyBddKyu261kreKp10cttUZefWRcu/view?usp=drivesdk",
+      "md5": "2a7fcd6eba91d24df37f26cb67dfdbf5",
+      "size_bytes": 2264928,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0380",
+      "timestamp": "12:38–12:40",
+      "narration_slice": "great flyers hunted fish",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1V41Wu6ysF6Z0r_sFC5Qebp1tNsq322U-",
+      "drive_url": "https://drive.google.com/file/d/1V41Wu6ysF6Z0r_sFC5Qebp1tNsq322U-/view?usp=drivesdk",
+      "md5": "9029c91635c885ec09b5f00d77220fa3",
+      "size_bytes": 2164550,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_038_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_038_drive_folder_id": "1ZclGT1z__lsTL2H7pELKZXGLFvIfi4VY",
+  "batch_038_drive_verified_count": 10,
+  "batch_038_pending_rerender": 0,
+  "batch_038_note": "Hinge batch: 0371-0375 close the pastoral raid movement in LOC-VAL-002 and 0376-0380 open LOC-VAL-003, the high caldera, for the first time since the early episode. Eleven generations for ten frames, the lowest rejection rate of the episode; only 0375 needed a second pass, because three shepherds came back with brown bowl cuts instead of the clan's long loose silver-white hair. All four dragon frames landed first time because the Batch 037 five-part shape signature was written into every brief. 0372 and 0374 carry the aftermath and the birth of observation with no animal and no wound in frame; 0380 is the best of the batch."
 }

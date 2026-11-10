@@ -1,0 +1,247 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1ZclGT1z__lsTL2H7pELKZXGLFvIfi4VY",
+  "batch_drive_folder_name": "Batch_038_Images_0371-0380_Ash_Nests_And_Hatchlings_12m20s-12m40s",
+  "batch_number": 38,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "12:20–12:40",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "approved_uploaded_count": 10,
+  "drive_verified_count": 10,
+  "pending_rerender_count": 0,
+  "pending_generate_count": 0,
+  "pending_completion_scenes": [],
+  "generations_used": 11,
+  "verified_episode_frames_after_batch": 386,
+  "verified_episode_percent_after_batch": "36.76%",
+  "visual_qc_note": "A two-part batch: five frames closing the pastoral raid movement, then five opening LOC-VAL-003 for the first time since the caldera was established in the early episode. Eleven generations for ten frames, the lowest rate of the episode and the first batch since 033 with only one rejection. The single failure was 0375, whose composition was right but whose three shepherds came back with brown bowl cuts instead of the clan's long loose silver-white hair — fixed by stating the hair colour and length positively and naming the wrong hair as a negative. Everything else landed first pass, including four dragon frames, because the five-part silhouette signature from Batch 037 was written into each brief before generation. The batch's best work is in the paired registers: 0372 and 0374 carry the aftermath and the observation impulse with no animal and no wound in frame, while 0378 and 0380 show the same species at rest and in miniature and both stay heavy, headed and legible.",
+  "silhouette_note": "The Batch 037 five-part signature — deep barrel chest, thick short ringed neck, heavy blunt wedge skull with broad crocodilian snout and two swept-back horns, wing-arms folded tight, long thick tapering tail — carried into every dragon frame here and produced no wyverns at all. Two further refinements are now standard for the caldera: at colony scale, keep juveniles compact and heavy with a visible neck and head rather than adding detail, and for any resting adult, curve the long neck back over its own shoulder with the wings folded flat, which keeps the animal legible without exposing a head to the lens.",
+  "letterbox_scan_note": "Per-row content-box scan on all ten frames. Only 0375 carried strips and was cropped and resized back to 1376x768 (rows 12-755); the other nine were full-bleed at native size.",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0371",
+      "timestamp": "12:20–12:22",
+      "narration_slice": "fear did not drive",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_038/VAL-EP001-IMG0371.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1fOj8W6RJnhn1j-qKPl1Hy18Ark0Y19wg",
+      "drive_url": "https://drive.google.com/file/d/1fOj8W6RJnhn1j-qKPl1Hy18Ark0Y19wg/view?usp=drivesdk",
+      "md5": "1cb26e33a576ef22a8aaf4e439302a10",
+      "size_bytes": 2438152,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Grass-level 24mm looking up past a young shepherd seen from behind, feet apart, wooden staff planted, loose silver-white hair across his shoulders, face turned up and away. Above him the caldera dragon fills the cold grey sky, wings reaching past both edges, and the shape signature is all present at first attempt: barrel chest, thick short ringed neck, blunt horned wedge skull held level and turned slightly aside, wing-arms tucked, one long thick tail curving back. Black basalt crags frame both bottom corners. This is the batch's proof that the five-part signature works from the first pass in daylight. Full-bleed.",
+      "creature_refs": [
+        "DRG-VAL-001"
+      ]
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0372",
+      "timestamp": "12:22–12:24",
+      "narration_slice": "the Valyrians from their homeland.",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_038/VAL-EP001-IMG0372.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1NBsteBCpJQm-vZvZ68IKq0cC6zN5M4ka",
+      "drive_url": "https://drive.google.com/file/d/1NBsteBCpJQm-vZvZ68IKq0cC6zN5M4ka/view?usp=drivesdk",
+      "md5": "1b96e550b319f649eff9ddd23c50f3eb",
+      "size_bytes": 2386666,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Near-macro 85mm raking across churned black mud: a single tuft of long-woolled fleece whose curled ends are scorched black while the inner wool stays pale; a heat-split rock beside it with one glossy glassy fresh face and a sharp broken edge; wet grass and torn stems crossing the foreground. The aftermath register the whole movement needed \\u2014 evidence with no body and no wound in frame. Deep blacks, cold light, nothing warm. Full-bleed.",
+      "creature_refs": [
+        "DRG-VAL-001"
+      ]
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0373",
+      "timestamp": "12:24–12:26",
+      "narration_slice": "Instead, something rarer took",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_038/VAL-EP001-IMG0373.png",
+      "resolution": "1376x768",
+      "drive_file_id": "16R4WPR45iPCe0fwI3rYivumQZfWzwVxU",
+      "drive_url": "https://drive.google.com/file/d/16R4WPR45iPCe0fwI3rYivumQZfWzwVxU/view?usp=drivesdk",
+      "md5": "4ee5351c6db1473fb8683ebc04f9068b",
+      "size_bytes": 2358641,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 85mm at close range behind and beside the boy's shoulder: dirty weathered hands turning a small black obsidian pebble in the cool light, a sliver of jaw and loose pale hair at the right edge, and a single tiny dark flying shape far off in the mist beyond. Shallow focus, the pebble the only highlight. Face never presented to the lens. Reads as patient study rather than fear. Full-bleed.",
+      "creature_refs": [
+        "DRG-VAL-001"
+      ]
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0374",
+      "timestamp": "12:26–12:28",
+      "narration_slice": "hold among their boldest",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_038/VAL-EP001-IMG0374.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1Qen8RlJuy8nX1_eDDyDaJwxYEICfBfL5",
+      "drive_url": "https://drive.google.com/file/d/1Qen8RlJuy8nX1_eDDyDaJwxYEICfBfL5/view?usp=drivesdk",
+      "md5": "04ef6fa279fc6e6e9018bbb844ddf8b5",
+      "size_bytes": 2596636,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 100mm near-macro straight down onto a scrap of coarse wool cloth laid on wet stone: rows of black glass shards, three bleached bone fragments, four grey pebbles and a coil of twisted grass, ordered but abstract. The writing/runes/map ban held completely \\u2014 nothing here reads as script, numerals, tally or diagram. Razor focus on the glass and bone, wet stone falling to soft grey at the edges. Full-bleed.",
+      "creature_refs": [
+        "DRG-VAL-001"
+      ]
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0375",
+      "timestamp": "12:28–12:30",
+      "narration_slice": "youths: patient, relentless observation.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_038/VAL-EP001-IMG0375.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1meAezVthZhe6QN9Tb2N2hAEFb8yuDhQo",
+      "drive_url": "https://drive.google.com/file/d/1meAezVthZhe6QN9Tb2N2hAEFb8yuDhQo/view?usp=drivesdk",
+      "md5": "ca9744bdf62158e7655265cf4c4b8774",
+      "size_bytes": 1413923,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 2. Wide bridge at 40mm across the moor: three young shepherds along a black rock crest in the middle distance, all facing away down the valley, one with a staff across his knees, one with his chin on his hand, loose silver-white hair blowing. The flock regroups as pale specks far below; emerald terraces and grey mist bands recede to a distant smoking cone. Pass 1 was compositionally correct but gave all three brown bowl cuts, breaking the clan's silver-white hair \\u2014 hair colour and length were then stated as a positive and the negatives spelled out. Reframed rows 12-755.",
+      "creature_refs": [
+        "DRG-VAL-001"
+      ]
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0376",
+      "timestamp": "12:30–12:32",
+      "narration_slice": "Hidden behind ridges of",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "file_path": "assets/batch_038/VAL-EP001-IMG0376.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1emDl352VSLSRlHdgAciYfhb3vBjK09nr",
+      "drive_url": "https://drive.google.com/file/d/1emDl352VSLSRlHdgAciYfhb3vBjK09nr/view?usp=drivesdk",
+      "md5": "23de08901a2af3d7017c3017b6cc5a8b",
+      "size_bytes": 2329495,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Opening the caldera at 28mm from almost ground level: a fractured shelf of black obsidian shards cuts across the foreground, and behind it the caldera wall rises in tall natural hexagonal basalt columns standing in tight vertical ranks, rain-wet with dry pale mineral crust along the joints, dissolving into cold grey cloud at the rim. One thin dull ember line deep between two columns is the only warmth in the frame. Monumental and vertical, and empty of people. Full-bleed.",
+      "creature_refs": []
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0377",
+      "timestamp": "12:32–12:34",
+      "narration_slice": "volcanic glass, watchers studied the",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "file_path": "assets/batch_038/VAL-EP001-IMG0377.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1eTbv4Uf2JLSfbrnJKeJYQUDvRR9gfIM0",
+      "drive_url": "https://drive.google.com/file/d/1eTbv4Uf2JLSfbrnJKeJYQUDvRR9gfIM0/view?usp=drivesdk",
+      "md5": "7800c6e6c4cf8195eebd39bb1650c77e",
+      "size_bytes": 2461980,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 40mm over-the-shoulder from a boy lying prone on the glass ridge: his shoulder, sheepskin and loose silver-white hair fill the lower right as a soft dark mass, face never seen. Past him the caldera floor is in sharp deep focus \\u2014 grey ash flats, five or six shallow round nest mounds built of compacted ash and burnt bone with thick raised rims, and thin dark grey smoke filaments rising from the cracks between them. A spy's view of something he should not be seeing. Full-bleed.",
+      "creature_refs": []
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0378",
+      "timestamp": "12:34–12:36",
+      "narration_slice": "beasts across years and",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "file_path": "assets/batch_038/VAL-EP001-IMG0378.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1SU4EY3J9ZBAacwg-_y2OL1_qlC3y5_1g",
+      "drive_url": "https://drive.google.com/file/d/1SU4EY3J9ZBAacwg-_y2OL1_qlC3y5_1g/view?usp=drivesdk",
+      "md5": "76741bbeea59515a1ea31b108a29b52b",
+      "size_bytes": 2207054,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 28mm deep focus across the colony floor: a near nest rim in the foreground with bone fragments embedded in its ash, a run of nest mounds receding in layers, thin dark smoke and a few dull ember lines on the flats, and two enormous adults resting far off among the nests with their long necks curved back over their own shoulders and wings folded flat. Checked at 2x zoom: both animals read clearly as heavy four-limbed dragons with legible heads, not bristling spikes. Full-bleed.",
+      "creature_refs": [
+        "DRG-VAL-001"
+      ]
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0379",
+      "timestamp": "12:36–12:38",
+      "narration_slice": "generations. They learned when the",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "file_path": "assets/batch_038/VAL-EP001-IMG0379.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1VS1tyBddKyu261kreKp10cttUZefWRcu",
+      "drive_url": "https://drive.google.com/file/d/1VS1tyBddKyu261kreKp10cttUZefWRcu/view?usp=drivesdk",
+      "md5": "2a7fcd6eba91d24df37f26cb67dfdbf5",
+      "size_bytes": 2264928,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 24mm from the caldera rim, the curving obsidian edge leading the eye across the whole bowl: immense hexagonal basalt cliffs ring the floor, dozens of small round ash mounds scatter in loose clusters, several tall thin grey smoke columns drift sideways into the mist, and the nests and shelves are dotted with dark winged juveniles beside rounded smoking eggs and broken shell. At this scale each juvenile reads as a compact heavy animal with a visible neck and head \\u2014 the simplify-at-distance rule holding. Full-bleed.",
+      "creature_refs": [
+        "DRG-VAL-001"
+      ]
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0380",
+      "timestamp": "12:38–12:40",
+      "narration_slice": "great flyers hunted fish",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "file_path": "assets/batch_038/VAL-EP001-IMG0380.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1V41Wu6ysF6Z0r_sFC5Qebp1tNsq322U-",
+      "drive_url": "https://drive.google.com/file/d/1V41Wu6ysF6Z0r_sFC5Qebp1tNsq322U-/view?usp=drivesdk",
+      "md5": "9029c91635c885ec09b5f00d77220fa3",
+      "size_bytes": 2164550,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 50mm at the juvenile's own eye level, slightly behind: it stands at its nest rim with head turned away and down over the caldera, filling the right half of frame. Barrel chest of overlapping dark basalt plates, thick short ringed neck, heavy blunt wedge skull with broad snout and two short swept-back horns, wing-arms folded with the membrane lying flat, thick tapering tail curving over the rim. Two rounded pale eggs lie half-buried in the ash beside it with one thin dark smoke filament between them. Razor focus on the shoulder plates and skull.",
+      "creature_refs": [
+        "DRG-VAL-001"
+      ]
+    }
+  ],
+  "md5_verification_note": "Folder listing re-read after the tenth upload and compared to local md5sum output. All ten names, sizes and checksums match byte for byte: 1cb26e33a576ef22a8aaf4e439302a10, 1b96e550b319f649eff9ddd23c50f3eb, 4ee5351c6db1473fb8683ebc04f9068b, 04ef6fa279fc6e6e9018bbb844ddf8b5, ca9744bdf62158e7655265cf4c4b8774, 23de08901a2af3d7017c3017b6cc5a8b, 7800c6e6c4cf8195eebd39bb1650c77e, 76741bbeea59515a1ea31b108a29b52b, 2a7fcd6eba91d24df37f26cb67dfdbf5, 9029c91635c885ec09b5f00d77220fa3."
+}
