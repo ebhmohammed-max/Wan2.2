@@ -11,20 +11,11 @@
   "batch_timespan": "09:20–09:40",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "IN_PROGRESS_7_OF_10_APPROVED_UPLOADED_3_RERENDER_PENDING",
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0285",
-    "VAL-EP001-IMG0286",
-    "VAL-EP001-IMG0290"
-  ],
-  "pending_reasons": {
-    "VAL-EP001-IMG0285": "Elder's silhouette drifted into modern fashion: knee-length flared coat with a fur stole collar and tan/yellow hair, reading as an Edwardian lady rather than a 48-year-old male flocksman in a felted wool cloak and ragged sheepskin. Must be rerendered with crude knee-length homespun, matte ash-white hair and a male shoulder line.",
-    "VAL-EP001-IMG0286": "Basalt columns returned as regularly hewn, mortarless blocks with false joints at right angles, reading as quarried masonry or a fortress rampart rather than natural hexagonal columns. Must be rerendered with irregular chipped uneven natural stone and no constructional coursing.",
-    "VAL-EP001-IMG0290": "Young herdsman grew heavy twin forehead braids falling in front of the shoulders, which are not in his lock (two thin narrow temple braids only). Reads as a fantasy lead rather than the locked Stage A youth. Must be rerendered with loose long hair and only two slim temple braids."
-  },
-  "visual_qc_note": "Seven of ten frames passed visual review, are 1376x768 sRGB PNGs, are uploaded to Drive folder 1wAKHTfOOyFxJSW0KL9_ma1pn2sJO283F and each Drive MD5 matches its local file. IMG0285 was reframed from a 1376x744 image area to full-bleed 1376x768 to strip 12 px letterbox bars top and bottom before review. Three frames are held for rerender for the reasons listed in pending_reasons.",
-  "verified_episode_frames_after_batch": 286,
-  "verified_episode_percent_after_batch": "27.24%",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten frames passed visual review, are 1376x768 sRGB PNGs, are uploaded to Drive folder 1wAKHTfOOyFxJSW0KL9_ma1pn2sJO283F, and each Drive MD5 matches its local file; Drive lists exactly ten images. Seven passed on the first pass. IMG0285 arrived with 12 px letterbox bars and was reframed to full-bleed, then needed three attempts for silhouette and hair colour — a flared modern coat with a fur stole, then a correct silhouette in honey-blonde hair against the ash-white lock. IMG0286 needed one rerender to stop the basalt columns reading as coursed, quarried masonry. IMG0290 needed two rerenders on hair alone: heavy chest braids, then a fishtail braid along the scalp, before plain loose hair. The batch is deliberately the emptiest of the episode — no writing, carving, tally, rune or token appears in any frame, because the narration is about the failure of the record. Continuity flags: no clothing darker than charcoal; no hewn or coursed stone in the caldera; the young herdsman's face in IMG0288 reads sharper and more filmic than in IMG0283 and must not drift into a heroic lead; and heavy braiding must be negated explicitly, since simply asking for loose hair produced a scalp braid twice.",
+  "verified_episode_frames_after_batch": 296,
+  "verified_episode_percent_after_batch": "28.19%",
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0281",
@@ -123,7 +114,13 @@
         "CHAR-VAL-002"
       ],
       "file_path": "assets/batch_029/VAL-EP001-IMG0285.png",
-      "qc_status": "HELD_FOR_RERENDER"
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "drive_file_id": "13_dxK9zb7-L8Ameh1vWqvjgnr44PK_Sp",
+      "drive_url": "https://drive.google.com/file/d/13_dxK9zb7-L8Ameh1vWqvjgnr44PK_Sp/view?usp=drivesdk",
+      "md5": "5070d48e820bd1ce79b20fd3adc93435",
+      "size_bytes": 2449211,
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved on the second rerender. Pass 1 dressed the elder in a flared modern coat with a fur stole; pass 2 fixed the silhouette but warmed the hair to honey-blonde, which breaks the palette; pass 3 gives a broad male shoulder line in coarse felted homespun with ragged sheepskin and cool ash-white hair. Reframed from a 1376x744 image area to full-bleed 1376x768 to strip 12 px letterbox bars before review."
     },
     {
       "scene_id": "VAL-EP001-IMG0286",
@@ -139,7 +136,13 @@
         "CHAR-VAL-002"
       ],
       "file_path": "assets/batch_029/VAL-EP001-IMG0286.png",
-      "qc_status": "HELD_FOR_RERENDER"
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "drive_file_id": "178eoiixW36gf7cFCZI-YD0fzCtRuGHxD",
+      "drive_url": "https://drive.google.com/file/d/178eoiixW36gf7cFCZI-YD0fzCtRuGHxD/view?usp=drivesdk",
+      "md5": "f32237717f0d76bbbe708af56dae8d30",
+      "size_bytes": 2643038,
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved on the rerender: the columns are now irregular, chipped and tilted with broken shards at the base and grass in the gaps — raw natural geology rather than the pass-1 quarried rampart with false right-angle joints."
     },
     {
       "scene_id": "VAL-EP001-IMG0287",
@@ -221,7 +224,13 @@
         "CHAR-VAL-002"
       ],
       "file_path": "assets/batch_029/VAL-EP001-IMG0290.png",
-      "qc_status": "HELD_FOR_RERENDER"
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "drive_file_id": "1uuzbSNwyStt0xXoRHjvXRualvCglVFeZ",
+      "drive_url": "https://drive.google.com/file/d/1uuzbSNwyStt0xXoRHjvXRualvCglVFeZ/view?usp=drivesdk",
+      "md5": "351b72a94d3c10e2fbb39019cb390362",
+      "size_bytes": 2567636,
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved on the second rerender. Pass 1 grew heavy chest braids; pass 2 replaced them with a fishtail braid worked along the scalp; pass 3 is plain loose hair with no plaiting at all. The fissure under his palm emits white steam only, no molten glow, and his face stays bowed into shadow."
     }
   ]
 }

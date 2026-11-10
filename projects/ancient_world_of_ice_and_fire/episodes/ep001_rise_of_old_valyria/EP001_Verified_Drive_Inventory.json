@@ -33,10 +33,11 @@
     25,
     26,
     27,
-    28
+    28,
+    29
   ],
-  "next_batch": 29,
-  "next_image_number": 281,
+  "next_batch": 30,
+  "next_image_number": 291,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1915,8 +1916,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-10T11:05:00Z",
-  "verified_progress_percent": 27.24,
+  "last_updated": "2026-11-10T12:20:00Z",
+  "verified_progress_percent": 28.19,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3612,7 +3613,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 286,
+  "verified_image_count": 296,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -5225,5 +5226,212 @@
       "upload_checksum_verified": true
     }
   ],
-  "batch_029_status": "IN_PROGRESS_7_OF_10_APPROVED_UPLOADED_3_RERENDER_PENDING"
+  "batch_029_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_029_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0281",
+      "timestamp": "09:20–09:22",
+      "narration_slice": "no proof connects the",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Arcane Dawn-Age bloodline whispers vs pre-literate mist",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "11Bc6DKH5WOFGoX25vvWDzFP7cE_phSMj",
+      "drive_url": "https://drive.google.com/file/d/11Bc6DKH5WOFGoX25vvWDzFP7cE_phSMj/view?usp=drivesdk",
+      "md5": "14ce157178c859f3d49468a120e3d5b7",
+      "size_bytes": 2511973,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0282",
+      "timestamp": "09:22–09:24",
+      "narration_slice": "two. The truth remains buried",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Arcane Dawn-Age bloodline whispers vs pre-literate mist",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1HvpWArkVYJMFz_J43fumDDDf65y30e6O",
+      "drive_url": "https://drive.google.com/file/d/1HvpWArkVYJMFz_J43fumDDDf65y30e6O/view?usp=drivesdk",
+      "md5": "b01bbee0e229879c67ac35cd1436f8f2",
+      "size_bytes": 2766150,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0283",
+      "timestamp": "09:24–09:26",
+      "narration_slice": "in pre-literate mist; no",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Arcane Dawn-Age bloodline whispers vs pre-literate mist",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1niVOss6IIqLdNePNsmN1w0yXac5a6FU8",
+      "drive_url": "https://drive.google.com/file/d/1niVOss6IIqLdNePNsmN1w0yXac5a6FU8/view?usp=drivesdk",
+      "md5": "8dd24381e1f4831d20764961fdfeb612",
+      "size_bytes": 2415876,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0284",
+      "timestamp": "09:26–09:28",
+      "narration_slice": "chronicle survives in the Valyrians'",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Arcane Dawn-Age bloodline whispers vs pre-literate mist",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1wGku90Br5pXNqDXb6MDp_aQEgyRrDDLw",
+      "drive_url": "https://drive.google.com/file/d/1wGku90Br5pXNqDXb6MDp_aQEgyRrDDLw/view?usp=drivesdk",
+      "md5": "15b0f1496f06b4fcbaccf1961c6dc35e",
+      "size_bytes": 2655785,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0285",
+      "timestamp": "09:28–09:30",
+      "narration_slice": "own earliest shepherd tongue.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Arcane Dawn-Age bloodline whispers vs pre-literate mist",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "13_dxK9zb7-L8Ameh1vWqvjgnr44PK_Sp",
+      "drive_url": "https://drive.google.com/file/d/13_dxK9zb7-L8Ameh1vWqvjgnr44PK_Sp/view?usp=drivesdk",
+      "md5": "5070d48e820bd1ce79b20fd3adc93435",
+      "size_bytes": 2449211,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0286",
+      "timestamp": "09:30–09:32",
+      "narration_slice": "For generations uncounted, these",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "178eoiixW36gf7cFCZI-YD0fzCtRuGHxD",
+      "drive_url": "https://drive.google.com/file/d/178eoiixW36gf7cFCZI-YD0fzCtRuGHxD/view?usp=drivesdk",
+      "md5": "f32237717f0d76bbbe708af56dae8d30",
+      "size_bytes": 2643038,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0287",
+      "timestamp": "09:32–09:34",
+      "narration_slice": "silver-haired shepherds kept an unspoken",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1t6EZPoQYZaOLhFN-P0E4MFlVqd3VMCUP",
+      "drive_url": "https://drive.google.com/file/d/1t6EZPoQYZaOLhFN-P0E4MFlVqd3VMCUP/view?usp=drivesdk",
+      "md5": "6c3e1c31b2787dc0f55f79d90edde629",
+      "size_bytes": 2571490,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0288",
+      "timestamp": "09:34–09:36",
+      "narration_slice": "covenant with their mountains:",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1DYaZwhaMsDBT4ZEhG1Dn2oCGBSnRJEpN",
+      "drive_url": "https://drive.google.com/file/d/1DYaZwhaMsDBT4ZEhG1Dn2oCGBSnRJEpN/view?usp=drivesdk",
+      "md5": "f2dd4f6f12074ba49539b0fd7f8376fd",
+      "size_bytes": 2373894,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0289",
+      "timestamp": "09:36–09:38",
+      "narration_slice": "graze the green foothills, honor",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1obx0gJOM3cNcD-tYPoV0CSC0ALXK04ab",
+      "drive_url": "https://drive.google.com/file/d/1obx0gJOM3cNcD-tYPoV0CSC0ALXK04ab/view?usp=drivesdk",
+      "md5": "6c3747f2d3e747332ab8709fe22f6468",
+      "size_bytes": 2352761,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0290",
+      "timestamp": "09:38–09:40",
+      "narration_slice": "the rumbling earth, and",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1uuzbSNwyStt0xXoRHjvXRualvCglVFeZ",
+      "drive_url": "https://drive.google.com/file/d/1uuzbSNwyStt0xXoRHjvXRualvCglVFeZ/view?usp=drivesdk",
+      "md5": "351b72a94d3c10e2fbb39019cb390362",
+      "size_bytes": 2567636,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ]
 }
