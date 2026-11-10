@@ -1,0 +1,285 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "visual_style_standard": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location cinematography (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade: warm sandstone highlights, deep cerulean Summer Sea, lush emerald pastures, muted volcanic stone)",
+  "style_reference_benchmark": "The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1r9uwSLfYkNeHxU9J48g0ZBF5Txwe1wgO",
+  "batch_number": 27,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "08:40–09:00",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "IN_PROGRESS_9_OF_10_APPROVED_UPLOADED_1_RERENDER_PENDING",
+  "pending_completion_scenes": [
+    "VAL-EP001-IMG0264"
+  ],
+  "visual_qc_note": "First pass: nine of ten frames passed and were uploaded to Drive folder 1r9uwSLfYkNeHxU9J48g0ZBF5Txwe1wgO, each Drive MD5 matching its local file. The wide-shot eye rule worked — because IMG0261, 0263, 0264, 0266 and 0270 keep faces in profile, angled down or seen from behind, no iris colour was exposed to wash out at 24–35mm, and the three frames that do present eyes (IMG0262, IMG0268 and the eye crops on IMG0263) all rendered saturated amethyst-violet on first attempt. One frame is held: IMG0264's wide clan tableau contains a background figure with a shaved-side undercut and long braid plus a second dark-clad man in the middle distance, both breaking the locked undyed cream-and-charcoal clan silhouette.",
+  "verified_episode_frames_after_batch": 266,
+  "verified_episode_percent_after_batch": "25.33%",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0261",
+      "timestamp": "08:40–08:42",
+      "shot_lens": "MS · 35mm",
+      "narration_slice": "almost nowhere else in the",
+      "shot_type": "Dynamic medium lateral tracking angle",
+      "visual_beat": "Lateral tracking walk along the low basalt wall, both men in profile",
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_027/VAL-EP001-IMG0261.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2370405,
+      "md5": "2aa77e88f0e7d912be376dbb5865faad",
+      "resolution": "1376x768",
+      "drive_file_id": "1J-fpyY3MPW03f-r9ym98cfY9ytw-QQ5y",
+      "drive_url": "https://drive.google.com/file/d/1J-fpyY3MPW03f-r9ym98cfY9ytw-QQ5y/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: camera travels alongside as they walk the wall in clean profile, crook and rawhide coil correct, motion smear in the near stone; no irises presented to lens. Volcanic cone and pasture beyond."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0262",
+      "timestamp": "08:42–08:44",
+      "shot_lens": "MCU · 65mm",
+      "narration_slice": "known world? Most maesters of",
+      "shot_type": "Compressed telephoto dramatic subject framing",
+      "visual_beat": "Compressed telephoto medium close-up of the elder, half-smiling",
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_027/VAL-EP001-IMG0262.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2623224,
+      "md5": "058c8b123b2925b4a82df198b570f9fe",
+      "resolution": "1376x768",
+      "drive_file_id": "1PZdMqQcx6wzqXIy8Py-PjMZuw82wfRj1",
+      "drive_url": "https://drive.google.com/file/d/1PZdMqQcx6wzqXIy8Py-PjMZuw82wfRj1/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: 65mm compression, warm raking side light, wind crease detail; saturated deep indigo-violet irises confirmed at 600% crop on both eyes — unmistakeably purple, not blue."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0263",
+      "timestamp": "08:44–08:46",
+      "shot_lens": "MS · 50mm",
+      "narration_slice": "the Citadel propose a",
+      "shot_type": "Medium cinematic subject focus",
+      "visual_beat": "Two-shot sharing bread on the wall, heads bent to the work",
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_027/VAL-EP001-IMG0263.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2591986,
+      "md5": "c863a464d40aba6d3d962b2c41adb077",
+      "resolution": "1376x768",
+      "drive_file_id": "10NjJUd0y5Es1IDo7cAD79ldrLfXmf-HG",
+      "drive_url": "https://drive.google.com/file/d/10NjJUd0y5Es1IDo7cAD79ldrLfXmf-HG/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: both heads angled down to the bread, no irises exposed, wattle fold and ewes behind, crook leaning on the wall; companionship without hierarchy."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0264",
+      "timestamp": "08:46–08:48",
+      "shot_lens": "WS · 35mm",
+      "narration_slice": "grounded natural answer: ages of",
+      "shot_type": "Wide environmental storytelling tableau",
+      "visual_beat": "Wide tableau of the whole clan at work across the homestead",
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_027/VAL-EP001-IMG0264.png",
+      "qc_status": "QC_REJECTED_RERENDER_REQUIRED",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2648773,
+      "md5": "cef4459ea8e8a0a4992e8589c0ddf5c0",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_note": "REJECTED: a background figure at the right edge carries a shaved-side undercut with a long braid and a black tunic — a modern \"Viking\" silhouette that breaks the locked clan look — and a second man in the middle distance reads dark-clad and off-model. Awaiting rerender with every adult in the same undyed cream-and-charcoal palette and no shaved or undercut hair."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0265",
+      "timestamp": "08:48–08:50",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "geographic isolation trapped between sea",
+      "shot_type": "High-elevation geographic / scale reveal",
+      "visual_beat": "High-elevation reveal — land pinched between the sea and the cones",
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_027/VAL-EP001-IMG0265.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2734506,
+      "md5": "dded4fdab0af156456c8a76348c5d5f4",
+      "resolution": "1376x768",
+      "drive_file_id": "1YmvIt6M3np338gTDn0Ce4ox35DawdQdz",
+      "drive_url": "https://drive.google.com/file/d/1YmvIt6M3np338gTDn0Ce4ox35DawdQdz/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: narrow shelf between black cliffs and open ocean, eight conical slate roofs on one green spur, smoke, surf and outcrops; no roads, no fields, no harbour. Single worn sheep track threads the grass. The 'fertile prison' reads immediately."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0266",
+      "timestamp": "08:50–08:52",
+      "shot_lens": "LAM · 24mm",
+      "narration_slice": "and volcano, reinforced by close",
+      "shot_type": "Towering vertical scale composition",
+      "visual_beat": "Towering defile — two figures walking out toward a sliver of sea",
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_027/VAL-EP001-IMG0266.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2283999,
+      "md5": "a9d3d1bdec62e0d4843c8e70130ebbdc",
+      "resolution": "1376x768",
+      "drive_file_id": "11DqH3XDKVNIsN_4lvcQKY3UKoK24B_6d",
+      "drive_url": "https://drive.google.com/file/d/11DqH3XDKVNIsN_4lvcQKY3UKoK24B_6d/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: natural columnar basalt on the left, black volcanic shoulder on the right, backlit gap with green and sea beyond; both figures seen from behind at distance. No constructed tunnel, no rails, no lamps."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0267",
+      "timestamp": "08:52–08:54",
+      "shot_lens": "DET · 85mm",
+      "narration_slice": "kinship marriage among a small",
+      "shot_type": "Macro environmental / material texture insert",
+      "visual_beat": "Macro insert — old and young hands on the same ground loom",
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_027/VAL-EP001-IMG0267.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2775970,
+      "md5": "b8a0e4efdd880ddc9f8b11d38895c02f",
+      "resolution": "1376x768",
+      "drive_file_id": "1iMMmHIM3k4gK7nGaovBiuTb5PVdiA_uW",
+      "drive_url": "https://drive.google.com/file/d/1iMMmHIM3k4gK7nGaovBiuTb5PVdiA_uW/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: weathered adult hand with rawhide wrist wrap and a small smooth child's hand on the same wooden shuttle, wool warp, clay bowl and hanks behind. Knuckle and finger shape carry the resemblance; no rings, no metal parts."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0268",
+      "timestamp": "08:54–08:56",
+      "shot_lens": "CU · 85mm",
+      "narration_slice": "founding population, fixed rare recessive",
+      "shot_type": "Intimate close-up detail / expression beat",
+      "visual_beat": "Intimate close-up — clan woman, child's head at the bottom edge",
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_027/VAL-EP001-IMG0268.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2650896,
+      "md5": "5dc2e6d6ca221a00044f335ddb7ca867",
+      "resolution": "1376x768",
+      "drive_file_id": "1KyRNPrOznL7pU8UXv2vR6-0-DOXgO0Bt",
+      "drive_url": "https://drive.google.com/file/d/1KyRNPrOznL7pU8UXv2vR6-0-DOXgO0Bt/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: freckled alabaster skin, silver-gold hair swept back, copper pin at the shoulder, child's pale head softly out of focus at the bottom edge. Iris crop confirms saturated violet-purple, not blue. No headband or fillet."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0269",
+      "timestamp": "08:56–08:58",
+      "shot_lens": "DET · 100mm",
+      "narration_slice": "traits of silver hair and",
+      "shot_type": "Extreme close-up tactile / light study",
+      "visual_beat": "Extreme close-up — backlit silver-gold hair over the shoulder",
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_027/VAL-EP001-IMG0269.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2793648,
+      "md5": "dc4a05c7003e1ec59a2498afde72fd36",
+      "resolution": "1376x768",
+      "drive_file_id": "1nGtoHL2djdWMUVGQ6sr964X5CHYZCMJh",
+      "drive_url": "https://drive.google.com/file/d/1nGtoHL2djdWMUVGQ6sr964X5CHYZCMJh/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: no face in frame; hair glows almost white at the tips with warm gold near the scalp, two rawhide-bound braids at the left edge, one strand lifting clear. Neck and shoulder skin cool ivory."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0270",
+      "timestamp": "08:58–09:00",
+      "shot_lens": "WS · 40mm",
+      "narration_slice": "purple eyes across the clans.",
+      "shot_type": "Transitional wide horizon / bridge framing",
+      "visual_beat": "Transitional wide — the clan on the sea shelf, backs to camera",
+      "character_refs": [
+        "CHAR-VAL-001",
+        "CHAR-VAL-002"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_027/VAL-EP001-IMG0270.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2450862,
+      "md5": "83dea1c20a4ad0b4506d4528a02ebe87",
+      "resolution": "1376x768",
+      "drive_file_id": "1AdYHWfg9A4Y9MyWZSNSquiB64KTpIawp",
+      "drive_url": "https://drive.google.com/file/d/1AdYHWfg9A4Y9MyWZSNSquiB64KTpIawp/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: elder with crook at the left, woman with a child on her hip, young man with the spear across his shoulders, all facing the sea; one smoking cone behind. No faces presented, no ships or far shore structures."
+    }
+  ]
+}
