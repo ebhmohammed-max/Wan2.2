@@ -1,0 +1,273 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "visual_style_standard": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location cinematography (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade: warm sandstone highlights, deep cerulean Summer Sea, lush emerald pastures, muted volcanic stone)",
+  "style_reference_benchmark": "The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1LLJg7LOGHGxlXZJMWLaST7MlaPywL0Ew",
+  "batch_number": 24,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "07:40–08:00",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten frames passed visual review, are 1376x768 sRGB PNGs, are uploaded to Drive folder 1LLJg7LOGHGxlXZJMWLaST7MlaPywL0Ew, and each Drive MD5 matches its local file; Drive lists exactly ten images. IMG0240 had thin letterbox strips and was cropped and rescaled to full-bleed 16:9 before upload. Continuity flags: IMG0233 shows an unlisted braided headband (do not repeat), and IMG0232 renders the copper pin as a coiled wire spiral rather than a flat hammered disc.",
+  "verified_episode_frames_after_batch": 246,
+  "verified_episode_percent_after_batch": "23.43%",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0231",
+      "timestamp": "07:40–07:42",
+      "shot_lens": "MS · 35mm",
+      "narration_slice": "dawn era, because none",
+      "shot_type": "Dynamic medium lateral tracking angle — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Dynamic medium lateral tracking angle — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_024/VAL-EP001-IMG0231.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2651125,
+      "md5": "d13c1bf87f6d541f90c031b8554f4310",
+      "resolution": "1376x768",
+      "drive_file_id": "1FhOnEL8TDR5R-_Q-fmav_PTRw1atCP89",
+      "drive_url": "https://drive.google.com/file/d/1FhOnEL8TDR5R-_Q-fmav_PTRw1atCP89/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: side-on tracking beat at first light, shepherd crisp against motion-blurred fleece, round basalt roundhouses and steam behind."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0232",
+      "timestamp": "07:42–07:44",
+      "shot_lens": "MCU · 65mm",
+      "narration_slice": "existed. They were a small,",
+      "shot_type": "Compressed telephoto dramatic subject framing — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_024/VAL-EP001-IMG0232.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2649705,
+      "md5": "f37585332e76279be76cf330d3491792",
+      "resolution": "1376x768",
+      "drive_file_id": "1yGP--yJsqX64i1Z8Pzw-Ftl3LOV5G1MO",
+      "drive_url": "https://drive.google.com/file/d/1yGP--yJsqX64i1Z8Pzw-Ftl3LOV5G1MO/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: compressed telephoto portrait above the flock, smoking cones behind; copper pin reads as a coiled wire spiral rather than a flat hammered disc — acceptable at this scale, flag for future frames."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0233",
+      "timestamp": "07:44–07:46",
+      "shot_lens": "MS · 50mm",
+      "narration_slice": "peaceful, inward-looking society of sheepherders.",
+      "shot_type": "Medium cinematic subject focus — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Medium cinematic subject focus — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_024/VAL-EP001-IMG0233.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2792973,
+      "md5": "bdebf527b927402e4666533962086939",
+      "resolution": "1376x768",
+      "drive_file_id": "1J70ieTQ9-DJqUFjfRpBvMAnmt_SvJMsz",
+      "drive_url": "https://drive.google.com/file/d/1J70ieTQ9-DJqUFjfRpBvMAnmt_SvJMsz/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: shepherd kneeling to check a ewe before a roundhouse. Note: he wears an unlisted braided headband; treat as a one-off and do not repeat it in later frames."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0234",
+      "timestamp": "07:46–07:48",
+      "shot_lens": "WS · 35mm",
+      "narration_slice": "In circular dry-stone homesteads of",
+      "shot_type": "Wide environmental storytelling tableau — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Wide environmental storytelling tableau — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_024/VAL-EP001-IMG0234.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2927459,
+      "md5": "71c70200927a8e7add39ea74d6484ff2",
+      "resolution": "1376x768",
+      "drive_file_id": "1sHuKjy5RxVXLgObXnwl06CWMlPSEb0Z6",
+      "drive_url": "https://drive.google.com/file/d/1sHuKjy5RxVXLgObXnwl06CWMlPSEb0Z6/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: working homestead tableau — water carrier, child driving sheep through a wattle gate, rafter repair with a stone maul, smoke from a roof vent."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0235",
+      "timestamp": "07:48–07:50",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "stacked basalt and cedar",
+      "shot_type": "High-elevation geographic / scale reveal — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "High-elevation geographic / scale reveal — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_024/VAL-EP001-IMG0235.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2684252,
+      "md5": "af96ac04d8d84520a3657dd87a4dc74f",
+      "resolution": "1376x768",
+      "drive_file_id": "1guNOdnsSgZ4I5ylRIC7v6W4kW70-C_7a",
+      "drive_url": "https://drive.google.com/file/d/1guNOdnsSgZ4I5ylRIC7v6W4kW70-C_7a/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: high vantage on the enclosed roundhouse cluster, wattle folds, sheep and steaming stream with mist in the valley."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0236",
+      "timestamp": "07:50–07:52",
+      "shot_lens": "LAM · 24mm",
+      "narration_slice": "rafters, clan elders guided long-wooled",
+      "shot_type": "Towering vertical scale composition — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Towering vertical scale composition — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_024/VAL-EP001-IMG0236.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2325594,
+      "md5": "fe9d52e7d1215895179962e5e4d013fe",
+      "resolution": "1376x768",
+      "drive_file_id": "1VcIBI7Tfo_pFvX5rh2O56dTtPgiTjz95",
+      "drive_url": "https://drive.google.com/file/d/1VcIBI7Tfo_pFvX5rh2O56dTtPgiTjz95/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: roundhouse interior, cedar rafter cone to a smoke hole with a single shaft of daylight on two seated clan elders."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0237",
+      "timestamp": "07:52–07:54",
+      "shot_lens": "DET · 85mm",
+      "narration_slice": "flocks across the highland pastures,",
+      "shot_type": "Macro environmental / material texture insert — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Macro environmental / material texture insert — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_024/VAL-EP001-IMG0237.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2904759,
+      "md5": "7d3ab17ff5c6d577c9bf0426e7211a3e",
+      "resolution": "1376x768",
+      "drive_file_id": "1QNKR-DUL1D7IKv_itcGUEfZNa0YLMJWU",
+      "drive_url": "https://drive.google.com/file/d/1QNKR-DUL1D7IKv_itcGUEfZNa0YLMJWU/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: macro fleece study, dense ringlets with guard hairs, volcanic dust and a caught straw; tactile and specific."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0238",
+      "timestamp": "07:54–07:56",
+      "shot_lens": "CU · 85mm",
+      "narration_slice": "measuring wealth not in slaves",
+      "shot_type": "Intimate close-up detail / expression beat — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Intimate close-up detail / expression beat — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_024/VAL-EP001-IMG0238.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2826463,
+      "md5": "9899d9f014d60dd4f6c6837db16af977",
+      "resolution": "1376x768",
+      "drive_file_id": "1s75dKGptfYyg5-WPHXOUIS20dsZHBwlD",
+      "drive_url": "https://drive.google.com/file/d/1s75dKGptfYyg5-WPHXOUIS20dsZHBwlD/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: elder and clan woman in quiet council at a roundhouse door, folded wool blanket, copper spiral pin and rawhide-bound braids consistent."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0239",
+      "timestamp": "07:56–07:58",
+      "shot_lens": "DET · 100mm",
+      "narration_slice": "or spears, but in",
+      "shot_type": "Extreme close-up tactile / light study — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Extreme close-up tactile / light study — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_024/VAL-EP001-IMG0239.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2796258,
+      "md5": "32a817284adb6f2772d0406ca5fc03f3",
+      "resolution": "1376x768",
+      "drive_file_id": "1a7pPJghXTF1B-vaReEGUvEvcwMb7JGSm",
+      "drive_url": "https://drive.google.com/file/d/1a7pPJghXTF1B-vaReEGUvEvcwMb7JGSm/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: extreme close-up of cream-and-charcoal woven wool with raw fringe, wooden shuttle and yarn hank."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0240",
+      "timestamp": "07:58–08:00",
+      "shot_lens": "WS · 40mm",
+      "narration_slice": "healthy livestock and woven wool.",
+      "shot_type": "Transitional wide horizon / bridge framing — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Transitional wide horizon / bridge framing — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_024/VAL-EP001-IMG0240.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 1700998,
+      "md5": "d93dcf9ab8bd4143e59638bde3ff98a9",
+      "resolution": "1376x768",
+      "drive_file_id": "17mJmqesVAt_orB5YYk976wqn1E-yGz5l",
+      "drive_url": "https://drive.google.com/file/d/17mJmqesVAt_orB5YYk976wqn1E-yGz5l/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved after reframe: thin letterbox strips were cropped away and the frame rescaled to full-bleed 1376x768 before upload; golden-hour bridge beat over flock, roundhouses and smoking cones."
+    }
+  ]
+}

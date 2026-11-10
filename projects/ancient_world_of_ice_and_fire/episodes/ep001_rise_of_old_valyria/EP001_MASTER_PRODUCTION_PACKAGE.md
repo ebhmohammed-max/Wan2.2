@@ -6,7 +6,7 @@
 - **Visual Cadence:** **`30 images per minute`** (`1 image every 2.0 seconds` · **`1,050 total images`** across **`105 batches of 10`**)
 - **Locked Cinematic Visual Standard:** **65mm Live-Action / Physically Realistic 3D Historical Cinema** (*ARRI Alexa 65 · Panavision Primo Spherical Primes · Kodak Vision3 500T Grade: Warm Sandstone Highlights, Muted Archaeological Midtones, Deep Ink-Navy Shadows — calibrated to `The_Trojan_War_The_Legend_the_City_and_the_Evidence`*)
 - **Google Drive Master Archive:** `Game of thrones YT` (`1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo`)
-- **Current Gate Status:** **Batches 001–023 complete. `236 / 1,050` images are Drive-verified and visually QC-approved (`22.48%`). Next: Batch 024 (`07:40–08:00`).**
+- **Current Gate Status:** **Batches 001–024 complete. `246 / 1,050` images are Drive-verified and visually QC-approved (`23.43%`). Next: Batch 025 (`08:00–08:20`).**
 
 ---
 
@@ -3310,3 +3310,7 @@ Batch 022 (`IMG0211–IMG0220`, `07:00–07:20`) is complete: all ten frames are
 ## Production Continuation — Batch 023 complete (2026-11-09)
 
 Batch 023 (`IMG0221–IMG0230`, `07:20–07:40`) is complete: all ten frames are visually approved, `1376×768` sRGB PNGs, uploaded to Drive folder `https://drive.google.com/drive/folders/1V6YsdqUSkso6Y6WHw5FSe_DuTZaMnC9k`, and MD5-verified. Four frames were rerendered after QC: `IMG0222` no longer reads as a bone joint, `IMG0225` replaces the round cave mouth onto a landscape with a thin blade of daylight, `IMG0226` uses round dry-stone basalt roundhouses instead of longhouse forms, and `IMG0229` removes the modern field grid and tracks. Verified progress is **236/1,050 (22.48%)**; next is Batch 024 (`07:40–08:00`). **IMG0160 remains unresolved:** restore or regenerate the original composition (resizing only if appropriate).
+
+## Production Continuation — Batch 024 complete (2026-11-09)
+
+Batch 024 (`IMG0231–IMG0240`, `07:40–08:00`) is complete: all ten frames are visually approved, `1376×768` sRGB PNGs, uploaded to Drive folder `https://drive.google.com/drive/folders/1LLJg7LOGHGxlXZJMWLaST7MlaPywL0Ew`, and MD5-verified. The batch stays at `LOC-VAL-002` and establishes the pastoral society: round dry-stone basalt homesteads, wattle folds, flocks, clan elders and hand-woven wool, with `CHAR-VAL-001` consistent across the batch. `IMG0240` was cropped and rescaled to full-bleed 16:9 to remove thin letterbox strips before upload. Continuity flags: `IMG0233` carries an unlisted braided headband that should not be repeated, and `IMG0232` renders the copper pin as a coiled wire spiral. Verified progress is **246/1,050 (23.43%)**; next is Batch 025 (`08:00–08:20`). **IMG0160 remains unresolved:** restore or regenerate the original composition (resizing only if appropriate).

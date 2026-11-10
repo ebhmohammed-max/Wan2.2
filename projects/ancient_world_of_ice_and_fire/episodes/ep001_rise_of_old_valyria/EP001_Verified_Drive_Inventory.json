@@ -28,10 +28,11 @@
     "Batch 020",
     "Batch 021",
     22,
-    23
+    23,
+    24
   ],
-  "next_batch": 24,
-  "next_image_number": 231,
+  "next_batch": 25,
+  "next_image_number": 241,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -120,7 +121,8 @@
     "batch_020": "https://drive.google.com/drive/folders/1qGCm4kPxpOzc9x5Befotaj1Vq42xxkhO",
     "batch_021": "https://drive.google.com/drive/folders/17xs4PfQxDKJ_2baNHXtv5oo86s9Tr8mZ",
     "batch_022": "https://drive.google.com/drive/folders/1KTaABRWYhUZKbdNpjsmxl08Iq3k3YWaQ",
-    "batch_023": "https://drive.google.com/drive/folders/1V6YsdqUSkso6Y6WHw5FSe_DuTZaMnC9k"
+    "batch_023": "https://drive.google.com/drive/folders/1V6YsdqUSkso6Y6WHw5FSe_DuTZaMnC9k",
+    "batch_024": "https://drive.google.com/drive/folders/1LLJg7LOGHGxlXZJMWLaST7MlaPywL0Ew"
   },
   "batch_001_images_65mm_upgraded": [
     {
@@ -1904,8 +1906,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-09T22:40:00Z",
-  "verified_progress_percent": 22.48,
+  "last_updated": "2026-11-09T23:25:00Z",
+  "verified_progress_percent": 23.43,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3601,7 +3603,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 236,
+  "verified_image_count": 246,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -4184,6 +4186,208 @@
       "drive_url": "https://drive.google.com/file/d/1mG2TF3qN3Q4hiqdP_Lk_4TSvNvlIM_n2/view?usp=drivesdk",
       "md5": "efa2ea1f0456327615db9a12d22da833",
       "size_bytes": 2414285,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_024_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0231",
+      "timestamp": "07:40–07:42",
+      "narration_slice": "dawn era, because none",
+      "shot_type": "Dynamic medium lateral tracking angle — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Dynamic medium lateral tracking angle — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1FhOnEL8TDR5R-_Q-fmav_PTRw1atCP89",
+      "drive_url": "https://drive.google.com/file/d/1FhOnEL8TDR5R-_Q-fmav_PTRw1atCP89/view?usp=drivesdk",
+      "md5": "d13c1bf87f6d541f90c031b8554f4310",
+      "size_bytes": 2651125,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0232",
+      "timestamp": "07:42–07:44",
+      "narration_slice": "existed. They were a small,",
+      "shot_type": "Compressed telephoto dramatic subject framing — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1yGP--yJsqX64i1Z8Pzw-Ftl3LOV5G1MO",
+      "drive_url": "https://drive.google.com/file/d/1yGP--yJsqX64i1Z8Pzw-Ftl3LOV5G1MO/view?usp=drivesdk",
+      "md5": "f37585332e76279be76cf330d3491792",
+      "size_bytes": 2649705,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0233",
+      "timestamp": "07:44–07:46",
+      "narration_slice": "peaceful, inward-looking society of sheepherders.",
+      "shot_type": "Medium cinematic subject focus — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Medium cinematic subject focus — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1J70ieTQ9-DJqUFjfRpBvMAnmt_SvJMsz",
+      "drive_url": "https://drive.google.com/file/d/1J70ieTQ9-DJqUFjfRpBvMAnmt_SvJMsz/view?usp=drivesdk",
+      "md5": "bdebf527b927402e4666533962086939",
+      "size_bytes": 2792973,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0234",
+      "timestamp": "07:46–07:48",
+      "narration_slice": "In circular dry-stone homesteads of",
+      "shot_type": "Wide environmental storytelling tableau — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Wide environmental storytelling tableau — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1sHuKjy5RxVXLgObXnwl06CWMlPSEb0Z6",
+      "drive_url": "https://drive.google.com/file/d/1sHuKjy5RxVXLgObXnwl06CWMlPSEb0Z6/view?usp=drivesdk",
+      "md5": "71c70200927a8e7add39ea74d6484ff2",
+      "size_bytes": 2927459,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0235",
+      "timestamp": "07:48–07:50",
+      "narration_slice": "stacked basalt and cedar",
+      "shot_type": "High-elevation geographic / scale reveal — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "High-elevation geographic / scale reveal — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1guNOdnsSgZ4I5ylRIC7v6W4kW70-C_7a",
+      "drive_url": "https://drive.google.com/file/d/1guNOdnsSgZ4I5ylRIC7v6W4kW70-C_7a/view?usp=drivesdk",
+      "md5": "af96ac04d8d84520a3657dd87a4dc74f",
+      "size_bytes": 2684252,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0236",
+      "timestamp": "07:50–07:52",
+      "narration_slice": "rafters, clan elders guided long-wooled",
+      "shot_type": "Towering vertical scale composition — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Towering vertical scale composition — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1VcIBI7Tfo_pFvX5rh2O56dTtPgiTjz95",
+      "drive_url": "https://drive.google.com/file/d/1VcIBI7Tfo_pFvX5rh2O56dTtPgiTjz95/view?usp=drivesdk",
+      "md5": "fe9d52e7d1215895179962e5e4d013fe",
+      "size_bytes": 2325594,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0237",
+      "timestamp": "07:52–07:54",
+      "narration_slice": "flocks across the highland pastures,",
+      "shot_type": "Macro environmental / material texture insert — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Macro environmental / material texture insert — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1QNKR-DUL1D7IKv_itcGUEfZNa0YLMJWU",
+      "drive_url": "https://drive.google.com/file/d/1QNKR-DUL1D7IKv_itcGUEfZNa0YLMJWU/view?usp=drivesdk",
+      "md5": "7d3ab17ff5c6d577c9bf0426e7211a3e",
+      "size_bytes": 2904759,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0238",
+      "timestamp": "07:54–07:56",
+      "narration_slice": "measuring wealth not in slaves",
+      "shot_type": "Intimate close-up detail / expression beat — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Intimate close-up detail / expression beat — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1s75dKGptfYyg5-WPHXOUIS20dsZHBwlD",
+      "drive_url": "https://drive.google.com/file/d/1s75dKGptfYyg5-WPHXOUIS20dsZHBwlD/view?usp=drivesdk",
+      "md5": "9899d9f014d60dd4f6c6837db16af977",
+      "size_bytes": 2826463,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0239",
+      "timestamp": "07:56–07:58",
+      "narration_slice": "or spears, but in",
+      "shot_type": "Extreme close-up tactile / light study — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Extreme close-up tactile / light study — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "1a7pPJghXTF1B-vaReEGUvEvcwMb7JGSm",
+      "drive_url": "https://drive.google.com/file/d/1a7pPJghXTF1B-vaReEGUvEvcwMb7JGSm/view?usp=drivesdk",
+      "md5": "32a817284adb6f2772d0406ca5fc03f3",
+      "size_bytes": 2796258,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0240",
+      "timestamp": "07:58–08:00",
+      "narration_slice": "healthy livestock and woven wool.",
+      "shot_type": "Transitional wide horizon / bridge framing — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Transitional wide horizon / bridge framing — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "drive_file_id": "17mJmqesVAt_orB5YYk976wqn1E-yGz5l",
+      "drive_url": "https://drive.google.com/file/d/17mJmqesVAt_orB5YYk976wqn1E-yGz5l/view?usp=drivesdk",
+      "md5": "d93dcf9ab8bd4143e59638bde3ff98a9",
+      "size_bytes": 1700998,
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
