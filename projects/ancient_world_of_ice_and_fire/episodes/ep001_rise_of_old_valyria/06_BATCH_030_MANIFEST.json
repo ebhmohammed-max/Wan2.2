@@ -11,18 +11,11 @@
   "batch_timespan": "09:40–10:00",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "IN_PROGRESS_8_OF_10_APPROVED_UPLOADED_2_RERENDER_PENDING",
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0291",
-    "VAL-EP001-IMG0300"
-  ],
-  "pending_reasons": {
-    "VAL-EP001-IMG0291": "The young herdsman came back with warm light-brown hair and a soft, almost feminine face, breaking the single most load-bearing trait in the episode — the Valyrian silver-gold/blond lock — and drifting toward the actress-likeness failure seen in Batches 026 and 027. Must be rerendered with explicitly cool platinum silver-white hair, a harder angular male jawline and the face never square to camera.",
-    "VAL-EP001-IMG0300": "The elder is back in an ankle-length flared coat with the hood UP and a pale fur mantle, which is the exact Batch 029 failure recurring: the silhouette reads as a figure in a long modern coat rather than a 48-year-old flocksman in a knee-length felted cloak. Must be rerendered with a hoodless head, a knee-length cloak stopping above the boot tops, matte ash-white hair visible from behind, and a broad male shoulder line."
-  },
-  "visual_qc_note": "Eight of ten frames passed visual review, are 1376x768 sRGB PNGs, are uploaded to Drive folder 13OX8F00yUGUB4cXK7WndAHVN4gcBy0Tv and each Drive MD5 matches its local file. IMG0300 was reframed from a 1376x744 image area to full-bleed 1376x768 to strip 12 px letterbox bars before review. Two frames are held for rerender for the reasons in pending_reasons. Director's boundaries held across all ten: no cave interior, cavern mouth, tunnel or vent interior is shown; no sheep is taken on camera; no bones, blood or struggle appear before IMG0299's ambiguous skull; and no dragon or dragon-sign appears anywhere.",
-  "verified_episode_frames_after_batch": 296,
-  "verified_episode_percent_after_batch": "28.19%",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten frames passed visual review, are 1376x768 sRGB PNGs, are uploaded to Drive folder 13OX8F00yUGUB4cXK7WndAHVN4gcBy0Tv, and each Drive MD5 matches its local file; Drive lists exactly ten images. Eight passed first time. IMG0291 needed one rerender to restore the cool silver-white hair and a hard male jaw after coming back brown-haired and soft-faced. IMG0300 arrived letterboxed, was reframed to full-bleed, and needed two rerenders: an ankle-length flared coat with the hood up (the Batch 029 failure recurring), then a bald crown. Director's boundaries held across all ten: no cave interior, cavern mouth, tunnel or vent interior is shown; no sheep is taken on camera; no blood or struggle appears before IMG0299's deliberately ambiguous skull; and no dragon or dragon-sign appears anywhere, since DRG-VAL-001 is not revealed until Batch 032. Standing flags: the elder's ankle-length-coat-and-hood drift has now occurred twice (029, 030) and needs hood, cowl and full-length-coat negations plus the positive knee-length description every time; hair tone is drifting frame to frame across Batches 028-030, so Batch 031 must carry one explicit hair value.",
+  "verified_episode_frames_after_batch": 306,
+  "verified_episode_percent_after_batch": "29.14%",
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0291",
@@ -38,7 +31,13 @@
         "CHAR-VAL-002"
       ],
       "file_path": "assets/batch_030/VAL-EP001-IMG0291.png",
-      "qc_status": "HELD_FOR_RERENDER"
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "drive_file_id": "1YXnlZTjaocjaLAQEHldWurI_krkO44Hn",
+      "drive_url": "https://drive.google.com/file/d/1YXnlZTjaocjaLAQEHldWurI_krkO44Hn/view?usp=drivesdk",
+      "md5": "1e25c04d24ef326d02a4fe866f1566b0",
+      "size_bytes": 2492506,
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved on the rerender. Pass 1 gave him warm light-brown hair and a soft, near-feminine face; the approved frame is cool platinum silver-white, hard angular jaw with stubble shadow, mouth open mid-shout, head turned three-quarters away — no braiding, no likeness."
     },
     {
       "scene_id": "VAL-EP001-IMG0292",
@@ -230,7 +229,13 @@
         "CHAR-VAL-002"
       ],
       "file_path": "assets/batch_030/VAL-EP001-IMG0300.png",
-      "qc_status": "HELD_FOR_RERENDER"
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "drive_file_id": "1WMhQBrXEdP22WmmGLTo9DlHX3oduaFRH",
+      "drive_url": "https://drive.google.com/file/d/1WMhQBrXEdP22WmmGLTo9DlHX3oduaFRH/view?usp=drivesdk",
+      "md5": "cc051484e54f94688a635dea140a6b6c",
+      "size_bytes": 1528565,
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved on the second rerender. Pass 1 had the elder in an ankle-length flared coat with the hood up (the Batch 029 failure recurring); pass 2 fixed the coat to knee length with trousers and boots visible but left a pink bald patch on his crown; pass 3 keeps the correct knee-length silhouette and gives him a full head of hair to the nape. Reframed from a 1376x744 image area to full-bleed 1376x768 to strip 12 px letterbox bars."
     }
   ]
 }

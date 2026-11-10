@@ -34,10 +34,11 @@
     26,
     27,
     28,
-    29
+    29,
+    30
   ],
-  "next_batch": 30,
-  "next_image_number": 291,
+  "next_batch": 31,
+  "next_image_number": 301,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1917,8 +1918,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-10T12:20:00Z",
-  "verified_progress_percent": 28.19,
+  "last_updated": "2026-11-10T13:05:00Z",
+  "verified_progress_percent": 29.14,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3614,7 +3615,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 296,
+  "verified_image_count": 306,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -5435,5 +5436,217 @@
       "upload_checksum_verified": true
     }
   ],
-  "batch_030_status": "IN_PROGRESS_8_OF_10_APPROVED_UPLOADED_2_RERENDER_PENDING"
+  "batch_030_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_030_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0291",
+      "timestamp": "09:40–09:42",
+      "narration_slice": "shun the sulfurous vents",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1YXnlZTjaocjaLAQEHldWurI_krkO44Hn",
+      "drive_url": "https://drive.google.com/file/d/1YXnlZTjaocjaLAQEHldWurI_krkO44Hn/view?usp=drivesdk",
+      "md5": "1e25c04d24ef326d02a4fe866f1566b0",
+      "size_bytes": 2492506,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0292",
+      "timestamp": "09:42–09:44",
+      "narration_slice": "above the tree line. Yet",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1o7eRqnBblFt_aZKhe8g5_xgBhF1uJhC5",
+      "drive_url": "https://drive.google.com/file/d/1o7eRqnBblFt_aZKhe8g5_xgBhF1uJhC5/view?usp=drivesdk",
+      "md5": "1c6a4ec8c827029d94f9764754cb462e",
+      "size_bytes": 2275519,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0293",
+      "timestamp": "09:44–09:46",
+      "narration_slice": "seasons turn, flocks stray",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1vggUU72oiGvybah97jJy4PYUwjI4jJEM",
+      "drive_url": "https://drive.google.com/file/d/1vggUU72oiGvybah97jJy4PYUwjI4jJEM/view?usp=drivesdk",
+      "md5": "6e9ba5b4ebc3340b0e5b8da7340787da",
+      "size_bytes": 2837368,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0294",
+      "timestamp": "09:46–09:48",
+      "narration_slice": "toward high mineral licks, and",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1DQk1mfwsGymPWOR7ul2c-T47yzhSOSns",
+      "drive_url": "https://drive.google.com/file/d/1DQk1mfwsGymPWOR7ul2c-T47yzhSOSns/view?usp=drivesdk",
+      "md5": "22d6c4060735b09d06b7912c159a42d5",
+      "size_bytes": 2628936,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0295",
+      "timestamp": "09:48–09:50",
+      "narration_slice": "bold young herdsmen inevitably",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1JMqBr1HMUvTPxD-ydqh7V7cbnHP8dTLT",
+      "drive_url": "https://drive.google.com/file/d/1JMqBr1HMUvTPxD-ydqh7V7cbnHP8dTLT/view?usp=drivesdk",
+      "md5": "ef541412e070009dd548c1d4908a6d42",
+      "size_bytes": 2434482,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0296",
+      "timestamp": "09:50–09:52",
+      "narration_slice": "climb higher than their",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1fSg2M5ovuDemx8knqak5y7AicPw1JrMy",
+      "drive_url": "https://drive.google.com/file/d/1fSg2M5ovuDemx8knqak5y7AicPw1JrMy/view?usp=drivesdk",
+      "md5": "21c8dfb684b5bb066110c1a35316ef43",
+      "size_bytes": 2627251,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0297",
+      "timestamp": "09:52–09:54",
+      "narration_slice": "fathers dared—up into the black",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1E3V2v132H3vJuhD-UgJqtsKA8UiBLUQr",
+      "drive_url": "https://drive.google.com/file/d/1E3V2v132H3vJuhD-UgJqtsKA8UiBLUQr/view?usp=drivesdk",
+      "md5": "3cb17b8a370b67bc91f3074a3730d157",
+      "size_bytes": 2919922,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0298",
+      "timestamp": "09:54–09:56",
+      "narration_slice": "basalt throats of the",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1MKHjh8bdSwKBFluTXZ3yfv6DdGPNYd1h",
+      "drive_url": "https://drive.google.com/file/d/1MKHjh8bdSwKBFluTXZ3yfv6DdGPNYd1h/view?usp=drivesdk",
+      "md5": "6065983680ae342e1a8b4cdbecae664d",
+      "size_bytes": 2531678,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0299",
+      "timestamp": "09:56–09:58",
+      "narration_slice": "Fourteen Flames, where sheep began",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1jIOFwXqpgIOZgPFX6FFqBNlXARwJOL5H",
+      "drive_url": "https://drive.google.com/file/d/1jIOFwXqpgIOZgPFX6FFqBNlXARwJOL5H/view?usp=drivesdk",
+      "md5": "817080523637d27974bef1a34bd5e92a",
+      "size_bytes": 2429074,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0300",
+      "timestamp": "09:58–10:00",
+      "narration_slice": "vanishing without a trace.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1WMhQBrXEdP22WmmGLTo9DlHX3oduaFRH",
+      "drive_url": "https://drive.google.com/file/d/1WMhQBrXEdP22WmmGLTo9DlHX3oduaFRH/view?usp=drivesdk",
+      "md5": "cc051484e54f94688a635dea140a6b6c",
+      "size_bytes": 1528565,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ]
 }
