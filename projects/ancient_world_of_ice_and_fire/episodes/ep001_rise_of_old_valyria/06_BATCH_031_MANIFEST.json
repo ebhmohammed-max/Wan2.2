@@ -11,18 +11,11 @@
   "batch_timespan": "10:00–10:20",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "IN_PROGRESS_8_OF_10_APPROVED_UPLOADED_2_RERENDER_PENDING",
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0303",
-    "VAL-EP001-IMG0309"
-  ],
-  "pending_reasons": {
-    "VAL-EP001-IMG0303": "The elder in the two-figure foreground has a bald crown with a pink scalp showing between thin hair, and his cloak falls to the ankles. This is the third batch running in which he has drifted bald or long-coated. Must be rerendered with a full head of hair described as covering the crown, plus explicit no-baldness and knee-length-cloak negations.",
-    "VAL-EP001-IMG0309": "Same failure in the crowd: the elder on the left of the group has a bald pink crown and an ankle-length cloak. Must be rerendered with every head described as fully haired and every cloak described as knee length, with baldness negated for the whole group."
-  },
-  "visual_qc_note": "Eight of ten frames passed visual review, are 1376x768 sRGB PNGs, are uploaded to Drive folder 1XqRVZAcPjVjPK7EjcQaYLWCxE4yvfYTF and each Drive MD5 matches its local file. IMG0303 and IMG0310 arrived with 12 px letterbox bars, and IMG0307 with a hairline strip, all reframed to full-bleed before review. Two frames are held for rerender because the elder drifted bald and long-coated in both. Director's boundaries held across all ten: no dragon, no dragon silhouette and no reptile appears anywhere, since DRG-VAL-001 is introduced at IMG0316; and no bones, skulls or corpses appear, since the charred-remains line lands at IMG0311-0315. The chamber reads as raw chaotic geology, never as built architecture. Two new flags: small orange vent glints in IMG0305 and IMG0308 read as scattered firelight at that blur and must not become a visible lava source; and the lowland pasture in IMG0304 is markedly sunnier than the Batches 028-030 palette and must not brighten further.",
-  "verified_episode_frames_after_batch": 306,
-  "verified_episode_percent_after_batch": "29.14%",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten frames passed visual review, are 1376x768 sRGB PNGs, are uploaded to Drive folder 1XqRVZAcPjVjPK7EjcQaYLWCxE4yvfYTF, and each Drive MD5 matches its local file; Drive lists exactly ten images. Eight passed first time; IMG0303 and IMG0310 were letterboxed and IMG0307 had a hairline strip, all reframed to full-bleed before review. IMG0303 and IMG0309 were held for rerender: the elder drifted bald-crowned and long-coated for the third consecutive batch, and IMG0309 then took four attempts (bald crown, then long cloak with a floating artifact, then a snow-reading pale ground crust, then a row of identical hooded silhouettes). Director's boundaries held across all ten: no dragon, dragon silhouette or reptile anywhere, since DRG-VAL-001 is introduced at IMG0316; no bones, skulls or corpses, since the charred-remains line lands at IMG0311-0315; and the chamber reads as raw chaotic geology rather than built architecture. Standing flags: the elder's baldness and long-coat drift is unresolved after three batches and must be checked at 300% on every frame he appears in; small orange vent glints in IMG0305 and IMG0308 read as scattered firelight and must not become a visible lava source; the lowland pasture in IMG0304 is sunnier than the Batches 028-030 palette and must not brighten further; and pale ash crust on black ground must never be rendered light enough to read as snow, which is how IMG0309 failed one pass.",
+  "verified_episode_frames_after_batch": 316,
+  "verified_episode_percent_after_batch": "30.10%",
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0301",
@@ -79,7 +72,13 @@
         "CHAR-VAL-002"
       ],
       "file_path": "assets/batch_031/VAL-EP001-IMG0303.png",
-      "qc_status": "HELD_FOR_RERENDER"
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "drive_file_id": "1SIO_9CYZdGAog79BxUU66NOwWH8qcA3Q",
+      "drive_url": "https://drive.google.com/file/d/1SIO_9CYZdGAog79BxUU66NOwWH8qcA3Q/view?usp=drivesdk",
+      "md5": "8c0ac8c731d4fdac6f5c92c78592deb5",
+      "size_bytes": 2741008,
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved on the rerender. The first pass gave both foreground figures a bald pink crown and ankle-length cloaks; the approved frame shows three figures from behind on the cracked black-glass floor, every head fully haired, and the elder's cloak ending above his boot tops with trousers and boots visible."
     },
     {
       "scene_id": "VAL-EP001-IMG0304",
@@ -199,7 +198,13 @@
         "CHAR-VAL-002"
       ],
       "file_path": "assets/batch_031/VAL-EP001-IMG0309.png",
-      "qc_status": "HELD_FOR_RERENDER"
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "drive_file_id": "1Qns-OHUSl8hoQwCcXMBtVd4xeEWOoGlf",
+      "drive_url": "https://drive.google.com/file/d/1Qns-OHUSl8hoQwCcXMBtVd4xeEWOoGlf/view?usp=drivesdk",
+      "md5": "2010440ec1b9ea27968e7177e346cd9d",
+      "size_bytes": 2525517,
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved on the fourth attempt. Pass 1 had the elder bald-crowned with an ankle-length cloak; pass 2 fixed the head but kept the long cloak and added a floating pale blade artifact, bright blonde drift and near-black garments; pass 3 replaced blonde and black but rendered the ground as a pale grey crust that read as snow, then turned the whole group into a row of identical hooded silhouettes. The approved frame scatters five figures at different distances and heights, each in a different posture, heads turned away, hair cool silver-white, garments short and varied, and the ground pure matte black basalt."
     },
     {
       "scene_id": "VAL-EP001-IMG0310",

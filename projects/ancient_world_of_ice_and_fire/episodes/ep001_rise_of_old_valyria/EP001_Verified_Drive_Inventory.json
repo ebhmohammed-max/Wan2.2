@@ -35,10 +35,11 @@
     27,
     28,
     29,
-    30
+    30,
+    31
   ],
-  "next_batch": 31,
-  "next_image_number": 301,
+  "next_batch": 32,
+  "next_image_number": 311,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1919,8 +1920,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-10T13:05:00Z",
-  "verified_progress_percent": 29.14,
+  "last_updated": "2026-11-10T14:10:00Z",
+  "verified_progress_percent": 30.1,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3616,7 +3617,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 306,
+  "verified_image_count": 316,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -5650,5 +5651,207 @@
       "upload_checksum_verified": true
     }
   ],
-  "batch_031_status": "IN_PROGRESS_8_OF_10_APPROVED_UPLOADED_2_RERENDER_PENDING"
+  "batch_031_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_031_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0301",
+      "timestamp": "10:00–10:02",
+      "narration_slice": "Above six thousand feet",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1BIKpLrCc_Yfq1muEk1BKpmyb0QYPT7MP",
+      "drive_url": "https://drive.google.com/file/d/1BIKpLrCc_Yfq1muEk1BKpmyb0QYPT7MP/view?usp=drivesdk",
+      "md5": "22bd3a08584684868eda6bd194bbadf8",
+      "size_bytes": 2233256,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0302",
+      "timestamp": "10:02–10:04",
+      "narration_slice": "on the slopes of the",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "13GQT8ISrd4ndQwj4Msp-oiZlFpdFIwFE",
+      "drive_url": "https://drive.google.com/file/d/13GQT8ISrd4ndQwj4Msp-oiZlFpdFIwFE/view?usp=drivesdk",
+      "md5": "673ed6cbe602a9c05cb1bc4cf6ddf343",
+      "size_bytes": 2630817,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0303",
+      "timestamp": "10:04–10:06",
+      "narration_slice": "Fourteen Flames, the world",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1SIO_9CYZdGAog79BxUU66NOwWH8qcA3Q",
+      "drive_url": "https://drive.google.com/file/d/1SIO_9CYZdGAog79BxUU66NOwWH8qcA3Q/view?usp=drivesdk",
+      "md5": "8c0ac8c731d4fdac6f5c92c78592deb5",
+      "size_bytes": 2741008,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0304",
+      "timestamp": "10:06–10:08",
+      "narration_slice": "of grass and olive trees",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1e8f2qpqYAU2O9RoXHbrN11DHpz1azNWj",
+      "drive_url": "https://drive.google.com/file/d/1e8f2qpqYAU2O9RoXHbrN11DHpz1azNWj/view?usp=drivesdk",
+      "md5": "920036c947acac32f53f03c9e0df7a8e",
+      "size_bytes": 2472200,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0305",
+      "timestamp": "10:08–10:10",
+      "narration_slice": "died abruptly. In its",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1PhRTlhuodHHdK-uQQ-8VmXWyWsGuKleE",
+      "drive_url": "https://drive.google.com/file/d/1PhRTlhuodHHdK-uQQ-8VmXWyWsGuKleE/view?usp=drivesdk",
+      "md5": "5eb17a07703d578087c81b49a57679f3",
+      "size_bytes": 2610878,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0306",
+      "timestamp": "10:10–10:12",
+      "narration_slice": "place stretched a cathedral",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1F7dLm7LtSLDfSRA_VH2srYcfqAYsk5ht",
+      "drive_url": "https://drive.google.com/file/d/1F7dLm7LtSLDfSRA_VH2srYcfqAYsk5ht/view?usp=drivesdk",
+      "md5": "5bcc3e19fe5578399a28f6d57bcc3903",
+      "size_bytes": 2304990,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0307",
+      "timestamp": "10:12–10:14",
+      "narration_slice": "of shattered black glass, hexagonal",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1Ipa5GhMCnZiYxv-9LCzrKzq4Tn9Q2rkY",
+      "drive_url": "https://drive.google.com/file/d/1Ipa5GhMCnZiYxv-9LCzrKzq4Tn9Q2rkY/view?usp=drivesdk",
+      "md5": "587370ca6460b4e30aeb630b23182169",
+      "size_bytes": 1627683,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0308",
+      "timestamp": "10:14–10:16",
+      "narration_slice": "basalt pillars, and steaming",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "12UpvtLtXolrzKb-GRskZzS7du0mKEwti",
+      "drive_url": "https://drive.google.com/file/d/12UpvtLtXolrzKb-GRskZzS7du0mKEwti/view?usp=drivesdk",
+      "md5": "8080e525e37c4c3c5deaae50a2be326e",
+      "size_bytes": 2633436,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0309",
+      "timestamp": "10:16–10:18",
+      "narration_slice": "yellow sulfur fissures. Here, where",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1Qns-OHUSl8hoQwCcXMBtVd4xeEWOoGlf",
+      "drive_url": "https://drive.google.com/file/d/1Qns-OHUSl8hoQwCcXMBtVd4xeEWOoGlf/view?usp=drivesdk",
+      "md5": "2010440ec1b9ea27968e7177e346cd9d",
+      "size_bytes": 2525517,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0310",
+      "timestamp": "10:18–10:20",
+      "narration_slice": "the mountain air tasted",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "drive_file_id": "1_69x8XvuZvBdPf38TD__z-rvRD4LPIOk",
+      "drive_url": "https://drive.google.com/file/d/1_69x8XvuZvBdPf38TD__z-rvRD4LPIOk/view?usp=drivesdk",
+      "md5": "294d3efb996a64a202a46bd6a918f259",
+      "size_bytes": 1633592,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ]
 }
