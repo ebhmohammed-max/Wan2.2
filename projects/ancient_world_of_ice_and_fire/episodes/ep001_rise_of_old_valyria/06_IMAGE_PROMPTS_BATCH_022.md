@@ -6,7 +6,7 @@
 
 **Visual standard:** Photoreal live-action 65mm historical cinema, ARRI Alexa 65, Panavision Primo spherical primes, Kodak Vision3 500T, realistic physically grounded subterranean volcanic geology, muted warm sandstone highlights and ink-navy shadows, restrained natural film grain, realistic dark exposure.
 **Continuity:** Continue directly from Batch 021’s deep, enclosed volcanic fissures. Move from geological clues and ancient accounts to a gradual, anatomically consistent firewyrm reveal; all environments remain underground with no visible surface sky. `CRT-VAL-001` is pale, blind, cylindrical, ring-segmented, wingless and legless, with a blunt heat-sensing head and restrained fire-breath. No actual Valyrian miners or modern mine infrastructure.
-**Render/QC status:** Six frames (IMG0212, IMG0214–IMG0218) visually approved, uploaded and MD5-verified. Four frames require rerender: IMG0211, IMG0213, IMG0219 and IMG0220; reasons are documented in the manifest and QC report.
+**Render/QC status:** Batch complete — all ten frames visually approved, `1376x768` sRGB PNGs, uploaded and MD5-verified in Drive. IMG0211, IMG0213, IMG0219 and IMG0220 were rerendered (approved v2 prompts retained below) after the first pass produced constructed-tunnel looks, modern-looking miners, wrong creature anatomy and a missed juvenile scale cue.
 
 ## PROMPT 211 — `VAL-EP001-IMG0211`
 
@@ -14,7 +14,7 @@
 2. **Episode:** EP001 — *Before the Dragons: The Rise of Old Valyria*
 3. **Timestamp:** `07:00–07:02`
 4. **Narration reference:** “Surviving accounts preserved by”
-5. **Main subject:** A dramatic low-angle view looking upward through an immense naturally fractured volcanic-rock chamber: a deep worm-bore curves through black basalt, with pale mineral dust shaken from the ceiling and a dim, restrained warm reflection far below. Ancient scale and geological pressure; no creature fully shown yet.
+5. **Main subject:** A dramatic low-angle view looking upward through an immense irregular natural volcanic fissure: fractured black basalt walls twist asymmetrically with jagged shelves and mineral strata, fine pale grit falling from a high crack, vast ink-black depth beyond with only a subdued warm reflection far below. Ancient scale and geological pressure; no creature shown yet. The opening must read as a natural rock fissure, never a circular bore, ringed tunnel or cut passage.
 6. **Creature continuity:** The firewyrm is a pale, blind, cylindrical burrowing creature with subtle armor rings, a blunt heat-sensing head, no visible eyes, no legs and no wings. It is not a dragon; no limbs, horns or human facial features.
 7. **Environment:** `LOC-VAL-005` — natural enclosed subterranean fissures beneath the Fourteen Flames; firewyrm presence `CRT-VAL-001`.
 8. **Camera:** Low-angle monumental architectural / geological framing — Blind wingless Firewyrms boring through superheated rock; Panavision Primo 28mm, realistic large-format perspective.
@@ -48,7 +48,7 @@
 2. **Episode:** EP001 — *Before the Dragons: The Rise of Old Valyria*
 3. **Timestamp:** `07:04–07:06`
 4. **Narration reference:** “and studied at the”
-5. **Main subject:** Deep-focus wide composition inside a vast enclosed subterranean chamber: fractured basalt shelves, natural mineral seams, a smooth winding tunnel bored through solid rock, subtle dust in the air and a faint distant pale segmented shape barely visible in darkness. The cave is completely underground with no sky or surface opening.
+5. **Main subject:** Deep-focus wide composition inside a vast enclosed natural subterranean chamber: fractured basalt shelves, irregular rock columns and branching cracks, natural mineral seams and subtle dust in the air, with only a faint pale curved impression barely moving in a distant black crevice. The cave is completely underground with no sky or surface opening. No humans or miners, no tools or clothing, no lamps, and no creature anatomy clearly readable.
 6. **Creature continuity:** The firewyrm is a pale, blind, cylindrical burrowing creature with subtle armor rings, a blunt heat-sensing head, no visible eyes, no legs and no wings. It is not a dragon; no limbs, horns or human facial features.
 7. **Environment:** `LOC-VAL-005` — natural enclosed subterranean fissures beneath the Fourteen Flames; firewyrm presence `CRT-VAL-001`.
 8. **Camera:** Deep-focus wide atmospheric composition — Blind wingless Firewyrms boring through superheated rock; Panavision Primo 28mm, realistic large-format perspective.
@@ -150,7 +150,7 @@
 2. **Episode:** EP001 — *Before the Dragons: The Rise of Old Valyria*
 3. **Timestamp:** `07:16–07:18`
 4. **Narration reference:** “magma crust. Young wyrms grew”
-5. **Main subject:** Wide environmental tableau of an immense lightless subterranean chamber beneath a dark, solid magma crust: a long sinuous bore tunnel runs through layered basalt and obsidian, a distant pale firewyrm moving within it, the scale conveyed by towering rock formations. No exposed sky, no landscape surface, no lava lake or eruption.
+5. **Main subject:** Wide environmental tableau of an immense lightless subterranean chamber beneath a dark, solid magma crust: layered natural basalt shelves, fractured obsidian and irregular rock columns rise out of the dark, with a distant pale firewyrm only a slender curve vanishing behind a natural fissure. Scale comes from the towering rock formations. No exposed sky, no landscape surface, no lava lake or eruption, and no tunnel walls or circular bore.
 6. **Creature continuity:** The firewyrm is a pale, blind, cylindrical burrowing creature with subtle armor rings, a blunt heat-sensing head, no visible eyes, no legs and no wings. It is not a dragon; no limbs, horns or human facial features.
 7. **Environment:** `LOC-VAL-005` — natural enclosed subterranean fissures beneath the Fourteen Flames; firewyrm presence `CRT-VAL-001`.
 8. **Camera:** Wide environmental storytelling tableau — Blind wingless Firewyrms boring through superheated rock; Panavision Primo 35mm, realistic large-format perspective.
@@ -167,7 +167,7 @@
 2. **Episode:** EP001 — *Before the Dragons: The Rise of Old Valyria*
 3. **Timestamp:** `07:18–07:20`
 4. **Narration reference:** “no thicker than a”
-5. **Main subject:** High-elevation scale reveal looking down into an enclosed rock-boring tunnel where a small juvenile firewyrm briefly emerges from a narrow crack. It is a delicate pale segmented cylinder only about five centimetres thick, blind, wingless and legless, contrasting with the enormous adult-sized bore around it; no people, no surface sky, no dragon features.
+5. **Main subject:** High-angle scale reveal in a rough, naturally fractured basalt chamber: a juvenile firewyrm cautiously protrudes from an irregular hairline crack — a pale blind ring-segmented cylinder roughly the width of a child's forearm, its blunt head no larger than a hand. Nearby broken rock and a broad rough natural fissure imply the passages of ancient adult wyrms, giving an unmistakable size cue. No people, no surface sky, no dragon features, no regular constructed tunnel.
 6. **Creature continuity:** The firewyrm is a pale, blind, cylindrical burrowing creature with subtle armor rings, a blunt heat-sensing head, no visible eyes, no legs and no wings. It is not a dragon; no limbs, horns or human facial features.
 7. **Environment:** `LOC-VAL-005` — natural enclosed subterranean fissures beneath the Fourteen Flames; firewyrm presence `CRT-VAL-001`.
 8. **Camera:** High-elevation geographic / scale reveal — Blind wingless Firewyrms boring through superheated rock; Panavision Primo 24mm, realistic large-format perspective.

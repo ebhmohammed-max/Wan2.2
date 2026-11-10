@@ -13,14 +13,9 @@
   "batch_timespan": "07:00–07:20",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "6_OF_10_APPROVED_UPLOADED_MD5_VERIFIED_4_RERENDERS_PENDING",
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0211",
-    "VAL-EP001-IMG0213",
-    "VAL-EP001-IMG0219",
-    "VAL-EP001-IMG0220"
-  ],
-  "visual_qc_note": "Six frames (IMG0212, IMG0214–IMG0218) passed visual review, are 1376x768 sRGB PNGs, and were uploaded with matching Drive/local MD5s. Four initial renders were rejected: IMG0211 and IMG0219 read as constructed tunnels; IMG0213 contains modern-looking miners and incorrect creature anatomy; IMG0220 duplicates the tunnel look and lacks the juvenile scale beat. Rerender only IMG0211, IMG0213, IMG0219 and IMG0220. Drive currently contains exactly six approved frame uploads; do not mark Batch 022 complete until all ten pass visual QC and checksum verification.",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten frames passed visual review, are 1376x768 sRGB PNGs, are uploaded to Drive folder 1KTaABRWYhUZKbdNpjsmxl08Iq3k3YWaQ, and each Drive MD5 matches its local file. IMG0211, IMG0213, IMG0219 and IMG0220 were rerendered after the first pass: IMG0211 and IMG0219 had read as constructed tunnels, IMG0213 had added modern-looking miners and wrong creature anatomy, and IMG0220 had repeated the tunnel composition and missed the juvenile scale beat.",
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0211",
@@ -36,16 +31,16 @@
         "LOC-VAL-005"
       ],
       "file_path": "assets/batch_022/VAL-EP001-IMG0211.png",
-      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
-      "size_bytes": null,
-      "md5": null,
-      "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "Rendered as a formally ringed, constructed-looking tunnel with artificial lamps, rather than a natural geological chamber."
+      "size_bytes": 2223752,
+      "md5": "13f3fac7c8a185bd7b4cecdf922361f3",
+      "resolution": "1376x768",
+      "drive_file_id": "1XaEjBH2Lb96rQJ7vY3p9dHcHw_IKPhPO",
+      "drive_url": "https://drive.google.com/file/d/1XaEjBH2Lb96rQJ7vY3p9dHcHw_IKPhPO/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: irregular natural volcanic fissure with fractured basalt and falling grit; no tunnel rings, lamps or architecture."
     },
     {
       "scene_id": "VAL-EP001-IMG0212",
@@ -86,16 +81,16 @@
         "LOC-VAL-005"
       ],
       "file_path": "assets/batch_022/VAL-EP001-IMG0213.png",
-      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
-      "size_bytes": null,
-      "md5": null,
-      "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "Added a group of modern-looking miners and a cave monster with eye-like features; violates period and creature continuity."
+      "size_bytes": 1773963,
+      "md5": "a80c36d07eefc2744bed86f2bd8c8ce9",
+      "resolution": "1376x768",
+      "drive_file_id": "1eWKj-Czt9Ea2KlhbcAwaL1F_N4rmXbT3",
+      "drive_url": "https://drive.google.com/file/d/1eWKj-Czt9Ea2KlhbcAwaL1F_N4rmXbT3/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: vast natural basalt chamber, no humans, no miners, no creature anatomy on show."
     },
     {
       "scene_id": "VAL-EP001-IMG0214",
@@ -236,16 +231,16 @@
         "LOC-VAL-005"
       ],
       "file_path": "assets/batch_022/VAL-EP001-IMG0219.png",
-      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
-      "size_bytes": null,
-      "md5": null,
-      "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "Reads as a constructed tunnel and undershoots the promised vast magma-crust scale."
+      "size_bytes": 1875603,
+      "md5": "885a36895448fa12f09134fcec451939",
+      "resolution": "1376x768",
+      "drive_file_id": "1XwK62QZo71ZWOweQx5AqaXNm1lxXBBNw",
+      "drive_url": "https://drive.google.com/file/d/1XwK62QZo71ZWOweQx5AqaXNm1lxXBBNw/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: immense natural layered basalt cavern; pale firewyrm only a distant slender curve, no constructed bore."
     },
     {
       "scene_id": "VAL-EP001-IMG0220",
@@ -261,16 +256,18 @@
         "LOC-VAL-005"
       ],
       "file_path": "assets/batch_022/VAL-EP001-IMG0220.png",
-      "qc_status": "RERENDER_REQUIRED_VISUAL_QC_REJECTED",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
       "chapter": "Ch. II",
       "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
-      "size_bytes": null,
-      "md5": null,
-      "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "Near-duplicate of IMG0211; constructed-looking lit bore and no discernible juvenile wyrm or intended scale."
+      "size_bytes": 2266525,
+      "md5": "647e4a4aad0663dc445031b775736c06",
+      "resolution": "1376x768",
+      "drive_file_id": "1GicW9D3d8rT8OJTNodZ3gxSDFpACab_d",
+      "drive_url": "https://drive.google.com/file/d/1GicW9D3d8rT8OJTNodZ3gxSDFpACab_d/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: high-angle juvenile firewyrm emerging from an irregular hairline crack with clear forearm-scale size cue."
     }
-  ]
+  ],
+  "verified_episode_frames_after_batch": 226,
+  "verified_episode_percent_after_batch": "21.52%"
 }

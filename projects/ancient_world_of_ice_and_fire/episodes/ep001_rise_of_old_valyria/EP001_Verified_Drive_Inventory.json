@@ -26,10 +26,11 @@
     "Batch 018",
     "Batch 019",
     "Batch 020",
-    "Batch 021"
+    "Batch 021",
+    22
   ],
-  "next_batch": 22,
-  "next_image_number": 211,
+  "next_batch": 23,
+  "next_image_number": 221,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -116,7 +117,8 @@
     "batch_018": "https://drive.google.com/drive/folders/15tqAVdqCqPBuhuSyatfWHCUYYTk--_Hq",
     "batch_019": "https://drive.google.com/drive/folders/1p60C66cm_rEKBz3fw3RxgiyRFSopKWdl",
     "batch_020": "https://drive.google.com/drive/folders/1qGCm4kPxpOzc9x5Befotaj1Vq42xxkhO",
-    "batch_021": "https://drive.google.com/drive/folders/17xs4PfQxDKJ_2baNHXtv5oo86s9Tr8mZ"
+    "batch_021": "https://drive.google.com/drive/folders/17xs4PfQxDKJ_2baNHXtv5oo86s9Tr8mZ",
+    "batch_022": "https://drive.google.com/drive/folders/1KTaABRWYhUZKbdNpjsmxl08Iq3k3YWaQ"
   },
   "batch_001_images_65mm_upgraded": [
     {
@@ -1900,8 +1902,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-09T20:30:00Z",
-  "verified_progress_percent": 18.1,
+  "last_updated": "2026-11-09T21:10:00Z",
+  "verified_progress_percent": 21.52,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3597,7 +3599,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 216,
+  "verified_image_count": 226,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -3786,13 +3788,27 @@
       "upload_checksum_verified": true
     }
   ],
-  "batch_022_pending_scenes": [
-    "VAL-EP001-IMG0211",
-    "VAL-EP001-IMG0213",
-    "VAL-EP001-IMG0219",
-    "VAL-EP001-IMG0220"
-  ],
-  "batch_022_partial_verified_images": [
+  "batch_022_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0211",
+      "timestamp": "07:00–07:02",
+      "narration_slice": "Surviving accounts preserved by",
+      "shot_type": "Low-angle monumental architectural / geological framing — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Blind wingless Firewyrms boring through superheated rock",
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "drive_file_id": "1XaEjBH2Lb96rQJ7vY3p9dHcHw_IKPhPO",
+      "drive_url": "https://drive.google.com/file/d/1XaEjBH2Lb96rQJ7vY3p9dHcHw_IKPhPO/view?usp=drivesdk",
+      "md5": "13f3fac7c8a185bd7b4cecdf922361f3",
+      "size_bytes": 2223752,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
     {
       "scene_id": "VAL-EP001-IMG0212",
       "timestamp": "07:02–07:04",
@@ -3809,6 +3825,26 @@
       "drive_url": "https://drive.google.com/file/d/1mbMrguQAjQVzd-Y830iD_1i7Q6pEJNoZ/view?usp=drivesdk",
       "md5": "f2d48e0f115c6fb589c8ba028805b679",
       "size_bytes": 2328413,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0213",
+      "timestamp": "07:04–07:06",
+      "narration_slice": "and studied at the",
+      "shot_type": "Deep-focus wide atmospheric composition — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Deep-focus wide atmospheric composition — Blind wingless Firewyrms boring through superheated rock",
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "drive_file_id": "1eWKj-Czt9Ea2KlhbcAwaL1F_N4rmXbT3",
+      "drive_url": "https://drive.google.com/file/d/1eWKj-Czt9Ea2KlhbcAwaL1F_N4rmXbT3/view?usp=drivesdk",
+      "md5": "a80c36d07eefc2744bed86f2bd8c8ce9",
+      "size_bytes": 1773963,
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
@@ -3909,6 +3945,46 @@
       "drive_url": "https://drive.google.com/file/d/1HN_mLvBM71vmjrEiQ_hs69aJ6NOuPfQp/view?usp=drivesdk",
       "md5": "ece1379aae34e62cb929ceada044b0a1",
       "size_bytes": 2340609,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0219",
+      "timestamp": "07:16–07:18",
+      "narration_slice": "magma crust. Young wyrms grew",
+      "shot_type": "Wide environmental storytelling tableau — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Wide environmental storytelling tableau — Blind wingless Firewyrms boring through superheated rock",
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "drive_file_id": "1XwK62QZo71ZWOweQx5AqaXNm1lxXBBNw",
+      "drive_url": "https://drive.google.com/file/d/1XwK62QZo71ZWOweQx5AqaXNm1lxXBBNw/view?usp=drivesdk",
+      "md5": "885a36895448fa12f09134fcec451939",
+      "size_bytes": 1875603,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0220",
+      "timestamp": "07:18–07:20",
+      "narration_slice": "no thicker than a",
+      "shot_type": "High-elevation geographic / scale reveal — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "High-elevation geographic / scale reveal — Blind wingless Firewyrms boring through superheated rock",
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "drive_file_id": "1GicW9D3d8rT8OJTNodZ3gxSDFpACab_d",
+      "drive_url": "https://drive.google.com/file/d/1GicW9D3d8rT8OJTNodZ3gxSDFpACab_d/view?usp=drivesdk",
+      "md5": "647e4a4aad0663dc445031b775736c06",
+      "size_bytes": 2266525,
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
