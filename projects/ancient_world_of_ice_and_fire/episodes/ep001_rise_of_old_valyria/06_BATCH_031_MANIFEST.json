@@ -1,0 +1,226 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1XqRVZAcPjVjPK7EjcQaYLWCxE4yvfYTF",
+  "batch_number": 31,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "10:00–10:20",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "IN_PROGRESS_8_OF_10_APPROVED_UPLOADED_2_RERENDER_PENDING",
+  "pending_completion_scenes": [
+    "VAL-EP001-IMG0303",
+    "VAL-EP001-IMG0309"
+  ],
+  "pending_reasons": {
+    "VAL-EP001-IMG0303": "The elder in the two-figure foreground has a bald crown with a pink scalp showing between thin hair, and his cloak falls to the ankles. This is the third batch running in which he has drifted bald or long-coated. Must be rerendered with a full head of hair described as covering the crown, plus explicit no-baldness and knee-length-cloak negations.",
+    "VAL-EP001-IMG0309": "Same failure in the crowd: the elder on the left of the group has a bald pink crown and an ankle-length cloak. Must be rerendered with every head described as fully haired and every cloak described as knee length, with baldness negated for the whole group."
+  },
+  "visual_qc_note": "Eight of ten frames passed visual review, are 1376x768 sRGB PNGs, are uploaded to Drive folder 1XqRVZAcPjVjPK7EjcQaYLWCxE4yvfYTF and each Drive MD5 matches its local file. IMG0303 and IMG0310 arrived with 12 px letterbox bars, and IMG0307 with a hairline strip, all reframed to full-bleed before review. Two frames are held for rerender because the elder drifted bald and long-coated in both. Director's boundaries held across all ten: no dragon, no dragon silhouette and no reptile appears anywhere, since DRG-VAL-001 is introduced at IMG0316; and no bones, skulls or corpses appear, since the charred-remains line lands at IMG0311-0315. The chamber reads as raw chaotic geology, never as built architecture. Two new flags: small orange vent glints in IMG0305 and IMG0308 read as scattered firelight at that blur and must not become a visible lava source; and the lowland pasture in IMG0304 is markedly sunnier than the Batches 028-030 palette and must not brighten further.",
+  "verified_episode_frames_after_batch": 306,
+  "verified_episode_percent_after_batch": "29.14%",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0301",
+      "timestamp": "10:00–10:02",
+      "narration_slice": "Above six thousand feet",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_031/VAL-EP001-IMG0301.png",
+      "drive_file_id": "1BIKpLrCc_Yfq1muEk1BKpmyb0QYPT7MP",
+      "drive_url": "https://drive.google.com/file/d/1BIKpLrCc_Yfq1muEk1BKpmyb0QYPT7MP/view?usp=drivesdk",
+      "md5": "22bd3a08584684868eda6bd194bbadf8",
+      "size_bytes": 2233256,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. The shattered wall of leaning columns with one tall pillar reads as raw geology, deliberately chaotic rather than a colonnade. Herdsman small and low with his back to camera, pale hair and spear on model."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0302",
+      "timestamp": "10:02–10:04",
+      "narration_slice": "on the slopes of the",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_031/VAL-EP001-IMG0302.png",
+      "drive_file_id": "13GQT8ISrd4ndQwj4Msp-oiZlFpdFIwFE",
+      "drive_url": "https://drive.google.com/file/d/13GQT8ISrd4ndQwj4Msp-oiZlFpdFIwFE/view?usp=drivesdk",
+      "md5": "673ed6cbe602a9c05cb1bc4cf6ddf343",
+      "size_bytes": 2630817,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. OTS with the elder's sheepskin shoulder and crook soft in the near foreground; the boy alone at the base of the tallest column. No baldness visible at this crop because only the ear and temple show."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0303",
+      "timestamp": "10:04–10:06",
+      "narration_slice": "Fourteen Flames, the world",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_031/VAL-EP001-IMG0303.png",
+      "qc_status": "HELD_FOR_RERENDER"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0304",
+      "timestamp": "10:06–10:08",
+      "narration_slice": "of grass and olive trees",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_031/VAL-EP001-IMG0304.png",
+      "drive_file_id": "1e8f2qpqYAU2O9RoXHbrN11DHpz1azNWj",
+      "drive_url": "https://drive.google.com/file/d/1e8f2qpqYAU2O9RoXHbrN11DHpz1azNWj/view?usp=drivesdk",
+      "md5": "920036c947acac32f53f03c9e0df7a8e",
+      "size_bytes": 2472200,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass, with a flag: the green lowlands are lush and sunlit compared with the palette of Batches 028-030, and the sea reads as a lake at this angle. Accepted because the contrast is the point of the shot — but Batch 032 must not let the pasture drift sunnier than this."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0305",
+      "timestamp": "10:08–10:10",
+      "narration_slice": "died abruptly. In its",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_031/VAL-EP001-IMG0305.png",
+      "drive_file_id": "1PhRTlhuodHHdK-uQQ-8VmXWyWsGuKleE",
+      "drive_url": "https://drive.google.com/file/d/1PhRTlhuodHHdK-uQQ-8VmXWyWsGuKleE/view?usp=drivesdk",
+      "md5": "5eb17a07703d578087c81b49a57679f3",
+      "size_bytes": 2610878,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. Strict side profile with the gaze lifted up and away: no eye to camera. Hair reads cool pale silver-gold (#EFE8D8) and only a single narrow temple braid is visible — within lock. Flag: two small orange glints sit in the deep background bokeh (a vent's warm reflection); they read as scattered firelight at this blur and must not become a visible lava source."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0306",
+      "timestamp": "10:10–10:12",
+      "narration_slice": "place stretched a cathedral",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_031/VAL-EP001-IMG0306.png",
+      "drive_file_id": "1F7dLm7LtSLDfSRA_VH2srYcfqAYsk5ht",
+      "drive_url": "https://drive.google.com/file/d/1F7dLm7LtSLDfSRA_VH2srYcfqAYsk5ht/view?usp=drivesdk",
+      "md5": "5bcc3e19fe5578399a28f6d57bcc3903",
+      "size_bytes": 2304990,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. Both men mid-stride at three-quarter rear, elder bareheaded with a full head of hair and a knee-length cloak, trousers and boots visible below the hem; sulphur seams give the only warm light."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0307",
+      "timestamp": "10:12–10:14",
+      "narration_slice": "of shattered black glass, hexagonal",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_031/VAL-EP001-IMG0307.png",
+      "drive_file_id": "1Ipa5GhMCnZiYxv-9LCzrKzq4Tn9Q2rkY",
+      "drive_url": "https://drive.google.com/file/d/1Ipa5GhMCnZiYxv-9LCzrKzq4Tn9Q2rkY/view?usp=drivesdk",
+      "md5": "587370ca6460b4e30aeb630b23182169",
+      "size_bytes": 1627683,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass, reframed from a 1376x744 image area to full-bleed to strip 12 px letterbox bars. Rear view cropped at the shoulders so no face reads; faceted columns stack flat under the 65mm compression. Flag: the shaft beside him reads as a plain spear and the tip sits below frame, so the bronze reads weak — acceptable, since the weapon is not the subject."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0308",
+      "timestamp": "10:14–10:16",
+      "narration_slice": "basalt pillars, and steaming",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_031/VAL-EP001-IMG0308.png",
+      "drive_file_id": "12UpvtLtXolrzKb-GRskZzS7du0mKEwti",
+      "drive_url": "https://drive.google.com/file/d/12UpvtLtXolrzKb-GRskZzS7du0mKEwti/view?usp=drivesdk",
+      "md5": "8080e525e37c4c3c5deaae50a2be326e",
+      "size_bytes": 2633436,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass with two flags. The sulphur fissure reads as yellow crystalline crust with steam, which is correct, but small orange embers sit in the middle distance and must not multiply. The hair is silver-gold with two thin temple braids and no scalp plait; the face is angled down and away so no eye reads."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0309",
+      "timestamp": "10:16–10:18",
+      "narration_slice": "yellow sulfur fissures. Here, where",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_031/VAL-EP001-IMG0309.png",
+      "qc_status": "HELD_FOR_RERENDER"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0310",
+      "timestamp": "10:18–10:20",
+      "narration_slice": "the mountain air tasted",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — High basalt pillars & charred bones fused into black glass",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_031/VAL-EP001-IMG0310.png",
+      "drive_file_id": "1_69x8XvuZvBdPf38TD__z-rvRD4LPIOk",
+      "drive_url": "https://drive.google.com/file/d/1_69x8XvuZvBdPf38TD__z-rvRD4LPIOk/view?usp=drivesdk",
+      "md5": "294d3efb996a64a202a46bd6a918f259",
+      "size_bytes": 1633592,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass, reframed from a 1376x744 image area to full-bleed. The caldera reads as a black scar with column teeth along the rim and a long steam plume; two figures as specks on the near rim; green terraces and sea beyond. No buildings, roads or field grid."
+    }
+  ]
+}
