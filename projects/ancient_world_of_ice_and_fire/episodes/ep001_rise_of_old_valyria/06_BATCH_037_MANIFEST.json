@@ -12,26 +12,17 @@
   "batch_timespan": "12:00–12:20",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "IN_PROGRESS_2_OF_10_APPROVED_UPLOADED",
-  "approved_count": 2,
-  "approved_uploaded_count": 2,
-  "drive_verified_count": 2,
-  "pending_rerender_count": 3,
-  "pending_generate_count": 5,
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0362",
-    "VAL-EP001-IMG0363",
-    "VAL-EP001-IMG0364",
-    "VAL-EP001-IMG0366",
-    "VAL-EP001-IMG0367",
-    "VAL-EP001-IMG0368",
-    "VAL-EP001-IMG0369",
-    "VAL-EP001-IMG0370"
-  ],
-  "generations_used": 10,
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "approved_uploaded_count": 10,
+  "drive_verified_count": 10,
+  "pending_rerender_count": 0,
+  "pending_generate_count": 0,
+  "pending_completion_scenes": [],
+  "generations_used": 18,
   "verified_episode_frames_after_batch": 376,
   "verified_episode_percent_after_batch": "35.81%",
-  "visual_qc_note": "A new movement and a new palette: out of the black caldera and into daylit highland green, with people back in frame for the first time since Batch 033. The batch found two systemic problems fast. First, the location drifted without its architectural form written in — pass 1 gave a European pastoral postcard of gabled cottages, chimneys, boundary walls and a field grid, and was fixed by three words: round, conical, unenclosed. Second, and more serious for the rest of the episode, every flying silhouette came back as a wyvern: tiny body, whip tail, oversized thin wings, dangling clawed legs and no head, because the prompt said 'no head detail' and the head was deleted rather than hidden.",
+  "visual_qc_note": "A new movement and a new palette: out of the black caldera into daylit highland green, with people back in frame for the first time since Batch 033. Eighteen generations for ten frames, and every rejection was a silhouette problem. Two systemic faults were found and fixed: the location drifted into a European pastoral postcard until its architecture was written as round, conical and unenclosed; and every flying frame came back as a headless wyvern because the prompt said 'no head detail' and the head was deleted rather than hidden. The corrected shape signature — barrel chest, thick short neck, blunt horned wedge skull, tucked wing-arms, thick tapering tail — is now the standard for every flying frame in the episode. 0367 and 0370 are the strongest: the animal at low level with a readable skull, and the valley at scale with its two small marks of ruin.",
   "silhouette_note": "The animal now needs its shape signature stated at every distance: deep barrel chest, thick short ringed neck, heavy blunt wedge skull with a broad crocodilian snout and two swept-back horns, wing-arms folded tight against the body, long thick tapering tail. Without those five descriptors it degrades to a generic wyvern. This is the outdoor form of the same failure that produced bipeds and feathered fans indoors.",
   "letterbox_scan_note": "Per-row content-box scan run on every frame. All five carried strips and were cropped and resized back to 1376x768 (rows 12-755, 0364 arriving at rows 11-755).",
   "scenes": [
@@ -71,11 +62,13 @@
       ],
       "file_path": "assets/batch_037/VAL-EP001-IMG0362.png",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "PENDING_RERENDER",
-      "qc_note": "REJECTED. Over-the-shoulder out of the valley. The shot itself works — back of the head, loose silver-white hair, no braids, correct clothing, valley and flock beyond — but the distant animal is a wyvern: tiny narrow body, whip tail, huge thin bat wings, headless silhouette with dangling clawed legs."
+      "drive_file_id": "13yf7Yw6883qEjDO9OZhc_MCcVQGvew0Z",
+      "drive_url": "https://drive.google.com/file/d/13yf7Yw6883qEjDO9OZhc_MCcVQGvew0Z/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 3. Over-the-shoulder out of the valley: the back of a shepherd's head with loose unbound silver-white hair, ash-grey wool and brown leather, staff in hand, the valley dropping away in emerald terraces with cold mist in bands and a flock far below. The animal stooping out of the cloud now reads correctly — deep barrel chest, thick short ringed neck, heavy blunt wedge skull with two swept-back horns, wings thick at the shoulder tapering to ragged tips, wing-arms tucked, thick tapering tail. Passes 1 and 2 failed as headless wyverns. Full-bleed.",
+      "md5": "0e39d42715d42505ebf765b428e8b667",
+      "size_bytes": 2618160
     },
     {
       "scene_id": "VAL-EP001-IMG0363",
@@ -91,11 +84,13 @@
       ],
       "file_path": "assets/batch_037/VAL-EP001-IMG0363.png",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "PENDING_RERENDER",
-      "qc_note": "REJECTED. Wide panic shot. Scattering sheep and the two running shepherds are right, but the flying animal is again a wyvern with whip tail and hanging clawed legs, and one shepherd came back honey-blonde and one in dark navy."
+      "drive_file_id": "17GGh8kMDjIj_gkAMPpbTPhUOkyiiyZGp",
+      "drive_url": "https://drive.google.com/file/d/17GGh8kMDjIj_gkAMPpbTPhUOkyiiyZGp/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 2. Wide panic across the valley: the flock breaking apart, two small shepherds running at the lower left in pale undyed homespun with loose pale hair and nothing braided, and the animal crossing the frame with mass and a readable head — barrel chest, thick neck, horned wedge skull, thick tail, wings thick at the shoulder. Pass 1 was a wyvern with whip tail and dangling clawed legs, with one blonde and one navy-clad shepherd. Full-bleed.",
+      "md5": "533f5f5f5bd0a64b75eb1a78a51ac383",
+      "size_bytes": 2528415
     },
     {
       "scene_id": "VAL-EP001-IMG0364",
@@ -111,11 +106,13 @@
       ],
       "file_path": "assets/batch_037/VAL-EP001-IMG0364.png",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "PENDING_RERENDER",
-      "qc_note": "REJECTED. UWA vista. The settlement is now correct — round huts, conical roofs, wattle folds, no walls or field grid — but the animal overhead has a barbed spiked tail tip and a dangling clawed leg, and its head is invisible."
+      "drive_file_id": "1ZCOzM7CBMFJZ7GCa1lBeG0lPi8EM_iIa",
+      "drive_url": "https://drive.google.com/file/d/1ZCOzM7CBMFJZ7GCa1lBeG0lPi8EM_iIa/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 3. Ultra-wide vista of the pastoral valley from the ridge: an irregular cluster of round dry-stacked basalt huts with conical dark slate roofs, wattle hurdle folds holding hundreds of long-woolled sheep, the steaming stream cutting pale grey through open unenclosed emerald meadow, sheer black basalt walls both sides, mist across the far end, tiny clanspeople among the huts. The animal is small and high against the overcast but clearly a winged, headed, heavy-bodied silhouette. Passes 1 and 2 degraded into spiked, headless blobs at that scale. Full-bleed.",
+      "md5": "e51a096f20c60282e185f1aea45f5cef",
+      "size_bytes": 2387237
     },
     {
       "scene_id": "VAL-EP001-IMG0365",
@@ -153,11 +150,13 @@
       ],
       "file_path": "assets/batch_037/VAL-EP001-IMG0366.png",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "QUEUED",
-      "qc_note": "Not yet generated — generation cap reached."
+      "drive_file_id": "1XBsIqF1jLqB7QhIRpw_hfL8Y1-h8F16v",
+      "drive_url": "https://drive.google.com/file/d/1XBsIqF1jLqB7QhIRpw_hfL8Y1-h8F16v/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Lateral tracking at ground level with the flock bolting away to the right, a lamb separated at the left, hooves throwing earth, and the vast dark wing of the animal sweeping across the top of the frame — only its leathery leading edge and two thick rib-spars visible from below, the rest out of frame. A big soft wing shadow crosses the grass behind the sheep. No blood, nothing wounded. Full-bleed.",
+      "md5": "ddfc28d8fd0a31b512f66502239935b6",
+      "size_bytes": 2581242
     },
     {
       "scene_id": "VAL-EP001-IMG0367",
@@ -173,11 +172,13 @@
       ],
       "file_path": "assets/batch_037/VAL-EP001-IMG0367.png",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "QUEUED",
-      "qc_note": "Not yet generated — generation cap reached."
+      "drive_file_id": "1xB7bc2pTCRvUqt2L4yGyw2v5k1zERVLA",
+      "drive_url": "https://drive.google.com/file/d/1xB7bc2pTCRvUqt2L4yGyw2v5k1zERVLA/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1 — the best dragon frame of the batch. Compressed 65mm of the animal at low level: the heavy deep barrel chest and thick ringed neck in near profile, the blunt wedge skull with a broad crocodilian snout and both swept-back horns catching a cold edge, layered basalt-black scutes on the shoulders, one partly-furled wing sweeping back with long straight spars and a ragged trailing margin, the other behind the body, and a long thick tail. Head turned away and down so no eye meets the lens. Reframed rows 11-755.",
+      "md5": "f10e65e48c80cb8063cebcf0ded40798",
+      "size_bytes": 1339863
     },
     {
       "scene_id": "VAL-EP001-IMG0368",
@@ -193,11 +194,13 @@
       ],
       "file_path": "assets/batch_037/VAL-EP001-IMG0368.png",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "QUEUED",
-      "qc_note": "Not yet generated — generation cap reached."
+      "drive_file_id": "1qY8jER-44oH34plkmrnZMpwsGhDtRPIw",
+      "drive_url": "https://drive.google.com/file/d/1qY8jER-44oH34plkmrnZMpwsGhDtRPIw/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Two shepherds caught mid-stride driving the flock, both looking up: the younger slighter one in undyed ash-grey wool with a crook, the broader one in brown leather over homespun, both with loose unbound silver-white hair, nothing braided, no headband. Profiles only, no iris colour readable, open fear in the upturned faces. The flock runs behind them kicking up earth, mist and black basalt beyond. Flat cold overcast light, no golden rim. Full-bleed.",
+      "md5": "1ea5dd3563806eba3a883664609b30a6",
+      "size_bytes": 2547590
     },
     {
       "scene_id": "VAL-EP001-IMG0369",
@@ -213,11 +216,13 @@
       ],
       "file_path": "assets/batch_037/VAL-EP001-IMG0369.png",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "QUEUED",
-      "qc_note": "Not yet generated — generation cap reached."
+      "drive_file_id": "1TLd5qIkMCypkSHcSbHjAWeWxkLPPqJBX",
+      "drive_url": "https://drive.google.com/file/d/1TLd5qIkMCypkSHcSbHjAWeWxkLPPqJBX/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. The aftermath in three objects, exactly as the verse names them: a scatter of scorched wool in the foreground, matted fleece clumps with their ends curled and blackened; behind it a patch of blackened stone, cracked and glassy at the edges; and beyond that a shallow smoking crater of shattered fused basalt with a thin grey thread still rising. The surrounding meadow stays emerald, so the damage reads as one small circle of ruin in a green valley. No animals, living or dead, no blood. Full-bleed.",
+      "md5": "27229e1506f0ef9081f1da35b6a00f58",
+      "size_bytes": 2688707
     },
     {
       "scene_id": "VAL-EP001-IMG0370",
@@ -233,11 +238,14 @@
       ],
       "file_path": "assets/batch_037/VAL-EP001-IMG0370.png",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "QUEUED",
-      "qc_note": "Not yet generated — generation cap reached."
+      "drive_file_id": "1zjPlt7kolci6kkN8xcYPLEWw2mY5zVqe",
+      "drive_url": "https://drive.google.com/file/d/1zjPlt7kolci6kkN8xcYPLEWw2mY5zVqe/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. High geographic reveal from the valley wall: the settlement below as round conical-roofed basalt huts among empty wattle folds, emerald terraces stepping away, the stream cutting through, one blackened patch and one smoking crater marked on the floor. At the top right, on a ridge line, five or six tiny clanspeople in pale homespun stand watching the sky, seen from behind. The damage is two small marks in a vast green bowl — the scale is the point. No dragon in frame. Full-bleed.",
+      "md5": "20514721d31a3ee57004312a965e033a",
+      "size_bytes": 2565063
     }
-  ]
+  ],
+  "md5_verification_note": "All ten Drive checksums were re-listed from the folder after upload and match the local md5sum byte-for-byte (10/10)."
 }

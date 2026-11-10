@@ -41,10 +41,11 @@
     33,
     34,
     35,
-    36
+    36,
+    37
   ],
-  "next_batch": 37,
-  "next_image_number": 361,
+  "next_batch": 38,
+  "next_image_number": 371,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1174,7 +1175,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": 37,
+  "in_progress_batch": 38,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1925,8 +1926,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-11T15:20:00Z",
-  "verified_progress_percent": 34.86,
+  "last_updated": "2026-11-11T17:40:00Z",
+  "verified_progress_percent": 35.81,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3622,7 +3623,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 366,
+  "verified_image_count": 376,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -6880,6 +6881,213 @@
       "drive_url": "https://drive.google.com/file/d/1A8Bxr_OcDMAJ9ugDI5YH4VqSic4POSlV/view?usp=drivesdk",
       "md5": "ecd203944b9d7307c896ee299dc5c704",
       "size_bytes": 1771231,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_037_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_037_drive_folder_id": "1t1t10Iw3s40-vvanLTavMJ1ToTw5JDUR",
+  "batch_037_drive_verified_count": 10,
+  "batch_037_pending_rerender": [],
+  "batch_037_note": "New movement, new location, new palette: out of the caldera into LOC-VAL-002, with people back in frame for the first time since Batch 033. Eighteen generations for ten frames and every rejection was a silhouette problem. Two systemic faults fixed: the location drifted into a European pastoral postcard until its architecture was written as round, conical and unenclosed; and every flying frame came back a headless wyvern because 'no head detail' deleted the head. The five-part flight shape signature (barrel chest, thick short ringed neck, blunt horned wedge skull, tucked wing-arms, thick tapering tail) is now mandatory. 0367 is the first fully convincing daylight dragon, 0370 makes the scale the argument, and 0369 carries the violence entirely in scorched wool, blackened stone and smoke with no body in frame.",
+  "batch_037_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0361",
+      "timestamp": "12:00–12:02",
+      "narration_slice": "For the pastoral clans",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1xB4FerXKS5oTycUWItLQxAUNVnW2RqEP",
+      "drive_url": "https://drive.google.com/file/d/1xB4FerXKS5oTycUWItLQxAUNVnW2RqEP/view?usp=drivesdk",
+      "md5": "8d442fef300f213a6e6cd187a64ed571",
+      "size_bytes": 1649571,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0362",
+      "timestamp": "12:02–12:04",
+      "narration_slice": "below, discovery brought terror",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "13yf7Yw6883qEjDO9OZhc_MCcVQGvew0Z",
+      "drive_url": "https://drive.google.com/file/d/13yf7Yw6883qEjDO9OZhc_MCcVQGvew0Z/view?usp=drivesdk",
+      "md5": "0e39d42715d42505ebf765b428e8b667",
+      "size_bytes": 2618160,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0363",
+      "timestamp": "12:04–12:06",
+      "narration_slice": "long before it promised",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "17GGh8kMDjIj_gkAMPpbTPhUOkyiiyZGp",
+      "drive_url": "https://drive.google.com/file/d/17GGh8kMDjIj_gkAMPpbTPhUOkyiiyZGp/view?usp=drivesdk",
+      "md5": "533f5f5f5bd0a64b75eb1a78a51ac383",
+      "size_bytes": 2528415,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0364",
+      "timestamp": "12:06–12:08",
+      "narration_slice": "dominion. A single hungry dragon",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1ZCOzM7CBMFJZ7GCa1lBeG0lPi8EM_iIa",
+      "drive_url": "https://drive.google.com/file/d/1ZCOzM7CBMFJZ7GCa1lBeG0lPi8EM_iIa/view?usp=drivesdk",
+      "md5": "e51a096f20c60282e185f1aea45f5cef",
+      "size_bytes": 2387237,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0365",
+      "timestamp": "12:08–12:10",
+      "narration_slice": "descending through morning mist",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1p46I3lzB7IF19gK2lwt8d11l7UuRrMEy",
+      "drive_url": "https://drive.google.com/file/d/1p46I3lzB7IF19gK2lwt8d11l7UuRrMEy/view?usp=drivesdk",
+      "md5": "d343e8de519a43436733ebea12b04c6d",
+      "size_bytes": 1466928,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0366",
+      "timestamp": "12:10–12:12",
+      "narration_slice": "could scatter an entire",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1XBsIqF1jLqB7QhIRpw_hfL8Y1-h8F16v",
+      "drive_url": "https://drive.google.com/file/d/1XBsIqF1jLqB7QhIRpw_hfL8Y1-h8F16v/view?usp=drivesdk",
+      "md5": "ddfc28d8fd0a31b512f66502239935b6",
+      "size_bytes": 2581242,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0367",
+      "timestamp": "12:12–12:14",
+      "narration_slice": "valley's flock in heartbeats,",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1xB7bc2pTCRvUqt2L4yGyw2v5k1zERVLA",
+      "drive_url": "https://drive.google.com/file/d/1xB7bc2pTCRvUqt2L4yGyw2v5k1zERVLA/view?usp=drivesdk",
+      "md5": "f10e65e48c80cb8063cebcf0ded40798",
+      "size_bytes": 1339863,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0368",
+      "timestamp": "12:14–12:16",
+      "narration_slice": "leaving behind nothing save",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1qY8jER-44oH34plkmrnZMpwsGhDtRPIw",
+      "drive_url": "https://drive.google.com/file/d/1qY8jER-44oH34plkmrnZMpwsGhDtRPIw/view?usp=drivesdk",
+      "md5": "1ea5dd3563806eba3a883664609b30a6",
+      "size_bytes": 2547590,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0369",
+      "timestamp": "12:16–12:18",
+      "narration_slice": "scorched wool, blackened stone,",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1TLd5qIkMCypkSHcSbHjAWeWxkLPPqJBX",
+      "drive_url": "https://drive.google.com/file/d/1TLd5qIkMCypkSHcSbHjAWeWxkLPPqJBX/view?usp=drivesdk",
+      "md5": "27229e1506f0ef9081f1da35b6a00f58",
+      "size_bytes": 2688707,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0370",
+      "timestamp": "12:18–12:20",
+      "narration_slice": "and smoking craters. Yet",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Predatory dragon raids on flocks & patient young watchers",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1zjPlt7kolci6kkN8xcYPLEWw2mY5zVqe",
+      "drive_url": "https://drive.google.com/file/d/1zjPlt7kolci6kkN8xcYPLEWw2mY5zVqe/view?usp=drivesdk",
+      "md5": "20514721d31a3ee57004312a965e033a",
+      "size_bytes": 2565063,
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true

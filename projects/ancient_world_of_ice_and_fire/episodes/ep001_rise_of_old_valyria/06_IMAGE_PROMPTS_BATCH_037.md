@@ -17,30 +17,32 @@
 - **People are legible but never portrait-lit.** Backs of heads, profiles, mid-distance. Loose unbound silver-white hair; braids must be actively negated.
 - **The animal must not become a wyvern in silhouette.** New this batch and the cause of three rejections.
 
-**Render/QC status:** **2 of 10 approved · 3 rejected for rerender · 5 not yet generated.** Generation cap (10/turn) reached.
+**Render/QC status:** **COMPLETE — 10 of 10 approved, uploaded and MD5-verified on Drive.** Eighteen generations for ten frames. Seven passed on the first attempt (`0365`–`0370`, plus `0361`'s subject matter); three needed repeated passes (`0361` two, `0363` two, `0362` and `0364` three each). Every rejection in the batch was a **silhouette** failure, not an anatomy or lighting one.
 
 | Frame | Status | Note |
 | :--- | :--- | :--- |
-| `IMG0361` | ✅ Approved | **Pass 2.** Pastoral homestead on a cold overcast morning: three circular dry-stacked basalt huts with conical slate roofs and rafter ends showing at the eaves, a large wattle hurdle fold full of long-woolled sheep, two shepherds in undyed wool and sheepskin seen from behind with loose pale hair, a steaming mineral stream cutting through open emerald meadow, heavy grey mist, a smoking cone beyond. Pass 1 had been a European postcard: gabled cottages, chimneys, dry-stone boundary walls, a field grid and a golden sunset. Reframed rows 12–755. |
-| `IMG0362` | ❌ Rerender | Over-the-shoulder out of the valley. The *shot* now works — the back of the head with loose silver-white hair, no braids, correct clothing, valley and flock beyond. But the distant animal is a **wyvern**: tiny narrow body, whip tail, huge thin bat wings and a headless silhouette with dangling clawed legs. |
-| `IMG0363` | ❌ Rerender | Wide panic shot. Sheep scattering and the two running shepherds are right, but the flying animal is again a **wyvern** with whip tail and hanging clawed legs, plus one shepherd in dark navy and one honey-blonde. |
-| `IMG0364` | ❌ Rerender | UWA vista. The settlement is now correct — round huts, conical roofs, wattle folds, no walls or field grid — but the animal overhead has a **barbed, spiked tail tip and a dangling clawed leg**, and its head is invisible. |
-| `IMG0365` | ✅ Approved | **Pass 1.** Wing membrane close-up: one smooth taut dark sheet between three long straight rib-spars, beaded with condensation, ragged torn trailing margin at lower left, and a healed semicircular scar reading as a pale seam near the top right. No head, no body, no face. Reframed rows 12–755. |
-| `IMG0366` | ⏳ Queued | MS 35mm — lateral tracking of the flock scattering. |
-| `IMG0367` | ⏳ Queued | MCU 65mm — the animal at low level over the valley. |
-| `IMG0368` | ⏳ Queued | MS 50mm — shepherds driving the flock, eyes up. |
-| `IMG0369` | ⏳ Queued | WS 35mm — scorched wool, blackened stone, smoking crater. |
-| `IMG0370` | ⏳ Queued | UWA 24mm — high geographic reveal of the raided valley. |
+| `IMG0361` | ✅ Approved, uploaded | **Pass 2.** Round dry-stacked basalt huts with conical slate roofs, wattle fold full of sheep, two shepherds from behind with loose pale hair, steaming stream, open unenclosed meadow, cold mist. Pass 1 was a European postcard. Full-bleed. |
+| `IMG0362` | ✅ Approved, uploaded | **Pass 3.** Over-the-shoulder: back of a head with loose silver-white hair, valley beyond, and the animal stooping with a barrel chest, thick neck, horned wedge skull and thick tapering tail. Passes 1–2 were headless wyverns. Full-bleed. |
+| `IMG0363` | ✅ Approved, uploaded | **Pass 2.** Wide panic, flock scattering, two running shepherds in pale homespun. Animal now heavy and headed. Pass 1 was a wyvern with whip tail and dangling claws, and had a blonde and a navy-clad shepherd. Full-bleed. |
+| `IMG0364` | ✅ Approved, uploaded | **Pass 3.** UWA valley vista, settlement correct, animal small and high but clearly winged, headed and heavy-bodied. Passes 1–2 degraded into spiked headless blobs at that scale. Full-bleed. |
+| `IMG0365` | ✅ Approved, uploaded | **Pass 1.** Wing membrane close-up: three straight rib-spars, condensation beading, ragged torn margin, healed semicircular scar as a pale seam. Full-bleed. |
+| `IMG0366` | ✅ Approved, uploaded | **Pass 1.** Lateral tracking: flock bolting, wing crossing the top of frame, a vast wing shadow on the grass. Full-bleed. |
+| `IMG0367` | ✅ Approved, uploaded | **Pass 1 — best dragon frame of the batch.** 65mm low over the valley: barrel chest, thick ringed neck, blunt wedge skull with both horns, tucked wing-arms, thick tail, eye off-lens. Reframed rows 11–755. |
+| `IMG0368` | ✅ Approved, uploaded | **Pass 1.** Two shepherds mid-stride looking up, loose pale hair, profiles only, flock running behind. Full-bleed. |
+| `IMG0369` | ✅ Approved, uploaded | **Pass 1.** The aftermath as three objects: scorched wool, blackened stone, smoking crater in an otherwise emerald meadow. No bodies. Full-bleed. |
+| `IMG0370` | ✅ Approved, uploaded | **Pass 1.** High geographic reveal: settlement below, two small marks of ruin, watchers on the ridge at top right. No dragon. Full-bleed. |
 
-**Rerender brief (applies to `0362`, `0363`, `0364`):**
+**Rerender briefs that were used (all resolved):**
 
-1. **The animal is a heavy iron-armoured beast, not a wyvern.** Every flying frame in the batch came back with a tiny narrow body, whip tail, oversized thin bat wings, dangling clawed legs and a headless blob. The problem was writing "no head detail" — the model deleted the head. Rewrite positively and at the silhouette level: **"an enormous deep barrel chest, a thick short ringed neck, a heavy blunt wedge-shaped head with a broad flat crocodilian snout and two swept-back horns clearly present in the silhouette, two wings thick at the shoulder tapering to ragged tips, wing-arms folded tight against the body, a long thick tapering tail."** Negatives: "no wyvern, no pterosaur, no tiny narrow body, no whip-thin tail, no headless shape, no featureless blob, no dangling clawed legs."
-2. **`0363` also needs its people corrected:** "no blonde hair, no braids, no plaits, no dark navy or black clothing on the people" — one shepherd came back honey-blonde and one in navy.
+1. **`IMG0361` — European postcard.** Gabled cottages, chimneys, dry-stone boundary walls, a field grid and a golden sunset. Fixed with three positive words — **round, conical, unenclosed** — plus negatives for gables, chimneys, boundary walls, patchwork field grid, roads and warm golden light.
+2. **`IMG0362`/`0363`/`0364` — headless wyverns.** All three flying frames came back with a tiny narrow body, whip tail, oversized thin bat wings, dangling clawed legs and no head, because the prompt had said "no head detail". Rewritten positively: *"an enormous deep barrel chest; a thick short ringed neck; a heavy blunt wedge-shaped head with a broad flat crocodilian snout and two swept-back horns, clearly present in the silhouette; two wide leathery wings thick at the shoulder tapering to ragged tips; wing-arms folded tight against the body; one long thick tail tapering to a plain point"*, with "wyvern, pterosaur, bat, whip-thin tail, barbed tail tip, headless shape, dangling clawed legs" negated.
+3. **`IMG0364` specifically** needed the animal made *smaller and simpler* — at that scale any added detail bristled into spikes. The fix was to reduce the description to a compact heavy silhouette with a visible neck, head and tail, and to negate "spiky, pointed protrusions, barbed spikes".
 
 **Lessons from this batch to carry into 038:**
 
-1. **A location carried only in the bible will drift unless its form is written into every prompt.** Pass 1 produced a European pastoral postcard — gables, chimneys, boundary walls, a field grid, a golden sunset — because "terraced meadows and basalt dwellings" was too loose. The three words that fixed it were **round, conical, unenclosed**.
-2. **Negating a feature deletes it here, it does not hide it.** "No head detail" removed the head; "no ribs" in an earlier batch removed the ribs *and* the structure they belonged to. Positive silhouette descriptions are the only reliable control at distance.
-3. **The animal has a shape signature that must survive scaling.** Barrel chest, thick short neck, blunt wedge skull, folded wing-arms, thick tapering tail. Without those five descriptors it degrades into a generic wyvern.
-4. **Silhouette is now the primary QC axis across both locations.** In the caldera it failed as a biped and as a feathered fan; outdoors it fails as a wyvern. The common cause is the same: too little positive description of the mass.
-5. **The membrane close-up remains the safest frame in the episode** — `0365` passed first time, as every membrane macro has, and it is also the frame that carries the bible's healed tear-scar most clearly.
+1. **A location's architecture must be written into every prompt.** "Terraced meadows and basalt dwellings" produced an English pastoral postcard; **round, conical, unenclosed** produced the pre-imperial homestead the bible and Batches 018–030 had established.
+2. **Negating a feature deletes it here rather than hiding it.** "No head detail" removed the head and left a wyvern; in an earlier batch "no ribs" removed the structure along with the ribs. Positive description is the only reliable control.
+3. **The animal has a five-part shape signature that must survive every scale:** deep barrel chest, thick short ringed neck, blunt horned wedge skull, wing-arms tucked to the body, long thick tapering tail. Without all five it becomes a generic flying reptile.
+4. **At extreme distance, simplify rather than specify.** `0364` only worked once the animal was reduced to a small compact mass with a neck and head; the fuller description bristled.
+5. **Silhouette is the dominant QC axis for the rest of the episode,** and it fails differently in each location: indoors as a biped or a feathered fan, outdoors as a wyvern. The constant cure is more positive mass description, less negation.
+6. **The aftermath frame is the safest way to depict violence.** `0369` — wool, stone and smoke, with no body anywhere — carried "scorched wool, blackened stone, and smoking craters" exactly, and could not fail anatomically.
