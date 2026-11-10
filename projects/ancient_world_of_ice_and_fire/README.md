@@ -149,7 +149,7 @@ projects/ancient_world_of_ice_and_fire/
 | **`EP001`** | **Before the Dragons: The Rise of Old Valyria** | `35:00` (`4,580` words) | **1,050** (`105` batches) | **Batches 001–020 complete; Batch 021 8/10** (`06:40–07:00 partial`) | **208 / 1,050** (`19.81%`) | **Finish Batch 021: IMG0201, IMG0205** |
 
 
-**Current progress note (2026-11-10):** 208/1,050 frames are Drive-verified (Batches 001–020 complete; Batch 021 has 8/10 approved). All approved frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after visual-QC correction; IMG0129 was reframed to remove letterbox strips; IMG0171 was reframed during QC. IMG0160 remains unresolved: its top-left crop was rejected; restore or regenerate the original composition, resizing only if appropriate.
+**Current progress note (2026-11-09):** 208/1,050 frames are Drive-verified (Batches 001–020 complete; Batch 021 has 8/10 approved). All approved frames passed visual review, dimensions/colorspace checks, and Drive MD5 verification; IMG0094 was replaced after visual-QC correction; IMG0129 was reframed to remove letterbox strips; IMG0171 was reframed during QC. IMG0160 remains unresolved: its top-left crop was rejected; restore or regenerate the original composition, resizing only if appropriate.
 
 
 **Batch 020 complete:** `IMG0191–IMG0200` (`06:20–06:40`) are visually approved, uploaded and checksum-verified in Drive folder `https://drive.google.com/drive/folders/1qGCm4kPxpOzc9x5Befotaj1Vq42xxkhO`. Batch 021 is in progress with two rerenders still required.

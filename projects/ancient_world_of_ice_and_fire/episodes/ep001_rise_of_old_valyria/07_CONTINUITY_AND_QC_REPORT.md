@@ -190,7 +190,7 @@
 - **Drive verification:** Batch 010 (`IMG0091–0100`) is 10/10 in folder `177y3wDSMkt4fMfXBa0ju5_pFyBdppPdY`; Batch 011 (`IMG0101–0105`) was then 5/10 in folder `1ioLrKgrwqw8c-E5ZyVq4hGhVLukoVL9O`. All ten files were matched against local PNG MD5s and measured `1376×768`, sRGB; visual inspection was completed in the following turn.
 - **QC limitation:** At the time, visual review was unavailable; this was subsequently completed and recorded in the Turn 14 addendum below.
 - **Continuity:** `IMG0101–0105` stay in `LOC-ESS-003` (Asshai), preserving the matte greasy light-drinking black-stone environment; `IMG0106–0110` remain queued for Old Ghis and the `ANCHOR-IMG0110` Harpy reference.
-- **Progress at that time:** 105/1,050 Drive-verified images (10.0%). This state was superseded on 2026-11-10.
+- **Progress at that time:** 105/1,050 Drive-verified images (10.0%). This state was superseded on 2026-11-09.
 
 | Scene IDs | Timestamp span | Result | Verification |
 | :--- | :--- | :--- | :--- |
