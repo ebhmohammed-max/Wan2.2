@@ -12,19 +12,15 @@
   "batch_timespan": "10:40–11:00",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "IN_PROGRESS_7_OF_10_APPROVED_UPLOADED_3_PENDING",
-  "approved_count": 7,
-  "approved_uploaded_count": 7,
-  "drive_verified_count": 7,
-  "pending_rerender_count": 3,
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0321",
-    "VAL-EP001-IMG0322",
-    "VAL-EP001-IMG0323"
-  ],
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "approved_uploaded_count": 10,
+  "drive_verified_count": 10,
+  "pending_rerender_count": 0,
+  "pending_completion_scenes": [],
   "verified_episode_frames_after_batch": 336,
   "verified_episode_percent_after_batch": "32.00%",
-  "visual_qc_note": "Seven of ten frames approved, uploaded and MD5-verified on Drive on the first pass. This is the batch where DRG-VAL-001 is fully revealed and it worked: 0324 gives the whole animal coiled on a warm ledge with the head at rest and the healed wing tear visible, 0325 shows three of them at landscape scale, and 0326 is the rising low-angle beat with the neck running out of the top edge. Three frames are queued: 0321 lit its cavern like a furnace and spent the reveal early, 0322 turned the subject almost to the lens, and 0323 splayed the distant coil into a feathered fan on a pale ledge. All three are composition and value failures rather than anatomy failures, so they are cheap to fix.",
+  "visual_qc_note": "All ten frames approved, uploaded and MD5-verified. Seven passed on the first generation — the best first-pass rate of the episode so far — because the batch changed method: once the head was allowed in shot, the animal was described positively and completely rather than implied with fragments. The three rerenders were background, angle and distant-mass failures and each cleared in one pass. Episode progress advances to 336/1,050 (32.00%).",
   "dragon_reveal_note": "The reveal completes here. Batch 032 withheld the head; Batch 033 shows it — but the animal is still never centred and never posed for the camera: it is asleep or coiled in 0324, in the deep distance in 0325 and 0330, and in 0326 the head is above the frame again so the mass has no terminus. The healed semicircular tear in the right wing membrane from the bible is now visible in two frames (0324 as a pale seam in the cowled wing, 0329 as a healed line between plates). No fire is breathed anywhere in the batch; the heat is always inside the rock.",
   "letterbox_scan_note": "Per-row content-box scan run on every frame. Strips found and cropped on 0324 (rows 12-755), 0325 (rows 40-727), 0326 (rows 12-755) and 0328 (rows 12-755). 0321, 0322, 0323, 0327, 0329 and 0330 were already full-bleed. All delivered frames are 1376x768.",
   "scenes": [
@@ -41,13 +37,13 @@
         "DRG-VAL-001"
       ],
       "file_path": "assets/batch_033/VAL-EP001-IMG0321.png",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": "8b59c0b121979fcbea96e0309104ef31",
-      "size_bytes": 2486857,
-      "md5_verified_on_drive": false,
-      "qc_status": "REJECTED_RERENDER_QUEUED",
-      "qc_note": "REJECTED. Composition and figure are right — lateral tracking walk, three-quarter away, hand half-raised to the rock — but the background of the chamber rendered as a BRIGHT LIT FURNACE behind him, orange walls in full glow, so the frame reads as a fire cave rather than a dark threshold, and it also spends the dragon reveal too early with a horned head visible on a distant ledge. Standing rule: this batch must not show a lit interior before 0324. Rerender with the cavern almost entirely black, only hairline ember cracks in the floor, no animal in frame at all."
+      "drive_file_id": "1iFORhweltKV-r-3qx9p3KG0TAHVTXC60",
+      "drive_url": "https://drive.google.com/file/d/1iFORhweltKV-r-3qx9p3KG0TAHVTXC60/view?usp=drivesdk",
+      "md5": "6347f5ef5c1f17816f230a778cd14619",
+      "size_bytes": 1761180,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 2. Lateral tracking walk on a narrow black shelf, three-quarter away, hand half-raised to the wet wall, face in shadow. The chamber behind him is unlit black with thin steam and heat only as hairline cracks in the floor; no animal anywhere. Pass 1 read as a lit furnace and spent the reveal early."
     },
     {
       "scene_id": "VAL-EP001-IMG0322",
@@ -62,13 +58,13 @@
         "DRG-VAL-001"
       ],
       "file_path": "assets/batch_033/VAL-EP001-IMG0322.png",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": "50c13895192c23ae9d433a710e996ca7",
-      "size_bytes": 1984212,
-      "md5_verified_on_drive": false,
-      "qc_status": "REJECTED_RERENDER_QUEUED",
-      "qc_note": "REJECTED on the lens rule. A strong, well-lit three-quarter profile with the face clearly readable and the eyes visible in a near-lateral angle — the camera has effectively caught the subject's face, which breaks the episode's gaze discipline (nothing closer than a 50mm MCU exposes iris colour, and no frame in this chapter meets the lens). Rerender from behind and slightly to his left so only the jawline sliver and soot show, head tipped down and away, eyes fully hidden."
+      "drive_file_id": "1wgnnqCBb4C6I3z5dvSS06iOgson7TOJq",
+      "drive_url": "https://drive.google.com/file/d/1wgnnqCBb4C6I3z5dvSS06iOgson7TOJq/view?usp=drivesdk",
+      "md5": "0900f6b63922683759f7384eb49c0eb7",
+      "size_bytes": 2007155,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 2. Compressed 65mm from behind and slightly left: nape, ear, hair fall and the two thin temple braids, jaw plane caught from behind, soot on the neck — no face, no brow, no eye, no iris. Pass 1 turned him into the lens."
     },
     {
       "scene_id": "VAL-EP001-IMG0323",
@@ -83,13 +79,13 @@
         "DRG-VAL-001"
       ],
       "file_path": "assets/batch_033/VAL-EP001-IMG0323.png",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": "7172e26b1c4952c6ac8cfc77116981cc",
-      "size_bytes": 2037790,
-      "md5_verified_on_drive": false,
-      "qc_status": "REJECTED_RERENDER_QUEUED",
-      "qc_note": "REJECTED. The crouched figure at the rim is excellent — three-quarter rear, one knee down, hand flat on wet rock. Two failures behind him: the distant animal's coil splayed into a flat FAN of pale ribbed plates that reads as a feathered wing rather than a scaled body, and the ledge under it rendered pale yellow-ochre, against the black-ground rule. Rerender with the distant coil as one low unbroken dark mass with no splay and no light-catching plates, and the ledge black with only dull ember in hairlines."
+      "drive_file_id": "185XzdRNdl_8zB-M46sCy7VpsENkEnL3-",
+      "drive_url": "https://drive.google.com/file/d/185XzdRNdl_8zB-M46sCy7VpsENkEnL3-/view?usp=drivesdk",
+      "md5": "d997e37d7430f701b6dc7592c0145b2c",
+      "size_bytes": 2054998,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 2. Crouched at the rim, one knee down, hand flat on wet black rock, head tipped into the drop. The animal across the chasm is one low unbroken matte black mass with no splayed plates and no bright rim, on black rock. Pass 1 grew a feathered fan on a pale ochre ledge."
     },
     {
       "scene_id": "VAL-EP001-IMG0324",
@@ -240,11 +236,11 @@
     }
   ],
   "pending_uploads": [],
-  "upload_note": "Seven approved frames uploaded and MD5-verified against Drive; ten files not present until the three rerenders pass.",
+  "upload_note": "Ten approved frames uploaded to the batch folder and MD5-verified against Drive; final comparison returned ten files, ten exact matches.",
   "rerender_history": {
-    "VAL-EP001-IMG0321": "pass 1 rejected; rerender queued",
-    "VAL-EP001-IMG0322": "pass 1 rejected; rerender queued",
-    "VAL-EP001-IMG0323": "pass 1 rejected; rerender queued",
+    "VAL-EP001-IMG0321": "pass 1 cavern read as a lit furnace and leaked a horned head on a distant ledge; pass 2 approved — dark unlit chamber, heat only in floor hairlines, no animal at all",
+    "VAL-EP001-IMG0322": "pass 1 handsome 65mm profile that met the lens with both eyes readable; pass 2 approved — from behind and slightly left, nape and braids only, no face",
+    "VAL-EP001-IMG0323": "pass 1 distant coil splayed into a feathered fan on a pale ochre ledge; pass 2 approved — one unbroken matte black mass on black rock",
     "VAL-EP001-IMG0324": "pass 1 approved",
     "VAL-EP001-IMG0325": "pass 1 approved",
     "VAL-EP001-IMG0326": "pass 1 approved",

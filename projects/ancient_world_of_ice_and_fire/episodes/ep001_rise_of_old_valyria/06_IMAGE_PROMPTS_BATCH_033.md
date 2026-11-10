@@ -16,14 +16,14 @@
 
 **Heat is inside the rock.** Every prompt describes dull ember-red heat *in hairlines and cracks*, never a channel, river or surface flow. Through Batches 031–033, any warm glow behind the animal or a lit chamber wall rendered as fire, so the warmth is written as internal and low.
 
-**Render/QC status:** **7 of 10 approved, uploaded and MD5-verified on Drive. Three rerenders queued.** All ten frames are native `1376x768` sRGB PNGs, full-bleed.
+**Render/QC status:** **10 of 10 approved, uploaded and MD5-verified on Drive. Batch complete.** All ten frames are native `1376x768` sRGB PNGs, full-bleed. Progress now stands at **336 of 1,050 frames (32.00%)**.
 
 | Frame | Status | Note |
 | :--- | :--- | :--- |
-| `IMG0321` | ❌ Rerender | Composition right; the background read as a **lit furnace** and leaked a horned head on a distant ledge, spending the reveal early. |
-| `IMG0322` | ❌ Rerender | Beautiful profile — and the camera effectively caught his face with the eyes readable. Breaks the gaze rule. |
-| `IMG0323` | ❌ Rerender | The crouched figure is right; the distant coil splayed into a **feathered fan** on a **pale ochre ledge**. |
-| `IMG0324` | ✅ Approved, uploaded | **Pass 1 — the reveal.** Whole animal coiled asleep on a broad warm ledge, head at rest, wedge skull and twin horns correct, healed tear visible in the cowled wing, four limbs. Reframed rows 12–755. |
+| `IMG0321` | ✅ Approved, uploaded | **Pass 2.** The approach: lateral tracking walk on a black shelf, unlit chamber behind, heat only as hairline cracks in the floor, **no animal in frame**. |
+| `IMG0322` | ✅ Approved, uploaded | **Pass 2.** Compressed 65mm from behind — nape, ear, braids, no face and no lens contact. |
+| `IMG0323` | ✅ Approved, uploaded | **Pass 2.** Crouched at the rim; the animal across the chasm is one unbroken matte black mass on black rock. |
+| `IMG0324` | ✅ Approved, uploaded | **Pass 1 — the reveal.** Whole animal coiled asleep on a broad warm ledge, wedge skull and twin obsidian horns correct, four limbs, healed tear in the cowled wing. Reframed rows 12–755. |
 | `IMG0325` | ✅ Approved, uploaded | **Pass 1.** UWA landscape: three coils on warm ledges at three distances, hairline ember seam not a river. Reframed rows 40–727. |
 | `IMG0326` | ✅ Approved, uploaded | **Pass 1.** Towering low angle, animal rising, **neck out of the top edge**, wing cowled over the ledge. Reframed rows 12–755. |
 | `IMG0327` | ✅ Approved, uploaded | **Pass 1.** Macro: scale-plate print pressed into still-soft heated rock, no animal in frame. |
@@ -31,11 +31,11 @@
 | `IMG0329` | ✅ Approved, uploaded | **Pass 1.** Macro hide plates with the pale healed seam of the old tear. |
 | `IMG0330` | ✅ Approved, uploaded | **Pass 1.** Transitional wide, boy at the lip, animal coiled in the deep distance. |
 
-**Three rerender briefs, queued behind the 10-images-per-turn cap:**
+**The three rerenders, and why each cleared in one pass.** All three first-pass failures were background, angle or distant-mass problems rather than anatomy, and each was fixed by changing one thing only:
 
-1. **`IMG0321` — the cavern is lit like a furnace.** The walking figure is correct; keep him exactly as he is. Replace the background: the chamber is almost entirely black, walls unlit, only thin grey steam and a few hairline ember cracks in the floor. **No animal in frame at all** — this frame is the last one before the reveal and must not spend it.
-2. **`IMG0322` — he met the lens.** Keep the compression and the shallow falloff, but shoot him from behind and slightly to his left, head tipped down and away, so only the line of the jaw and the soot on the cheek read. No eye, no iris, no readable face.
-3. **`IMG0323` — the distant animal grew feathers and a pale ledge.** Keep the crouch at the rim. The far coil must be one low unbroken dark mass with no splayed plates, no light-catching edges and no fan geometry; the ledge must be black rock with dull ember only in hairlines.
+1. **`IMG0321` — a lit background is a fire.** Pass 1 rendered wall after wall of glowing orange behind the walking figure, and put a horned head on a distant ledge. Pass 2 kept the figure untouched and replaced the background with unlit black rock, thin steam, and heat as hairline cracks in the floor, plus an explicit "there is no animal in this frame".
+2. **`IMG0322` — telephoto plus a three-quarter turn finds the lens.** Pass 1 produced a genuinely handsome 65mm profile with both eyes readable. Pass 2 moved the camera behind and slightly left and demanded "the back of his head, the nape, one ear, the plane of his jaw from behind — not his face".
+3. **`IMG0323` — a distant animal with light-catching plates grows feathers.** Pass 1 splayed the far coil into pale ribbed fans on a pale ochre ledge. Pass 2 demanded "one low unbroken dark mass, smooth matte silhouette, no separated plates, no ribbed fans, no bright rim" on black rock.
 
 **Lessons from this batch to carry into 034:**
 

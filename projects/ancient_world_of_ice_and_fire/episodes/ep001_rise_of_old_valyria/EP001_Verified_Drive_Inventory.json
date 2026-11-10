@@ -37,10 +37,11 @@
     29,
     30,
     31,
-    32
+    32,
+    33
   ],
-  "next_batch": 33,
-  "next_image_number": 321,
+  "next_batch": 34,
+  "next_image_number": 331,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1170,7 +1171,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": 33,
+  "in_progress_batch": 34,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1921,8 +1922,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-10T15:10:00Z",
-  "verified_progress_percent": 31.05,
+  "last_updated": "2026-11-10T15:18:00Z",
+  "verified_progress_percent": 32.0,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3618,7 +3619,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 326,
+  "verified_image_count": 336,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -6055,6 +6056,66 @@
   "batch_032_note": "DRG-VAL-001 debuts in this batch: monumental in IMG0316 with the neck running out of the top edge, through a column gap in IMG0317, as a silhouette in IMG0318, ultra-wide in IMG0319, and above frame in IMG0320. Twenty-one generations were needed for ten approvals, almost all of it on IMG0316 (seven passes) and IMG0320 (regenerated after a sandbox reset lost the approved file).",
   "batch_033_verified_images": [
     {
+      "scene_id": "VAL-EP001-IMG0321",
+      "timestamp": "10:40–10:42",
+      "narration_slice": "the thresholds of the",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1iFORhweltKV-r-3qx9p3KG0TAHVTXC60",
+      "drive_url": "https://drive.google.com/file/d/1iFORhweltKV-r-3qx9p3KG0TAHVTXC60/view?usp=drivesdk",
+      "md5": "6347f5ef5c1f17816f230a778cd14619",
+      "size_bytes": 1761180,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0322",
+      "timestamp": "10:42–10:44",
+      "narration_slice": "great volcanic caverns opening",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1wgnnqCBb4C6I3z5dvSS06iOgson7TOJq",
+      "drive_url": "https://drive.google.com/file/d/1wgnnqCBb4C6I3z5dvSS06iOgson7TOJq/view?usp=drivesdk",
+      "md5": "0900f6b63922683759f7384eb49c0eb7",
+      "size_bytes": 2007155,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0323",
+      "timestamp": "10:44–10:46",
+      "narration_slice": "beneath the caldera rims. There,",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — First witnesses peer into magma-lit caldera dragon lairs",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "185XzdRNdl_8zB-M46sCy7VpsENkEnL3-",
+      "drive_url": "https://drive.google.com/file/d/185XzdRNdl_8zB-M46sCy7VpsENkEnL3-/view?usp=drivesdk",
+      "md5": "d997e37d7430f701b6dc7592c0145b2c",
+      "size_bytes": 2054998,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
       "scene_id": "VAL-EP001-IMG0324",
       "timestamp": "10:46–10:48",
       "narration_slice": "coiled upon ledges warmed",
@@ -6195,13 +6256,9 @@
       "upload_checksum_verified": true
     }
   ],
-  "batch_033_status": "IN_PROGRESS_7_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_033_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
   "batch_033_drive_folder_id": "1_w2nSiYNWdy6AX5ZQub_6js4w5isAm8_",
-  "batch_033_drive_verified_count": 7,
-  "batch_033_pending_rerender": [
-    "VAL-EP001-IMG0321",
-    "VAL-EP001-IMG0322",
-    "VAL-EP001-IMG0323"
-  ],
-  "batch_033_note": "DRG-VAL-001 fully revealed: whole animal coiled asleep on a warm ledge (0324), landscape scale with three of them (0325), rising low angle with the neck out of the top edge (0326), and the healed wing tear now a recurring continuity seam (0324, 0329). Seven passed first time; 0321, 0322 and 0323 are background, angle and distant-mass failures respectively and are queued for rerender. Progress held at 326/1,050 until they pass."
+  "batch_033_drive_verified_count": 10,
+  "batch_033_pending_rerender": [],
+  "batch_033_note": "DRG-VAL-001 fully revealed and the head allowed in shot for the first time: 0324 whole animal coiled asleep with the correct wedge skull and twin obsidian horns, 0325 landscape scale, 0326 rising with the neck out of the top edge. The healed wing tear becomes a recurring continuity seam (0324, 0329). Seven passed first time; three background/angle/distant-mass rerenders each cleared in one pass."
 }
