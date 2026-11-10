@@ -260,3 +260,8 @@
 - **Batch 019 (`IMG0181–0190`, `06:00–06:20`):** 10/10 frames visually reviewed, uploaded to Drive folder `1p60C66cm_rEKBz3fw3RxgiyRFSopKWdl`, and MD5-verified. Every local file is `1376×768` sRGB; Drive contains exactly ten images and each checksum matches.
 - **Visual continuity:** The sequence starts with the harsh view of volcanic Valyria from offshore, then reveals olive groves, hot springs and productive mineral-rich ash soil in the lower valleys. No current eruption or cataclysm.
 - **Progress:** 190/1,050 verified images (18.10%); Batches 001–019 complete. Batch 020 (`06:20–06:40`) is next.
+
+
+### Batch 020 — Fertile Surface to Subterranean Mineral Veins (`06:20–06:40`) — **10/10 Approved**
+
+All ten images were visually reviewed as a continuous tonal transition: black scree and new growth (`IMG0191–0192`), wild olives and figs (`IMG0193`), spring water (`IMG0194`), broad summer landscape (`IMG0195`), then natural basalt caverns and ore-bearing fissures (`IMG0196–0200`). The sequence keeps Valyria intact and pre-Doom; no active eruption, modern mine infrastructure, dragons or graphic overlays. All frames are `1376×768` sRGB PNGs; Drive lists exactly ten images and the Drive MD5 matches each local checksum. **Verified progress: 200/1,050 (19.05%); next Batch 021 (`06:40–07:00`).**

@@ -6,7 +6,7 @@
 
 **Visual standard:** Photoreal live-action landscape reconstruction, grounded 65mm historical cinema, ARRI Alexa 65, Panavision Primo spherical primes, Kodak Vision3 500T; warm sandstone highlights, emerald summer pasture, deep cerulean Summer Sea, muted volcanic stone, restrained natural grain.    
 **Continuity:** Pre-Doom Valyria remains intact beneath a long, warm summer. Complete the reveal of fertile scree, meadows, wild olives, figs and geothermal springs, then transition below ground into natural mineral seams beneath the Fourteen Flames. Keep the geology physically plausible and subdued; no current eruption, cataclysm, modern mine infrastructure or dragons.    
-**Render/QC status:** Prompts prepared; rendering and QC pending.
+**Render/QC status:** All ten frames rendered, visually reviewed and approved; uploaded to Drive and MD5-verified.
 
 ## PROMPT 191 — `VAL-EP001-IMG0191`
 
