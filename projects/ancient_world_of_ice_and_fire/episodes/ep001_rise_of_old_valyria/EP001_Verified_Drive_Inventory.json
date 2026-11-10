@@ -39,10 +39,11 @@
     31,
     32,
     33,
-    34
+    34,
+    35
   ],
-  "next_batch": 35,
-  "next_image_number": 341,
+  "next_batch": 36,
+  "next_image_number": 351,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1172,7 +1173,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": 35,
+  "in_progress_batch": 36,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1923,8 +1924,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-11T09:30:00Z",
-  "verified_progress_percent": 32.95,
+  "last_updated": "2026-11-11T13:05:00Z",
+  "verified_progress_percent": 33.9,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3620,7 +3621,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 346,
+  "verified_image_count": 356,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -6464,6 +6465,213 @@
       "drive_url": "https://drive.google.com/file/d/10YI65RIHzhCd9_c7scNd-mg8BjrUBzYZ/view?usp=drivesdk",
       "md5": "617da55cd3f62aa54c2144d15e861110",
       "size_bytes": 1831497,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_035_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_035_drive_folder_id": "1Fq7iCLbUq78N-PlVlbj8uBQ3OtMghRbG",
+  "batch_035_drive_verified_count": 10,
+  "batch_035_pending_rerender": [],
+  "batch_035_note": "The wingspan and the fire anatomy. 0349 is the frame that sells the two-hundred-foot claim — both wings spread high on a ledge with enormous black negative space; 0342-0344 supply the tactile evidence (membrane spars, the healed tear, a claw gouging stone). 0346 is the definitive internal-heat image: an ember-orange network inside the throat flesh lighting only the surrounding plates. 0348 and 0350 carry the iron-saturated skeleton reading as dull blue-black forged metal under the hide. Fourteen generations for ten frames; 0341 alone took four passes because a low camera with a head-on body axis stands the animal up as a biped, and then a wing membrane bulged across the chest and read as a head and shoulders. Eight of ten passed first time.",
+  "batch_035_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0341",
+      "timestamp": "11:20–11:22",
+      "narration_slice": "of two vast, bat-like",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "13Bs27X3QA8Lzz6b4ge2x_m3u4z2498jj",
+      "drive_url": "https://drive.google.com/file/d/13Bs27X3QA8Lzz6b4ge2x_m3u4z2498jj/view?usp=drivesdk",
+      "md5": "64e6306fa97032af399c1b9c0af58262",
+      "size_bytes": 1670393,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0342",
+      "timestamp": "11:22–11:24",
+      "narration_slice": "forelimb wings, an elder beast",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1vuHMpSUqcu_j9nPeZFXQf3pEsa8cNa4z",
+      "drive_url": "https://drive.google.com/file/d/1vuHMpSUqcu_j9nPeZFXQf3pEsa8cNa4z/view?usp=drivesdk",
+      "md5": "17bbd82fd6786b198e7deb15f83683a2",
+      "size_bytes": 1384188,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0343",
+      "timestamp": "11:24–11:26",
+      "narration_slice": "spanned two hundred feet",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "11zxwbmqILSO6yABOooNCtQyToGLXmShB",
+      "drive_url": "https://drive.google.com/file/d/11zxwbmqILSO6yABOooNCtQyToGLXmShB/view?usp=drivesdk",
+      "md5": "1312ccbac61b0518ba41339ab27920ae",
+      "size_bytes": 1492268,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0344",
+      "timestamp": "11:26–11:28",
+      "narration_slice": "from claw to claw, exhaling",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1cGkDADLqqQaoyBhjp3CuEqKR1-vSlLvn",
+      "drive_url": "https://drive.google.com/file/d/1cGkDADLqqQaoyBhjp3CuEqKR1-vSlLvn/view?usp=drivesdk",
+      "md5": "d1f2bebfb13d20f33f7c5bfa96042764",
+      "size_bytes": 2427875,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0345",
+      "timestamp": "11:28–11:30",
+      "narration_slice": "smoke from sulfur-crusted nostrils.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1dDtOPxAxVLgiz-c5I-gQ6Lq77SRxHM1C",
+      "drive_url": "https://drive.google.com/file/d/1dDtOPxAxVLgiz-c5I-gQ6Lq77SRxHM1C/view?usp=drivesdk",
+      "md5": "2af9b3001ea807dd50597f2698dd97c8",
+      "size_bytes": 1415077,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0346",
+      "timestamp": "11:30–11:32",
+      "narration_slice": "Every detail of their",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1ppNHhjEDc6KqOtSZA5ObnjYXmvasCi1i",
+      "drive_url": "https://drive.google.com/file/d/1ppNHhjEDc6KqOtSZA5ObnjYXmvasCi1i/view?usp=drivesdk",
+      "md5": "aad60c15399377d8c5d99fc3d980d213",
+      "size_bytes": 1762580,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0347",
+      "timestamp": "11:32–11:34",
+      "narration_slice": "anatomy belonged to fire. Even",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "11AzKI8TdLOMqT4-Aiulckr6Kn1n4vifp",
+      "drive_url": "https://drive.google.com/file/d/11AzKI8TdLOMqT4-Aiulckr6Kn1n4vifp/view?usp=drivesdk",
+      "md5": "45e1e1c399abd9225714bf051a896a31",
+      "size_bytes": 1216256,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0348",
+      "timestamp": "11:34–11:36",
+      "narration_slice": "their skeletons shimmered jet-black",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1oFdS4aWWS6LQN_IxLHlJZHMR8s6WCBSO",
+      "drive_url": "https://drive.google.com/file/d/1oFdS4aWWS6LQN_IxLHlJZHMR8s6WCBSO/view?usp=drivesdk",
+      "md5": "3f559fcb23e354a4c972eefb2b51e122",
+      "size_bytes": 1670832,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0349",
+      "timestamp": "11:36–11:38",
+      "narration_slice": "from the high iron",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1hZk9dw78FFg1pKBH31rA1ngZ7cULWiMg",
+      "drive_url": "https://drive.google.com/file/d/1hZk9dw78FFg1pKBH31rA1ngZ7cULWiMg/view?usp=drivesdk",
+      "md5": "87b7ea57ead5b023b4ba470aa379e040",
+      "size_bytes": 1612789,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0350",
+      "timestamp": "11:38–11:40",
+      "narration_slice": "content saturating their bones, lighter",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1L15pHZFT1vQ7pOjo1qjP2poWB2NQuiHV",
+      "drive_url": "https://drive.google.com/file/d/1L15pHZFT1vQ7pOjo1qjP2poWB2NQuiHV/view?usp=drivesdk",
+      "md5": "b2a7cec3a09e34260860af489ec0358f",
+      "size_bytes": 2052590,
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
