@@ -12,7 +12,7 @@
 
 **The batch also contains the hinge of the entire episode: the light changes.** For the first time since the peninsula prologue, the film leaves the Shadow's sourceless grey-green gloom and there is **real daylight** — flat, cold, colourless, overcast. `IMG0474` is that hinge: four figures come over a pass, and the world has a sun in it again without anyone announcing it. It must never become golden hour, a sun disc, god-light or shafts: **the legend earns its warmth from what it claims, not from the lighting department.**
 
-**Render/QC status:** **7 of 10 approved, uploaded and MD5-verified · `IMG0476` REJECTED · `IMG0479`, `IMG0480` not rendered.** One letterbox crop.
+**Render/QC status:** **9 of 10 approved, uploaded and MD5-verified · `IMG0476` open after two failed passes.** One letterbox crop.
 
 | Frame | Status | Note |
 | :--- | :--- | :--- |
@@ -21,11 +21,11 @@
 | `IMG0473` | ✅ Approved, uploaded | 50mm from behind: four backs at the top of the scree, looking at the first paler distance. |
 | `IMG0474` | ✅ Approved, uploaded | **The hinge.** 35mm into the smoking peaks — daylight, the sea, cypress in the folds. |
 | `IMG0475` | ✅ Approved, uploaded | 24mm: the crescent of the Fourteen Flames. **Not one human thing in frame.** Reframed 0–755. |
-| `IMG0476` | ❌ **REJECTED** | **Integrity, not content:** a hard vertical seam at x≈657. A stitched panorama. |
+| `IMG0476` | ❌ **OPEN (2 fails)** | Pass 1: a stitched panorama. Pass 2: **six limbs** at 3x. Third brief = flight. |
 | `IMG0477` | ✅ Approved, uploaded | 85mm macro at a horn root: a plain strap drawn tight, nothing stamped. Two fingers, not a grip. |
 | `IMG0478` | ✅ Approved, uploaded | 85mm: the shepherd. **Deliberately not a chosen one.** Mended wool, no ornament, flat light. |
-| `IMG0479` | ⏳ Not rendered | 100mm extreme close-up tactile study. |
-| `IMG0480` | ⏳ Not rendered | 40mm — the masters **vanishing utterly**, which is the hardest beat in the batch. |
+| `IMG0479` | ✅ Approved, uploaded | **The best erasure frame of the production.** 100mm: wind pouring ash into hollows that are nearly gone. |
+| `IMG0480` | ✅ Approved, uploaded | 40mm: an empty ridge, three smoking cones, **no one in frame at all**. |
 
 **`IMG0472` is the best idea here, and it is the whole legend in one object.** Two pairs of ash-caked hands at 65mm, drawing a length of heavy heat-cured leather through a plain iron ring. That is *binding lore* — the teaching reduced to the thing being taught, with no incantation, no diagram, no glowing rune. **Nothing is stamped, branded, dyed or marked on the leather**, and both faces are out of frame above. The masters' knowledge reaches the herdsmen as **an object that is worn**, which is both how real technologies travel and the only way to show arcane knowledge in a production that cannot photograph writing.
 
@@ -44,4 +44,10 @@
 5. **Leave the land empty before the story walks into it.** `0475` is stronger for having no road and no town — the empty peninsula is what makes the arrival meaningful.
 6. **Hedge the image the way the narration hedges.** *Legend claims* means the camera never gets close enough to prove anything, and no frame may resolve what the voice-over leaves open.
 
-**Next — finish 048 (`IMG0479`, `IMG0480`) before opening 049.** `0480` is the difficulty: the masters must **vanish utterly from the history of men**, which is a beat about absence and not about departure — it must not look like anyone walked away.
+**`IMG0479` solved the disappearance better than I expected to.** The brief was *erasure* rather than departure, and what came back is a 100mm laid almost flat on the scree: a low wind moving pale ash across the ground **in the act of filling three or four shallow hollows**, the last half-obliterated traces of feet, with their rims breaking and the ash pouring in. No object left behind, nothing dropped, nothing marked. **In another minute there will be nothing there** — and that is the beat, exactly: the legend does not say the masters left, only that they are gone.
+
+**`IMG0480` is the wide that finishes it, and its emptiness is the whole shot.** An empty ridge, a bare ash saddle, three cones smoking far off, wind moving dust in pale streaks — and **no one in the frame at all**: no figure, no distant speck, no camp, no grave, no cairn. Composed like a departure that has already finished, which is the only honest way to photograph a people who *vanish utterly from the history of men*.
+
+**`IMG0476` remains open, and it has now failed twice in two different ways** — which is worth stating plainly, because the second failure is the more interesting one. Pass one was a stitched panorama (a hard vertical seam at x≈657). Pass two removed the seam completely — verified by column scan, max adjacent-column delta 0.017, no step — but at 3x the animal carries **six limbs**: two forelimbs planted on the rock in front of the chest, a hind leg behind, a second hind foot beyond it, and the wings held separately above.
+
+That is `0398` and `0446` again, in a new disguise, and the diagnosis is the same one `9c` already contains: **the animal was rendered as detail rather than as a flat black shape.** The prompt called for a silhouette, but the ash behind it was bright enough and the animal detailed enough that the model filled in everything it could see. **The third brief stops describing and changes the pose** — flight, wings spread, both hind legs tucked to the belly and out of sight, nothing touching the ground, exactly zero claws visible below the body.

@@ -5,13 +5,13 @@
   "timecode": "15:40-16:00",
   "frame_range": "VAL-EP001-IMG0471 - VAL-EP001-IMG0480",
   "narration_slice": "to mortal will in the eastern darkness. Legend claims these nameless masters journeyed westward to the smoking peaks of the Valyrian peninsula, brought tamed dragons or binding lore to the silver-haired herdsmen, taught them their arcane arts, and then vanished utterly from the history of men.",
-  "batch_status": "PARTIAL_7_OF_10_APPROVED_UPLOADED_0476_REJECTED_0479_0480_NOT_RENDERED",
-  "approved_count": 7,
-  "approved_uploaded_count": 7,
-  "drive_verified_count": 7,
+  "batch_status": "COMPLETE_9_OF_10_APPROVED_UPLOADED_0476_REJECTED_3RD_PASS",
+  "approved_count": 9,
+  "approved_uploaded_count": 9,
+  "drive_verified_count": 9,
   "batch_drive_folder_id": "12qR_2G1Vn9ERn3g0pKA7_bh1unrUckPC",
   "parent_ep001_folder_id": "1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn",
-  "generations_used": 10,
+  "generations_used": 12,
   "generations_cap": 10,
   "locations": "the Shadow breaking west (0471-0473); the Valyrian peninsula, first sight (0474-0476); the herdsmen (0477-0480)",
   "creature_refs": "DRG-VAL-001 appears twice - 0470 as a bent head in the Shadow, 0476 as a strict silhouette",
@@ -20,10 +20,7 @@
   "pending_rerender_scenes": [
     "VAL-EP001-IMG0476"
   ],
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0479",
-    "VAL-EP001-IMG0480"
-  ],
+  "pending_completion_scenes": [],
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0471",
@@ -149,8 +146,8 @@
       "drive_file_id": null,
       "drive_url": null,
       "md5_verified_on_drive": false,
-      "qc_note": "REJECTED on image integrity, not on content. There is a **hard vertical seam at x=657 running the full height of the frame**, with the left third rendered as a separate darker exposure with its own edge - a panorama-stitch artifact. It cannot be cropped out: the seam sits between the foreground rock and the dragon, and any crop that removes it removes either the animal or the figures. The dragon silhouette itself is exactly right (four limbs, two folded wings, two planted hind legs, twin horns breaking the outline) and so is the composition, which is why this is a re-render and not a rethink.",
-      "rerender_brief": "Repeat the same shot and composition - 24mm from low on the scree, the dragon in strict profile silhouette against a pale ash slope, three tiny figures at the bottom edge - but render it as ONE continuous photograph. Negate: panorama, stitched image, collage, split panel, triptych, vertical seam, differing exposure, border, frame within frame, matte. State that it is a single continuous photographic exposure from corner to corner, with even lighting across the whole frame and no vertical divisions of any kind."
+      "qc_note": "REJECTED — second pass, new fault. The stitch is gone and the file is one continuous exposure, verified by column scan (max adjacent-column delta 0.017, no step). But at 3x the animal now carries **six limbs**: two forelimbs planted on the rock in front of the chest, one hind leg behind, a second hind foot on the far side, and the wings held separately above. The same crouched, detail-lit, wings-forward configuration that produced 0398 and 0446, in a new disguise: the silhouette did not hold because the figure was rendered as detail rather than as a flat black shape.",
+      "rerender_brief": "Third and final approach - change the POSE, not the description. Put the animal IN FLIGHT above the scree, wings spread, both hind legs tucked tight against the belly and completely out of sight, so the frame shows a body, two wings and a head and nothing else. Negate: standing, crouched, perched, forelimbs, front legs, arms, claws on the ground, extra limbs, third leg, fourth leg, dangling feet. State that nothing touches the ground and that exactly zero claws are visible below the body. One continuous photographic exposure, no panorama."
     },
     {
       "scene_id": "VAL-EP001-IMG0477",
@@ -206,14 +203,14 @@
       "visual_beat": "Extreme close-up tactile / light study — Disputed legend: nameless Shadow masters teaching Valyrians",
       "file_path": "assets/batch_048/VAL-EP001-IMG0479.png",
       "shot_type": "DET · 100mm",
-      "qc_status": "PENDING",
-      "md5": null,
-      "size_bytes": null,
+      "qc_status": "APPROVED",
+      "md5": "58a37491c6ef04b684ac6d918ceb9c7c",
+      "size_bytes": 2257066,
       "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "NOT YET RENDERED. Deferred: the per-turn generation cap was spent on 0469, 0470 and eight frames here."
+      "drive_file_id": "1j3iPc08Z29FrW4jf84I-VmTh9soabMAF",
+      "drive_url": "https://drive.google.com/file/d/1j3iPc08Z29FrW4jf84I-VmTh9soabMAF/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "100mm laid almost flat on black vesicular scree: a low wind is moving pale grey ash across the ground and it is in the act of filling three or four shallow oval hollows - the last half-obliterated traces of feet. The drifting ash is breaking their rims and pouring in, and in another minute nothing will be there. **No object is left behind, nothing is dropped, nothing is marked.** A single thread of ash lifts at the upper left and hangs. Flat cold light, the hollows read by their shadows alone. The best erasure frame of the production. Full-bleed."
     },
     {
       "scene_id": "VAL-EP001-IMG0480",
@@ -227,15 +224,16 @@
       "visual_beat": "Transitional wide horizon / bridge framing — Disputed legend: nameless Shadow masters teaching Valyrians",
       "file_path": "assets/batch_048/VAL-EP001-IMG0480.png",
       "shot_type": "WS · 40mm",
-      "qc_status": "PENDING",
-      "md5": null,
-      "size_bytes": null,
+      "qc_status": "APPROVED",
+      "md5": "468879b2a27a455f7ef216f8ace7325d",
+      "size_bytes": 2169136,
       "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "NOT YET RENDERED. Deferred: the per-turn generation cap was spent on 0469, 0470 and eight frames here."
+      "drive_file_id": "1XCs5wso5b_5Q-QP16WPJoiFxSt1zv9yJ",
+      "drive_url": "https://drive.google.com/file/d/1XCs5wso5b_5Q-QP16WPJoiFxSt1zv9yJ/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "40mm from an empty ridge: a broad bare ash saddle falls away to three smoking cones far off, thin dark plumes bent west, wind moving surface dust in long pale streaks. **There is no one in the frame** - no figure, no silhouette, no distant speck, no camp, no animal, no grave, no cairn, no mark. The ground where someone stood is simply ground. Composed like a departure that has already finished, which is how a disappearance should be shot. Full-bleed."
     }
   ],
-  "batch_drive_folder_url": "https://drive.google.com/drive/folders/12qR_2G1Vn9ERn3g0pKA7_bh1unrUckPC"
+  "batch_drive_folder_url": "https://drive.google.com/drive/folders/12qR_2G1Vn9ERn3g0pKA7_bh1unrUckPC",
+  "closed_note": "Closed with 0479 and 0480, both first pass. 0479 is the best erasure frame of the production: wind pouring ash into hollows that are nearly gone. 0480 is a wide of an empty ridge with no one in it, composed like a departure that has already finished. 0476 remains open after two failed passes - first a stitched panorama, then six limbs."
 }

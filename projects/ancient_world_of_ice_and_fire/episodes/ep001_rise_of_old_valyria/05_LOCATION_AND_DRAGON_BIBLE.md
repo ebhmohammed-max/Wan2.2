@@ -44,6 +44,17 @@
 - **⚠️ THE UNMASKED-FACE RULE.** The narration says memory preserves *neither their name nor their unmasked faces*. This must never become a rendered face. The camera is **never placed where a face could exist**: figures are **distant silhouettes, backs of heads, or bowed under hoods that hang past the crown**. Negate **face, mask, eyes, mouth, nose, profile, veil, helmet** by name. A hidden face is still a face-shaped hole in the frame — **move the camera instead of covering the face.**
 - **Scale as argument:** these people are older than memory, so they must be the **smallest thing in the frame**. Wide, distant, unlit, unspeaking.
 
+### 4c. `VALYRIAN FUSED STONE` — the anti-masonry rule *(failures: `IMG0286`, `IMG0453`, `IMG0482`)*
+- **Dragonflame-fused black stone must look POURED**: seamless, mortarless, glassy, continuous, **cooled from molten flow**, slightly translucent at thin edges, like obsidian. No capitals, no bases, no courses, no ornament.
+- **The failure is now three for three.** Describing the material positively — "cyclopean", "fused", "colossal" — produces **coursed masonry with joints and rubble texture** every time. `0286` (fortress rampart), `0453` (Roman basilica), `0482` (stacked rubble piers).
+- **Therefore every architectural prompt carries the negation list:** `no ashlar, no coursed masonry, no stacked blocks, no joint lines, no mortar, no rubble, no brick, no dry-stone, no pitting, no capital, no base, no cornice, no entablature, no pavers, no grout.` Say **"one single cooled mass"** per pier, and where the stone thins, **slightly translucent at the edge**.
+- **Best approved references:** `IMG0481` (two fused piers over a fused road) and `IMG0483` (fused shapes sitting in a herding valley with sheep grazing around them — power arriving as geology).
+
+### 4d. `THE CITADEL OF OLDTOWN` — three appearances, no character *(Batches 004, 028, 049)*
+- **No maester is ever a character.** The ban has held across three appearances and has produced better frames than a portrait would have. Disbelief is carried by **ink-stained hands, a forged chain of dull mixed metals, wet marble and small pools of candlelight**.
+- **Crop above the wrists** (`0485`), or **render maesters strictly from behind** (`0486`). Where a face is wanted, give it to **carved stone** (`0487`, the marble sphinx in rain).
+- **Pages may exist, words may not.** A page turned away, edge-on, closed, or out of focus is the established solution (`0034`, `0037`, `0485`). At magnification there must be **no legible word** — blurred texture only. Warm candlelight is permitted **here and only here**.
+
 ### 5. `LOC-ESS-001`: OLD GHIS — CAPITAL OF THE GHISCARI EMPIRE *(Batch 001: `IMG0006`; Batches 011–015: `IMG0106–0150`; Batches 095–105)*
 - **Historical Period:** Peak Pre-Valyrian Ghiscari Dominance, pre-5,000 BC.
 - **Architectural Style & Materials:** Monumental ancient Near-Eastern / Mesopotamian-inspired brickwork (*ASOS* Daenerys III): colossal **stepped pyramids of fired yellow-ochre and terracotta brick** with irrigated hanging palm terraces, massive crenellated mud-brick ramparts, glazed lapis-blue tile friezes, wide limestone parade avenues, and a **100-foot cast-bronze statue of the Harpy of Old Ghis** (woman's torso, bat wings for arms, scorpion tail, eagle talons clutching a **thunderbolt**).
