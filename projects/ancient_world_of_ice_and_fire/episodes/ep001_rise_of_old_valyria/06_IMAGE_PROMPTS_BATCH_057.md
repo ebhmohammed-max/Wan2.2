@@ -17,7 +17,7 @@ The narration has just reached the one clause of Barth's account it is prepared 
 
 > *“What history confirms beyond dispute is the result: a bond in which one rider claimed one living dragon—and the dragon accepted no other living rider while its master breathed.”*
 
-Everything before the word *is* is speculation (*“we cannot know whether … or …”*). The word *is* is the hinge. Chapter V (19:00, `IMG0571+`, *“Imagine the morning upon the Fourteen Flames”*) will dramatize the crossing — bare hands on copper-bronze scales — but **this batch must not go there first**. It is the last batch of the claim's register, and it renders only the **evidence for the claim**, never the claim being lived.
+Everything before the word *is* is speculation (*“we cannot know whether … or …”*). The word *is* is the hinge. The dramatization (19:00, `IMG0571+`, *“Imagine the morning upon the Fourteen Flames”*, still Chapter IV) comes next — bare hands on copper-bronze scales — but **this batch must not go there first**. It is the last batch of the claim's register, and it renders only the **evidence for the claim**, never the claim being lived.
 
 **So the batch is built on three devices, in rotation:**
 
@@ -148,8 +148,8 @@ Everything before the word *is* is speculation (*“we cannot know whether … o
 | Worked marks at 4x–5x | `0562`, `0567` | no engraving, stamp, maker's mark, letter or glyph anywhere on iron, leather or cloth |
 | Vent glow discipline | `0564`, `0566` | dull red-black, low, touching nothing; nothing alight anywhere |
 
-**The rule that governed the batch, proved ten times:** the bond as evidence — a fitted strap, a ring worn by one hand, an unopened second fitting, an empty ledge — never the crossing itself. No human figure appears in any of the ten frames; Chapter V inherits the dramatization (`IMG0571+`, *“Imagine the morning upon the Fourteen Flames”*).
+**The rule that governed the batch, proved ten times:** the bond as evidence — a fitted strap, a ring worn by one hand, an unopened second fitting, an empty ledge — never the crossing itself. No human figure appears in any of the ten frames; the dramatization inherits the next batch (`IMG0571+`, still Chapter IV).
 
 **`IMG0160` remains the one open correction from an earlier batch. `IMG0500` was officially abandoned at Batch 050 close and is not owed.**
 
-Next: **Batch 058 (`19:00–19:20`)** — **Chapter V opens.** The staging register begins; the testimony register ends here.
+Next: **Batch 058 (`19:00–19:20`)** — **the dramatized first ascent opens** (still Chapter IV). The staging register begins; the testimony register ends here. Chapter V proper opens at 20:30 (Batch 063).
