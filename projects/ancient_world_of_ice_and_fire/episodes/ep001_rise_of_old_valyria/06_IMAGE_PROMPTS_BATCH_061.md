@@ -1,7 +1,7 @@
 # BATCH 061 — IMAGE PROMPTS
 **Episode 001 · Before the Dragons: The Rise of Old Valyria**
 **Timecode 20:00–20:20 · Ch. IV · frames VAL-EP001-IMG0601 – IMG0610**
-**Status: OPEN — 0 of 10.**
+**Status: PARTIAL — 6 of 10 APPROVED, 4 REVISIONS QUEUED (`0602` town-glints / `0604` cone incandescence / `0606` resolved profile / `0610` five ships). Six checksums re-read and matched on Drive; verified progress unchanged: 594/1,050 (56.57%).**
 
 Shared opener on every prompt (do not drop it):
 
