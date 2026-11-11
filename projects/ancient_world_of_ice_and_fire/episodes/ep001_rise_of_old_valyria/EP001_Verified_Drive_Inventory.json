@@ -574,7 +574,7 @@
    "upload_checksum_verified": true
   }
  ],
- "completed_images": 569,
+ "completed_images": 578,
  "batch_002_images_65mm": [
   {
    "number": 11,
@@ -1195,7 +1195,7 @@
    "narration_slice": "song that brought back the day."
   }
  ],
- "in_progress_batch": null,
+ "in_progress_batch": 58,
  "batch_007_verified_images": [
   {
    "image_number": 61,
@@ -1947,7 +1947,7 @@
   }
  ],
  "last_updated": "2026-11-11",
- "verified_progress_percent": 54.19,
+ "verified_progress_percent": 55.05,
  "batch_012_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0111",
@@ -3643,7 +3643,7 @@
    "upload_checksum_verified": true
   }
  ],
- "verified_image_count": 569,
+ "verified_image_count": 578,
  "batch_021_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0201",
@@ -9983,7 +9983,7 @@
  "the_scream_rule": "The scream is physical cost, not magic. Show flush, taut tendons, sweat, a worn and crusted mouthpiece, dry residue - then a still body on a terrace and one whole horn standing among ruins a civilisation later. No aura, no glow, no shockwave, no sound effect, nothing alight, in any frame.",
  "the_body_rule": "No face and no injury in batch 053. Strain is tendons, flush and sweat; damage is dryness, salt deposit and worn metal; the cost is posture. Negations carried in every prompt: no blood, no wound, no injury, no bruise, no burn. This is also why the batch cleared moderation on the first pass: describe what the body is doing, not what has been done to it.",
  "batch_052_three_faults_lesson": "0514 was masonry, 0519 was the sky, 0512 was a dropped call. All three fixed on the first re-render because the fault was in the negation list, not the idea. The masonry negation list is now standard wording on any frame containing a stone wall - 0528 pass 1 proved it is still needed in the middle distance, not just in the foreground.",
- "verified_percent": 54.19,
+ "verified_percent": 55.05,
  "open_corrections": [
   "VAL-EP001-IMG0160"
  ],
@@ -10270,7 +10270,7 @@
  ],
  "batch_056_note": "Batch 056 'Barth's Sentence' (18:20-18:40) CLOSED 10/10 on ten first passes — zero rejections. The batch holds the testimony rule (bible 4h) without a single depiction of the act: 0551 residue, 0552-0554 category as specimen, 0555-0559 the boundary at widening scales, 0560 the reader. Crop checks passed at 3x-5x (0557 head a uniform dark shape, no ear or profile; 0553/0560 hands pale-dry-grimy, no red; 0557/0560 pages blank, toned, foxed; 0556's empty iron bracket verified empty at 5x). Uploads to EP001_BATCH_056_IMG0551-0560; checksums re-read from Drive and matched.",
  "batch_056_lesson": "The testimony rule holds when the sentence is rendered as objects. Where the narration says the unsayable, the images that survive are the ones about what was left behind — ash, wear, a tray, a cord, a horizon — never the thing itself. Zero rejected generations is a first for a Chapter IV batch.",
- "reconciliation_note": "Running total reconciled 2026-11-11. Historical close notes claim 564/1,050 (53.71%); that figure is arithmetic drift and is superseded. The verifiable per-frame records sum to 549 through Batch 055 (batches 001-004: 4x10; batches 005-055: 509 of 510 — Batch 050 closed 9/10 with IMG0500 officially abandoned after two character failures). 549 + 10 (Batch 056) + 10 (Batch 057) = 569/1,050 = 54.19%. Drive filename sweep re-run and verified 2026-11-11 (trashed=false, full traversal, next_page_token null): 576 files match VAL-EP001-IMG* — canonical numbers 0001-0570 with exactly one gap (IMG0500), i.e. 569 unique canonical PNGs, plus 7 legacy variant-suffixed PNGs (0010_peninsula_reveal, 0033_ancient_runes, 0048_frozen_rhoyne, 0064_bone_mountains, 0082_mother_rhoyne_iron, 0095_asshai_shadow, 0110_old_ghis_harpy). The earlier note's 560-count / 0094-0255-0315-0316 duplicates were not borne out by the re-run (each of those four names now resolves to exactly one file). 569 canonical + 7 variants = 576. IMG0160 remains the one open correction.",
+ "reconciliation_note": "Running total reconciled 2026-11-11. Historical close notes claim 564/1,050 (53.71%); that figure is arithmetic drift and is superseded. The verifiable per-frame records sum to 549 through Batch 055 (batches 001-004: 4x10; batches 005-055: 509 of 510 — Batch 050 closed 9/10 with IMG0500 officially abandoned after two character failures). 549 + 10 (Batch 056) + 10 (Batch 057) = 569/1,050 = 54.19%. Drive filename sweep re-run and verified 2026-11-11 (trashed=false, full traversal, next_page_token null): 576 files match VAL-EP001-IMG* — canonical numbers 0001-0570 with exactly one gap (IMG0500), i.e. 569 unique canonical PNGs, plus 7 legacy variant-suffixed PNGs (0010_peninsula_reveal, 0033_ancient_runes, 0048_frozen_rhoyne, 0064_bone_mountains, 0082_mother_rhoyne_iron, 0095_asshai_shadow, 0110_old_ghis_harpy). The earlier note's 560-count / 0094-0255-0315-0316 duplicates were not borne out by the re-run (each of those four names now resolves to exactly one file). 569 canonical + 7 variants = 576. IMG0160 remains the one open correction. Batch 058 uploaded 10/10 but only 9 verified (IMG0572 revision queued): 549 + 10 (056) + 10 (057) + 9 (058) = 578/1,050 = 55.05%.",
  "batch_057_status": "COMPLETE_10_OF_10_UPLOADED_MD5_VERIFIED",
  "batch_057_drive_folder_id": "1HhUVPcek11XTu-cihyohRuQR7bBJRodD",
  "batch_057_drive_verified_count": 10,
@@ -10453,5 +10453,101 @@
   }
  ],
  "batch_057_note": "Batch 057 'The Bond as Evidence' (18:40-19:00) CLOSED 10/10 on ten first passes. The last clause of the claim — 'what history confirms beyond dispute' — rendered as evidence, never as spectacle: the single fitted strap (0561), the tools of the oath (0562), the poured-shut door of the untestable branch (0563), distance and silhouette (0564/0565/0566), one hand's wear on iron (0567), a resting dragon eye — the only face in the batch, matte and dark (0568), the unused second fitting (0569), and an empty ledge before the threshold (0570). 2x limb checks passed (0561 side-on, four limbs; 0564/0565/0566 tucked-leg silhouettes). Uploads to EP001_BATCH_057_IMG0561-0570; checksums re-read from Drive and matched.",
- "batch_057_lesson": "Chapter IV testimony discipline now has a named end-state: the bond is rendered as documentary evidence (wear, fit, absence), not as living tableau — that frame belongs to the 19:00 crossing dramatization (still Chapter IV). Second consecutive zero-rejection batch; enforcement at composition time is compounding."
+ "batch_057_lesson": "Chapter IV testimony discipline now has a named end-state: the bond is rendered as documentary evidence (wear, fit, absence), not as living tableau — that frame belongs to the 19:00 crossing dramatization (still Chapter IV). Second consecutive zero-rejection batch; enforcement at composition time is compounding.",
+ "batch_058_status": "PARTIAL_9_OF_10_UPLOADED_1_REVISION_QUEUED_0572",
+ "batch_058_drive_folder_id": "1HRhnRi6xwyjBajNIuoexppS9yMpF5WAv",
+ "batch_058_drive_verified_count": 9,
+ "batch_058_note": "Batch 058 'The Crossing — The Morning upon the Fourteen Flames' (19:00-19:20) uploaded 10/10; 9 approved on first passes; IMG0572 NOT approved (crouched pose deviating from brief; hindquarter occluded — mandatory 2x limb count unverifiable) and queued for re-render next turn. Checksums re-read from Drive and matched for all ten. 578/1,050 verified.",
+ "batch_058_verified_images": [
+  {
+   "scene_id": "VAL-EP001-IMG0571",
+   "drive_file_id": "10W83A_Aa8vBQ7dnpT2myYCJ1pclwhXnZ",
+   "drive_url": "https://drive.google.com/file/d/10W83A_Aa8vBQ7dnpT2myYCJ1pclwhXnZ/view",
+   "md5": "8fe8eea503cef0336c70fce255aefab2",
+   "size_bytes": 1416665,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0573",
+   "drive_file_id": "1HxMwVQn4oSyRIClcLO7GinR6Q4KD8g4K",
+   "drive_url": "https://drive.google.com/file/d/1HxMwVQn4oSyRIClcLO7GinR6Q4KD8g4K/view",
+   "md5": "575911ad5217dc1025da6e7b1753cfbb",
+   "size_bytes": 1350001,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0574",
+   "drive_file_id": "18fQzjqa0towZYI8MUMCOcolyDxYuBRny",
+   "drive_url": "https://drive.google.com/file/d/18fQzjqa0towZYI8MUMCOcolyDxYuBRny/view",
+   "md5": "ba92ec048b7e002e87e052b52ca9165d",
+   "size_bytes": 1260709,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0575",
+   "drive_file_id": "1_yGyWu7t9g4x_wYxbJhvqTA7XcJwpudE",
+   "drive_url": "https://drive.google.com/file/d/1_yGyWu7t9g4x_wYxbJhvqTA7XcJwpudE/view",
+   "md5": "e32aed79b2226c871978ff0045231f2d",
+   "size_bytes": 1546532,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0576",
+   "drive_file_id": "19A0vwbsICKPowKkqT4zVLAAhxTXR88uC",
+   "drive_url": "https://drive.google.com/file/d/19A0vwbsICKPowKkqT4zVLAAhxTXR88uC/view",
+   "md5": "3125ba82045cf0f04cb9a151c943fd53",
+   "size_bytes": 1671096,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0577",
+   "drive_file_id": "1GsuAWqEElkUAswO89QateK5TGF90VjcV",
+   "drive_url": "https://drive.google.com/file/d/1GsuAWqEElkUAswO89QateK5TGF90VjcV/view",
+   "md5": "db22a356254e2c23b226dbcebd03bde7",
+   "size_bytes": 1682216,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0578",
+   "drive_file_id": "14Vr8yEyOn8GWyrgZpG-WR4Zzm42us9BE",
+   "drive_url": "https://drive.google.com/file/d/14Vr8yEyOn8GWyrgZpG-WR4Zzm42us9BE/view",
+   "md5": "4c510043bac6a965144378fa3f9e9cc9",
+   "size_bytes": 1369076,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0579",
+   "drive_file_id": "1k9wiA_42phH7ZWkQ0jThjgv2GI3Q5ryG",
+   "drive_url": "https://drive.google.com/file/d/1k9wiA_42phH7ZWkQ0jThjgv2GI3Q5ryG/view",
+   "md5": "3f9db2ac753959c737abbf81e4803a77",
+   "size_bytes": 1451318,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0580",
+   "drive_file_id": "1qzSbhTIvBxhTiIOU2dqekvUKNtne_TEm",
+   "drive_url": "https://drive.google.com/file/d/1qzSbhTIvBxhTiIOU2dqekvUKNtne_TEm/view",
+   "md5": "e23a35b5c6eac7404fa6812180b94624",
+   "size_bytes": 1309857,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  }
+ ]
 }
