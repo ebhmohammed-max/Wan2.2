@@ -50,10 +50,11 @@
     42,
     43,
     44,
-    45
+    45,
+    46
   ],
-  "next_batch": 46,
-  "next_image_number": 453,
+  "next_batch": 47,
+  "next_image_number": 469,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1934,8 +1935,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-13T04:25:00Z",
-  "verified_progress_percent": "44.10%",
+  "last_updated": "2026-11-13T09:20:00Z",
+  "verified_progress_percent": "44.86%",
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3631,7 +3632,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 463,
+  "verified_image_count": 471,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -8715,6 +8716,23 @@
       "upload_checksum_verified": true
     },
     {
+      "scene_id": "VAL-EP001-IMG0453",
+      "timestamp": "15:04–15:06",
+      "narration_slice": "how humble shepherds became",
+      "shot_type": "28mm deep-focus wide of the archive's central gallery",
+      "visual_beat": "Deep-focus wide atmospheric composition — Candlelit Asshai archives challenging Valyria's boast",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "1OPDBaP7DnjkyfuZTx5T3A8P43rkfxDxe",
+      "drive_url": "https://drive.google.com/file/d/1OPDBaP7DnjkyfuZTx5T3A8P43rkfxDxe/view",
+      "md5": "fe3be047d40f1bf969c0cb884f20c97e",
+      "size_bytes": 1430860,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
       "scene_id": "VAL-EP001-IMG0454",
       "timestamp": "15:06–15:08",
       "narration_slice": "dragonriders, you will hear",
@@ -8815,17 +8833,180 @@
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0460",
+      "timestamp": "15:18–15:20",
+      "narration_slice": "that the Valyrians did",
+      "shot_type": "24mm high-elevation scale reveal of the archive and the city below",
+      "visual_beat": "High-elevation geographic / scale reveal — Candlelit Asshai archives challenging Valyria's boast",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "1twXQkGsAcSZeTjQGdeMF4bm6ifbMCgU2",
+      "drive_url": "https://drive.google.com/file/d/1twXQkGsAcSZeTjQGdeMF4bm6ifbMCgU2/view",
+      "md5": "ca23db881bfe3d7a26c59f84ea3b13ac",
+      "size_bytes": 2277206,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
     }
   ],
-  "batch_046_status": "PARTIAL_8_OF_10_UPLOADED_MD5_VERIFIED_0453_REJECTED_0460_NOT_RENDERED",
+  "batch_046_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
   "batch_046_drive_folder_id": "1Gb_vyuJ8cR8Yeu08ybDtVoQDxjqRAXVC",
-  "batch_046_drive_verified_count": 8,
-  "batch_046_pending_rerender_scenes": [
-    "VAL-EP001-IMG0453"
-  ],
-  "batch_046_pending_completion_scenes": [
-    "VAL-EP001-IMG0460"
-  ],
+  "batch_046_drive_verified_count": 10,
+  "batch_046_pending_rerender_scenes": [],
+  "batch_046_pending_completion_scenes": [],
   "batch_046_note": "The dark annals of Asshai. This batch had to solve two collisions: the narration says 'candle-lit libraries' while Asshai is locked to blood-red shadowbinder lanterns, and the beat is about written records while nothing in this episode may read as writing. Both solved by substitution rather than compromise - one or two guttering tallow flames carry the candle, and every scroll is rolled, closed, cord-bound, caged or turned end-out, so the archive reads as abundance without legibility. 0451 is the strongest frame: hundreds of closed cylinders floor to ceiling under one red lantern. 0453 REJECTED as Roman basilica - moulded capitals, coursed ashlar, square pavers - the anti-architecture rule returning outside the caldera for the first time.",
-  "asshai_batch_046_lock": "LOC-ESS-003 for the rest of this chapter: cyclopean jointless black stone with NO capitals, bases, mouldings, cornices or regular coursing; NO square pavers or grout lines; dim blood-red shadowbinder lanterns plus at most two guttering tallow flames; no warm golden candlelight; no daylight; deep bowed hoods that hang below the crown of the head so no face or mask plane appears; every scroll rolled and closed."
+  "asshai_batch_046_lock": "LOC-ESS-003 for the rest of this chapter: cyclopean jointless black stone with NO capitals, bases, mouldings, cornices or regular coursing; NO square pavers or grout lines; dim blood-red shadowbinder lanterns plus at most two guttering tallow flames; no warm golden candlelight; no daylight; deep bowed hoods that hang below the crown of the head so no face or mask plane appears; every scroll rolled and closed.",
+  "batch_046_close_note": "Finished on the second pass. 0453 was rebuilt cyclopean - negating ashlar, coursed masonry, capital, base moulding, cornice, entablature, square pavers and grout lines by name removed every trace of the Roman basilica. 0460 landed first time. Final folder listing: ten files, ten matching md5s.",
+  "batch_047_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0461",
+      "timestamp": "15:20–15:22",
+      "narration_slice": "not discover the art of",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Candlelit Asshai archives challenging Valyria's boast",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "1kVSsqJ2pfp5mFuyBH26c9AiGxk1JFjNL",
+      "drive_url": "https://drive.google.com/file/d/1kVSsqJ2pfp5mFuyBH26c9AiGxk1JFjNL/view",
+      "md5": "b028c1e9f4fae3e020926a2e372a0f47",
+      "size_bytes": 1732295,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0462",
+      "timestamp": "15:22–15:24",
+      "narration_slice": "taming dragons on their",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Candlelit Asshai archives challenging Valyria's boast",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "15Ggio_5B9MeGmXtvXfcbIAExo-hTmzYY",
+      "drive_url": "https://drive.google.com/file/d/15Ggio_5B9MeGmXtvXfcbIAExo-hTmzYY/view",
+      "md5": "12ee813b164edaf0c7bb757f66c5fd25",
+      "size_bytes": 2158121,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0463",
+      "timestamp": "15:24–15:26",
+      "narration_slice": "own—because dragons had already",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Candlelit Asshai archives challenging Valyria's boast",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "1a7za0yeA--IYYVvjfyBAp4OC733dRIxa",
+      "drive_url": "https://drive.google.com/file/d/1a7za0yeA--IYYVvjfyBAp4OC733dRIxa/view",
+      "md5": "80d8286b7e3fc4bc8543239ae3261bd6",
+      "size_bytes": 2046553,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0464",
+      "timestamp": "15:26–15:28",
+      "narration_slice": "been mastered ages earlier in",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Candlelit Asshai archives challenging Valyria's boast",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "1gB9AjShQiKTIXiARBsbCaXO6HdXjL8sX",
+      "drive_url": "https://drive.google.com/file/d/1gB9AjShQiKTIXiARBsbCaXO6HdXjL8sX/view",
+      "md5": "b60bdea78c8fbcabe7aa2481c47bb468",
+      "size_bytes": 1940149,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0465",
+      "timestamp": "15:28–15:30",
+      "narration_slice": "the Shadow beyond Asshai.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Candlelit Asshai archives challenging Valyria's boast",
+      "location_refs": [
+        "LOC-ESS-003"
+      ],
+      "drive_file_id": "13rfOBFYvzxO6Yph1eIQFKJiJ686JzS63",
+      "drive_url": "https://drive.google.com/file/d/13rfOBFYvzxO6Yph1eIQFKJiJ686JzS63/view",
+      "md5": "824b6fa71fdd3fa6d985d914942de446",
+      "size_bytes": 1104178,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0466",
+      "timestamp": "15:30–15:32",
+      "narration_slice": "According to this Asshai'i tradition,",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Disputed legend: nameless Shadow masters teaching Valyrians",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "drive_file_id": "1ZK4yCAa0W1XZQW9KnMWWiMif2tuqxcO0",
+      "drive_url": "https://drive.google.com/file/d/1ZK4yCAa0W1XZQW9KnMWWiMif2tuqxcO0/view",
+      "md5": "188413b0d9e02d980a698fbf2b37437c",
+      "size_bytes": 1918679,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0467",
+      "timestamp": "15:32–15:34",
+      "narration_slice": "a people so ancient",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — Disputed legend: nameless Shadow masters teaching Valyrians",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "drive_file_id": "1jHB6BmxwXw7L60_NCiVlNgc_IH9Tt3J4",
+      "drive_url": "https://drive.google.com/file/d/1jHB6BmxwXw7L60_NCiVlNgc_IH9Tt3J4/view",
+      "md5": "005468e39e21657949f30c55bcc46ca1",
+      "size_bytes": 1849292,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0468",
+      "timestamp": "15:34–15:36",
+      "narration_slice": "that surviving memory preserves neither",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — Disputed legend: nameless Shadow masters teaching Valyrians",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "drive_file_id": "1u7U9danqFb4DnUlxHXvIZ6oj_m1tDpSh",
+      "drive_url": "https://drive.google.com/file/d/1u7U9danqFb4DnUlxHXvIZ6oj_m1tDpSh/view",
+      "md5": "6da8a5d914864abec9eb2a9c566f7eaa",
+      "size_bytes": 1906567,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_047_status": "PARTIAL_8_OF_10_UPLOADED_MD5_VERIFIED_0469_0470_NOT_RENDERED",
+  "batch_047_drive_folder_id": "1IjeyRh0Z7LcNxOidlGtUNDjtPl5EuJw6",
+  "batch_047_drive_verified_count": 8,
+  "batch_047_pending_rerender_scenes": [],
+  "batch_047_pending_completion_scenes": [
+    "VAL-EP001-IMG0469",
+    "VAL-EP001-IMG0470"
+  ],
+  "batch_047_note": "Neither name nor face. Asshai's claim that dragons were mastered ages earlier in the Shadow, by a people memory cannot name. The batch crosses from the archive to the Shadow itself. 0462 finds the only honest record of an anonymous people - a stone shelf edge hollowed and polished by generations of hands, with nothing cut or written into it. 0463 is the mask rule made literal: the head bowed so far that the hood hangs past the crown and the face becomes a cloth void, verified at 2x. 0464's wax seal is blank at 4x. From 0466 the film enters the Shadow, which must never look built.",
+  "shadow_beyond_asshai_lock": "NOT built and NOT inhabited. Raw sheared black rock, glassy in patches, scored as if by heat, totally untooled; no doorways, walls, stairs, statues, idols or carved ornament. Black gravel and wind-rippled ash; no footprints, no path, no marker. Flat sourceless grey-green gloom with no directional shadow and no sun; distance conveyed by mist thickening. Figures are distant silhouettes, backs or bowed hoods - never a face, never a mask plane, never a profile.",
+  "unmasked_face_rule": "'Unmasked faces' in the narration must never become a rendered face. The camera is never placed where a face could exist: distant silhouettes, backs of heads, or hoods hanging past the crown. Every Shadow prompt negates face, mask, eyes, mouth, nose and profile by name."
 }

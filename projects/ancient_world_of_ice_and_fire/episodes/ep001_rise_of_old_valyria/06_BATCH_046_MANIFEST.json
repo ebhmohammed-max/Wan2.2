@@ -5,26 +5,22 @@
   "timecode": "15:00-15:20",
   "frame_range": "VAL-EP001-IMG0451 - VAL-EP001-IMG0460",
   "narration_slice": "If you consult the dark annals of Asshai-by-the-Shadow on how humble shepherds became dragonriders, you will hear a tale that strips Valyria of its proudest boast. In those bleak, candle-lit libraries beside the black River Ash, ancient scrolls insist that the Valyrians did",
-  "batch_status": "PARTIAL_8_OF_10_APPROVED_UPLOADED_0453_REJECTED_0460_NOT_RENDERED",
-  "approved_count": 8,
-  "approved_uploaded_count": 8,
-  "drive_verified_count": 8,
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "approved_uploaded_count": 10,
+  "drive_verified_count": 10,
   "batch_drive_folder_id": "1Gb_vyuJ8cR8Yeu08ybDtVoQDxjqRAXVC",
   "batch_drive_folder_url": "https://drive.google.com/drive/folders/1Gb_vyuJ8cR8Yeu08ybDtVoQDxjqRAXVC",
   "parent_ep001_folder_id": "1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn",
-  "generations_used": 10,
+  "generations_used": 11,
   "generations_cap": 10,
   "location": "LOC-ESS-003 Asshai-by-the-Shadow (archive interior, river wall, city vista)",
   "creature_refs": "none - the only appearance this batch is the rejected 0453, which will be replaced",
   "asshai_lock": "Greasy matte light-drinking black stone; perpetual twilight; dim BLOOD-RED shadowbinder lanterns only. The narration's word 'candle-lit' was translated into one or two guttering tallow flames rather than warm golden light - warm amber would have broken the location's palette the way gold broke Qarth's.",
   "scroll_rule": "Every scroll in this batch is ROLLED, CLOSED, BOUND, CAGED or turned end-out. Not one line of script, glyph, rune, numeral, map or diagram appears in any approved frame. This is the established precedent from 0374 and 0284: a beat about written records is solved by the absence of writing.",
   "figure_rule": "All Asshai'i are anonymous: deep hoods, backs, hands, shadow. No face is visible in any approved frame.",
-  "pending_rerender_scenes": [
-    "VAL-EP001-IMG0453"
-  ],
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0460"
-  ],
+  "pending_rerender_scenes": [],
+  "pending_completion_scenes": [],
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0451",
@@ -82,15 +78,14 @@
       "visual_beat": "Deep-focus wide atmospheric composition — Candlelit Asshai archives challenging Valyria's boast",
       "file_path": "assets/batch_046/VAL-EP001-IMG0453.png",
       "shot_type": "28mm deep-focus wide of the archive's central gallery",
-      "qc_status": "REJECTED",
-      "md5": null,
-      "size_bytes": null,
+      "qc_status": "APPROVED",
+      "md5": "fe3be047d40f1bf969c0cb884f20c97e",
+      "size_bytes": 1430860,
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "REJECTED on architecture. The gallery reads as a Roman basilica, not Asshai: square piers with MOULDED CAPITALS and BASES, courses of dressed ashlar with regular joints, and a coffered floor of square pavers with visible grout lines. Asshai is cyclopean, sharp-angled and jointless, its stone light-drinking and unornamented - no capitals, no bases, no cornices, no dressed coursing. The hoods also sit as flat dark masks on upright bodies, reading as a modern reading room rather than a processional of shadowed figures.",
-      "rerender_brief": "Rebuild the gallery as cyclopean: monolithic black piers cut from single blocks, each one sharp-angled, jointless, tapering irregularly, with no capital, no base, no moulding, no cornice and no regular coursing anywhere. The floor should be one continuous pour of the same black stone, worn slick, with no pavers and no grout lines. The figures must be deep-hooded, bent forward and heavy-shouldered, their hoods hanging lower than the crown of the head so no face or mask plane appears. Negate: ashlar, dressed stone, coursed masonry, square pavers, column capital, base moulding, cornice, entablature."
+      "drive_file_id": "1OPDBaP7DnjkyfuZTx5T3A8P43rkfxDxe",
+      "drive_url": "https://drive.google.com/file/d/1OPDBaP7DnjkyfuZTx5T3A8P43rkfxDxe/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "RE-RENDER ACCEPTED. Rebuilt cyclopean and it holds: the piers are monolithic slabs with NO capital, NO base, NO moulding and no course anywhere, tapering unevenly and leaning off true; the floor is one continuous worn pour with no pavers and no grout. The two figures are bowed so hard that the hood hangs past the crown and the person collapses into cloth - no face plane, no mask, no profile. Reframed 12-755."
     },
     {
       "scene_id": "VAL-EP001-IMG0454",
@@ -236,14 +231,16 @@
       "visual_beat": "High-elevation geographic / scale reveal — Candlelit Asshai archives challenging Valyria's boast",
       "file_path": "assets/batch_046/VAL-EP001-IMG0460.png",
       "shot_type": "24mm high-elevation scale reveal of the archive and the city below",
-      "qc_status": "PENDING",
-      "md5": null,
-      "size_bytes": null,
+      "qc_status": "APPROVED",
+      "md5": "ca23db881bfe3d7a26c59f84ea3b13ac",
+      "size_bytes": 2277206,
       "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "NOT YET RENDERED. Deferred: the per-turn image generation cap was consumed by the 0446 re-render and this batch."
+      "drive_file_id": "1twXQkGsAcSZeTjQGdeMF4bm6ifbMCgU2",
+      "drive_url": "https://drive.google.com/file/d/1twXQkGsAcSZeTjQGdeMF4bm6ifbMCgU2/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "24mm high-elevation reveal down over Asshai from the summit ledge of one of its own towers. The city falls away in stacked jointless black terraces and monolithic bridges over the poison-black River Ash, a scatter of dull red lanterns on the quays, and the mist hardening at the horizon into the Shadow Mountains. No sun, no sky source, no boats, no vegetation. This is the frame that establishes the Shadow as a place on a map rather than a piece of mood. Full-bleed."
     }
-  ]
+  ],
+  "closed_note": "Finished on the second pass. 0453 was rebuilt cyclopean and the ornament vanished - the fix was to negate the classical vocabulary by name (ashlar, coursed masonry, capital, base moulding, cornice, entablature, square pavers, grout lines). 0460 landed first time. The batch is now the strongest architectural run of the Asshai material.",
+  "closed_at": "2026-11-13T09:10:00Z"
 }
