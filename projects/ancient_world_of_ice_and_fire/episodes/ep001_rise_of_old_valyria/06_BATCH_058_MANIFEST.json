@@ -5,19 +5,19 @@
  "timecode": "19:00–19:20",
  "frame_range": "VAL-EP001-IMG0571 - VAL-EP001-IMG0580",
  "narration_slice": "Imagine the morning upon the Fourteen Flames when that threshold was crossed at last. High on a windswept ledge of black basalt, a young Valyrian clad in heat-cured leather and bronze chains lays bare hands against copper-bronze scales hot enough to raise blisters on mortal skin.",
- "batch_status": "PARTIAL_9_OF_10_APPROVED_0572_REVISION_QUEUED",
- "approved_count": 9,
+ "batch_status": "COMPLETE_10_OF_10_WITH_ONE_REVISION",
+ "approved_count": 10,
  "approved_uploaded_count": 10,
- "drive_verified_count": 9,
- "pending_count": 1,
+ "drive_verified_count": 10,
+ "pending_count": 0,
  "batch_drive_folder_id": "1HRhnRi6xwyjBajNIuoexppS9yMpF5WAv",
  "batch_drive_folder_url": "https://drive.google.com/drive/folders/1HRhnRi6xwyjBajNIuoexppS9yMpF5WAv",
  "parent_ep001_folder_id": "1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn",
  "generations_used": 10,
  "generations_cap": 10,
- "rerenders_this_batch": 0,
+ "rerenders_this_batch": 1,
  "reframes_this_batch": 10,
- "filing_note": "Frames filed under assets/batch_058/ and uploaded to Drive folder EP001_BATCH_058_IMG0571-0580 (1HRhnRi6xwyjBajNIuoexppS9yMpF5WAv); all ten checksums re-read from Drive and matched byte for byte. IMG0572 is uploaded but NOT QC-approved: crouched pose, hindquarter occluded — the mandatory 2x four-limb count cannot be verified (episode §9c risk configuration, though no error is visible). A re-render is queued for the next turn; the 10-image generation cap for THIS turn was consumed by the first passes.",
+ "filing_note": "Frames filed under assets/batch_058/ and uploaded to Drive folder EP001_BATCH_058_IMG0571-0580 (1HRhnRi6xwyjBajNIuoexppS9yMpF5WAv); all ten checksums re-read from Drive and matched. IMG0572 completed the mandatory 2x limb check on revision 1; the superseded first pass (1iZeZouFwKoQ1X4QvDzq9MT2qL0FHb6vZ) was moved to Drive trash after verification. Batch closed 10/10 — NOT a zero-rejection batch: one frame required a revision.",
  "the_crossing_rule": "The testimony register ends with 0570; this batch opens the staging register. For the first time in 120+ frames a person shares the frame with the dragon. Book-canon Anatomy Rule intact: strictly four limbs; the rider is never a face — from behind, above the shoulder, silhouette, or hands only. Contact, never consequence: the hot scales are touched, never blistered. First raking sandstone light is permitted now (the dramatization is awake); no disc, no shafts, no god-light; nothing emits.",
  "hard_bans": [
   "face in any frame — the young Valyrian is seen from behind, from above the shoulder, as a silhouette, or as hands only",
@@ -31,12 +31,12 @@
  "drg_val_002": "DRG-VAL-002 (First-Bound Mount): ~28–33 years, 65 ft length, 95 ft wingspan, rider CHAR-VAL-002 (Stage B: heat-cured dark ox-hide riding coat, elbow gauntlets, wind-swept silver-gold locks with two thin temple braids, left-jawline heat-scar acquired IMG0526 — out of frame here with the face). Burnished volcanic-bronze dorsal scales (#8C522B), dark ash-grey belly plates, twin metallic-bronze horns swept back, three-ridged brow crest. Nothing glows; eyes never in emission in this batch.",
  "anatomy_discipline": "State the count numerically AND negatively in every frame with the animal; the 2x limb check is mandatory wherever it appears. Prefer side-on standing profile (both limb pairs visible) over any crouch; pure silhouette is acceptable at distance. This batch's single failure came exactly where the discipline predicts: a crouched, occluded, detail-lit animal whose count cannot be verified — IMG0572, returned unapproved.",
  "crop_checks_required": [
-  "0572: re-render to standing side-on; verify two hind legs planted + two forelimbs vertical at 2x before approving.",
-  "0573/0576/0579/0580: 2x limb check — done, pass (see qc_notes).",
-  "0576: staff wraps are braided cord — no letters/marks — done at 3x, pass.",
-  "0575/0577: iron, leather, buckle — no glyph/stamp/mark — done at 2x, pass.",
-  "0578: hands at 3x — dry, pale, no red, no blister — pass.",
-  "All frames: no face at any zoom — pass (0572/0576 show ear/cheek edge only, no features)."
+  "0572 (revision): two hind legs planted + two forelimbs vertical at 2x — PASS on revision 1.",
+  "0573/0576/0579/0580: 2x limb check — PASS.",
+  "0576: staff wraps are braided cord — no letters/marks at 3x — PASS.",
+  "0575/0577: iron, leather, buckle — no glyph/stamp/mark — PASS at 2x.",
+  "0578: hands at 3x — dry, pale, no red, no blister — PASS.",
+  "All frames: no face at any zoom — PASS (0572/0576 show ear/cheek edge only, no features)."
  ],
  "inherited_lessons": "9b caldera architecture ban (hexagonal prisms, uneven height, jagged tops); §4h no-face line (held through 80+ frames, now held with the rider IN frame — from behind); 0569/0562 continuity object reuse (the fitted strap and ring go ON the dragon now); the testimony-to-dramatization hinge; 055–056 lesson that enforcement at composition time beats enforcement at crop time — honored nine times this batch, failed once, caught once.",
  "rejections_this_batch": [
@@ -46,7 +46,7 @@
    "action": "revise next turn; upload retained in Drive, flagged, not counted toward verified progress"
   }
  ],
- "batch_058_status_note": "9 of 10 approved on first passes. This is NOT a zero-rejection batch. Verified episode progress rises by nine: 578/1,050 (55.05%). Chapter V proper — Blood of the Dragon: The Forty Houses — opens at 20:30 (Batch 063); the dramatized first ascent continues in Batch 059 (19:20–19:40, IMG0581–0590).",
+ "batch_058_status_note": "CLOSED 10/10 with one revision. Zero-rejection does not apply. Verified episode progress: 579/1,050 (55.14%). Chapter IV continues; Chapter V proper opens at 20:30 (Batch 063).",
  "scenes": [
   {
    "scene_id": "VAL-EP001-IMG0571",
@@ -85,14 +85,14 @@
    "narration_slice": "the Fourteen Flames when that",
    "visual_beat": "Over-the-shoulder depth perspective — across the caldera, from behind the rider",
    "file_path": "assets/batch_058/VAL-EP001-IMG0572.png",
-   "qc_status": "REVISION_NEEDED",
-   "md5": "e24a19dc87d5cf288d7c9eded44d1274",
-   "size_bytes": 1334015,
+   "qc_status": "APPROVED_AFTER_REVISION",
+   "md5": "bc5b767944db9aa9abdf5c0dc7e4a013",
+   "size_bytes": 1621024,
    "resolution": "1376x768",
-   "drive_file_id": "1iZeZouFwKoQ1X4QvDzq9MT2qL0FHb6vZ",
-   "drive_url": "https://drive.google.com/file/d/1iZeZouFwKoQ1X4QvDzq9MT2qL0FHb6vZ/view",
+   "drive_file_id": "1u-h9qlg2HBwHc_p68Yu6d3vCl4PqXNVy",
+   "drive_url": "https://drive.google.com/file/d/1u-h9qlg2HBwHc_p68Yu6d3vCl4PqXNVy/view",
    "md5_verified_on_drive": true,
-   "qc_note": "OTS 40mm from behind and above the rider's left shoulder — silver-gold braids from behind, no face at any zoom; the Fourteen Flames and the Summer Sea beyond. THE DRAGON IS A DEVIATION FROM BRIEF: crouched head-down pose instead of standing side-on, wings lying flat but folded along the body — the episode's own §9c anatomy risk configuration. Visible anatomy: fore claws folded, vapor breath, NO third leg, NO arms; hindquarter and far limbs occluded by folded wing membranes — the 2x four-limb count CANNOT be verified. Per episode rule that the limb check is mandatory on every frame the animal appears in, this frame is NOT approved. Re-render queued next turn (generation cap of 10 reached this turn): standing side-on profile, two hind legs planted, both forelimbs vertical, wings folded flat swept back, head lowered only slightly."
+   "qc_note": "REVISION 1 — approved. First pass (e24a19dc…) came back crouched, hindquarter occluded, the mandatory 2x limb count unverifiable; the file was uploaded flagged and then trashed after this replacement was verified (recoverable in Drive trash). Re-render: standing side-on profile, two hind legs planted, both forelimbs vertical, wings folded flat and swept back. 2x crop at 1.7x of the chest: hind pair bent and planted, two fore columns planted apart, no third leg, no arms, nothing dangles — PASS. Head from behind at 1.5x: braids, soft ear rim only, no facial features — PASS. md5 re-read from Drive and matched (bc5b7679…)."
   },
   {
    "scene_id": "VAL-EP001-IMG0573",

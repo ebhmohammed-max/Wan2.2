@@ -1,7 +1,7 @@
 # BATCH 058 — IMAGE PROMPTS
 **Episode 001 · Before the Dragons: The Rise of Old Valyria**
 **Timecode 19:00–19:20 · Ch. IV (still) · frames VAL-EP001-IMG0571 – IMG0580**
-**Status: PARTIAL — 9 APPROVED, 1 REVISION QUEUED (`IMG0572`). Uploaded 10/10; `0572` is not counted toward verified progress.**
+**Status: CLOSED — 10 of 10 (one revision on `IMG0572`). Uploaded 10/10; all checksums re-read and matched.**
 
 Shared opener on every prompt (do not drop it — landscape has never been free):
 
@@ -29,7 +29,7 @@ Shared opener on every prompt (do not drop it — landscape has never been free)
 
 **Continuity objects (same object, across the arc):** the **fitted strap and plain iron ring** from `IMG0561`/`IMG0562`/`IMG0567`/`IMG0569` — the working one, worn pale along its belly edge — is the neck trapping going onto the animal now. The second, oil-cloth-sealed fitting (`IMG0569` right) remains unused; it does not appear here. The dragon’s saddle does not exist; the climb is along the neck-chain, as the narration says.
 
-**Status of the frames:** nine `APPROVED` (first passes), one `REVISION_NEEDED` — `IMG0572` (crouched pose, limb count unverifiable at 2x; re-render queued next turn).
+**Status of the frames:** ten `APPROVED` — nine on first passes, `IMG0572` on revision 1 (crouch → standing side-on; 2x four-limb check then passed).
 
 ---
 
@@ -46,9 +46,9 @@ Shared opener on every prompt (do not drop it — landscape has never been free)
 ## VAL-EP001-IMG0572 — OTS · 40mm — 19:02–19:04
 **Narration:** “the Fourteen Flames when that”  
 **Beat:** Over-the-shoulder depth perspective — across the caldera, from behind the rider
-**Status:** `REVISION_NEEDED
-**md5** `e24a19dc87d5cf288d7c9eded44d1274` · 1,334,015 B · 1376x768 · Drive `1iZeZouFwKoQ1X4QvDzq9MT2qL0FHb6vZ`
-**Reason:** deviation from brief (crouch); hindquarter occluded — mandatory 2x four-limb count unverifiable. Re-render queued.`
+**Status:** `APPROVED_AFTER_REVISION` (revision 1)
+**md5** `bc5b767944db9aa9abdf5c0dc7e4a013` · 1,621,024 B · 1376x768 · Drive `1u-h9qlg2HBwHc_p68Yu6d3vCl4PqXNVy`
+Superseded first pass `e24a19dc…` trashed after verification.
 
 **Brief:** OTS 40mm from just behind and above the young Valyrian’s left shoulder, looking out across the caldera he faces: his **silver-gold shoulder-blade-length hair with two thin temple braids, the back of his neck and jaw left-side profile only in the far edge of frame — never resolved, no face** — Stage B dark ox-hide riding coat, high collar, elbow gauntlets. Beyond him, deep in the haze of morning: the black cones of the Fourteen Flames with torn summits, smoke bent slowly west, the Summer Sea one hard cold bright band at the horizon, lit by the unseen first sun. Far down and to the right, on the great basalt ledge, **the dragon stands side-on — exactly four limbs, two hind legs planted, two forelimbs, wings folded flat, no third leg, no arms** — head low, breath steaming faintly in the cold air. **No face either of them.** The frame is a held breath: everything he is about to do, stated in one over-shoulder geography. Nothing glows; smoke is pale and ordinary.
 
@@ -132,12 +132,10 @@ Shared opener on every prompt (do not drop it — landscape has never been free)
 
 **Brief:** UWA 24mm from very high and far behind the ledge — almost aerial, a geography exit: the caldera and the Fourteen Flames laid out beneath first light in cold blue shadow and warm amber rims, the smoke smearing west in long bands, the sea filling the horizon edge to edge. Lower-left, the black basalt shelf — a narrow dark seam across the vastness — and on it, almost too small to read, **two points: the dragon — side-on, wings folded flat, exactly four limbs in outline, no third leg, no arms — and the man — a glint of silver-gold hair and the dark ox-hide coat, no face. The sentence cuts off at *“on mortal—”* and the frame says where mortals stand in this story: a warm hand’s width from sixty-five feet of bronze on a shelf above the fire. **No wounds, no blisters, no red anywhere; no other figure; no birds. Sky huge and heavy, pale-amber horizon only, no sun disc, no shafts, no god-light.** Matte dry world, first light, held breath.
 
-## Batch 058 status note
+## Batch 058 close
 
-**Uploaded 10/10 to `EP001_BATCH_058_IMG0571-0580` (`1HRhnRi6xwyjBajNIuoexppS9yMpF5WAv`); all checksums re-read from Drive and matched.** Nine frames approved on first passes. **`IMG0572` is not approved**: crouched pose deviating from the standing side-on brief, hindquarter and far limbs occluded by folded wing membranes — the mandatory 2x four-limb count cannot be completed. The file remains in Drive flagged for revision; it does not count toward verified progress. **This is not a zero-rejection batch.** Verified progress rises by nine: **578/1,050 (55.05%).**
+**CLOSED 10/10 with one revision.** All ten frames are 1376x768 sRGB, uploaded to `EP001_BATCH_058_IMG0571-0580` (`1HRhnRi6xwyjBajNIuoexppS9yMpF5WAv`); every checksum was re-read from Drive and matched. Nine frames landed on first passes. **`IMG0572` did not** — the first pass was a crouched, head-low animal (the §9c risk configuration), deviating from the standing side-on brief, with the hindquarter occluded; the mandatory 2x four-limb count could not be completed and the frame was uploaded flagged, not tallied. Revision 1 (standing side-on, two hind legs planted, both forelimbs vertical, wings folded flat and swept back) passed the 2x check and replaced it; the superseded file was moved to Drive trash (recoverable). **This is not a zero-rejection batch.** Verified progress: **579/1,050 (55.14%).**
 
-The dramatization register holds elsewhere: 2x limb checks passed on `0573` (chest: two hind planted, two fore planted), `0576` (three feet visible, fourth occluded, nothing dangling), `0579` (two bent hind legs, forelimbs occluded by man and wing plane — none contradictory) and `0580` (folded wings low, hind pair planted, nothing dangles); `0571` and `0574` pass on silhouette/outline. No face anywhere — `0572`/`0576` show ear/cheek edge only, no features. `0576`'s staff wraps are braided cord with no letters; `0575`/`0577` carry no engraving or marks at 2x; `0578`'s hands show dry, pale skin with no red and no blister at 3x.
+The register holds elsewhere: 2x limb checks passed on `0573`, `0576`, `0579`, `0580` and revision `0572`; silhouette checks on `0571`, `0574`; no face in any frame — the rider is seen from behind, above the shoulder, or as hands only; `0578` shows dry pale hands with no red at 3x — contact, never consequence. Continuity object honoured: the strap and iron ring from `0562` lay waiting on the ledge in `0575`; the fitted strap goes on the dragon in the next batches.
 
-Re-render of `0572` queued for next turn (the 10-image generation cap for the shot turn was consumed by the first passes).
-
-Next after `0572` closes: **Batch 059 (`19:20–19:40`)** — *“skin. Beneath him, a sixty-foot predator folds its vast wings just enough…”* — the ascent. Chapter V proper opens at `20:30` (Batch 063).
+Next: **Batch 059 (`19:20–19:40`)** — *“skin. Beneath him, a sixty-foot predator folds its vast wings just enough…”* — the ascent. Chapter V proper opens at `20:30` (Batch 063).
