@@ -48,10 +48,10 @@
     40,
     41,
     42,
-    "43_partial"
+    43
   ],
-  "next_batch": 43,
-  "next_image_number": 430,
+  "next_batch": 44,
+  "next_image_number": 436,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1932,8 +1932,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-11T22:40:00Z",
-  "verified_progress_percent": "41.43%",
+  "last_updated": "2026-11-12T00:15:00Z",
+  "verified_progress_percent": "42.10%",
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3629,7 +3629,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 435,
+  "verified_image_count": 442,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -8236,14 +8236,158 @@
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0430",
+      "timestamp": "14:18–14:20",
+      "narration_slice": "of Ib in the Shivering",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1sJIpXSyf_I9jdghCeVRz77qcCqDeKGof",
+      "drive_url": "https://drive.google.com/file/d/1sJIpXSyf_I9jdghCeVRz77qcCqDeKGof/view?usp=drivesdk",
+      "md5": "f9a9dbcc84b86a7b5f81815414934620",
+      "size_bytes": 2364530,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
     }
   ],
-  "batch_043_status": "PARTIAL_9_OF_10_UPLOADED_MD5_VERIFIED_0430_PENDING",
+  "batch_043_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
   "batch_043_drive_folder_id": "1w9Xczie7SqQ7yocoD6f6OHsf7NcINK40",
-  "batch_043_drive_verified_count": 9,
-  "batch_043_pending_completion_scenes": [
-    "VAL-EP001-IMG0430"
-  ],
+  "batch_043_drive_verified_count": 10,
+  "batch_043_pending_completion_scenes": [],
   "batch_043_note": "The film leaves the fable for evidence: fossilised dragon bone on the coast of Ib. One re-render: 0421 pass 1 produced a complete, neatly arced, upright ribcage that read as a mounted museum skeleton, and the approved pass collapses and scatters the remains in snow. 0423 is the clearest statement of the evidence, 0424 the widest, 0427 the most tactile, 0426 the only sustained physical labour in the episode. 0425 approved with a note (knitted beanie rather than seal-fur hood).",
-  "coast_of_ib_location_lock": "New location, snow and ice permitted HERE AND ONLY HERE - the standing no-snow ban is on record as peninsula-scoped, so Ib does not violate it. Cold desaturated Arctic: black basalt shore shelves, blue-grey sea, white-blue snow and permafrost with sastrugi ridges, pewter overcast sky with no sun and no break, wind-driven spindrift and spray, no warm light, no golden hour, no sunset, no aurora, no blue sky, no green, no vegetation, no trees. Fossil bone is stone-dark grey-black, wet where scoured and pale-dusted where dry, pitted and veined with pale mineral. Only fragments, arcs and sections - never a complete mounted skeleton standing upright, never a tidy symmetric ribcage, never a museum display. Four-limbed anatomy preserved: one pair of wings, one pair of hind legs. Ibbenese whalers are anonymous: tarred oilskins, matted seal-fur collars, hoods, faces never visible. No maester or Citadel figure is ever shown."
+  "coast_of_ib_location_lock": "New location, snow and ice permitted HERE AND ONLY HERE - the standing no-snow ban is on record as peninsula-scoped, so Ib does not violate it. Cold desaturated Arctic: black basalt shore shelves, blue-grey sea, white-blue snow and permafrost with sastrugi ridges, pewter overcast sky with no sun and no break, wind-driven spindrift and spray, no warm light, no golden hour, no sunset, no aurora, no blue sky, no green, no vegetation, no trees. Fossil bone is stone-dark grey-black, wet where scoured and pale-dusted where dry, pitted and veined with pale mineral. Only fragments, arcs and sections - never a complete mounted skeleton standing upright, never a tidy symmetric ribcage, never a museum display. Four-limbed anatomy preserved: one pair of wings, one pair of hind legs. Ibbenese whalers are anonymous: tarred oilskins, matted seal-fur collars, hoods, faces never visible. No maester or Citadel figure is ever shown.",
+  "batch_044_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0431",
+      "timestamp": "14:20–14:22",
+      "narration_slice": "Sea to the steaming,",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "SOTH-JUNGLE"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1DMZmjFLgrVgKyyDCGm9kYEA29piqE0SK",
+      "drive_url": "https://drive.google.com/file/d/1DMZmjFLgrVgKyyDCGm9kYEA29piqE0SK/view?usp=drivesdk",
+      "md5": "1c941808605cae21efdee8675443d3d1",
+      "size_bytes": 1734625,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0432",
+      "timestamp": "14:22–14:24",
+      "narration_slice": "plague-ridden jungles of Sothoryos",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "SOTH-JUNGLE"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1FILY5FWvJE3tPdGGQPeNmGM16s7b8s43",
+      "drive_url": "https://drive.google.com/file/d/1FILY5FWvJE3tPdGGQPeNmGM16s7b8s43/view?usp=drivesdk",
+      "md5": "463d9421fa6adcc1f809185a1f925c44",
+      "size_bytes": 1885029,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0433",
+      "timestamp": "14:24–14:26",
+      "narration_slice": "in the far south,",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "SOTH-JUNGLE"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1eqtKELl-GP1NVZ_WyCbk8eocpBOWpJR7",
+      "drive_url": "https://drive.google.com/file/d/1eqtKELl-GP1NVZ_WyCbk8eocpBOWpJR7/view?usp=drivesdk",
+      "md5": "dbb15faa9d5f10e6f0dab84217a1b390",
+      "size_bytes": 1905128,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0434",
+      "timestamp": "14:26–14:28",
+      "narration_slice": "where smaller, fireless kin called",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "SOTH-JUNGLE"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "13zO5HXLGJkl_eAshZw4q33sn9lgAE_UV",
+      "drive_url": "https://drive.google.com/file/d/13zO5HXLGJkl_eAshZw4q33sn9lgAE_UV/view?usp=drivesdk",
+      "md5": "053c19ecdbe65009e8845d8c69f3adb5",
+      "size_bytes": 1627765,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0435",
+      "timestamp": "14:28–14:30",
+      "narration_slice": "wyverns still hunt today.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "SOTH-JUNGLE"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1Rq5pxmrYw2tNN1ujd0h_ODkERr2M1GDv",
+      "drive_url": "https://drive.google.com/file/d/1Rq5pxmrYw2tNN1ujd0h_ODkERr2M1GDv/view?usp=drivesdk",
+      "md5": "23f526c010d811c727814bfc549dcc15",
+      "size_bytes": 1564183,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0437",
+      "timestamp": "14:32–14:34",
+      "narration_slice": "a sobering truth: dragons once",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-001"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1yLJMzq7ESNhGCjtfGoD3gGzkISgHzlDf",
+      "drive_url": "https://drive.google.com/file/d/1yLJMzq7ESNhGCjtfGoD3gGzkISgHzlDf/view?usp=drivesdk",
+      "md5": "bd89397342a2167c234463895dceae9d",
+      "size_bytes": 1346281,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_044_status": "PARTIAL_6_OF_10_UPLOADED_MD5_VERIFIED_0436_0438_REJECTED_0439_0440_PENDING",
+  "batch_044_drive_folder_id": "1j9IIT65EP0Ac8j3E-TJrwD3em48RKXv3",
+  "batch_044_drive_verified_count": 6,
+  "batch_044_pending_rerender_scenes": [
+    "VAL-EP001-IMG0436",
+    "VAL-EP001-IMG0438"
+  ],
+  "batch_044_pending_completion_scenes": [
+    "VAL-EP001-IMG0436",
+    "VAL-EP001-IMG0438",
+    "VAL-EP001-IMG0439",
+    "VAL-EP001-IMG0440"
+  ],
+  "soth_jungle_location_lock": "New location. Steaming, plague-ridden, oppressive jungle of Sothoryos: wet black loam, grey limestone, buttress-rooted hardwoods, strangler vines, moss in sodden ropes, standing black water, steam and haze. Flat diffused steam-filtered light only - NO golden light, NO sunbeams, NO sun disc, NO bright blue sky, NO turquoise water, NO beach, NO bright flowers, NO postcard tropics. Palette is deep green-brown, ochre mud, grey limestone, black water and pale steam. Bone is black fossil, moss-taken, with roots grown through it and rings of concentric lamellae at any fractured face. No faces and no maester or Citadel figure.",
+  "caldera_architecture_ban": "REPEAT OFFENDER (Batch 031, re-confirmed Batch 044). LOC-VAL-003 must never render as a built cathedral. The prompt must describe the rock POSITIVELY - hexagonal basalt prisms of uneven height, no capitals, no drum sections, no plinths, jagged broken tops, collapsed rubble and darkness for a ceiling - and must negate by name: masonry courses, ashlar blocks, dressed stone, walls, arches, vaults, rose windows, carved frieze, pilasters, built symmetry, light shafts and glowing god rays."
 }

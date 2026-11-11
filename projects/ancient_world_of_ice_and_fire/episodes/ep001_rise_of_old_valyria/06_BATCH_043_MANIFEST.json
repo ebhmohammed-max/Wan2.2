@@ -12,15 +12,13 @@
   "batch_timespan": "14:00–14:20",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "IN_PROGRESS_9_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
-  "approved_count": 9,
-  "approved_uploaded_count": 9,
-  "drive_verified_count": 9,
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "approved_uploaded_count": 10,
+  "drive_verified_count": 10,
   "pending_rerender_count": 0,
-  "pending_generation_count": 1,
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0430"
-  ],
+  "pending_generation_count": 0,
+  "pending_completion_scenes": [],
   "generations_used": 10,
   "visual_qc_note": "The film leaves the fable for evidence. One re-render only: 0421's first pass produced a complete, neatly arced, upright ribcage that read as a mounted museum specimen; the approved pass collapses and scatters the remains in the snow. 0423 is the clearest statement of the evidence, 0424 the widest, 0427 the most tactile, and 0426 is the only frame in the episode with sustained physical labour.",
   "location_note": "COAST-OF-IB is new to the production and needs a bible entry: cold desaturated Arctic, black basalt, blue-grey sea, white-blue snow and permafrost, wet mineralised bone, pewter overcast, no warm light. SNOW AND ICE ARE PERMITTED HERE AND ONLY HERE - the standing no-snow ban is on record as peninsula-scoped, so Ib does not violate it.",
@@ -220,15 +218,15 @@
       "creature_refs": [],
       "file_path": "assets/batch_043/VAL-EP001-IMG0430.png",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": null,
-      "size_bytes": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "PENDING_GENERATION",
-      "qc_note": "NOT YET RENDERED — the ten-generation cap for this turn was exhausted on the 0421 re-render. Brief written: 24mm from the Ib cliff top, frozen harbour, thin smoke, one enormous rib at the foot of the cliffs. Render next turn."
+      "drive_file_id": "1sJIpXSyf_I9jdghCeVRz77qcCqDeKGof",
+      "drive_url": "https://drive.google.com/file/d/1sJIpXSyf_I9jdghCeVRz77qcCqDeKGof/view?usp=drivesdk",
+      "md5": "f9a9dbcc84b86a7b5f81815414934620",
+      "size_bytes": 2364530,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 24mm from the Ib cliff top: cracked grey shore ice locking a scatter of boats, hide shelters with drying racks, one thin dark smoke column bending on the wind, black basalt in the foreground, and two great fossil ribs arching out of the drift below the camp. Checked the rib at 2x to rule out a boat hull; the two separate curved beams read as bone. Full-bleed. Closes batch 043 at 10/10."
     }
   ],
   "pending_upload_count": 0,
-  "md5_verification_note": "Folder listing re-read after the ninth upload and compared to local md5sum output. All nine names, sizes and checksums match byte for byte: 7c329e34f3459c36a04dd16687ec8819, 4be8d73ce341123e1bbe4c1068ad9172, 7926a0d03f0d274286a19ea3d6b55b84, 6310d53ce7711efa76795400f0e6ad16, 506f54b5d716f72baae61598288a723c, 5520e757eafed76f533b3af87be28df0, 6e5880c9acc887811c1aa57ed9c19b2d, a445135d7a37103ac215aad5ce49b2a6, e211e00cb1d1aaf26218c046a8138433. 0430 is not uploaded because it is not yet rendered."
+  "md5_verification_note": "Folder listing re-read after the tenth upload. All ten names, sizes and checksums match local md5sum, including 0430 f9a9dbcc84b86a7b5f81815414934620 at 2,364,530 bytes."
 }

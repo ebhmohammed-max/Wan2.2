@@ -62,6 +62,21 @@
 - **People:** Ibbenese whalers — heavy-set, broad, in tarred dark oilskins with matted seal-fur collars, hoods pulled up and crusted with salt rime and frozen breath, bare cracked hands. Anonymous by rule: **backs, hoods, shoulders and hands only, never a face.** They work with ropes, iron pry bars, wooden tripods, sleds and skids. **No maester and no Citadel figure is ever shown** — the Citadel's interest is a voiceover fact, never a person.
 - **Narration anchor:** *"Yet the Citadel could not so easily dismiss harder evidence pulled from the soil of distant lands. As Maester Yandel records, fossilized and weathered dragon bones have been unearthed thousands of leagues from Valyria—from the bleak, icy wastes of Ib in the Shivering Sea…"*
 
+### 9. `SOTH-JUNGLE`: THE STEAMING JUNGLES OF SOTHORYOS *(Batches 044–045: `IMG0431–0450`)*
+- **Historical Period:** Uncounted antiquity, the far south. The bones here are already black fossil when they are found.
+- **Geography & Climate:** Steaming, plague-ridden equatorial jungle. Wet black loam, grey limestone outcrops, colossal buttress-rooted hardwoods, strangler vines, moss hanging in sodden ropes, standing black water, a permanent haze of steam. Oppressive, still and humid.
+- **Palette — THE LOCK:** Deep green-brown, ochre mud, grey limestone, black water, pale steam. **Flat, diffused, steam-filtered light only.** No golden light, no sunbeams, no sun disc, no bright blue sky, no turquoise water, no beach, no bright flowers, no postcard tropics. The jungle is beautiful and it is unwell.
+- **The bone:** Black fossil, sunken into wet earth, moss-taken and lichen-crusted, roots grown through the cracks and standing water pooled in the hollows. Any fractured face shows **concentric lamellae and radial fracture lines** — the detail that proves bone rather than fallen timber.
+- **Wyverns — `CRT-SOTH-001` (distant only):** Smaller, fireless kin of the dragons. Rendered **only as dark silhouettes against pale vapour**, small in frame, no fire, no glow, no colour, no detail beyond membrane wings, a whip tail and a low arrowhead skull. They are animals that still live here, not heraldry.
+- **People:** None. No faces, no maester, no Citadel figure, no expedition party.
+- **Narration anchor:** *"…to the steaming, plague-ridden jungles of Sothoryos in the far south, where smaller, fireless kin called wyverns still hunt today."*
+
+### 9b. ⚠️ `LOC-VAL-003` CALDERA — THE ARCHITECTURE BAN *(repeat offender: Batch 031, re-confirmed Batch 044)*
+- The High Caldera Caverns must **never** render as a built cathedral. `IMG0310`, `IMG0436` and `IMG0438` all failed the same way: fluted columns with capitals, coursed ashlar, a rose-window aperture, a carved frieze, a glowing light shaft.
+- **Write the rock positively:** hexagonal basalt prisms of uneven height, jagged broken tops, **no capitals, no drum sections, no plinths**, collapsed rubble and darkness where a ceiling would be, raw chaotic geological disorder at enormous scale.
+- **Negate by name:** masonry courses, ashlar blocks, dressed stone, walls, arches, vaults, rose windows, carved frieze, pilasters, built symmetry, light shafts, god rays.
+- The chamber is an **accident of scale and disorder**, never a nave.
+
 ---
 
 ## SECTION B — DRAGON & CREATURE CONTINUITY PROFILES
