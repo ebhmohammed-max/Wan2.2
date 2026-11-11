@@ -5,21 +5,19 @@
   "timecode": "15:40-16:00",
   "frame_range": "VAL-EP001-IMG0471 - VAL-EP001-IMG0480",
   "narration_slice": "to mortal will in the eastern darkness. Legend claims these nameless masters journeyed westward to the smoking peaks of the Valyrian peninsula, brought tamed dragons or binding lore to the silver-haired herdsmen, taught them their arcane arts, and then vanished utterly from the history of men.",
-  "batch_status": "COMPLETE_9_OF_10_APPROVED_UPLOADED_0476_REJECTED_3RD_PASS",
-  "approved_count": 9,
-  "approved_uploaded_count": 9,
-  "drive_verified_count": 9,
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "approved_uploaded_count": 10,
+  "drive_verified_count": 10,
   "batch_drive_folder_id": "12qR_2G1Vn9ERn3g0pKA7_bh1unrUckPC",
   "parent_ep001_folder_id": "1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn",
-  "generations_used": 12,
+  "generations_used": 13,
   "generations_cap": 10,
   "locations": "the Shadow breaking west (0471-0473); the Valyrian peninsula, first sight (0474-0476); the herdsmen (0477-0480)",
   "creature_refs": "DRG-VAL-001 appears twice - 0470 as a bent head in the Shadow, 0476 as a strict silhouette",
   "the_legend_rule": "This batch is the legend itself, spoken as legend. Nothing may be staged as historical fact: the masters are never seen clearly and never speak, the gift is never explained, and the dragons are shown as pre-existing rather than as discoveries. The narration hedges with 'Legend claims' and the images must hedge the same way.",
   "the_westward_crossing": "The single biggest visual idea in the batch is the light change: out of the Shadow's sourceless grey-green gloom into the first real daylight of the episode - flat, cold, overcast, colourless, and never golden. 0474 is the hinge frame: the four figures come over the pass and the world has a sun in it again, without drama.",
-  "pending_rerender_scenes": [
-    "VAL-EP001-IMG0476"
-  ],
+  "pending_rerender_scenes": [],
   "pending_completion_scenes": [],
   "scenes": [
     {
@@ -139,15 +137,15 @@
       "visual_beat": "Towering vertical scale composition — Disputed legend: nameless Shadow masters teaching Valyrians",
       "file_path": "assets/batch_048/VAL-EP001-IMG0476.png",
       "shot_type": "24mm towering vertical composition: the dragon in strict silhouette on black scree",
-      "qc_status": "REJECTED",
-      "md5": null,
-      "size_bytes": null,
+      "qc_status": "APPROVED",
+      "md5": "0a3f86d783d6a0510cfe0e063e6b1999",
+      "size_bytes": 2533456,
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "REJECTED — second pass, new fault. The stitch is gone and the file is one continuous exposure, verified by column scan (max adjacent-column delta 0.017, no step). But at 3x the animal now carries **six limbs**: two forelimbs planted on the rock in front of the chest, one hind leg behind, a second hind foot on the far side, and the wings held separately above. The same crouched, detail-lit, wings-forward configuration that produced 0398 and 0446, in a new disguise: the silhouette did not hold because the figure was rendered as detail rather than as a flat black shape.",
-      "rerender_brief": "Third and final approach - change the POSE, not the description. Put the animal IN FLIGHT above the scree, wings spread, both hind legs tucked tight against the belly and completely out of sight, so the frame shows a body, two wings and a head and nothing else. Negate: standing, crouched, perched, forelimbs, front legs, arms, claws on the ground, extra limbs, third leg, fourth leg, dangling feet. State that nothing touches the ground and that exactly zero claws are visible below the body. One continuous photographic exposure, no panorama."
+      "drive_file_id": "1aupJMJUYtXRSQyTTvcAkOfDMaD8flyka",
+      "drive_url": "https://drive.google.com/file/d/1aupJMJUYtXRSQyTTvcAkOfDMaD8flyka/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "APPROVED on the third pass, and the pose change was the whole solution. 24mm landscape: the animal glides low across the frame in flight, wings spread, both hind legs drawn up tight against the belly. The cone smokes in the left third, three robed figures stand on the black rocks at the lower right with no faces. Verified at 3x: **one body, two wings, one pair of hind legs folded under, one head, one tail — four limbs, two wings**, and **zero claws below the body, nothing touching the ground**. The two failures this frame carries are worth the record: pass one a stitched panorama, pass two six limbs at 3x, pass three clean.",
+      "rerender_brief": null
     },
     {
       "scene_id": "VAL-EP001-IMG0477",
@@ -235,5 +233,5 @@
     }
   ],
   "batch_drive_folder_url": "https://drive.google.com/drive/folders/12qR_2G1Vn9ERn3g0pKA7_bh1unrUckPC",
-  "closed_note": "Closed with 0479 and 0480, both first pass. 0479 is the best erasure frame of the production: wind pouring ash into hollows that are nearly gone. 0480 is a wide of an empty ridge with no one in it, composed like a departure that has already finished. 0476 remains open after two failed passes - first a stitched panorama, then six limbs."
+  "closed_note": "Closed 10/10. 0479 is the best erasure frame of the production - wind pouring pale ash into hollows that are nearly gone. 0480 is an empty ridge with no one in it. 0476 took three passes: a stitched panorama, then six limbs, then a clean flight with the legs tucked. The lesson is recorded - change the POSE, not the description."
 }

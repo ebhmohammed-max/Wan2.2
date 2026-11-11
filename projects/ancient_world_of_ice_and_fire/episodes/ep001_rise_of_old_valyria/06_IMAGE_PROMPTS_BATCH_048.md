@@ -12,7 +12,7 @@
 
 **The batch also contains the hinge of the entire episode: the light changes.** For the first time since the peninsula prologue, the film leaves the Shadow's sourceless grey-green gloom and there is **real daylight** — flat, cold, colourless, overcast. `IMG0474` is that hinge: four figures come over a pass, and the world has a sun in it again without anyone announcing it. It must never become golden hour, a sun disc, god-light or shafts: **the legend earns its warmth from what it claims, not from the lighting department.**
 
-**Render/QC status:** **9 of 10 approved, uploaded and MD5-verified · `IMG0476` open after two failed passes.** One letterbox crop.
+**Render/QC status:** **COMPLETE — 10 of 10 approved, uploaded and MD5-verified.** One letterbox crop, one frame on its third pass.
 
 | Frame | Status | Note |
 | :--- | :--- | :--- |
@@ -21,7 +21,7 @@
 | `IMG0473` | ✅ Approved, uploaded | 50mm from behind: four backs at the top of the scree, looking at the first paler distance. |
 | `IMG0474` | ✅ Approved, uploaded | **The hinge.** 35mm into the smoking peaks — daylight, the sea, cypress in the folds. |
 | `IMG0475` | ✅ Approved, uploaded | 24mm: the crescent of the Fourteen Flames. **Not one human thing in frame.** Reframed 0–755. |
-| `IMG0476` | ❌ **OPEN (2 fails)** | Pass 1: a stitched panorama. Pass 2: **six limbs** at 3x. Third brief = flight. |
+| `IMG0476` | ✅ Approved (3rd pass) | In flight, legs tucked, **four limbs + two wings** at 3x. Fixed by pose. |
 | `IMG0477` | ✅ Approved, uploaded | 85mm macro at a horn root: a plain strap drawn tight, nothing stamped. Two fingers, not a grip. |
 | `IMG0478` | ✅ Approved, uploaded | 85mm: the shepherd. **Deliberately not a chosen one.** Mended wool, no ornament, flat light. |
 | `IMG0479` | ✅ Approved, uploaded | **The best erasure frame of the production.** 100mm: wind pouring ash into hollows that are nearly gone. |

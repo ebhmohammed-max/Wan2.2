@@ -5,27 +5,21 @@
   "timecode": "16:00-16:20",
   "frame_range": "VAL-EP001-IMG0481 - VAL-EP001-IMG0490",
   "narration_slice": "Did masked strangers from the Shadow truly place the keys of world empire into shepherd hands? At the Citadel of Oldtown, maesters view that eastern claim with pointed skepticism. If an older civilization in the Shadow commanded dragons first, Maester Yandel asks, why did they",
-  "batch_status": "PARTIAL_6_OF_10_APPROVED_UPLOADED_0482_REJECTED_0488_0489_0490_NOT_RENDERED",
-  "approved_count": 6,
-  "approved_uploaded_count": 6,
-  "drive_verified_count": 6,
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "approved_uploaded_count": 10,
+  "drive_verified_count": 10,
   "batch_drive_folder_id": "14_6lKx9VP5npPomjjGXERay57wB-n794",
   "batch_drive_folder_url": "https://drive.google.com/drive/folders/14_6lKx9VP5npPomjjGXERay57wB-n794",
   "parent_ep001_folder_id": "1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn",
-  "generations_used": 10,
+  "generations_used": 14,
   "generations_cap": 10,
   "locations": "the early Freehold and the western coast (0481-0484); the Citadel of Oldtown at night (0485-0490)",
   "creature_refs": "no dragon in this batch - the beast imagined here is marble, at the Citadel gate",
   "the_scepticism_rule": "The Citadel's disbelief must be carried by hands, chain, marble and light - never by a face. The standing ban on showing maesters as characters holds: 0485 crops above the wrists, 0486 renders the maesters strictly from behind, and 0487's only face is carved stone. This is the third appearance of the Citadel in the episode and the rule has not bent once.",
   "fused_stone_rule": "Dragonflame-fused black stone is the visual signature of Valyrian power and it must look POURED: seamless, glassy, continuous, cooled from molten flow, slightly translucent at thin edges. It must never read as coursed masonry with joints, which is the failure that caught 0453 and again caught 0482. Negate ashlar, coursed masonry, stacked blocks, joints, mortar, rubble and brick by name.",
-  "pending_rerender_scenes": [
-    "VAL-EP001-IMG0482"
-  ],
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0488",
-    "VAL-EP001-IMG0489",
-    "VAL-EP001-IMG0490"
-  ],
+  "pending_rerender_scenes": [],
+  "pending_completion_scenes": [],
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0481",
@@ -60,15 +54,15 @@
       "visual_beat": "Over-the-shoulder depth perspective — Maester Yandel's skepticism vs vanishing Shadow teachers",
       "file_path": "assets/batch_049/VAL-EP001-IMG0482.png",
       "shot_type": "40mm over-the-shoulder: a shepherd at the edge of the fused basalt road",
-      "qc_status": "REJECTED",
-      "md5": null,
-      "size_bytes": null,
+      "qc_status": "APPROVED",
+      "md5": "61b6e9d65faf1b063394ff5c34d526a0",
+      "size_bytes": 2276413,
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "REJECTED on the fused-stone rule. The two piers framing the road are rendered as **stacked rubble blocks with visible joint lines and pitted mortar texture** - coursed masonry, which is the one thing fused dragonflame stone can never look like, and the same class of failure as 0453. The composition, the shepherd's back and the silver hair are all correct; only the stone is wrong.",
-      "rerender_brief": "Rebuild the two flanking piers as single cooled masses: seamless, glassy, continuous, with **no visible joint line, no seam, no course, no block edges, no mortar, no rubble texture anywhere**. The surface should look poured or melted and then cooled, slightly translucent at the edges where it thinned, like obsidian. Negate: ashlar, coursed masonry, stacked blocks, joints, mortar, rubble, brick, dry-stone, pitted masonry."
+      "drive_file_id": "1yJHs5Gqnyn5lDHF_Gnvp737PNZIYIWQy",
+      "drive_url": "https://drive.google.com/file/d/1yJHs5Gqnyn5lDHF_Gnvp737PNZIYIWQy/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "40mm over-the-shoulder from behind a shepherd's shoulder - coarse undyed wool, loose silver-white hair over the collar, one dirty hand hanging down, **no face at all**. Beyond him in sharp focus the fused basalt road runs away between two colossal **monolithic fused black stone piers**, each one a single continuous cooled mass, glassy, jointless, base to out-of-frame top, with **no joint line, no seam, no block edge and no mortar anywhere on them** - poured, like thick obsidian, faintly translucent where the light grazes the edge. A low rise of the same cooled stone closes the road and one thin dark plume crosses the pale sky. Flat cold overcast. **The masonry failure is fixed on the second pass, and the fix was the negation list.**",
+      "rerender_brief": null
     },
     {
       "scene_id": "VAL-EP001-IMG0483",
@@ -187,14 +181,15 @@
       "visual_beat": "Medium cinematic subject focus — Maester Yandel's skepticism vs vanishing Shadow teachers",
       "file_path": "assets/batch_049/VAL-EP001-IMG0488.png",
       "shot_type": "MS · 50mm",
-      "qc_status": "PENDING",
-      "md5": null,
-      "size_bytes": null,
-      "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "NOT YET RENDERED. Deferred: the per-turn generation cap was spent on the 0476 re-render, 0479, 0480 and six frames here."
+      "qc_status": "APPROVED",
+      "md5": "40b008f754b914e3c973f2181ce411ee",
+      "size_bytes": 1863520,
+      "resolution": "1376x768",
+      "drive_file_id": "1h4s_nr7qvXmkIf_Xx7eLCd9i-6gysYpr",
+      "drive_url": "https://drive.google.com/file/d/1h4s_nr7qvXmkIf_Xx7eLCd9i-6gysYpr/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "50mm in a dark torch-lit vault, and **the subject is a bare plinth with nothing on it**. Pale limestone, waist-high, scuffed on top, with the four shallow dark depressions where a statue's feet would have been bolted - empty bolt holes, slightly rusted. No statue and none for a very long time. Vault ribs above, black shelves behind, one narrow window high left showing only black. Two guttering candles in an iron stand throw a small warm pool that dies within three paces. **The argument made literally: nothing was left behind to look at.** The shelf load faintly suggests many books; at magnification only marks and shadows.",
+      "rerender_brief": null
     },
     {
       "scene_id": "VAL-EP001-IMG0489",
@@ -208,14 +203,15 @@
       "visual_beat": "Wide environmental storytelling tableau — Maester Yandel's skepticism vs vanishing Shadow teachers",
       "file_path": "assets/batch_049/VAL-EP001-IMG0489.png",
       "shot_type": "WS · 35mm",
-      "qc_status": "PENDING",
-      "md5": null,
-      "size_bytes": null,
-      "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "NOT YET RENDERED. Deferred: the per-turn generation cap was spent on the 0476 re-render, 0479, 0480 and six frames here."
+      "qc_status": "APPROVED",
+      "md5": "81531cbc2575bf002decd5818541cc5f",
+      "size_bytes": 2188565,
+      "resolution": "1376x768",
+      "drive_file_id": "1vHadxV1Lkwn6Ka4bSuFnvz-M9b6PEtGs",
+      "drive_url": "https://drive.google.com/file/d/1vHadxV1Lkwn6Ka4bSuFnvz-M9b6PEtGs/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "35mm across the Honeywine at dusk in steady rain: the Citadel rises behind a curtain of wet air, **weathered, squat, administrative** - narrow windows, no ornament, no banners, no gilding - with a few warm lantern points behind shutters and its mass dissolving upward into low cloud. A stone bridge crosses on the left. Rain streaks the whole frame. **No figure is resolvable anywhere**: the two or three dark smudges on the bridge parapet stay paper-cut silhouettes at 5x, which is exactly the intent - people exist here but none of them is a character.",
+      "rerender_brief": null
     },
     {
       "scene_id": "VAL-EP001-IMG0490",
@@ -229,14 +225,16 @@
       "visual_beat": "High-elevation geographic / scale reveal — Maester Yandel's skepticism vs vanishing Shadow teachers",
       "file_path": "assets/batch_049/VAL-EP001-IMG0490.png",
       "shot_type": "UWA · 24mm",
-      "qc_status": "PENDING",
-      "md5": null,
-      "size_bytes": null,
-      "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "NOT YET RENDERED. Deferred: the per-turn generation cap was spent on the 0476 re-render, 0479, 0480 and six frames here."
+      "qc_status": "APPROVED",
+      "md5": "62af6a192507924e48b4dc8a6f3f8f92",
+      "size_bytes": 1705704,
+      "resolution": "1376x768",
+      "drive_file_id": "1aiYU9YUQW96RPs9kt2ae5_ElVCIjdvTA",
+      "drive_url": "https://drive.google.com/file/d/1aiYU9YUQW96RPs9kt2ae5_ElVCIjdvTA/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "24mm from the Citadel's tallest tower at night: the city below as a dark field of tiled roofs and chimneys punctuated by **hundreds of small warm lamps** - an ordinary evening, not a festival - the Honeywine cutting through as a black band with a few moored boats, and beyond the last roofs the Whispering Sound running flat and black to a thin pale line of water at the horizon. No moon, no stars, overcast. The Citadel's own towers stand out of the near rooftops at left. **A small warm civilisation at the edge of a very large dark** - which is the sceptic's whole case, seen from his own window.",
+      "rerender_brief": null
     }
-  ]
+  ],
+  "closed_note": "Closed 10/10. The Citadel material is now complete and the ban never bent: a bare plinth with empty bolt holes (0488), the institution as a squat weathered mass in rain (0489), the city as one small warm light in a large dark (0490). 0482 fixed the masonry failure on the second pass with the negation list."
 }

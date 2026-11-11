@@ -642,7 +642,7 @@ The myth movement. After nineteen frames of the observation sequence in the grey
 **Verified progress: 476/1,050 (45.33%)** — Batches 045, 046 and 047 all closed at 10/10. Batch 048 is now open at 7/10. `IMG0160` remains the one open correction from an earlier batch.
 
 
-### Batch 048 — Nameless Masters, Westward (`15:40–16:00`) — **Open at 9/10 · `IMG0476` still open after two failed passes**
+### Batch 048 — Nameless Masters, Westward (`15:40–16:00`) — **CLOSED 10/10 · `IMG0476` approved on its third pass**
 
 **This is the legend spoken as legend, and the images hedge the way the narration hedges.** *Legend claims* — not *this happened*. The masters are never clearly seen and never speak, the gift is never explained, and the dragons appear as **pre-existing** rather than discovered. Every frame that stages the claim also withholds the proof, which is the only honest way to shoot a disputed tradition.
 
@@ -666,10 +666,14 @@ The myth movement. After nineteen frames of the observation sequence in the grey
 
 That is `0398` and `0446` in a new disguise, and the diagnosis is the one `9c` already contains: **the animal was rendered as detail rather than as a flat black shape.** The prompt asked for a silhouette, but the ash behind was bright and the animal detailed enough that the model filled in everything it could see. **The third brief stops describing and changes the pose** — flight, wings spread, both hind legs tucked to the belly and out of sight, nothing touching the ground, exactly zero claws below the body.
 
-**Verified progress: 485/1,050 (46.19%)** — Batches 045, 046 and 047 closed at 10/10; Batch 048 at 9/10 with `0476` open. Batch 049 is open at 6/10. `IMG0160` remains the one open correction from an earlier batch.
+**`IMG0476` closed on the third pass, and the fix was pose, not wording.** Pass one returned a stitched panorama (seam at x≈657). Pass two removed the seam completely — column scan, max adjacent-column delta **0.017**, no step — and failed on **anatomy**: at 3x, two forelimbs, a hind leg, a second hind foot, wings held separately. Six limbs. **The diagnosis is the one already written in §9c: the animal was rendered as detail rather than as a silhouette**, and detail is the thing that invites invention. Pass three did two things — it put the animal **in flight**, which takes the forelimbs off the ground and lets the hind legs fold up under the belly, and it declared **landscape orientation first**, because attempt three had a prior life as an unusable portrait. Verified at 3x: **four limbs, two wings, zero claws below the body, nothing touching the ground.**
+
+**The rule out of it is generic:** when a creature frame fails on anatomy twice, **stop rewording and change the pose.** A standing quadruped in open terrain is the hardest configuration in the production; flight is the one that cannot be miscounted.
+
+**Batch 048 CLOSED 10/10. Verified progress: 490/1,050 (46.67%)** at the close of 048. `IMG0160` remains the one open correction from an earlier batch.
 
 
-### Batch 049 — The Keys of World Empire (`16:00–16:20`) — **Open · 6/10 approved and uploaded, `IMG0482` rejected, `IMG0488`–`0490` not rendered**
+### Batch 049 — The Keys of World Empire (`16:00–16:20`) — **CLOSED 10/10 · `IMG0482` approved on its second pass**
 
 **The chapter turns to interrogate its own legend, and the interrogation has no face.** *Did masked strangers from the Shadow truly place the keys of world empire into shepherd hands?* This is the **third** appearance of the Citadel in the episode and the standing ban has not bent once: **no maester is ever a character.** The disbelief is carried by **ink-stained hands, a forged chain, wet marble and small pools of candlelight** — `0485` crops above the wrists, `0486` renders the maesters strictly from behind, and `0487` is the only frame with a face in it, and that face is carved stone.
 
@@ -685,4 +689,25 @@ That is `0398` and `0446` in a new disguise, and the diagnosis is the one `9c` a
 
 **Director's boundaries held across all six approved frames:** no maester's face, head or hood; no readable text, script, glyph or numeral anywhere (blurred texture only); no living face in the Citadel frames except carved stone; no joints, courses, mortar or rubble in fused Valyrian stone (where it held); no golden hour, sun disc, god-light or shafts on the peninsula; no snow or ice. All six are `1376x768`; the Drive folder was re-listed after the sixth upload and all six checksums match local `md5sum` byte for byte.
 
-**Verified progress: 490/1,050 (46.67%)** — Batches 045–047 closed at 10/10; Batch 048 at 9/10 with `0476` open; Batch 049 open at 6/10 with `0482` rejected. **Order of work next: re-render `0482` with the fused-stone brief, close `0476` in flight, then render `0488`–`0490` and open Batch 050 (`16:20–16:40`),** where the narration reaches its rebuttal. `IMG0160` remains the one open correction from an earlier batch.
+**`IMG0482` proves the negation list is the fix.** It failed on the first pass with coursed rubble and joint lines, exactly as `0453` had, and it passed on the second by **naming absences rather than describing the material harder**: no ashlar, no coursed masonry, no stacked blocks, no joint lines, no mortar, no rubble, no brick, no dry-stone, no pitting, no capital, no base, no cornice, no ornament — plus "one single cooled mass" and "slightly translucent at the edge." What came back is genuinely **poured**: glassy, continuous, jointless, faintly green where the light grazes the thin edge. **Three failures produced one sentence, and the sentence works.**
+
+**The last three frames finished the Citadel material, each solving the same problem differently.** `0488` makes the argument **literally** — a bare limestone plinth in a dark vault with four empty, slightly rusted **bolt holes** where a statue's feet were once fixed, and no statue. Nothing was left behind to look at. `0489` gives the institution its exterior: squat, weathered, administrative, no ornament, no banners, no gilding, dissolving upward into raincloud, with **not one figure resolving** (checked at 5x — the smudges on the bridge parapet stay paper-cut silhouettes). `0490` closes from the Citadel's own tallest tower at night: the city as a dark field of tiles punctuated by hundreds of small warm lamps, an ordinary evening rather than a festival, the Honeywine black, the Whispering Sound running flat to a thin pale horizon. **`0490` is the sceptic's case seen from his own window**, and the frame does not editorialise — it puts you where Yandel stands.
+
+**Batch 049 CLOSED 10/10. Verified progress: 492/1,050 (46.86%)** — Batches 045 through 049 all closed at 10/10, and **Batch 050 is open at 2/10**. `IMG0160` remains the one open correction from an earlier batch.
+
+
+### Batch 050 — One Uncomfortable Truth (`16:20–16:40`) — **Open · 2/10 approved and uploaded, `IMG0493`–`IMG0500` not rendered**
+
+**The sceptic concedes, and the concession is carried by scale.** *Yet even skeptical scholars concede one uncomfortable truth: simple pastoralists do not wake one morning fluent in high sorcery.* Yandel has spent four minutes dismantling the eastern claim and now grants it the one point he cannot argue away. **The frames do not make the argument — the narration does.** What the frames supply is the **evidence** the argument rests on: a structure no shepherd built, and a material that can only have been melted.
+
+**`IMG0491` is the first architecture Valyria is allowed that dwarfs a person without ornamenting itself.** 24mm from the foot of a spire, tilted steeply up so the shaft leaves the frame at the top and its two fused spurs leave it at different heights — a hard black vertical against flat grey cloud, leaning and twisting a few degrees as it climbs, **no joint line, no course, no mortar, no capital, no base.** Three robed figures at the base, tiny, faceless. **Vertigo, and no mason in sight** — the structure is not evidence of skill, it is evidence of something that was not built at all. **Fourth use of the fused-stone rule, clean on the first pass** because the negation list travelled with the prompt.
+
+**`IMG0492` is the whole Valyrian claim in a piece of surface.** An 85mm macro filled entirely by cooled fused stone: the smooth rippled skin of something that was liquid and hardened, **flow lines running through it like the surface of poured glass**, fine grey ash settled in the ripples, small vesicles, one hairline cooling crack — and at the centre, where the stone fractured, a fresh break showing a **faint green-black translucency a few millimetres into the thin edge.**
+
+**That translucency is the argument.** It is the one visual detail in this production that cannot be produced by stacking, coursing, mortaring or dressing stone. A tower can be built out of blocks; the edge of a block cannot be made to go translucent the way thick obsidian does. **The material is the proof, and a macro is the only lens that delivers it.** The frame is doing the work `0286`, `0453` and `0482`'s first pass all failed to do, and it does it in one photograph of a surface.
+
+**Director's boundaries held:** no legible text, glyph, rune or numeral in either frame; no ashlar, coursing, joints, mortar or rubble in the fused stone; no capital, base, cornice or ornament; no face; no snow or ice, no white steam, no god-light or shafts on the peninsula; no fire or lava bloom. Both are `1376x768`, and both Drive checksums match local `md5sum` after a folder re-list.
+
+**Standing brief for `IMG0496`–`IMG0500`, where the cavern trials open.** The fire, glyph, sound and blood trials are **the most dangerous material in the episode** and must be shot as **physical and procedural** — heat, soot, scored stone, breath, torchlight on wet rock — never as magic. **Negate by name every time: no floating symbols, no glowing script, no magic circles, no energy trails, no auras, no levitation, no glowing eyes, no lens flares, no god-light.** Every living face stays out of frame or in silhouette.
+
+**Verified progress: 492/1,050 (46.86%)** — Batches 045–049 all closed at 10/10; Batch 050 open at 2/10. **Order of work next: render `IMG0493`–`IMG0500`, opening the trials at `IMG0496`, then Batch 051 (`16:40–17:00`)** where the trials turn lethal. `IMG0160` remains the one open correction from an earlier batch.

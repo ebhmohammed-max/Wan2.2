@@ -53,10 +53,11 @@
     45,
     46,
     47,
-    48
+    48,
+    49
   ],
-  "next_batch": 49,
-  "next_image_number": 476,
+  "next_batch": 50,
+  "next_image_number": 493,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1937,8 +1938,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-13T20:10:00Z",
-  "verified_progress_percent": "46.67%",
+  "last_updated": "2026-11-13T21:40:00Z",
+  "verified_progress_percent": "46.86%",
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3634,7 +3635,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 490,
+  "verified_image_count": 492,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -9130,6 +9131,23 @@
       "upload_checksum_verified": true
     },
     {
+      "scene_id": "VAL-EP001-IMG0476",
+      "timestamp": "15:50–15:52",
+      "narration_slice": "tamed dragons or binding lore",
+      "shot_type": "24mm towering vertical composition: the dragon in strict silhouette on black scree",
+      "visual_beat": "Towering vertical scale composition — Disputed legend: nameless Shadow masters teaching Valyrians",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "drive_file_id": "1aupJMJUYtXRSQyTTvcAkOfDMaD8flyka",
+      "drive_url": "https://drive.google.com/file/d/1aupJMJUYtXRSQyTTvcAkOfDMaD8flyka/view",
+      "md5": "0a3f86d783d6a0510cfe0e063e6b1999",
+      "size_bytes": 2533456,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
       "scene_id": "VAL-EP001-IMG0477",
       "timestamp": "15:52–15:54",
       "narration_slice": "to the silver-haired herdsmen,",
@@ -9198,12 +9216,10 @@
       "upload_checksum_verified": true
     }
   ],
-  "batch_048_status": "COMPLETE_9_OF_10_UPLOADED_MD5_VERIFIED_0476_REJECTED",
+  "batch_048_status": "COMPLETE_10_OF_10_UPLOADED_MD5_VERIFIED",
   "batch_048_drive_folder_id": "12qR_2G1Vn9ERn3g0pKA7_bh1unrUckPC",
-  "batch_048_drive_verified_count": 9,
-  "batch_048_pending_rerender_scenes": [
-    "VAL-EP001-IMG0476"
-  ],
+  "batch_048_drive_verified_count": 10,
+  "batch_048_pending_rerender_scenes": [],
   "batch_048_pending_completion_scenes": [],
   "batch_048_note": [
     "Nameless masters, westward. The legend itself, staged as legend: the masters are never seen clearly, the gift is never explained, and the dragons are pre-existing rather than discovered. 0474 is the hinge of the whole episode - out of the Shadow's sourceless grey-green gloom into the first real daylight, flat, cold and overcast, with the smoking cones and the Summer Sea beyond. 0478 deliberately refuses to make the shepherd look like a chosen one: plain mended wool, no ornament, no hero light, the face half in shadow. 0476 REJECTED not on content but on integrity - a hard vertical seam at x=657, a panorama-stitch artifact."
@@ -9214,7 +9230,7 @@
   "daylight_returns": [
     "From IMG0474 the episode has real daylight for the first time since the peninsula prologue: flat, cold, colourless overcast. It must never become golden hour, a sun disc, god-light or light shafts - the legend earns its warmth from what it claims, not from the lighting department."
   ],
-  "batch_048_close_note": "Closed with 0479 and 0480, both first pass. 0479 is the best erasure frame of the production - wind pouring pale ash into half-filled hollows, the last traces of feet, nothing left behind. 0480 is a wide of an empty ridge with no one in it, composed like a departure that has already finished. 0476 stays open after two passes: first a stitched panorama, then six limbs. Third brief puts the animal in flight with the hind legs out of sight.",
+  "batch_048_close_note": "Closed 10/10. 0479 is the best erasure frame of the production - wind pouring pale ash into hollows that are nearly gone. 0480 is an empty ridge with no one in it. 0476 took three passes: a stitched panorama, then six limbs, then a clean flight with the legs tucked. The lesson: change the POSE, not the description.",
   "batch_049_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0481",
@@ -9229,6 +9245,23 @@
       "drive_url": "https://drive.google.com/file/d/1uMWTgZefDWExRHA5iUxjpGB-SAHYB5z0/view",
       "md5": "d7524eac4198ba454b4e554d8bab49f7",
       "size_bytes": 2363991,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0482",
+      "timestamp": "16:02–16:04",
+      "narration_slice": "the Shadow truly place the",
+      "shot_type": "40mm over-the-shoulder: a shepherd at the edge of the fused basalt road",
+      "visual_beat": "Over-the-shoulder depth perspective — Maester Yandel's skepticism vs vanishing Shadow teachers",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "drive_file_id": "1yJHs5Gqnyn5lDHF_Gnvp737PNZIYIWQy",
+      "drive_url": "https://drive.google.com/file/d/1yJHs5Gqnyn5lDHF_Gnvp737PNZIYIWQy/view",
+      "md5": "61b6e9d65faf1b063394ff5c34d526a0",
+      "size_bytes": 2276413,
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
@@ -9317,20 +9350,116 @@
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0488",
+      "timestamp": "16:14–16:16",
+      "narration_slice": "older civilization in the Shadow",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Maester Yandel's skepticism vs vanishing Shadow teachers",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "drive_file_id": "1h4s_nr7qvXmkIf_Xx7eLCd9i-6gysYpr",
+      "drive_url": "https://drive.google.com/file/d/1h4s_nr7qvXmkIf_Xx7eLCd9i-6gysYpr/view",
+      "md5": "40b008f754b914e3c973f2181ce411ee",
+      "size_bytes": 1863520,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0489",
+      "timestamp": "16:16–16:18",
+      "narration_slice": "commanded dragons first, Maester",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Maester Yandel's skepticism vs vanishing Shadow teachers",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "drive_file_id": "1vHadxV1Lkwn6Ka4bSuFnvz-M9b6PEtGs",
+      "drive_url": "https://drive.google.com/file/d/1vHadxV1Lkwn6Ka4bSuFnvz-M9b6PEtGs/view",
+      "md5": "81531cbc2575bf002decd5818541cc5f",
+      "size_bytes": 2188565,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0490",
+      "timestamp": "16:18–16:20",
+      "narration_slice": "Yandel asks, why did they",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Maester Yandel's skepticism vs vanishing Shadow teachers",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "drive_file_id": "1aiYU9YUQW96RPs9kt2ae5_ElVCIjdvTA",
+      "drive_url": "https://drive.google.com/file/d/1aiYU9YUQW96RPs9kt2ae5_ElVCIjdvTA/view",
+      "md5": "62af6a192507924e48b4dc8a6f3f8f92",
+      "size_bytes": 1705704,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
     }
   ],
-  "batch_049_status": "PARTIAL_6_OF_10_UPLOADED_MD5_VERIFIED_0482_REJECTED_0488_0490_NOT_RENDERED",
+  "batch_049_status": "COMPLETE_10_OF_10_UPLOADED_MD5_VERIFIED",
   "batch_049_drive_folder_id": "14_6lKx9VP5npPomjjGXERay57wB-n794",
-  "batch_049_drive_verified_count": 6,
-  "batch_049_pending_rerender_scenes": [
-    "VAL-EP001-IMG0482"
+  "batch_049_drive_verified_count": 10,
+  "batch_049_pending_rerender_scenes": [],
+  "batch_049_pending_completion_scenes": [],
+  "batch_049_note": "The keys of world empire. Valyria is finally allowed architecture and it looks grown rather than built: fused piers over a fused road (0481, 0482), fused shapes sitting in a herding valley with sheep grazing round them (0483). 0484 is the best frame of the episode - two herdsmen on a coastal ridge and Oldtown a pale smudge across the sea. The Citadel's scepticism is carried entirely by hands, chain, marble, empty stone and candlelight.",
+  "fused_stone_rule": "Dragonflame-fused black stone must look POURED: seamless, glassy, continuous, cooled from molten flow, slightly translucent at thin edges. Never coursed masonry. Failures 0286/0453/0482, then FIXED on 0482 pass two with the negation list, and clean on the first pass for 0491 and 0492. The list is now standard: no ashlar, coursed masonry, stacked blocks, joint lines, mortar, rubble, brick, pitting, capital, base, cornice, ornament.",
+  "citadel_rule": "Third appearance of the Citadel and the ban has not bent: no maester is ever a character. Disbelief is carried by ink-stained hands, a forged chain, wet marble and small pools of candlelight. Pages are turned away, edge-on or closed; the blurred block of script in 0485 matches the established 0034/0037 precedent and is unreadable at 2.4x.",
+  "batch_049_close_note": "Closed 10/10. The Citadel material complete and the ban never bent: a bare plinth with empty bolt holes in a dark vault (0488), the institution as a squat weathered mass in rain (0489), the city as hundreds of small warm lamps against a very large dark (0490). 0482 fixed the masonry failure on its second pass, and the fix was the negation list.",
+  "batch_050_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0491",
+      "timestamp": "16:20–16:22",
+      "narration_slice": "conquer no kingdoms and",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Maester Yandel's skepticism vs vanishing Shadow teachers",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "drive_file_id": "1E6ZVX6ApEQidaGYScAnWRTliljV7T1gs",
+      "drive_url": "https://drive.google.com/file/d/1E6ZVX6ApEQidaGYScAnWRTliljV7T1gs/view",
+      "md5": "f1a48abf70a37d1f0fcfc8bfb3df50e6",
+      "size_bytes": 1767900,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0492",
+      "timestamp": "16:22–16:24",
+      "narration_slice": "raise no world-spanning empire as",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Maester Yandel's skepticism vs vanishing Shadow teachers",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "drive_file_id": "1_P3m7tUOb30WOYAeGCXEKfFvrsw7MaHy",
+      "drive_url": "https://drive.google.com/file/d/1_P3m7tUOb30WOYAeGCXEKfFvrsw7MaHy/view",
+      "md5": "e4abc6ab7118054419c96f2616861374",
+      "size_bytes": 2348610,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
   ],
-  "batch_049_pending_completion_scenes": [
-    "VAL-EP001-IMG0488",
-    "VAL-EP001-IMG0489",
-    "VAL-EP001-IMG0490"
+  "batch_050_status": "PARTIAL_2_OF_10_UPLOADED_MD5_VERIFIED",
+  "batch_050_drive_folder_id": "1Atkd3zScJVgA9M8Mr1IPTX6UOk2QlWeC",
+  "batch_050_drive_verified_count": 2,
+  "batch_050_pending_completion_scenes": [
+    "VAL-EP001-IMG0493",
+    "VAL-EP001-IMG0494",
+    "VAL-EP001-IMG0495",
+    "VAL-EP001-IMG0496",
+    "VAL-EP001-IMG0497",
+    "VAL-EP001-IMG0498",
+    "VAL-EP001-IMG0499",
+    "VAL-EP001-IMG0500"
   ],
-  "batch_049_note": "The keys of world empire. Valyria is finally allowed architecture and it looks grown rather than built: seamless mortarless fused black stone piers leaning over a fused basalt road (0481), fused shapes sitting in a herding valley with sheep grazing round them (0483). 0484 is the episode's best single frame - the herdsmen on a coastal ridge and Oldtown a pale smudge hundreds of leagues away across the water. The Citadel's scepticism is carried entirely by hands, chain, marble and candlelight: 0485 crops above the wrists, 0486 shows maesters only from behind, 0487's only face is carved stone. 0482 REJECTED because the 'fused' piers came back as coursed rubble.",
-  "fused_stone_rule": "Dragonflame-fused black stone must look POURED: seamless, glassy, continuous, cooled from molten flow, slightly translucent at thin edges. It must never read as coursed masonry. Third occurrence of the same failure class (0453, 0482) - negate ashlar, coursed masonry, stacked blocks, joints, mortar, rubble and brick by name in every Freehold prompt.",
-  "citadel_rule": "Third appearance of the Citadel and the ban has not bent: no maester is ever a character. Disbelief is carried by ink-stained hands, a forged chain, wet marble and small pools of candlelight. Pages are turned away, edge-on or closed; the blurred block of script in 0485 matches the established 0034/0037 precedent and is unreadable at 2.4x."
+  "batch_050_note": "One uncomfortable truth. The sceptic concedes and the concession is carried by SCALE: 0491 is the first Valyrian structure in the episode and it leaves the frame twice; 0492 proves on a macro level that the material was melted. The argument is in the narration; the frames supply the evidence."
 }
