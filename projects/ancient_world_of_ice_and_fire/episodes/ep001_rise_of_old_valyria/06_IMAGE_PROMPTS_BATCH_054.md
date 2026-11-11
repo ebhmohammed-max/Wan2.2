@@ -1,7 +1,7 @@
 # BATCH 054 — IMAGE PROMPTS
 **Episode 001 · Before the Dragons: The Rise of Old Valyria**
 **Timecode 17:40–18:00 · Ch. IV · frames VAL-EP001-IMG0531 – IMG0540**
-**Status: OPEN — 8 of 10 approved, uploaded, MD5-verified. 0536 held for re-render; 0540 not yet generated.**
+**Status: CLOSED — 10 of 10 approved, uploaded, MD5-verified. Three passes rejected and re-rendered (0531, 0532, 0536).**
 
 Shared opener on every prompt (do not drop it — landscape has never been free):
 
@@ -67,10 +67,11 @@ Shared negations, carried from the bible: poured fused stone — **no rectangula
 ## VAL-EP001-IMG0536 — LAM · 24mm — 17:50–17:52
 **Narration:** “incantations of High Valyrian”  
 **Beat:** Towering vertical scale composition — the shaft the words are spoken up
-**Status:** `PENDING_RERENDER`  
+**Status:** `APPROVED`  
 **Re-render:** pass 1 rejected
 
-**QC:** Hold. The shaft, the tiny hooded figure with head tipped back, and the flat grey opening all work; the wall at 3x is poured and seamless with no joints. But at 10x the sliver inside the hood reads as a pale jaw with a discernible lip line — the face rule is the one rule this arc does not bend. Not approved; re-render with the hood's interior in shadow and only a crown of hair showing.
+**QC:** Re-render approved. LAM 24mm straight up a shaft of poured fused stone to a flat grey rectangular opening. The walls at 3x are frozen molten runs and fracture, no courses. The figure stands at the base seen from directly behind: **at 8x the hood interior is solid black** — no jaw, no lip line, no chin, no cheek. The pass-1 fault is gone. Soot marks rise on the walls; no fire, no glow, no rays from the opening.
+**md5** `8cf3fce5faaa68d120c5adcb4283b666` · 2,383,695 bytes · 1376x768 · Drive `1CG1bvor_YTmw18FkF85Wpi-USARfXJGO`
 
 ---
 
@@ -107,9 +108,10 @@ Shared negations, carried from the bible: poured fused stone — **no rectangula
 ## VAL-EP001-IMG0540 — WS · 40mm — 17:58–18:00
 **Narration:** “a single mispronounced syllable.”  
 **Beat:** Transitional wide horizon / bridge framing — the error nobody could hear coming
-**Status:** `NOT_STARTED`  
+**Status:** `APPROVED`  
 
-**QC:** Not yet generated. Generation cap spent this turn (10 calls: 8 frames plus 2 re-renders).
+**QC:** WS 40mm from low inside a dark doorway. Threshold through POURED FUSED stone: jambs and lintel are single dressed monoliths with vertical fracture striation at 3x, **no coursed blocks, no joint rhythm** — dressed, not stacked. Outside: flat grey ash plain, low black ridges, heavy overcast, nothing built, no fire, no smoke, no sun. A black dragonhorn stands upright inside at frame left, gold tarnished, rim chipped, nothing alight. One figure crosses the threshold seen **entirely from behind** — at 9x only a cap of dark hair and the shoulders of a mantle, no profile, no face. Shapeless finger furrows in the threshold dust, unreadable.
+**md5** `80053711942a8a687ad92b87bfce29ed` · 1,939,558 bytes · 1376x768 · Drive `1amCZ7nDdcxYgtMoDJ6XOgJ2ECOkgjBDE`
 
 ---
 ## What this batch is arguing
@@ -118,14 +120,14 @@ The instrument is not magic. Batch 053 established the scream as *cost*; batch 0
 
 Nothing in these ten frames emits anything. The only heat is a dull red seam in a crack and the size of a flame that fits in a palm.
 
-## Two passes rejected, one frame held
+## Three passes rejected, three re-rendered
 
 - **0531 pass 1** put a carried man's full profile in clear light — instantly readable, and the single thing this arc forbids. Pass 2 turns all three figures away from camera down the corridor; the story reads in the boots, the hanging head, and the dropped horn behind them.
 - **0532 pass 1** rendered the horn as an upright beaker cradled in two hands, with a complete recognizable face behind it. Pass 2 lays the horn horizontally across flagstones and removes the head from the frame entirely.
-- **0536 is held, not approved.** The shaft, the tipped-back figure and the flat grey opening are right, but a pale jaw with a lip line is visible inside the hood at 10x. It can be fixed with a re-render (hood interior in shadow, only a crown of hair); it will not be waved through.
+- **0536 pass 1** left a pale jaw with a lip line inside the hood at 10x. Pass 2 pulls the hood forward and blacks its interior completely; at 8x there is no feature at all.
 
-## Close-out owed
+Three rejections in one batch is the useful record: the rule was stated in every brief and still leaked in three different ways — a profile, a portrait behind an object, and a jaw in a shadow. **Enforcement happens at the crop, not in the prompt.**
 
-- `0536` re-render — hood must read as shadow.
-- `0540` (WS 40mm, "a single mispronounced syllable.") — the bridge frame, not yet generated.
-- Then batch 054 closes at 10/10 with its manifest, QC section and inventory at 547.
+## Close-out
+
+**Batch 054 CLOSED 10/10**, uploaded and size-verified in `EP001_BATCH_054_IMG0531-0540`. `0540` ends the sequence at a threshold: horn standing inside, one figure walking out into flat grey, no face, no turning back. Next: **Batch 055** (18:00–18:20), Septon Barth and the *Unnatural History*.

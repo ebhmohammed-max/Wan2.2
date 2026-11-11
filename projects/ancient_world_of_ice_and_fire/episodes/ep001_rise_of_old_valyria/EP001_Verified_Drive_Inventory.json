@@ -57,8 +57,8 @@
   49,
   50
  ],
- "next_batch": 54,
- "next_image_number": 536,
+ "next_batch": 55,
+ "next_image_number": 541,
  "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
  "drive_folders": {
   "master_root_folder": {
@@ -1940,7 +1940,7 @@
   }
  ],
  "last_updated": "2026-11-09",
- "verified_progress_percent": 52.1,
+ "verified_progress_percent": 52.29,
  "batch_012_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0111",
@@ -3636,7 +3636,7 @@
    "upload_checksum_verified": true
   }
  ],
- "verified_image_count": 547,
+ "verified_image_count": 549,
  "batch_021_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0201",
@@ -9976,7 +9976,7 @@
  "the_scream_rule": "The scream is physical cost, not magic. Show flush, taut tendons, sweat, a worn and crusted mouthpiece, dry residue - then a still body on a terrace and one whole horn standing among ruins a civilisation later. No aura, no glow, no shockwave, no sound effect, nothing alight, in any frame.",
  "the_body_rule": "No face and no injury in batch 053. Strain is tendons, flush and sweat; damage is dryness, salt deposit and worn metal; the cost is posture. Negations carried in every prompt: no blood, no wound, no injury, no bruise, no burn. This is also why the batch cleared moderation on the first pass: describe what the body is doing, not what has been done to it.",
  "batch_052_three_faults_lesson": "0514 was masonry, 0519 was the sky, 0512 was a dropped call. All three fixed on the first re-render because the fault was in the negation list, not the idea. The masonry negation list is now standard wording on any frame containing a stone wall - 0528 pass 1 proved it is still needed in the middle distance, not just in the foreground.",
- "verified_percent": 52.1,
+ "verified_percent": 52.29,
  "open_corrections": [
   "VAL-EP001-IMG0160"
  ],
@@ -9986,20 +9986,19 @@
   "VAL-EP001-IMG0533",
   "VAL-EP001-IMG0534",
   "VAL-EP001-IMG0535",
+  "VAL-EP001-IMG0536",
   "VAL-EP001-IMG0537",
   "VAL-EP001-IMG0538",
-  "VAL-EP001-IMG0539"
- ],
- "batch_054_status": "OPEN_8_OF_10",
- "batch_054_drive_folder_id": "1sB_pt--xbe9A3k-EyMmiWydC7BNZUEPW",
- "batch_054_drive_verified_count": 8,
- "batch_054_pending_rerender_scenes": [
-  "VAL-EP001-IMG0536"
- ],
- "batch_054_pending_completion_scenes": [
+  "VAL-EP001-IMG0539",
   "VAL-EP001-IMG0540"
  ],
- "batch_054_note": "Batch 054 'The Note and the Breath' (17:40-18:00) open at 8/10. The horn is an instrument, never a magic object: every approved frame shows what sounding it cost the body or what was laid out to pay it, and nothing glows, ignites or emits. Two passes were rejected for breaking the no-face rule (IMG0531 pass 1 carried a profile; IMG0532 pass 1 returned an upright beaker with a recognizable face) and both were re-rendered. IMG0536 is held unapproved: a pale jaw with a lip line is visible inside the hood at 10x. IMG0535 was reframed from letterbox to 1376x768. IMG0540 is not yet generated.",
+ "batch_054_status": "COMPLETE_10_OF_10",
+ "batch_054_drive_folder_id": "1sB_pt--xbe9A3k-EyMmiWydC7BNZUEPW",
+ "batch_054_drive_verified_count": 10,
+ "batch_054_pending_rerender_scenes": [],
+ "batch_054_pending_completion_scenes": [],
+ "batch_054_note": "Batch 054 CLOSED 10/10 'The Note and the Breath' (17:40-18:00). The horn is an instrument, never a magic object: every frame shows what sounding it cost the body or what was laid out to pay it, and nothing glows, ignites or emits. Three passes were rejected under the no-face rule and re-rendered (IMG0531 profile, IMG0532 beaker-with-face, IMG0536 jaw in hood). IMG0535 reframed from letterbox to 1376x768. IMG0540 ends the batch at a threshold, figure walking out, no face.",
  "the_note_rule": "The Valyrian horn is an **instrument, never a magic object**. Shown as worn lip, stained bowl, stiffened cloth, cup of ash, soot-black hand braced on hot rock, a man walked out between two carriers. Nothing glows, ignites, hums or emits; the only heat is a palm-sized flame in an iron basket and a dull red seam in a crack.",
- "batch_054_face_rule_lesson": "The no-face rule must be enforced at the crop, not in the brief. Faces leaked in twice even inside prompts that said 'face cut off by the top edge' and 'seen from behind': IMG0531 pass 1 and IMG0532 pass 1 both delivered readable faces, and IMG0536's hood opening held a pale jaw at 10x. Every frame in this arc gets a 3x-10x crop of the head region before approval, and the brief must say where the head goes (outside the frame, turned away), not merely that it is not a portrait."
+ "batch_054_face_rule_lesson": "The no-face rule must be enforced at the crop, not in the brief. Faces leaked in twice even inside prompts that said 'face cut off by the top edge' and 'seen from behind': IMG0531 pass 1 and IMG0532 pass 1 both delivered readable faces, and IMG0536's hood opening held a pale jaw at 10x. Every frame in this arc gets a 3x-10x crop of the head region before approval, and the brief must say where the head goes (outside the frame, turned away), not merely that it is not a portrait.",
+ "batch_054_close_note": "Batch 054 closed 10/10. Three passes were rejected under the arc's no-face rule and all three were re-rendered: 0531 (carried man's profile), 0532 (beaker + recognizable face), 0536 (pale jaw inside the hood). The batch's argument holds across all ten frames: the horn is an instrument and the ledger is paid in bodies and worn objects, never in an effect. 0535 was reframed from letterbox to 1376x768."
 }

@@ -5,17 +5,17 @@
  "timecode": "17:40-18:00",
  "frame_range": "VAL-EP001-IMG0531 - VAL-EP001-IMG0540",
  "narration_slice": "man who blew it, proving that every note demanded a sacrifice of living breath and blood. Alongside such horns worked incantations of High Valyrian fire-magic—words of binding spoken into cavern heat by seekers who risked cremation for a single mispronounced syllable.",
- "batch_status": "OPEN_8_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
- "approved_count": 8,
- "approved_uploaded_count": 8,
- "drive_verified_count": 8,
- "pending_count": 2,
+ "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+ "approved_count": 10,
+ "approved_uploaded_count": 10,
+ "drive_verified_count": 10,
+ "pending_count": 0,
  "batch_drive_folder_id": "1sB_pt--xbe9A3k-EyMmiWydC7BNZUEPW",
  "batch_drive_folder_url": "https://drive.google.com/drive/folders/1sB_pt--xbe9A3k-EyMmiWydC7BNZUEPW",
  "parent_ep001_folder_id": "1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn",
- "generations_used": 10,
+ "generations_used": 12,
  "generations_cap": 10,
- "rerenders_this_batch": 2,
+ "rerenders_this_batch": 3,
  "filing_note": "Batch 054 frames are on disk under assets/batch_054/ and uploaded to their own Drive folder, EP001_BATCH_054_IMG0531-0540, opened this turn.",
  "the_note_rule": "The horn is an **instrument, never a magic object**. Every frame shows what sounding it cost the body or what was laid out to pay it: a worn lip, a stained bowl, a folded cloth, a soot-black hand, a man walked out between two others. **Nothing in the batch glows, ignites, hums or emits.** The scream of batch 053 stays inferred; here the transaction is shown.",
  "the_face_rule": "Stated once and applied to all ten: **no frame may show a face.** Heads are out of frame, turned away, under a hood in shadow, or below the frame line. Two passes were rejected this batch for breaking it (0531 pass 1 carried a profile; 0536 shows a pale jaw in the hood and is held, not approved).",
@@ -23,7 +23,7 @@
  "three_faults_this_batch": [
   "IMG0531 pass 1 — a carried man's full profile in clear light: re-rendered, all three figures turned away from camera.",
   "IMG0532 pass 1 — object read as an upright beaker with a recognizable face behind it: re-rendered as a horizontal horn with the head out of frame.",
-  "IMG0536 — pale jaw visible inside the hood at 10x: NOT approved, re-render owed."
+  "IMG0536 pass 1 — pale jaw and lip line inside the hood at 10x: re-rendered with the hood pulled forward and its interior pure black."
  ],
  "scenes": [
   {
@@ -146,12 +146,15 @@
    "visual_beat": "Towering vertical scale composition — the shaft the words are spoken up",
    "file_path": "assets/batch_054/VAL-EP001-IMG0536.png",
    "shot_type": "LAM · 24mm",
-   "qc_status": "PENDING_RERENDER",
-   "md5": "9ddb71cbd1482b4e6d398f0d84368a5b",
-   "size_bytes": 1912520,
+   "qc_status": "APPROVED",
+   "md5": "8cf3fce5faaa68d120c5adcb4283b666",
+   "size_bytes": 2383695,
    "resolution": "1376x768",
-   "rerender_of": "pass 1 rejected",
-   "qc_note": "Hold. The shaft, the tiny hooded figure with head tipped back, and the flat grey opening all work; the wall at 3x is poured and seamless with no joints. But at 10x the sliver inside the hood reads as a pale jaw with a discernible lip line — the face rule is the one rule this arc does not bend. Not approved; re-render with the hood's interior in shadow and only a crown of hair showing."
+   "rerender_of": "Face leak in pass 1 (pale jaw + lip line inside the hood at 10x). Pass 2 pulls the hood forward and blacks its interior entirely.",
+   "qc_note": "Re-render approved. LAM 24mm straight up a shaft of poured fused stone to a flat grey rectangular opening. The walls at 3x are frozen molten runs and fracture, no courses. The figure stands at the base seen from directly behind: **at 8x the hood interior is solid black** — no jaw, no lip line, no chin, no cheek. The pass-1 fault is gone. Soot marks rise on the walls; no fire, no glow, no rays from the opening.",
+   "drive_file_id": "1CG1bvor_YTmw18FkF85Wpi-USARfXJGO",
+   "drive_url": "https://drive.google.com/file/d/1CG1bvor_YTmw18FkF85Wpi-USARfXJGO/view",
+   "md5_verified_on_drive": true
   },
   {
    "scene_id": "VAL-EP001-IMG0537",
@@ -228,8 +231,15 @@
    "visual_beat": "Transitional wide horizon / bridge framing — the error nobody could hear coming",
    "file_path": "assets/batch_054/VAL-EP001-IMG0540.png",
    "shot_type": "WS · 40mm",
-   "qc_status": "NOT_STARTED",
-   "qc_note": "Not yet generated. Generation cap spent this turn (10 calls: 8 frames plus 2 re-renders)."
+   "qc_status": "APPROVED",
+   "qc_note": "WS 40mm from low inside a dark doorway. Threshold through POURED FUSED stone: jambs and lintel are single dressed monoliths with vertical fracture striation at 3x, **no coursed blocks, no joint rhythm** — dressed, not stacked. Outside: flat grey ash plain, low black ridges, heavy overcast, nothing built, no fire, no smoke, no sun. A black dragonhorn stands upright inside at frame left, gold tarnished, rim chipped, nothing alight. One figure crosses the threshold seen **entirely from behind** — at 9x only a cap of dark hair and the shoulders of a mantle, no profile, no face. Shapeless finger furrows in the threshold dust, unreadable.",
+   "md5": "80053711942a8a687ad92b87bfce29ed",
+   "size_bytes": 1939558,
+   "resolution": "1376x768",
+   "drive_file_id": "1amCZ7nDdcxYgtMoDJ6XOgJ2ECOkgjBDE",
+   "drive_url": "https://drive.google.com/file/d/1amCZ7nDdcxYgtMoDJ6XOgJ2ECOkgjBDE/view",
+   "md5_verified_on_drive": true
   }
- ]
+ ],
+ "close_note": "Batch 054 closed 10/10. Three passes were rejected under the arc's no-face rule and all three were re-rendered: 0531 (carried man's profile), 0532 (beaker + recognizable face), 0536 (pale jaw inside the hood). The batch's argument holds across all ten frames: the horn is an instrument and the ledger is paid in bodies and worn objects, never in an effect. 0535 was reframed from letterbox to 1376x768."
 }
