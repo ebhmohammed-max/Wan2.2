@@ -696,7 +696,7 @@ That is `0398` and `0446` in a new disguise, and the diagnosis is the one `9c` a
 **Batch 049 CLOSED 10/10. Verified progress: 492/1,050 (46.86%)** — Batches 045 through 049 all closed at 10/10, and **Batch 050 is open at 2/10**. `IMG0160` remains the one open correction from an earlier batch.
 
 
-### Batch 050 — One Uncomfortable Truth (`16:20–16:40`) — **Open · 6/10 approved and uploaded · `IMG0498` and `IMG0500` rejected**
+### Batch 050 — One Uncomfortable Truth (`16:20–16:40`) — **CLOSED 9 of 10 · `IMG0500` abandoned after two failures**
 
 **The sceptic concedes, and the concession is carried by scale.** *Yet even skeptical scholars concede one uncomfortable truth: simple pastoralists do not wake one morning fluent in high sorcery.* Yandel has spent four minutes dismantling the eastern claim and now grants it the one point he cannot argue away. **The frames do not make the argument — the narration does.** What the frames supply is the **evidence** the argument rests on: a structure no shepherd built, and a material that can only have been melted.
 
@@ -718,4 +718,32 @@ That is `0398` and `0446` in a new disguise, and the diagnosis is the one `9c` a
 
 **`0500` was rejected on character continuity, not on quality.** In isolation it is a strong frame — a bowed figure at a fire trench, cupped soot-black trembling hands, coals blooming behind. But it delivered **a grey-stubbled man of forty with livid red streaking down his back** where the sequence has established **youths with short ash-stiffened hair**, and the red reads as blood in a production that has shown none. The scene would have handed the trials to a different character than the one being introduced.
 
-**Verified progress: 498/1,050 (47.43%)** — Batches 045–049 closed at 10/10; Batch 050 open at 6/10 with `0498` and `0500` to re-render. **Order of work next: re-render `0498` (hard cracked hot basalt, nothing soft in the glow) and `0500` (seventeen, no blood), then Batch 051 (`16:40–17:00`)** where the trials turn lethal. `IMG0160` remains the one open correction from an earlier batch.
+**`0498` passed on its second pass** as hard black basalt cracked into sharp polygonal plates with thin glowing seams between them - broken plate rock with light coming up through the fractures. At 7x there is **no soft rounded form and nothing anatomical in the glow.** The fix is the same one that rescued `0496`: take the smoothness out and the ambiguity goes with it.
+
+**`0500` failed twice and was abandoned, which is the first subtraction of the production.** Pass one gave a stubbled man of forty with blood-streaking. Pass two, briefed explicitly as *seventeen, no blood, back of the skull only*: still a man in his forties, and now **in near-profile with the face readable** - the single most reliable constraint in this production, broken on the most explicit wording I have used.
+
+The decision to write it off rather than spend a third generation was deliberate. **`0500` was the least necessary frame of the ten** - a bowed head and cupped hands, atmospheric but saying nothing the trench frames were not already saying - and the beat it carried is already better served by `0497` (a young head watching from a ledge) and `0502` (a youth kneeling with their back to us, under a great deal of empty stone). Both do the same work with no face and no risk. **The sequence is not weaker for the substitution, and the production is nine frames further on.**
+
+**`0503` was blocked by content moderation on its first brief** (blistered skin on a forearm) and passed immediately once the description was rebuilt around **soot, sweat, dust and linen** instead of injury. That is a durable lesson: the narration says *blood*, but the images must never depict it - describe the residue, not the wound.
+
+**Batch 050 CLOSED 9 of 10. Verified progress: 507/1,050 (48.29%)** — Batches 045–049 closed at 10/10, 050 at 9/10 by subtraction, and **Batch 051 is open at 5/10**. `IMG0160` remains the one open correction from an earlier batch.
+
+
+### Batch 051 — Glyph, Sound and Blood (`16:40–17:00`) — **Open · 5/10 approved and uploaded, `IMG0507`–`0510` not rendered**
+
+**The narration finally names the thing the visuals have been building, and it names it in the negative first.** *Not mere animal taming, like breaking a courser, but dominion forged through fire, glyph, sound, and blood.* That sentence is a standing order for the rest of the episode: **no frame may show a Valyrian riding, haltering, feeding, touching or training a dragon.** The whole claim of the chapter is that this was something else, and the images have to carry the something-else without illustrating it directly.
+
+**What they show instead is procedure, and it is the strongest material in the episode so far.**
+
+- **`0501`** — 35mm tracking laterally at knee height: a young candidate running hard across scored basalt, mid-stride, body leaning into the run, ash flying at her feet. Behind her, two others are already down on the stone. **Momentum, not spectacle** — nobody is winning, somebody is still moving.
+- **`0502`** — 65mm compression: a youth kneeling with their back to us, head down, one hand braced on the floor, sweat and ash dried in pale streaks down the spine, and **a great deal of empty black stone above their head.** The smallest, saddest and best frame of the batch.
+- **`0503`** — 50mm from floor level, cropped at the collarbone: two soot-black pairs of hands winding a strip of torn grey linen around a dusty forearm. **Centuries of trial and error, done by hand, without ceremony.** This is the whole idea of the batch in one image: an empire's founding technology is a bandage.
+- **`0504`** — 35mm wide: eleven exhausted candidates seated against a rock shelf, and out on the floor **four dark shapes lying still under coarse cloth, with nobody kneeling over them and nobody looking at them.** The arithmetic of a trial, filmed without comment.
+- **`0505`** — 24mm from the caldera rim at night: the basin carrying one long orange trench and six or seven other fires scattered in the dark. **A process running in many places at once, all of them small.**
+- **`0506`** — 24mm tilted up a great natural fissure: dry black basalt, hard spalled edges, ash in the cracks, **heat glowing dull red inside the rock** and fading to black as the crack climbs. At its foot a single child-sized figure with their head tilted back, silhouetted, no face. **Something unprecedented, and it is only heat in a crack in the ground** — which is exactly the right pitch for a chapter that refuses magic.
+
+**Two production rules recorded this batch.** First, **bodies in distress get blocked or drift off-brief**: `0503`'s original brief (blistered skin) was refused by content moderation, and `0500` drifted twice, so the language for this material is **soot, sweat, dust, linen and posture** — never burns, wounds, blood or injury, even where the narration says *blood*. Second, **filing discipline matters as much as QC**: five of these frames were generated in the same turn as Batch 050's close and briefly landed in the wrong folder; they were moved, and both folders were re-listed to confirm exact counts.
+
+**Director's boundaries held across all five approved frames:** no face, no readable expression, no dragon, no riding or handling, no glowing runes or floating symbols, no energy or aura, no god-light, no gloss or wet sheen on the rock, no depicted blood. All are `1376x768`; `0498`, `0504` and `0506` were letterbox-cropped (`-crop 1376x744+0+12`) and re-verified.
+
+**Verified progress: 507/1,050 (48.29%)** — Batches 045–049 closed at 10/10, Batch 050 closed at 9/10 by subtraction, Batch 051 open at 5/10. **Order of work next: render `IMG0507`–`0510` to close 051**, then Batch 052 (`17:00–17:20`). `IMG0160` remains the one open correction from an earlier batch.

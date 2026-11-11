@@ -12,7 +12,7 @@
 
 **Valyrian fused stone, fourth and fifth use, both clean on the first pass.** The negation list that rescued `IMG0482` carried over verbatim: *no ashlar, no coursed masonry, no stacked blocks, no joint lines, no mortar, no rubble, no brick, no pitting, no capital, no base, no cornice, no ornament* — plus "one single cooled mass" and "slightly translucent at the thin edge."
 
-**Render/QC status:** **6 of 10 approved, uploaded and MD5-verified · `IMG0496` re-rendered and passed · `IMG0498` and `IMG0500` REJECTED.**
+**Render/QC status:** **CLOSED — 9 of 10 approved, uploaded and MD5-verified · `IMG0496` and `IMG0498` passed on second passes · `IMG0500` abandoned after two failures.**
 
 | Frame | Status | Note |
 | :--- | :--- | :--- |
@@ -23,9 +23,9 @@
 | `IMG0495` | ✅ Approved, uploaded | 40mm: a lone wall on a grey shore, carving worn past legibility. |
 | `IMG0496` | ✅ Approved (2nd pass) | Dry matte angular basalt, black vault, coal trench. **Pass 1 read as viscera.** |
 | `IMG0497` | ✅ Approved, uploaded | 40mm over a young shoulder: five candidates waiting. Nothing happens yet. |
-| `IMG0498` | ❌ **REJECTED** | A soft form in the heat haze read as **a foot with toes.** Anatomy in the glow. |
+| `IMG0498` | ✅ Approved (2nd pass) | Cracked plate basalt with glowing seams, a line of candidates. **Nothing soft in the glow.** |
 | `IMG0499` | ✅ Approved, uploaded | 24mm from a ledge: the whole caldera, floor reduced to marks. |
-| `IMG0500` | ❌ **REJECTED** | **Wrong character:** a stubbled man of forty with livid red streaking. Not a youth. |
+| `IMG0500` | ⛔ **ABANDONED** | Wrong character twice, the second time in near-profile. Beat covered by `0497`/`0502`. |
 
 **`IMG0491` is the first architecture Valyria is allowed to have that dwarfs a person without ornamenting itself.** A 24mm from the foot of the spire, tilted steeply up so the shaft leaves the frame at the top and its two fused spurs leave it at different heights — a hard black vertical against flat grey cloud, leaning and twisting a few degrees as it climbs, **no joint line, no course, no mortar, no capital, no base.** Three robed figures stand at the base, tiny, faceless. **Vertigo, and no mason in sight** — which is the point: the structure is not evidence of skill, it is evidence of something that was not built at all.
 
@@ -58,4 +58,12 @@
 4. **A still object beats a speech.** Three frames of a shard and a wall say what the narration takes a paragraph to argue.
 5. **Blur, erosion and illegibility are allies.** `0495`'s worn carving satisfies the "riddles" beat without a single legible glyph, exactly as the Citadel pages did.
 
-**Next — re-render `IMG0498` (hard cracked hot basalt, nothing soft inside the glow) and `IMG0500` (seventeen, ash-cropped, no blood), closing Batch 050.** Then Batch 051 (`16:40–17:00`), where the trials turn lethal.
+**`0498` passed on its second pass**, and the fix was the same one that rescued `0496`: hard black basalt **cracked into sharp polygonal plates with thin glowing seams between them** — broken plate rock with light coming up through the fractures, and at 7x **no soft rounded form and nothing anatomical inside the glow.** Take the smoothness out and the ambiguity goes with it.
+
+**`0500` failed twice and was abandoned — the first subtraction of the production.** Pass one: a stubbled man of forty with blood-streaking. Pass two, briefed explicitly as *seventeen, no blood, back of the skull only*: still a man in his forties, and **in near-profile with the face readable** — the most reliable constraint in this production, broken on the most explicit wording I have used.
+
+Rather than spend a third generation I wrote it off, and the reasoning is worth recording. **`0500` was the least necessary frame of the ten** — a bowed head and cupped hands, atmospheric but saying nothing the trench frames weren't already saying — and the beat is already better served by `0497` (a young head watching from a ledge) and `0502` (a youth kneeling with their back to us under a great deal of empty stone). **Both do the same work with no face and no risk.** Nine frames instead of ten, and the sequence is not weaker.
+
+**`0503` was blocked by content moderation** on its first brief (blistered skin) and passed instantly once rebuilt around **soot, sweat, dust and linen** rather than injury. The narration says *blood*; the images must never depict it. **Describe the residue, not the wound.**
+
+**Batch 050 closed 9 of 10. Next: Batch 051 (`16:40–17:00`), where the trials turn lethal and the narration forbids the one image everyone expects.**

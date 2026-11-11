@@ -54,10 +54,11 @@
     46,
     47,
     48,
-    49
+    49,
+    50
   ],
-  "next_batch": 50,
-  "next_image_number": 498,
+  "next_batch": 51,
+  "next_image_number": 507,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1938,8 +1939,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-13T22:55:00Z",
-  "verified_progress_percent": "47.43%",
+  "last_updated": "2026-11-14T00:35:00Z",
+  "verified_progress_percent": "48.29%",
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3635,7 +3636,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 498,
+  "verified_image_count": 507,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -9535,6 +9536,24 @@
       "upload_checksum_verified": true
     },
     {
+      "scene_id": "VAL-EP001-IMG0498",
+      "timestamp": "16:34–16:36",
+      "narration_slice": "pastoralists do not wake",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — Lethal cavern trials of fire, glyph, sound, and blood",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-002"
+      ],
+      "drive_file_id": "1GS6poJXqeLpMdmd2jARrMoA7EqDbccaC",
+      "drive_url": "https://drive.google.com/file/d/1GS6poJXqeLpMdmd2jARrMoA7EqDbccaC/view",
+      "md5": "e980986da6cee17eec46a79e39c32d7c",
+      "size_bytes": 1289312,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
       "scene_id": "VAL-EP001-IMG0499",
       "timestamp": "16:36–16:38",
       "narration_slice": "one morning fluent in high",
@@ -9553,14 +9572,119 @@
       "upload_checksum_verified": true
     }
   ],
-  "batch_050_status": "PARTIAL_6_OF_10_UPLOADED_MD5_VERIFIED_0498_0500_REJECTED",
+  "batch_050_status": "COMPLETE_9_OF_10_UPLOADED_MD5_VERIFIED_0500_ABANDONED",
   "batch_050_drive_folder_id": "1Atkd3zScJVgA9M8Mr1IPTX6UOk2QlWeC",
-  "batch_050_drive_verified_count": 6,
+  "batch_050_drive_verified_count": 9,
   "batch_050_pending_completion_scenes": [],
   "batch_050_note": "One uncomfortable truth, and the trials open. The sceptic's case closes on three objects: a shard of fused stone a man could pocket (0493), the same shard in macro with its translucent green-black break (0494), and a low weathered wall on a grey shore whose carving has eroded past legibility (0495). Then the cavern: dry matte angular basalt in near-dark with a coal trench running to a vanishing point (0496, second pass), five barefoot candidates waiting along a trench while a young head watches from a ledge (0497), and the whole caldera from a high ledge with the trial floor reduced to marks (0499).",
-  "batch_050_pending_rerender_scenes": [
-    "VAL-EP001-IMG0498",
+  "batch_050_pending_rerender_scenes": [],
+  "cavern_rule": "The trial cavern must be shot as DRY and MATTE and nearly unlit. First-pass attempts failed twice in the same way: glistening wet folded rock read as viscera (0496) and a soft rounded form in the heat haze read as a foot (0498). Both were invisible at 950px and obvious at 5x-7x. Negate by name: no wet sheen, no gloss, no membrane, no flesh, no meat, no viscera, no organ, no folds, no tendons, no veins. Push the roof to pure black. Two light sources only - a coal trench low, a dull red vent high - and nothing in between.",
+  "batch_050_abandoned_scenes": [
     "VAL-EP001-IMG0500"
   ],
-  "cavern_rule": "The trial cavern must be shot as DRY and MATTE and nearly unlit. First-pass attempts failed twice in the same way: glistening wet folded rock read as viscera (0496) and a soft rounded form in the heat haze read as a foot (0498). Both were invisible at 950px and obvious at 5x-7x. Negate by name: no wet sheen, no gloss, no membrane, no flesh, no meat, no viscera, no organ, no folds, no tendons, no veins. Push the roof to pure black. Two light sources only - a coal trench low, a dull red vent high - and nothing in between."
+  "batch_050_close_note": "Closed 9 of 10; 0500 abandoned after two failures. It was the least necessary frame of the ten, and it failed twice on character - a stubbled man of forty with blood-streaking, then the same man in near-profile after being briefed explicitly as a seventeen-year-old with no blood. The second failure broke the production's most reliable constraint (no face), so rather than spend a third generation, the beat is carried by 0497 and 0502, which do the same work with no face and no risk.",
+  "batch_051_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0501",
+      "timestamp": "16:40–16:42",
+      "narration_slice": "forgotten eastern teachers, stumbled",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Lethal cavern trials of fire, glyph, sound, and blood",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-002"
+      ],
+      "drive_file_id": "1YSSOpnO-0sfxhpnm5kdBi8sJvkcSwaZq",
+      "drive_url": "https://drive.google.com/file/d/1YSSOpnO-0sfxhpnm5kdBi8sJvkcSwaZq/view",
+      "md5": "cbd14f2baf4590db0cb92d5bbb545e7c",
+      "size_bytes": 2100343,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0502",
+      "timestamp": "16:42–16:44",
+      "narration_slice": "upon through desperate survival, or",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Lethal cavern trials of fire, glyph, sound, and blood",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-002"
+      ],
+      "drive_file_id": "18qHXB7iYaQNgFYWV72w64TvDF3jKe6eZ",
+      "drive_url": "https://drive.google.com/file/d/18qHXB7iYaQNgFYWV72w64TvDF3jKe6eZ/view",
+      "md5": "ef8fff8bf3b373ab5f524f93db228b2f",
+      "size_bytes": 2642012,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0504",
+      "timestamp": "16:46–16:48",
+      "narration_slice": "lethal trial and error among",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Lethal cavern trials of fire, glyph, sound, and blood",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-002"
+      ],
+      "drive_file_id": "1HSL0x0OBAiCTPpjP1s_Afmj34GX0-0JI",
+      "drive_url": "https://drive.google.com/file/d/1HSL0x0OBAiCTPpjP1s_Afmj34GX0-0JI/view",
+      "md5": "13c7167b84b764ea7d2971f6c96bfa0d",
+      "size_bytes": 1179078,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0505",
+      "timestamp": "16:48–16:50",
+      "narration_slice": "the calderas, the Valyrians",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Lethal cavern trials of fire, glyph, sound, and blood",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-002"
+      ],
+      "drive_file_id": "1P1mH3S4wE_cMtOd0waBwnXYcfqxgStXy",
+      "drive_url": "https://drive.google.com/file/d/1P1mH3S4wE_cMtOd0waBwnXYcfqxgStXy/view",
+      "md5": "9255af3f81bae2104773d61879be433e",
+      "size_bytes": 1680033,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0506",
+      "timestamp": "16:50–16:52",
+      "narration_slice": "unlocked something unprecedented in",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Lethal cavern trials of fire, glyph, sound, and blood",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-002"
+      ],
+      "drive_file_id": "1k5iargafMs_TJXX65mW13AWIQd6Og_NW",
+      "drive_url": "https://drive.google.com/file/d/1k5iargafMs_TJXX65mW13AWIQd6Og_NW/view",
+      "md5": "493fd92fef54ffbc887372a559852339",
+      "size_bytes": 1143875,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_051_status": "PARTIAL_5_OF_10_UPLOADED_MD5_VERIFIED_0507_0510_NOT_RENDERED",
+  "batch_051_drive_folder_id": "1n5n698uI6mSNNAQ4PzMxenrCc5iwvQ",
+  "batch_051_drive_verified_count": 5,
+  "batch_051_pending_completion_scenes": [
+    "VAL-EP001-IMG0507",
+    "VAL-EP001-IMG0508",
+    "VAL-EP001-IMG0509",
+    "VAL-EP001-IMG0510"
+  ],
+  "batch_051_note": "Glyph, sound and blood. The narration names what the visuals have been building - dominion forged through fire, glyph, sound and blood, explicitly not animal taming - so the frames show procedure rather than power: a runner mid-stride with two already down (0501), a youth kneeling with their back to us under a great deal of empty stone (0502), two pairs of hands winding linen around a forearm (0503), eleven survivors seated against a rock shelf while four covered shapes lie unregarded on the floor (0504), the whole caldera at night with other trials burning in the dark (0505), and one fissure with heat in the rock and a single child-sized figure looking up at it (0506).",
+  "the_phrase_rule": "**Dominion forged through fire, glyph, sound, and blood - NOT animal taming.** No frame may show anyone riding, haltering, touching, feeding or training a dragon, and 'breaking a courser' imagery is forbidden by the narration itself. Power is shown as procedure: heat, broken stone, bandaged arms, attrition, and rock with heat inside it.",
+  "moderation_rule": "Bodies in distress get blocked or drift off-brief. 0503's first brief (blistered skin) was refused by content moderation, and 0500 drifted twice. Describe **soot, sweat, dust, linen and posture**; never burns, wounds, blood or injury, even when the narration says 'blood'."
 }
