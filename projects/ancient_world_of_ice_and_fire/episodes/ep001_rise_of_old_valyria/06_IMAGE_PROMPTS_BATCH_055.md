@@ -118,7 +118,7 @@ Shared opener on every prompt:
 
 ## Batch 055 close
 
-**Batch 055 CLOSED 10/10.** All ten frames are 1376x768 sRGB, uploaded to `EP001_BATCH_055_IMG0541-0550`, and every checksum was re-read from Drive and matched to the local file. Verified progress: **564/1,050 (53.71%)**.
+**Batch 055 CLOSED 10/10.** All ten frames are 1376x768 sRGB, uploaded to `EP001_BATCH_055_IMG0541-0550`, and every checksum was re-read from Drive and matched to the local file. Verified progress: **549/1,050 (52.29%)** at the time of this close (originally recorded as 564/1,050 (53.71%); the running total was reconciled at Batch 056 close — see `EP001_Verified_Drive_Inventory.json` `reconciliation_note`). After Batch 056: **559/1,050 (53.24%)**.
 
 **Five rejections, and every one of them was a rule leaking through a detail.**
 

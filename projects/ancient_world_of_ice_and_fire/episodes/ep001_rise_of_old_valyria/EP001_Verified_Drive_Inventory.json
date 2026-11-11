@@ -60,10 +60,11 @@
   52,
   53,
   54,
-  55
+  55,
+  56
  ],
- "next_batch": 56,
- "next_image_number": 551,
+ "next_batch": 57,
+ "next_image_number": 561,
  "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
  "drive_folders": {
   "master_root_folder": {
@@ -572,7 +573,7 @@
    "upload_checksum_verified": true
   }
  ],
- "completed_images": 190,
+ "completed_images": 559,
  "batch_002_images_65mm": [
   {
    "number": 11,
@@ -1193,7 +1194,7 @@
    "narration_slice": "song that brought back the day."
   }
  ],
- "in_progress_batch": 38,
+ "in_progress_batch": null,
  "batch_007_verified_images": [
   {
    "image_number": 61,
@@ -1945,7 +1946,7 @@
   }
  ],
  "last_updated": "2026-11-11",
- "verified_progress_percent": 53.71,
+ "verified_progress_percent": 53.24,
  "batch_012_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0111",
@@ -3641,7 +3642,7 @@
    "upload_checksum_verified": true
   }
  ],
- "verified_image_count": 564,
+ "verified_image_count": 559,
  "batch_021_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0201",
@@ -9981,7 +9982,7 @@
  "the_scream_rule": "The scream is physical cost, not magic. Show flush, taut tendons, sweat, a worn and crusted mouthpiece, dry residue - then a still body on a terrace and one whole horn standing among ruins a civilisation later. No aura, no glow, no shockwave, no sound effect, nothing alight, in any frame.",
  "the_body_rule": "No face and no injury in batch 053. Strain is tendons, flush and sweat; damage is dryness, salt deposit and worn metal; the cost is posture. Negations carried in every prompt: no blood, no wound, no injury, no bruise, no burn. This is also why the batch cleared moderation on the first pass: describe what the body is doing, not what has been done to it.",
  "batch_052_three_faults_lesson": "0514 was masonry, 0519 was the sky, 0512 was a dropped call. All three fixed on the first re-render because the fault was in the negation list, not the idea. The masonry negation list is now standard wording on any frame containing a stone wall - 0528 pass 1 proved it is still needed in the middle distance, not just in the foreground.",
- "verified_percent": 53.71,
+ "verified_percent": 53.24,
  "open_corrections": [
   "VAL-EP001-IMG0160"
  ],
@@ -10084,5 +10085,189 @@
  ],
  "batch_055_face_rule_lesson": "The no-face rule is a CROP check, not a framing instruction, and it now has a second clause. (1) The head must be OUTSIDE the frame or fully turned away — 0548 pass 1 proved that a turned-away head still ships an ear at 3x. (2) The fallback 'show only a shoulder or a hand' has its own failure mode: skin at the edge of frame is still a body, and a body without its robe is a continuity error rather than a camera angle (0548 pass 2). The reliable answer is to photograph the wear, not the wearer.",
  "fire_containment_rule": "Fire is permitted only where a hand built a place to hold it, and the frame must show the containment as clearly as the fire. 0546's burning manuscripts survive the batch's no-glow rule because every flame is hand-sized and inside a stone-lined font — no blaze, no fireball, no embers, no glow in the ash.",
- "batch_055_close_note": "Closed 10/10. 0546 renders destruction as containment (manuscripts already ash in a fused-stone font, one bundle kept, one soot-black hand). 0547 puts a dragonbone shard on an open page as a page-weight — the horns reduced to a paperweight on a scholar's desk, same material as 0517. 0548 took three passes and ends as an empty room with the stool pushed back: the sitter is the seat's wear. 0549 is the whole scriptorium in one wide, one figure at distance, head a shape not a face. 0550 closes outward on a small walled town in a large plain under a leaden sea — the view from outside the book, with no dramatic effect in it at all."
+ "batch_055_close_note": "Closed 10/10. 0546 renders destruction as containment (manuscripts already ash in a fused-stone font, one bundle kept, one soot-black hand). 0547 puts a dragonbone shard on an open page as a page-weight — the horns reduced to a paperweight on a scholar's desk, same material as 0517. 0548 took three passes and ends as an empty room with the stool pushed back: the sitter is the seat's wear. 0549 is the whole scriptorium in one wide, one figure at distance, head a shape not a face. 0550 closes outward on a small walled town in a large plain under a leaden sea — the view from outside the book, with no dramatic effect in it at all.",
+ "batch_056_status": "COMPLETE_10_OF_10_UPLOADED_MD5_VERIFIED",
+ "batch_056_drive_folder_id": "1bYjc6HCFHPjELCCdzF5Qj4hzY_7T9dZm",
+ "batch_056_drive_verified_count": 10,
+ "batch_056_pending_completion_scenes": [],
+ "batch_056_verified_images": [
+  {
+   "scene_id": "VAL-EP001-IMG0551",
+   "timestamp": "18:20–18:22",
+   "narration_slice": "Valyrian bloodmages had delved",
+   "shot_type": "LAM · 24mm",
+   "visual_beat": "Low-angle monumental framing — the room the delving is *said* to have happened in, empty",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "drive_file_id": "1zcBRdtbtL_T_LOB40as0iG55PgcKKLOS",
+   "drive_url": "https://drive.google.com/file/d/1zcBRdtbtL_T_LOB40as0iG55PgcKKLOS/view",
+   "md5": "0600de705cf32efad1e03baf9ed91a9b",
+   "size_bytes": 1467347,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0552",
+   "timestamp": "18:22–18:24",
+   "narration_slice": "into forbidden secrets of",
+   "shot_type": "DET · 85mm",
+   "visual_beat": "Macro environmental / material texture insert — the specimen shelf, read as an inventory not an altar",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "drive_file_id": "1rZwrKAHfozNd7qMOQFXaNwTWvt5G6V_q",
+   "drive_url": "https://drive.google.com/file/d/1rZwrKAHfozNd7qMOQFXaNwTWvt5G6V_q/view",
+   "md5": "e42a38d46d170abed5489710aacf1280",
+   "size_bytes": 1330057,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0553",
+   "timestamp": "18:24–18:26",
+   "narration_slice": "flesh, mating or altering creatures",
+   "shot_type": "CU · 85mm",
+   "visual_beat": "Close-up on the word *teeth*, and on how many of them there are",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "drive_file_id": "17moLlL1e2kEXgrVQw46zsts8aliup6i0",
+   "drive_url": "https://drive.google.com/file/d/17moLlL1e2kEXgrVQw46zsts8aliup6i0/view",
+   "md5": "147b5de2a48423989c57fbe7776c41d8",
+   "size_bytes": 1501328,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0554",
+   "timestamp": "18:26–18:28",
+   "narration_slice": "of fire and tying",
+   "shot_type": "DET · 100mm",
+   "visual_beat": "Extreme close-up tactile study — the *tying*, as an object, with nothing tied in it",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "drive_file_id": "1CCkG-qyDCXs5yuH0g-IZwGGixXU2SMOn",
+   "drive_url": "https://drive.google.com/file/d/1CCkG-qyDCXs5yuH0g-IZwGGixXU2SMOn/view",
+   "md5": "06e0472730ab3436a2b628ca80dcfd6f",
+   "size_bytes": 1355752,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0555",
+   "timestamp": "18:28–18:30",
+   "narration_slice": "dragons to human bloodlines.",
+   "shot_type": "WS · 40mm",
+   "visual_beat": "Wide environmental storytelling tableau — how far away the animals actually were",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "drive_file_id": "1mb0ngRZhlTJ0ux3cXp2GqlrOgAaqjN6Y",
+   "drive_url": "https://drive.google.com/file/d/1mb0ngRZhlTJ0ux3cXp2GqlrOgAaqjN6Y/view",
+   "md5": "87947b5cec192255d97e5576b77ae3c3",
+   "size_bytes": 1481673,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0556",
+   "timestamp": "18:30–18:32",
+   "narration_slice": "Conservative maesters denounced Barth's speculations",
+   "shot_type": "LAM · 28mm",
+   "visual_beat": "Low-angle monumental framing — the institution that decided what was true",
+   "location_refs": [
+    "LOC-VAL-003",
+    "DRG-VAL-002"
+   ],
+   "drive_file_id": "1rQ_X9utvGgIXKEp6v9VN49jJByWE37Av",
+   "drive_url": "https://drive.google.com/file/d/1rQ_X9utvGgIXKEp6v9VN49jJByWE37Av/view",
+   "md5": "f15d855d5beec2c82899ad8883c21284",
+   "size_bytes": 1904534,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0557",
+   "timestamp": "18:32–18:34",
+   "narration_slice": "as lurid heresy, and",
+   "shot_type": "OTS · 40mm",
+   "visual_beat": "Over-the-shoulder — the desk where a book is judged",
+   "location_refs": [
+    "LOC-VAL-003",
+    "DRG-VAL-002"
+   ],
+   "drive_file_id": "1Le5OBQRARidJzr9Ai2lLF6jlBtD57IH0",
+   "drive_url": "https://drive.google.com/file/d/1Le5OBQRARidJzr9Ai2lLF6jlBtD57IH0/view",
+   "md5": "289a6b45f67a25d5cf19f3f042e6ed74",
+   "size_bytes": 1338526,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0558",
+   "timestamp": "18:34–18:36",
+   "narration_slice": "later kings burned most copies",
+   "shot_type": "WS · 28mm",
+   "visual_beat": "Wide environmental tableau — the disposal, seen at institutional scale",
+   "location_refs": [
+    "LOC-VAL-003",
+    "DRG-VAL-002"
+   ],
+   "drive_file_id": "1yBJl11AkzHPb57AY8ZQZsJjsmolVlog0",
+   "drive_url": "https://drive.google.com/file/d/1yBJl11AkzHPb57AY8ZQZsJjsmolVlog0/view",
+   "md5": "0f3653482d567499e618830b80c84310",
+   "size_bytes": 1283982,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0559",
+   "timestamp": "18:36–18:38",
+   "narration_slice": "of his treatise. We cannot",
+   "shot_type": "UWA · 24mm",
+   "visual_beat": "Ultra-wide establishing vista — everything that is missing",
+   "location_refs": [
+    "LOC-VAL-003",
+    "DRG-VAL-002"
+   ],
+   "drive_file_id": "1tENr-HCFeQG2VdjptxzxXFhBbnnTsZft",
+   "drive_url": "https://drive.google.com/file/d/1tENr-HCFeQG2VdjptxzxXFhBbnnTsZft/view",
+   "md5": "ef872a99d8cf840c0f174fc4e4ca1d12",
+   "size_bytes": 1582659,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0560",
+   "timestamp": "18:38–18:40",
+   "narration_slice": "know whether Valyrian sorcerers",
+   "shot_type": "MCU · 50mm",
+   "visual_beat": "Medium close-up — the last frame of the batch turns back to the reader, not the mage",
+   "location_refs": [
+    "LOC-VAL-003",
+    "DRG-VAL-002"
+   ],
+   "drive_file_id": "1D2bIp7IczeiT_hLgFqlwKkO2UjlN93DY",
+   "drive_url": "https://drive.google.com/file/d/1D2bIp7IczeiT_hLgFqlwKkO2UjlN93DY/view",
+   "md5": "6c1ea49cd6ae2bbacea78cd53ce2d39c",
+   "size_bytes": 1432564,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  }
+ ],
+ "batch_056_note": "Batch 056 'Barth's Sentence' (18:20-18:40) CLOSED 10/10 on ten first passes — zero rejections. The batch holds the testimony rule (bible 4h) without a single depiction of the act: 0551 residue, 0552-0554 category as specimen, 0555-0559 the boundary at widening scales, 0560 the reader. Crop checks passed at 3x-5x (0557 head a uniform dark shape, no ear or profile; 0553/0560 hands pale-dry-grimy, no red; 0557/0560 pages blank, toned, foxed; 0556's empty iron bracket verified empty at 5x). Uploads to EP001_BATCH_056_IMG0551-0560; checksums re-read from Drive and matched.",
+ "batch_056_lesson": "The testimony rule holds when the sentence is rendered as objects. Where the narration says the unsayable, the images that survive are the ones about what was left behind — ash, wear, a tray, a cord, a horizon — never the thing itself. Zero rejected generations is a first for a Chapter IV batch.",
+ "reconciliation_note": "Running total reconciled 2026-11-11 at Batch 056 close. Historical close notes claim 564/1,050 (53.71%); that figure is arithmetic drift and is superseded. The verifiable per-frame records sum to 549 through Batch 055 (batches 001-004: 4x10; batches 005-055: 509 of 510 — Batch 050 closed 9/10 with IMG0500 officially abandoned after two character failures). 549 + 10 (Batch 056) = 559/1,050 = 53.24%. Drive filename sweep 2026-11-11: 560 PNGs match VAL-EP001-IMG*, IDs 0001-0550 with exactly one hole (IMG0500, abandoned) plus duplicate names at 0094/0255/0315/0316 and six legacy _variant PNGs in the reference-plates folder. IMG0160 remains the one open correction."
 }
