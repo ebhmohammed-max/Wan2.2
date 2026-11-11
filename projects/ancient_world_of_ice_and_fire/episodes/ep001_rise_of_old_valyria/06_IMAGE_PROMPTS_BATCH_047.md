@@ -12,7 +12,7 @@
 
 **The batch also crosses out of Asshai entirely.** For five frames we are still in the archive; from `0466` the film is in **the Shadow beyond Asshai**, which carries the strictest design rule in the production so far: **it must never look built.** Raw sheared rock, glassy in patches, scored as if by heat, totally untooled. No doorway, no wall, no stair, no statue, no idol, no carved ornament. Nothing there has a maker, because the claim is that nobody remembers who they were.
 
-**Render/QC status:** **8 of 10 approved, uploaded and MD5-verified · `IMG0469`, `IMG0470` not yet rendered.** Two letterbox crops.
+**Render/QC status:** **COMPLETE — 10 of 10 approved, uploaded and MD5-verified.** Three letterbox crops.
 
 | Frame | Status | Note |
 | :--- | :--- | :--- |
@@ -24,8 +24,8 @@
 | `IMG0466` | ✅ Approved, uploaded | 28mm at the mouth of the black pass: untooled sheared rock, no doorway, no builder. Full-bleed. |
 | `IMG0467` | ✅ Approved, uploaded | 40mm over the shoulder: three hooded figures in a line facing the dark. Their number is all you can read. Full-bleed. |
 | `IMG0468` | ✅ Approved, uploaded | 28mm across the ash floor: four figures crossing single file, **people the smallest thing in the country.** Full-bleed. |
-| `IMG0469` | ⏳ Not rendered | 24mm ultra-wide establishing vista of the Shadow. |
-| `IMG0470` | ⏳ Not rendered | 50mm — the first frame where a dragon appears **in the Shadow**, and the first time the claim has a body. |
+| `IMG0469` | ✅ Approved, uploaded | 24mm from a sheer drop: seven tiny robed marks walking west across an ash valley. Reframed 12–755. |
+| `IMG0470` | ✅ Approved, uploaded | **The claim gets a body.** 50mm: the head bent low, one brass-gold eye down, a bare hand flat on the muzzle. Cropped 12–728. |
 
 **`IMG0462` is the best idea in the batch, and it cost one generation.** An 85mm macro of a black stone shelf edge where generations of hands have hollowed a shallow depression. Nothing is cut into it, nothing is written on it, no name is scratched anywhere — and it is a more moving record of an anonymous people than any portrait could be, because **wear is the one kind of evidence that survives when identity does not.** If the episode has an argument about how the Shadow is remembered, this frame makes it physically.
 
@@ -44,4 +44,6 @@
 5. **Scale is an argument.** `0468` is not an establishing shot, it is the claim that these people are older than memory — and the only way to photograph that is to make them small.
 6. **Cross the location boundary deliberately.** The stale scene-breakdown refs still tag the Shadow frames `LOC-VAL-001`; the narration slice, not the ref, decides where the camera is. Third time this has mattered.
 
-**Next — finish 047 (`IMG0469`, `IMG0470`) before opening 048.** `0470` is the frame the whole chapter has been withholding: a dragon in the Shadow, already mastered, with these anonymous people somewhere near it and never quite seen.
+**`IMG0470` closed the batch and it is the frame the chapter was withholding.** A 50mm in the Shadow: the dragon's head and neck bent low, muzzle almost on the rock, twin horns flat to the skull, one lowered brass-gold eye, a thread of black smoke from the nostril — and a bare pale forearm entering from the left with the hand resting flat on the muzzle, the figure's hood a soft black mass in the foreground. **No face in the frame and none possible.** The composition solves the limb-lock by cropping: only a head and a neck are in shot, so there is nothing to miscount. That is the silhouette lesson turned into a framing strategy, and it is the cheapest version of the fix yet.
+
+**Next — Batch 048 (`IMG0471`–`0480`, `15:40–16:00`): the legend goes west.** The masters cross out of the Shadow with binding lore, and the film arrives at the smoking peaks of the Valyrian peninsula with the first real daylight in the episode.

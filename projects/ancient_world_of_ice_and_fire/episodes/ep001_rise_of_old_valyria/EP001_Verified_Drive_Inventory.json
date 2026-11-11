@@ -51,10 +51,11 @@
     43,
     44,
     45,
-    46
+    46,
+    47
   ],
-  "next_batch": 47,
-  "next_image_number": 469,
+  "next_batch": 48,
+  "next_image_number": 476,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1935,8 +1936,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-13T09:20:00Z",
-  "verified_progress_percent": "44.86%",
+  "last_updated": "2026-11-13T14:50:00Z",
+  "verified_progress_percent": "45.52%",
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3632,7 +3633,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 471,
+  "verified_image_count": 478,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -8996,17 +8997,189 @@
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0469",
+      "timestamp": "15:36–15:38",
+      "narration_slice": "their name nor their",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — Disputed legend: nameless Shadow masters teaching Valyrians",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "drive_file_id": "1IdwhpP5b4rJ3T4GNxOf0DB44OG04WaLx",
+      "drive_url": "https://drive.google.com/file/d/1IdwhpP5b4rJ3T4GNxOf0DB44OG04WaLx/view",
+      "md5": "d990b9afc08be27f4cc2e4a44ebd153a",
+      "size_bytes": 1351082,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0470",
+      "timestamp": "15:38–15:40",
+      "narration_slice": "unmasked faces first bent dragons",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — Disputed legend: nameless Shadow masters teaching Valyrians",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "drive_file_id": "1pJIS3yknQbBqTnYw_5PUiz8g0QU6gKaz",
+      "drive_url": "https://drive.google.com/file/d/1pJIS3yknQbBqTnYw_5PUiz8g0QU6gKaz/view",
+      "md5": "d41ad6c60ff5f09e7e610f7d66ca82ab",
+      "size_bytes": 1589958,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
     }
   ],
-  "batch_047_status": "PARTIAL_8_OF_10_UPLOADED_MD5_VERIFIED_0469_0470_NOT_RENDERED",
+  "batch_047_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
   "batch_047_drive_folder_id": "1IjeyRh0Z7LcNxOidlGtUNDjtPl5EuJw6",
-  "batch_047_drive_verified_count": 8,
+  "batch_047_drive_verified_count": 10,
   "batch_047_pending_rerender_scenes": [],
-  "batch_047_pending_completion_scenes": [
-    "VAL-EP001-IMG0469",
-    "VAL-EP001-IMG0470"
-  ],
+  "batch_047_pending_completion_scenes": [],
   "batch_047_note": "Neither name nor face. Asshai's claim that dragons were mastered ages earlier in the Shadow, by a people memory cannot name. The batch crosses from the archive to the Shadow itself. 0462 finds the only honest record of an anonymous people - a stone shelf edge hollowed and polished by generations of hands, with nothing cut or written into it. 0463 is the mask rule made literal: the head bowed so far that the hood hangs past the crown and the face becomes a cloth void, verified at 2x. 0464's wax seal is blank at 4x. From 0466 the film enters the Shadow, which must never look built.",
   "shadow_beyond_asshai_lock": "NOT built and NOT inhabited. Raw sheared black rock, glassy in patches, scored as if by heat, totally untooled; no doorways, walls, stairs, statues, idols or carved ornament. Black gravel and wind-rippled ash; no footprints, no path, no marker. Flat sourceless grey-green gloom with no directional shadow and no sun; distance conveyed by mist thickening. Figures are distant silhouettes, backs or bowed hoods - never a face, never a mask plane, never a profile.",
-  "unmasked_face_rule": "'Unmasked faces' in the narration must never become a rendered face. The camera is never placed where a face could exist: distant silhouettes, backs of heads, or hoods hanging past the crown. Every Shadow prompt negates face, mask, eyes, mouth, nose and profile by name."
+  "unmasked_face_rule": "'Unmasked faces' in the narration must never become a rendered face. The camera is never placed where a face could exist: distant silhouettes, backs of heads, or hoods hanging past the crown. Every Shadow prompt negates face, mask, eyes, mouth, nose and profile by name.",
+  "batch_047_close_note": "Closed with 0470: the claim gets a body. The dragon's head bent low in the Shadow with a bare hand resting flat on the muzzle, framed as head and neck only so the limb count cannot go wrong - the silhouette lesson turned into a cropping strategy. Still no face in frame, and none possible.",
+  "batch_048_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0471",
+      "timestamp": "15:40–15:42",
+      "narration_slice": "to mortal will in the",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Disputed legend: nameless Shadow masters teaching Valyrians",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "drive_file_id": "1rMb8i7F0ou-27Vwn7kjwvS2SniYQ7TCu",
+      "drive_url": "https://drive.google.com/file/d/1rMb8i7F0ou-27Vwn7kjwvS2SniYQ7TCu/view",
+      "md5": "b1a8d1694ac14e5df5702054176e5550",
+      "size_bytes": 2357390,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0472",
+      "timestamp": "15:42–15:44",
+      "narration_slice": "eastern darkness. Legend claims",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Disputed legend: nameless Shadow masters teaching Valyrians",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "drive_file_id": "1yEzzFJw1YaXMDPZTiUxCzgzufPCk1jVk",
+      "drive_url": "https://drive.google.com/file/d/1yEzzFJw1YaXMDPZTiUxCzgzufPCk1jVk/view",
+      "md5": "d2002ae2bacb82e5e58b262ec2cb7a6a",
+      "size_bytes": 2107459,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0473",
+      "timestamp": "15:44–15:46",
+      "narration_slice": "these nameless masters journeyed westward",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Disputed legend: nameless Shadow masters teaching Valyrians",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "drive_file_id": "18V3sQSai5snhdPtTA-3vBL6foSmcBUr8",
+      "drive_url": "https://drive.google.com/file/d/18V3sQSai5snhdPtTA-3vBL6foSmcBUr8/view",
+      "md5": "4e62bdf88d82201751aaea463b0c8efe",
+      "size_bytes": 1920815,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0474",
+      "timestamp": "15:46–15:48",
+      "narration_slice": "to the smoking peaks",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Disputed legend: nameless Shadow masters teaching Valyrians",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "drive_file_id": "1vdjNpqMnr_JhiTsmaOGBTangPimmN2jK",
+      "drive_url": "https://drive.google.com/file/d/1vdjNpqMnr_JhiTsmaOGBTangPimmN2jK/view",
+      "md5": "db6849304b20c2b0be9a58dbb9efb830",
+      "size_bytes": 2171023,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0475",
+      "timestamp": "15:48–15:50",
+      "narration_slice": "of the Valyrian peninsula, brought",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Disputed legend: nameless Shadow masters teaching Valyrians",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "drive_file_id": "1NYaGNUWTJWjrzXlG_xyNZY6wYCuVmuCB",
+      "drive_url": "https://drive.google.com/file/d/1NYaGNUWTJWjrzXlG_xyNZY6wYCuVmuCB/view",
+      "md5": "3b794330e3f4ccf0907beb3c23574fba",
+      "size_bytes": 1438363,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0477",
+      "timestamp": "15:52–15:54",
+      "narration_slice": "to the silver-haired herdsmen,",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Disputed legend: nameless Shadow masters teaching Valyrians",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "drive_file_id": "1Kwfz-p0qs_VWvQdnupiKb6YSQd7dNT2K",
+      "drive_url": "https://drive.google.com/file/d/1Kwfz-p0qs_VWvQdnupiKb6YSQd7dNT2K/view",
+      "md5": "9b315eb42d74c6a6a89d9bc523f30f69",
+      "size_bytes": 2507879,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0478",
+      "timestamp": "15:54–15:56",
+      "narration_slice": "taught them their arcane arts,",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Disputed legend: nameless Shadow masters teaching Valyrians",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "drive_file_id": "13p7horaKp8Ol32OVT1nIBgiNoQMbStnF",
+      "drive_url": "https://drive.google.com/file/d/13p7horaKp8Ol32OVT1nIBgiNoQMbStnF/view",
+      "md5": "0e03f3aa237d0084adc97f54ff1d8d8c",
+      "size_bytes": 2709581,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_048_status": "PARTIAL_7_OF_10_UPLOADED_MD5_VERIFIED_0476_REJECTED_0479_0480_NOT_RENDERED",
+  "batch_048_drive_folder_id": "12qR_2G1Vn9ERn3g0pKA7_bh1unrUckPC",
+  "batch_048_drive_verified_count": 7,
+  "batch_048_pending_rerender_scenes": [
+    "VAL-EP001-IMG0476"
+  ],
+  "batch_048_pending_completion_scenes": [
+    "VAL-EP001-IMG0479",
+    "VAL-EP001-IMG0480"
+  ],
+  "batch_048_note": [
+    "Nameless masters, westward. The legend itself, staged as legend: the masters are never seen clearly, the gift is never explained, and the dragons are pre-existing rather than discovered. 0474 is the hinge of the whole episode - out of the Shadow's sourceless grey-green gloom into the first real daylight, flat, cold and overcast, with the smoking cones and the Summer Sea beyond. 0478 deliberately refuses to make the shepherd look like a chosen one: plain mended wool, no ornament, no hero light, the face half in shadow. 0476 REJECTED not on content but on integrity - a hard vertical seam at x=657, a panorama-stitch artifact."
+  ],
+  "panorama_stitch_rule": [
+    "IMG0476 arrived as a stitched panorama: a hard vertical seam running the full frame height with the left third at a different exposure. The content was right and the file was unusable. Any prompt that asks for an extremely wide, towering composition in silhouette must state that it is ONE continuous photographic exposure and negate panorama, stitched image, collage, split panel, triptych, vertical seam and differing exposure."
+  ],
+  "daylight_returns": [
+    "From IMG0474 the episode has real daylight for the first time since the peninsula prologue: flat, cold, colourless overcast. It must never become golden hour, a sun disc, god-light or light shafts - the legend earns its warmth from what it claims, not from the lighting department."
+  ]
 }

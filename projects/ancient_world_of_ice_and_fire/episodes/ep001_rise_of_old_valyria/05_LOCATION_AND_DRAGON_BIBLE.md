@@ -56,6 +56,19 @@
 - **`LOC-VAL-005` (Subterranean Mines):** Suffocating volcanic ore shafts veined with gold, silver, and copper; timber-and-chain winches over magma chasms; scalding red steam vents.
 - **`LOC-VAL-006` (Valyrian Dragonroad):** Arrow-straight, seamless fused grey-black stone highway raised six inches above lush green earth (*ADWD* Tyrion II).
 
+### 6b. `THE FIRST DAYLIGHT` *(from `IMG0474`, Batch 048)*
+- **The hinge of the episode.** After the Shadow's sourceless grey-green gloom, the peninsula arrives with **real daylight for the first time since the prologue** — and it is **flat, cold, colourless overcast**.
+- **Never golden hour, never a sun disc, never god-light, never shafts.** The legend earns its warmth from what it claims, not from the lighting department. The moment this light turns warm, the film starts endorsing a tradition it is supposed to be reporting.
+- **Approved palette:** bare black cones with **torn summits**, smoke bent steadily west by high wind, dry ash-grey slopes, **dark cypress and wild olive only in the folds**, the Summer Sea as a hard cold turquoise band, muted emerald pasture.
+- **The land is empty before the story arrives:** no town, no road, no wall, no field grid, no herd, no figure. `IMG0475` is the reference.
+
+### 6c. `FRAMING THE CLAIM` — the legend rules *(Batches 047–048)*
+- **Hedge the image the way the narration hedges.** *Legend claims*, so the camera never gets close enough to prove anything: the nameless masters are **never clearly seen and never speak**, and no frame resolves what the voice-over leaves open.
+- **Teach a technology as an object.** Binding lore reaches the herdsmen as a **worn leather strap and a plain iron ring** — no incantation, no diagram, no glowing rune, and **nothing stamped, branded or dyed**. This satisfies the no-writing ban for free.
+- **Do not promote a commoner.** The silver-haired herdsmen are ordinary people and must stay ordinary: plain mended wool, no ornament, no clasp, no rank, **no hero key**. Flat overcast light is a **narrative position** here, not a house style.
+- **Crop the animal instead of counting it.** `IMG0470` frames **only a head and a neck**, so there is nothing in shot to miscount. When a dragon's limbs are the risk, remove them from the frame rather than describing them again.
+- **Panorama guard.** Any prompt asking for something extremely wide, tall and dark must state **one continuous photographic exposure, corner to corner, even lighting**, and negate *panorama, stitched image, collage, split panel, triptych, vertical seam, differing exposure*. `IMG0476` came back stitched. **Check mid-frame columns for horizontal tonal steps, not only the top and bottom rows for letterbox.**
+
 ### 7. `QARTH-MYTHIC`: QARTH, THE QUEEN OF CITIES — THE STORYTELLERS' TERRACES *(Batches 041–043: `IMG0406–0430`)*
 - **Historical Period:** Ancient, fabulously wealthy Essoi merchant city, contemporaneous with pre-Doom Valyria; the eastern pole of the episode's trade world.
 - **Geography & Climate:** A hot, humid harbour city on the Strait of Qarth at the southern tip of Essos, built on terraces between the sea and dry hills; flat dark water, dense shipping, long still evenings.

@@ -5,14 +5,14 @@
   "timecode": "15:20-15:40",
   "frame_range": "VAL-EP001-IMG0461 - VAL-EP001-IMG0470",
   "narration_slice": "that the Valyrians did not discover the art of taming dragons on their own - because dragons had already been mastered ages earlier in the Shadow beyond Asshai. According to this Asshai'i tradition, a people so ancient that surviving memory preserves neither their name nor their unmasked faces first bent dragons",
-  "batch_status": "PARTIAL_8_OF_10_APPROVED_UPLOADED_0469_0470_NOT_RENDERED",
-  "approved_count": 8,
-  "approved_uploaded_count": 8,
-  "drive_verified_count": 8,
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "approved_uploaded_count": 10,
+  "drive_verified_count": 10,
   "batch_drive_folder_id": "1IjeyRh0Z7LcNxOidlGtUNDjtPl5EuJw6",
   "batch_drive_folder_url": "https://drive.google.com/drive/folders/1IjeyRh0Z7LcNxOidlGtUNDjtPl5EuJw6",
   "parent_ep001_folder_id": "1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn",
-  "generations_used": 10,
+  "generations_used": 12,
   "generations_cap": 10,
   "locations": "LOC-ESS-003 Asshai interior and northern wall (0461-0465); first entry into the Shadow beyond Asshai (0466-0470, scene refs still carry the stale LOC-VAL-001 tag)",
   "creature_refs": "none yet - 0470 is the first frame where a dragon should appear in the Shadow, and it is unrendered",
@@ -20,10 +20,7 @@
   "shadow_lock": "The Shadow beyond Asshai is NOT built and NOT inhabited, and it must never look like a civilisation. Raw sheared black rock, glassy in patches, scored as if by heat, totally untooled. No doorways, no walls, no stairs, no statues, no idols, no idols' faces. Black gravel and wind-rippled ash. Flat sourceless grey-green gloom with no directional shadow and no sun. Distance is conveyed by the mist thickening, never by atmospheric perspective on a light source.",
   "the_unmasked_face_problem": "The narration's phrase 'unmasked faces' is the most dangerous line in the episode: it invites the model to render a face. Rule adopted for the remaining Shadow frames - the people are so ancient that memory preserves no faces, so the camera must never be in a position to have one: figures are distant silhouettes, seen from behind, or bowed under hoods that hang past the crown. Every Shadow prompt negates face, mask, eyes, mouth, nose and profile by name.",
   "pending_rerender_scenes": [],
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0469",
-    "VAL-EP001-IMG0470"
-  ],
+  "pending_completion_scenes": [],
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0461",
@@ -205,14 +202,14 @@
       "visual_beat": "Ultra-wide establishing vista — Disputed legend: nameless Shadow masters teaching Valyrians",
       "file_path": "assets/batch_047/VAL-EP001-IMG0469.png",
       "shot_type": "UWA · 24mm",
-      "qc_status": "PENDING",
-      "md5": null,
-      "size_bytes": null,
-      "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "NOT YET RENDERED. Deferred: the per-turn generation cap was spent on the 0453 re-render, 0460 and eight frames here."
+      "qc_status": "APPROVED",
+      "md5": "d990b9afc08be27f4cc2e4a44ebd153a",
+      "size_bytes": 1351082,
+      "resolution": "1376x768",
+      "drive_file_id": "1IdwhpP5b4rJ3T4GNxOf0DB44OG04WaLx",
+      "drive_url": "https://drive.google.com/file/d/1IdwhpP5b4rJ3T4GNxOf0DB44OG04WaLx/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "24mm ultra-wide from the lip of a sheer drop into a vast high valley of black broken rock and wind-rippled ash. Two colossal cliff walls frame it and run away into distance; the mist does not thin, it thickens until there is no horizon at all, only mist becoming darkness becoming the mass of the Shadow. Far below, seven tiny robed marks cross the floor in single file, evenly spaced, walking west. Their number is the only readable thing about them. Reframed 12-755."
     },
     {
       "scene_id": "VAL-EP001-IMG0470",
@@ -226,14 +223,16 @@
       "visual_beat": "Medium close-up atmospheric focal beat — Disputed legend: nameless Shadow masters teaching Valyrians",
       "file_path": "assets/batch_047/VAL-EP001-IMG0470.png",
       "shot_type": "MCU · 50mm",
-      "qc_status": "PENDING",
-      "md5": null,
-      "size_bytes": null,
-      "resolution": null,
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "NOT YET RENDERED. Deferred: the per-turn generation cap was spent on the 0453 re-render, 0460 and eight frames here."
+      "qc_status": "APPROVED",
+      "md5": "d41ad6c60ff5f09e7e610f7d66ca82ab",
+      "size_bytes": 1589958,
+      "resolution": "1376x768",
+      "drive_file_id": "1pJIS3yknQbBqTnYw_5PUiz8g0QU6gKaz",
+      "drive_url": "https://drive.google.com/file/d/1pJIS3yknQbBqTnYw_5PUiz8g0QU6gKaz/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "**THE CLAIM GETS A BODY.** 50mm at chest height in the Shadow: the head and neck of a vast black dragon bent LOW, muzzle almost on the rock, only head and neck in frame so the limb count cannot go wrong - one head, one neck, nothing else of the animal. Twin swept-back obsidian horns flat to the skull, one lowered brass-gold slit eye, a thread of black smoke from the nostril. In the left foreground, soft: the back of a coarse hood and a bare pale forearm, the hand resting flat on the muzzle. **No face in frame and none possible.** Grey-green gloom gives the scales no shine. Cropped 12-728."
     }
-  ]
+  ],
+  "upload_note": "0469 and 0470 uploaded and re-verified against a fresh folder listing; all ten match.",
+  "closed_at": "2026-11-13T14:40:00Z"
 }
