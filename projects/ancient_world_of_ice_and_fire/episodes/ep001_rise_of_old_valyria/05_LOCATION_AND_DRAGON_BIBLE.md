@@ -70,6 +70,13 @@
 - **Blood is residue, never event.** `IMG0509` sets the precedent: a dried matt stain stiffened into folded wool beside an empty copper bowl. No wound, no body, no vessel. The narration says "blood"; only the aftermath is ever shown.
 
 
+### 4f. `THE HORNS` — the instruments of mastery *(Batches 052+)*
+- **They must look USED, not treasured.** Dull matte black horn with fine longitudinal ridges and cracks along the grain, chipped rims, stains soaked in over years, bound in **hammered red gold that is tarnished except where hands have worn it bright**, collared in pitted forged black iron. **No polish, no gemstones, no display lighting, no heraldry, no shrine.** A weapon of state kept in a store-room.
+- **`IMG0517` is the reference frame and the production's best material study:** iron, gold and horn separated by **texture alone** under raking light, with one deep scored line between them that means nothing.
+- **"Incised with glyphs" does not license legible writing.** The incisions are dense, clustered, overlapping and **unreadable at 5x–9x** — texture implying a writing system. Check the gold bands too: hammer tooling and specular can read as engraved text at magnification (`0513` was checked at 9x for exactly this).
+- **Scale references:** `IMG0518` (one horn as long as a small boat, dark middle only) · `IMG0520` (a horn on a ring of stones above a caldera, small and dark, **nobody near it** — the scale does not care).
+- **Watch the two recurring faults here:** coursed masonry (`0514` returned a medieval gatehouse — the negation list is mandatory even for a hall whose subject is the horns) and **stars** (`0519` returned a starfield; the peninsula sky has been flat overcast since batch 040, and stars, moon and god-light are banned).
+
 ### 5. `LOC-ESS-001`: OLD GHIS — CAPITAL OF THE GHISCARI EMPIRE *(Batch 001: `IMG0006`; Batches 011–015: `IMG0106–0150`; Batches 095–105)*
 - **Historical Period:** Peak Pre-Valyrian Ghiscari Dominance, pre-5,000 BC.
 - **Architectural Style & Materials:** Monumental ancient Near-Eastern / Mesopotamian-inspired brickwork (*ASOS* Daenerys III): colossal **stepped pyramids of fired yellow-ochre and terracotta brick** with irrigated hanging palm terraces, massive crenellated mud-brick ramparts, glazed lapis-blue tile friezes, wide limestone parade avenues, and a **100-foot cast-bronze statue of the Harpy of Old Ghis** (woman's torso, bat wings for arms, scorpion tail, eagle talons clutching a **thunderbolt**).

@@ -1,0 +1,239 @@
+{
+  "batch_number": 52,
+  "episode": "EP001 Rise of Old Valyria",
+  "title": "The Horns",
+  "timecode": "17:00-17:20",
+  "frame_range": "VAL-EP001-IMG0511 - VAL-EP001-IMG0520",
+  "narration_slice": "Surviving fragments of Valyrian lore agree upon the instruments of that mastery. First came the horns. Hollowed from the curved horns of giant dragons or wrought of black iron and banded in red gold, these monstrous dragonbinders were incised with Valyrian glyphs of fire, blood,",
+  "batch_status": "PARTIAL_7_OF_10_APPROVED_UPLOADED_0512_0514_0519_REJECTED",
+  "approved_count": 7,
+  "approved_uploaded_count": 7,
+  "drive_verified_count": 7,
+  "batch_drive_folder_id": "1fozX4L5otPRHEV-jSnRs6GXd1Uvsiorg",
+  "batch_drive_folder_url": "https://drive.google.com/drive/folders/1fozX4L5otPRHEV-jSnRs6GXd1Uvsiorg",
+  "parent_ep001_folder_id": "1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn",
+  "generations_used": 10,
+  "generations_cap": 10,
+  "the_object_rule": "The horns are the episode's first **manufactured** objects after six batches of geology, and the whole visual argument of the batch is that they look **used, not treasured**. Dull matte black, ridged along the grain, chipped at the rims, stained, soiled, bound in hammered gold that is tarnished except where hands have worn it bright. No polish, no gemstones, no display lighting, no heraldry. A weapon of state kept in a store-room, not a relic in a shrine.",
+  "the_glyph_rule": "`incised with Valyrian glyphs` does NOT license legible writing. Every incised mark in this batch is dense, clustered, worn and **unreadable at 5x-9x** - it is texture that implies a writing system, not a writing system. Negate letters, runes, numerals, symbols and script by name, and check the gold bands too: tooling and specular there can read as engraved text at magnification, which is why 0513 was checked specifically at 9x.",
+  "pending_rerender_scenes": [
+    "VAL-EP001-IMG0512",
+    "VAL-EP001-IMG0514",
+    "VAL-EP001-IMG0519"
+  ],
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0511",
+      "image_number": 511,
+      "timestamp": "17:00–17:02",
+      "shot_lens": "LAM · 28mm",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "narration_slice": "Surviving fragments of Valyrian",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
+      "file_path": "assets/batch_052/VAL-EP001-IMG0511.png",
+      "shot_type": "LAM · 28mm",
+      "qc_status": "APPROVED",
+      "md5": "5bf78ad6b5c29338056f125c90857df1",
+      "size_bytes": 1716219,
+      "resolution": "1376x768",
+      "drive_file_id": "1JmNfjdf350Aehs7AGE0zLVjsGvuDuogg",
+      "drive_url": "https://drive.google.com/file/d/1JmNfjdf350Aehs7AGE0zLVjsGvuDuogg/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "28mm from ground level: **a dragonbinder horn standing on a plain stone plinth**, dominating the frame and climbing out of the top edge. A single vast curved cone of **dull matte black, worked from the horn of a giant dragon** - heavy, faintly ridged along its length, thick at the base and tapering as it curves over the camera. Three broad **hammered red gold bands**, dull and tarnished, worn bright only where hands have gripped them. The surface is scored with shallow dense overlapping lines, **none of which resolves into anything a viewer can read** - worn almost smooth in places. Plain weathered plinth, dark dressed stone behind, the room falling to black. One fire far off left. **No ornament, no polish, no mason.**"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0512",
+      "image_number": 512,
+      "timestamp": "17:02–17:04",
+      "shot_lens": "OTS · 40mm",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "narration_slice": "lore agree upon the instruments",
+      "visual_beat": "Over-the-shoulder depth perspective — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
+      "file_path": "assets/batch_052/VAL-EP001-IMG0512.png",
+      "shot_type": "OTS · 40mm",
+      "qc_status": "REJECTED",
+      "md5": null,
+      "size_bytes": null,
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_note": "REJECTED at the transport layer - the generation call failed and returned no image. Not a content fault. Re-brief pending; the OTS frame still has to be shot because it is the only one in the batch that puts a person's back in the same frame as the horn, which is the whole rhetorical point of the shot.",
+      "rerender_brief": "Same 40mm over-the-shoulder brief, with **plain ashlar-free stone** behind and the horn in a narrow shaft of daylight. Add the negations: no coursed masonry, no ashlar, no joint lines, no mortar, no stacked blocks; and no gold ornament beyond the three hammered bands."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0513",
+      "image_number": 513,
+      "timestamp": "17:04–17:06",
+      "shot_lens": "WS · 28mm",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "narration_slice": "of that mastery. First",
+      "visual_beat": "Deep-focus wide atmospheric composition — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
+      "file_path": "assets/batch_052/VAL-EP001-IMG0513.png",
+      "shot_type": "WS · 28mm",
+      "qc_status": "APPROVED",
+      "md5": "f429536a7baca8f58c97e41da5a22348",
+      "size_bytes": 1346136,
+      "resolution": "1376x768",
+      "drive_file_id": "1sCySWg-zXA8oH98yMErJ5BDcIl056osB",
+      "drive_url": "https://drive.google.com/file/d/1sCySWg-zXA8oH98yMErJ5BDcIl056osB/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "28mm deep focus down **a long vaulted chamber of dark dressed stone with three dragonbinder horns on plain plinths** down the middle. Vast curved black cones, each bound with hammered red gold, each scored with worn lines that read as nothing, standing at different heights and curving in different directions so the room reads as **an archive rather than a display**. Deep piers, worn hollowed floor, narrow shafts of dull daylight falling in pale bars with dust turning in them. Two small faceless robed figures at the far end, dwarfed. One low brazier at frame left for warmth, nothing else. **Accepted with a note:** the gold bands carry mottled tooling and specular highlights that at 9x stay decorative rather than scriptorial - checked specifically, and clean."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0514",
+      "image_number": 514,
+      "timestamp": "17:06–17:08",
+      "shot_lens": "UWA · 24mm",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "narration_slice": "came the horns. Hollowed from",
+      "visual_beat": "Ultra-wide establishing vista — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
+      "file_path": "assets/batch_052/VAL-EP001-IMG0514.png",
+      "shot_type": "UWA · 24mm",
+      "qc_status": "REJECTED",
+      "md5": null,
+      "size_bytes": null,
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_note": "REJECTED on architecture, and it is the clearest instance of the fault yet. The vaulted hall came back as **coursed grey ashlar with visible mortar joints** - a medieval European gatehouse - where Valyria's established architecture is **poured monolithic fused stone with no joints at all** (0481, 0482, 0491, 0492, and the bible's section 4c). The joints are unmistakable at 1:1 and the frame would contradict every Valyrian exterior in the production.",
+      "rerender_brief": "Rebuild as **one continuous fused black stone arch**, seamless and glassy, no courses, no mortar, no blocks, with the interior lit only by pale bars of daylight and the horns small inside it. Negate ashlar, coursed masonry, joint lines, mortar, stacked blocks, brick, rusticated stone, capstones, voussoirs."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0515",
+      "image_number": 515,
+      "timestamp": "17:08–17:10",
+      "shot_lens": "MCU · 50mm",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "narration_slice": "the curved horns of",
+      "visual_beat": "Medium close-up atmospheric focal beat — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
+      "file_path": "assets/batch_052/VAL-EP001-IMG0515.png",
+      "shot_type": "MCU · 50mm",
+      "qc_status": "APPROVED",
+      "md5": "344d9725db9354c8fb2a1bd34515631c",
+      "size_bytes": 2062478,
+      "resolution": "1376x768",
+      "drive_file_id": "1RPeQV8nb_qk7NMNOE-BtZ1t1lc_uHFqO",
+      "drive_url": "https://drive.google.com/file/d/1RPeQV8nb_qk7NMNOE-BtZ1t1lc_uHFqO/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "50mm close on **the open bell of a dragonbinder horn**, filling the frame, tilted so the camera looks a little way in. A broad slightly irregular opening in dull black horn, its **rim thick, rounded, chipped, and worn smooth on one side** by years of a shoulder. The interior falls to darkness after the first handsbreadth of smooth cold inner wall. Outside: fine longitudinal ridges, scratches, a shallow chip, and **a band of hammered red gold set back from the edge**, tarnished, its tool marks still visible as faint facets. Three or four short incised lines beside the opening - disconnected, going nowhere, **reading as nothing.** Cool raking light from the left; one small warm reflection in the gold."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0516",
+      "image_number": 516,
+      "timestamp": "17:10–17:12",
+      "shot_lens": "MS · 35mm",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "narration_slice": "giant dragons or wrought of",
+      "visual_beat": "Dynamic medium lateral tracking angle — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
+      "file_path": "assets/batch_052/VAL-EP001-IMG0516.png",
+      "shot_type": "MS · 35mm",
+      "qc_status": "APPROVED",
+      "md5": "8fbb62af6a251e08d26f4fd81db857c5",
+      "size_bytes": 2546985,
+      "resolution": "1376x768",
+      "drive_file_id": "11Jx2WKUj_k8nZYOAgY18y2BwrICBgwQX",
+      "drive_url": "https://drive.google.com/file/d/11Jx2WKUj_k8nZYOAgY18y2BwrICBgwQX/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "35mm lateral track past **four dragonbinder horns racked horizontally in heavy iron cradles along a stone wall** - a store-room seen at walking pace. Each a great curved black body with **hammered red gold bands** at the throat and near the bell, heavy, matte, ridged, chipped at the rims, dulled by handling. Ranked together their curves repeat and vary, **which makes them look made by a process rather than found by chance.** Dry grey stone behind with hooks and iron rings set into it; worn flagstones, straw and grit on the floor; dust in the air. **Nobody in the room and the objects enormous.** One long cold band of daylight from a high window."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0517",
+      "image_number": 517,
+      "timestamp": "17:12–17:14",
+      "shot_lens": "MCU · 65mm",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "narration_slice": "black iron and banded",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
+      "file_path": "assets/batch_052/VAL-EP001-IMG0517.png",
+      "shot_type": "MCU · 65mm",
+      "qc_status": "APPROVED",
+      "md5": "d6bc6dbda34911fd65a18dd46175db46",
+      "size_bytes": 2461674,
+      "resolution": "1376x768",
+      "drive_file_id": "1GxPvNDtxaQ3inxMsHGl9aRjT5T3e7HVp",
+      "drive_url": "https://drive.google.com/file/d/1GxPvNDtxaQ3inxMsHGl9aRjT5T3e7HVp/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "65mm compressed on **the junction of three materials**, filling the frame edge to edge: **pitted forged black iron** in a collar around the throat, hammered unevenly; a **hammered red gold band** set into it, warm but dull, tarnished low and worn pale where it has been gripped for a very long time, tool marks still visible; and the **dull black horn** itself, longitudinally ridged with fine cracks along the grain and one long paler stain soaked in over years. Between band and iron **a single deep scored line**, broad and shallow and worn - **it means nothing.** One thin highlight in the gold and no glare anywhere. **The batch's best material frame: three surfaces separated by texture alone.**"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0518",
+      "image_number": 518,
+      "timestamp": "17:14–17:16",
+      "shot_lens": "MS · 50mm",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "narration_slice": "in red gold, these monstrous",
+      "visual_beat": "Medium cinematic subject focus — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
+      "file_path": "assets/batch_052/VAL-EP001-IMG0518.png",
+      "shot_type": "MS · 50mm",
+      "qc_status": "APPROVED",
+      "md5": "40e4ab163b3ce080cea8d4061b8e9e9f",
+      "size_bytes": 2499997,
+      "resolution": "1376x768",
+      "drive_file_id": "1Cf4Intw9_RAPuDtZQrdbV4CL7E8VfXss",
+      "drive_url": "https://drive.google.com/file/d/1Cf4Intw9_RAPuDtZQrdbV4CL7E8VfXss/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "50mm low three-quarter: **a single monstrous horn lying across the floor on a low stone cradle**, as long as a small boat, filling the frame sideways. A great tapering curve from a thick ridged root to a wide flared bell, bound at intervals with **hammered red gold bands** and collars of black iron, **densely scored along its whole length with shallow incisions in clusters and parallel runs** - worn smooth where handled, chipped at the bell rim, stained and unpolished everywhere. The marks are dense and deliberate and **unreadable**: verified at 5x, they stay invented clusters rather than any alphabet. One long cold band of daylight falls across the middle only, so the eye has to travel to understand its length. **Scale, and the cold fact of ownership.**"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0519",
+      "image_number": 519,
+      "timestamp": "17:16–17:18",
+      "shot_lens": "WS · 35mm",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "narration_slice": "dragonbinders were incised with",
+      "visual_beat": "Wide environmental storytelling tableau — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
+      "file_path": "assets/batch_052/VAL-EP001-IMG0519.png",
+      "shot_type": "WS · 35mm",
+      "qc_status": "REJECTED",
+      "md5": null,
+      "size_bytes": null,
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5_verified_on_drive": false,
+      "qc_note": "REJECTED on two counts. **(1) Stars.** The night sky is a dense field of stars, and this production has banned stars, moon and god-light on the peninsula since batch 040 - the sky is flat overcast, always. **(2) Spectacle creep.** A distant city burns on the cliffs at frame right, which puts a sack or a war into a sequence that has spent two batches showing power as procedure rather than catastrophe. The silhouette and the horn are both excellent, which is what makes it worth noting: the pose was right and the world around it was wrong.",
+      "rerender_brief": "Keep the below-and-behind silhouette of the player and the horn crossing frame diagonally. Raise the horizon so almost all the sky is **gone** - flat dark cloud only, no stars, no moon, no glow. Remove the burning city entirely; the background is empty dark rock falling away. Negate: stars, starfield, night sky, constellations, moon, distant fire, burning buildings, city lights, glow on the horizon."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0520",
+      "image_number": 520,
+      "timestamp": "17:18–17:20",
+      "shot_lens": "UWA · 24mm",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "narration_slice": "Valyrian glyphs of fire, blood,",
+      "visual_beat": "High-elevation geographic / scale reveal — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
+      "file_path": "assets/batch_052/VAL-EP001-IMG0520.png",
+      "shot_type": "UWA · 24mm",
+      "qc_status": "APPROVED",
+      "md5": "321eb82ef19fc49e9ee90cc2572f21e8",
+      "size_bytes": 2160596,
+      "resolution": "1376x768",
+      "drive_file_id": "1JXKRzQXZ7t3oKxMDUBGH1rgaC3-tEm1m",
+      "drive_url": "https://drive.google.com/file/d/1JXKRzQXZ7t3oKxMDUBGH1rgaC3-tEm1m/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "24mm from high on a caldera slope: **a dragonbinder horn standing on a low ring of stacked flat stones**, small but sharp against pale ash - a curved black cone bound in dull red gold, densely scored, unreadable, **and nobody near it.** Beyond, the caldera opens out enormous: a shallow bowl of grey ash and black lava ridges, **four smoking cones along the far wall** with thin dark plumes bending away, a plain running to a flat white haze. Two or three faceless robed figures climb the slope below, tiny. Flat cold overcast, low contrast, everything desaturated to grey with the dull gold the only warm note. **The scale is the subject - a small dark mark in a landscape that does not care about it.**"
+    }
+  ]
+}

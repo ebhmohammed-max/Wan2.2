@@ -755,3 +755,24 @@ The decision to write it off rather than spend a third generation was deliberate
 **Two filing faults caught and corrected, both worth recording.** The Batch 051 Drive folder ID was transcribed one character wrong (`…PzMx…` for `…PzETMx…`), which produced a 404 on the first upload; the ID was recovered by re-listing the episode folder and the erroneous string corrected in every file that carried it. And `0503` — generated during Batch 050's close — was still sitting in the 050 folder with a pending status; it was moved, re-listed and marked approved. **Both folders were then re-listed to confirm exact counts: 050 holds nine, 051 holds ten.**
 
 **Batch 051 CLOSED 10/10. Verified progress: 512/1,050 (48.76%)** — Batches 045–049 and 051 all closed at 10/10, Batch 050 at 9/10 by subtraction, and **Batch 052 (`17:00–17:20`) opens next at the horns.** `IMG0160` remains the one open correction from an earlier batch.
+
+
+### Batch 052 — The Horns (`17:00–17:20`) — **Open · 7/10 approved and uploaded · `IMG0512` (transport), `IMG0514` (masonry) and `IMG0519` (stars) rejected**
+
+**The horns are the first manufactured objects in the episode after six batches of geology, and the whole visual argument is that they look *used, not treasured*.** Dull matte black, ridged along the grain, chipped at the rims, stained and soiled, bound in **hammered gold that is tarnished except where hands have worn it bright.** No polish, no gemstones, no display lighting, no heraldry. **A weapon of state kept in a store-room, not a relic in a shrine.**
+
+**`0517` is the best material frame of the production and it contains no story whatsoever.** A 65mm compression on the junction of three materials: pitted forged black iron in a collar around the throat, a hammered red gold band set into it — tarnished in the low spots, worn pale where it has been gripped for a very long time, tool marks still visible — and the dull black horn itself, ridged along the grain, cracked, with one long paler stain soaked in over years. Between band and iron, a single deep scored line, broad and shallow and worn, **meaning nothing.**
+
+**That is the batch's thesis in one image: the Valyrian mastery is not an idea in this sequence, it is a wear pattern.** Where the hands went, over centuries, on an object nobody thought to polish.
+
+**`0518` does the scale work** — one horn as long as a small boat, densely scored end to end, one cold band of daylight catching only the middle so the eye has to travel to understand it; at 5x the incisions stay **invented clusters rather than any alphabet.** **`0520` closes the batch coldly**: a horn standing on a ring of flat stones above a vast caldera, small and dark, nobody near it. **After a batch of objects that are handled and stored, the last frame puts one back into the geology it came from** — a small dark mark in a landscape that does not care about it.
+
+**Three rejections, three distinct lessons.**
+
+**`0514` is the clearest masonry failure in the production.** The vaulted hall came back as **coursed grey ashlar with visible mortar joints** — a medieval European gatehouse — where Valyria is **poured monolithic fused stone** (`0481`, `0482`, `0491`, `0492`, bible §4c). The negation list was absent from that prompt, and the result contradicts every Valyrian exterior already approved.
+
+**`0519` failed twice over.** A dense field of **stars** — and the peninsula sky has been flat overcast since batch 040, with stars, moon and god-light banned — plus a **burning city** on the cliffs, which is spectacle creep in a sequence that has spent two batches showing power as procedure rather than catastrophe. The silhouette and the horn were both excellent, which is what makes it worth recording: **the pose was right and the world around it was wrong.**
+
+**`0512` failed at the transport layer** and returned no image at all — no content fault, simply a call to repeat. It matters disproportionately because it is the only frame in the batch that puts a person's back in the same frame as a horn, which is the rhetorical point of the shot.
+
+**Verified progress: 519/1,050 (49.43%)** — Batches 045–049 and 051 closed at 10/10, Batch 050 at 9/10 by subtraction, **Batch 052 open at 7/10 with three to re-render.** `IMG0160` remains the one open correction from an earlier batch.
