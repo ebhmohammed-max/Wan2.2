@@ -77,6 +77,15 @@
 - **Negate by name:** masonry courses, ashlar blocks, dressed stone, walls, arches, vaults, rose windows, carved frieze, pilasters, built symmetry, light shafts, god rays.
 - The chamber is an **accident of scale and disorder**, never a nave.
 
+### 9c. `DRG-VAL-001` — ANATOMY RISK MANAGEMENT *(learned across Batches 032–045)*
+- **The recurring failure is not the count, it is the pose.** Every third-limb error in this production has come from a **crouched, detail-lit animal with its wings forward** (first at `IMG0398`, again at `IMG0446`). In that configuration the model adds a gripping extremity it can see and a hanging one it cannot.
+- **Countermeasures, in order of effectiveness:**
+  1. **Put it in flight** with both hind legs tucked tight against the belly and **out of sight** — nothing to miscount.
+  2. **Render it as a pure silhouette.** `IMG0443` holds the lock better than any detailed frame because the outline enforces the count.
+  3. **State the count numerically AND negatively:** "exactly four limbs — two taloned hind legs, two wings, no third leg, no fourth leg, no arms", plus "zero claws hang below the silhouette" and a negation of *extra limbs, third leg, fourth leg, arms, dangling feet*.
+- **Still mandatory:** the 2x limb check on every frame the animal appears in, crouched or not, silhouette or not.
+- **Horn tolerance (accepted):** the twin swept-back primary horns have drifted into a heavier spike crown in several approved frames (`0437`, `0442`). This is an accepted tolerance provided the swept-back direction and one dominant horn pair read clearly and the silhouette is correct. It is a recorded decision, not silent drift.
+
 ---
 
 ## SECTION B — DRAGON & CREATURE CONTINUITY PROFILES

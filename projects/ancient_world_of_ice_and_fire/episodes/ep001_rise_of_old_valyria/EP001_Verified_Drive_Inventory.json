@@ -52,7 +52,7 @@
     44
   ],
   "next_batch": 45,
-  "next_image_number": 441,
+  "next_image_number": 446,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1933,8 +1933,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-12T01:30:00Z",
-  "verified_progress_percent": "42.48%",
+  "last_updated": "2026-11-12T03:05:00Z",
+  "verified_progress_percent": "43.33%",
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3630,7 +3630,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 446,
+  "verified_image_count": 455,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -8466,5 +8466,199 @@
   "batch_044_pending_rerender_scenes": [],
   "batch_044_pending_completion_scenes": [],
   "soth_jungle_location_lock": "New location. Steaming, plague-ridden, oppressive jungle of Sothoryos: wet black loam, grey limestone, buttress-rooted hardwoods, strangler vines, moss in sodden ropes, standing black water, steam and haze. Flat diffused steam-filtered light only - NO golden light, NO sunbeams, NO sun disc, NO bright blue sky, NO turquoise water, NO beach, NO bright flowers, NO postcard tropics. Palette is deep green-brown, ochre mud, grey limestone, black water and pale steam. Bone is black fossil, moss-taken, with roots grown through it and rings of concentric lamellae at any fractured face. No faces and no maester or Citadel figure.",
-  "caldera_architecture_ban": "REPEAT OFFENDER (Batch 031, re-confirmed Batch 044). LOC-VAL-003 must never render as a built cathedral. The prompt must describe the rock POSITIVELY - hexagonal basalt prisms of uneven height, no capitals, no drum sections, no plinths, jagged broken tops, collapsed rubble and darkness for a ceiling - and must negate by name: masonry courses, ashlar blocks, dressed stone, walls, arches, vaults, rose windows, carved frieze, pilasters, built symmetry, light shafts and glowing god rays."
+  "caldera_architecture_ban": "REPEAT OFFENDER (Batch 031, re-confirmed Batch 044). LOC-VAL-003 must never render as a built cathedral. The prompt must describe the rock POSITIVELY - hexagonal basalt prisms of uneven height, no capitals, no drum sections, no plinths, jagged broken tops, collapsed rubble and darkness for a ceiling - and must negate by name: masonry courses, ashlar blocks, dressed stone, walls, arches, vaults, rose windows, carved frieze, pilasters, built symmetry, light shafts and glowing god rays.",
+  "batch_045_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0441",
+      "timestamp": "14:40–14:42",
+      "narration_slice": "ages until only the",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1_1peshmUJk9pCvVbrpca3AC3JKi6vwai",
+      "drive_url": "https://drive.google.com/file/d/1_1peshmUJk9pCvVbrpca3AC3JKi6vwai/view?usp=drivesdk",
+      "md5": "f609b1f35e2432fd33c7528f356230b7",
+      "size_bytes": 2480970,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0442",
+      "timestamp": "14:42–14:44",
+      "narration_slice": "volcanic sanctuary of the Fourteen",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "15j7CCy1bN31SHUWeN7WRPcMVwYDJrHKu",
+      "drive_url": "https://drive.google.com/file/d/15j7CCy1bN31SHUWeN7WRPcMVwYDJrHKu/view?usp=drivesdk",
+      "md5": "c0c146b0afebdac9099e93036ad07133",
+      "size_bytes": 1846895,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0443",
+      "timestamp": "14:44–14:46",
+      "narration_slice": "Flames—and perhaps the farthest",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1qFC4zznyMma53IpBmQfW4xOU2WRX4qNR",
+      "drive_url": "https://drive.google.com/file/d/1qFC4zznyMma53IpBmQfW4xOU2WRX4qNR/view?usp=drivesdk",
+      "md5": "6f1be957f52bed46e78588c38a790267",
+      "size_bytes": 1976813,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0444",
+      "timestamp": "14:46–14:48",
+      "narration_slice": "Shadow Lands—preserved living broods. Yet",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1DLBa_vODCj6FMMbEJFiov5aJWCmU40hh",
+      "drive_url": "https://drive.google.com/file/d/1DLBa_vODCj6FMMbEJFiov5aJWCmU40hh/view?usp=drivesdk",
+      "md5": "e4090bf48e6f75981c0811f2db49ef25",
+      "size_bytes": 1915028,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0445",
+      "timestamp": "14:48–14:50",
+      "narration_slice": "finding a dragon in",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1qba1-lB_kKAVV1x2lF9D98IFo82oYeyl",
+      "drive_url": "https://drive.google.com/file/d/1qba1-lB_kKAVV1x2lF9D98IFo82oYeyl/view?usp=drivesdk",
+      "md5": "d0371d6321a00faa303a7de09d6ea4f5",
+      "size_bytes": 1212069,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0447",
+      "timestamp": "14:52–14:54",
+      "narration_slice": "matter. How did simple shepherds",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1IInmw7U9M7c3T_yx2K-G1XU1bqDBHqr0",
+      "drive_url": "https://drive.google.com/file/d/1IInmw7U9M7c3T_yx2K-G1XU1bqDBHqr0/view?usp=drivesdk",
+      "md5": "cb4c820d7500999e63b0badd15516a19",
+      "size_bytes": 2590978,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0448",
+      "timestamp": "14:54–14:56",
+      "narration_slice": "compel a creature of",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "10RVCEELRhHvR4D73i97N4-xYdXZyi4Ri",
+      "drive_url": "https://drive.google.com/file/d/10RVCEELRhHvR4D73i97N4-xYdXZyi4Ri/view?usp=drivesdk",
+      "md5": "21198bf94f4ac0d6c15575186a931b09",
+      "size_bytes": 1624541,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0449",
+      "timestamp": "14:56–14:58",
+      "narration_slice": "living fire to bow its",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1IWSG1akdyK85HivMin2Pjcn9V9Yo8CQq",
+      "drive_url": "https://drive.google.com/file/d/1IWSG1akdyK85HivMin2Pjcn9V9Yo8CQq/view?usp=drivesdk",
+      "md5": "1b8f69adfe8ce6ca574ac6109f3ef25c",
+      "size_bytes": 2239660,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0450",
+      "timestamp": "14:58–15:00",
+      "narration_slice": "horned head to man?",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1ES0h_iI0JLiO7O3yfNiPvjGt-0kGAfC0",
+      "drive_url": "https://drive.google.com/file/d/1ES0h_iI0JLiO7O3yfNiPvjGt-0kGAfC0/view?usp=drivesdk",
+      "md5": "a21c9082f141a00b1c12566a7aa72ae1",
+      "size_bytes": 2019483,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_045_status": "PARTIAL_9_OF_10_UPLOADED_MD5_VERIFIED_0446_REJECTED",
+  "batch_045_drive_folder_id": "1s5I8gDKw98MRMH3_iekzoaDDUtR2-OF3",
+  "batch_045_drive_verified_count": 9,
+  "batch_045_pending_rerender_scenes": [
+    "VAL-EP001-IMG0446"
+  ],
+  "batch_045_pending_completion_scenes": [
+    "VAL-EP001-IMG0446"
+  ],
+  "batch_045_note": "The taming riddle. Anti-architecture brief applied from the start and no masonry appeared in any caldera frame. 0443 is the best silhouette of the production; 0447-0449 make the question physical (nailed boot print, dried blood and pale hair in grit; open cracked palms with a bronze spiral ring; the horned head lowered to that palm); 0450 closes on the space between the two of them, neither looking at the other.",
+  "dragon_anatomy_countermeasures": "DRG-VAL-001 drifted three times in batch 045 toward a crouched mantling pose with wings forward, and 0446 gained a visible third taloned extremity. Reliable countermeasures in order of effectiveness: (1) put the animal in flight with both hind legs tucked tight against the belly and out of sight; (2) render it as a pure silhouette, where the outline enforces the count; (3) state the count numerically AND negatively. Detail-lit, crouched, wings-forward poses are the highest-risk configuration and must be avoided unless the frame needs the head. Negate 'extra limbs, third leg, fourth leg, arms, dangling feet' and state explicitly that zero claws hang below the silhouette.",
+  "horn_tolerance": "The twin swept-back horns have drifted into a heavier spike crown in several approved frames (0437, 0442, 0446). ACCEPTED AS A TOLERANCE, not a failure, provided the swept-back direction and the single dominant horn pair are present and the silhouette reads correctly. Recorded so it is a decision rather than silent drift."
 }
