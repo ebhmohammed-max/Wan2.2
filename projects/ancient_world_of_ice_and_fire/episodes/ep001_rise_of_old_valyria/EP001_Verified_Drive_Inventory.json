@@ -63,10 +63,11 @@
   55,
   56,
   57,
-  58
+  58,
+  59
  ],
- "next_batch": 59,
- "next_image_number": 581,
+ "next_batch": 60,
+ "next_image_number": 591,
  "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
  "drive_folders": {
   "master_root_folder": {
@@ -575,7 +576,7 @@
    "upload_checksum_verified": true
   }
  ],
- "completed_images": 579,
+ "completed_images": 589,
  "batch_002_images_65mm": [
   {
    "number": 11,
@@ -1948,7 +1949,7 @@
   }
  ],
  "last_updated": "2026-11-11",
- "verified_progress_percent": 55.14,
+ "verified_progress_percent": 56.1,
  "batch_012_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0111",
@@ -3644,7 +3645,7 @@
    "upload_checksum_verified": true
   }
  ],
- "verified_image_count": 579,
+ "verified_image_count": 589,
  "batch_021_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0201",
@@ -9984,7 +9985,7 @@
  "the_scream_rule": "The scream is physical cost, not magic. Show flush, taut tendons, sweat, a worn and crusted mouthpiece, dry residue - then a still body on a terrace and one whole horn standing among ruins a civilisation later. No aura, no glow, no shockwave, no sound effect, nothing alight, in any frame.",
  "the_body_rule": "No face and no injury in batch 053. Strain is tendons, flush and sweat; damage is dryness, salt deposit and worn metal; the cost is posture. Negations carried in every prompt: no blood, no wound, no injury, no bruise, no burn. This is also why the batch cleared moderation on the first pass: describe what the body is doing, not what has been done to it.",
  "batch_052_three_faults_lesson": "0514 was masonry, 0519 was the sky, 0512 was a dropped call. All three fixed on the first re-render because the fault was in the negation list, not the idea. The masonry negation list is now standard wording on any frame containing a stone wall - 0528 pass 1 proved it is still needed in the middle distance, not just in the foreground.",
- "verified_percent": 55.14,
+ "verified_percent": 56.1,
  "open_corrections": [
   "VAL-EP001-IMG0160"
  ],
@@ -10558,6 +10559,111 @@
    "size_bytes": 1309857,
    "resolution": "1376x768",
    "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  }
+ ],
+ "batch_059_status": "COMPLETE_10_OF_10_ZERO_REJECTION",
+ "batch_059_drive_verified_count": 10,
+ "batch_059_note": "Batch 059 'The Ascent' (19:20-19:40): CLOSED 10/10, ten first passes, zero rejected generations. Strict 2x/3x checks all ran; three annotated occlusion notes (0585/0586/0588 limb occlusion, no extra limbs anywhere). All ten checksums re-read from Drive and matched. 589/1,050 verified (56.10%). Chapter IV continues.",
+ "batch_059_verified_images": [
+  {
+   "scene_id": "VAL-EP001-IMG0581",
+   "drive_file_id": "1pMrrKu69dEwE0lSPnJBOXscyP3A_Qr-q",
+   "drive_url": "https://drive.google.com/file/d/1pMrrKu69dEwE0lSPnJBOXscyP3A_Qr-q/view",
+   "md5": "0d897b7388df9ac4752e503b9f72ecb9",
+   "size_bytes": 1492448,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0582",
+   "drive_file_id": "1t9Yua_qetxM9ZsUTvvSdP8xRv1Iy81p2",
+   "drive_url": "https://drive.google.com/file/d/1t9Yua_qetxM9ZsUTvvSdP8xRv1Iy81p2/view",
+   "md5": "04af30fa5ad333345f7b38c97ba67cc3",
+   "size_bytes": 1759614,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0583",
+   "drive_file_id": "1UQGoGyWT7rzSKbc9DvC4hnJfR_Q2VMFh",
+   "drive_url": "https://drive.google.com/file/d/1UQGoGyWT7rzSKbc9DvC4hnJfR_Q2VMFh/view",
+   "md5": "c4b8bf07fbeb446487f374c5739a2a02",
+   "size_bytes": 1749943,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0584",
+   "drive_file_id": "1jUrjYV2OQAyeEv5uPmV7O26du0MCx3EZ",
+   "drive_url": "https://drive.google.com/file/d/1jUrjYV2OQAyeEv5uPmV7O26du0MCx3EZ/view",
+   "md5": "de3169968cea10c55f1d7491a7944c6c",
+   "size_bytes": 1290296,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0585",
+   "drive_file_id": "1vVEWWoe2awVKm8mH1NEeRuFQLrB6Ge5h",
+   "drive_url": "https://drive.google.com/file/d/1vVEWWoe2awVKm8mH1NEeRuFQLrB6Ge5h/view",
+   "md5": "8905e6ccc05feb2df9bf74cb29eb0560",
+   "size_bytes": 1562328,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0586",
+   "drive_file_id": "1lcviCCGCMCFDJC9w_IqKBxqVyP7lFXvt",
+   "drive_url": "https://drive.google.com/file/d/1lcviCCGCMCFDJC9w_IqKBxqVyP7lFXvt/view",
+   "md5": "913597aa60de5cd518bb5bf94c3d7a8b",
+   "size_bytes": 1527268,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0587",
+   "drive_file_id": "1Py5gRIX7CWa30pTBcMcpm0E2dvV2AHxW",
+   "drive_url": "https://drive.google.com/file/d/1Py5gRIX7CWa30pTBcMcpm0E2dvV2AHxW/view",
+   "md5": "b014c2489d8186732b4a42b4b090ef1c",
+   "size_bytes": 1623759,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0588",
+   "drive_file_id": "1GOqnX8LnkLl6zdOg7-ndhb8opUp4N80q",
+   "drive_url": "https://drive.google.com/file/d/1GOqnX8LnkLl6zdOg7-ndhb8opUp4N80q/view",
+   "md5": "7651d74273f08faf038718d8a4ef86c7",
+   "size_bytes": 1764310,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0589",
+   "drive_file_id": "1YxoFJSbTfn8DSasgQI9wTp5Qmt_nVSpv",
+   "drive_url": "https://drive.google.com/file/d/1YxoFJSbTfn8DSasgQI9wTp5Qmt_nVSpv/view",
+   "md5": "d332e785042fb8692c22af2b7e85a5ac",
+   "size_bytes": 1140537,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0590",
+   "drive_file_id": "1hj8oE8z_V-sa7xFcFcu12QoWTWE3onWi",
+   "drive_url": "https://drive.google.com/file/d/1hj8oE8z_V-sa7xFcFcu12QoWTWE3onWi/view",
+   "md5": "39e1c4dfc6416a3ce504976e06b4c2d4",
+   "size_bytes": 1616426,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED",
    "upload_checksum_verified": true
   }
  ]
