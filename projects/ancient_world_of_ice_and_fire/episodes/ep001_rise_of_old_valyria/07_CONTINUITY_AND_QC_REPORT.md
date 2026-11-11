@@ -541,7 +541,7 @@ The myth movement. After nineteen frames of the observation sequence in the grey
 
 ---
 
-### Batch 044 — Sothoryos Jungle and the Riddle of Tamed Fire (`14:20–14:40`) — **Open · 6/10 approved and uploaded, 2 rejected, 2 not rendered**
+### Batch 044 — Sothoryos Jungle and the Riddle of Tamed Fire (`14:20–14:40`) — **Complete · 10/10 approved and uploaded**
 
 **A split batch, and the two halves behaved completely differently.** The five jungle frames all passed first time and hold the humid register exactly. The caldera half produced one of the best dragon frames of the production and two frames that failed the same way as a batch eighteen batches earlier.
 
@@ -556,3 +556,18 @@ The myth movement. After nineteen frames of the observation sequence in the grey
 **Director's boundaries held:** no faces anywhere, no maester or Citadel figure, no flesh or gore, no fire on the wyverns, no sun or sunbeam in the jungle, no turquoise water, no postcard tropics. Six frames `1376x768`, Drive folder re-listed after the sixth upload and matching local `md5sum` byte for byte.
 
 **Verified progress: 442/1,050 (42.10%).** Order of work next: re-render `0436` and `0438` with the anti-architecture brief, render `0439` and `0440`, then open 045. `IMG0160` remains the one open correction from an earlier batch.
+
+
+### Batch 044 — CLOSED at 10/10 · both caldera rejects fixed on the first re-render
+
+**The anti-architecture brief worked first time, on both frames.** `0436` (pass 2) now reads as a shattered forest of natural basalt prisms — wildly uneven heights, tops snapped off at jagged angles, several toppled and lying in the rubble, fissures opening between them, no ceiling at all — with a single narrow dull orange-red seam in a floor crack and thin grey smoke. `0438` (pass 2) is rubble and broken tops with a few flat plates of vitrified black glass among the scree, a small irregular aperture high above giving only dim cold grey, and three four-limbed dragons at different heights and distances. **No capitals, no plinth, no vault, no symmetry, no light shaft, no bloom.** What fixed it was describing the rock as rock and naming every architectural term as forbidden; the mechanism is recorded as `9b` in the location bible and is now the **default** brief for every caldera frame rather than a fallback after failure.
+
+**`0439` and `0440` landed first pass.** `0439` is 24mm from the caldera rim — the whole collapsed basin as a broken field of rock and rubble cut by fissures, the far wall rising in shattered steps into cold mist, plumes bending one way on the wind, and two dragons in flight no larger than thumbnails. It is the widest and most desolate statement of the dying-out line: a vast empty place with two animals left in it. `0440` is the best dragon image the production has made — a 50mm head and neck study in profile, near-black plates edged with faint dull bronze, twin swept-back horns flat along the skull, one brass-gold slit eye open and calm, a fine crust of grey ash along the snout, one thread of smoke soft behind. **Watchful, entirely without malice, unreadable.**
+
+**A process error worth recording.** `0436` was uploaded *before* its letterbox crop was applied, so Drive briefly held the uncropped bytes under a checksum that no longer matched the local file. It was caught by comparing md5s immediately after cropping, the bad object was permanently deleted and the corrected file re-uploaded under the new checksum. **Order of operations is now fixed: crop, then md5, then upload, then re-verify.** The same rule already existed for rendering; it is now explicit for cropping too.
+
+**Limb checks.** `0436` and `0440` were both inspected at 2x. `0436`'s dragon mantles on a shattered prism with exactly two taloned hind legs gripping and two wings — no third or fourth limb — and its wings are spread rather than folded, which reads as mantling and is accepted with the note recorded. `0440` is a head study and raises no limb question.
+
+**Director's boundaries held:** no masonry or built structure of any kind in the caldera, no fire, no lava bloom, no white steam, no snow, no faces, and the dragons stay four-limbed with the torn right membrane present. Ten frames `1376x768`; the Drive folder was re-listed after the final upload and all ten names, sizes and checksums match local `md5sum` byte for byte. **Batch 043 and Batch 044 are both closed at 10/10.**
+
+**Verified progress: 446/1,050 (42.48%).** Batch 045 (`14:40–15:00`) continues in the caldera as the taming riddle resolves. Carry forward: apply the `9b` anti-architecture brief as the default, re-check limb count at 2x on every dragon frame, and keep crop → md5 → upload → re-verify as the fixed order. `IMG0160` remains the one open correction from an earlier batch.

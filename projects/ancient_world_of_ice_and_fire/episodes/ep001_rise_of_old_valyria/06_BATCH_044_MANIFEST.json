@@ -12,23 +12,15 @@
   "batch_timespan": "14:20–14:40",
   "aspect_ratio": "16:9",
   "resolution_native": "1376x768",
-  "batch_status": "PARTIAL_6_OF_10_APPROVED_UPLOADED_2_REJECTED_2_PENDING",
-  "approved_count": 6,
-  "approved_uploaded_count": 6,
-  "drive_verified_count": 6,
-  "pending_rerender_count": 2,
-  "pending_generation_count": 2,
-  "pending_rerender_scenes": [
-    "VAL-EP001-IMG0436",
-    "VAL-EP001-IMG0438"
-  ],
-  "pending_completion_scenes": [
-    "VAL-EP001-IMG0436",
-    "VAL-EP001-IMG0438",
-    "VAL-EP001-IMG0439",
-    "VAL-EP001-IMG0440"
-  ],
-  "generations_used": 10,
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "approved_uploaded_count": 10,
+  "drive_verified_count": 10,
+  "pending_rerender_count": 0,
+  "pending_generation_count": 0,
+  "pending_rerender_scenes": [],
+  "pending_completion_scenes": [],
+  "generations_used": 14,
   "visual_qc_note": "A split batch: five frames of Sothoryos jungle, all first-pass, then the caldera half where the architectural failure returned twice. 0431-0435 hold the humid register perfectly and 0435 lands the wyvern restrained to silhouettes. 0437 is the best dragon frame of the production so far and passes the four-limb check at 2x. 0436 and 0438 both render the caldera as a built cathedral - fluted columns with capitals, coursed ashlar, a rose window and a light beam - which is the exact failure logged at Batch 031 and is now a repeat offender.",
   "sothoryos_note": "SOTH-JUNGLE is new to the production and needs a bible entry: steaming plague-ridden jungle, wet black loam, grey limestone, buttress-rooted hardwoods, strangler vines, standing black water, steam haze, flat diffused light. NO golden light, NO sunbeams, NO sun disc, NO bright blue sky, NO turquoise water, NO beach, NO bright flowers, NO postcard tropics. Bone is black fossil, moss-taken, with roots grown through it. No faces, no maester.",
   "caldera_reject_note": "Both rejects share one cause: a prompt that says 'hexagonal basalt pillars rising to a lost ceiling' gets read as architecture. The fix is to describe the ROCK positively - hexagonal prisms broken at uneven heights, no capitals, no drum sections, no plinths, raw chaotic disorder, a ceiling of collapsed rubble and darkness - and to negate masonry courses, ashlar blocks, arches, vaults, rose windows, carved frieze and built symmetry by name. Batch 031 established this and it has now recurred.",
@@ -149,13 +141,13 @@
       ],
       "file_path": "assets/batch_044/VAL-EP001-IMG0436.png",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": null,
-      "size_bytes": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "REJECTED",
-      "qc_note": "28mm caldera frame failed as a built cathedral nave: fluted columns with capitals and a rose-window aperture overhead, exactly the Batch 031 architectural-masonry failure. Also a broad orange lava bloom across the floor and white steam, both banned. Re-render brief: state hexagonal basalt prisms rising clean through the ceiling with NO capitals and NO drum sections, raw chaotic geological disorder, and negate masonry courses, ashlar blocks, arches, vaults, rose windows and built symmetry."
+      "drive_file_id": "1Cip0cWevI_ed7md8klQzfKFQonqKun4I",
+      "drive_url": "https://drive.google.com/file/d/1Cip0cWevI_ed7md8klQzfKFQonqKun4I/view?usp=drivesdk",
+      "md5": "3f20e02887fa791d44999455c7bcb0a8",
+      "size_bytes": 1401373,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 2. The anti-architecture brief worked: hexagonal basalt prisms of wildly uneven height with jagged snapped tops, toppled blocks, rubble and scree across the floor, gaps opening into black fissures, no ceiling, no capitals, no plinth, no vault, no symmetry anywhere. One narrow dull orange-red seam in a floor crack, thin grey smoke, faint cold grey above. The dragon mantles on a shattered prism, checked at 2x: exactly two taloned hind legs gripping and two wings, no third or fourth limb. Note: wings are spread rather than folded, which reads as mantling and is accepted. Reframed rows 12-755. Pass 1 was REJECTED as a built cathedral nave."
     },
     {
       "scene_id": "VAL-EP001-IMG0437",
@@ -195,13 +187,13 @@
       ],
       "file_path": "assets/batch_044/VAL-EP001-IMG0438.png",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": null,
-      "size_bytes": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "REJECTED",
-      "qc_note": "Same root failure as 0436: coursed ashlar masonry with a carved frieze in the mid-ground instead of columnar basalt prisms, plus a glowing white god-ray beam through the ceiling aperture that reads as a spotlight. Re-render brief: prohibit 'masonry blocks', 'dressed stone', 'walls' and 'carved frieze' explicitly and keep the ceiling aperture small and dim, with no light shaft."
+      "drive_file_id": "1qZgak7m56QmZ7v391MYimZZQKFP-jmQa",
+      "drive_url": "https://drive.google.com/file/d/1qZgak7m56QmZ7v391MYimZZQKFP-jmQa/view?usp=drivesdk",
+      "md5": "9af1ed782e1885bc1270eff8df5495f2",
+      "size_bytes": 2166904,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 2. Wide view across the caldera floor: a jumbled forest of prisms at uneven heights with broken tops, toppled blocks in the rubble, a few flat plates of vitrified black glass among the scree, a small irregular aperture high above giving only dim cold grey. No masonry, no frieze, no shaft, no orange bloom. Three four-limbed dragons at different heights and distances, the nearest crouched with its head turned away. Pass 1 was REJECTED for coursed ashlar, a carved frieze and a glowing god-ray beam. Full-bleed."
     },
     {
       "scene_id": "VAL-EP001-IMG0439",
@@ -218,13 +210,13 @@
       ],
       "file_path": "assets/batch_044/VAL-EP001-IMG0439.png",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": null,
-      "size_bytes": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "PENDING_GENERATION",
-      "qc_note": "NOT YET RENDERED - the turn's ten-generation cap was exhausted by the Sothoryos half and the 0436/0438 rejects. Brief: 24mm ultra-wide from the caldera floor, clustered hexagonal basalt prisms, thin dark grey smoke, three four-limbed dragons at different heights all in shadow, only one narrow dull red floor seam as light."
+      "drive_file_id": "1WO8AJxrPJqh0pprJjUH1586ofOkHmpYX",
+      "drive_url": "https://drive.google.com/file/d/1WO8AJxrPJqh0pprJjUH1586ofOkHmpYX/view?usp=drivesdk",
+      "md5": "9fcc65bfa4a8e189d6972ed17cdd2a33",
+      "size_bytes": 2187343,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 24mm from the caldera rim: the whole collapsed basin as a broken field of black rock and rubble cut by fissures, the far wall rising in shattered steps into cold mist, thin dark plumes bending one way, flat overcast above. Two dragons in flight, no larger than thumbnails, one low and one climbing toward the far rim. The widest statement of the dying-out line: a vast empty place with two animals left in it. Full-bleed."
     },
     {
       "scene_id": "VAL-EP001-IMG0440",
@@ -241,13 +233,15 @@
       ],
       "file_path": "assets/batch_044/VAL-EP001-IMG0440.png",
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5": null,
-      "size_bytes": null,
-      "md5_verified_on_drive": false,
-      "qc_status": "PENDING_GENERATION",
-      "qc_note": "NOT YET RENDERED - the turn's ten-generation cap was exhausted by the Sothoryos half and the 0436/0438 rejects. Brief: 24mm ultra-wide from the caldera floor, clustered hexagonal basalt prisms, thin dark grey smoke, three four-limbed dragons at different heights all in shadow, only one narrow dull red floor seam as light."
+      "drive_file_id": "1daSereK3AZx52ASyeF-oDKMrxjzE__lT",
+      "drive_url": "https://drive.google.com/file/d/1daSereK3AZx52ASyeF-oDKMrxjzE__lT/view?usp=drivesdk",
+      "md5": "ef08323951f9c53a52210d4ad8c604c3",
+      "size_bytes": 1470476,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 50mm head and neck study in profile: near-black overlapping plates edged with faint dull bronze, twin swept-back obsidian horns lying flat along the skull, one brass-gold eye with a vertical slit open and calm, jaw closed, a fine crust of grey ash along the snout and horn ridges, one thread of thin grey smoke soft behind. The strongest dragon frame of the production and the best head study: watchful, entirely without malice, unreadable. Reframed rows 12-755."
     }
-  ]
+  ],
+  "md5_verification_note": "Folder listing re-read after the tenth upload. All ten names, sizes and checksums match local md5sum: 1c941808605cae21efdee8675443d3d1, 463d9421fa6adcc1f809185a1f925c44, dbb15faa9d5f10e6f0dab84217a1b390, 053c19ecdbe65009e8845d8c69f3adb5, 23f526c010d811c727814bfc549dcc15, 3f20e02887fa791d44999455c7bcb0a8, bd89397342a2167c234463895dceae9d, 9af1ed782e1885bc1270eff8df5495f2, 9fcc65bfa4a8e189d6972ed17cdd2a33, ef08323951f9c53a52210d4ad8c604c3.",
+  "caldera_fix_note": "The anti-architecture brief worked on the first attempt. Describing the rock positively as hexagonal prisms of wildly uneven height with jagged snapped tops, toppled blocks, rubble and scree, gaps into black fissures and NO ceiling - plus naming masonry courses, ashlar, dressed stone, walls, arches, vaults, rose window, carved frieze, pilasters, capitals, plinths, symmetry, light shafts and god rays as forbidden - produced raw geology instead of a nave in both frames that had failed the same way."
 }

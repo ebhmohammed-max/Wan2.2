@@ -48,10 +48,11 @@
     40,
     41,
     42,
-    43
+    43,
+    44
   ],
-  "next_batch": 44,
-  "next_image_number": 436,
+  "next_batch": 45,
+  "next_image_number": 441,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1932,8 +1933,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-12T00:15:00Z",
-  "verified_progress_percent": "42.10%",
+  "last_updated": "2026-11-12T01:30:00Z",
+  "verified_progress_percent": "42.48%",
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3629,7 +3630,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 442,
+  "verified_image_count": 446,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -8373,21 +8374,97 @@
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0436",
+      "timestamp": "14:30–14:32",
+      "narration_slice": "Those scattered skeletons suggest",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-001"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1Cip0cWevI_ed7md8klQzfKFQonqKun4I",
+      "drive_url": "https://drive.google.com/file/d/1Cip0cWevI_ed7md8klQzfKFQonqKun4I/view?usp=drivesdk",
+      "md5": "3f20e02887fa791d44999455c7bcb0a8",
+      "size_bytes": 1401373,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0438",
+      "timestamp": "14:34–14:36",
+      "narration_slice": "ranged across much of",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-001"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1qZgak7m56QmZ7v391MYimZZQKFP-jmQa",
+      "drive_url": "https://drive.google.com/file/d/1qZgak7m56QmZ7v391MYimZZQKFP-jmQa/view?usp=drivesdk",
+      "md5": "9af1ed782e1885bc1270eff8df5495f2",
+      "size_bytes": 2166904,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0439",
+      "timestamp": "14:36–14:38",
+      "narration_slice": "the prehistoric world, dying out",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-001"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1WO8AJxrPJqh0pprJjUH1586ofOkHmpYX",
+      "drive_url": "https://drive.google.com/file/d/1WO8AJxrPJqh0pprJjUH1586ofOkHmpYX/view?usp=drivesdk",
+      "md5": "9fcc65bfa4a8e189d6972ed17cdd2a33",
+      "size_bytes": 2187343,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0440",
+      "timestamp": "14:38–14:40",
+      "narration_slice": "everywhere else over unrecorded",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-001"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "drive_file_id": "1daSereK3AZx52ASyeF-oDKMrxjzE__lT",
+      "drive_url": "https://drive.google.com/file/d/1daSereK3AZx52ASyeF-oDKMrxjzE__lT/view?usp=drivesdk",
+      "md5": "ef08323951f9c53a52210d4ad8c604c3",
+      "size_bytes": 1470476,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
     }
   ],
-  "batch_044_status": "PARTIAL_6_OF_10_UPLOADED_MD5_VERIFIED_0436_0438_REJECTED_0439_0440_PENDING",
+  "batch_044_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
   "batch_044_drive_folder_id": "1j9IIT65EP0Ac8j3E-TJrwD3em48RKXv3",
-  "batch_044_drive_verified_count": 6,
-  "batch_044_pending_rerender_scenes": [
-    "VAL-EP001-IMG0436",
-    "VAL-EP001-IMG0438"
-  ],
-  "batch_044_pending_completion_scenes": [
-    "VAL-EP001-IMG0436",
-    "VAL-EP001-IMG0438",
-    "VAL-EP001-IMG0439",
-    "VAL-EP001-IMG0440"
-  ],
+  "batch_044_drive_verified_count": 10,
+  "batch_044_pending_rerender_scenes": [],
+  "batch_044_pending_completion_scenes": [],
   "soth_jungle_location_lock": "New location. Steaming, plague-ridden, oppressive jungle of Sothoryos: wet black loam, grey limestone, buttress-rooted hardwoods, strangler vines, moss in sodden ropes, standing black water, steam and haze. Flat diffused steam-filtered light only - NO golden light, NO sunbeams, NO sun disc, NO bright blue sky, NO turquoise water, NO beach, NO bright flowers, NO postcard tropics. Palette is deep green-brown, ochre mud, grey limestone, black water and pale steam. Bone is black fossil, moss-taken, with roots grown through it and rings of concentric lamellae at any fractured face. No faces and no maester or Citadel figure.",
   "caldera_architecture_ban": "REPEAT OFFENDER (Batch 031, re-confirmed Batch 044). LOC-VAL-003 must never render as a built cathedral. The prompt must describe the rock POSITIVELY - hexagonal basalt prisms of uneven height, no capitals, no drum sections, no plinths, jagged broken tops, collapsed rubble and darkness for a ceiling - and must negate by name: masonry courses, ashlar blocks, dressed stone, walls, arches, vaults, rose windows, carved frieze, pilasters, built symmetry, light shafts and glowing god rays."
 }

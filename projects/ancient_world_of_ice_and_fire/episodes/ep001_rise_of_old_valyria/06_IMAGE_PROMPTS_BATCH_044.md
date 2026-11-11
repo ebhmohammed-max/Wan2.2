@@ -16,7 +16,7 @@
 - Bone is black fossil, moss-taken, roots grown through it, and any fractured face shows **concentric lamellae** — the detail that proves bone rather than timber.
 - Wyverns as **silhouettes only**: small, distant, no fire, no colour. No faces, no maester, no expedition.
 
-**Render/QC status:** **6 of 10 approved and uploaded · 2 REJECTED · 2 not yet rendered.** Five letterbox crops.
+**Render/QC status:** **COMPLETE — 10 of 10 approved, uploaded and MD5-verified.** **Both rejects fixed on the first re-render** with the anti-architecture brief; six letterbox crops.
 
 | Frame | Status | Note |
 | :--- | :--- | :--- |
@@ -25,11 +25,11 @@
 | `IMG0433` | ✅ Approved, uploaded | 85mm: the split bone holding a mirror-still black pool, one leaf. Reframed 12–755. |
 | `IMG0434` | ✅ Approved, uploaded | 100mm: the crimson-seeded seedling in the bone socket. *Note: greens slightly lush.* Reframed 12–755. |
 | `IMG0435` | ✅ Approved, uploaded | 40mm: two wyverns as distant silhouettes over the muddy river. Reframed 12–755. |
-| `IMG0436` | ❌ **REJECTED** | **Built cathedral nave** — fluted columns with capitals, rose-window aperture, plus lava bloom and white steam. |
+| `IMG0436` | ✅ Approved, uploaded | **Pass 1 rejected** as a built cathedral nave; **pass 2 approved.** Broken prisms, rubble, one ember seam. Reframed 12–755. |
 | `IMG0437` | ✅ Approved, uploaded | **Best dragon frame of the production.** 40mm OTS; four limbs confirmed at 2x. Reframed 40–727. |
-| `IMG0438` | ❌ **REJECTED** | Cour sed ashlar masonry and a carved frieze; glowing white god-ray beam. Same root cause. |
-| `IMG0439` | ⏳ **PENDING** | Not rendered — cap exhausted by the jungle half and the two rejects. |
-| `IMG0440` | ⏳ **PENDING** | Not rendered — same. |
+| `IMG0438` | ✅ Approved, uploaded | **Pass 1 rejected** for ashlar, frieze and a god-ray beam; **pass 2 approved.** Three dragons among rubble and vitrified glass. |
+| `IMG0439` | ✅ Approved, uploaded | 24mm from the rim: the whole collapsed basin, two dragons in flight no larger than thumbnails. Full-bleed. |
+| `IMG0440` | ✅ Approved, uploaded | **Best head study of the production.** 50mm profile, brass-gold slit eye, ash-dusted snout. Reframed 12–755. |
 
 **The repeat offender: the caldera keeps rendering as a cathedral.** `IMG0310` failed this way in Batch 031, and `0436` and `0438` both failed it again in the same batch. The mechanism is now clear and written into the bible: **"hexagonal basalt pillars rising to a lost ceiling" is read by the model as architecture**, because the phrase describes a *colonnade with a vault*. The fix is to describe rock as rock — prisms of uneven height, jagged broken tops, no capitals, no drum sections, no plinths, a ceiling of collapsed rubble and darkness — and to negate masonry, ashlar, arches, vaults, rose windows, frieze, pilasters and light shafts **by name**. Batch 031 learned this and it was not carried forward as a hard rule; it is now `9b` in the location bible.
 
@@ -43,4 +43,6 @@
 4. **Deferral is cheaper than compromise, but two rejects in one batch is a signal, not bad luck.** Both came from the same prompt pattern; the pattern is now banned in writing rather than hoped against.
 5. **Silhouettes carry mythic scale; detail destroys it.** `0435`'s wyverns are two dark marks in a grey sky and they are more convincing than any rendered creature would be at that distance.
 
-**Next — Batch 045 (`IMG0441`–`0450`, `14:40–15:00`):** returns to the caldera with `LOC-VAL-003` and `DRG-VAL-001` as the taming riddle resolves. **Order of work:** re-render `0436` and `0438` first with the new anti-architecture brief, then render `0439` and `0440`, then open 045.
+**The fix, verified.** Both rejects were re-rendered once and both passed. `0436` now reads as a shattered forest of prisms with toppled blocks and a single ember seam in a floor crack; `0438` as rubble, broken tops and plates of vitrified glass with three dragons at different heights and a small dim aperture above. **No capitals, no plinth, no vault, no symmetry, no shaft.** Describing rock as rock — and naming every architectural term as forbidden — is what worked, on the first attempt, on both frames. `9b` in the location bible is now the standing rule.
+
+**Next — Batch 045 (`IMG0441`–`0450`, `14:40–15:00`):** returns to the caldera with `LOC-VAL-003` and `DRG-VAL-001` as the taming riddle resolves. **Use the `9b` anti-architecture brief as the default** for every caldera frame from here; do not wait for a failure to apply it.
