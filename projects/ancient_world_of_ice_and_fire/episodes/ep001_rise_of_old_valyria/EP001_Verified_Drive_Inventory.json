@@ -47,10 +47,11 @@
     39,
     40,
     41,
-    42
+    42,
+    "43_partial"
   ],
   "next_batch": 43,
-  "next_image_number": 421,
+  "next_image_number": 430,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1931,8 +1932,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-11T21:10:00Z",
-  "verified_progress_percent": "40.57%",
+  "last_updated": "2026-11-11T22:40:00Z",
+  "verified_progress_percent": "41.43%",
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3628,7 +3629,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 426,
+  "verified_image_count": 435,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -8072,5 +8073,177 @@
   "batch_042_drive_verified_count": 10,
   "batch_042_pending_rerender": 0,
   "batch_042_note": "The fable's climax. 0411 the teller and his listeners; 0412-0415 two moons over Qarth at four scales; 0416 the crack - a shell splitting along a branching fracture, cold white-blue, never an explosion; 0417 chalky shell shards on the paving; 0418 a listener's awe; 0419 the myth back in weathered hands; 0420 the empty terrace and the split moon. All ten approved pass 1, rendered twice after a sandbox reset destroyed the first set.",
-  "qarth_two_moons_note": "Two moons are canon for the Qartheen fable from batch 042 onward and must not appear in any other location's sky. They are material objects: one large silvery-cream with a mottled grey surface, one smaller duller bronze-grey, both pale and cold with no halo, in an indigo sky. Their fracture is a branching shell crack filled with cold white-blue light."
+  "qarth_two_moons_note": "Two moons are canon for the Qartheen fable from batch 042 onward and must not appear in any other location's sky. They are material objects: one large silvery-cream with a mottled grey surface, one smaller duller bronze-grey, both pale and cold with no halo, in an indigo sky. Their fracture is a branching shell crack filled with cold white-blue light.",
+  "batch_043_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0421",
+      "timestamp": "14:00–14:02",
+      "narration_slice": "Yet the Citadel could",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1xD0S9fVp7OrhCTYA3Un55rfhZQBVmYlr",
+      "drive_url": "https://drive.google.com/file/d/1xD0S9fVp7OrhCTYA3Un55rfhZQBVmYlr/view?usp=drivesdk",
+      "md5": "7c329e34f3459c36a04dd16687ec8819",
+      "size_bytes": 1613259,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0422",
+      "timestamp": "14:02–14:04",
+      "narration_slice": "not so easily dismiss harder",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1FZLiW-7EFavjvmpNRZH4trDufIuj9Jl9",
+      "drive_url": "https://drive.google.com/file/d/1FZLiW-7EFavjvmpNRZH4trDufIuj9Jl9/view?usp=drivesdk",
+      "md5": "4be8d73ce341123e1bbe4c1068ad9172",
+      "size_bytes": 2509966,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0423",
+      "timestamp": "14:04–14:06",
+      "narration_slice": "evidence pulled from the",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1QA3ulisW_8oUpxLLT-lqQc-0xQi--0sf",
+      "drive_url": "https://drive.google.com/file/d/1QA3ulisW_8oUpxLLT-lqQc-0xQi--0sf/view?usp=drivesdk",
+      "md5": "7926a0d03f0d274286a19ea3d6b55b84",
+      "size_bytes": 2228637,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0424",
+      "timestamp": "14:06–14:08",
+      "narration_slice": "soil of distant lands.",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1vocrYYdElKbb9O3aXMl-wCsjeKac0fLG",
+      "drive_url": "https://drive.google.com/file/d/1vocrYYdElKbb9O3aXMl-wCsjeKac0fLG/view?usp=drivesdk",
+      "md5": "6310d53ce7711efa76795400f0e6ad16",
+      "size_bytes": 1434421,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0425",
+      "timestamp": "14:08–14:10",
+      "narration_slice": "As Maester Yandel records,",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "18sufS_gKYje0wXRgTKU3CWA8wmz2rjVs",
+      "drive_url": "https://drive.google.com/file/d/18sufS_gKYje0wXRgTKU3CWA8wmz2rjVs/view?usp=drivesdk",
+      "md5": "506f54b5d716f72baae61598288a723c",
+      "size_bytes": 2569419,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0426",
+      "timestamp": "14:10–14:12",
+      "narration_slice": "fossilized and weathered dragon bones",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1t2iUKbpiurf0FOpRLnwiM0Q80KTpXnT8",
+      "drive_url": "https://drive.google.com/file/d/1t2iUKbpiurf0FOpRLnwiM0Q80KTpXnT8/view?usp=drivesdk",
+      "md5": "5520e757eafed76f533b3af87be28df0",
+      "size_bytes": 2245754,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0427",
+      "timestamp": "14:12–14:14",
+      "narration_slice": "have been unearthed thousands",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1qlmKrB09Y36YocA03XvPZBVlWUOp3NwI",
+      "drive_url": "https://drive.google.com/file/d/1qlmKrB09Y36YocA03XvPZBVlWUOp3NwI/view?usp=drivesdk",
+      "md5": "6e5880c9acc887811c1aa57ed9c19b2d",
+      "size_bytes": 2403170,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0428",
+      "timestamp": "14:14–14:16",
+      "narration_slice": "of leagues from Valyria—from",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1BlM9PgOu_P-UNA_C958lWekr-5jw67Yl",
+      "drive_url": "https://drive.google.com/file/d/1BlM9PgOu_P-UNA_C958lWekr-5jw67Yl/view?usp=drivesdk",
+      "md5": "a445135d7a37103ac215aad5ce49b2a6",
+      "size_bytes": 2486748,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0429",
+      "timestamp": "14:16–14:18",
+      "narration_slice": "the bleak, icy wastes",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "drive_file_id": "1tA574fqsFDWH2gix5QcRlWiKkwCnH4Ua",
+      "drive_url": "https://drive.google.com/file/d/1tA574fqsFDWH2gix5QcRlWiKkwCnH4Ua/view?usp=drivesdk",
+      "md5": "e211e00cb1d1aaf26218c046a8138433",
+      "size_bytes": 2155856,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    }
+  ],
+  "batch_043_status": "PARTIAL_9_OF_10_UPLOADED_MD5_VERIFIED_0430_PENDING",
+  "batch_043_drive_folder_id": "1w9Xczie7SqQ7yocoD6f6OHsf7NcINK40",
+  "batch_043_drive_verified_count": 9,
+  "batch_043_pending_completion_scenes": [
+    "VAL-EP001-IMG0430"
+  ],
+  "batch_043_note": "The film leaves the fable for evidence: fossilised dragon bone on the coast of Ib. One re-render: 0421 pass 1 produced a complete, neatly arced, upright ribcage that read as a mounted museum skeleton, and the approved pass collapses and scatters the remains in snow. 0423 is the clearest statement of the evidence, 0424 the widest, 0427 the most tactile, 0426 the only sustained physical labour in the episode. 0425 approved with a note (knitted beanie rather than seal-fur hood).",
+  "coast_of_ib_location_lock": "New location, snow and ice permitted HERE AND ONLY HERE - the standing no-snow ban is on record as peninsula-scoped, so Ib does not violate it. Cold desaturated Arctic: black basalt shore shelves, blue-grey sea, white-blue snow and permafrost with sastrugi ridges, pewter overcast sky with no sun and no break, wind-driven spindrift and spray, no warm light, no golden hour, no sunset, no aurora, no blue sky, no green, no vegetation, no trees. Fossil bone is stone-dark grey-black, wet where scoured and pale-dusted where dry, pitted and veined with pale mineral. Only fragments, arcs and sections - never a complete mounted skeleton standing upright, never a tidy symmetric ribcage, never a museum display. Four-limbed anatomy preserved: one pair of wings, one pair of hind legs. Ibbenese whalers are anonymous: tarred oilskins, matted seal-fur collars, hoods, faces never visible. No maester or Citadel figure is ever shown."
 }
