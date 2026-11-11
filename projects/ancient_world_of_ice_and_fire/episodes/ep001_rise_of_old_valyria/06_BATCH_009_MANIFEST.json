@@ -1,0 +1,221 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "visual_style_standard": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location cinematography (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade: warm sandstone highlights, muted earth/stone/bronze midtones, deep ink-navy shadows)",
+  "style_reference_benchmark": "The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_number": 9,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "02:40–03:00",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "COMPLETE_10_OF_10_QC_APPROVED_AND_UPLOADED",
+  "pending_completion_scenes": [],
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0081",
+      "timestamp": "02:40–02:42",
+      "shot_lens": "MS · 35mm",
+      "narration_slice": "peoples blossomed across Essos—while Valyria",
+      "shot_type": "Thriving Bronze-Age Coastal Trade Caravan Overlooking Distant Volcanic Valyria (35mm)",
+      "visual_beat": "65mm coastal trade-road wide: copper-laden ox-carts & Bronze-Age merchants above mudbrick port while unknown smoking volcanic peaks of Valyria brood across sea",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_009/VAL-EP001-IMG0081.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2702586,
+      "md5": "c52830e4e0049d8c9339dbf0cf626a47",
+      "resolution": "1376x768",
+      "drive_file_id": "1qWg0qCc60tbnFGcvbqLYvj4k8zMhhPFb",
+      "drive_url": "https://drive.google.com/file/d/1qWg0qCc60tbnFGcvbqLYvj4k8zMhhPFb/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0082",
+      "timestamp": "02:42–02:44",
+      "shot_lens": "MCU · 65mm",
+      "narration_slice": "remained unknown. Across the northern",
+      "shot_type": "Uninhabited Basalt Sea-Cliffs & Smoking Cones of Pre-Historic Valyria (65mm)",
+      "visual_beat": "65mm coastal telephoto: uninhabited black basalt cliffs, sulfur fumaroles & dark Fourteen Flames cones above wave-lashed black sand with zero buildings",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_009/VAL-EP001-IMG0082.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 1984223,
+      "md5": "3c6d98f9e42438ba872bebfdebce813f",
+      "resolution": "1376x768",
+      "drive_file_id": "1EXD5em3HA9v0Hu6dxT8kjlDugzy_jzQF",
+      "drive_url": "https://drive.google.com/file/d/1EXD5em3HA9v0Hu6dxT8kjlDugzy_jzQF/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0083",
+      "timestamp": "02:44–02:46",
+      "shot_lens": "MS · 50mm",
+      "narration_slice": "grasslands roamed the Qaathi and",
+      "shot_type": "Early Bronze-Age Qaathi Wagon-Clans & Steppe Riders Across Northern Grasslands (50mm)",
+      "visual_beat": "65mm steppe tracking wide: early Qaathi pastoralists in ochre-indigo wool & bronze chest-discs guiding hide-canopied ox-wagons through golden grasslands under storm sky",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_009/VAL-EP001-IMG0083.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2718910,
+      "md5": "3e37848c70489ee4557c474b8b056e5d",
+      "resolution": "1376x768",
+      "drive_file_id": "1pDhUwQVEDqyBfFPlxwmhzRw9lAI4u22x",
+      "drive_url": "https://drive.google.com/file/d/1pDhUwQVEDqyBfFPlxwmhzRw9lAI4u22x/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0084",
+      "timestamp": "02:46–02:48",
+      "shot_lens": "WS · 35mm",
+      "narration_slice": "early fisher-kings of the Silver",
+      "shot_type": "Archaic Fisher-King of the Inland Silver Sea & Longboat Catch (35mm)",
+      "visual_beat": "65mm shingle-shore wide: silver-circleted Fisher-King in fur-trimmed cloak beside brazier & cedar longboats as fishermen haul gleaming silver fish",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_009/VAL-EP001-IMG0084.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 1993678,
+      "md5": "048551f69c2ad31268db87bea84673a6",
+      "resolution": "1376x768",
+      "drive_file_id": "1rf8AOsJOCkiUzgxKsTCwzKyY5toMYvT2",
+      "drive_url": "https://drive.google.com/file/d/1rf8AOsJOCkiUzgxKsTCwzKyY5toMYvT2/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0085",
+      "timestamp": "02:48–02:50",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "Sea, while along the gentle",
+      "shot_type": "Willow-Draped Riverbank Bluff Opening Onto the Gentle Mother Rhoyne (24mm)",
+      "visual_beat": "65mm willow-bluff ultra-wide: shadowed weeping-willow branches & natural mossy boulders framing golden afternoon waters, lateen skiffs & rose-sandstone pavilions of Mother Rhoyne",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_009/VAL-EP001-IMG0085.png",
+      "qc_status": "APPROVED_65MM_V2",
+      "size_bytes": 2554170,
+      "md5": "30a1f74ddfa919fada8ba44fd3be4216",
+      "resolution": "1376x768",
+      "drive_file_id": "1WAvPZkQSwMhy5kkiABt0aUYikKiok1Np",
+      "drive_url": "https://drive.google.com/file/d/1WAvPZkQSwMhy5kkiABt0aUYikKiok1Np/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0086",
+      "timestamp": "02:50–02:52",
+      "shot_lens": "LAM · 24mm",
+      "narration_slice": "silver expanse of the Mother",
+      "shot_type": "Water-Level Expanse of the Mother Rhoyne With Giant River Turtle & Gilded Skiffs (24mm)",
+      "visual_beat": "65mm water-skimming wide: giant mossy-shelled river turtle surfacing in ink-navy ripples before gilded lateen skiffs on endless golden-mist expanse of Mother Rhoyne",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_009/VAL-EP001-IMG0086.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2437082,
+      "md5": "663bf7de12fde133fe2d7a08d7395836",
+      "resolution": "1376x768",
+      "drive_file_id": "1dmwIiWVI92-0s59STnMfWzQhs0g39liv",
+      "drive_url": "https://drive.google.com/file/d/1dmwIiWVI92-0s59STnMfWzQhs0g39liv/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0087",
+      "timestamp": "02:52–02:54",
+      "shot_lens": "DET · 85mm",
+      "narration_slice": "Rhoyne, the early Rhoynar",
+      "shot_type": "Early Rhoynar Artisans & Elders on Spiral-Carved Rose-Sandstone Bridge (85mm)",
+      "visual_beat": "65mm telephoto waterfront medium: olive-skinned Rhoynar potters & weavers in saffron-cream linen beside spiral-wave bridge carvings & sunlit lateen skiffs",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_009/VAL-EP001-IMG0087.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2933898,
+      "md5": "b7ee75aecd54143a034206286840d5fb",
+      "resolution": "1376x768",
+      "drive_file_id": "13TCnCC4BHeA6RjCGJw6aFSUFG9wwnZX5",
+      "drive_url": "https://drive.google.com/file/d/13TCnCC4BHeA6RjCGJw6aFSUFG9wwnZX5/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0088",
+      "timestamp": "02:54–02:56",
+      "shot_lens": "CU · 85mm",
+      "narration_slice": "raised peaceful river-towns of music",
+      "shot_type": "Rhoynar Lyre & Double-Reed Musicians Inside Open Rose-Sandstone Water-Pavilion (85mm)",
+      "visual_beat": "65mm water-pavilion portrait: Rhoynar female lyre-player & bearded reed-piper in saffron-indigo linen framed by sandstone columns & glittering River Rhoyne",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_009/VAL-EP001-IMG0088.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2933749,
+      "md5": "7f9175f135a1fd01bd70f53f22b17212",
+      "resolution": "1376x768",
+      "drive_file_id": "129fMGu2d0LxBQn_TIcdVxd2xatKPYChG",
+      "drive_url": "https://drive.google.com/file/d/129fMGu2d0LxBQn_TIcdVxd2xatKPYChG/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0089",
+      "timestamp": "02:56–02:58",
+      "shot_lens": "DET · 100mm",
+      "narration_slice": "and craft, becoming perhaps the",
+      "shot_type": "Macro Study of Rhoynar Master Smith Hammering Glowing Wrought-Iron Bloom (100mm)",
+      "visual_beat": "65mm riverside anvil macro: Rhoynar smith's tongs & hammer striking incandescent sparks from spongy wrought-iron bloom with turning waterwheel in soft bokeh",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_009/VAL-EP001-IMG0089.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2628215,
+      "md5": "5aa06741a033a179711e7ec5815eae0f",
+      "resolution": "1376x768",
+      "drive_file_id": "1AKLYw6rnMbtP0DkbsxxpLqhEqD1o9Sc3",
+      "drive_url": "https://drive.google.com/file/d/1AKLYw6rnMbtP0DkbsxxpLqhEqD1o9Sc3/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0090",
+      "timestamp": "02:58–03:00",
+      "shot_lens": "WS · 40mm",
+      "narration_slice": "first mortals to smelt iron.",
+      "shot_type": "Waterwheel & Conical Bloomery Iron Furnace Overlooking Mother Rhoyne City (40mm)",
+      "visual_beat": "65mm riverside terrace wide: two Rhoynar smiths tending roaring conical clay-and-stone bloomery iron furnace beside wooden waterwheel & golden-lit Rhoynar city",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_009/VAL-EP001-IMG0090.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2761329,
+      "md5": "bcb07758b712af2dc6338c707b7446b5",
+      "resolution": "1376x768",
+      "drive_file_id": "1mRWJplSxfhTvszr64D2PdWCBC7k2imeh",
+      "drive_url": "https://drive.google.com/file/d/1mRWJplSxfhTvszr64D2PdWCBC7k2imeh/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    }
+  ],
+  "batch_drive_folder_id": "1RmpAC5zaJ0gIpJhYzKfuwnTrBfKKkW-L",
+  "batch_drive_folder_url": "https://drive.google.com/drive/folders/1RmpAC5zaJ0gIpJhYzKfuwnTrBfKKkW-L"
+}

@@ -1,0 +1,232 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1WS3SDLpvsAo1JAs-bb2-RoW1DrfyWrzK",
+  "batch_drive_folder_name": "Batch_042_Images_0411-0420_Cracked_Moon_And_Thousand_Dragons_13m40s-14m00s",
+  "batch_number": 42,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "13:40–14:00",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "approved_uploaded_count": 10,
+  "drive_verified_count": 10,
+  "pending_rerender_count": 0,
+  "pending_completion_scenes": [],
+  "generations_used": 24,
+  "generations_note": "Ten rendered, then a sandbox reset destroyed the working assets and reverted HEAD mid-turn; all ten were re-rendered from the same briefs (10 + 10 = 20 image calls, plus re-verification). No frame was lost from the approved set and no creative decision changed. Assets are now uploaded immediately after render and the manifest committed before the upload loop completes.",
+  "verified_episode_frames_after_batch": 426,
+  "verified_episode_percent_after_batch": "40.57%",
+  "visual_qc_note": "The fable's climax. 0411 establishes the teller and a listening crowd, 0412-0415 build the two moons over the city in four different scales, 0416 is the crack itself - a shell splitting along a branching fracture filled with cold white-blue light, never an explosion - 0417 makes it physical with chalky shell shards on the paving, 0418 is the human cost of believing it, 0419 puts the myth back in the storyteller's hands, and 0420 leaves the empty terrace and the broken moon. The register is deliberately cool: two moons in indigo, silver and bronze, and no warmth anywhere.",
+  "silhouette_note": "No dragon appears in this batch. The narration promises a thousand thousand dragons across the heavens, but the storyboard beat was written for the moons and the crowd, and a swarm of bodies would have broken both the silhouette discipline and the cool register. The spill is carried entirely by the cracking shell and the shards in 0416-0417; the dragons stay in the voiceover, which is where the fable belongs.",
+  "letterbox_scan_note": "Per-row content-box scan on all ten. Five carried strips and were cropped to 1376x768: 0412, 0413, 0415 and 0419 at rows 12-755, and 0414 at rows 12-756. 0411, 0416, 0417, 0418 and 0420 were full-bleed.",
+  "new_location_note": "QARTH-MYTHIC continues from batch 041 with the same lock: pale carved sandstone, arched colonnades, tiered towers, silk in indigo and violet, deep twilight, pale blue-white lamps, no gold, no sun, no warm light, no legible script, and Qartheen figures who are never portraits. Two moons are now canon for the fable and must not appear in any other location's sky.",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0411",
+      "timestamp": "13:40–13:42",
+      "narration_slice": "hung above the earth,",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_042/VAL-EP001-IMG0411.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1PjvHLAlBCW0sMX5UK6cXHwP-7Fy1nVd5",
+      "drive_url": "https://drive.google.com/file/d/1PjvHLAlBCW0sMX5UK6cXHwP-7Fy1nVd5/view?usp=drivesdk",
+      "md5": "23743f058da6639d782fc47bf6fc2659",
+      "size_bytes": 2106636,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1 (final render). 35mm lateral tracking along the terrace: the storyteller in violet silk seated against the carved parapet, arm raised, and twenty-odd listeners in loose rows before him — long pale robes, dark head-wraps, indigo drapery, all faces turned from the lens or lost in shadow. Cool white lamp sconces, the tiered city and a flat dark sea behind. The fable is being told and the crowd is unquestionably listening. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0412",
+      "timestamp": "13:42–13:44",
+      "narration_slice": "until one wandered too close",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_042/VAL-EP001-IMG0412.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1ULDou8cW_1Dgn2KcGpjZK0KbwJHYgC18",
+      "drive_url": "https://drive.google.com/file/d/1ULDou8cW_1Dgn2KcGpjZK0KbwJHYgC18/view?usp=drivesdk",
+      "md5": "23b93ac4dfa75cc2c0e76f10d264215d",
+      "size_bytes": 1080819,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 65mm compressed telephoto straight up: two moons, the large silvery-cream one low and the smaller duller bronze-grey one high, in a deep indigo sky with a dense scatter of cold stars, framed between two vast dark towers. Qartheen roofs and a few pale lamps along the bottom. Pure myth, no figure, no halo, no warmth. Best sky frame of the batch. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0413",
+      "timestamp": "13:44–13:46",
+      "narration_slice": "to the sun and",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_042/VAL-EP001-IMG0413.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1zrAE9Gb111FcxDVNE4CUgqUQTOfe_-lX",
+      "drive_url": "https://drive.google.com/file/d/1zrAE9Gb111FcxDVNE4CUgqUQTOfe_-lX/view?usp=drivesdk",
+      "md5": "75b4ce2191df39244de99b661087c2b6",
+      "size_bytes": 1233475,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 50mm from behind seven listeners on the terrace — pale robes, violet and indigo drapes, one figure with a hand raised to shade the eyes — their dark silhouettes across the lower third under the two moons and a faint violet band of last light. Serene and quietly expectant. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0414",
+      "timestamp": "13:46–13:48",
+      "narration_slice": "cracked from the heat like",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_042/VAL-EP001-IMG0414.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1z7idumSGxR3WpwP0aA-3dfi-tCJc6ygp",
+      "drive_url": "https://drive.google.com/file/d/1z7idumSGxR3WpwP0aA-3dfi-tCJc6ygp/view?usp=drivesdk",
+      "md5": "6aae0111b70c8f146fc03146113e1225",
+      "size_bytes": 1170755,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 35mm wide tableau of the whole terrace: thirty or more Qartheen standing in rows with their backs to us, plumes of pale and violet drapery, the carved balustrade, then the dark roofs, the harbour and the black sea, with the two moons small and close together in a deep indigo sky. The moment the city becomes an audience. Reframed rows 12-756."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0415",
+      "timestamp": "13:48–13:50",
+      "narration_slice": "a giant egg, spilling",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_042/VAL-EP001-IMG0415.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1jH_HPdlkfFeqmyrsXk3fjdALdNXYtBpr",
+      "drive_url": "https://drive.google.com/file/d/1jH_HPdlkfFeqmyrsXk3fjdALdNXYtBpr/view?usp=drivesdk",
+      "md5": "748a246e532a0059483691688b321fbe",
+      "size_bytes": 1192100,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 24mm from a high tower: the whole of Qarth as a dark field of roofs, domes and needle-thin towers dotted with cool blue-white lamps, running out to a harbour and a flat sea under a violet horizon, with the two moons hanging far out over the water and a crenellated tower black in the left foreground. The widest statement of scale in the episode so far. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0416",
+      "timestamp": "13:50–13:52",
+      "narration_slice": "a thousand thousand dragons across",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_042/VAL-EP001-IMG0416.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1IS6DwrdXE3rex7JGkLG4S0UIHcVXiyv2",
+      "drive_url": "https://drive.google.com/file/d/1IS6DwrdXE3rex7JGkLG4S0UIHcVXiyv2/view?usp=drivesdk",
+      "md5": "14a2c10fe15c28718eec894dc3442cf0",
+      "size_bytes": 2043274,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1 — the climax frame. 24mm tilted steeply up: the great moon has split along a jagged branching fracture running edge to edge, the seam filled with a cold white-blue light and the two halves beginning to part. Flakes of pale shell drift outward and hang in the air. The second bronze moon sits small and unchanged at the upper left; Qartheen towers stand black along the bottom. A shell cracking, never an explosion. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0417",
+      "timestamp": "13:52–13:54",
+      "narration_slice": "the heavens after they",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_042/VAL-EP001-IMG0417.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1Cui-L_jqYXSimAt0Qrx4px15pky-87Fn",
+      "drive_url": "https://drive.google.com/file/d/1Cui-L_jqYXSimAt0Qrx4px15pky-87Fn/view?usp=drivesdk",
+      "md5": "90f4d7e89173d165ecbab364285e0280",
+      "size_bytes": 2345740,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 85mm macro on the roof paving: a dozen curved shards of thin chalky pale shell scattered across the carved stone, bright fractured edges and mottled grey interiors, one large piece still holding the curve of a sphere, two lodged in a gutter with grit. Cold blue-white light from above, everything else in shadow. The most tactile frame of the batch and the one that makes the myth physical. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0418",
+      "timestamp": "13:54–13:56",
+      "narration_slice": "had drunk the sun's own",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_042/VAL-EP001-IMG0418.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1sMvOySXgzUFrQc21c-56JfVOPRcw8lO3",
+      "drive_url": "https://drive.google.com/file/d/1sMvOySXgzUFrQc21c-56JfVOPRcw8lO3/view?usp=drivesdk",
+      "md5": "8d8c4a2c730f60ad8dc321a25b07f3c6",
+      "size_bytes": 2001526,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 85mm close-up: a Qartheen woman in a dark head-wrap with her chin lifted and her mouth faintly open, one hand coming to her throat, lit hard and cold from above by the light of the broken moon, a soft violet shoulder in the left foreground. Profile only — the face is incidental, the awe is the subject. The single strongest human beat of the batch. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0419",
+      "timestamp": "13:56–13:58",
+      "narration_slice": "fire. Maesters of the",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_042/VAL-EP001-IMG0419.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1-QxxvWYIKLqxsDGh80E9LvrOc7BWtCdU",
+      "drive_url": "https://drive.google.com/file/d/1-QxxvWYIKLqxsDGh80E9LvrOc7BWtCdU/view?usp=drivesdk",
+      "md5": "6bdca5996086bfbd6990ec9c4e1e57ea",
+      "size_bytes": 1212538,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 100mm macro of the storyteller's weathered dark hands closed around the cracked black stone disc, three rings of pale carved stone on the fingers, and a thin cold white line of light lying along the crack in the stone that mirrors the fracture in the sky. Deep shadow, violet silk at the edge of frame. The myth and its object in one image. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0420",
+      "timestamp": "13:58–14:00",
+      "narration_slice": "Citadel understandably dismissed such poetry.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_042/VAL-EP001-IMG0420.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1BBQPb4Sf52YBzdYp5PzREFe8KU8fHtFb",
+      "drive_url": "https://drive.google.com/file/d/1BBQPb4Sf52YBzdYp5PzREFe8KU8fHtFb/view?usp=drivesdk",
+      "md5": "749d19693fe626e9defb9920ea3cbe0d",
+      "size_bytes": 1889147,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1 — the bridge out. 40mm across the empty terrace: rug still down, chairs, one lamp burning on its bracket, pale shell shards scattered on the paving, and beyond the balustrade the city and the harbour under the split moon hanging far out over the sea. The fable has finished and the city is alone with it. Full-bleed."
+    }
+  ],
+  "md5_verification_note": "Folder listing re-read after the tenth upload and compared to local md5sum output. All ten names, sizes and checksums match byte for byte: 23743f058da6639d782fc47bf6fc2659, 23b93ac4dfa75cc2c0e76f10d264215d, 75b4ce2191df39244de99b661087c2b6, 6aae0111b70c8f146fc03146113e1225, 748a246e532a0059483691688b321fbe, 14a2c10fe15c28718eec894dc3442cf0, 90f4d7e89173d165ecbab364285e0280, 8d8c4a2c730f60ad8dc321a25b07f3c6, 6bdca5996086bfbd6990ec9c4e1e57ea, 749d19693fe626e9defb9920ea3cbe0d."
+}

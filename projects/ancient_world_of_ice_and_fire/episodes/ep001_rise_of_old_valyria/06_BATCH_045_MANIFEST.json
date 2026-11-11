@@ -1,0 +1,253 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1s5I8gDKw98MRMH3_iekzoaDDUtR2-OF3",
+  "batch_drive_folder_name": "Batch_045_Images_0441-0450_Riddle_Of_Taming_Living_Fire_14m40s-15m00s",
+  "batch_number": 45,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "14:40–15:00",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "approved_uploaded_count": 10,
+  "drive_verified_count": 10,
+  "pending_rerender_count": 1,
+  "pending_generation_count": 0,
+  "pending_rerender_scenes": [],
+  "pending_completion_scenes": [],
+  "generations_used": 10,
+  "visual_qc_note": "The taming riddle. The anti-architecture brief went in from the start and every caldera frame is raw broken basalt - no masonry appeared once. Nine of ten passed. 0443 is the best silhouette of the production, 0448 and 0449 carry the whole question in two hands and a muzzle, 0447 makes it physical in grit and blood, and 0450 closes on the space between the two of them rather than on any answer. 0446 fails on anatomy alone.",
+  "creature_note": "DRG-VAL-001 anatomy drifted three times in this batch toward a crouched, mantling pose with the wings forward, and the third of those (0446) gained a visible third taloned extremity. The reliable countermeasures, in order of effectiveness: (1) put the animal in flight with both hind legs tucked out of sight; (2) make it a pure silhouette, where the outline itself enforces the count; (3) state the count numerically and negatively. Detail-lit, crouched, wings-forward poses are the highest-risk configuration and should be avoided unless the frame needs the head.",
+  "horn_tolerance_note": "The twin swept-back obsidian horns have drifted into a heavier crown of spikes in four approved frames (0437, 0442, 0446 rejects aside, and 0403's egg-stone). This is a tolerance, not a failure: the production accepts a heavier horn cluster when the silhouette and the plating read correctly, provided the swept-back direction and the single pair of large primary horns are present. Recorded so that it is a decision rather than a silent drift.",
+  "letterbox_scan_note": "Per-row content-box scan on all ten. Five carried strips: 0442 at rows 12-767, 0444 at 12-755, 0445 at 9-767, 0448 at 11-755. 0441, 0443, 0446, 0447, 0449 and 0450 were full-bleed.",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0441",
+      "timestamp": "14:40–14:42",
+      "narration_slice": "ages until only the",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_045/VAL-EP001-IMG0441.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1_1peshmUJk9pCvVbrpca3AC3JKi6vwai",
+      "drive_url": "https://drive.google.com/file/d/1_1peshmUJk9pCvVbrpca3AC3JKi6vwai/view?usp=drivesdk",
+      "md5": "f609b1f35e2432fd33c7528f356230b7",
+      "size_bytes": 2480970,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 35mm lateral tracking with a shepherd along a basalt shelf — short raw sheepskin, knee-length undyed tunic, long loose silver-white hair, ashwood staff, face never visible — while a huge dragon mantles on a shattered prism above the void and turns its head to watch him pass. Limb check at 2x: two wings and two taloned hind legs, no third or fourth limb. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0442",
+      "timestamp": "14:42–14:44",
+      "narration_slice": "volcanic sanctuary of the Fourteen",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_045/VAL-EP001-IMG0442.png",
+      "resolution": "1376x768",
+      "drive_file_id": "15j7CCy1bN31SHUWeN7WRPcMVwYDJrHKu",
+      "drive_url": "https://drive.google.com/file/d/15j7CCy1bN31SHUWeN7WRPcMVwYDJrHKu/view?usp=drivesdk",
+      "md5": "c0c146b0afebdac9099e93036ad07133",
+      "size_bytes": 1846895,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1 with note. 65mm steep low angle on the head and shoulders of a dragon resting on a broken prism: near-black plates edged in dull bronze, jaw closed, one brass-gold slit eye looking down past the lens, a fine grey ash crust along the snout. Note: the horn cluster has drifted into a crown of spikes again rather than the twin swept-back pair — the fourth frame with this variance, now formalised as a tolerance in the bible rather than re-rendered. Reframed rows 12-767."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0443",
+      "timestamp": "14:44–14:46",
+      "narration_slice": "Flames—and perhaps the farthest",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_045/VAL-EP001-IMG0443.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1qFC4zznyMma53IpBmQfW4xOU2WRX4qNR",
+      "drive_url": "https://drive.google.com/file/d/1qFC4zznyMma53IpBmQfW4xOU2WRX4qNR/view?usp=drivesdk",
+      "md5": "6f1be957f52bed46e78588c38a790267",
+      "size_bytes": 1976813,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1 — the silhouette frame. 50mm from inside a cave mouth: raw jagged basalt framing the opening as an irregular dark border, a hazy ash-grey landscape of ridges beyond, thin smoke crossing, and the dragon standing at the lip as a clean black shape with wings folded, two hind legs planted and tail trailing into the cave. Checked at 2x: the outline is unambiguously four-limbed and the horns read as a twin pair. The best demonstration that silhouette discipline holds the lock better than detail. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0444",
+      "timestamp": "14:46–14:48",
+      "narration_slice": "Shadow Lands—preserved living broods. Yet",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_045/VAL-EP001-IMG0444.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1DLBa_vODCj6FMMbEJFiov5aJWCmU40hh",
+      "drive_url": "https://drive.google.com/file/d/1DLBa_vODCj6FMMbEJFiov5aJWCmU40hh/view?usp=drivesdk",
+      "md5": "e4090bf48e6f75981c0811f2db49ef25",
+      "size_bytes": 1915028,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1 with note. 35mm wide across the sanctuary: three adults at different distances and one mid-ground, four stone-scaled char-black eggs banked in a shallow ash nest, two juveniles crouched nearby. The nest and eggs carry the beat; the juveniles read a little slight for their stated size, recorded rather than re-rendered. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0445",
+      "timestamp": "14:48–14:50",
+      "narration_slice": "finding a dragon in",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_045/VAL-EP001-IMG0445.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1qba1-lB_kKAVV1x2lF9D98IFo82oYeyl",
+      "drive_url": "https://drive.google.com/file/d/1qba1-lB_kKAVV1x2lF9D98IFo82oYeyl/view?usp=drivesdk",
+      "md5": "d0371d6321a00faa303a7de09d6ea4f5",
+      "size_bytes": 1212069,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 24mm ultra-wide from a jagged cave mouth into a colossal chamber: broken prisms and rubble falling away into darkness, the far wall lost in shadow, a wide wash of cold grey light fading within thirty metres, and one dragon lying along a ledge far below as a single lit detail — spine ridge and one horn catching the last light. Vast, silent, cold. Reframed rows 9-767."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0446",
+      "timestamp": "14:50–14:52",
+      "narration_slice": "a cave was one",
+      "shot_type": "24mm steep tilt up a basalt cleft; the dragon in flight above the climbing shepherd",
+      "visual_beat": "Tilted 24mm up a narrow vertical cleft, walls converging to a thin blade of sky. The shepherd climbs the scree below, tiny and seen from behind. Above him the dragon is IN FLIGHT, wings spread wall to wall, body horizontal, BOTH hind legs tucked tight against the belly and out of sight.",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_045/VAL-EP001-IMG0446.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1nszSd6mvwkPsansxRDS1dlaq5JKtIqzC",
+      "drive_url": "https://drive.google.com/file/d/1nszSd6mvwkPsansxRDS1dlaq5JKtIqzC/view",
+      "md5": "e13d3474e072fff1a03df12f270dc817",
+      "size_bytes": 2654994,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "RE-RENDER ACCEPTED. The in-flight pose removed the failure completely: wings spanning the cleft, body horizontal, and at 2x no third taloned extremity anywhere and nothing hanging below the silhouette. Twin swept-back horns lie flat to the skull and read as one pair. Full-bleed, no crop needed.",
+      "fix_applied": "Reframed the animal from a crouched, wings-forward ledge pose to flight with both hind legs tucked out of sight, per the recorded countermeasure. First attempt."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0447",
+      "timestamp": "14:52–14:54",
+      "narration_slice": "matter. How did simple shepherds",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_045/VAL-EP001-IMG0447.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1IInmw7U9M7c3T_yx2K-G1XU1bqDBHqr0",
+      "drive_url": "https://drive.google.com/file/d/1IInmw7U9M7c3T_yx2K-G1XU1bqDBHqr0/view?usp=drivesdk",
+      "md5": "cb4c820d7500999e63b0badd15516a19",
+      "size_bytes": 2590978,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 85mm macro on the ground where the shepherd stopped: a nailed boot print pressed into sharp black volcanic grit, its edges crumbling, a drop of dried blood on a rock beside it, and several strands of long pale silver-white hair caught on an edge. No grass, nothing soft, nothing warm. The detail insert that makes the abstract question physical. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0448",
+      "timestamp": "14:54–14:56",
+      "narration_slice": "compel a creature of",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_045/VAL-EP001-IMG0448.png",
+      "resolution": "1376x768",
+      "drive_file_id": "10RVCEELRhHvR4D73i97N4-xYdXZyi4Ri",
+      "drive_url": "https://drive.google.com/file/d/10RVCEELRhHvR4D73i97N4-xYdXZyi4Ri/view?usp=drivesdk",
+      "md5": "21198bf94f4ac0d6c15575186a931b09",
+      "size_bytes": 1624541,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 85mm close-up of the shepherd's cracked, dirt-creased palms held open and slightly raised, a plain bronze spiral arm-ring at the wrist, the enormous dark mass of the dragon's muzzle and one brass-gold eye thrown out of focus behind. The scale disparity is the subject: the hands are small, the animal is not. Offering, not command. Reframed rows 11-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0449",
+      "timestamp": "14:56–14:58",
+      "narration_slice": "living fire to bow its",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_045/VAL-EP001-IMG0449.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1IWSG1akdyK85HivMin2Pjcn9V9Yo8CQq",
+      "drive_url": "https://drive.google.com/file/d/1IWSG1akdyK85HivMin2Pjcn9V9Yo8CQq/view?usp=drivesdk",
+      "md5": "1b8f69adfe8ce6ca574ac6109f3ef25c",
+      "size_bytes": 2239660,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 100mm macro of the moment the horned head comes down to the human palm: dry cracked overlapping plates edged in dull bronze, the long mouth closed, one nostril flaring, a fine grey ash crust along the snout, twin horns sweeping out of frame, an open palm a soft blur at the bottom edge. Cold side light, background entirely black. Nothing glows and nothing is tamed. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0450",
+      "timestamp": "14:58–15:00",
+      "narration_slice": "horned head to man?",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Prehistoric sanctuary & the riddle of taming living fire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_045/VAL-EP001-IMG0450.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1ES0h_iI0JLiO7O3yfNiPvjGt-0kGAfC0",
+      "drive_url": "https://drive.google.com/file/d/1ES0h_iI0JLiO7O3yfNiPvjGt-0kGAfC0/view?usp=drivesdk",
+      "md5": "a21c9082f141a00b1c12566a7aa72ae1",
+      "size_bytes": 2019483,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1 — the bridge. 40mm behind them both on a high ledge at dusk: the dragon standing with wings folded and head turned out to the sky on the left, the shepherd with his back to us and his staff in hand on the right, ten paces apart, neither looking at the other. Exactly four limbs on the animal. The space between them is the whole subject: a question, not an answer. Full-bleed."
+    }
+  ],
+  "anatomy_lesson": "Three crouched, wings-forward, detail-lit poses in one batch produced one third-limb failure (0446). The countermeasure worked first time: put the animal IN FLIGHT with both hind legs tucked against the belly and out of sight. Flight, then silhouette, then numeric-and-negative counting. Ranked into bible 9c.",
+  "closed_at": "2026-11-13T04:20:00Z"
+}

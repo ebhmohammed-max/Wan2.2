@@ -1,0 +1,269 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "visual_style_standard": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location cinematography (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade: warm sandstone highlights, deep cerulean Summer Sea, lush emerald pastures, muted volcanic stone)",
+  "style_reference_benchmark": "The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1V6YsdqUSkso6Y6WHw5FSe_DuTZaMnC9k",
+  "batch_number": 23,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "07:20–07:40",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten frames passed visual review, are 1376x768 sRGB PNGs, are uploaded to Drive folder 1V6YsdqUSkso6Y6WHw5FSe_DuTZaMnC9k, and each Drive MD5 matches its local file. IMG0222, IMG0225, IMG0226 and IMG0229 were rerendered after the first pass: IMG0222 had read as a bleached bone joint, IMG0225 showed a round cave mouth onto a full landscape, IMG0226 used rectangular longhouse forms, and IMG0229 showed a modern-looking field grid with tracks.",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0221",
+      "timestamp": "07:20–07:22",
+      "shot_lens": "LAM · 24mm",
+      "narration_slice": "child's arm, while ancient",
+      "shot_type": "Towering vertical scale composition — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Towering vertical scale composition — Blind wingless Firewyrms boring through superheated rock",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-005",
+        "CRT-VAL-001"
+      ],
+      "file_path": "assets/batch_023/VAL-EP001-IMG0221.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": null,
+      "size_bytes": 2221169,
+      "md5": "3d422bdb9a8ff461f1514c5bbbaab21e",
+      "resolution": "1376x768",
+      "drive_file_id": "1xV13m7-Ed2ArXxJBY65gE_4vJjMb7mb5",
+      "drive_url": "https://drive.google.com/file/d/1xV13m7-Ed2ArXxJBY65gE_4vJjMb7mb5/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: towering fractured basalt wall with a single juvenile firewyrm half-emerged from a natural crack; clear forearm-scale cue, no constructed passage."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0222",
+      "timestamp": "07:22–07:24",
+      "shot_lens": "DET · 85mm",
+      "narration_slice": "specimens reached monstrous lengths in",
+      "shot_type": "Macro environmental / material texture insert — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Macro environmental / material texture insert — Blind wingless Firewyrms boring through superheated rock",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-005",
+        "CRT-VAL-001"
+      ],
+      "file_path": "assets/batch_023/VAL-EP001-IMG0222.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": null,
+      "size_bytes": 2845039,
+      "md5": "4d47c4418059bc4678e47a42b6444555",
+      "resolution": "1376x768",
+      "drive_file_id": "1GeuLQhW13n3rauL89aw0E4Sd46v9utJ8",
+      "drive_url": "https://drive.google.com/file/d/1GeuLQhW13n3rauL89aw0E4Sd46v9utJ8/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: soft glossy pale blistered hide band fused into pitted basalt and obsidian; no bone, joint or skeletal read."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0223",
+      "timestamp": "07:24–07:26",
+      "shot_lens": "CU · 85mm",
+      "narration_slice": "the lightless depths. For",
+      "shot_type": "Intimate close-up detail / expression beat — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Intimate close-up detail / expression beat — Blind wingless Firewyrms boring through superheated rock",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-005",
+        "CRT-VAL-001"
+      ],
+      "file_path": "assets/batch_023/VAL-EP001-IMG0223.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": null,
+      "size_bytes": 2027500,
+      "md5": "78f7839626043c6165178a30dd0b502d",
+      "resolution": "1376x768",
+      "drive_file_id": "14JNDWMOIZxOebWzXGcac8Hpki9CwYZBr",
+      "drive_url": "https://drive.google.com/file/d/14JNDWMOIZxOebWzXGcac8Hpki9CwYZBr/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: eyeless blunt heat-sensing head pressed to the fissure wall, dull ember rim on the closed maw; no eyes, no limbs."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0224",
+      "timestamp": "07:26–07:28",
+      "shot_lens": "DET · 100mm",
+      "narration_slice": "ages, the surface-dwellers wisely left",
+      "shot_type": "Extreme close-up tactile / light study — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Extreme close-up tactile / light study — Blind wingless Firewyrms boring through superheated rock",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-005",
+        "CRT-VAL-001"
+      ],
+      "file_path": "assets/batch_023/VAL-EP001-IMG0224.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": null,
+      "size_bytes": 1661278,
+      "md5": "4d3edac0864be474b5362392ba26b399",
+      "resolution": "1376x768",
+      "drive_file_id": "1aBWfYGlJtOJGU6L1hEGRZey96Cp6IbuE",
+      "drive_url": "https://drive.google.com/file/d/1aBWfYGlJtOJGU6L1hEGRZey96Cp6IbuE/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: still near-black underground pool with a submerged pale segmented curve and restrained amber reflection; tactile light study, no landmarks."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0225",
+      "timestamp": "07:28–07:30",
+      "shot_lens": "WS · 40mm",
+      "narration_slice": "that deep earth undisturbed.",
+      "shot_type": "Transitional wide horizon / bridge framing — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Transitional wide horizon / bridge framing — Blind wingless Firewyrms boring through superheated rock",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-005",
+        "CRT-VAL-001"
+      ],
+      "file_path": "assets/batch_023/VAL-EP001-IMG0225.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": null,
+      "size_bytes": 2125106,
+      "md5": "cd92fee0b38b06075cd02e4b3acb011b",
+      "resolution": "1376x768",
+      "drive_file_id": "1IhXcY6UOv3V1V1rL-2nj-tG1zfw0VNj7",
+      "drive_url": "https://drive.google.com/file/d/1IhXcY6UOv3V1V1rL-2nj-tG1zfw0VNj7/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: narrow jagged rock chimney with only a thin blade of cold daylight between leaning stone lips; no landscape reveal."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0226",
+      "timestamp": "07:30–07:32",
+      "shot_lens": "LAM · 28mm",
+      "narration_slice": "Those surface-dwellers were the early",
+      "shot_type": "Low-angle monumental architectural / geological framing — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_023/VAL-EP001-IMG0226.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": null,
+      "size_bytes": 2747194,
+      "md5": "263ba3db8f73ec2ca8c83954d897399d",
+      "resolution": "1376x768",
+      "drive_file_id": "1ueiLB_mFzz5rB6EISitybnQPsM7DZ7BB",
+      "drive_url": "https://drive.google.com/file/d/1ueiLB_mFzz5rB6EISitybnQPsM7DZ7BB/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: cluster of round dry-stacked basalt roundhouses with conical slate roofs and wattle folds; shepherd correct in costume and crook."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0227",
+      "timestamp": "07:32–07:34",
+      "shot_lens": "OTS · 40mm",
+      "narration_slice": "Valyrians. The surviving histories",
+      "shot_type": "Over-the-shoulder depth perspective — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Over-the-shoulder depth perspective — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_023/VAL-EP001-IMG0227.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": null,
+      "size_bytes": 2828240,
+      "md5": "df9eea8d1a334d8a9d536c9606287bf0",
+      "resolution": "1376x768",
+      "drive_file_id": "10QPbsiDUWs3doD0IqzWkrE4rPjasVLmI",
+      "drive_url": "https://drive.google.com/file/d/10QPbsiDUWs3doD0IqzWkrE4rPjasVLmI/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: over-the-shoulder framing on the shepherd, flocks in wattle folds and smoking cones; correct silver-gold hair, ash-dusted beard, sheepskin mantle and bronze-shod crook."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0228",
+      "timestamp": "07:34–07:36",
+      "shot_lens": "WS · 28mm",
+      "narration_slice": "tell us nothing of great",
+      "shot_type": "Deep-focus wide atmospheric composition — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Deep-focus wide atmospheric composition — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_023/VAL-EP001-IMG0228.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": null,
+      "size_bytes": 2541088,
+      "md5": "47fda29c2017c2f8f560d2e0aa37450b",
+      "resolution": "1376x768",
+      "drive_file_id": "1N-fQ_JYLjeV07ot4PpOqMnwswT18suzg",
+      "drive_url": "https://drive.google.com/file/d/1N-fQ_JYLjeV07ot4PpOqMnwswT18suzg/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: deep-focus homestead of round dry-stone basalt houses with conical slate roofs, woodsmoke and terraced pasture; no palace, city or banner."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0229",
+      "timestamp": "07:36–07:38",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "kings, bronze-armored emperors, or conquering",
+      "shot_type": "Ultra-wide establishing vista — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Ultra-wide establishing vista — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_023/VAL-EP001-IMG0229.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": null,
+      "size_bytes": 2643392,
+      "md5": "f1ce698f9693fbbf75f3e24ac81fc614",
+      "resolution": "1376x768",
+      "drive_file_id": "1v8MIUsRkKT8BqslZ7eB5mKWRTECLtqL8",
+      "drive_url": "https://drive.google.com/file/d/1v8MIUsRkKT8BqslZ7eB5mKWRTECLtqL8/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: wild open pasture descending to the cerulean Summer Sea, roundhouse cluster, steaming clefts and three smoking cones; no field grid or tracks."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0230",
+      "timestamp": "07:38–07:40",
+      "shot_lens": "MCU · 50mm",
+      "narration_slice": "warlords among them in this",
+      "shot_type": "Medium close-up atmospheric focal beat — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "visual_beat": "Medium close-up atmospheric focal beat — Peaceful dry-stone basalt sheepherder homesteads & flocks",
+      "character_refs": [
+        "CHAR-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "file_path": "assets/batch_023/VAL-EP001-IMG0230.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": null,
+      "size_bytes": 2414285,
+      "md5": "efa2ea1f0456327615db9a12d22da833",
+      "resolution": "1376x768",
+      "drive_file_id": "1mG2TF3qN3Q4hiqdP_Lk_4TSvNvlIM_n2",
+      "drive_url": "https://drive.google.com/file/d/1mG2TF3qN3Q4hiqdP_Lk_4TSvNvlIM_n2/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved: three-quarter elder shepherd portrait, indigo-violet eyes, ruddy weathered cheekbones, hammered red-copper spiral pin, smoking cones out of focus."
+    }
+  ],
+  "verified_episode_frames_after_batch_if_completed": 236,
+  "verified_episode_frames_after_batch": 236,
+  "verified_episode_percent_after_batch": "22.48%"
+}

@@ -1,0 +1,191 @@
+{
+ "batch_number": 56,
+ "episode": "EP001 Rise of Old Valyria",
+ "title": "Barth's Sentence",
+ "timecode": "18:20-18:40",
+ "frame_range": "VAL-EP001-IMG0551 - VAL-EP001-IMG0560",
+ "narration_slice": "Valyrian bloodmages had delved into forbidden secrets of flesh, mating or altering creatures of fire and tying dragons to human bloodlines. Conservative maesters denounced Barth's speculations as lurid heresy, and later kings burned most copies of his treatise. We cannot know whether Valyrian sorcerers…",
+ "batch_status": "OPEN_0_OF_10_BRIEFS_WRITTEN",
+ "approved_count": 0,
+ "approved_uploaded_count": 0,
+ "drive_verified_count": 0,
+ "pending_count": 10,
+ "batch_drive_folder_id": null,
+ "batch_drive_folder_url": null,
+ "parent_ep001_folder_id": "1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn",
+ "generations_used": 0,
+ "generations_cap": 10,
+ "rerenders_this_batch": 0,
+ "filing_note": "Batch 056 frames will be filed on disk under assets/batch_056/ and uploaded to their own Drive folder, EP001_BATCH_056_IMG0551-0560, opened at first upload.",
+ "the_claim_rule": "**Barth's sentence, not Barth's fantasy.** Septon Barth never saw Valyria; what the narration gives us are his categories. The images show the SHAPE of a claim made at a distance, never a depicted act: residue instead of event, the category as a specimen, or the boundary rather than the act. Any frame that shows the act has failed, even if it is beautiful.",
+ "hard_bans": [
+  "mating",
+  "coupling",
+  "human-creature hybrid",
+  "pregnant body",
+  "cage",
+  "pen",
+  "harness",
+  "collar",
+  "chain",
+  "muzzle",
+  "restraint",
+  "creature in distress",
+  "blood",
+  "wound",
+  "scalpel",
+  "operating surface",
+  "creature between figures in a ritual"
+ ],
+ "dragon_rule": "Where dragons appear at all they are dead, distant, geological or partial — a tooth, a heap of bone, a shape on the horizon — and never alive in the same frame as a person.",
+ "crop_checks_required": [
+  "Head region at 3x-6x on every frame containing a person (the 0548 ear lesson: the head must be outside the frame or fully turned away).",
+  "All skin contact points at 3x — hands, fingertips, wrists, necks (the 0545 red-fingertip lesson).",
+  "All paper at 5x — no letter, word, rule or alphabet may resolve (the batch 055 paper rule).",
+  "The ear specifically: 0548 pass 1 shipped an ear under a 'turned away' head at 3x."
+ ],
+ "the_boundary_rule": "This batch is the first in which the episode says out loud what it has only implied, so it is also the first that can lose the documentary frame. The safe device is the threshold: a doorway, a cord nobody is holding, a shelf of specimens, a view of how far the walk would be. **Show the boundary, not the act.**",
+ "inherited_lessons": "0546/0558 fire containment (a hand built the place that holds it); 0543/0545 detail leaks caught only at 4x-6x; 0548 the no-face rule is a crop check with a second clause about skin at the frame edge; 0514 masonry negation list on any stone wall.",
+ "scenes": [
+  {
+   "scene_id": "VAL-EP001-IMG0541",
+   "image_number": 541,
+   "timestamp": "18:00–18:02",
+   "shot_lens": "LAM · 28mm",
+   "narration_slice": "Beneath the spells and",
+   "visual_beat": "Low-angle monumental architectural / geological framing — the wall the spells were spoken against",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "file_path": "assets/batch_055/VAL-EP001-IMG0541.png",
+   "qc_status": "NOT_STARTED",
+   "qc_note": "Brief written, not yet shot."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0542",
+   "image_number": 542,
+   "timestamp": "18:02–18:04",
+   "shot_lens": "OTS · 40mm",
+   "narration_slice": "horns, however",
+   "visual_beat": "Over-the-shoulder — the space where the horns were, and the book that replaced them",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "file_path": "assets/batch_055/VAL-EP001-IMG0542.png",
+   "qc_status": "NOT_STARTED",
+   "qc_note": "Brief written, not yet shot."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0543",
+   "image_number": 543,
+   "timestamp": "18:04–18:06",
+   "shot_lens": "WS · 28mm",
+   "narration_slice": "persisted concerning blood magic. Thousands",
+   "visual_beat": "Deep-focus wide atmospheric composition — the copies, and how many of them there were",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "file_path": "assets/batch_055/VAL-EP001-IMG0543.png",
+   "qc_status": "NOT_STARTED",
+   "qc_note": "Brief written, not yet shot."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0544",
+   "image_number": 544,
+   "timestamp": "18:06–18:08",
+   "shot_lens": "UWA · 24mm",
+   "narration_slice": "of years after Valyria's",
+   "visual_beat": "Ultra-wide establishing vista — the city four thousand years on",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "file_path": "assets/batch_055/VAL-EP001-IMG0544.png",
+   "qc_status": "NOT_STARTED",
+   "qc_note": "Brief written, not yet shot."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0545",
+   "image_number": 545,
+   "timestamp": "18:08–18:10",
+   "shot_lens": "MCU · 50mm",
+   "narration_slice": "rise, Septon Barth—Hand to",
+   "visual_beat": "Medium close-up — `CHAR-VAL-003` from behind, her hands and her hair doing the work",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "file_path": "assets/batch_055/VAL-EP001-IMG0545.png",
+   "qc_status": "NOT_STARTED",
+   "qc_note": "Brief written, not yet shot."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0546",
+   "image_number": 546,
+   "timestamp": "18:10–18:12",
+   "shot_lens": "MS · 35mm",
+   "narration_slice": "King Jaehaerys the Conciliator",
+   "visual_beat": "Dynamic medium lateral tracking angle — the destruction of the copies",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "file_path": "assets/batch_055/VAL-EP001-IMG0546.png",
+   "qc_status": "NOT_STARTED",
+   "qc_note": "Brief written, not yet shot."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0547",
+   "image_number": 547,
+   "timestamp": "18:12–18:14",
+   "shot_lens": "MCU · 65mm",
+   "narration_slice": "and perhaps the keenest",
+   "visual_beat": "Compressed telephoto dramatic subject framing — what a scholar touches, and what it is made of",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "file_path": "assets/batch_055/VAL-EP001-IMG0547.png",
+   "qc_status": "NOT_STARTED",
+   "qc_note": "Brief written, not yet shot."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0548",
+   "image_number": 548,
+   "timestamp": "18:14–18:16",
+   "shot_lens": "MS · 50mm",
+   "narration_slice": "student of dragonkind Westeros ever",
+   "visual_beat": "Medium cinematic subject focus — the room the book was written in, with the writer gone",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "file_path": "assets/batch_055/VAL-EP001-IMG0548.png",
+   "qc_status": "NOT_STARTED",
+   "qc_note": "Brief written, not yet shot."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0549",
+   "image_number": 549,
+   "timestamp": "18:16–18:18",
+   "shot_lens": "WS · 35mm",
+   "narration_slice": "produced—dared to write in",
+   "visual_beat": "Wide environmental storytelling tableau — the whole scriptorium, and how little of it there is",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "file_path": "assets/batch_055/VAL-EP001-IMG0549.png",
+   "qc_status": "NOT_STARTED",
+   "qc_note": "Brief written, not yet shot."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0550",
+   "image_number": 550,
+   "timestamp": "18:18–18:20",
+   "shot_lens": "UWA · 24mm",
+   "narration_slice": "his *Unnatural History* that",
+   "visual_beat": "High-elevation geographic / scale reveal — the world the book describes, from a ridge, in flat light",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "file_path": "assets/batch_055/VAL-EP001-IMG0550.png",
+   "qc_status": "NOT_STARTED",
+   "qc_note": "Brief written, not yet shot."
+  }
+ ]
+}
