@@ -1,0 +1,235 @@
+{
+ "batch_number": 54,
+ "episode": "EP001 Rise of Old Valyria",
+ "title": "The Note and the Breath",
+ "timecode": "17:40-18:00",
+ "frame_range": "VAL-EP001-IMG0531 - VAL-EP001-IMG0540",
+ "narration_slice": "man who blew it, proving that every note demanded a sacrifice of living breath and blood. Alongside such horns worked incantations of High Valyrian fire-magic—words of binding spoken into cavern heat by seekers who risked cremation for a single mispronounced syllable.",
+ "batch_status": "OPEN_8_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+ "approved_count": 8,
+ "approved_uploaded_count": 8,
+ "drive_verified_count": 8,
+ "pending_count": 2,
+ "batch_drive_folder_id": "1sB_pt--xbe9A3k-EyMmiWydC7BNZUEPW",
+ "batch_drive_folder_url": "https://drive.google.com/drive/folders/1sB_pt--xbe9A3k-EyMmiWydC7BNZUEPW",
+ "parent_ep001_folder_id": "1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn",
+ "generations_used": 10,
+ "generations_cap": 10,
+ "rerenders_this_batch": 2,
+ "filing_note": "Batch 054 frames are on disk under assets/batch_054/ and uploaded to their own Drive folder, EP001_BATCH_054_IMG0531-0540, opened this turn.",
+ "the_note_rule": "The horn is an **instrument, never a magic object**. Every frame shows what sounding it cost the body or what was laid out to pay it: a worn lip, a stained bowl, a folded cloth, a soot-black hand, a man walked out between two others. **Nothing in the batch glows, ignites, hums or emits.** The scream of batch 053 stays inferred; here the transaction is shown.",
+ "the_face_rule": "Stated once and applied to all ten: **no frame may show a face.** Heads are out of frame, turned away, under a hood in shadow, or below the frame line. Two passes were rejected this batch for breaking it (0531 pass 1 carried a profile; 0536 shows a pale jaw in the hood and is held, not approved).",
+ "the_word_rule": "Where High Valyrian is implied, the marks in dust are scored, overlapping and **unreadable** — no letters, runes, numerals or sigils, ever. Legible text is the failure mode.",
+ "three_faults_this_batch": [
+  "IMG0531 pass 1 — a carried man's full profile in clear light: re-rendered, all three figures turned away from camera.",
+  "IMG0532 pass 1 — object read as an upright beaker with a recognizable face behind it: re-rendered as a horizontal horn with the head out of frame.",
+  "IMG0536 — pale jaw visible inside the hood at 10x: NOT approved, re-render owed."
+ ],
+ "scenes": [
+  {
+   "scene_id": "VAL-EP001-IMG0531",
+   "image_number": 531,
+   "timestamp": "17:40–17:42",
+   "shot_lens": "MS · 35mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "man who blew it,",
+   "visual_beat": "Dynamic medium lateral tracking angle — the men who blew the horns, walking a man out",
+   "file_path": "assets/batch_054/VAL-EP001-IMG0531.png",
+   "shot_type": "MS · 35mm",
+   "qc_status": "APPROVED",
+   "md5": "99bcb2959e7226f9474750a2aa13ff83",
+   "size_bytes": 2444803,
+   "resolution": "1376x768",
+   "drive_file_id": "1DUD3lm-iGXeSKPjy7g2f07p3cMLTr5pj",
+   "drive_url": "https://drive.google.com/file/d/1DUD3lm-iGXeSKPjy7g2f07p3cMLTr5pj/view",
+   "md5_verified_on_drive": true,
+   "rerender_of": "pass 1 rejected",
+   "qc_note": "MS 35mm from directly behind: three figures walk away down a corridor of POURED FUSED black stone, two hooded carriers with the blower's arms over their shoulders, his head hanging forward. **All three faces point away from the lens** — crown of hair, back of neck, hood upswept, no profile anywhere at 4x. His boots drag; exhausted, not hurt — no blood, no wound, no injury. Walls are one continuous mass with fracture faces at 3x, no joint rhythm, no courses. Corridor ahead: one dim warm lantern and a high grey slot. The dropped horn lies small and out of focus on the stones behind them."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0532",
+   "image_number": 532,
+   "timestamp": "17:42–17:44",
+   "shot_lens": "MCU · 65mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "proving that every note",
+   "visual_beat": "Compressed telephoto dramatic subject framing — the instrument at rest on the floor",
+   "file_path": "assets/batch_054/VAL-EP001-IMG0532.png",
+   "shot_type": "MCU · 65mm",
+   "qc_status": "APPROVED",
+   "md5": "787e4c5fffbdd610d3ed112dcc7410ff",
+   "size_bytes": 2412475,
+   "resolution": "1376x768",
+   "drive_file_id": "1xZyBCO9qptiSeHgANIXbSpbWmQQ2LI5A",
+   "drive_url": "https://drive.google.com/file/d/1xZyBCO9qptiSeHgANIXbSpbWmQQ2LI5A/view",
+   "md5_verified_on_drive": true,
+   "rerender_of": "pass 1 rejected",
+   "qc_note": "65mm compressed, looking down: a long black dragonhorn lies diagonally across flagstones, bell at lower left, root running out of the top right corner. It reads unmistakably as a HORN — tapering, curved, hollow, fine lengthwise ridges, thick chipped lip worn smooth inside, one hammered tarnished gold band. Bell interior dark and empty: nothing glowing, nothing alight, no liquid. Lower right holds a shoulder of coarse mantle, collarbone and one slack open hand; **head and face entirely outside frame** (crop at 3x confirms throat and clavicle only, no marks on the skin)."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0533",
+   "image_number": 533,
+   "timestamp": "17:44–17:46",
+   "shot_lens": "MS · 50mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "demanded a sacrifice of",
+   "visual_beat": "Medium cinematic subject focus — what a sounding costs, laid out and used",
+   "file_path": "assets/batch_054/VAL-EP001-IMG0533.png",
+   "shot_type": "MS · 50mm",
+   "qc_status": "APPROVED",
+   "md5": "641e0b9ae6374955e60f479d856d16a6",
+   "size_bytes": 2157373,
+   "resolution": "1376x768",
+   "drive_file_id": "1eQBfkVxiLhFh-LCcfLjZrKSVsBSrZIex",
+   "drive_url": "https://drive.google.com/file/d/1eQBfkVxiLhFh-LCcfLjZrKSVsBSrZIex/view",
+   "md5_verified_on_drive": true,
+   "qc_note": "MS 50mm across a low stone table in one cold bar of daylight: black horn mouthpiece, a shallow dented copper bowl holding a half-finger of dark liquid dried to a rim stain, a grey linen cloth folded and stiffened where it dried, a short iron striker, a stone cup of pale ash. Everything chipped, dull, used; no ornament, no gems, no polish, no arrangement for display. Two soot-blackened hands enter from below, one flat on the stone, the other setting the striker down — hands only, no arms beyond the wrist, no body, **no face in frame**. Bowl interior at 3x is stain and residue, not fresh blood."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0534",
+   "image_number": 534,
+   "timestamp": "17:46–17:48",
+   "shot_lens": "WS · 35mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "living breath and blood.",
+   "visual_beat": "Wide environmental storytelling tableau — the hall where notes are paid for",
+   "file_path": "assets/batch_054/VAL-EP001-IMG0534.png",
+   "shot_type": "WS · 35mm",
+   "qc_status": "APPROVED",
+   "md5": "1944def705696674ad6013572a2e8aa1",
+   "size_bytes": 2254146,
+   "resolution": "1376x768",
+   "drive_file_id": "1yUCV7QMWSN5MuG8cwy2Jw95QrzLvOaqL",
+   "drive_url": "https://drive.google.com/file/d/1yUCV7QMWSN5MuG8cwy2Jw95QrzLvOaqL/view",
+   "md5_verified_on_drive": true,
+   "qc_note": "WS 35mm from an upper gallery down into a great dark hall of poured fused stone. Three low iron braziers burn small and flat, contained, a handsbreadth of flame each; four shallow copper bowls sit on the flagstones, each dark-stained at the rim. Three small robed figures stand apart from one another, seen from above and behind — hoods and shoulders, **no faces at this angle**. Nobody tends the braziers; nothing is staged. Vault lost to pure black; one thin cold bar of daylight on the far wall. Wall crop at 3x shows fused mass and fracture, no coursed blocks."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0535",
+   "image_number": 535,
+   "timestamp": "17:48–17:50",
+   "shot_lens": "UWA · 24mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "Alongside such horns worked",
+   "visual_beat": "High-elevation geographic / scale reveal — the horns standing in the ash",
+   "file_path": "assets/batch_054/VAL-EP001-IMG0535.png",
+   "shot_type": "UWA · 24mm",
+   "qc_status": "APPROVED",
+   "md5": "8814e4128855a0d8316f0019107575bd",
+   "size_bytes": 1499670,
+   "resolution": "1376x768",
+   "drive_file_id": "1DcX_29WI_6YnIx5QYV2IGsfqfAqnG2tt",
+   "drive_url": "https://drive.google.com/file/d/1DcX_29WI_6YnIx5QYV2IGsfqfAqnG2tt/view",
+   "md5_verified_on_drive": true,
+   "rerender_of": "pass 1 rejected",
+   "qc_note": "UWA 24mm from a ledge above a caldera floor: black volcanic ridges, grey ash flats, raw broken basalt — nothing built, no walls, no carved ornament, no idols. Across the floor, four black horns stand upright in low rings of stacked flat stones at wide intervals, each tiny at this distance, each banded with dull tarnished gold. Thin smoke lifts from ground fissures and bends away in the wind: smoke, no flames, no city. Flat overcast sky fills the top quarter; no sun, no moon, no god-light. Three small robed figures cross the ash between two horns, seen from above, no faces."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0536",
+   "image_number": 536,
+   "timestamp": "17:50–17:52",
+   "shot_lens": "LAM · 24mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "incantations of High Valyrian",
+   "visual_beat": "Towering vertical scale composition — the shaft the words are spoken up",
+   "file_path": "assets/batch_054/VAL-EP001-IMG0536.png",
+   "shot_type": "LAM · 24mm",
+   "qc_status": "PENDING_RERENDER",
+   "md5": "9ddb71cbd1482b4e6d398f0d84368a5b",
+   "size_bytes": 1912520,
+   "resolution": "1376x768",
+   "rerender_of": "pass 1 rejected",
+   "qc_note": "Hold. The shaft, the tiny hooded figure with head tipped back, and the flat grey opening all work; the wall at 3x is poured and seamless with no joints. But at 10x the sliver inside the hood reads as a pale jaw with a discernible lip line — the face rule is the one rule this arc does not bend. Not approved; re-render with the hood's interior in shadow and only a crown of hair showing."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0537",
+   "image_number": 537,
+   "timestamp": "17:52–17:54",
+   "shot_lens": "DET · 85mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "fire-magic—words of binding spoken into",
+   "visual_beat": "Macro environmental / material texture insert — the words that do not survive",
+   "file_path": "assets/batch_054/VAL-EP001-IMG0537.png",
+   "shot_type": "DET · 85mm",
+   "qc_status": "APPROVED",
+   "md5": "3e69ade5eaeeff1f9a6570e8df2502aa",
+   "size_bytes": 2709396,
+   "resolution": "1376x768",
+   "drive_file_id": "1nVMx7KiU8bEjJw48FNC3IgcEzrH4ubuz",
+   "drive_url": "https://drive.google.com/file/d/1nVMx7KiU8bEjJw48FNC3IgcEzrH4ubuz/view",
+   "md5_verified_on_drive": true,
+   "qc_note": "DET 85mm, low raking angle on a flat scraped patch of dry volcanic floor. Marks drawn in dust with a fingertip: shallow furrows, crossing arcs, short runs of notches, half-smeared where a hand rested. At 2x the cluster is **deliberate but unreadable — no letters, no alphabet, no runes, no numerals, no sigil**: only finger tracks, overlapping and incomplete. Beside it a scatter of pale ash and one small dark stain where something was set down. No object, no hands, no people, no face. Raking cold light, short shadows in the furrows, rest near black."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0538",
+   "image_number": 538,
+   "timestamp": "17:54–17:56",
+   "shot_lens": "CU · 85mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "cavern heat by seekers",
+   "visual_beat": "Intimate close-up detail / expression beat — the hand that pays for the heat",
+   "file_path": "assets/batch_054/VAL-EP001-IMG0538.png",
+   "shot_type": "CU · 85mm",
+   "qc_status": "APPROVED",
+   "md5": "7a382eecbd62d2fc98721fe7ad2dcee6",
+   "size_bytes": 2692058,
+   "resolution": "1376x768",
+   "drive_file_id": "1iPiyOPHrmYeTyM-Ga6TP1CskJVOCNucp",
+   "drive_url": "https://drive.google.com/file/d/1iPiyOPHrmYeTyM-Ga6TP1CskJVOCNucp/view",
+   "md5_verified_on_drive": true,
+   "qc_note": "CU 85mm at a heat shaft: frame filled by the back and shoulder of a coarse hooded mantle, thick worn wool, hood pulled up, its lowest edge cutting the top of frame so **no head, no face, no profile, no skin** is visible there (3x confirms wool texture only). One bare forearm enters bottom left, sleeve pushed back, hand braced flat on hot rock, fingers spread, knuckles soot-blackened, tendons raised — grime and effort, **no wound, no burn, no blister, no blood**. Stone is poured fused mass, glassy sheets and cracks; a dull red seam deep in one crack, no flame on the surface. Thin steam lifted off the rock."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0539",
+   "image_number": 539,
+   "timestamp": "17:56–17:58",
+   "shot_lens": "DET · 100mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "who risked cremation for",
+   "visual_beat": "Extreme close-up tactile / light study — the lip that took the cost",
+   "file_path": "assets/batch_054/VAL-EP001-IMG0539.png",
+   "shot_type": "DET · 100mm",
+   "qc_status": "APPROVED",
+   "md5": "15d42e7aca3bb02fce146d2bd474853c",
+   "size_bytes": 2040257,
+   "resolution": "1376x768",
+   "drive_file_id": "11rw6AYt2qbR4FQZ-wpckfFzOmniGgmeV",
+   "drive_url": "https://drive.google.com/file/d/11rw6AYt2qbR4FQZ-wpckfFzOmniGgmeV/view",
+   "md5_verified_on_drive": true,
+   "qc_note": "DET 100mm on the near lip and inner rim of a black dragonhorn mouthpiece, steep raking angle. Inner lip worn smooth by use, outer rim nicked and thumb-polished, hammered tarnished gold band running back out of frame. Interior dark and empty — **nothing glowing, nothing alight**. On the flat of the lip: a fine skin of dust, one dried pale fleck of residue, a few short scratches — handling, not damage. Behind, thrown far out of focus, a hint of flagstone and the hem of a robe; no hands, no face. Hard light from upper left, one thin edge of gleam on the bevel, rest near black."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0540",
+   "image_number": 540,
+   "timestamp": "17:58–18:00",
+   "shot_lens": "WS · 40mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "a single mispronounced syllable.",
+   "visual_beat": "Transitional wide horizon / bridge framing — the error nobody could hear coming",
+   "file_path": "assets/batch_054/VAL-EP001-IMG0540.png",
+   "shot_type": "WS · 40mm",
+   "qc_status": "NOT_STARTED",
+   "qc_note": "Not yet generated. Generation cap spent this turn (10 calls: 8 frames plus 2 re-renders)."
+  }
+ ]
+}
