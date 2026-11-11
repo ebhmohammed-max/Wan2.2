@@ -757,7 +757,7 @@ The decision to write it off rather than spend a third generation was deliberate
 **Batch 051 CLOSED 10/10. Verified progress: 512/1,050 (48.76%)** — Batches 045–049 and 051 all closed at 10/10, Batch 050 at 9/10 by subtraction, and **Batch 052 (`17:00–17:20`) opens next at the horns.** `IMG0160` remains the one open correction from an earlier batch.
 
 
-### Batch 052 — The Horns (`17:00–17:20`) — **Open · 7/10 approved and uploaded · `IMG0512` (transport), `IMG0514` (masonry) and `IMG0519` (stars) rejected**
+### Batch 052 — The Horns (`17:00–17:20`) — **CLOSED 10/10** (three re-renders, all passing first look)
 
 **The horns are the first manufactured objects in the episode after six batches of geology, and the whole visual argument is that they look *used, not treasured*.** Dull matte black, ridged along the grain, chipped at the rims, stained and soiled, bound in **hammered gold that is tarnished except where hands have worn it bright.** No polish, no gemstones, no display lighting, no heraldry. **A weapon of state kept in a store-room, not a relic in a shrine.**
 
@@ -775,4 +775,41 @@ The decision to write it off rather than spend a third generation was deliberate
 
 **`0512` failed at the transport layer** and returned no image at all — no content fault, simply a call to repeat. It matters disproportionately because it is the only frame in the batch that puts a person's back in the same frame as a horn, which is the rhetorical point of the shot.
 
-**Verified progress: 519/1,050 (49.43%)** — Batches 045–049 and 051 closed at 10/10, Batch 050 at 9/10 by subtraction, **Batch 052 open at 7/10 with three to re-render.** `IMG0160` remains the one open correction from an earlier batch.
+**All three re-renders passed on the first look, and none needed a second attempt** — the first time in several batches a correction has landed cleanly on the first try.
+
+- **`0512`** — 40mm over the shoulder, and the rhetorical point of the shot is finally visible: the near figure's braided back fills the left edge in soft focus with **no face**, and beyond, in a narrow shaft of daylight from a small high window, a single horn lies across one plain dressed shelf **longer than the person is tall**. The wall behind is unjointed and the shelf is one cut block — the ashlar fault corrected by negation without drifting.
+- **`0514`** — one continuous fused mass of black stone, **no courses, no joints, no voussoirs, no capstones anywhere in the frame**, three horns small in the dark interior, figures crossing the flagstones in front of it. **Accepted with a watch-point:** with the masonry gone the opening now reads closer to a **cave mouth than to a built arch** — the fusion is right and the made-ness is partly lost. Not re-spent, but the next arch of this type needs *"cut by masons, tool marks, a squared threshold"* in the prompt so both properties hold at once.
+- **`0519`** — the silhouette that was right in pass 1 is intact and both faults are gone: **the horizon is high, the entire sky is flat dark cloud, and the background is empty dark rock with nothing burning on it.** One low brazier is the only light in the world besides the dull gold. Nothing was added to replace what was removed, which is the correct instinct.
+
+**The batch's parting lesson:** of the three faults, one was about the world (masonry), one was about the sky (stars and fire), and one was not a fault of judgement at all — it was a dropped call. **Three re-renders cost three generations and returned three usable frames.** The fault was in the negation list, not in the idea, and the fix is now standard wording rather than a per-batch repair.
+
+**Batch 052 CLOSED 10/10. Verified progress: 529/1,050 (50.38%)** — Batches 045–049 and 051–052 closed at 10/10, Batch 050 at 9/10 by subtraction, and **Batch 053 (`17:20–17:40`) is open at 7/10 with three frames to shoot.** `IMG0160` remains the one open correction from an earlier batch.
+
+
+### Batch 053 — The Scream (`17:20–17:40`) — **CLOSED 10/10** (one re-render: `0528` masonry)
+
+**The batch's design principle: the scream is physical cost, not magic.** A horn that sounds like a scream is never filmed with an aura, a glow, a shockwave or a sound effect — it is filmed from inside the body blowing it, and then from the distance of what it left behind. Not one frame in these ten shows anything alight, and the terror is carried entirely by tendon, flush and deposit.
+
+**Two rules were absolute and both held on every frame.** **No face**: not one image shows eyes, a full face or an identifiable person — a straining jaw cropped above the lip, a throat, a hood, a back, a body face-down. **No injury**: the cost is posture, flush, dryness, salt deposit and worn metal, never blood, wound or burn. That second rule is also why the batch cleared moderation on the first pass — **describe what the body is doing, not what has been done to it.**
+
+**`0521` is the sound, and it is the frame that could have gone magical and didn't.** Camera directly below the bell, the open mouth overhead an irregular dark ellipse, the rim chipped in one place and worn smooth on the inner lip, and **a thin drift of smoke drawn out of the mouth and away — not glowing, not alight.** Two arms and the shoulders of a coarse mantle enter at the bottom edge and the blower's face is out of frame below. The image says the horn is being blown hard and says nothing else.
+
+**`0523` is the riskiest frame of the production and it was shot as anatomy.** Cropped above the upper lip and below the collarbone so **no face exists in the image at all**: the sternocleidomastoid cutting a hard diagonal, tendons standing in long cords, the jaw clamped, skin flushed deep red with a sheen of sweat at the throat, a coarse collar open and damp. **No blood, no wound, no bruise — the body is working, not damaged.** It is the most uncomfortable image in the episode and it contains nothing objectionable, because it shows effort rather than harm.
+
+**`0524` puts the batch's whole history into one object.** 100mm on the mouthpiece where it has been set down: the gold nearly black at the contact patch and **crusted with a ring of dry residue** — the pale salt-and-ash deposit of mouths and breath over years, cracked into plates, some flaked away to bright metal beneath. The rim is **abraded flat on one side, pitted, and carries no engraving of any kind** (checked at 4x). Biography written in deposit instead of decoration — the same move as `0517`'s wear pattern, one batch later.
+
+**`0522`'s macro throat** is the glyph rule under maximum magnification: densely scored rows crossing in one cluster, chisel cuts with rough walls, grit packed in the troughs, one hairline crack through the field. At 3x **no mark resolves into a letter, rune or numeral.** Checked this batch at 3x (`0522`), 4x (`0524`), 6x and 9x (`0525`) and 6x (`0529`); all clean.
+
+**`0525` is the first consequence and the setup for the last four.** A high terrace above a drowned plain: a horn standing socketed in a ring of flat stones at frame left, and **well away from it at frame right, a single robed figure lying face down and completely still** — one arm out, boots trailing, face turned into the ground. **No wound, no blood, no cause.** The distance between the horn and the body is the entire content of the shot, and it refuses to say how. Sky flat overcast edge to edge — **no stars, no moon, no glow, no fire**, the `0519` fault guarded against in advance.
+
+**`0526` closes the argument four hundred years on.** Low angle on a single dragonhorn **still standing upright on a broken plinth among the ruins of a dead city**, monumental against flat grey, with thin smoke rising in the middle distance and no fire visible. The ruins are **poured fused stone — curved sheets, warped slabs, frozen drips, fracture faces — not coursed blocks.** The horn is dull black, tarnished, chipped, weathered and **the only intact thing in the frame**; no person anywhere. **The civilisation is gone and the instrument is not.**
+
+**`0527` and `0528` are the discovery.** `0527` is a 40mm over-the-shoulder on a horn **fallen and half-buried, its open bell crushed and split at the rim**, gold corroded to dull rust-red at the fracture, grey dust settled over everything — the hooded back is the only dark shape and it never turns. `0528` is the hauling: a small figure from behind at three-quarter angle, **braced with both arms dragging a long horn out from under a fallen slab.** Pass 1 failed on **coursed ashlar** — the same fault as `0514`, in the middle distance — and the re-render, briefed as poured fused sheets with fracture faces and frozen drips, reads as fracture at 3x.
+
+**`0529` renders "blister" without a burn.** 24mm close with teeth shut on the mouthpiece: flushed skin across the lower face, **lips dry and cracked with the broken skin of a blister in the lower lip**, cords in the neck, hood edge soft at frame left. Only jaw, mouth and chin are in frame — **eyes and forehead cropped out, so there is no portrait and no gaze.** No blood, no burn, no wound; the damage is dryness and heat, which is exactly what the narration claims and no more.
+
+**`0530` closes the sequence on incapacity rather than death.** 50mm: the figure slumped back against poured dark stone, **chest heaving, head tipped back and turned aside so the face is entirely swallowed by the hood's shadow**, collar open, throat and collarbone flushed and sweat-sheened, one hand open and slack on the flagstones. The horn lies where it was set down beside him, its gold grey. **A man who cannot get up and an instrument that does not care** — which is the chapter's account of power, arriving at the last possible moment and without a single effect.
+
+**One reframe:** `0525` arrived letterboxed (content rows 39–727) and was cropped to 1376x689+0+39 and resampled to 1376x768; the manifest records it as a delivered-file note.
+
+**Batch 053 CLOSED 10/10. Verified progress: 539/1,050 (51.33%)** — Batches 045–049 and 051–053 closed at 10/10, Batch 050 at 9/10 by subtraction, and **the episode crosses the halfway mark of its 1,050 stills.** Next: **Batch 054 (`17:40–18:00`).** `IMG0160` remains the one open correction from an earlier batch.

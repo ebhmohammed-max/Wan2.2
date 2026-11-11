@@ -12,19 +12,19 @@
 
 **"Incised with Valyrian glyphs" does not license legible writing.** Every incised mark in this batch is dense, clustered, worn and **unreadable at 5x–9x** — texture that implies a writing system, not a writing system. The gold bands were checked separately too, because tooling and specular can read as engraved text at magnification.
 
-**Render/QC status:** **7 of 10 approved, uploaded and MD5-verified · `IMG0512` (transport failure), `IMG0514` (masonry) and `IMG0519` (stars, burning city) rejected.** Two letterbox crops.
+**Render/QC status:** **10 of 10 approved, uploaded and MD5-verified.** Three re-renders this batch — `IMG0512`, `IMG0514`, `IMG0519` — each fixing a different fault and each passing on the first look. One letterbox crop (`0519`).
 
 | Frame | Status | Note |
 | :--- | :--- | :--- |
 | `IMG0511` | ✅ Approved, uploaded | 28mm up a horn on a plinth. Dome of dull black, three hammered bands, no ornament. |
-| `IMG0512` | ❌ **REJECTED** | **Transport failure** — the call returned no image. Re-brief pending. |
+| `IMG0512` | ✅ Approved, uploaded (re-render) | 40mm OTS: the horn longer than the person is tall. Wall unjointed. |
 | `IMG0513` | ✅ Approved, uploaded | 28mm: three horns down a vault. **An archive, not a display.** Gold checked at 9x. |
-| `IMG0514` | ❌ **REJECTED** | **Coursed ashlar with mortar joints** where Valyria is poured monolith. |
+| `IMG0514` | ✅ Approved (re-render) | One fused mass, no joints anywhere. **Watch-point: reads cave-mouth, not arch.** |
 | `IMG0515` | ✅ Approved, uploaded | 50mm on the bell rim: chipped, worn smooth one side, gold set back. |
 | `IMG0516` | ✅ Approved, uploaded | 35mm lateral: four horns racked in iron cradles. **Nobody in the room.** |
 | `IMG0517` | ✅ Approved, uploaded | 65mm on the junction: **iron, gold, horn separated by texture alone.** |
 | `IMG0518` | ✅ Approved, uploaded | 50mm: one horn as long as a boat, scored end to end, unreadable at 5x. |
-| `IMG0519` | ❌ **REJECTED** | **Stars** (banned since 040) and a **burning city** — spectacle creep. |
+| `IMG0519` | ✅ Approved (re-render) | Silhouette kept; sky is flat cloud, horizon high, **no stars, no city**. |
 | `IMG0520` | ✅ Approved, uploaded | 24mm from the caldera slope: the horn a small dark mark. **Scale doesn't care.** |
 
 **`0517` is the best material frame of the production so far, and it contains no story at all.** A 65mm compression on the junction where pitted forged black iron meets a hammered red gold band meets dull black ridged horn. Three surfaces separating by texture alone under raking light: the iron scaled and uneven, the gold tarnished in the low spots and worn pale where it has been gripped for a very long time, the horn cracked along the grain with one long paler stain soaked in over years. Between band and iron, a single deep scored line, broad and shallow and worn — **it means nothing.**
@@ -47,4 +47,16 @@
 - **`0514`** — rebuild as **one continuous fused black stone arch**: no courses, no mortar, no voussoirs, no capstones. Negate the whole list by name.
 - **`0519`** — keep the below-and-behind silhouette, **raise the horizon until almost no sky remains**, and delete the burning city entirely.
 
-**Next — re-render `0512`, `0514` and `0519` to close Batch 052.** Then Batch 053 (`17:20–17:40`), where the lore turns from the instruments to what they were used to bind.
+---
+
+## Closing note — the three re-renders
+
+**All three passed on the first look, and none of them needed a second attempt.** That is worth recording, because it is the first time in several batches that a correction has landed cleanly on the first try.
+
+- **`0512`** — 40mm over the shoulder. The near figure's braided back fills the left edge in soft focus, no face, and beyond it in a narrow shaft of daylight a single horn lies across one plain dressed shelf. **The horn is longer than the person is tall**, which is the entire rhetorical point of the shot: the instrument dwarfs the hand that owns it. The wall behind is dark and unjointed, the shelf is one cut block. Shallow scars stay scratches at 3x.
+- **`0514`** — one continuous fused mass of black stone, **no courses, no joints, no voussoirs, no capstones anywhere in the frame**, three horns small in the dark inside it, figures crossing the flagstones in front. **Accepted with a watch-point:** with the masonry gone, the opening now reads closer to a **cave mouth than a built arch** — the fusion is right and the made-ness is partly lost. Not re-spent, but the next arch of this type needs *"cut by masons, tool marks, a squared threshold"* added to the prompt so both properties hold at once.
+- **`0519`** — the silhouette that was right in pass 1 is intact, and both faults are gone: **the horizon is high, the whole sky is flat dark cloud, and the background is empty rock with nothing burning on it.** One low brazier is the only light in the world besides the dull gold.
+
+**The lesson this batch leaves behind:** of the three faults, only one was about the world (masonry), one was about the sky (stars and fire), and one was not a fault of judgement at all. **The re-renders cost three generations and returned three usable frames** — the fault was in the prompt's negation list, not in the idea.
+
+**Batch 052 closes at 10/10.** Next — **Batch 053 (`17:20–17:40`)**, *the scream*: what the horns did to the mouths that blew them, and what one of them did to a man four hundred years later.

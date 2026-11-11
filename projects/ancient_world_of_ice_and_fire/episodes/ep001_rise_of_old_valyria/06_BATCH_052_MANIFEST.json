@@ -5,10 +5,10 @@
   "timecode": "17:00-17:20",
   "frame_range": "VAL-EP001-IMG0511 - VAL-EP001-IMG0520",
   "narration_slice": "Surviving fragments of Valyrian lore agree upon the instruments of that mastery. First came the horns. Hollowed from the curved horns of giant dragons or wrought of black iron and banded in red gold, these monstrous dragonbinders were incised with Valyrian glyphs of fire, blood,",
-  "batch_status": "PARTIAL_7_OF_10_APPROVED_UPLOADED_0512_0514_0519_REJECTED",
-  "approved_count": 7,
-  "approved_uploaded_count": 7,
-  "drive_verified_count": 7,
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "approved_uploaded_count": 10,
+  "drive_verified_count": 10,
   "batch_drive_folder_id": "1fozX4L5otPRHEV-jSnRs6GXd1Uvsiorg",
   "batch_drive_folder_url": "https://drive.google.com/drive/folders/1fozX4L5otPRHEV-jSnRs6GXd1Uvsiorg",
   "parent_ep001_folder_id": "1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn",
@@ -16,11 +16,7 @@
   "generations_cap": 10,
   "the_object_rule": "The horns are the episode's first **manufactured** objects after six batches of geology, and the whole visual argument of the batch is that they look **used, not treasured**. Dull matte black, ridged along the grain, chipped at the rims, stained, soiled, bound in hammered gold that is tarnished except where hands have worn it bright. No polish, no gemstones, no display lighting, no heraldry. A weapon of state kept in a store-room, not a relic in a shrine.",
   "the_glyph_rule": "`incised with Valyrian glyphs` does NOT license legible writing. Every incised mark in this batch is dense, clustered, worn and **unreadable at 5x-9x** - it is texture that implies a writing system, not a writing system. Negate letters, runes, numerals, symbols and script by name, and check the gold bands too: tooling and specular there can read as engraved text at magnification, which is why 0513 was checked specifically at 9x.",
-  "pending_rerender_scenes": [
-    "VAL-EP001-IMG0512",
-    "VAL-EP001-IMG0514",
-    "VAL-EP001-IMG0519"
-  ],
+  "pending_rerender_scenes": [],
   "scenes": [
     {
       "scene_id": "VAL-EP001-IMG0511",
@@ -55,15 +51,15 @@
       "visual_beat": "Over-the-shoulder depth perspective — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
       "file_path": "assets/batch_052/VAL-EP001-IMG0512.png",
       "shot_type": "OTS · 40mm",
-      "qc_status": "REJECTED",
-      "md5": null,
-      "size_bytes": null,
+      "qc_status": "APPROVED",
+      "md5": "c7d69a733c0e6ae0cabe942c74ba0939",
+      "size_bytes": 1818271,
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "REJECTED at the transport layer - the generation call failed and returned no image. Not a content fault. Re-brief pending; the OTS frame still has to be shot because it is the only one in the batch that puts a person's back in the same frame as the horn, which is the whole rhetorical point of the shot.",
-      "rerender_brief": "Same 40mm over-the-shoulder brief, with **plain ashlar-free stone** behind and the horn in a narrow shaft of daylight. Add the negations: no coursed masonry, no ashlar, no joint lines, no mortar, no stacked blocks; and no gold ornament beyond the three hammered bands."
+      "drive_file_id": "1666OfvlPGYNEkfxNSdLRxg5tmI0aSKzp",
+      "drive_url": "https://drive.google.com/file/d/1666OfvlPGYNEkfxNSdLRxg5tmI0aSKzp/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "RE-RENDER 1, PASS. 40mm over the shoulder: the near figure's braided back and shoulder fill the left edge in soft focus, hood and hair reading as texture only, no face. Beyond, in a narrow shaft of daylight from a small high window, **a single dragonbinder horn lies across a plain dressed-stone shelf** - dull matte black, faintly ridged, three hammered gold bands, chipped rim, dust visible as motes turning in the beam. The wall behind is dark and unjointed, and the shelf is a single cut block with no courses. The horn carries shallow scars that at 3x stay scratches, no letterforms. This is the batch's only frame that puts a person's back in the same shot as the horn, and the scale relationship is the point: the horn is longer than the person is tall.",
+      "rerender_of": "pass 1 rejected"
     },
     {
       "scene_id": "VAL-EP001-IMG0513",
@@ -98,15 +94,15 @@
       "visual_beat": "Ultra-wide establishing vista — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
       "file_path": "assets/batch_052/VAL-EP001-IMG0514.png",
       "shot_type": "UWA · 24mm",
-      "qc_status": "REJECTED",
-      "md5": null,
-      "size_bytes": null,
+      "qc_status": "APPROVED",
+      "md5": "7d3ca85f9526fe0e5726c3c8d1934bd4",
+      "size_bytes": 2199715,
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "REJECTED on architecture, and it is the clearest instance of the fault yet. The vaulted hall came back as **coursed grey ashlar with visible mortar joints** - a medieval European gatehouse - where Valyria's established architecture is **poured monolithic fused stone with no joints at all** (0481, 0482, 0491, 0492, and the bible's section 4c). The joints are unmistakable at 1:1 and the frame would contradict every Valyrian exterior in the production.",
-      "rerender_brief": "Rebuild as **one continuous fused black stone arch**, seamless and glassy, no courses, no mortar, no blocks, with the interior lit only by pale bars of daylight and the horns small inside it. Negate ashlar, coursed masonry, joint lines, mortar, stacked blocks, brick, rusticated stone, capstones, voussoirs."
+      "drive_file_id": "1tvS3dnlg30dcR-E931-BfebdeH3be_Mo",
+      "drive_url": "https://drive.google.com/file/d/1tvS3dnlg30dcR-E931-BfebdeH3be_Mo/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "RE-RENDER 1, PASS. 24mm ultra-wide into a single monumental opening cut through one continuous mass of poured black stone - **no courses, no joint lines, no mortar, no stacked blocks anywhere in the frame**, the surface fused and glassy with fracture faces rather than beds. Three dragonbinder horns stand small inside the dark interior, each bound with hammered red gold, dwarfed by the opening. Robed figures cross the flagstones in front of it. **Accepted with a watch-point:** the opening now reads closer to a cave mouth than to a built arch - the fusion is right and the architecture has lost some of its made-ness. Not re-spent, but the next exterior of this type needs the note 'cut by masons, tool marks, a squared threshold' to hold both properties at once.",
+      "rerender_of": "pass 1 rejected"
     },
     {
       "scene_id": "VAL-EP001-IMG0515",
@@ -204,15 +200,16 @@
       "visual_beat": "Wide environmental storytelling tableau — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
       "file_path": "assets/batch_052/VAL-EP001-IMG0519.png",
       "shot_type": "WS · 35mm",
-      "qc_status": "REJECTED",
-      "md5": null,
-      "size_bytes": null,
+      "qc_status": "APPROVED",
+      "md5": "3322a2789513620032a236d7ab984dcb",
+      "size_bytes": 1039735,
       "resolution": "1376x768",
-      "drive_file_id": null,
-      "drive_url": null,
-      "md5_verified_on_drive": false,
-      "qc_note": "REJECTED on two counts. **(1) Stars.** The night sky is a dense field of stars, and this production has banned stars, moon and god-light on the peninsula since batch 040 - the sky is flat overcast, always. **(2) Spectacle creep.** A distant city burns on the cliffs at frame right, which puts a sack or a war into a sequence that has spent two batches showing power as procedure rather than catastrophe. The silhouette and the horn are both excellent, which is what makes it worth noting: the pose was right and the world around it was wrong.",
-      "rerender_brief": "Keep the below-and-behind silhouette of the player and the horn crossing frame diagonally. Raise the horizon so almost all the sky is **gone** - flat dark cloud only, no stars, no moon, no glow. Remove the burning city entirely; the background is empty dark rock falling away. Negate: stars, starfield, night sky, constellations, moon, distant fire, burning buildings, city lights, glow on the horizon."
+      "drive_file_id": "17oh5et635j1kv5xaaJpcouYHUnhjVPVu",
+      "drive_url": "https://drive.google.com/file/d/17oh5et635j1kv5xaaJpcouYHUnhjVPVu/view",
+      "md5_verified_on_drive": true,
+      "qc_note": "RE-RENDER 1, PASS on both faults. The camera sits below and behind the player, his shoulders and the back of his hood cutting the lower frame, the horn crossing diagonally into the dark. **The horizon is high and the entire sky is flat dark cloud - no stars, no constellation, no moon, no glow - and the background is empty dark rock falling away with no fire and no city on it.** The face is hidden behind the horn and the hood. One low brazier at frame left is the only light in the world besides the dull gold bands, which are hammered and faceted rather than polished. The two faults that killed pass 1 are both gone and nothing was added to replace them.",
+      "rerender_of": "pass 1 rejected",
+      "note_reframe": "0519 arrived letterboxed (image content occupied rows 40-767). Reframed by cropping 1376x728+0+40 and resampling to 1376x768; the md5 above is the delivered, uploaded file."
     },
     {
       "scene_id": "VAL-EP001-IMG0520",
@@ -235,5 +232,7 @@
       "md5_verified_on_drive": true,
       "qc_note": "24mm from high on a caldera slope: **a dragonbinder horn standing on a low ring of stacked flat stones**, small but sharp against pale ash - a curved black cone bound in dull red gold, densely scored, unreadable, **and nobody near it.** Beyond, the caldera opens out enormous: a shallow bowl of grey ash and black lava ridges, **four smoking cones along the far wall** with thin dark plumes bending away, a plain running to a flat white haze. Two or three faceless robed figures climb the slope below, tiny. Flat cold overcast, low contrast, everything desaturated to grey with the dull gold the only warm note. **The scale is the subject - a small dark mark in a landscape that does not care about it.**"
     }
-  ]
+  ],
+  "rerenders_this_batch": 3,
+  "close_note": "Batch 052 closed at 10/10. The three rejections were three distinct faults and each one took a different correction: 0512 was a transport failure with no content judgement, 0514 was coursed ashlar where Valyria is poured fused stone, 0519 was stars plus a burning city where the sky is flat overcast and power is shown as procedure. All three re-renders passed on first look."
 }

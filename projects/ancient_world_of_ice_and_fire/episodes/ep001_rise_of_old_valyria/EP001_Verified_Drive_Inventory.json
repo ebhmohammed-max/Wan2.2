@@ -57,8 +57,8 @@
     49,
     50
   ],
-  "next_batch": 52,
-  "next_image_number": 512,
+  "next_batch": 54,
+  "next_image_number": 531,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -3636,7 +3636,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 519,
+  "verified_image_count": 539,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -9777,133 +9777,207 @@
   "batch_052_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0511",
-      "timestamp": "17:00–17:02",
-      "narration_slice": "Surviving fragments of Valyrian",
-      "shot_type": "LAM · 28mm",
-      "visual_beat": "Low-angle monumental architectural / geological framing — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
-      "location_refs": [
-        "LOC-VAL-003"
-      ],
-      "drive_file_id": "1JmNfjdf350Aehs7AGE0zLVjsGvuDuogg",
-      "drive_url": "https://drive.google.com/file/d/1JmNfjdf350Aehs7AGE0zLVjsGvuDuogg/view",
+      "image_number": 511,
       "md5": "5bf78ad6b5c29338056f125c90857df1",
       "size_bytes": 1716219,
+      "drive_file_id": "1JmNfjdf350Aehs7AGE0zLVjsGvuDuogg",
       "resolution": "1376x768",
-      "qc_status": "APPROVED_VISUAL_65MM_V1",
-      "upload_checksum_verified": true
+      "qc_status": "APPROVED"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0512",
+      "image_number": 512,
+      "md5": "c7d69a733c0e6ae0cabe942c74ba0939",
+      "size_bytes": 1818271,
+      "drive_file_id": "1666OfvlPGYNEkfxNSdLRxg5tmI0aSKzp",
+      "resolution": "1376x768",
+      "qc_status": "APPROVED"
     },
     {
       "scene_id": "VAL-EP001-IMG0513",
-      "timestamp": "17:04–17:06",
-      "narration_slice": "of that mastery. First",
-      "shot_type": "WS · 28mm",
-      "visual_beat": "Deep-focus wide atmospheric composition — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
-      "location_refs": [
-        "LOC-VAL-003"
-      ],
-      "drive_file_id": "1sCySWg-zXA8oH98yMErJ5BDcIl056osB",
-      "drive_url": "https://drive.google.com/file/d/1sCySWg-zXA8oH98yMErJ5BDcIl056osB/view",
+      "image_number": 513,
       "md5": "f429536a7baca8f58c97e41da5a22348",
       "size_bytes": 1346136,
+      "drive_file_id": "1sCySWg-zXA8oH98yMErJ5BDcIl056osB",
       "resolution": "1376x768",
-      "qc_status": "APPROVED_VISUAL_65MM_V1",
-      "upload_checksum_verified": true
+      "qc_status": "APPROVED"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0514",
+      "image_number": 514,
+      "md5": "7d3ca85f9526fe0e5726c3c8d1934bd4",
+      "size_bytes": 2199715,
+      "drive_file_id": "1tvS3dnlg30dcR-E931-BfebdeH3be_Mo",
+      "resolution": "1376x768",
+      "qc_status": "APPROVED"
     },
     {
       "scene_id": "VAL-EP001-IMG0515",
-      "timestamp": "17:08–17:10",
-      "narration_slice": "the curved horns of",
-      "shot_type": "MCU · 50mm",
-      "visual_beat": "Medium close-up atmospheric focal beat — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
-      "location_refs": [
-        "LOC-VAL-003"
-      ],
-      "drive_file_id": "1RPeQV8nb_qk7NMNOE-BtZ1t1lc_uHFqO",
-      "drive_url": "https://drive.google.com/file/d/1RPeQV8nb_qk7NMNOE-BtZ1t1lc_uHFqO/view",
+      "image_number": 515,
       "md5": "344d9725db9354c8fb2a1bd34515631c",
       "size_bytes": 2062478,
+      "drive_file_id": "1RPeQV8nb_qk7NMNOE-BtZ1t1lc_uHFqO",
       "resolution": "1376x768",
-      "qc_status": "APPROVED_VISUAL_65MM_V1",
-      "upload_checksum_verified": true
+      "qc_status": "APPROVED"
     },
     {
       "scene_id": "VAL-EP001-IMG0516",
-      "timestamp": "17:10–17:12",
-      "narration_slice": "giant dragons or wrought of",
-      "shot_type": "MS · 35mm",
-      "visual_beat": "Dynamic medium lateral tracking angle — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
-      "location_refs": [
-        "LOC-VAL-003"
-      ],
-      "drive_file_id": "11Jx2WKUj_k8nZYOAgY18y2BwrICBgwQX",
-      "drive_url": "https://drive.google.com/file/d/11Jx2WKUj_k8nZYOAgY18y2BwrICBgwQX/view",
+      "image_number": 516,
       "md5": "8fbb62af6a251e08d26f4fd81db857c5",
       "size_bytes": 2546985,
+      "drive_file_id": "11Jx2WKUj_k8nZYOAgY18y2BwrICBgwQX",
       "resolution": "1376x768",
-      "qc_status": "APPROVED_VISUAL_65MM_V1",
-      "upload_checksum_verified": true
+      "qc_status": "APPROVED"
     },
     {
       "scene_id": "VAL-EP001-IMG0517",
-      "timestamp": "17:12–17:14",
-      "narration_slice": "black iron and banded",
-      "shot_type": "MCU · 65mm",
-      "visual_beat": "Compressed telephoto dramatic subject framing — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
-      "location_refs": [
-        "LOC-VAL-003"
-      ],
-      "drive_file_id": "1GxPvNDtxaQ3inxMsHGl9aRjT5T3e7HVp",
-      "drive_url": "https://drive.google.com/file/d/1GxPvNDtxaQ3inxMsHGl9aRjT5T3e7HVp/view",
+      "image_number": 517,
       "md5": "d6bc6dbda34911fd65a18dd46175db46",
       "size_bytes": 2461674,
+      "drive_file_id": "1GxPvNDtxaQ3inxMsHGl9aRjT5T3e7HVp",
       "resolution": "1376x768",
-      "qc_status": "APPROVED_VISUAL_65MM_V1",
-      "upload_checksum_verified": true
+      "qc_status": "APPROVED"
     },
     {
       "scene_id": "VAL-EP001-IMG0518",
-      "timestamp": "17:14–17:16",
-      "narration_slice": "in red gold, these monstrous",
-      "shot_type": "MS · 50mm",
-      "visual_beat": "Medium cinematic subject focus — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
-      "location_refs": [
-        "LOC-VAL-003"
-      ],
-      "drive_file_id": "1Cf4Intw9_RAPuDtZQrdbV4CL7E8VfXss",
-      "drive_url": "https://drive.google.com/file/d/1Cf4Intw9_RAPuDtZQrdbV4CL7E8VfXss/view",
+      "image_number": 518,
       "md5": "40e4ab163b3ce080cea8d4061b8e9e9f",
       "size_bytes": 2499997,
+      "drive_file_id": "1Cf4Intw9_RAPuDtZQrdbV4CL7E8VfXss",
       "resolution": "1376x768",
-      "qc_status": "APPROVED_VISUAL_65MM_V1",
-      "upload_checksum_verified": true
+      "qc_status": "APPROVED"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0519",
+      "image_number": 519,
+      "md5": "3322a2789513620032a236d7ab984dcb",
+      "size_bytes": 1039735,
+      "drive_file_id": "17oh5et635j1kv5xaaJpcouYHUnhjVPVu",
+      "resolution": "1376x768",
+      "qc_status": "APPROVED"
     },
     {
       "scene_id": "VAL-EP001-IMG0520",
-      "timestamp": "17:18–17:20",
-      "narration_slice": "Valyrian glyphs of fire, blood,",
-      "shot_type": "UWA · 24mm",
-      "visual_beat": "High-elevation geographic / scale reveal — Red-gold-banded Valyrian dragonbinder horns & fiery glyphs",
-      "location_refs": [
-        "LOC-VAL-003"
-      ],
-      "drive_file_id": "1JXKRzQXZ7t3oKxMDUBGH1rgaC3-tEm1m",
-      "drive_url": "https://drive.google.com/file/d/1JXKRzQXZ7t3oKxMDUBGH1rgaC3-tEm1m/view",
+      "image_number": 520,
       "md5": "321eb82ef19fc49e9ee90cc2572f21e8",
       "size_bytes": 2160596,
+      "drive_file_id": "1JXKRzQXZ7t3oKxMDUBGH1rgaC3-tEm1m",
       "resolution": "1376x768",
-      "qc_status": "APPROVED_VISUAL_65MM_V1",
-      "upload_checksum_verified": true
+      "qc_status": "APPROVED"
     }
   ],
-  "batch_052_status": "PARTIAL_7_OF_10_UPLOADED_MD5_VERIFIED_0512_0514_0519_REJECTED",
+  "batch_052_status": "COMPLETE_10_OF_10_UPLOADED_MD5_VERIFIED",
   "batch_052_drive_folder_id": "1fozX4L5otPRHEV-jSnRs6GXd1Uvsiorg",
-  "batch_052_drive_verified_count": 7,
+  "batch_052_drive_verified_count": 10,
   "batch_052_pending_rerender_scenes": [
     "VAL-EP001-IMG0512",
     "VAL-EP001-IMG0514",
     "VAL-EP001-IMG0519"
   ],
-  "batch_052_note": "The horns. The episode's first manufactured objects after six batches of geology, and the argument is that they look **used, not treasured**: dull matte black horn, ridged along the grain, chipped rims, stained, bound in hammered gold that is tarnished except where hands have worn it bright. 0517 is the best material frame of the production so far - iron, gold and horn separated by texture alone under raking light. 0518 gives one horn as long as a small boat, its whole length densely scored and unreadable at 5x. 0520 sets a horn on a ring of stones above a caldera, small and dark, to show that scale does not care about it.",
+  "batch_052_note": "The horns, closed. 0517 remains the best material frame of the production - iron, gold and horn separated by texture alone - and it contains no story at all. Three re-renders (0512 transport, 0514 masonry, 0519 stars+fire) all passed first look. 0514 passes with a watch-point: with the masonry gone the opening reads as a cave mouth rather than a built arch, so the next arch of this type needs 'cut by masons, tool marks, a squared threshold'.",
   "object_rule": "Valyrian manufactured objects must look **used, not treasured** - no polish, gemstones, display lighting or heraldry. Gold is tarnished except where hands have worn it bright. A weapon of state kept in a store-room, not a relic in a shrine.",
-  "three_faults_this_batch": "0514 was the clearest masonry failure yet: **coursed grey ashlar with mortar joints** where Valyria is poured monolithic fused stone (0481/0482/0491/0492, bible 4c). 0519 put a **dense field of stars** and a **burning city** in frame - stars have been banned since batch 040 as the peninsula sky is flat overcast, and the burning city is spectacle creep in a sequence built on procedure. 0512 simply failed at the transport layer and returned no image."
+  "three_faults_this_batch": "0514 was the clearest masonry failure yet: **coursed grey ashlar with mortar joints** where Valyria is poured monolithic fused stone (0481/0482/0491/0492, bible 4c). 0519 put a **dense field of stars** and a **burning city** in frame - stars have been banned since batch 040 as the peninsula sky is flat overcast, and the burning city is spectacle creep in a sequence built on procedure. 0512 simply failed at the transport layer and returned no image.",
+  "batch_053_status": "COMPLETE_10_OF_10_UPLOADED_MD5_VERIFIED",
+  "batch_053_drive_folder_id": "1fozX4L5otPRHEV-jSnRs6GXd1Uvsiorg",
+  "batch_053_drive_verified_count": 10,
+  "batch_053_verified_images": [
+    {
+      "scene_id": "VAL-EP001-IMG0521",
+      "image_number": 521,
+      "md5": "8c6bf33ed34493897ddb02667fda2393",
+      "size_bytes": 2019116,
+      "drive_file_id": "1FdsCvpShxvtYeXy-D_vZBPW7nHedKxGl",
+      "resolution": "1376x768",
+      "qc_status": "APPROVED"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0522",
+      "image_number": 522,
+      "md5": "a6fb01300aa148304602655e6ecde160",
+      "size_bytes": 2486115,
+      "drive_file_id": "1TyFCLCoRBjbMWW4zrTTfVzXoXMyxp6EH",
+      "resolution": "1376x768",
+      "qc_status": "APPROVED"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0523",
+      "image_number": 523,
+      "md5": "acd36b48b688d3d2529ae37abb8816ac",
+      "size_bytes": 2043273,
+      "drive_file_id": "1uYseDEXGvU6Rp2uQzF-dBX12bT6UXbxs",
+      "resolution": "1376x768",
+      "qc_status": "APPROVED"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0524",
+      "image_number": 524,
+      "md5": "a3153a4da86d2a9377373eefc8835d63",
+      "size_bytes": 2289663,
+      "drive_file_id": "14CfXF7hiXclyluWaDlzfIHErCoi91LOT",
+      "resolution": "1376x768",
+      "qc_status": "APPROVED"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0525",
+      "image_number": 525,
+      "md5": "dce866dbd9aa6731b052f78c8545e68e",
+      "size_bytes": 1188311,
+      "drive_file_id": "1guwpGhiuUTwwZjDpRVc8_XUhxHf2oRFx",
+      "resolution": "1376x768",
+      "qc_status": "APPROVED"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0526",
+      "image_number": 526,
+      "md5": "85e72edfb23ad1365fae212904dc21de",
+      "size_bytes": 2207790,
+      "drive_file_id": "1e38850j5EldQALqlQgGxkGOOdEuxb2L0",
+      "resolution": "1376x768",
+      "qc_status": "APPROVED"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0527",
+      "image_number": 527,
+      "md5": "186c1a00c5b67a2e4b66c97477acbf8a",
+      "size_bytes": 2275063,
+      "drive_file_id": "1lYyQohOAnQb_TbSEc2XLKTrWseg9JPNq",
+      "resolution": "1376x768",
+      "qc_status": "APPROVED"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0528",
+      "image_number": 528,
+      "md5": "98fd7b0399d535103d7660e1c43e605e",
+      "size_bytes": 2286024,
+      "drive_file_id": "120KKXrlFNc34J0usjVboQ2xxbxx6vjds",
+      "resolution": "1376x768",
+      "qc_status": "APPROVED"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0529",
+      "image_number": 529,
+      "md5": "8835327a7c4982cfef8769aedc452414",
+      "size_bytes": 2225248,
+      "drive_file_id": "1A3udY2ekoTud-kgarKaB1Jmlk4vbatLt",
+      "resolution": "1376x768",
+      "qc_status": "APPROVED"
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0530",
+      "image_number": 530,
+      "md5": "a88ab0bb8dacff51f20fff2ce62852a6",
+      "size_bytes": 2080334,
+      "drive_file_id": "1zppUtsru-vI9Hg_SjMtHchykThbwqeUw",
+      "resolution": "1376x768",
+      "qc_status": "APPROVED"
+    }
+  ],
+  "batch_053_note": "The scream. Physical cost, not magic: 0521 from under the bell with smoke drawn out and nothing glowing, 0523 as pure throat-and-jaw anatomy cropped so no face exists, 0524's mouthpiece crusted with a ring of dry salt deposit, 0525 a still figure far from the horn on a terrace, 0526 one horn still standing while the city is gone, 0527's bell crushed and split, 0528 hauling one out of fused ruins, 0529 chapped and blistered lips with no burn, 0530 a heaving chest and a face lost in a hood.",
+  "the_scream_rule": "The scream is physical cost, not magic. Show flush, taut tendons, sweat, a worn and crusted mouthpiece, dry residue - then a still body on a terrace and one whole horn standing among ruins a civilisation later. No aura, no glow, no shockwave, no sound effect, nothing alight, in any frame.",
+  "the_body_rule": "No face and no injury in batch 053. Strain is tendons, flush and sweat; damage is dryness, salt deposit and worn metal; the cost is posture. Negations carried in every prompt: no blood, no wound, no injury, no bruise, no burn. This is also why the batch cleared moderation on the first pass: describe what the body is doing, not what has been done to it.",
+  "batch_052_three_faults_lesson": "0514 was masonry, 0519 was the sky, 0512 was a dropped call. All three fixed on the first re-render because the fault was in the negation list, not the idea. The masonry negation list is now standard wording on any frame containing a stone wall - 0528 pass 1 proved it is still needed in the middle distance, not just in the foreground.",
+  "verified_percent": 51.33,
+  "open_corrections": [
+    "VAL-EP001-IMG0160"
+  ]
 }
