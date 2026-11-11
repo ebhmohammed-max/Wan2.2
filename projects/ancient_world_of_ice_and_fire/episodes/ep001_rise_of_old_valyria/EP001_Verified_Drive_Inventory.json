@@ -58,7 +58,7 @@
   50
  ],
  "next_batch": 55,
- "next_image_number": 541,
+ "next_image_number": 546,
  "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
  "drive_folders": {
   "master_root_folder": {
@@ -1940,7 +1940,7 @@
   }
  ],
  "last_updated": "2026-11-09",
- "verified_progress_percent": 52.29,
+ "verified_progress_percent": 52.76,
  "batch_012_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0111",
@@ -3636,7 +3636,7 @@
    "upload_checksum_verified": true
   }
  ],
- "verified_image_count": 549,
+ "verified_image_count": 554,
  "batch_021_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0201",
@@ -9976,7 +9976,7 @@
  "the_scream_rule": "The scream is physical cost, not magic. Show flush, taut tendons, sweat, a worn and crusted mouthpiece, dry residue - then a still body on a terrace and one whole horn standing among ruins a civilisation later. No aura, no glow, no shockwave, no sound effect, nothing alight, in any frame.",
  "the_body_rule": "No face and no injury in batch 053. Strain is tendons, flush and sweat; damage is dryness, salt deposit and worn metal; the cost is posture. Negations carried in every prompt: no blood, no wound, no injury, no bruise, no burn. This is also why the batch cleared moderation on the first pass: describe what the body is doing, not what has been done to it.",
  "batch_052_three_faults_lesson": "0514 was masonry, 0519 was the sky, 0512 was a dropped call. All three fixed on the first re-render because the fault was in the negation list, not the idea. The masonry negation list is now standard wording on any frame containing a stone wall - 0528 pass 1 proved it is still needed in the middle distance, not just in the foreground.",
- "verified_percent": 52.29,
+ "verified_percent": 52.76,
  "open_corrections": [
   "VAL-EP001-IMG0160"
  ],
@@ -10000,5 +10000,25 @@
  "batch_054_note": "Batch 054 CLOSED 10/10 'The Note and the Breath' (17:40-18:00). The horn is an instrument, never a magic object: every frame shows what sounding it cost the body or what was laid out to pay it, and nothing glows, ignites or emits. Three passes were rejected under the no-face rule and re-rendered (IMG0531 profile, IMG0532 beaker-with-face, IMG0536 jaw in hood). IMG0535 reframed from letterbox to 1376x768. IMG0540 ends the batch at a threshold, figure walking out, no face.",
  "the_note_rule": "The Valyrian horn is an **instrument, never a magic object**. Shown as worn lip, stained bowl, stiffened cloth, cup of ash, soot-black hand braced on hot rock, a man walked out between two carriers. Nothing glows, ignites, hums or emits; the only heat is a palm-sized flame in an iron basket and a dull red seam in a crack.",
  "batch_054_face_rule_lesson": "The no-face rule must be enforced at the crop, not in the brief. Faces leaked in twice even inside prompts that said 'face cut off by the top edge' and 'seen from behind': IMG0531 pass 1 and IMG0532 pass 1 both delivered readable faces, and IMG0536's hood opening held a pale jaw at 10x. Every frame in this arc gets a 3x-10x crop of the head region before approval, and the brief must say where the head goes (outside the frame, turned away), not merely that it is not a portrait.",
- "batch_054_close_note": "Batch 054 closed 10/10. Three passes were rejected under the arc's no-face rule and all three were re-rendered: 0531 (carried man's profile), 0532 (beaker + recognizable face), 0536 (pale jaw inside the hood). The batch's argument holds across all ten frames: the horn is an instrument and the ledger is paid in bodies and worn objects, never in an effect. 0535 was reframed from letterbox to 1376x768."
+ "batch_054_close_note": "Batch 054 closed 10/10. Three passes were rejected under the arc's no-face rule and all three were re-rendered: 0531 (carried man's profile), 0532 (beaker + recognizable face), 0536 (pale jaw inside the hood). The batch's argument holds across all ten frames: the horn is an instrument and the ledger is paid in bodies and worn objects, never in an effect. 0535 was reframed from letterbox to 1376x768.",
+ "batch_055_verified_images": [
+  "VAL-EP001-IMG0541",
+  "VAL-EP001-IMG0542",
+  "VAL-EP001-IMG0543",
+  "VAL-EP001-IMG0544",
+  "VAL-EP001-IMG0545"
+ ],
+ "batch_055_status": "OPEN_5_OF_10",
+ "batch_055_drive_folder_id": "1Jz40vqfkH61Kal9tTBadXjyj4u7bPmsM",
+ "batch_055_drive_verified_count": 5,
+ "batch_055_pending_completion_scenes": [
+  "VAL-EP001-IMG0546",
+  "VAL-EP001-IMG0547",
+  "VAL-EP001-IMG0548",
+  "VAL-EP001-IMG0549",
+  "VAL-EP001-IMG0550"
+ ],
+ "batch_055_note": "Batch 055 'The Book Nobody Kept' (18:00-18:20) open at 5/10. The batch changes the episode's voice: from here the narration leaves Valyria's own procedure and enters a dispute about the past (Septon Barth, ~4,000 years later, whose Unnatural History was burned). Rule (bible 4h): the past is never rendered as truth, only as testimony - no glowing script, no floating glyphs, no altar tableau, no centred mage. Two rejects: IMG0543 pass 1 (a distant seated figure resolved into a clean profile at 6x) and IMG0545 pass 1 (fingertips rendered deep red, reading as raw flesh). Both re-rendered. IMG0543/0544/0545 reframed from letterbox to 1376x768. IMG0546-0550 not yet shot.",
+ "the_testimony_rule": "The past is never rendered as truth, only as testimony. Barth is the frame, not the subject. Where Valyria appears it is small, partial or mediated: a wall the spells were spoken against, a city four thousand years dead, a woman seen only from behind. No full-stage altar tableau, no centred mage, no glowing script.",
+ "batch_055_detail_lesson": "Two rules were enforced in the composition and then violated in the detail this batch: a face at the far end of a table, an injury in a fingertip. Neither was visible at frame size; both were caught at 4x-6x. Crop the head region AND skin contact points (hands, fingertips) before approving."
 }

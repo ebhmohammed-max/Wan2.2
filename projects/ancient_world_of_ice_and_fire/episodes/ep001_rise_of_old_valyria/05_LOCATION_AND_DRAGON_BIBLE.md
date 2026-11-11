@@ -170,3 +170,18 @@
 ### 3. `CRT-VAL-001`: SUBTERRANEAN FIREWYRM *(Canon Creature — Batches 022–023 & 089–090)*
 - **Source:** *AFFC* Arya II; *F&B*.
 - **Anatomy & Traits:** Completely **wingless and legless** cylindrical burrowing fire-breather (up to 40+ ft in deep shafts); pale blistered bone-white to magma-charred armor rings; blind heat-sensing head plates; crystalline rock-crushing maw glowing white-hot inside; bores circular tunnels through solid volcanic rock.
+
+
+### 4h. `THE BOOK NOBODY KEPT` — framing the source *(Batch 055, `IMG0542`–`IMG0551`)*
+
+Batch 055 narrates **Septon Barth**, a man writing roughly four thousand years after the fall, whose *Unnatural History* was denounced as heresy and burned by later kings. The temptation is to shoot an occult rite with a mage at the centre. That is the wrong film. **Barth is the frame, not the subject** — the batch's images are of a *claim about Valyria*, made by a scholar who never saw it, in a room where the book is dying.
+
+**The rule: the past is never rendered as truth, only as testimony.** Concretely:
+
+1. **Distance before spectacle.** Where a Valyrian rite appears (`0545`, `0546`, `0547`), it appears small, partial, or mediated — glimpsed through an opening, seen at the far end of a hall, or reduced to a fragment of text under a hand. Never a full-stage altar tableau with the mage centred and lit like a subject.
+2. **No face, still.** `CHAR-VAL-003` is specified with a full face in the character bible, and the narration at `0545` names her directly. **She is never rendered as a portrait.** The camera stays behind her, above her shoulder, or on her hands and collar; where a hood or veil can carry the frame, it does. This arc has held a no-face line for eighty frames and does not break it to satisfy a costume description.
+3. **Paper, not parchment magic.** The scholar's world is ink, foxing, marginal correction, a broken spine, wax, and a hand that has written too long. **No glowing script, no floating glyphs, no illuminated sigils, no candles arranged for atmosphere.** The book is an object that is being destroyed by time and by authority, and it is photographed like one.
+4. **Fire is the book's enemy, not its effect.** Where flame appears it is a brazier or a pyre of copies — small, contained, administratively ordinary. It never halo's a character and never spells anything.
+5. **Denunciation is paperwork.** The maesters' rejection and the kings' burning is shown as seals, lists, stacked sheets, an empty shelf, a hand closing a ledger — the violence of an index. No mob, no screaming, no auto-da-fé choreography.
+
+**Carried negations for every prompt in 055–056:** no legible text of any kind (no words, no letters, no Latin-looking or Valyrian-looking script that resolves — see the glyph rule, §4e), no glowing or floating symbols, no face, no injury, no blood beyond a fingertip stain, no coursed ashlar, no six-limbed dragons, and nothing alight that is not a contained flame in a vessel.

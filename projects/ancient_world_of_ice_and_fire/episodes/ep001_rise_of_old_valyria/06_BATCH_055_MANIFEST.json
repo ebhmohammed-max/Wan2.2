@@ -1,0 +1,218 @@
+{
+ "batch_number": 55,
+ "episode": "EP001 Rise of Old Valyria",
+ "title": "The Book Nobody Kept",
+ "timecode": "18:00-18:20",
+ "frame_range": "VAL-EP001-IMG0541 - VAL-EP001-IMG0550",
+ "narration_slice": "Beneath the spells and horns, however, darker whispers persisted concerning blood magic. Thousands of years after Valyria's rise, Septon Barth—Hand to King Jaehaerys the Conciliator and perhaps the keenest student of dragonkind Westeros ever produced—dared to write in his *Unnatural History* that Valyrian bloodmages had delved into forbidden secrets…",
+ "batch_status": "OPEN_5_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+ "approved_count": 5,
+ "approved_uploaded_count": 5,
+ "drive_verified_count": 5,
+ "pending_count": 5,
+ "batch_drive_folder_id": "1Jz40vqfkH61Kal9tTBadXjyj4u7bPmsM",
+ "batch_drive_folder_url": "https://drive.google.com/drive/folders/1Jz40vqfkH61Kal9tTBadXjyj4u7bPmsM",
+ "parent_ep001_folder_id": "1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn",
+ "generations_used": 10,
+ "generations_cap": 10,
+ "rerenders_this_batch": 2,
+ "filing_note": "Batch 055 frames are on disk under assets/batch_055/ and upload to their own Drive folder, EP001_BATCH_055_IMG0541-0550.",
+ "the_testimony_rule": "**The past is never rendered as truth, only as testimony.** Barth is the frame, not the subject. Where Valyria appears it is small, partial or mediated — a wall the spells were spoken against, a city four thousand years dead, one woman seen from behind. There is no full-stage altar tableau and no centred mage.",
+ "the_paper_rule": "The scholar's world is ink, foxing, broken cord, snapped seals and hands. **No glowing script, no floating glyphs, no illuminated sigils, no candles arranged for atmosphere.** Across five approved frames not one word resolves at 4x-5x magnification — checked on the near piles in 0543 and on the loose sheet in the 0543 pass-1 reject.",
+ "the_face_rule": "Held again, and broken twice under new disguises: a **distant** seated figure in 0543 pass 1 whose head was a clean profile at 6x, and a **hand** in 0545 pass 1 that read as raw flesh. Both re-rendered. The rule now covers distance and skin, not just framing.",
+ "rejections_this_batch": [
+  "IMG0543 pass 1 — seated figure at the far end of the table resolved into a full profile (nose, mouth, jaw) at 6x. Face rule. Re-rendered with the room emptied.",
+  "IMG0545 pass 1 — fingertips rendered deep red and read as bloodied flesh at 4x, contradicting the bible's 'faintly stained' and the no-injury line. Re-rendered with pale dry skin and soot grime.",
+  "IMG0546 — first generation call returned a failure (no image). Retried; the retry consumed the last attempt of the turn. Not a QC reject, a production miss."
+ ],
+ "reframes_this_batch": [
+  "IMG0543 — delivered letterboxed; cropped 14px top / bottom band, rescaled to 1376x768.",
+  "IMG0544 — delivered letterboxed; cropped 64px top / bottom band, rescaled to 1376x768.",
+  "IMG0545 — delivered letterboxed; cropped 34px top / bottom band, rescaled to 1376x768."
+ ],
+ "scenes": [
+  {
+   "scene_id": "VAL-EP001-IMG0541",
+   "image_number": 541,
+   "timestamp": "18:00–18:02",
+   "shot_lens": "LAM · 28mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "Beneath the spells and",
+   "visual_beat": "Low-angle monumental architectural / geological framing — the wall the spells were spoken against",
+   "file_path": "assets/batch_055/VAL-EP001-IMG0541.png",
+   "shot_type": "LAM · 28mm",
+   "qc_status": "APPROVED",
+   "md5": "29a159fbfdee41245adc46767c5f6961",
+   "size_bytes": 2078630,
+   "resolution": "1376x768",
+   "drive_file_id": "1LO1HGelJB6eHT1ooY7btzDAiaILGa77t",
+   "drive_url": "https://drive.google.com/file/d/1LO1HGelJB6eHT1ooY7btzDAiaILGa77t/view",
+   "md5_verified_on_drive": true,
+   "qc_note": "LAM 28mm looking up a monumental wall of POURED FUSED black stone that runs out of frame. At 3x the surface is vertical frozen runs, flaking fracture plates and cooled flow sheets — **no courses, no blocks, no joint lines, no mortar**. A broad soot stain rises where heat has gone up the stone for generations: a stain, not a glow. One narrow cold grey shaft of daylight from high off-frame left skims the face and stops short of the floor. A bare stone step at the base is worn into a shallow dip by feet. Nothing alight, no symbols, no text, no figure."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0542",
+   "image_number": 542,
+   "timestamp": "18:02–18:04",
+   "shot_lens": "OTS · 40mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "horns, however",
+   "visual_beat": "Over-the-shoulder — the space where the horns were, and the book that replaced them",
+   "file_path": "assets/batch_055/VAL-EP001-IMG0542.png",
+   "shot_type": "OTS · 40mm",
+   "qc_status": "APPROVED",
+   "md5": "ddd73d6b5d7c4b770ef5fee0800636f1",
+   "size_bytes": 1801607,
+   "resolution": "1376x768",
+   "drive_file_id": "1NceVv6AzOtuavVlX5wER-C5wYB_YcbKY",
+   "drive_url": "https://drive.google.com/file/d/1NceVv6AzOtuavVlX5wER-C5wYB_YcbKY/view",
+   "md5_verified_on_drive": true,
+   "qc_note": "OTS 40mm from behind and above a seated figure at a plain wooden table. At 4x the crop holds **only the back of a close-cropped grey head** — no face, no profile, no ear detail that resolves into a cheek. The subject of the frame is an **empty rectangle of clean unfaded wood** where a long object was lifted away, its edges sharper than the grime around it, one shallow impression in the dust beside it, a bronze stylus and a cloth-wrapped bundle tied with cord. Nothing on the walls. One dim lamp off-frame right puts a low warm edge on the table; the far wall stays in shadow. This is the whole thesis of the batch in one object: the horns are gone, the ledger of them remains."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0543",
+   "image_number": 543,
+   "timestamp": "18:04–18:06",
+   "shot_lens": "WS · 28mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "persisted concerning blood magic. Thousands",
+   "visual_beat": "Deep-focus wide atmospheric composition — the copies, and how many of them there were",
+   "file_path": "assets/batch_055/VAL-EP001-IMG0543.png",
+   "shot_type": "WS · 28mm",
+   "qc_status": "APPROVED",
+   "md5": "09e20b2970546d11ad90a21317f4b06d",
+   "size_bytes": 1423115,
+   "resolution": "1376x768",
+   "drive_file_id": "1Q042OPMKRedVh-Su2hKOJcoavbQ_4rC7",
+   "drive_url": "https://drive.google.com/file/d/1Q042OPMKRedVh-Su2hKOJcoavbQ_4rC7/view",
+   "md5_verified_on_drive": true,
+   "rerender_of": "Re-render of pass 1, which placed a seated figure at the far end whose head resolved at 6x into a clean profile — nose, mouth, jaw in silhouette. Distance is not an exemption from the no-face rule. Pass 2 empties the room entirely and turns the near leaves face-down. Also reframed: delivered letterboxed, cropped 14px top / bottom band and rescaled to 1376x768.",
+   "qc_note": "WS 28mm down a long scriptorium table that runs away into shadow. Dozens of flat piles of bound sheets, corded bundles, wax seals in red and ochre, leaves curling at the corners, a pile tipped askew, sheets on the floor. At 5x the near leaves are **blank toned paper, foxing and shadow — no word, letter or rule resolves anywhere**. Two hands enter at the near end, one flat on a bundle, cuff of dark wool; hands only. **No person anywhere in the frame.** One high cold window slot lays a pale band along the table. The scale is administrative, not ceremonial: this is a library being counted, not an altar."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0544",
+   "image_number": 544,
+   "timestamp": "18:06–18:08",
+   "shot_lens": "UWA · 24mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "of years after Valyria's",
+   "visual_beat": "Ultra-wide establishing vista — the city four thousand years on",
+   "file_path": "assets/batch_055/VAL-EP001-IMG0544.png",
+   "shot_type": "UWA · 24mm",
+   "qc_status": "APPROVED",
+   "md5": "3f140169914582dd34dd04e54febbd50",
+   "size_bytes": 1397981,
+   "resolution": "1376x768",
+   "drive_file_id": "1g0goSf63rbx_RQ5gN4Og8NGZ7TusN6eQ",
+   "drive_url": "https://drive.google.com/file/d/1g0goSf63rbx_RQ5gN4Og8NGZ7TusN6eQ/view",
+   "md5_verified_on_drive": true,
+   "rerender_of": "Reframed: delivered letterboxed, cropped 64px top / bottom band and rescaled to 1376x768.",
+   "qc_note": "UWA 24mm from a high ridge in flat grey light. Middle distance: a great city reduced to **broken black walls, fallen spans, standing ribs and arched fragments**, half-swallowed in ash, rubble where streets ran — legible only as an absence with structure in it. At 4x the ruins are fracture and rubble, arches collapsed mid-span, no coursed elevation intact. **No fire, no smoke, no lights, no banners, no figures.** Foreground: raw rock, dry straw grass, one weathered surveyor's cairn of stacked flat stones. Sky heavy and even edge to edge, no sun, no shafts. The coldest frame in the episode."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0545",
+   "image_number": 545,
+   "timestamp": "18:08–18:10",
+   "shot_lens": "MCU · 50mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "rise, Septon Barth—Hand to",
+   "visual_beat": "Medium close-up — `CHAR-VAL-003` from behind, her hands and her hair doing the work",
+   "file_path": "assets/batch_055/VAL-EP001-IMG0545.png",
+   "shot_type": "MCU · 50mm",
+   "qc_status": "APPROVED",
+   "md5": "208fb8e241f0b8f5230296f27a4d9f9e",
+   "size_bytes": 1489526,
+   "resolution": "1376x768",
+   "drive_file_id": "1kc2DfSVh8CuAh2egM4iunJHbMHrAy4aq",
+   "drive_url": "https://drive.google.com/file/d/1kc2DfSVh8CuAh2egM4iunJHbMHrAy4aq/view",
+   "md5_verified_on_drive": true,
+   "rerender_of": "Re-render of pass 1, in which the fingertips rendered a deep red that read as raw flesh or blood at 4x. Pass 2 cools the hand to pale skin with soot grime only; braid, collar, bowl and wall carried over unchanged. Also reframed: delivered letterboxed, cropped 34px top / bottom band and rescaled to 1376x768.",
+   "qc_note": "MCU 50mm from **directly behind and slightly above** the fire-mage: at 4x the frame holds a crown of coiled platinum braids wound with red-gold wire and two black glass pins, the nape, the standing collar of charcoal silk and deep red linen with bronze-thread embroidery, and the shard collar of volcanic glass and red gold. **No face, no profile, no eye, no cheek** — the woman is identified entirely by the back of her head and her hand. Her right hand rests open and spread on the ledge: pale, dry skin, **soot and grime at the nails and creases, no red, no blood, no wound**. Ahead of her an iron bowl of cold ash gives one thread of smoke. The wall behind is poured fused mass with frozen drips. Nothing glowing, no glyphs."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0546",
+   "image_number": 546,
+   "timestamp": "18:10–18:12",
+   "shot_lens": "MS · 35mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "King Jaehaerys the Conciliator",
+   "visual_beat": "Dynamic medium lateral tracking angle — the destruction of the copies",
+   "file_path": "assets/batch_055/VAL-EP001-IMG0546.png",
+   "shot_type": "MS · 35mm",
+   "qc_status": "NOT_STARTED",
+   "qc_note": "Not yet generated. Generation cap spent this turn: two batch-054 close-out frames, five 055 frames, four rejects, and one call that failed outright."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0547",
+   "image_number": 547,
+   "timestamp": "18:12–18:14",
+   "shot_lens": "MCU · 65mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "and perhaps the keenest",
+   "visual_beat": "Compressed telephoto dramatic subject framing — not yet briefed",
+   "file_path": "assets/batch_055/VAL-EP001-IMG0547.png",
+   "shot_type": "MCU · 65mm",
+   "qc_status": "NOT_STARTED",
+   "qc_note": "Not yet generated."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0548",
+   "image_number": 548,
+   "timestamp": "18:14–18:16",
+   "shot_lens": "MS · 50mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "student of dragonkind Westeros ever",
+   "visual_beat": "Medium cinematic subject focus — not yet briefed",
+   "file_path": "assets/batch_055/VAL-EP001-IMG0548.png",
+   "shot_type": "MS · 50mm",
+   "qc_status": "NOT_STARTED",
+   "qc_note": "Not yet generated."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0549",
+   "image_number": 549,
+   "timestamp": "18:16–18:18",
+   "shot_lens": "WS · 35mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "produced—dared to write in",
+   "visual_beat": "Wide environmental storytelling tableau — not yet briefed",
+   "file_path": "assets/batch_055/VAL-EP001-IMG0549.png",
+   "shot_type": "WS · 35mm",
+   "qc_status": "NOT_STARTED",
+   "qc_note": "Not yet generated."
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0550",
+   "image_number": 550,
+   "timestamp": "18:18–18:20",
+   "shot_lens": "UWA · 24mm",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "narration_slice": "his *Unnatural History* that",
+   "visual_beat": "High-elevation geographic / scale reveal — not yet briefed",
+   "file_path": "assets/batch_055/VAL-EP001-IMG0550.png",
+   "shot_type": "UWA · 24mm",
+   "qc_status": "NOT_STARTED",
+   "qc_note": "Not yet generated."
+  }
+ ]
+}
