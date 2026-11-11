@@ -10,7 +10,7 @@
 
 **The narration names the thing in the negative first, and that is a standing order.** *Not mere animal taming, like breaking a courser* — so **no frame may show a Valyrian riding, haltering, feeding, touching or training a dragon.** The chapter's whole claim is that this was something else, and the images have to carry the something-else without illustrating it. **What they show is procedure: heat, broken stone, bandaged arms, attrition, and rock with heat inside it.**
 
-**Render/QC status:** **5 of 10 approved, uploaded and MD5-verified · `IMG0507`–`0510` not rendered.** Three letterbox crops.
+**Render/QC status:** **CLOSED — 10 of 10 approved, uploaded and MD5-verified, all first pass.** Four letterbox crops.
 
 | Frame | Status | Note |
 | :--- | :--- | :--- |
@@ -20,10 +20,10 @@
 | `IMG0504` | ✅ Approved, uploaded | 35mm: eleven survivors against a shelf, four covered shapes unregarded on the floor. |
 | `IMG0505` | ✅ Approved, uploaded | 24mm from the rim at night: one trench and six other fires. **All of them small.** |
 | `IMG0506` | ✅ Approved, uploaded | 24mm up a fissure: **heat inside the rock**, one small figure looking up. |
-| `IMG0507` | ⏳ Not rendered | 85mm macro — **glyph**. |
-| `IMG0508` | ⏳ Not rendered | 85mm close detail. |
-| `IMG0509` | ⏳ Not rendered | 100mm tactile light study — **the blood, rendered as material.** |
-| `IMG0510` | ⏳ Not rendered | 40mm wide bridge out. |
+| `IMG0507` | ✅ Approved, uploaded | 85mm macro: marks **gouged** into basalt, worn, overlapping. **Nothing resolves at 2.5x.** |
+| `IMG0508` | ✅ Approved, uploaded | 85mm: a hand braced, a **flint point cutting the line**, dust falling from the tip. |
+| `IMG0509` | ✅ Approved, uploaded | 100mm: an old dried stain stiffened in folded wool, an empty copper bowl. **Material.** |
+| `IMG0510` | ✅ Approved, uploaded | 40mm: four small figures walking out toward flat daylight. **Nobody looks back.** |
 
 **`0503` is the batch in one image, and it was the hardest to get.** Two soot-black pairs of hands winding a strip of torn grey linen around a dusty forearm, cropped at the collarbone so no head is ever in frame. **An empire's founding technology turns out to be a bandage** — that is the exact register the narration is asking for when it says *centuries of lethal trial and error among the calderas*, and it is the sort of image that reads as documentary rather than as myth.
 
@@ -40,4 +40,12 @@
 - **`0510` bridges out** on a 40mm wide, and should end the trials on distance rather than on drama.
 - **Every negation from §4e still applies**: no magic, no glowing runes, no energy, no aura, no sparks, no god-light, no gloss or wet sheen, no membrane, no flesh, no levitation, no dragon, no face.
 
-**Next — render `IMG0507`–`0510` to close Batch 051.** Then Batch 052 (`17:00–17:20`), where the trials are done and the episode turns toward what was built with the power they bought.
+**The glyph beat solved itself by refusing to be a glyph, and it closed the batch without a single reject.** `0507` is a wall of marks **gouged** into dry basalt — cut not painted, each channel a few millimetres deep with a raised lip of displaced stone, clustered vertical strokes and shallow curves, the oldest worn almost away, some cut over older ones, one abandoned halfway, ash settled in the grooves. At 2.5x **nothing resolves into a symbol.** `0508` then shows the act itself: a thin hand braced flat on the stone and a **flint point dragging a line down the wall**, rock dust falling from the tip.
+
+**Showing the cutting beats showing the sign.** A mark someone made with no idea it would ever be read is worth more than any invented alphabet, and it satisfies the writing ban without a single evasion — the same principle as `0495`'s eroded wall and the Citadel's blurred pages, arriving now as an action rather than an object.
+
+**`0509` renders "blood" as material and nothing else**: an old matt brown-black stain stiffened into folded grey wool on the basalt floor, edged where the liquid stopped spreading, beside an empty dented copper bowl. No wound, no body, no vessel. **Third time this chapter has got its hardest content by showing residue instead of event.**
+
+**`0510` closes the sequence on distance rather than drama.** Four small figures walk out through a jagged rock mouth toward flat colourless daylight along an ash path worn broad by many bare feet, with a coal fire still burning unattended behind them. **Nobody looks back.** After eight frames of attrition and one subtraction, the last image of the trials is a decision already made.
+
+**Batch 051 closed 10/10, all first pass. Next: Batch 052 (`17:00–17:20`) — the horns.** *First came the horns. Hollowed from the curved horns of giant dragons or wrought of…* The instruments of mastery arrive, which means the fused-stone rule, the no-legible-glyph rule and the no-dragon-handling rule all apply at once.

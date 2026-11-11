@@ -58,7 +58,7 @@
     50
   ],
   "next_batch": 51,
-  "next_image_number": 507,
+  "next_image_number": 511,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1939,8 +1939,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-14T00:35:00Z",
-  "verified_progress_percent": "48.29%",
+  "last_updated": "2026-11-14T01:20:00Z",
+  "verified_progress_percent": "48.76%",
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3636,7 +3636,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 507,
+  "verified_image_count": 512,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -9621,6 +9621,24 @@
       "upload_checksum_verified": true
     },
     {
+      "scene_id": "VAL-EP001-IMG0503",
+      "timestamp": "16:44–16:46",
+      "narration_slice": "refined across centuries of",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Lethal cavern trials of fire, glyph, sound, and blood",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-002"
+      ],
+      "drive_file_id": "1T5Pp9zNEIw1WyPEY1SrdWE0iHIO8_sRt",
+      "drive_url": "https://drive.google.com/file/d/1T5Pp9zNEIw1WyPEY1SrdWE0iHIO8_sRt/view",
+      "md5": "b0e265439551ee88cfeefb07e79975d5",
+      "size_bytes": 2545121,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
       "scene_id": "VAL-EP001-IMG0504",
       "timestamp": "16:46–16:48",
       "narration_slice": "lethal trial and error among",
@@ -9673,18 +9691,87 @@
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0507",
+      "timestamp": "16:52–16:54",
+      "narration_slice": "human affairs—not mere animal taming,",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Lethal cavern trials of fire, glyph, sound, and blood",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-002"
+      ],
+      "drive_file_id": "1FaYjKvnLS8A5NSkT1FojBBgiME4zwy14",
+      "drive_url": "https://drive.google.com/file/d/1FaYjKvnLS8A5NSkT1FojBBgiME4zwy14/view",
+      "md5": "45278647bf850ef441d9a28fa6ad0bf1",
+      "size_bytes": 1328332,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0508",
+      "timestamp": "16:54–16:56",
+      "narration_slice": "like breaking a courser,",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Lethal cavern trials of fire, glyph, sound, and blood",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-002"
+      ],
+      "drive_file_id": "1IQByLxRuJZxTbzCwAp8GQdTqZz6YFPkQ",
+      "drive_url": "https://drive.google.com/file/d/1IQByLxRuJZxTbzCwAp8GQdTqZz6YFPkQ/view",
+      "md5": "c768163a0f10fcf0e66e884b420c91ab",
+      "size_bytes": 2177281,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0509",
+      "timestamp": "16:56–16:58",
+      "narration_slice": "but dominion forged through fire,",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Lethal cavern trials of fire, glyph, sound, and blood",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-002"
+      ],
+      "drive_file_id": "1DdRryHmOYddMhMUmHdMb5oJSpjfQwbBr",
+      "drive_url": "https://drive.google.com/file/d/1DdRryHmOYddMhMUmHdMb5oJSpjfQwbBr/view",
+      "md5": "c2682ff5ae600d0061473c3ccae59b36",
+      "size_bytes": 2443638,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0510",
+      "timestamp": "16:58–17:00",
+      "narration_slice": "glyph, sound, and blood.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Lethal cavern trials of fire, glyph, sound, and blood",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-002"
+      ],
+      "drive_file_id": "1RWUGqchITgY-AJ451tEeZ8d1uqWMaZXD",
+      "drive_url": "https://drive.google.com/file/d/1RWUGqchITgY-AJ451tEeZ8d1uqWMaZXD/view",
+      "md5": "58769bd447148d94a18d996ad7518d13",
+      "size_bytes": 1542395,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
     }
   ],
-  "batch_051_status": "PARTIAL_5_OF_10_UPLOADED_MD5_VERIFIED_0507_0510_NOT_RENDERED",
-  "batch_051_drive_folder_id": "1n5n698uI6mSNNAQ4PzMxenrCc5iwvQ",
-  "batch_051_drive_verified_count": 5,
-  "batch_051_pending_completion_scenes": [
-    "VAL-EP001-IMG0507",
-    "VAL-EP001-IMG0508",
-    "VAL-EP001-IMG0509",
-    "VAL-EP001-IMG0510"
-  ],
+  "batch_051_status": "COMPLETE_10_OF_10_UPLOADED_MD5_VERIFIED",
+  "batch_051_drive_folder_id": "1n5n698uI6mSNNAQ4PzETMxenrCc5iwvQ",
+  "batch_051_drive_verified_count": 10,
+  "batch_051_pending_completion_scenes": [],
   "batch_051_note": "Glyph, sound and blood. The narration names what the visuals have been building - dominion forged through fire, glyph, sound and blood, explicitly not animal taming - so the frames show procedure rather than power: a runner mid-stride with two already down (0501), a youth kneeling with their back to us under a great deal of empty stone (0502), two pairs of hands winding linen around a forearm (0503), eleven survivors seated against a rock shelf while four covered shapes lie unregarded on the floor (0504), the whole caldera at night with other trials burning in the dark (0505), and one fissure with heat in the rock and a single child-sized figure looking up at it (0506).",
   "the_phrase_rule": "**Dominion forged through fire, glyph, sound, and blood - NOT animal taming.** No frame may show anyone riding, haltering, touching, feeding or training a dragon, and 'breaking a courser' imagery is forbidden by the narration itself. Power is shown as procedure: heat, broken stone, bandaged arms, attrition, and rock with heat inside it.",
-  "moderation_rule": "Bodies in distress get blocked or drift off-brief. 0503's first brief (blistered skin) was refused by content moderation, and 0500 drifted twice. Describe **soot, sweat, dust, linen and posture**; never burns, wounds, blood or injury, even when the narration says 'blood'."
+  "moderation_rule": "Bodies in distress get blocked or drift off-brief. 0503's first brief (blistered skin) was refused by content moderation, and 0500 drifted twice. Describe **soot, sweat, dust, linen and posture**; never burns, wounds, blood or injury, even when the narration says 'blood'.",
+  "batch_051_close_note": "Closed 10/10. The glyph beat solved itself by refusing to be a glyph: 0507 is gouged, worn, overlapping rock with nothing resolvable in it even at 2.5x, and 0508 shows the flint actually cutting the line with dust falling - more eloquent than any symbol. 0509 renders 'blood' as an old dried stain stiffened into folded wool beside an empty copper bowl. 0510 walks four small figures out of the cavern toward flat daylight with the fire still burning behind them, and nobody looks back.",
+  "glyph_rule": "**A glyph must never be legible.** Score it into stone - cut, gouged, worn, overlapping, ash in the grooves - and let it never resolve into a letter, rune or symbol at magnification. 0507 passed because it looks like marks made by people counting or trying to remember, not writing. 0508 passed because showing the flint cutting the line beats showing the finished sign. Precedent chain: 0495 eroded wall carving, the Citadel's blurred pages, now 0507/0508."
 }

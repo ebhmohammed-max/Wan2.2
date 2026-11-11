@@ -729,7 +729,7 @@ The decision to write it off rather than spend a third generation was deliberate
 **Batch 050 CLOSED 9 of 10. Verified progress: 507/1,050 (48.29%)** — Batches 045–049 closed at 10/10, 050 at 9/10 by subtraction, and **Batch 051 is open at 5/10**. `IMG0160` remains the one open correction from an earlier batch.
 
 
-### Batch 051 — Glyph, Sound and Blood (`16:40–17:00`) — **Open · 5/10 approved and uploaded, `IMG0507`–`0510` not rendered**
+### Batch 051 — Glyph, Sound and Blood (`16:40–17:00`) — **CLOSED 10/10**
 
 **The narration finally names the thing the visuals have been building, and it names it in the negative first.** *Not mere animal taming, like breaking a courser, but dominion forged through fire, glyph, sound, and blood.* That sentence is a standing order for the rest of the episode: **no frame may show a Valyrian riding, haltering, feeding, touching or training a dragon.** The whole claim of the chapter is that this was something else, and the images have to carry the something-else without illustrating it directly.
 
@@ -746,4 +746,12 @@ The decision to write it off rather than spend a third generation was deliberate
 
 **Director's boundaries held across all five approved frames:** no face, no readable expression, no dragon, no riding or handling, no glowing runes or floating symbols, no energy or aura, no god-light, no gloss or wet sheen on the rock, no depicted blood. All are `1376x768`; `0498`, `0504` and `0506` were letterbox-cropped (`-crop 1376x744+0+12`) and re-verified.
 
-**Verified progress: 507/1,050 (48.29%)** — Batches 045–049 closed at 10/10, Batch 050 closed at 9/10 by subtraction, Batch 051 open at 5/10. **Order of work next: render `IMG0507`–`0510` to close 051**, then Batch 052 (`17:00–17:20`). `IMG0160` remains the one open correction from an earlier batch.
+**The glyph beat solved itself by refusing to be a glyph.** `0507` is a wall of marks **gouged** into dry basalt - cut, not painted, each channel a few millimetres deep with a raised lip of displaced stone, clustered vertical strokes and shallow curves, the oldest worn almost away, some cut over older ones, one abandoned halfway. At 2.5x **nothing resolves into a symbol.** `0508` then shows the act: a thin hand braced on the stone and a flint point dragging a line down the wall, rock dust falling from the tip. **Showing the cutting beats showing the sign** - a mark someone made with no idea it would ever be read is worth more than any invented alphabet, and it satisfies the writing ban without evasion.
+
+**`0509` renders "blood" as material and nothing else** — an old, matt brown-black stain stiffened into folded grey wool on the basalt floor, edged where the liquid stopped spreading, beside an empty dented copper bowl. No wound, no body, no vessel of blood. It is the third time this chapter has got its most difficult content by showing **residue instead of event** (`0495`'s eroded wall, `0503`'s bandaged arm, now this).
+
+**`0510` closes the sequence on distance rather than drama.** Four small figures walk out through a jagged rock mouth toward flat colourless daylight, along an ash path worn broad by many bare feet coming and going, with a coal fire still burning unattended behind them. **Nobody looks back.** After eight frames of attrition, the last image is a decision already made.
+
+**Two filing faults caught and corrected, both worth recording.** The Batch 051 Drive folder ID was transcribed one character wrong (`…PzMx…` for `…PzETMx…`), which produced a 404 on the first upload; the ID was recovered by re-listing the episode folder and the erroneous string corrected in every file that carried it. And `0503` — generated during Batch 050's close — was still sitting in the 050 folder with a pending status; it was moved, re-listed and marked approved. **Both folders were then re-listed to confirm exact counts: 050 holds nine, 051 holds ten.**
+
+**Batch 051 CLOSED 10/10. Verified progress: 512/1,050 (48.76%)** — Batches 045–049 and 051 all closed at 10/10, Batch 050 at 9/10 by subtraction, and **Batch 052 (`17:00–17:20`) opens next at the horns.** `IMG0160` remains the one open correction from an earlier batch.
