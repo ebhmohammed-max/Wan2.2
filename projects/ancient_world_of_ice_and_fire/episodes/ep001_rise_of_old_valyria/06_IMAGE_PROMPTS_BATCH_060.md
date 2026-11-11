@@ -1,7 +1,7 @@
 # BATCH 060 — IMAGE PROMPTS
 **Episode 001 · Before the Dragons: The Rise of Old Valyria**
 **Timecode 19:40–20:00 · Ch. IV · frames VAL-EP001-IMG0591 – IMG0600**
-**Status: PARTIAL — 5 of 10 APPROVED, 5 REVISIONS QUEUED (`0591` profile resolves / `0592` god-light shafts / `0598` chain-as-choker on the human / `0599` glowing rift-band / `0600` second dragon). Five checksums re-read and matched on Drive; verified progress unchanged at 589/1,050.**
+**Status: CLOSED — 10 of 10 (five revisions). All checksums re-read and matched on Drive.**
 
 Shared opener on every prompt (do not drop it):
 
@@ -26,6 +26,8 @@ Shared opener on every prompt (do not drop it):
 **Beat across the batch:** ascent side-slip (0591–0593) → height and the four horizons (0594–0596) → the world-below texture (0597–0599) → the shadow passed in minutes (0600). Ends high; Batch 061 opens the argument with the brick walls of Essos.
 
 ---
+
+**Batch status note:** closed 10/10 — five first-pass approvals (`0593`–`0597`), five revisions passed: `0591` (resolved profile → hair occludes everything; no features), `0592` (god-light shafts → flat sky, ONE horizon seam), `0598` (chain-as-choker on the human → nothing encircles the human throat; coat collar plain buckle), `0599` (emitting rift-band → washed layered cloud), `0600` (second dragon → east glare completely empty). This is NOT a zero-rejection batch — the roughest chapter on first-pass failures since the register opened. Verified progress after close: **594/1,050 (56.57%).**
 
 ## VAL-EP001-IMG0591 — MS · 35mm — 19:40–19:42
 **Narration:** “sunlight rises the first dragonrider—no”
