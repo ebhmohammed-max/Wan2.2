@@ -1,0 +1,251 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1KvpZywicth-pVpwyAUwA8Amdh_kvpmQ_",
+  "batch_drive_folder_name": "Batch_036_Images_0351-0360_Torrents_of_Flame_11m40s-12m00s",
+  "batch_number": 36,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "11:40–12:00",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "approved_uploaded_count": 10,
+  "drive_verified_count": 10,
+  "pending_rerender_count": 0,
+  "pending_generate_count": 0,
+  "pending_completion_scenes": [],
+  "generations_used": 13,
+  "verified_episode_frames_after_batch": 366,
+  "verified_episode_percent_after_batch": "34.86%",
+  "visual_qc_note": "The fire batch, and the first time the narration has demanded flame — reversing four batches of discipline in which fire was the thing to avoid. It closes cleanly: thirteen generations for ten frames, and the two fire inserts that carry the verse's destruction (0357's black-cored jet, 0358's blistering ledge with no body in frame) both landed first time. The cost was entirely silhouette: 0355 collapsed the animal into a feathered fan of plates at distance, and 0356 turned it into a bipedal fire demon. Both were cured compositionally rather than by negation.",
+  "four_limb_note": "No limb-count failures this batch. Both rejections were silhouette legibility: a folded wing resolving as a ribbed fan at distance, and a reared neck with both wing-arms spread resolving as a bipedal figure. Limb number and silhouette legibility are separate checks and the second is now the harder one.",
+  "letterbox_scan_note": "Per-row content-box scan run on every frame. 0356 and 0357 were full-bleed on arrival; 0351, 0352, 0353, 0354, 0357-pass-1 and 0358 carried strips (rows 12-755) and 0355 (rows 12-756); all cropped and resized back to 1376x768.",
+  "md5_verification_note": "All ten Drive checksums were re-listed from the folder after upload and match the local md5sum byte-for-byte (10/10).",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0351",
+      "timestamp": "11:40–11:42",
+      "narration_slice": "and more supple than",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_036/VAL-EP001-IMG0351.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1z2kd9046Lkfoh8hxO0JpaJQl5KAw-HW2",
+      "drive_url": "https://drive.google.com/file/d/1z2kd9046Lkfoh8hxO0JpaJQl5KAw-HW2/view?usp=drivesdk",
+      "md5": "1f081be457485a55083d2b485432732e",
+      "size_bytes": 1364373,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Lateral tracking MS alongside the walking animal: basalt-black armour plates carried over muscle that rolls like something far lighter than stone — the verse's 'more supple than forged steel' rendered as carriage rather than as texture. Spine horizontal, body running out of frame at both ends so neither head nor tail closes the silhouette, hairline ember only in two plate seams. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0352",
+      "timestamp": "11:42–11:44",
+      "narration_slice": "forged steel. Beneath overlapping",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_036/VAL-EP001-IMG0352.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1Qk02RdGvOpHfZe7NP_BjwtEW0CibGjzS",
+      "drive_url": "https://drive.google.com/file/d/1Qk02RdGvOpHfZe7NP_BjwtEW0CibGjzS/view?usp=drivesdk",
+      "md5": "3fde7aba8dc075fa446025c462cccae3",
+      "size_bytes": 1429261,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 65mm compression of overlapping scutes stacking like hammered plate: thick opaque oxidised basalt-black faces, worn iron-grey edges where one overlaps the next, tight dark joins, irregular organic margins rather than machined edges. One ember hairline glowing deep in a seam. Armour filling the frame on all four sides, no head. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0353",
+      "timestamp": "11:44–11:46",
+      "narration_slice": "scutes thicker than bronze shields",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_036/VAL-EP001-IMG0353.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1AoAjMbM0JuNTKRoaU2nipERjvkPmYq3c",
+      "drive_url": "https://drive.google.com/file/d/1AoAjMbM0JuNTKRoaU2nipERjvkPmYq3c/view?usp=drivesdk",
+      "md5": "0b4a5fedc43a118e634a096af28206b8",
+      "size_bytes": 1789466,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Throat and chest at 50mm from below and to the side: scutes broader and thicker than bronze shields layered in descending rows, their edges worn to a dull bronze-grey from two centuries of use, with deep ember-red heat glowing between the rows from inside the flesh. Jaw and head out of frame above — no eye, no snout, no face. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0354",
+      "timestamp": "11:46–11:48",
+      "narration_slice": "beat hearts hot enough",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_036/VAL-EP001-IMG0354.png",
+      "resolution": "1376x768",
+      "drive_file_id": "13rxXm1rNY3I762fcfHpV7Ohhv3oVmegb",
+      "drive_url": "https://drive.google.com/file/d/13rxXm1rNY3I762fcfHpV7Ohhv3oVmegb/view?usp=drivesdk",
+      "md5": "f4b583f0c9c5d99b93ae9a67dc42b20a",
+      "size_bytes": 1269881,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 2. The animal at rest on a black shelf while damp mountain air turns to steam around it: sparse thin filaments of dull grey vapour peeling off the wet floor a few metres away and drifting upward, semi-transparent, never a cloud. Four limbs and a folded wing legible, thin ember cracks in the foreground rock, most of the frame dark. Pass 1 rendered the steam as a bright white fog machine filling the cave and had to be thrown out. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0355",
+      "timestamp": "11:48–11:50",
+      "narration_slice": "to hiss mountain dampness",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_036/VAL-EP001-IMG0355.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1mmg5omHiggXyBJGHToF_BQVKp43WZ_Sh",
+      "drive_url": "https://drive.google.com/file/d/1mmg5omHiggXyBJGHToF_BQVKp43WZ_Sh/view?usp=drivesdk",
+      "md5": "5719125ac25b17fc321a3bd602ccd2fc",
+      "size_bytes": 1957147,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 2. Ultra-wide from high on the wall looking steeply down: a cavern floor the size of a cathedral nave cracked into immense black basalt plates, the animal resting on it at about a fifth of the frame width and reading clearly as a four-legged beast with a long neck and tail and one folded wing lying flat as an unbroken sheet. Huge dark negative space, walls climbing out of frame. Pass 1 failed twice — the animal collapsed into a ribbed fan of plates and the floor came back flat mid-grey. Reframed rows 12-756."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0356",
+      "timestamp": "11:50–11:52",
+      "narration_slice": "into steam, before unleashing torrents",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_036/VAL-EP001-IMG0356.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1I_3FAq-mAgI8mH5-wAHCo-xzpAlGaVpF",
+      "drive_url": "https://drive.google.com/file/d/1I_3FAq-mAgI8mH5-wAHCo-xzpAlGaVpF/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 2. The breath, and the batch's most instructive fix. Seen in clean profile: the head and long neck are thrown back and up, the ember glow runs up the throat and under-jaw only, and a compact pressurised jet of orange-and-black fire spills from the parted jaws with black smoke curling above. The body stays low and horizontal across the bottom third with four planted limbs and the folded wing on the floor. Pass 1 was rejected for reading as a bipedal fire demon — reared vertical with both wing-arms flung out symmetrically and the ember-lit chest filling the frame like a torso. Confining the glow to the throat and holding the pose in profile solved both problems at once. Reframed rows 12-755.",
+      "md5": "836f5572b3ac6c007958208dde725de7",
+      "size_bytes": 1400675
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0357",
+      "timestamp": "11:52–11:54",
+      "narration_slice": "of orange-and-black flame fierce",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_036/VAL-EP001-IMG0357.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1zQE4ifr-HQODvKn3vPYWlXwQLwSywD7m",
+      "drive_url": "https://drive.google.com/file/d/1zQE4ifr-HQODvKn3vPYWlXwQLwSywD7m/view?usp=drivesdk",
+      "md5": "71bd74deda5020b2c222975c05aaeeb5",
+      "size_bytes": 2504336,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Macro of the flame at the moment it leaves the mouth: dense black core, translucent orange and amber outer layers, edges fraying into licks and black smoke, a few dull grey ash flecks drifting. Scorched jaw scutes at the frame edges are lit hot on their edges while their plate faces stay black. Studied as fire texture against stone, with no head and no eye. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0358",
+      "timestamp": "11:54–11:56",
+      "narration_slice": "enough to reduce flesh",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_036/VAL-EP001-IMG0358.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1rr_Jhnv0gd1TZm9lznQ8XA74In-pL1B5",
+      "drive_url": "https://drive.google.com/file/d/1rr_Jhnv0gd1TZm9lznQ8XA74In-pL1B5/view?usp=drivesdk",
+      "md5": "bc79b402c80ed42558ce10f57e50f045",
+      "size_bytes": 1722686,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Aftermath insert at 85mm: a patch of basalt ledge blistering and slumping where the flame has passed, its edge incandescent orange fading through dull red into black, vesicles catching their own glow, and a thin crust of matte grey ash lifting in flakes. The dark underside of the jaw sits out of focus beyond. Deliberately contains no body of any kind — the verse's 'flesh to ash' is carried by stone alone. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0359",
+      "timestamp": "11:56–11:58",
+      "narration_slice": "to ash and turn basalt",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_036/VAL-EP001-IMG0359.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1VCC2fwe5tT5g4qawi0z4Avm9dk2T3P6h",
+      "drive_url": "https://drive.google.com/file/d/1VCC2fwe5tT5g4qawi0z4Avm9dk2T3P6h/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Near-macro of basalt turning molten: a field of black blistered rock split by one open seam of glowing stone, the rock slumping and sagging either side, the surface passing from black through dull red into a hot orange core, vesicles catching their own glow, and matte grey ash flakes lifting and lying on the crust. Stone and heat only — no animal anywhere. Full-bleed.",
+      "md5": "ff5e80467ba1e41b3691348ddfb9fadb",
+      "size_bytes": 2306496
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0360",
+      "timestamp": "11:58–12:00",
+      "narration_slice": "ledges molten in seconds.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_036/VAL-EP001-IMG0360.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1A8Bxr_OcDMAJ9ugDI5YH4VqSic4POSlV",
+      "drive_url": "https://drive.google.com/file/d/1A8Bxr_OcDMAJ9ugDI5YH4VqSic4POSlV/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Transitional wide out of the chapter. A molten basalt shelf runs horizontally through the frame as the brightest element, its heart orange and its edges dull red, the ledges above it slumped. Beyond and above, the animal stands in silhouette on four limbs with its long neck rising out of the top edge so no head is visible, and one folded wing carried as a closed ribbed case. Thin black smoke crosses the middle. Reads as landscape and aftermath rather than a creature portrait. Reframed rows 12-755.",
+      "md5": "ecd203944b9d7307c896ee299dc5c704",
+      "size_bytes": 1771231
+    }
+  ]
+}

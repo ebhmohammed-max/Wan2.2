@@ -1,0 +1,221 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "visual_style_standard": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location cinematography (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade: warm sandstone highlights, muted earth/stone/bronze midtones, deep ink-navy shadows)",
+  "style_reference_benchmark": "The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_number": 5,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "01:20–01:40",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "ALL_10_RENDERED_IN_65MM_CINEMATIC_GRADE_AND_QC_APPROVED",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0041",
+      "timestamp": "01:20–01:22",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "wide continent of Essos",
+      "shot_type": "Continental Essos Post-Winter Panorama: Parting Storm Clouds & Winding Rivers (24mm)",
+      "visual_beat": "65mm mountain-pass vista over vast ancient Essos: frost-patched foreground boulders overlooking winding rivers, steppes & parting ink-navy storm clouds",
+      "character_refs": [],
+      "location_refs": [
+        "ARCHIVAL-CHRONOLOGY"
+      ],
+      "file_path": "assets/batch_005/VAL-EP001-IMG0041.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2413639,
+      "md5": "23764608d042a48c8a5bf76f2966b5ca",
+      "resolution": "1376x768",
+      "drive_file_id": "1zV9plq87-4ptrnUJQEvhdmUPb4Z0uP3L",
+      "drive_url": "https://drive.google.com/file/d/1zV9plq87-4ptrnUJQEvhdmUPb4Z0uP3L/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0042",
+      "timestamp": "01:22–01:24",
+      "shot_lens": "MS · 50mm",
+      "narration_slice": "was still emerging from the",
+      "shot_type": "Thawing Essosi Riverbank: Melting Winter Ice Slabs & Early Green Shoots (50mm)",
+      "visual_beat": "65mm riverbank thaw detail: dripping sediment-stained winter ice slabs breaking apart in dark water beside fresh green shoots & hemp-tied timber mooring post",
+      "character_refs": [],
+      "location_refs": [
+        "ARCHIVAL-CHRONOLOGY"
+      ],
+      "file_path": "assets/batch_005/VAL-EP001-IMG0042.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2864118,
+      "md5": "eb5bc38babb4df03cdd0b8aa92ef6f29",
+      "resolution": "1376x768",
+      "drive_file_id": "1MrAE8cuVvP84_7XCicHRgKSYd4-s9jjW",
+      "drive_url": "https://drive.google.com/file/d/1MrAE8cuVvP84_7XCicHRgKSYd4-s9jjW/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0043",
+      "timestamp": "01:24–01:26",
+      "shot_lens": "WS · 35mm",
+      "narration_slice": "long, traumatized shadow of",
+      "shot_type": "Bronze-Age Essosi Survivors Passing Frost-Shattered Mud-Brick Ruins (35mm)",
+      "visual_beat": "65mm anthropological tracking wide: weary Bronze-Age Essosi survivors in sheepskins, coarse wool & reed baskets passing snow-drifted ruined mud-brick walls",
+      "character_refs": [],
+      "location_refs": [
+        "ARCHIVAL-CHRONOLOGY"
+      ],
+      "file_path": "assets/batch_005/VAL-EP001-IMG0043.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2313724,
+      "md5": "ee45ec337719afefe0802bda268adf70",
+      "resolution": "1376x768",
+      "drive_file_id": "1SfcWFyEaEAMFfXavgAO9jNzLhwwwOzeX",
+      "drive_url": "https://drive.google.com/file/d/1SfcWFyEaEAMFfXavgAO9jNzLhwwwOzeX/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0044",
+      "timestamp": "01:26–01:28",
+      "shot_lens": "CU · 85mm",
+      "narration_slice": "a catastrophe remembered in every",
+      "shot_type": "Torchlit Ancient Sandstone Bas-Relief of Huddled Families Under Winter Clouds (85mm)",
+      "visual_beat": "65mm raking torchlight close-up on cracked sandstone sanctuary relief: carved robed families huddling beneath stylized winter storm clouds & frozen waves",
+      "character_refs": [],
+      "location_refs": [
+        "ARCHIVAL-CHRONOLOGY"
+      ],
+      "file_path": "assets/batch_005/VAL-EP001-IMG0044.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2422029,
+      "md5": "8af3a42ba968e5917ee967ddb1abf9fe",
+      "resolution": "1376x768",
+      "drive_file_id": "1iFDVsoCYlj5R6WUORmfhQp2-0YHAj_WC",
+      "drive_url": "https://drive.google.com/file/d/1iFDVsoCYlj5R6WUORmfhQp2-0YHAj_WC/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0045",
+      "timestamp": "01:28–01:30",
+      "shot_lens": "WS · 28mm",
+      "narration_slice": "tongue: the Long Night.",
+      "shot_type": "Long Night Ridge Watch-Altar: Wind-Whipped Bronze Fire-Brazier in Darkness (28mm)",
+      "visual_beat": "65mm Long Night wide: solitary bronze fire-brazier on snow-swept stone ridge altar battling horizontal blowing snow before sunless ink-navy mountain darkness",
+      "character_refs": [],
+      "location_refs": [
+        "ARCHIVAL-CHRONOLOGY"
+      ],
+      "file_path": "assets/batch_005/VAL-EP001-IMG0045.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2004832,
+      "md5": "3e786f0fe6854c2a97e78ca1d0a48421",
+      "resolution": "1376x768",
+      "drive_file_id": "1gyeNqgrfzrxx4VV9Ni1UoP5UeM0g0I2_",
+      "drive_url": "https://drive.google.com/file/d/1gyeNqgrfzrxx4VV9Ni1UoP5UeM0g0I2_/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0046",
+      "timestamp": "01:30–01:32",
+      "shot_lens": "MS · 50mm",
+      "narration_slice": "According to the surviving accounts gathered",
+      "shot_type": "Citadel Library Table: Open Illuminated Chronicle Codex, Scrolls & Candle (50mm)",
+      "visual_beat": "65mm candlelit library table: open brass-clasped leather illuminated chronicle codex, gathered sheepskin scrolls & burning tallow candle in brass holder",
+      "character_refs": [],
+      "location_refs": [
+        "ARCHIVAL-CHRONOLOGY"
+      ],
+      "file_path": "assets/batch_005/VAL-EP001-IMG0046.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2444021,
+      "md5": "2dd531cc7942b6c53c36cc40da68d728",
+      "resolution": "1376x768",
+      "drive_file_id": "1kQYsiTOUENlRQnEmIuLI06QIy50nnhIv",
+      "drive_url": "https://drive.google.com/file/d/1kQYsiTOUENlRQnEmIuLI06QIy50nnhIv/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0047",
+      "timestamp": "01:32–01:34",
+      "shot_lens": "DET · 85mm",
+      "narration_slice": "in The World of Ice",
+      "shot_type": "Macro Vellum Illumination: Huddled Figures & Torch on Frozen Ice Under Black Sky (85mm)",
+      "visual_beat": "65mm macro on calfskin codex page: cracked lapis-navy, bone-white & ochre mineral pigments depicting huddled figures with a lone torch on jagged river-ice",
+      "character_refs": [],
+      "location_refs": [
+        "ARCHIVAL-CHRONOLOGY",
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_005/VAL-EP001-IMG0047.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2654316,
+      "md5": "3231cf318dba9382a62d5422ab483ce4",
+      "resolution": "1376x768",
+      "drive_file_id": "1uLvAqIN-_pOzZ0FUPqQIryXr-52c1dyF",
+      "drive_url": "https://drive.google.com/file/d/1uLvAqIN-_pOzZ0FUPqQIryXr-52c1dyF/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0048",
+      "timestamp": "01:34–01:36",
+      "shot_lens": "WS · 28mm",
+      "narration_slice": "and Fire, bitter darkness had once",
+      "shot_type": "Frozen Mother Rhoyne & Rose-Sandstone Giant River-Turtle Shrine in Long Night (28mm)",
+      "visual_beat": "65mm riverbank wide (locked to ANCHOR-IMG0048): three fur-and-reed-cloaked Rhoynar kneeling at icicle-draped rose-sandstone turtle shrine beside frozen Mother Rhoyne",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_005/VAL-EP001-IMG0048.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2530929,
+      "md5": "5a17a15538207b00e9c7daffaaff43f8",
+      "resolution": "1376x768",
+      "drive_file_id": "142Jj-OPA_0094BjfrTZ9S4A6aP8jTR5q",
+      "drive_url": "https://drive.google.com/file/d/142Jj-OPA_0094BjfrTZ9S4A6aP8jTR5q/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0049",
+      "timestamp": "01:36–01:38",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "gripped the eastern continent for",
+      "shot_type": "High Cliff Panorama: Snowbound Essosi Basin Under Sunless Midday Darkness (24mm)",
+      "visual_beat": "65mm frost-rimed cliff ultra-wide over western Essos locked in generation-long darkness: snow-buried river meanders & two tiny distant amber survivor fires",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_005/VAL-EP001-IMG0049.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 1535092,
+      "md5": "714c5e8bfec0e50224476203b062568f",
+      "resolution": "1376x768",
+      "drive_file_id": "1Y85uQgMLtGtrxeD2eBs1gZpmoyz3t2Fm",
+      "drive_url": "https://drive.google.com/file/d/1Y85uQgMLtGtrxeD2eBs1gZpmoyz3t2Fm/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0050",
+      "timestamp": "01:38–01:40",
+      "shot_lens": "MCU · 50mm",
+      "narration_slice": "an entire generation. Along the vast",
+      "shot_type": "Rhoynish Stone Arch Shelter: Elders & Child Born in Darkness by Ember-Pot (50mm)",
+      "visual_beat": "65mm intimate doorway medium: olive-skinned Rhoynar elders & child bundled in wool and furs warming hands over terracotta ember-pot before frozen Rhoyne watershed",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_005/VAL-EP001-IMG0050.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2624076,
+      "md5": "5dec02d8976d6cb8f2b31c3d2836eed8",
+      "resolution": "1376x768",
+      "drive_file_id": "1wyM5Q85iyYe2tTq6ebmTwFVnLLxDFVLv",
+      "drive_url": "https://drive.google.com/file/d/1wyM5Q85iyYe2tTq6ebmTwFVnLLxDFVLv/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    }
+  ],
+  "batch_drive_folder_id": "1VyMcx2FY3RmAoFzRgf_KUB7MHD3DvPKw",
+  "batch_drive_folder_url": "https://drive.google.com/drive/folders/1VyMcx2FY3RmAoFzRgf_KUB7MHD3DvPKw"
+}

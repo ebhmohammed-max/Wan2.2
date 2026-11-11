@@ -1,0 +1,236 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1Qe46wSukiOYhhKPExnFtXgy3A_NOpvz1",
+  "batch_drive_folder_name": "Batch_041_Images_0401-0410_Womb_Of_Flames_And_Qartheen_Fable_13m20s-13m40s",
+  "batch_number": 41,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "13:20–13:40",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "approved_uploaded_count": 10,
+  "drive_verified_count": 10,
+  "pending_rerender_count": 0,
+  "pending_generate_count": 0,
+  "pending_completion_scenes": [],
+  "generations_used": 10,
+  "verified_episode_frames_after_batch": 416,
+  "verified_episode_percent_after_batch": "39.62%",
+  "visual_qc_note": "The first ten-for-ten batch with no re-render and no crop beyond letterboxing. It is also the batch with the largest tonal swing: 0401-0405 close the Valyrian claim in black rock and one contained ember line, then 0406-0410 open Qarth in a completely new palette of indigo and violet twilight with no warmth anywhere. 0403 is the best single object the episode has produced, a scaled egg-stone split in an ash cradle; 0406 is the strongest new architecture, a carved gate tower under sagging silk awnings; and 0410 gives the Qartheen fable a physical prop, a cracked stone disc in a storyteller's hands.",
+  "silhouette_note": "No dragon anatomy was at risk in this batch: 0401, 0402 and 0404 show only rock, glass and a fragment of a newborn, and 0405's three flyers are distant silhouettes built from the same five-part signature. The animal was deliberately implied in three of the five Valyrian frames, which is both the safest and the most evocative approach for the origin myth.",
+  "letterbox_scan_note": "Per-row content-box scan on all ten frames. Two carried strips and were cropped and resized back to 1376x768: 0403 at rows 0-755 and 0407 at rows 0-755. The other eight were full-bleed.",
+  "new_location_note": "QARTH-MYTHIC is new to the production and is not defined in the location bible, so its form was written for this batch and must be carried forward: a hot, ancient, ornate merchant city of pale carved sandstone, shallow relief carving, arched colonnades, tiered towers, lacquered wood and silk awnings in indigo and violet, rendered entirely in the deep indigo and violet of late twilight with pale blue-white lamps and no gold, no sun, no warm light. The Qartheen figures are anonymous: the storyteller is a back, a shoulder and a pair of hands, never a face.",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0401",
+      "timestamp": "13:20–13:22",
+      "narration_slice": "they proclaimed, were the",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_041/VAL-EP001-IMG0401.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1jAU79U0MwmMwFI_XnzxKIszryGqAutnd",
+      "drive_url": "https://drive.google.com/file/d/1jAU79U0MwmMwFI_XnzxKIszryGqAutnd/view?usp=drivesdk",
+      "md5": "0f3c86729d9242f2ad2737d03f5e987a",
+      "size_bytes": 2123225,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 24mm tilted almost vertically up a volcanic shaft: layered black basalt walls converging on a small pale disc of flat grey sky, wet rock and broken ledges, thin vertical smoke filaments, and one thin ember seam on a cracked ledge deep below. Checked the small anomalous shape at 2x: it is a rock edge catching the ember light, not a figure. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0402",
+      "timestamp": "13:22–13:24",
+      "narration_slice": "literal children of the",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_041/VAL-EP001-IMG0402.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1cZoK32IheO4Ou4cR2p0oBXTSLKyOjvgk",
+      "drive_url": "https://drive.google.com/file/d/1cZoK32IheO4Ou4cR2p0oBXTSLKyOjvgk/view?usp=drivesdk",
+      "md5": "2b5e16f9c6162575d15aa5dbd5a6156d",
+      "size_bytes": 2404932,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 85mm macro across vesicular black basalt: dimpled gas bubbles, cracked ash dust, a fracture split open to a glossy conchoidal glass face with a dull orange glow under one edge, two river-worn pebbles in a shallow dimple ringed by dried pale mineral crust. Tactile and cold, heat contained to one edge. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0403",
+      "timestamp": "13:24–13:26",
+      "narration_slice": "Fourteen Flames—born directly from the",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_041/VAL-EP001-IMG0403.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1TYDcy_yHkwgyvMp15MNpj1-YJQzAEk2m",
+      "drive_url": "https://drive.google.com/file/d/1TYDcy_yHkwgyvMp15MNpj1-YJQzAEk2m/view?usp=drivesdk",
+      "md5": "3c3b9e4973335641cfe28d0d18cbb7a6",
+      "size_bytes": 1627432,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 85mm close-up of a single great volcanic egg-stone in a cradle of warm ash: waist-high, rounded and tapered, entirely covered in hard overlapping char-black plates edged with pale mineral deposit, split along one flaw with glassy inner faces, a thin dark grey smoke filament escaping and a faint contained glow along the crack's lower edge. The best single-object frame of the movement. Full-bleed after reframing rows 0-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0404",
+      "timestamp": "13:26–13:28",
+      "narration_slice": "womb of the volcanoes,",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_041/VAL-EP001-IMG0404.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1bPBsmo1ZivH4rDDPuo6DPAwuTx-VluCB",
+      "drive_url": "https://drive.google.com/file/d/1bPBsmo1ZivH4rDDPuo6DPAwuTx-VluCB/view?usp=drivesdk",
+      "md5": "7b3cbc0f27aa3dde7a020f6c3a01915e",
+      "size_bytes": 2254661,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 100mm looking into the split shell: pale grey-white interior densely pitted and curving into shadow, and on a bed of fine dark ash a single wet glossy dark shape resolving — the curve of a heavy skull and the folded line of a wing, still curled and glistening, not yet a whole animal. The broken edge cuts the frame diagonally, slightly blackened. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0405",
+      "timestamp": "13:28–13:30",
+      "narration_slice": "bestowed uniquely upon Valyria.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Valyrian claim: dragons born directly from Fourteen Flames",
+      "location_refs": [
+        "LOC-VAL-001"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_041/VAL-EP001-IMG0405.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1Uru2ZILevbPma3rVxPovThelvUrqpUAX",
+      "drive_url": "https://drive.google.com/file/d/1Uru2ZILevbPma3rVxPovThelvUrqpUAX/view?usp=drivesdk",
+      "md5": "bb6793bb306efc5044793ecfda0014b6",
+      "size_bytes": 1412073,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 40mm transitional wide: foreground of black scree and cracked cooled lava with obsidian shards, a green ash-fed slope with dark cypresses through the middle, three wild dragons circling low at different heights and depths, the banded cone dissolving into a flat ceiling of low cloud. Clean horizontal division and no human presence. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0406",
+      "timestamp": "13:30–13:32",
+      "narration_slice": "Elsewhere in Essos, storytellers spun",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_041/VAL-EP001-IMG0406.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1wWpT9Xk5gaUGQUA7b6Lw80bayD5yGzpJ",
+      "drive_url": "https://drive.google.com/file/d/1wWpT9Xk5gaUGQUA7b6Lw80bayD5yGzpJ/view?usp=drivesdk",
+      "md5": "ffe405e1181b7cfb1724d17fae0bba65",
+      "size_bytes": 2373607,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Opening Qarth at 28mm from the street: a monumental pale carved sandstone gate tower sheathed in shallow geometric and scroll relief, tiered balconies projecting, silk awnings in indigo, violet and dull crimson sagging between poles. Everything sits in the deep indigo of late twilight; the stone is cool grey-lavender and there is no gold, no sun and no warmth anywhere. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0407",
+      "timestamp": "13:32–13:34",
+      "narration_slice": "stranger fables. In the",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_041/VAL-EP001-IMG0407.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1HJyxRCcuX7KvtbQAGTNQ3ZKhEvdwHDlD",
+      "drive_url": "https://drive.google.com/file/d/1HJyxRCcuX7KvtbQAGTNQ3ZKhEvdwHDlD/view?usp=drivesdk",
+      "md5": "0836d0cdf86e4a930538317041629a47",
+      "size_bytes": 1297934,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 40mm over the shoulder of a seated storyteller: back of a shoulder, a fall of deep violet silk and the edge of a dark head-wrap in soft shadow, no face. Beyond him the city drops away in cool indigo layers, roofs and tiered towers with a scatter of small cool-white lamps, the dark band of the sea and a slightly paler sky. Reframed rows 0-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0408",
+      "timestamp": "13:34–13:36",
+      "narration_slice": "merchant palaces of Qarth, traders",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_041/VAL-EP001-IMG0408.png",
+      "resolution": "1376x768",
+      "drive_file_id": "13ROLlNIbQ_cMOxqCjx7niLqpS0wdcwM8",
+      "drive_url": "https://drive.google.com/file/d/13ROLlNIbQ_cMOxqCjx7niLqpS0wdcwM8/view?usp=drivesdk",
+      "md5": "14517179caca0712a191da19e6e17547",
+      "size_bytes": 2558137,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 28mm deep focus down into the merchant quarter: flat roofs and slender towers in pale stone, long violet and indigo awnings strung over the narrow streets in catenary curves, cool white lamps and pale blue-white braziers below, and beyond the last roofs a harbour full of thin masts under a luminous indigo sky. Opulent, crowded, strange — and entirely cool. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0409",
+      "timestamp": "13:36–13:38",
+      "narration_slice": "long repeated an enchanting",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_041/VAL-EP001-IMG0409.png",
+      "resolution": "1376x768",
+      "drive_file_id": "13NlV57nAYeYw5wEdP73QOCGKOqGznkNf",
+      "drive_url": "https://drive.google.com/file/d/13NlV57nAYeYw5wEdP73QOCGKOqGznkNf/view?usp=drivesdk",
+      "md5": "2382325fda16317d1098aac8cbbfa9db",
+      "size_bytes": 2283897,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 24mm ultra-wide from a wet stone quay: the city climbing in tiers behind the waterfront, carved facades and arched colonnades, violet awnings, sparse pale lamps, masts and dark hulls in the harbour, the paving reflecting indigo in long flat streaks. Sky a deep even indigo with the last violet band low on the horizon. Nothing warm in frame. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0410",
+      "timestamp": "13:38–13:40",
+      "narration_slice": "myth: that two moons once",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — Qartheen trader fable of the cracked second moon",
+      "location_refs": [
+        "QARTH-MYTHIC"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_041/VAL-EP001-IMG0410.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1FMtful-GBZv5VqJI0Sg846qU6WcRBnmJ",
+      "drive_url": "https://drive.google.com/file/d/1FMtful-GBZv5VqJI0Sg846qU6WcRBnmJ/view?usp=drivesdk",
+      "md5": "c40d9011dab73a8bdfd56d8850ba781b",
+      "size_bytes": 2498460,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 50mm medium close-up of the storyteller's hands cupping a flat disc of dark polished stone with a shallow crack across it — the cracked moon of his fable, worn smooth, carved with abstract geometric forms and nothing legible. Stone rings on two fingers, violet silk sleeve, the city's roofs and indigo sky soft behind. The fable given a physical object. Full-bleed."
+    }
+  ],
+  "md5_verification_note": "Folder listing re-read after the tenth upload and compared to local md5sum output. All ten names, sizes and checksums match byte for byte: 0f3c86729d9242f2ad2737d03f5e987a, 2b5e16f9c6162575d15aa5dbd5a6156d, 3c3b9e4973335641cfe28d0d18cbb7a6, 7b3cbc0f27aa3dde7a020f6c3a01915e, bb6793bb306efc5044793ecfda0014b6, ffe405e1181b7cfb1724d17fae0bba65, 0836d0cdf86e4a930538317041629a47, 14517179caca0712a191da19e6e17547, 2382325fda16317d1098aac8cbbfa9db, c40d9011dab73a8bdfd56d8850ba781b."
+}

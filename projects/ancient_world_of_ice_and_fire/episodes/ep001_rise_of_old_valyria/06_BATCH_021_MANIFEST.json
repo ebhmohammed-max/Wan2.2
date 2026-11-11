@@ -1,0 +1,247 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "visual_style_standard": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location cinematography (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade: warm sandstone highlights, deep cerulean Summer Sea, lush emerald pastures, muted volcanic stone)",
+  "style_reference_benchmark": "The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "17xs4PfQxDKJ_2baNHXtv5oo86s9Tr8mZ",
+  "batch_number": 21,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "06:40–07:00",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "10_OF_10_UPLOADED_MD5_VERIFIED_VISUAL_QC_APPROVED",
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten frames were visually reviewed and approved as a progression from ore-bearing basalt and obsidian to the first anatomically canonical subterranean firewyrm reveal. The two earlier weak renders were replaced: IMG0201 now shows a subdued non-luminous copper seam; IMG0205 is clearly an enclosed subterranean fissure without a surface skyline. All ten are 1376x768 sRGB PNGs; Drive lists exactly ten images and every Drive MD5 matches the local file.",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0201",
+      "timestamp": "06:40–06:42",
+      "shot_lens": "MS · 35mm",
+      "narration_slice": "with immense deposits of red",
+      "shot_type": "Dynamic medium lateral tracking angle — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "Dynamic medium lateral tracking angle — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "file_path": "assets/batch_021/VAL-EP001-IMG0201.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 2102868,
+      "md5": "f8fbd8defe600f69694416b543252508",
+      "resolution": "1376x768",
+      "drive_file_id": "1jmtuGmNQ5RLIEPjSKkk2kJ0u6Dlt2q-Y",
+      "drive_url": "https://drive.google.com/file/d/1jmtuGmNQ5RLIEPjSKkk2kJ0u6Dlt2q-Y/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0202",
+      "timestamp": "06:42–06:44",
+      "shot_lens": "MCU · 65mm",
+      "narration_slice": "copper, tin, iron, silver, and",
+      "shot_type": "Compressed telephoto dramatic subject framing — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "file_path": "assets/batch_021/VAL-EP001-IMG0202.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2415258,
+      "md5": "13b0a4e62164e8a55d32aa8332cad0b6",
+      "resolution": "1376x768",
+      "drive_file_id": "1tgWQWPTjwLVDPs_4tn6RNQDlkmaukbI3",
+      "drive_url": "https://drive.google.com/file/d/1tgWQWPTjwLVDPs_4tn6RNQDlkmaukbI3/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0203",
+      "timestamp": "06:44–06:46",
+      "shot_lens": "MS · 50mm",
+      "narration_slice": "gleaming native gold, alongside",
+      "shot_type": "Medium cinematic subject focus — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "Medium cinematic subject focus — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "file_path": "assets/batch_021/VAL-EP001-IMG0203.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2582200,
+      "md5": "0a3ab2f2a3c6fb3e5bcdcfe9a6d71312",
+      "resolution": "1376x768",
+      "drive_file_id": "1_iqCXWUHU2DHUNP7NQqGGpLXSh28Mtld",
+      "drive_url": "https://drive.google.com/file/d/1_iqCXWUHU2DHUNP7NQqGGpLXSh28Mtld/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0204",
+      "timestamp": "06:46–06:48",
+      "shot_lens": "WS · 35mm",
+      "narration_slice": "glassy seams of black volcanic",
+      "shot_type": "Wide environmental storytelling tableau — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "Wide environmental storytelling tableau — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "file_path": "assets/batch_021/VAL-EP001-IMG0204.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 2508643,
+      "md5": "54cc6e39be96cd0003438c0119e2b152",
+      "resolution": "1376x768",
+      "drive_file_id": "15e_8kfHb85AZlbEO1r5dXy0CEKZ5hZkJ",
+      "drive_url": "https://drive.google.com/file/d/15e_8kfHb85AZlbEO1r5dXy0CEKZ5hZkJ/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0205",
+      "timestamp": "06:48–06:50",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "obsidian—the frozen fire later Westerosi",
+      "shot_type": "High-elevation geographic / scale reveal — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "High-elevation geographic / scale reveal — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "file_path": "assets/batch_021/VAL-EP001-IMG0205.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2251862,
+      "md5": "087975c137dd1275a123756d93d6f578",
+      "resolution": "1376x768",
+      "drive_file_id": "1AFjVodXcX28aPSjopojlIEXyAucWWezZ",
+      "drive_url": "https://drive.google.com/file/d/1AFjVodXcX28aPSjopojlIEXyAucWWezZ/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0206",
+      "timestamp": "06:50–06:52",
+      "shot_lens": "LAM · 24mm",
+      "narration_slice": "men would call dragonglass.",
+      "shot_type": "Towering vertical scale composition — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "Towering vertical scale composition — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "file_path": "assets/batch_021/VAL-EP001-IMG0206.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2265706,
+      "md5": "685a2a0efdd08ac210c4b33037665ff1",
+      "resolution": "1376x768",
+      "drive_file_id": "1VxPJX44XxWHVL16UKS1qfz2N6XHyKRA2",
+      "drive_url": "https://drive.google.com/file/d/1VxPJX44XxWHVL16UKS1qfz2N6XHyKRA2/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0207",
+      "timestamp": "06:52–06:54",
+      "shot_lens": "DET · 85mm",
+      "narration_slice": "Yet those subterranean labyrinths were",
+      "shot_type": "Macro environmental / material texture insert — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "Macro environmental / material texture insert — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "file_path": "assets/batch_021/VAL-EP001-IMG0207.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 2021793,
+      "md5": "7f5efea8dba3dac8243f150f001949ef",
+      "resolution": "1376x768",
+      "drive_file_id": "1HkguqHxoaPKKjPBCwxk0bZYxRtmeQ8cv",
+      "drive_url": "https://drive.google.com/file/d/1HkguqHxoaPKKjPBCwxk0bZYxRtmeQ8cv/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0208",
+      "timestamp": "06:54–06:56",
+      "shot_lens": "CU · 85mm",
+      "narration_slice": "neither empty nor safe, for",
+      "shot_type": "Intimate close-up detail / expression beat — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "Intimate close-up detail / expression beat — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "location_refs": [
+        "CRT-VAL-001"
+      ],
+      "file_path": "assets/batch_021/VAL-EP001-IMG0208.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2368868,
+      "md5": "9d21f60a84521b43126bfd7a7f9b5772",
+      "resolution": "1376x768",
+      "drive_file_id": "1dy09-CVLb-yECZHQPGObmt9EOOU43sJ3",
+      "drive_url": "https://drive.google.com/file/d/1dy09-CVLb-yECZHQPGObmt9EOOU43sJ3/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0209",
+      "timestamp": "06:56–06:58",
+      "shot_lens": "DET · 100mm",
+      "narration_slice": "things older than humanity",
+      "shot_type": "Extreme close-up tactile / light study — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "Extreme close-up tactile / light study — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "location_refs": [
+        "CRT-VAL-001"
+      ],
+      "file_path": "assets/batch_021/VAL-EP001-IMG0209.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2478078,
+      "md5": "a050ce7abb81a6f15aee23688674d434",
+      "resolution": "1376x768",
+      "drive_file_id": "1OTudCpu2WEzTr6RRCDSfE0D-8A4G4MUV",
+      "drive_url": "https://drive.google.com/file/d/1OTudCpu2WEzTr6RRCDSfE0D-8A4G4MUV/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0210",
+      "timestamp": "06:58–07:00",
+      "shot_lens": "WS · 40mm",
+      "narration_slice": "stirred within the superheated rock.",
+      "shot_type": "Transitional wide horizon / bridge framing — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "visual_beat": "Transitional wide horizon / bridge framing — Subterranean veins of gold, silver, copper, iron & obsidian",
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "location_refs": [
+        "CRT-VAL-001"
+      ],
+      "file_path": "assets/batch_021/VAL-EP001-IMG0210.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 2346733,
+      "md5": "9d4424f130e2934990df2a9dea0a73dd",
+      "resolution": "1376x768",
+      "drive_file_id": "1-bcjsK9a4GKpo23U951_XbUtwea0yspm",
+      "drive_url": "https://drive.google.com/file/d/1-bcjsK9a4GKpo23U951_XbUtwea0yspm/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    }
+  ]
+}

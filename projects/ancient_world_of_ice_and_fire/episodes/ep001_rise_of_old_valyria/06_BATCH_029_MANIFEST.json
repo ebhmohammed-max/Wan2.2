@@ -1,0 +1,236 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1wAKHTfOOyFxJSW0KL9_ma1pn2sJO283F",
+  "batch_number": 29,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "09:20–09:40",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten frames passed visual review, are 1376x768 sRGB PNGs, are uploaded to Drive folder 1wAKHTfOOyFxJSW0KL9_ma1pn2sJO283F, and each Drive MD5 matches its local file; Drive lists exactly ten images. Seven passed on the first pass. IMG0285 arrived with 12 px letterbox bars and was reframed to full-bleed, then needed three attempts for silhouette and hair colour — a flared modern coat with a fur stole, then a correct silhouette in honey-blonde hair against the ash-white lock. IMG0286 needed one rerender to stop the basalt columns reading as coursed, quarried masonry. IMG0290 needed two rerenders on hair alone: heavy chest braids, then a fishtail braid along the scalp, before plain loose hair. The batch is deliberately the emptiest of the episode — no writing, carving, tally, rune or token appears in any frame, because the narration is about the failure of the record. Continuity flags: no clothing darker than charcoal; no hewn or coursed stone in the caldera; the young herdsman's face in IMG0288 reads sharper and more filmic than in IMG0283 and must not drift into a heroic lead; and heavy braiding must be negated explicitly, since simply asking for loose hair produced a scalp braid twice.",
+  "verified_episode_frames_after_batch": 296,
+  "verified_episode_percent_after_batch": "28.19%",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0281",
+      "timestamp": "09:20–09:22",
+      "narration_slice": "no proof connects the",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Arcane Dawn-Age bloodline whispers vs pre-literate mist",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_029/VAL-EP001-IMG0281.png",
+      "drive_file_id": "11Bc6DKH5WOFGoX25vvWDzFP7cE_phSMj",
+      "drive_url": "https://drive.google.com/file/d/11Bc6DKH5WOFGoX25vvWDzFP7cE_phSMj/view?usp=drivesdk",
+      "md5": "14ce157178c859f3d49468a120e3d5b7",
+      "size_bytes": 2511973,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. Basalt column reads as raw natural geology, no worked stone; herdsman rear-view with pale rim-lit hair, jerkin, wrapped gaiters and spear all on model."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0282",
+      "timestamp": "09:22–09:24",
+      "narration_slice": "two. The truth remains buried",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Arcane Dawn-Age bloodline whispers vs pre-literate mist",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_029/VAL-EP001-IMG0282.png",
+      "drive_file_id": "1HvpWArkVYJMFz_J43fumDDDf65y30e6O",
+      "drive_url": "https://drive.google.com/file/d/1HvpWArkVYJMFz_J43fumDDDf65y30e6O/view?usp=drivesdk",
+      "md5": "b01bbee0e229879c67ac35cd1436f8f2",
+      "size_bytes": 2766150,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. Macro bootprint half-erased by mist; tread is plain wrapped leather, completely unreadable; no litter, no staged trail."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0283",
+      "timestamp": "09:24–09:26",
+      "narration_slice": "in pre-literate mist; no",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Arcane Dawn-Age bloodline whispers vs pre-literate mist",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_029/VAL-EP001-IMG0283.png",
+      "drive_file_id": "1niVOss6IIqLdNePNsmN1w0yXac5a6FU8",
+      "drive_url": "https://drive.google.com/file/d/1niVOss6IIqLdNePNsmN1w0yXac5a6FU8/view?usp=drivesdk",
+      "md5": "8dd24381e1f4831d20764961fdfeb612",
+      "size_bytes": 2415876,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. Strict side profile, eyes cast down and closed, NO iris colour exposed — the wide-shot eye rule holds. Hair is long, loose with one narrow side braid; no shaved side. Skin reads heavily freckled and ruddy which is slightly warmer than the porcelain-ivory lock; accepted as weather, not pigmentation."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0284",
+      "timestamp": "09:26–09:28",
+      "narration_slice": "chronicle survives in the Valyrians'",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Arcane Dawn-Age bloodline whispers vs pre-literate mist",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_029/VAL-EP001-IMG0284.png",
+      "drive_file_id": "1wGku90Br5pXNqDXb6MDp_aQEgyRrDDLw",
+      "drive_url": "https://drive.google.com/file/d/1wGku90Br5pXNqDXb6MDp_aQEgyRrDDLw/view?usp=drivesdk",
+      "md5": "15b0f1496f06b4fcbaccf1961c6dc35e",
+      "size_bytes": 2655785,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass — the hardest frame of the batch. Bare unmarked bone, raw fleece and a weathered hand; nothing written, carved, notched or painted anywhere. The 'chronicle' beat is carried entirely by absence."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0285",
+      "timestamp": "09:28–09:30",
+      "narration_slice": "own earliest shepherd tongue.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Arcane Dawn-Age bloodline whispers vs pre-literate mist",
+      "location_refs": [
+        "LOC-VAL-002"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_029/VAL-EP001-IMG0285.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "drive_file_id": "13_dxK9zb7-L8Ameh1vWqvjgnr44PK_Sp",
+      "drive_url": "https://drive.google.com/file/d/13_dxK9zb7-L8Ameh1vWqvjgnr44PK_Sp/view?usp=drivesdk",
+      "md5": "5070d48e820bd1ce79b20fd3adc93435",
+      "size_bytes": 2449211,
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved on the second rerender. Pass 1 dressed the elder in a flared modern coat with a fur stole; pass 2 fixed the silhouette but warmed the hair to honey-blonde, which breaks the palette; pass 3 gives a broad male shoulder line in coarse felted homespun with ragged sheepskin and cool ash-white hair. Reframed from a 1376x744 image area to full-bleed 1376x768 to strip 12 px letterbox bars before review."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0286",
+      "timestamp": "09:30–09:32",
+      "narration_slice": "For generations uncounted, these",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_029/VAL-EP001-IMG0286.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "drive_file_id": "178eoiixW36gf7cFCZI-YD0fzCtRuGHxD",
+      "drive_url": "https://drive.google.com/file/d/178eoiixW36gf7cFCZI-YD0fzCtRuGHxD/view?usp=drivesdk",
+      "md5": "f32237717f0d76bbbe708af56dae8d30",
+      "size_bytes": 2643038,
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved on the rerender: the columns are now irregular, chipped and tilted with broken shards at the base and grass in the gaps — raw natural geology rather than the pass-1 quarried rampart with false right-angle joints."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0287",
+      "timestamp": "09:32–09:34",
+      "narration_slice": "silver-haired shepherds kept an unspoken",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_029/VAL-EP001-IMG0287.png",
+      "drive_file_id": "1t6EZPoQYZaOLhFN-P0E4MFlVqd3VMCUP",
+      "drive_url": "https://drive.google.com/file/d/1t6EZPoQYZaOLhFN-P0E4MFlVqd3VMCUP/view?usp=drivesdk",
+      "md5": "6c3e1c31b2787dc0f55f79d90edde629",
+      "size_bytes": 2571490,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. OTS with the elder's sheepskin shoulder soft in the near foreground; young herdsman in sharp side profile, head turned down, no eyes; steam field reads environmentally, not architecturally."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0288",
+      "timestamp": "09:34–09:36",
+      "narration_slice": "covenant with their mountains:",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_029/VAL-EP001-IMG0288.png",
+      "drive_file_id": "1DYaZwhaMsDBT4ZEhG1Dn2oCGBSnRJEpN",
+      "drive_url": "https://drive.google.com/file/d/1DYaZwhaMsDBT4ZEhG1Dn2oCGBSnRJEpN/view?usp=drivesdk",
+      "md5": "f2dd4f6f12074ba49539b0fd7f8376fd",
+      "size_bytes": 2373894,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. Sheep sharp in the foreground, green pasture ending hard against black volcanic ground and a smoking cone; the seated herdsman is in clean side profile and the line between grass and rock carries the covenant beat. Continuity flag: this face reads markedly more angular and filmic than IMG0283 — the same young man must not drift further toward a heroic lead in Batch 030."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0289",
+      "timestamp": "09:36–09:38",
+      "narration_slice": "graze the green foothills, honor",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_029/VAL-EP001-IMG0289.png",
+      "drive_file_id": "1obx0gJOM3cNcD-tYPoV0CSC0ALXK04ab",
+      "drive_url": "https://drive.google.com/file/d/1obx0gJOM3cNcD-tYPoV0CSC0ALXK04ab/view?usp=drivesdk",
+      "md5": "6c3747f2d3e747332ab8709fe22f6468",
+      "size_bytes": 2352761,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "qc_note": "Approved first pass. Ultra-wide terraced foothills, three cones, Summer Sea band, tiny basalt fold. No field grid, no roads, no white farm buildings, no fence lines."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0290",
+      "timestamp": "09:38–09:40",
+      "narration_slice": "the rumbling earth, and",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — Missing sheep lure young herdsmen up toward sulfur vents",
+      "location_refs": [
+        "LOC-VAL-002",
+        "LOC-VAL-003"
+      ],
+      "character_refs": [
+        "CHAR-VAL-002"
+      ],
+      "file_path": "assets/batch_029/VAL-EP001-IMG0290.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "drive_file_id": "1uuzbSNwyStt0xXoRHjvXRualvCglVFeZ",
+      "drive_url": "https://drive.google.com/file/d/1uuzbSNwyStt0xXoRHjvXRualvCglVFeZ/view?usp=drivesdk",
+      "md5": "351b72a94d3c10e2fbb39019cb390362",
+      "size_bytes": 2567636,
+      "md5_verified_on_drive": true,
+      "qc_note": "Approved on the second rerender. Pass 1 grew heavy chest braids; pass 2 replaced them with a fishtail braid worked along the scalp; pass 3 is plain loose hair with no plaiting at all. The fissure under his palm emits white steam only, no molten glow, and his face stays bowed into shadow."
+    }
+  ]
+}

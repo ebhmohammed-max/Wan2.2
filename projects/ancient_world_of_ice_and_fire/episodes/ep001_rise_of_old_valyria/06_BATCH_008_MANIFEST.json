@@ -1,0 +1,220 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "visual_style_standard": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location cinematography (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade: warm sandstone highlights, muted earth/stone/bronze midtones, deep ink-navy shadows)",
+  "style_reference_benchmark": "The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_number": 8,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "02:20–02:40",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "ALL_10_QC_APPROVED_AND_UPLOADED",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0071",
+      "timestamp": "02:20–02:22",
+      "shot_lens": "LAM · 24mm",
+      "narration_slice": "the earth into night until",
+      "shot_type": "Frozen Bone-Mountain Foothills & Solitary Watchtower Beacon in Long Night (24mm)",
+      "visual_beat": "65mm low-angle ultra-wide: snow-buried Bronze-Age watchtowers & ice-locked river terraces below Bone Mountains under crushing ink-navy storm night & lone amber beacon",
+      "character_refs": [],
+      "location_refs": [
+        "BONE-MOUNTAINS-HYRKOON"
+      ],
+      "file_path": "assets/batch_008/VAL-EP001-IMG0071.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2385096,
+      "md5": "086aa876c2be43c6a93da769be199cfa",
+      "resolution": "1376x768",
+      "drive_file_id": "174hNwQ5PtisRkL5M77hh_fTnYe5fDafq",
+      "drive_url": "https://drive.google.com/file/d/174hNwQ5PtisRkL5M77hh_fTnYe5fDafq/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0072",
+      "timestamp": "02:22–02:24",
+      "shot_lens": "DET · 85mm",
+      "narration_slice": "a champion wielding a blade",
+      "shot_type": "Bronze-Gauntleted Hands Igniting the Forged Blade of Living Fire (85mm)",
+      "visual_beat": "65mm macro-telephoto detail: weathered leather-and-verdigris-bronze gauntleted hands gripping oxidized hilt as living orange-gold fire roars up forged blade in snowstorm",
+      "character_refs": [],
+      "location_refs": [
+        "BONE-MOUNTAINS-HYRKOON"
+      ],
+      "file_path": "assets/batch_008/VAL-EP001-IMG0072.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2523204,
+      "md5": "60d29523927c2a626c4f9f537ed44d60",
+      "resolution": "1376x768",
+      "drive_file_id": "1xaRPnQAeJUh5x1u1ckeUMwr_NVIAy40e",
+      "drive_url": "https://drive.google.com/file/d/1xaRPnQAeJUh5x1u1ckeUMwr_NVIAy40e/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0073",
+      "timestamp": "02:24–02:26",
+      "shot_lens": "CU · 85mm",
+      "narration_slice": "of living fire—called Azor Ahai,",
+      "shot_type": "Close-Up Portrait of Azor Ahai / Eastern Champion With Blazing Sword in Blizzard (85mm)",
+      "visual_beat": "65mm portrait close-up: frost-rimmed eastern Bronze-Age champion in wolf-fur & oxidized bronze collar lit by blazing sword of living fire against winter storm",
+      "character_refs": [],
+      "location_refs": [
+        "BONE-MOUNTAINS-HYRKOON"
+      ],
+      "file_path": "assets/batch_008/VAL-EP001-IMG0073.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2524863,
+      "md5": "63538866a727944f4acecb3678ff3753",
+      "resolution": "1376x768",
+      "drive_file_id": "1uEEz1c42jSMs_Byj-nYRxVvEFG5pm7c4",
+      "drive_url": "https://drive.google.com/file/d/1uEEz1c42jSMs_Byj-nYRxVvEFG5pm7c4/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0074",
+      "timestamp": "02:26–02:28",
+      "shot_lens": "DET · 100mm",
+      "narration_slice": "Hyrkoon the Hero, Yin Tar,",
+      "shot_type": "Torchlit Triptych of Three Ancient Eastern Hero Reliefs With Gold-Leaf Swords (100mm)",
+      "visual_beat": "65mm archaeological relief detail: three wordless cliff-cut stone bas-reliefs depicting Hyrkoon the Hero, Yin Tar & eastern steppe champion with gold-leaf blades",
+      "character_refs": [],
+      "location_refs": [
+        "BONE-MOUNTAINS-HYRKOON"
+      ],
+      "file_path": "assets/batch_008/VAL-EP001-IMG0074.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2365733,
+      "md5": "8b7179490dc43431139a13c2d002e6e2",
+      "resolution": "1376x768",
+      "drive_file_id": "1PVSbp_m2SQsEbV2QzViqcm5JAC_Cqto8",
+      "drive_url": "https://drive.google.com/file/d/1PVSbp_m2SQsEbV2QzViqcm5JAC_Cqto8/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0075",
+      "timestamp": "02:28–02:30",
+      "shot_lens": "WS · 40mm",
+      "narration_slice": "or Neferion—drove back the gloom.",
+      "shot_type": "Flame-Sword Champion Splitting Long Night Clouds Above Hyrkoon Pass (40mm)",
+      "visual_beat": "65mm epic mountain wide: lone champion atop bone-strewn crag between Hyrkoon cliff-bastions raising blazing sword as warm sandstone dawn pierces ink-navy storm",
+      "character_refs": [],
+      "location_refs": [
+        "BONE-MOUNTAINS-HYRKOON"
+      ],
+      "file_path": "assets/batch_008/VAL-EP001-IMG0075.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2603958,
+      "md5": "ae5fed66ba3dcdb67b2279ab451152e9",
+      "resolution": "1376x768",
+      "drive_file_id": "14Zkk_5L-_q9u2IqBljxKeFzKxPo6VnDp",
+      "drive_url": "https://drive.google.com/file/d/14Zkk_5L-_q9u2IqBljxKeFzKxPo6VnDp/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0076",
+      "timestamp": "02:30–02:32",
+      "shot_lens": "LAM · 28mm",
+      "narration_slice": "Where myth ended and history",
+      "shot_type": "Prehistoric Spiral-Carved Standing Stones Overlooking Sunlit Essosi River Dawn (28mm)",
+      "visual_beat": "65mm low-angle bluff wide: shadowed moss-grown spiral monoliths overlooking sunlit misty river valley & awakening terraced Bronze-Age hamlets",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_008/VAL-EP001-IMG0076.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2594766,
+      "md5": "3dcb910a30c02c2fc4262e5c333053ec",
+      "resolution": "1376x768",
+      "drive_file_id": "1ORxAAab9pe5-F-9D4PxHWq6l4m2ybvYL",
+      "drive_url": "https://drive.google.com/file/d/1ORxAAab9pe5-F-9D4PxHWq6l4m2ybvYL/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0077",
+      "timestamp": "02:32–02:34",
+      "shot_lens": "OTS · 40mm",
+      "narration_slice": "began, no scholar can say",
+      "shot_type": "Ancient Bearded Chronicler Tracing Wordless Essosi River Map in Sandstone Loggia (40mm)",
+      "visual_beat": "65mm riverside archive medium-wide: silver-bearded ancient historian tracing quill over wordless river-and-mountain vellum map weighted by bronze astrolabe rings",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_008/VAL-EP001-IMG0077.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2678718,
+      "md5": "8e1296e9142fe8e5deac244b97123f5a",
+      "resolution": "1376x768",
+      "drive_file_id": "1_CNknajj8lENHMXQyyq3TlFMyHYMeBiR",
+      "drive_url": "https://drive.google.com/file/d/1_CNknajj8lENHMXQyyq3TlFMyHYMeBiR/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0078",
+      "timestamp": "02:34–02:36",
+      "shot_lens": "WS · 28mm",
+      "narration_slice": "with certainty. What is clear",
+      "shot_type": "Snowmelt Waterfalls & Broad Thawing Upper River Rhoyne Under Receding Storm (28mm)",
+      "visual_beat": "65mm cliff-edge landscape wide: snowmelt waterfalls cascading down sandstone bluffs into silver-jade River Rhoyne & rose-sandstone hamlets as winter storm retreats",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_008/VAL-EP001-IMG0078.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2870990,
+      "md5": "c1702ee9d5cd1c68161525c9eecea4c6",
+      "resolution": "1376x768",
+      "drive_file_id": "1mu8lLQpZSt61tG2KGp8J3MWwXIqN78h4",
+      "drive_url": "https://drive.google.com/file/d/1mu8lLQpZSt61tG2KGp8J3MWwXIqN78h4/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0079",
+      "timestamp": "02:36–02:38",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "is that when warmth",
+      "shot_type": "Sun-Drenched Springtime Orchard & Barley Terraces Along the Mother Rhoyne (24mm)",
+      "visual_beat": "65mm orchard-terrace ultra-wide: golden spring sunlight bathing irrigated green terraces & Bronze-Age farmers along the shimmering silver-green Mother Rhoyne",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_008/VAL-EP001-IMG0079.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 1935183,
+      "md5": "b4cb96fb8797e37932b8293a26f80e9f",
+      "resolution": "1376x768",
+      "drive_file_id": "1v0aIIrdxQV6FrsnBilnHv-FKh6qlo8Ru",
+      "drive_url": "https://drive.google.com/file/d/1v0aIIrdxQV6FrsnBilnHv-FKh6qlo8Ru/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0080",
+      "timestamp": "02:38–02:40",
+      "shot_lens": "MCU · 50mm",
+      "narration_slice": "returned to the world, great",
+      "shot_type": "Early Rhoynar Rose-Sandstone River Quay, Artisans & Gilded Skiffs (50mm)",
+      "visual_beat": "65mm riverside quay medium-wide: early Rhoynar artisans & traders unloading bronze vessels & amphorae beside gilded wooden skiffs & basking giant river turtle",
+      "character_refs": [],
+      "location_refs": [
+        "LOC-ESS-002"
+      ],
+      "file_path": "assets/batch_008/VAL-EP001-IMG0080.png",
+      "qc_status": "APPROVED_65MM_V1",
+      "size_bytes": 2847730,
+      "md5": "54c0421bca6347867f6102f02c797ac6",
+      "resolution": "1376x768",
+      "drive_file_id": "1TyOWIXHv1pS4sJVsdD81G-esPS8kZ5yW",
+      "drive_url": "https://drive.google.com/file/d/1TyOWIXHv1pS4sJVsdD81G-esPS8kZ5yW/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    }
+  ],
+  "batch_drive_folder_id": "153sskGJiJOSLzOwPqb8XUaCcXUOHjCQQ",
+  "batch_drive_folder_url": "https://drive.google.com/drive/folders/153sskGJiJOSLzOwPqb8XUaCcXUOHjCQQ"
+}

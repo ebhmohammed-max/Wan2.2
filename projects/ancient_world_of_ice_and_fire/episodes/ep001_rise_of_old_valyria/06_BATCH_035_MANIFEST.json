@@ -1,0 +1,242 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1Fq7iCLbUq78N-PlVlbj8uBQ3OtMghRbG",
+  "batch_drive_folder_name": "Batch_035_Images_0341-0350_Wings_and_Fire_Anatomy_11m20s-11m40s",
+  "batch_number": 35,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "11:20–11:40",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "approved_uploaded_count": 10,
+  "drive_verified_count": 10,
+  "pending_rerender_count": 0,
+  "pending_generate_count": 0,
+  "pending_completion_scenes": [],
+  "generations_used": 14,
+  "verified_episode_frames_after_batch": 356,
+  "verified_episode_percent_after_batch": "33.90%",
+  "visual_qc_note": "Eight of ten passed on the first generation, the best first-pass rate since Batch 033, and the two that did not were both the same frame fighting the same problem: 0341 needed four passes to stop reading as a creature with a head. Everything else — the membrane macro, the wing from beneath, the claw, the throat, the spine, the iron shimmer, the wide span — worked immediately. The batch locks the wingspan and the fire anatomy both: 0349 is the frame that sells 200 feet, and 0346 is the definitive internal-heat image.",
+  "four_limb_note": "Only 0341 tested the count and it passed it on every pass — the failures there were mass shape, not limb number. Useful distinction: 0341 pass 3 had the cleanest four contacts the animal has produced and still failed, because the wing draped across the chest made a head. Limb count and silhouette legibility are separate checks.",
+  "letterbox_scan_note": "Per-row content-box scan run on every frame. All ten carried the standard strips and were cropped and resized back to 1376x768: 0341, 0345, 0349, 0350 and 0346 (rows 12-755/756), and 0342, 0343, 0347, 0348 after their first pass. 0344 and 0350 were full-bleed on arrival.",
+  "md5_verification_note": "All ten Drive checksums were re-listed from the folder after upload and match the local md5sum byte-for-byte (10/10).",
+  "upload_note": "Uploads were blocked by a Drive rate limit in the previous turn, so six approved frames were held over and uploaded at the start of this one; no work was lost.",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0341",
+      "timestamp": "11:20–11:22",
+      "narration_slice": "of two vast, bat-like",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_035/VAL-EP001-IMG0341.png",
+      "drive_file_id": "13Bs27X3QA8Lzz6b4ge2x_m3u4z2498jj",
+      "drive_url": "https://drive.google.com/file/d/13Bs27X3QA8Lzz6b4ge2x_m3u4z2498jj/view?usp=drivesdk",
+      "md5": "64e6306fa97032af399c1b9c0af58262",
+      "size_bytes": 1670393,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 4. Side-on at rest on the cavern floor: spine horizontal, body running out of the top-left corner so the head is entirely absent, four limb contacts planted and countable, and the near wing held high as a thin flat blade seen nearly edge-on rather than draped over the body. Three passes were spent on mass shape — pass 2 stood the animal upright and it read as a bipedal demon, and pass 3 wrapped the membrane across the chest as a convex dome that resolved as a head and shoulders. The cure each time was compositional, never descriptive: change the body's axis, then flatten the wing plane. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0342",
+      "timestamp": "11:22–11:24",
+      "narration_slice": "forelimb wings, an elder beast",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_035/VAL-EP001-IMG0342.png",
+      "drive_file_id": "1vuHMpSUqcu_j9nPeZFXQf3pEsa8cNa4z",
+      "drive_url": "https://drive.google.com/file/d/1vuHMpSUqcu_j9nPeZFXQf3pEsa8cNa4z/view?usp=drivesdk",
+      "md5": "17bbd82fd6786b198e7deb15f83683a2",
+      "size_bytes": 1384188,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Macro of the wing membrane where it pulls taut between two long straight rib-spars: dry cracked charcoal leather, fine radiating striations, healed punctures, one long torn ragged margin feathering into shadow, and the thick cracked knuckle skin at the base. No head in frame, so nothing to misread. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0343",
+      "timestamp": "11:24–11:26",
+      "narration_slice": "spanned two hundred feet",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_035/VAL-EP001-IMG0343.png",
+      "drive_file_id": "11zxwbmqILSO6yABOooNCtQyToGLXmShB",
+      "drive_url": "https://drive.google.com/file/d/11zxwbmqILSO6yABOooNCtQyToGLXmShB/view?usp=drivesdk",
+      "md5": "1312ccbac61b0518ba41339ab27920ae",
+      "size_bytes": 1492268,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. The spread wing seen from beneath: rib-spars converging toward the outer margin, the healed semicircular tear readable, ragged torn edge at the right, a single small area of cold backlight through the thin membrane and nothing else lit. One wing only, no second membrane, no body. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0344",
+      "timestamp": "11:26–11:28",
+      "narration_slice": "from claw to claw, exhaling",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_035/VAL-EP001-IMG0344.png",
+      "drive_file_id": "1cGkDADLqqQaoyBhjp3CuEqKR1-vSlLvn",
+      "drive_url": "https://drive.google.com/file/d/1cGkDADLqqQaoyBhjp3CuEqKR1-vSlLvn/view?usp=drivesdk",
+      "md5": "d1f2bebfb13d20f33f7c5bfa96042764",
+      "size_bytes": 2427875,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. One curved black keratin claw gouging a fresh pale scratch into basalt, the cracked toe knuckle above, the calloused wing-knuckle pad out of focus behind it and a dull ember hairline in a floor crack. Near-macro, razor focus on the claw tip and nothing else. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0345",
+      "timestamp": "11:28–11:30",
+      "narration_slice": "smoke from sulfur-crusted nostrils.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Four-limbed wild dragon anatomy, jet-black bone & scale",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_035/VAL-EP001-IMG0345.png",
+      "drive_file_id": "1dDtOPxAxVLgiz-c5I-gQ6Lq77SRxHM1C",
+      "drive_url": "https://drive.google.com/file/d/1dDtOPxAxVLgiz-c5I-gQ6Lq77SRxHM1C/view?usp=drivesdk",
+      "md5": "2af9b3001ea807dd50597f2698dd97c8",
+      "size_bytes": 1415077,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 3. Head at rest in near profile, muzzle pointing away to the left edge with no eye visible, the far side of the skull to camera. A thin thread of grey vapour leaves the sulfur-crusted nostril and dissipates — no fire, no glow at the mouth. Pass 1 failed by turning the head onto the lens and letting olive-yellow colonise the hide; pass 2 fixed the profile but still carried the yellow; pass 3 is basalt-black plate with the sulphur colour gone. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0346",
+      "timestamp": "11:30–11:32",
+      "narration_slice": "Every detail of their",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_035/VAL-EP001-IMG0346.png",
+      "drive_file_id": "1ppNHhjEDc6KqOtSZA5ObnjYXmvasCi1i",
+      "drive_url": "https://drive.google.com/file/d/1ppNHhjEDc6KqOtSZA5ObnjYXmvasCi1i/view?usp=drivesdk",
+      "md5": "aad60c15399377d8c5d99fc3d980d213",
+      "size_bytes": 1762580,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Throat anatomy from below and along the jaw: overlapping black scutes with a network of incandescent ember-orange fissures glowing from inside the flesh, lighting only the plates immediately surrounding each seam and never the air or the rock. The mouth is shut, jaw bristles catch a rim line, and no eye, snout or skull appears. The clearest statement yet of the internal-heat device. Reframed rows 12-756."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0347",
+      "timestamp": "11:32–11:34",
+      "narration_slice": "anatomy belonged to fire. Even",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_035/VAL-EP001-IMG0347.png",
+      "drive_file_id": "11AzKI8TdLOMqT4-Aiulckr6Kn1n4vifp",
+      "drive_url": "https://drive.google.com/file/d/11AzKI8TdLOMqT4-Aiulckr6Kn1n4vifp/view?usp=drivesdk",
+      "md5": "45e1e1c399abd9225714bf051a896a31",
+      "size_bytes": 1216256,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Over the shoulder ridge and down the spine: the near shoulder mass in foreground silhouette at left, dorsal plates receding to the upper right with hairline ember-red glow between their seams, the head small and far with no facial feature readable, the far wing folded as a closed ribbed case. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0348",
+      "timestamp": "11:34–11:36",
+      "narration_slice": "their skeletons shimmered jet-black",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_035/VAL-EP001-IMG0348.png",
+      "drive_file_id": "1oFdS4aWWS6LQN_IxLHlJZHMR8s6WCBSO",
+      "drive_url": "https://drive.google.com/file/d/1oFdS4aWWS6LQN_IxLHlJZHMR8s6WCBSO/view?usp=drivesdk",
+      "md5": "3f559fcb23e354a4c972eefb2b51e122",
+      "size_bytes": 1670832,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. The iron shimmer: the whole animal at rest on a broad black shelf, the oxidised plates reading as cold blue-black forged metal rather than organic scale, no specular hotspots anywhere, neck out of the right edge so the head is absent, both wings closed as ribbed cases and all four limbs accounted for. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0349",
+      "timestamp": "11:36–11:38",
+      "narration_slice": "from the high iron",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_035/VAL-EP001-IMG0349.png",
+      "drive_file_id": "1hZk9dw78FFg1pKBH31rA1ngZ7cULWiMg",
+      "drive_url": "https://drive.google.com/file/d/1hZk9dw78FFg1pKBH31rA1ngZ7cULWiMg/view?usp=drivesdk",
+      "md5": "87b7ea57ead5b023b4ba470aa379e040",
+      "size_bytes": 1612789,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. The widest frame of the animal yet, and the one that carries the two-hundred-foot claim: high on a colossal basalt shelf with both wings spread at roughly one and a half body lengths, silhouetted legs and torn membranes against a deep black void, head small and low and turned away, four limbs. Enormous dark negative space above; the only warmth is one ember hairline far below. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0350",
+      "timestamp": "11:38–11:40",
+      "narration_slice": "content saturating their bones, lighter",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — Incandescent throat scutes & basalt-melting dragonfire",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_035/VAL-EP001-IMG0350.png",
+      "drive_file_id": "1L15pHZFT1vQ7pOjo1qjP2poWB2NQuiHV",
+      "drive_url": "https://drive.google.com/file/d/1L15pHZFT1vQ7pOjo1qjP2poWB2NQuiHV/view?usp=drivesdk",
+      "md5": "b2a7cec3a09e34260860af489ec0358f",
+      "size_bytes": 2052590,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. Shoulder and upper flank at 50mm, the subject being the material of the skeleton under the hide: heavy overlapping basalt-black plates parting along the shoulder ridge to show a cold blue-black metallic iron sheen, dense and mineral, dull rather than polished. No head, no eye, no snout in frame. Full-bleed."
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "visual_style_standard": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location cinematography (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade: warm sandstone highlights, deep cerulean Summer Sea, lush emerald pastures, muted volcanic stone)",
+  "style_reference_benchmark": "The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1KTaABRWYhUZKbdNpjsmxl08Iq3k3YWaQ",
+  "batch_number": 22,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "07:00–07:20",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten frames passed visual review, are 1376x768 sRGB PNGs, are uploaded to Drive folder 1KTaABRWYhUZKbdNpjsmxl08Iq3k3YWaQ, and each Drive MD5 matches its local file. IMG0211, IMG0213, IMG0219 and IMG0220 were rerendered after the first pass: IMG0211 and IMG0219 had read as constructed tunnels, IMG0213 had added modern-looking miners and wrong creature anatomy, and IMG0220 had repeated the tunnel composition and missed the juvenile scale beat.",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0211",
+      "timestamp": "07:00–07:02",
+      "shot_lens": "LAM · 28mm",
+      "narration_slice": "Surviving accounts preserved by",
+      "shot_type": "Low-angle monumental architectural / geological framing — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Blind wingless Firewyrms boring through superheated rock",
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "file_path": "assets/batch_022/VAL-EP001-IMG0211.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2223752,
+      "md5": "13f3fac7c8a185bd7b4cecdf922361f3",
+      "resolution": "1376x768",
+      "drive_file_id": "1XaEjBH2Lb96rQJ7vY3p9dHcHw_IKPhPO",
+      "drive_url": "https://drive.google.com/file/d/1XaEjBH2Lb96rQJ7vY3p9dHcHw_IKPhPO/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: irregular natural volcanic fissure with fractured basalt and falling grit; no tunnel rings, lamps or architecture."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0212",
+      "timestamp": "07:02–07:04",
+      "shot_lens": "OTS · 40mm",
+      "narration_slice": "the Faceless Men of Braavos",
+      "shot_type": "Over-the-shoulder depth perspective — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Over-the-shoulder depth perspective — Blind wingless Firewyrms boring through superheated rock",
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "file_path": "assets/batch_022/VAL-EP001-IMG0212.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2328413,
+      "md5": "f2d48e0f115c6fb589c8ba028805b679",
+      "resolution": "1376x768",
+      "drive_file_id": "1mbMrguQAjQVzd-Y830iD_1i7Q6pEJNoZ",
+      "drive_url": "https://drive.google.com/file/d/1mbMrguQAjQVzd-Y830iD_1i7Q6pEJNoZ/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Visual review passed; local PNG dimensions/colorspace checked and upload-reported Drive MD5 matches."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0213",
+      "timestamp": "07:04–07:06",
+      "shot_lens": "WS · 28mm",
+      "narration_slice": "and studied at the",
+      "shot_type": "Deep-focus wide atmospheric composition — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Deep-focus wide atmospheric composition — Blind wingless Firewyrms boring through superheated rock",
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "file_path": "assets/batch_022/VAL-EP001-IMG0213.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 1773963,
+      "md5": "a80c36d07eefc2744bed86f2bd8c8ce9",
+      "resolution": "1376x768",
+      "drive_file_id": "1eWKj-Czt9Ea2KlhbcAwaL1F_N4rmXbT3",
+      "drive_url": "https://drive.google.com/file/d/1eWKj-Czt9Ea2KlhbcAwaL1F_N4rmXbT3/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: vast natural basalt chamber, no humans, no miners, no creature anatomy on show."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0214",
+      "timestamp": "07:06–07:08",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "Citadel speak of firewyrms—pale, blind,",
+      "shot_type": "Ultra-wide establishing vista — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Ultra-wide establishing vista — Blind wingless Firewyrms boring through superheated rock",
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "file_path": "assets/batch_022/VAL-EP001-IMG0214.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2314718,
+      "md5": "93118d3d522619177fad12565c6cfaee",
+      "resolution": "1376x768",
+      "drive_file_id": "1wVeL8LCWtdxM8tFXWufU8cfN1xl_vu39",
+      "drive_url": "https://drive.google.com/file/d/1wVeL8LCWtdxM8tFXWufU8cfN1xl_vu39/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Visual review passed; local PNG dimensions/colorspace checked and upload-reported Drive MD5 matches."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0215",
+      "timestamp": "07:08–07:10",
+      "shot_lens": "MCU · 50mm",
+      "narration_slice": "wingless burrowing creatures akin",
+      "shot_type": "Medium close-up atmospheric focal beat — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Medium close-up atmospheric focal beat — Blind wingless Firewyrms boring through superheated rock",
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "file_path": "assets/batch_022/VAL-EP001-IMG0215.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 1866837,
+      "md5": "13ddb62c69c1ea4caeca843dd4d5c3b7",
+      "resolution": "1376x768",
+      "drive_file_id": "1icNjXd6wDr2DAXcmSpHtgv4ygz4Y2GDn",
+      "drive_url": "https://drive.google.com/file/d/1icNjXd6wDr2DAXcmSpHtgv4ygz4Y2GDn/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Visual review passed; local PNG dimensions/colorspace checked and upload-reported Drive MD5 matches."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0216",
+      "timestamp": "07:10–07:12",
+      "shot_lens": "MS · 35mm",
+      "narration_slice": "to dragons that breathed",
+      "shot_type": "Dynamic medium lateral tracking angle — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Dynamic medium lateral tracking angle — Blind wingless Firewyrms boring through superheated rock",
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "file_path": "assets/batch_022/VAL-EP001-IMG0216.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 2270089,
+      "md5": "0cde6ebf77ce1c7d9ef8fe5665ef0da4",
+      "resolution": "1376x768",
+      "drive_file_id": "1gLN5q171HU5wSXYVJD-MI2WAQ74bk8yl",
+      "drive_url": "https://drive.google.com/file/d/1gLN5q171HU5wSXYVJD-MI2WAQ74bk8yl/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Visual review passed; local PNG dimensions/colorspace checked and upload-reported Drive MD5 matches."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0217",
+      "timestamp": "07:12–07:14",
+      "shot_lens": "MCU · 65mm",
+      "narration_slice": "scorching flame and bored effortlessly",
+      "shot_type": "Compressed telephoto dramatic subject framing — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Blind wingless Firewyrms boring through superheated rock",
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "file_path": "assets/batch_022/VAL-EP001-IMG0217.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2309106,
+      "md5": "fbc956ffce1d2be83426392d1be8b486",
+      "resolution": "1376x768",
+      "drive_file_id": "1wUL32aAsvUF1MFceyNNodv-V3wSWfYUn",
+      "drive_url": "https://drive.google.com/file/d/1wUL32aAsvUF1MFceyNNodv-V3wSWfYUn/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Visual review passed; local PNG dimensions/colorspace checked and upload-reported Drive MD5 matches."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0218",
+      "timestamp": "07:14–07:16",
+      "shot_lens": "MS · 50mm",
+      "narration_slice": "through solid stone and",
+      "shot_type": "Medium cinematic subject focus — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Medium cinematic subject focus — Blind wingless Firewyrms boring through superheated rock",
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "file_path": "assets/batch_022/VAL-EP001-IMG0218.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2340609,
+      "md5": "ece1379aae34e62cb929ceada044b0a1",
+      "resolution": "1376x768",
+      "drive_file_id": "1HN_mLvBM71vmjrEiQ_hs69aJ6NOuPfQp",
+      "drive_url": "https://drive.google.com/file/d/1HN_mLvBM71vmjrEiQ_hs69aJ6NOuPfQp/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Visual review passed; local PNG dimensions/colorspace checked and upload-reported Drive MD5 matches."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0219",
+      "timestamp": "07:16–07:18",
+      "shot_lens": "WS · 35mm",
+      "narration_slice": "magma crust. Young wyrms grew",
+      "shot_type": "Wide environmental storytelling tableau — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "Wide environmental storytelling tableau — Blind wingless Firewyrms boring through superheated rock",
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "file_path": "assets/batch_022/VAL-EP001-IMG0219.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 1875603,
+      "md5": "885a36895448fa12f09134fcec451939",
+      "resolution": "1376x768",
+      "drive_file_id": "1XwK62QZo71ZWOweQx5AqaXNm1lxXBBNw",
+      "drive_url": "https://drive.google.com/file/d/1XwK62QZo71ZWOweQx5AqaXNm1lxXBBNw/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: immense natural layered basalt cavern; pale firewyrm only a distant slender curve, no constructed bore."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0220",
+      "timestamp": "07:18–07:20",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "no thicker than a",
+      "shot_type": "High-elevation geographic / scale reveal — Blind wingless Firewyrms boring through superheated rock",
+      "visual_beat": "High-elevation geographic / scale reveal — Blind wingless Firewyrms boring through superheated rock",
+      "character_refs": [
+        "CRT-VAL-001"
+      ],
+      "location_refs": [
+        "LOC-VAL-005"
+      ],
+      "file_path": "assets/batch_022/VAL-EP001-IMG0220.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. II",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2266525,
+      "md5": "647e4a4aad0663dc445031b775736c06",
+      "resolution": "1376x768",
+      "drive_file_id": "1GicW9D3d8rT8OJTNodZ3gxSDFpACab_d",
+      "drive_url": "https://drive.google.com/file/d/1GicW9D3d8rT8OJTNodZ3gxSDFpACab_d/view?usp=drivesdk",
+      "md5_verified_on_drive": true,
+      "qc_note": "Replacement approved: high-angle juvenile firewyrm emerging from an irregular hairline crack with clear forearm-scale size cue."
+    }
+  ],
+  "verified_episode_frames_after_batch": 226,
+  "verified_episode_percent_after_batch": "21.52%"
+}
