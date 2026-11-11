@@ -1,7 +1,7 @@
 # BATCH 060 — IMAGE PROMPTS
 **Episode 001 · Before the Dragons: The Rise of Old Valyria**
 **Timecode 19:40–20:00 · Ch. IV · frames VAL-EP001-IMG0591 – IMG0600**
-**Status: OPEN — 0 of 10.**
+**Status: PARTIAL — 5 of 10 APPROVED, 5 REVISIONS QUEUED (`0591` profile resolves / `0592` god-light shafts / `0598` chain-as-choker on the human / `0599` glowing rift-band / `0600` second dragon). Five checksums re-read and matched on Drive; verified progress unchanged at 589/1,050.**
 
 Shared opener on every prompt (do not drop it):
 
