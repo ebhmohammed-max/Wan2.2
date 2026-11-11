@@ -696,7 +696,7 @@ That is `0398` and `0446` in a new disguise, and the diagnosis is the one `9c` a
 **Batch 049 CLOSED 10/10. Verified progress: 492/1,050 (46.86%)** — Batches 045 through 049 all closed at 10/10, and **Batch 050 is open at 2/10**. `IMG0160` remains the one open correction from an earlier batch.
 
 
-### Batch 050 — One Uncomfortable Truth (`16:20–16:40`) — **Open · 2/10 approved and uploaded, `IMG0493`–`IMG0500` not rendered**
+### Batch 050 — One Uncomfortable Truth (`16:20–16:40`) — **Open · 6/10 approved and uploaded · `IMG0498` and `IMG0500` rejected**
 
 **The sceptic concedes, and the concession is carried by scale.** *Yet even skeptical scholars concede one uncomfortable truth: simple pastoralists do not wake one morning fluent in high sorcery.* Yandel has spent four minutes dismantling the eastern claim and now grants it the one point he cannot argue away. **The frames do not make the argument — the narration does.** What the frames supply is the **evidence** the argument rests on: a structure no shepherd built, and a material that can only have been melted.
 
@@ -710,4 +710,12 @@ That is `0398` and `0446` in a new disguise, and the diagnosis is the one `9c` a
 
 **Standing brief for `IMG0496`–`IMG0500`, where the cavern trials open.** The fire, glyph, sound and blood trials are **the most dangerous material in the episode** and must be shot as **physical and procedural** — heat, soot, scored stone, breath, torchlight on wet rock — never as magic. **Negate by name every time: no floating symbols, no glowing script, no magic circles, no energy trails, no auras, no levitation, no glowing eyes, no lens flares, no god-light.** Every living face stays out of frame or in silhouette.
 
-**Verified progress: 492/1,050 (46.86%)** — Batches 045–049 all closed at 10/10; Batch 050 open at 2/10. **Order of work next: render `IMG0493`–`IMG0500`, opening the trials at `IMG0496`, then Batch 051 (`16:40–17:00`)** where the trials turn lethal. `IMG0160` remains the one open correction from an earlier batch.
+**The sceptic's case closes on three objects.** `0493` puts a fist-sized shard of fused stone on a desk in candlelight with one ink-stained fingertip entering frame — **a whole empire reduced to something a man could put in his pocket.** `0494` takes the same shard to 100mm on a cracked leather cover and finds the flow ripples, the vesicles, the dust in the hollows and the translucent green-black break, with a thread of spider silk for scale. `0495` leaves the room entirely for a low black wall alone on a grey shore in sea mist, its **relief carving worn past legibility** — silent riddles, a message with the message gone.
+
+**Then the cavern, and this is where the batch earned its rejections.** The first `0496` came back with **glistening wet folded rock that read as viscera** — an anatomical, membrane-like interior rather than stone — and `0498` came back with a soft rounded form in the heat haze that read as **a foot with toes coming apart**. Neither was visible at 950px. Both were obvious at 5x and 7x.
+
+**`0496` was rebuilt and passed on the second pass**: dry, matte, dust-grey and charcoal basalt, broken into sharp angular fractured slabs with ash on every ledge, hard chipped edges, deep cracks, no sheen anywhere, and the vault above twenty feet **pure black with no opening and no glow.** One coal trench running to a vanishing point, three faceless figures at its near end. **The correction is worth generalising: the trials must be shot drier, darker and more broken than instinct wants**, because a smooth dark wet surface under warm light is the exact recipe that produces viscera.
+
+**`0500` was rejected on character continuity, not on quality.** In isolation it is a strong frame — a bowed figure at a fire trench, cupped soot-black trembling hands, coals blooming behind. But it delivered **a grey-stubbled man of forty with livid red streaking down his back** where the sequence has established **youths with short ash-stiffened hair**, and the red reads as blood in a production that has shown none. The scene would have handed the trials to a different character than the one being introduced.
+
+**Verified progress: 498/1,050 (47.43%)** — Batches 045–049 closed at 10/10; Batch 050 open at 6/10 with `0498` and `0500` to re-render. **Order of work next: re-render `0498` (hard cracked hot basalt, nothing soft in the glow) and `0500` (seventeen, no blood), then Batch 051 (`16:40–17:00`)** where the trials turn lethal. `IMG0160` remains the one open correction from an earlier batch.

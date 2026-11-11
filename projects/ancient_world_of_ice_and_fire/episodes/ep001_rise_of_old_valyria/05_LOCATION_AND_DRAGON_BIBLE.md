@@ -57,6 +57,14 @@
 - **Crop above the wrists** (`0485`), or **render maesters strictly from behind** (`0486`). Where a face is wanted, give it to **carved stone** (`0487`, the marble sphinx in rain).
 - **Pages may exist, words may not.** A page turned away, edge-on, closed, or out of focus is the established solution (`0034`, `0037`, `0485`). At magnification there must be **no legible word** — blurred texture only. Warm candlelight is permitted **here and only here**.
 
+### 4e. `THE CAVERN TRIALS` — dry, matte, nearly unlit *(failures: `IMG0496` pass 1, `IMG0498` pass 1)*
+- **The trials are physical and procedural, never magic.** Heat, soot, scored stone, bare feet, breath, torchlight on wet-or-dry rock. **No floating symbols, no glowing script, no magic circles, no energy, no auras, no levitation, no glowing eyes, no lens flares, no god-light.** Say it every time.
+- **Two failures, one cause: a smooth dark wet surface under warm light produces viscera.** `0496` pass one returned glistening folded rock that read as membrane and organ; `0498` pass one returned a soft rounded form in the heat haze legible as a foot with toes. **Both invisible at 950px, obvious at 5x–7x.**
+- **The correction:** basalt is **dry, matte, dust-grey and charcoal, broken into sharp angular fractured slabs with hard chipped edges and deep cracks, grey ash on every ledge, no sheen anywhere.** The vault above twenty feet goes **pure black with no opening and no glow.** Negate: no wet sheen, no gloss, no shine, no membrane, no flesh, no meat, no viscera, no organ, no folds, no tendons, no veins.
+- **Lighting is two sources only** — a coal trench low, a dull red vent high — and nothing in between. Everything else is black.
+- **The candidates are youths, fourteen to eighteen**, hair cropped short and stiff with grey ash, barefoot, in short tunics. **No blood, no wounds, no livid red streaking** anywhere in the trials (`0500` pass one broke this). Every face is turned away, bowed, silhouetted or out of frame.
+- **Approved references:** `IMG0496` (trench to a vanishing point, faceless watchers, dry angular rock) · `IMG0497` (five candidates waiting, long shadows, nothing happening) · `IMG0499` (whole caldera from a ledge, floor reduced to marks).
+
 ### 5. `LOC-ESS-001`: OLD GHIS — CAPITAL OF THE GHISCARI EMPIRE *(Batch 001: `IMG0006`; Batches 011–015: `IMG0106–0150`; Batches 095–105)*
 - **Historical Period:** Peak Pre-Valyrian Ghiscari Dominance, pre-5,000 BC.
 - **Architectural Style & Materials:** Monumental ancient Near-Eastern / Mesopotamian-inspired brickwork (*ASOS* Daenerys III): colossal **stepped pyramids of fired yellow-ochre and terracotta brick** with irrigated hanging palm terraces, massive crenellated mud-brick ramparts, glazed lapis-blue tile friezes, wide limestone parade avenues, and a **100-foot cast-bronze statue of the Harpy of Old Ghis** (woman's torso, bat wings for arms, scorpion tail, eagle talons clutching a **thunderbolt**).

@@ -57,7 +57,7 @@
     49
   ],
   "next_batch": 50,
-  "next_image_number": 493,
+  "next_image_number": 498,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1938,8 +1938,8 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-13T21:40:00Z",
-  "verified_progress_percent": "46.86%",
+  "last_updated": "2026-11-13T22:55:00Z",
+  "verified_progress_percent": "47.43%",
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3635,7 +3635,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 492,
+  "verified_image_count": 498,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -9446,20 +9446,121 @@
       "resolution": "1376x768",
       "qc_status": "APPROVED_VISUAL_65MM_V1",
       "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0493",
+      "timestamp": "16:24–16:26",
+      "narration_slice": "Valyria later did? Why",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Maester Yandel's skepticism vs vanishing Shadow teachers",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "drive_file_id": "1UuW6PWLAlXKTtY_I2tny8buJ-bksVkcz",
+      "drive_url": "https://drive.google.com/file/d/1UuW6PWLAlXKTtY_I2tny8buJ-bksVkcz/view",
+      "md5": "c8bc54783f9640b369967add94a76edf",
+      "size_bytes": 2015049,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0494",
+      "timestamp": "16:26–16:28",
+      "narration_slice": "leave behind no monuments save",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Maester Yandel's skepticism vs vanishing Shadow teachers",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "drive_file_id": "1q22Wt4r0zzVReK45cqfQwE6rRj4paqRd",
+      "drive_url": "https://drive.google.com/file/d/1q22Wt4r0zzVReK45cqfQwE6rRj4paqRd/view",
+      "md5": "417c5f88234c515243320eb08fde6f6d",
+      "size_bytes": 2386792,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0495",
+      "timestamp": "16:28–16:30",
+      "narration_slice": "silent riddles in Asshai?",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Maester Yandel's skepticism vs vanishing Shadow teachers",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "drive_file_id": "1muqEvdOmEjVaINu0fwdLMhlJemnz4wBk",
+      "drive_url": "https://drive.google.com/file/d/1muqEvdOmEjVaINu0fwdLMhlJemnz4wBk/view",
+      "md5": "d03219b137b8818893bba01a6b7c56e3",
+      "size_bytes": 2112787,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0496",
+      "timestamp": "16:30–16:32",
+      "narration_slice": "Yet even skeptical scholars",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Lethal cavern trials of fire, glyph, sound, and blood",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-002"
+      ],
+      "drive_file_id": "1cdC3qtjrJOkyIL98IBrsX5XdiBS8oAwW",
+      "drive_url": "https://drive.google.com/file/d/1cdC3qtjrJOkyIL98IBrsX5XdiBS8oAwW/view",
+      "md5": "9f746e5e91846136af40e6207c59deda",
+      "size_bytes": 2031374,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0497",
+      "timestamp": "16:32–16:34",
+      "narration_slice": "concede one uncomfortable truth: simple",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — Lethal cavern trials of fire, glyph, sound, and blood",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-002"
+      ],
+      "drive_file_id": "1EgGF0Z2k5Z2cRoJZsSi-rOc2N-ID_Jno",
+      "drive_url": "https://drive.google.com/file/d/1EgGF0Z2k5Z2cRoJZsSi-rOc2N-ID_Jno/view",
+      "md5": "68ca9e230234a12c74a4ec5edab858c7",
+      "size_bytes": 2027255,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0499",
+      "timestamp": "16:36–16:38",
+      "narration_slice": "one morning fluent in high",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — Lethal cavern trials of fire, glyph, sound, and blood",
+      "location_refs": [
+        "LOC-VAL-003",
+        "DRG-VAL-002"
+      ],
+      "drive_file_id": "1vcQdYodu3Tx4tegjQPsvJvdCswytce65",
+      "drive_url": "https://drive.google.com/file/d/1vcQdYodu3Tx4tegjQPsvJvdCswytce65/view",
+      "md5": "a026061db3f861a056fd6f964fcd9e5c",
+      "size_bytes": 1656888,
+      "resolution": "1376x768",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "upload_checksum_verified": true
     }
   ],
-  "batch_050_status": "PARTIAL_2_OF_10_UPLOADED_MD5_VERIFIED",
+  "batch_050_status": "PARTIAL_6_OF_10_UPLOADED_MD5_VERIFIED_0498_0500_REJECTED",
   "batch_050_drive_folder_id": "1Atkd3zScJVgA9M8Mr1IPTX6UOk2QlWeC",
-  "batch_050_drive_verified_count": 2,
-  "batch_050_pending_completion_scenes": [
-    "VAL-EP001-IMG0493",
-    "VAL-EP001-IMG0494",
-    "VAL-EP001-IMG0495",
-    "VAL-EP001-IMG0496",
-    "VAL-EP001-IMG0497",
+  "batch_050_drive_verified_count": 6,
+  "batch_050_pending_completion_scenes": [],
+  "batch_050_note": "One uncomfortable truth, and the trials open. The sceptic's case closes on three objects: a shard of fused stone a man could pocket (0493), the same shard in macro with its translucent green-black break (0494), and a low weathered wall on a grey shore whose carving has eroded past legibility (0495). Then the cavern: dry matte angular basalt in near-dark with a coal trench running to a vanishing point (0496, second pass), five barefoot candidates waiting along a trench while a young head watches from a ledge (0497), and the whole caldera from a high ledge with the trial floor reduced to marks (0499).",
+  "batch_050_pending_rerender_scenes": [
     "VAL-EP001-IMG0498",
-    "VAL-EP001-IMG0499",
     "VAL-EP001-IMG0500"
   ],
-  "batch_050_note": "One uncomfortable truth. The sceptic concedes and the concession is carried by SCALE: 0491 is the first Valyrian structure in the episode and it leaves the frame twice; 0492 proves on a macro level that the material was melted. The argument is in the narration; the frames supply the evidence."
+  "cavern_rule": "The trial cavern must be shot as DRY and MATTE and nearly unlit. First-pass attempts failed twice in the same way: glistening wet folded rock read as viscera (0496) and a soft rounded form in the heat haze read as a foot (0498). Both were invisible at 950px and obvious at 5x-7x. Negate by name: no wet sheen, no gloss, no membrane, no flesh, no meat, no viscera, no organ, no folds, no tendons, no veins. Push the roof to pure black. Two light sources only - a coal trench low, a dull red vent high - and nothing in between."
 }
