@@ -1,0 +1,232 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": null,
+  "batch_drive_folder_name": null,
+  "batch_number": 43,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "14:00–14:20",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "IN_PROGRESS_9_OF_10_APPROVED",
+  "approved_count": 9,
+  "approved_uploaded_count": 0,
+  "drive_verified_count": 0,
+  "pending_rerender_count": 0,
+  "pending_generation_count": 1,
+  "pending_completion_scenes": [
+    "VAL-EP001-IMG0430"
+  ],
+  "generations_used": 10,
+  "visual_qc_note": "The film leaves the fable for evidence. One re-render only: 0421's first pass produced a complete, neatly arced, upright ribcage that read as a mounted museum specimen; the approved pass collapses and scatters the remains in the snow. 0423 is the clearest statement of the evidence, 0424 the widest, 0427 the most tactile, and 0426 is the only frame in the episode with sustained physical labour.",
+  "location_note": "COAST-OF-IB is new to the production and needs a bible entry: cold desaturated Arctic, black basalt, blue-grey sea, white-blue snow and permafrost, wet mineralised bone, pewter overcast, no warm light. SNOW AND ICE ARE PERMITTED HERE AND ONLY HERE - the standing no-snow ban is on record as peninsula-scoped, so Ib does not violate it.",
+  "bone_rule": "Fossilised bone is stone-dark grey-black, wet where scoured and pale-dusted where dry, pitted and veined with mineral. Frames must show fragments, arcs and sections, never a complete mounted skeleton standing upright. Four-limbed anatomy preserved: one pair of wings, one pair of hind legs.",
+  "figure_rule": "Anonymous Ibbenese whalers in tarred oilskins and fur, faces never visible - backs, hoods, shoulders and hands only. No maester and no Citadel figure appears in this batch.",
+  "letterbox_scan_note": "Per-row content-box scan on all nine. Two carried strips and were cropped to 1376x768: 0421 and 0424 at rows 12-756. The other seven were full-bleed.",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0421",
+      "timestamp": "14:00–14:02",
+      "narration_slice": "Yet the Citadel could",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_043/VAL-EP001-IMG0421.png",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": "7c329e34f3459c36a04dd16687ec8819",
+      "size_bytes": 1613259,
+      "md5_verified_on_drive": false,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 2. 28mm low angle over a COLLAPSED section of fossilised ribcage lying wrecked in snow and basalt: ribs at wild uneven angles, most snapped or sunk, one attached to three fused vertebrae, snow drifted into the hollows, a heavy condyle end exposed at the near edge. Pass 1 rendered a complete neat upright arc that read as a mounted museum skeleton; pass 2 states debris, collapse, asymmetry and 'nothing stands upright in a tidy arc'. Reframed rows 12-756."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0422",
+      "timestamp": "14:02–14:04",
+      "narration_slice": "not so easily dismiss harder",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "Over-the-shoulder depth perspective — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_043/VAL-EP001-IMG0422.png",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": "4be8d73ce341123e1bbe4c1068ad9172",
+      "size_bytes": 2509966,
+      "md5_verified_on_drive": false,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 40mm over the shoulder of a whaler in tarred oilskin and salt-rimed fur, harpoon loose in his hand, face never seen — the buried rib arcs leaning out of the snow beyond him, two whalers small at their base with ropes and a tripod. Best use of foreground blur in the batch. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0423",
+      "timestamp": "14:04–14:06",
+      "narration_slice": "evidence pulled from the",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Deep-focus wide atmospheric composition — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_043/VAL-EP001-IMG0423.png",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": "7926a0d03f0d274286a19ea3d6b55b84",
+      "size_bytes": 2228637,
+      "md5_verified_on_drive": false,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 28mm along the bone field: a buried spine of cart-wheel vertebrae, three ribs standing as broken arches, and a partial skull half-swallowed with one deep rimed eye socket exposed. Six whalers with ropes and a sled working the remains, all tiny, all from behind. The single clearest statement of what the evidence actually is. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0424",
+      "timestamp": "14:06–14:08",
+      "narration_slice": "soil of distant lands.",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "Ultra-wide establishing vista — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_043/VAL-EP001-IMG0424.png",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": "6310d53ce7711efa76795400f0e6ad16",
+      "size_bytes": 1434421,
+      "md5_verified_on_drive": false,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 24mm from the headland: an enormous white-blue snowfield, a black shore, a leaden sea, and one great dark rib arching alone at the head of a gully with a string of six specks hauling a sled toward it. Scale and isolation in one frame, no buildings, no vegetation. Reframed rows 12-756."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0425",
+      "timestamp": "14:08–14:10",
+      "narration_slice": "As Maester Yandel records,",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "Medium close-up atmospheric focal beat — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_043/VAL-EP001-IMG0425.png",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": "506f54b5d716f72baae61598288a723c",
+      "size_bytes": 2569419,
+      "md5_verified_on_drive": false,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1 with note. 50mm of a whaler crouched over the bone trench, hood up and crusted with frozen breath, face entirely hidden, bare cracked hands flat on the wet-dark bone, pry bar in the snow. Strong frame; the single departure from the lock is a knitted beanie rather than the seal-fur hood, recorded rather than re-rendered. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0426",
+      "timestamp": "14:10–14:12",
+      "narration_slice": "fossilized and weathered dragon bones",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_043/VAL-EP001-IMG0426.png",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": "5520e757eafed76f533b3af87be28df0",
+      "size_bytes": 2245754,
+      "md5_verified_on_drive": false,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 35mm lateral tracking: six Ibbenese with ropes over their shoulders hauling a colossal fossilised rib on a wooden sled, leaning into the weight, two pushing behind, runners cutting two long grooves back out of frame, spindrift blowing across the snow. Faces never visible. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0427",
+      "timestamp": "14:12–14:14",
+      "narration_slice": "have been unearthed thousands",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_043/VAL-EP001-IMG0427.png",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": "6e5880c9acc887811c1aa57ed9c19b2d",
+      "size_bytes": 2403170,
+      "md5_verified_on_drive": false,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 65mm compressed: one fossilised vertebra half-wrung out of the ice, centrum broad as a drum, neural spine broken to a jagged stump, pitted and veined with pale mineral, frost along its top edge, an iron pry bar and tarred rope soft in the foreground. Monumental object at intimate distance. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0428",
+      "timestamp": "14:14–14:16",
+      "narration_slice": "of leagues from Valyria—from",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_043/VAL-EP001-IMG0428.png",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": "a445135d7a37103ac215aad5ce49b2a6",
+      "size_bytes": 2486748,
+      "md5_verified_on_drive": false,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 50mm of a whaler standing with his back to us before the dig: canted rib beside him, spine trench and two more ribs beyond, tripod with a hanging rope, sled, four dark figures at work. The mournful beat — a man looking at what should not be here. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0429",
+      "timestamp": "14:16–14:18",
+      "narration_slice": "the bleak, icy wastes",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_043/VAL-EP001-IMG0429.png",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": "e211e00cb1d1aaf26218c046a8138433",
+      "size_bytes": 2155856,
+      "md5_verified_on_drive": false,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 35mm across the icy waste: sastrugi ridges running to a black shore and a grey sea, three low hide shelters weighted with stones, drying racks, upturned boats, one thin dark column of smoke bending on the wind, and one fossilised rib jutting out of the snow at the left edge. No firelight on the snow. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0430",
+      "timestamp": "14:18–14:20",
+      "narration_slice": "of Ib in the Shivering",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Fossilized black dragon bones from icy Ib to Sothoryos",
+      "location_refs": [
+        "COAST-OF-IB"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_043/VAL-EP001-IMG0430.png",
+      "resolution": "1376x768",
+      "drive_file_id": null,
+      "drive_url": null,
+      "md5": null,
+      "size_bytes": null,
+      "md5_verified_on_drive": false,
+      "qc_status": "PENDING_GENERATION",
+      "qc_note": "NOT YET RENDERED — the ten-generation cap for this turn was exhausted on the 0421 re-render. Brief written: 24mm from the Ib cliff top, frozen harbour, thin smoke, one enormous rib at the foot of the cliffs. Render next turn."
+    }
+  ]
+}
