@@ -1,7 +1,9 @@
 # BATCH 061 — IMAGE PROMPTS
 **Episode 001 · Before the Dragons: The Rise of Old Valyria**
 **Timecode 20:00–20:20 · Ch. IV · frames VAL-EP001-IMG0601 – IMG0610**
-**Status: PARTIAL — 6 of 10 APPROVED, 4 REVISIONS QUEUED (`0602` town-glints / `0604` cone incandescence / `0606` resolved profile / `0610` five ships). Six checksums re-read and matched on Drive; verified progress unchanged: 594/1,050 (56.57%).**
+**Status: CLOSED — 10 of 10 (six revision attempts across four frames). All checksums re-read and matched on Drive.**
+
+**Batch status note:** closed 10/10 — 0602 first pass returned town-points glowing (→ a beached mis-staging in revision 1; → final v3 in-flight, Essos a dead ochre smudge); 0604 incandescent cones (→ cold black with smoke WEST); 0606 v1 resolved profile (→ v2 a rocket sled with triple exhaust, anatomy-law broken; → v3 abeam cruise, face unreadable, NO exhaust); 0610 sailing ships (→ empty sea). **NOT zero-rejection — the weakest batch since the register opened.** Verified progress after close: **604/1,050 (57.52%).**
 
 Shared opener on every prompt (do not drop it):
 
