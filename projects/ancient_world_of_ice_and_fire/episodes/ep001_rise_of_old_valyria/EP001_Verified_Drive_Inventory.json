@@ -61,10 +61,11 @@
   53,
   54,
   55,
-  56
+  56,
+  57
  ],
- "next_batch": 57,
- "next_image_number": 561,
+ "next_batch": 58,
+ "next_image_number": 571,
  "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
  "drive_folders": {
   "master_root_folder": {
@@ -573,7 +574,7 @@
    "upload_checksum_verified": true
   }
  ],
- "completed_images": 559,
+ "completed_images": 569,
  "batch_002_images_65mm": [
   {
    "number": 11,
@@ -1946,7 +1947,7 @@
   }
  ],
  "last_updated": "2026-11-11",
- "verified_progress_percent": 53.24,
+ "verified_progress_percent": 54.19,
  "batch_012_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0111",
@@ -3642,7 +3643,7 @@
    "upload_checksum_verified": true
   }
  ],
- "verified_image_count": 559,
+ "verified_image_count": 569,
  "batch_021_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0201",
@@ -9982,7 +9983,7 @@
  "the_scream_rule": "The scream is physical cost, not magic. Show flush, taut tendons, sweat, a worn and crusted mouthpiece, dry residue - then a still body on a terrace and one whole horn standing among ruins a civilisation later. No aura, no glow, no shockwave, no sound effect, nothing alight, in any frame.",
  "the_body_rule": "No face and no injury in batch 053. Strain is tendons, flush and sweat; damage is dryness, salt deposit and worn metal; the cost is posture. Negations carried in every prompt: no blood, no wound, no injury, no bruise, no burn. This is also why the batch cleared moderation on the first pass: describe what the body is doing, not what has been done to it.",
  "batch_052_three_faults_lesson": "0514 was masonry, 0519 was the sky, 0512 was a dropped call. All three fixed on the first re-render because the fault was in the negation list, not the idea. The masonry negation list is now standard wording on any frame containing a stone wall - 0528 pass 1 proved it is still needed in the middle distance, not just in the foreground.",
- "verified_percent": 53.24,
+ "verified_percent": 54.19,
  "open_corrections": [
   "VAL-EP001-IMG0160"
  ],
@@ -10269,5 +10270,188 @@
  ],
  "batch_056_note": "Batch 056 'Barth's Sentence' (18:20-18:40) CLOSED 10/10 on ten first passes — zero rejections. The batch holds the testimony rule (bible 4h) without a single depiction of the act: 0551 residue, 0552-0554 category as specimen, 0555-0559 the boundary at widening scales, 0560 the reader. Crop checks passed at 3x-5x (0557 head a uniform dark shape, no ear or profile; 0553/0560 hands pale-dry-grimy, no red; 0557/0560 pages blank, toned, foxed; 0556's empty iron bracket verified empty at 5x). Uploads to EP001_BATCH_056_IMG0551-0560; checksums re-read from Drive and matched.",
  "batch_056_lesson": "The testimony rule holds when the sentence is rendered as objects. Where the narration says the unsayable, the images that survive are the ones about what was left behind — ash, wear, a tray, a cord, a horizon — never the thing itself. Zero rejected generations is a first for a Chapter IV batch.",
- "reconciliation_note": "Running total reconciled 2026-11-11 at Batch 056 close. Historical close notes claim 564/1,050 (53.71%); that figure is arithmetic drift and is superseded. The verifiable per-frame records sum to 549 through Batch 055 (batches 001-004: 4x10; batches 005-055: 509 of 510 — Batch 050 closed 9/10 with IMG0500 officially abandoned after two character failures). 549 + 10 (Batch 056) = 559/1,050 = 53.24%. Drive filename sweep 2026-11-11: 560 PNGs match VAL-EP001-IMG*, IDs 0001-0550 with exactly one hole (IMG0500, abandoned) plus duplicate names at 0094/0255/0315/0316 and six legacy _variant PNGs in the reference-plates folder. IMG0160 remains the one open correction."
+ "reconciliation_note": "Running total reconciled 2026-11-11 at Batch 056 close. Historical close notes claim 564/1,050 (53.71%); that figure is arithmetic drift and is superseded. The verifiable per-frame records sum to 549 through Batch 055 (batches 001-004: 4x10; batches 005-055: 509 of 510 — Batch 050 closed 9/10 with IMG0500 officially abandoned after two character failures). 549 + 10 (Batch 056) = 559/1,050 = 53.24%. Drive filename sweep 2026-11-11: 560 PNGs match VAL-EP001-IMG*, IDs 0001-0550 with exactly one hole (IMG0500, abandoned) plus duplicate names at 0094/0255/0315/0316 and six legacy _variant PNGs in the reference-plates folder. IMG0160 remains the one open correction.",
+ "batch_057_status": "COMPLETE_10_OF_10_UPLOADED_MD5_VERIFIED",
+ "batch_057_drive_folder_id": "1HhUVPcek11XTu-cihyohRuQR7bBJRodD",
+ "batch_057_drive_verified_count": 10,
+ "batch_057_pending_completion_scenes": [],
+ "batch_057_verified_images": [
+  {
+   "scene_id": "VAL-EP001-IMG0561",
+   "timestamp": "18:40–18:42",
+   "narration_slice": "merely bound wild dragons to",
+   "shot_type": "MS · 35mm",
+   "visual_beat": "Dynamic medium lateral tracking angle — the binding as a single strap, in motion",
+   "location_refs": [
+    "LOC-VAL-003",
+    "DRG-VAL-002"
+   ],
+   "drive_file_id": "1mNe7TcbRoBB_Q047BlGYKWooWkUYjS9p",
+   "drive_url": "https://drive.google.com/file/d/1mNe7TcbRoBB_Q047BlGYKWooWkUYjS9p/view",
+   "md5": "eb06b154103b0044d3a7f36ee0af5838",
+   "size_bytes": 1454846,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0562",
+   "timestamp": "18:42–18:44",
+   "narration_slice": "specific families through blood-oaths, or",
+   "shot_type": "MCU · 65mm",
+   "visual_beat": "Compressed telephoto dramatic subject framing — the oath as two objects",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "drive_file_id": "1YnTTjDbZAGJ6JVUf52F-ryS6b_gHWC06",
+   "drive_url": "https://drive.google.com/file/d/1YnTTjDbZAGJ6JVUf52F-ryS6b_gHWC06/view",
+   "md5": "392036921ed4de7a29edbe250cbf35fd",
+   "size_bytes": 1857150,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0563",
+   "timestamp": "18:44–18:46",
+   "narration_slice": "worked deeper chimerical horrors",
+   "shot_type": "MS · 50mm",
+   "visual_beat": "Medium cinematic subject focus — the branch of the claim nobody can testify to",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "drive_file_id": "10Ut_yByla5MWNtdhgSwqLGiEOArkRDJP",
+   "drive_url": "https://drive.google.com/file/d/10Ut_yByla5MWNtdhgSwqLGiEOArkRDJP/view",
+   "md5": "b4ae2bde9e3878efd9858ea738825529",
+   "size_bytes": 1574109,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0564",
+   "timestamp": "18:46–18:48",
+   "narration_slice": "in the volcanic dark. What",
+   "shot_type": "WS · 35mm",
+   "visual_beat": "Wide environmental storytelling tableau — the dark the horrors are said to have happened in",
+   "location_refs": [
+    "LOC-VAL-003",
+    "DRG-VAL-002"
+   ],
+   "drive_file_id": "1EIBzrgGmah8k_cULOmYQrFGxeibkNJFF",
+   "drive_url": "https://drive.google.com/file/d/1EIBzrgGmah8k_cULOmYQrFGxeibkNJFF/view",
+   "md5": "d4943e3da3e73db032a1c04c999dcab9",
+   "size_bytes": 1554036,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0565",
+   "timestamp": "18:48–18:50",
+   "narration_slice": "history confirms beyond dispute is",
+   "shot_type": "UWA · 24mm",
+   "visual_beat": "High-elevation geographic / scale reveal — the land that outlasted the question",
+   "location_refs": [
+    "LOC-VAL-003",
+    "DRG-VAL-002"
+   ],
+   "drive_file_id": "11_aazdgzWtcJdKZyl0t3Fs6KyruRjuP-",
+   "drive_url": "https://drive.google.com/file/d/11_aazdgzWtcJdKZyl0t3Fs6KyruRjuP-/view",
+   "md5": "d1cb59b4a726e797b5469003e08c27d1",
+   "size_bytes": 1348927,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0566",
+   "timestamp": "18:50–18:52",
+   "narration_slice": "the result: a bond",
+   "shot_type": "LAM · 24mm",
+   "visual_beat": "Towering vertical scale composition — the dragon above, the claim below",
+   "location_refs": [
+    "LOC-VAL-003",
+    "DRG-VAL-002"
+   ],
+   "drive_file_id": "1pCWIdgIKgWRIshfwVXaVbo4W7GZanafU",
+   "drive_url": "https://drive.google.com/file/d/1pCWIdgIKgWRIshfwVXaVbo4W7GZanafU/view",
+   "md5": "ce7750c22e4d48c1b9797e6449e8a31e",
+   "size_bytes": 1325665,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0567",
+   "timestamp": "18:52–18:54",
+   "narration_slice": "in which one rider claimed",
+   "shot_type": "DET · 85mm",
+   "visual_beat": "Macro environmental / material texture insert — the wear one hand leaves",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "drive_file_id": "1UkgVP4CxjzfYT8nLpdUewA6s6wKPmfR6",
+   "drive_url": "https://drive.google.com/file/d/1UkgVP4CxjzfYT8nLpdUewA6s6wKPmfR6/view",
+   "md5": "5ca08705870688ee93bf9a4398a6e8f6",
+   "size_bytes": 1604994,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0568",
+   "timestamp": "18:54–18:56",
+   "narration_slice": "one living dragon—and the dragon",
+   "shot_type": "CU · 85mm",
+   "visual_beat": "Intimate close-up detail — the animal's resting eye, the whole of the relationship",
+   "location_refs": [
+    "LOC-VAL-003",
+    "DRG-VAL-002"
+   ],
+   "drive_file_id": "1qtekyzNLOCRmUtUH0FSSIq2BGVoNGtIo",
+   "drive_url": "https://drive.google.com/file/d/1qtekyzNLOCRmUtUH0FSSIq2BGVoNGtIo/view",
+   "md5": "b6f7aef7ce8c78eb77a284ac95caac67",
+   "size_bytes": 1857241,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0569",
+   "timestamp": "18:56–18:58",
+   "narration_slice": "accepted no other living",
+   "shot_type": "DET · 100mm",
+   "visual_beat": "Extreme close-up tactile / light study — the fitting nobody ever used",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "drive_file_id": "1_R59--KsyaOXCPeAmGgXC5rbaNMZF_H9",
+   "drive_url": "https://drive.google.com/file/d/1_R59--KsyaOXCPeAmGgXC5rbaNMZF_H9/view",
+   "md5": "7229e3ce793aec8b4130a1a569ae427c",
+   "size_bytes": 1177925,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  },
+  {
+   "scene_id": "VAL-EP001-IMG0570",
+   "timestamp": "18:58–19:00",
+   "narration_slice": "rider while its master breathed.",
+   "shot_type": "WS · 40mm",
+   "visual_beat": "Transitional wide horizon / bridge framing — the ledge before the morning",
+   "location_refs": [
+    "LOC-VAL-003"
+   ],
+   "drive_file_id": "1Q_Er0nGj2ckfchrO3Ae1a2ufHE-4P4Bm",
+   "drive_url": "https://drive.google.com/file/d/1Q_Er0nGj2ckfchrO3Ae1a2ufHE-4P4Bm/view",
+   "md5": "534fe2f20e76c500d080d59a44c9824c",
+   "size_bytes": 1464250,
+   "resolution": "1376x768",
+   "qc_status": "APPROVED_VISUAL_65MM_V1",
+   "upload_checksum_verified": true
+  }
+ ],
+ "batch_057_note": "Batch 057 'The Bond as Evidence' (18:40-19:00) CLOSED 10/10 on ten first passes. The last clause of the claim — 'what history confirms beyond dispute' — rendered as evidence, never as spectacle: the single fitted strap (0561), the tools of the oath (0562), the poured-shut door of the untestable branch (0563), distance and silhouette (0564/0565/0566), one hand's wear on iron (0567), a resting dragon eye — the only face in the batch, matte and dark (0568), the unused second fitting (0569), and an empty ledge before the threshold (0570). 2x limb checks passed (0561 side-on, four limbs; 0564/0565/0566 tucked-leg silhouettes). Uploads to EP001_BATCH_057_IMG0561-0570; checksums re-read from Drive and matched.",
+ "batch_057_lesson": "Chapter IV testimony discipline now has a named end-state: the bond is rendered as documentary evidence (wear, fit, absence), not as living tableau — that frame belongs to Chapter V. Second consecutive zero-rejection batch; enforcement at composition time is compounding."
 }

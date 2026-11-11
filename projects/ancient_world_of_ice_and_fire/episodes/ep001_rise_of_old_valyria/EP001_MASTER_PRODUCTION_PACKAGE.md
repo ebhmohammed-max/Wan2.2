@@ -6,7 +6,7 @@
 - **Visual Cadence:** **`30 images per minute`** (`1 image every 2.0 seconds` · **`1,050 total images`** across **`105 batches of 10`**)
 - **Locked Cinematic Visual Standard:** **65mm Live-Action / Physically Realistic 3D Historical Cinema** (*ARRI Alexa 65 · Panavision Primo Spherical Primes · Kodak Vision3 500T Grade: Warm Sandstone Highlights, Muted Archaeological Midtones, Deep Ink-Navy Shadows — calibrated to `The_Trojan_War_The_Legend_the_City_and_the_Evidence`*)
 - **Google Drive Master Archive:** `Game of thrones YT` (`1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo`)
-- **Current Gate Status:** **Batches 001–056 closed. `559 / 1,050` images are Drive-verified and visually QC-approved (`53.24%`). Batch 056 (`18:20–18:40`) `Barth's Sentence` closed 10/10 on ten first passes. Next: Batch 057 (`18:40–19:00`) — *“merely bound wild dragons to specific families through blood-oaths.”* (The previously quoted 564/1,050 figure was arithmetic drift; see `07_CONTINUITY_AND_QC_REPORT.md` Batch 056 close and `EP001_Verified_Drive_Inventory.json` `reconciliation_note`.)**
+- **Current Gate Status:** **Batches 001–057 closed. `569 / 1,050` images are Drive-verified and visually QC-approved (`54.19%`). Batch 056 (`18:20–18:40`) `Barth's Sentence` and Batch 057 (`18:40–19:00`) `The Bond as Evidence` each closed 10/10 on ten first passes — the first two zero-rejection batches of Chapter IV. Next: Batch 058 (`19:00–19:20`) — *“Imagine the morning upon the Fourteen Flames when that threshold was crossed at last”* — **Chapter V opens.** (The previously quoted 564/1,050 figure was arithmetic drift; see `07_CONTINUITY_AND_QC_REPORT.md` Batch 056 close and `EP001_Verified_Drive_Inventory.json` `reconciliation_note`.)**
 
 ---
 
