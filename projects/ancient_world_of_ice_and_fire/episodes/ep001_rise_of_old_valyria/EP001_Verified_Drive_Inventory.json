@@ -5,9 +5,9 @@
   "target_images": 1050,
   "batch_size": 10,
   "total_batches": 105,
-  "completed_batches": 65,
-  "next_batch": 66,
-  "next_image_number": 651,
+  "completed_batches": 66,
+  "next_batch": 67,
+  "next_image_number": 661,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -516,7 +516,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "completed_images": 644,
+  "completed_images": 654,
   "batch_002_images_65mm": [
     {
       "number": 11,
@@ -1137,7 +1137,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": "Batch 066 (21:40–22:00) — NOT authorized",
+  "in_progress_batch": "Batch 067 (22:00–22:20) — the ceremonial rites + braziers — NOT authorized",
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1889,7 +1889,7 @@
     }
   ],
   "last_updated": "2026-11-11",
-  "verified_progress_percent": 61.33,
+  "verified_progress_percent": 62.29,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3585,7 +3585,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 644,
+  "verified_image_count": 654,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -9925,7 +9925,7 @@
   "the_scream_rule": "The scream is physical cost, not magic. Show flush, taut tendons, sweat, a worn and crusted mouthpiece, dry residue - then a still body on a terrace and one whole horn standing among ruins a civilisation later. No aura, no glow, no shockwave, no sound effect, nothing alight, in any frame.",
   "the_body_rule": "No face and no injury in batch 053. Strain is tendons, flush and sweat; damage is dryness, salt deposit and worn metal; the cost is posture. Negations carried in every prompt: no blood, no wound, no injury, no bruise, no burn. This is also why the batch cleared moderation on the first pass: describe what the body is doing, not what has been done to it.",
   "batch_052_three_faults_lesson": "0514 was masonry, 0519 was the sky, 0512 was a dropped call. All three fixed on the first re-render because the fault was in the negation list, not the idea. The masonry negation list is now standard wording on any frame containing a stone wall - 0528 pass 1 proved it is still needed in the middle distance, not just in the foreground.",
-  "verified_percent": 61.33,
+  "verified_percent": 62.29,
   "open_corrections": [
     "VAL-EP001-IMG0160"
   ],
@@ -10212,7 +10212,7 @@
   ],
   "batch_056_note": "Batch 056 'Barth's Sentence' (18:20-18:40) CLOSED 10/10 on ten first passes — zero rejections. The batch holds the testimony rule (bible 4h) without a single depiction of the act: 0551 residue, 0552-0554 category as specimen, 0555-0559 the boundary at widening scales, 0560 the reader. Crop checks passed at 3x-5x (0557 head a uniform dark shape, no ear or profile; 0553/0560 hands pale-dry-grimy, no red; 0557/0560 pages blank, toned, foxed; 0556's empty iron bracket verified empty at 5x). Uploads to EP001_BATCH_056_IMG0551-0560; checksums re-read from Drive and matched.",
   "batch_056_lesson": "The testimony rule holds when the sentence is rendered as objects. Where the narration says the unsayable, the images that survive are the ones about what was left behind — ash, wear, a tray, a cord, a horizon — never the thing itself. Zero rejected generations is a first for a Chapter IV batch.",
-  "reconciliation_note": "Running total reconciled 2026-11-11. Historical close notes claim 564/1,050 (53.71%); that figure is arithmetic drift and is superseded. The verifiable per-frame records sum to 549 through Batch 055 (batches 001-004: 4x10; batches 005-055: 509 of 510 — Batch 050 closed 9/10 with IMG0500 officially abandoned after two character failures). 549 + 10 (Batch 056) + 10 (Batch 057) + 9 of 10 (Batch 058; IMG0572 revision queued, not tallied) = 578/1,050 = 55.05%. Drive filename sweep re-run and verified 2026-11-11 after the 058 uploads (trashed=false, single page, next_page_token null): 586 files match VAL-EP001-IMG* — canonical numbers 0001-0580 with exactly one gap (IMG0500), i.e. 579 unique canonical PNGs, plus 7 legacy variant-suffixed PNGs (0010_peninsula_reveal, 0033_ancient_runes, 0048_frozen_rhoyne, 0064_bone_mountains, 0082_mother_rhoyne_iron, 0095_asshai_shadow, 0110_old_ghis_harpy). 579 canonical + 7 variants = 586. IMG0572 revision 1 uploaded and md5-verified; the superseded first pass was trashed (Drive trash is recoverable). IMG0160 remains the other open correction. Reconciliation addendum 2026-11-11 (Batch 062 close): +10 verified → 614/1,050 = 58.48%. Per-frame records intact: canonical 0001–0610 with the single IMG0500 gap, plus Batch 062 IMG0611–IMG0620, all md5-verified on Drive. Chapter-boundary correction: the 'Ch. V opens at Batch 063' wording in the Batch 058/059/060/061 notes was arithmetic drift; the canonical scene breakdown and narration script agree the boundary is 20:30 = IMG0616, inside Batch 062. Not user-ratified; flagged for review. Reconciliation addendum 2026-11-11 (Batch 063 close): +10 verified → 624/1,050 = 59.43%. Chapter V proper continues; opened inside Batch 062 at IMG0616/20:30 (boundary correction recorded at the Batch 062 close; not user-ratified). Reconciliation addendum 2026-11-11 (Batch 064 close): +10 verified → 634/1,050 = 60.38%. Per-frame records intact: canonical 0001–0640 with the single IMG0500 gap, all md5-verified on Drive. Chapter V proper continues (opened inside Batch 062 at IMG0616/20:30; boundary correction recorded at the Batch 062 close; not user-ratified). Reconciliation addendum 2026-11-11 (Batch 065 close): +10 verified → 644/1,050 = 61.33%. Per-frame records intact: canonical 0001–0650 with the single IMG0500 gap, all md5-verified on Drive. Chapter V proper continues.",
+  "reconciliation_note": "Running total reconciled 2026-11-11. Historical close notes claim 564/1,050 (53.71%); that figure is arithmetic drift and is superseded. The verifiable per-frame records sum to 549 through Batch 055 (batches 001-004: 4x10; batches 005-055: 509 of 510 — Batch 050 closed 9/10 with IMG0500 officially abandoned after two character failures). 549 + 10 (Batch 056) + 10 (Batch 057) + 9 of 10 (Batch 058; IMG0572 revision queued, not tallied) = 578/1,050 = 55.05%. Drive filename sweep re-run and verified 2026-11-11 after the 058 uploads (trashed=false, single page, next_page_token null): 586 files match VAL-EP001-IMG* — canonical numbers 0001-0580 with exactly one gap (IMG0500), i.e. 579 unique canonical PNGs, plus 7 legacy variant-suffixed PNGs (0010_peninsula_reveal, 0033_ancient_runes, 0048_frozen_rhoyne, 0064_bone_mountains, 0082_mother_rhoyne_iron, 0095_asshai_shadow, 0110_old_ghis_harpy). 579 canonical + 7 variants = 586. IMG0572 revision 1 uploaded and md5-verified; the superseded first pass was trashed (Drive trash is recoverable). IMG0160 remains the other open correction. Reconciliation addendum 2026-11-11 (Batch 062 close): +10 verified → 614/1,050 = 58.48%. Per-frame records intact: canonical 0001–0610 with the single IMG0500 gap, plus Batch 062 IMG0611–IMG0620, all md5-verified on Drive. Chapter-boundary correction: the 'Ch. V opens at Batch 063' wording in the Batch 058/059/060/061 notes was arithmetic drift; the canonical scene breakdown and narration script agree the boundary is 20:30 = IMG0616, inside Batch 062. Not user-ratified; flagged for review. Reconciliation addendum 2026-11-11 (Batch 063 close): +10 verified → 624/1,050 = 59.43%. Chapter V proper continues; opened inside Batch 062 at IMG0616/20:30 (boundary correction recorded at the Batch 062 close; not user-ratified). Reconciliation addendum 2026-11-11 (Batch 064 close): +10 verified → 634/1,050 = 60.38%. Per-frame records intact: canonical 0001–0640 with the single IMG0500 gap, all md5-verified on Drive. Chapter V proper continues (opened inside Batch 062 at IMG0616/20:30; boundary correction recorded at the Batch 062 close; not user-ratified). Reconciliation addendum 2026-11-11 (Batch 065 close): +10 verified → 644/1,050 = 61.33%. Per-frame records intact: canonical 0001–0650 with the single IMG0500 gap, all md5-verified on Drive. Chapter V proper continues. Reconciliation addendum 2026-11-11 (Batch 066 close): +10 verified → 654/1,050 = 62.29%. Per-frame records intact: canonical 0001–0660 with the single IMG0500 gap, all md5-verified on Drive. Chapter V proper continues.",
   "batch_057_status": "COMPLETE_10_OF_10_UPLOADED_MD5_VERIFIED",
   "batch_057_drive_folder_id": "1HhUVPcek11XTu-cihyohRuQR7bBJRodD",
   "batch_057_drive_verified_count": 10,
@@ -11481,6 +11481,173 @@
       "drive_url": "https://drive.google.com/file/d/1nXJ2fo0PYMx_HzwIZqS6MFAeLK1P2Upx/view",
       "md5": "b4f718f97276cc38f565bd8748e9ae1b",
       "size_bytes": 1549431,
+      "resolution": "1376x768",
+      "upload_check": "Drive-returned md5_checksum matched local md5"
+    }
+  ],
+  "batch_066_status": "COMPLETE_10_OF_10_WITH_FOUR_REVISIONS",
+  "batch_066_drive_folder_id": "1jZduA_G7t8EvfH15fSPp3A5R-YoKB-QQ",
+  "batch_066_drive_verified_count": 10,
+  "batch_066_note": "Batch 066 (21:40–22:00, Ch. V): CLOSED 10/10 with FOUR revisions — not zero-rejection. DOCTRINE ONLY: the ceremonial brother–sister marriage and the braziers belong to Batch 067, not this batch. First passes x7: 0652, 0653, 0654, 0656, 0657, 0658, 0659. Revisions: 0651 ear rim at 2x + his loose waves + her in HIS bronze-scale pauldrons → v2 held (kit fixes; ANNOTATION at 4x: ~2-3 pink pixels at his hairline edges, no ear resolves; AND her two BLACK VOLCANIC-GLASS PINS are ABSENT — substituted with two bronze spiral-medallion discs at her temples with a red-gold wire lattice centre braid; kit deviation; flagged for user ratification); 0655 gothic-castle register (pointed pinnacle spires, pointed-arch openings, near-rectangular pasture walls) → v2 organic fused-spire crown, curving walls; 0660 v1 coursed flagstone gallery ledge + straight wall grid → v2 landed a WARM PEACH-SALMON horizon band + pale summit patches (both banned) → v3 iron overcast, one flat pale-grey horizon seam, dark basalt summits, no snow, organic fused shelf, no people. No face anywhere; nothing glows; lava DEAD; smoke WEST; sea EAST; no sun; no warm horizon; CHAR-VAL-003 PALE ALABASTER (hands verified 2x). All ten checksums re-read from Drive and matched. ANNOTATIONS carried (not re-rendered — not authorized this turn): 0651 ~2-3 pink pixels at his hairline edges at 4x (no ear resolves) AND her two BLACK GLASS PINS ABSENT (substituted with two bronze spiral-medallion discs at her temples, red-gold wire lattice centre braid; kit deviation; flagged for user ratification); 0653 grey sea-cliff rock, her hair loose with one thick over-shoulder braid, NOT coiled braids; 0658 her hair loose crimped falls with red-gold wire lattice, NOT coiled braids, only ONE black glass pin resolves (kit specifies two), shard-collar front edge not in frame. Verified progress: 654/1,050 (62.29%). Next: Batch 067 (22:00–22:20) — NOT authorized.",
+  "batch_066_drive_url": "https://drive.google.com/drive/folders/1jZduA_G7t8EvfH15fSPp3A5R-YoKB-QQ",
+  "batch_066_verified_images": [
+    {
+      "image_number": 651,
+      "scene_id": "VAL-EP001-IMG0651",
+      "batch": 66,
+      "timestamp": "21:40–21:42",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "v2 (one revision): two backs down a poured basalt gallery — his long warrior braids clasped in bronze, her coiled platinum braids with red-gold wire, charcoal silk + crimson pleats + bronze-brocade sleeves, no scale pauldrons; irregular fused fracture hex paving; 4x ANNOTATION: ~2-3 pink pixels at his hairline edges (no ear resolves); HER BLACK GLASS PINS ABSENT — substituted with two bronze spiral-medallion discs (kit deviation; flagged for user ratification)",
+      "narration_slice": "non-riding clans, risked diluting the",
+      "drive_folder_id": "1jZduA_G7t8EvfH15fSPp3A5R-YoKB-QQ",
+      "drive_file_id": "1O2VU-ZrBoFWzfaEtlYupOaOoKWyY0hYQ",
+      "drive_url": "https://drive.google.com/file/d/1O2VU-ZrBoFWzfaEtlYupOaOoKWyY0hYQ/view",
+      "md5": "ad57e9d5dfa965d998dedf1d55ed3b0e",
+      "size_bytes": 1852421,
+      "resolution": "1376x768",
+      "upload_check": "Drive-returned md5_checksum matched local md5"
+    },
+    {
+      "image_number": 652,
+      "scene_id": "VAL-EP001-IMG0652",
+      "batch": 66,
+      "timestamp": "21:42–21:44",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "compressed telephoto from behind — silver-gold warrior braids over crimson pleats and bronze scale; pour-flattened basalt wall; clasps = red-gold bands with dark red stones, zero lettering at 2x",
+      "narration_slice": "spell that kept monsters",
+      "drive_folder_id": "1jZduA_G7t8EvfH15fSPp3A5R-YoKB-QQ",
+      "drive_file_id": "1pgqioSNeAvnxdFy6yPE3IH95uIzUX8Ka",
+      "drive_url": "https://drive.google.com/file/d/1pgqioSNeAvnxdFy6yPE3IH95uIzUX8Ka/view",
+      "md5": "760422c654a71e3895108297b7c47ace",
+      "size_bytes": 1605497,
+      "resolution": "1376x768",
+      "upload_check": "Drive-returned md5_checksum matched local md5"
+    },
+    {
+      "image_number": 653,
+      "scene_id": "VAL-EP001-IMG0653",
+      "batch": 66,
+      "timestamp": "21:44–21:46",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "fire-mage teaching by the grey sea, three-quarter back; pale hands open APART on the rock (palms up — never a joined grip); unmarked obsidian knife; his braid-head soft in foreground; hands PALE grey-ivory at 2x, faint soot only — ANNOTATED at 2x: the table reads as grey sea-cliff rock (brief said dark stone shelf); her hair hangs loose with one thick over-shoulder braid, NOT the coiled red-gold-wire kit architecture; kept, not silently passed",
+      "narration_slice": "obedient. Out of that",
+      "drive_folder_id": "1jZduA_G7t8EvfH15fSPp3A5R-YoKB-QQ",
+      "drive_file_id": "1OR6LPRB_5YUpLE8m3DGp2H5Wq_uWlIxR",
+      "drive_url": "https://drive.google.com/file/d/1OR6LPRB_5YUpLE8m3DGp2H5Wq_uWlIxR/view",
+      "md5": "32903ca75a87ff3f10ea5b00b3f3e545",
+      "size_bytes": 1427282,
+      "resolution": "1376x768",
+      "upload_check": "Drive-returned md5_checksum matched local md5"
+    },
+    {
+      "image_number": 654,
+      "scene_id": "VAL-EP001-IMG0654",
+      "batch": 66,
+      "timestamp": "21:46–21:48",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "the citadel as cooled-flow geometry — poured black tiers; two small back figures apart on a lower terrace (crimson and obsidian); DEAD canals; smoke WEST; chalk seam EAST; two featureless backs on irregular hexagonal fused slabs (no rectangular grid)",
+      "narration_slice": "cold logic grew Valyria's",
+      "drive_folder_id": "1jZduA_G7t8EvfH15fSPp3A5R-YoKB-QQ",
+      "drive_file_id": "15eDBSBZeNXoVADEnXT9hlTncD6AIvSe2",
+      "drive_url": "https://drive.google.com/file/d/15eDBSBZeNXoVADEnXT9hlTncD6AIvSe2/view",
+      "md5": "0309077d4c44a7d8ec078d98e0f4f976",
+      "size_bytes": 1458849,
+      "resolution": "1376x768",
+      "upload_check": "Drive-returned md5_checksum matched local md5"
+    },
+    {
+      "image_number": 655,
+      "scene_id": "VAL-EP001-IMG0655",
+      "batch": 66,
+      "timestamp": "21:48–21:50",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "v2 (one revision): very high aerial — black FUSED citadel as organic cooled-flow crown of irregular hex spires (NO pointed arches/gothic register); pasture with organic curving wall lines only (no straight lines/rectangles); one tiny crimson dot on the highest gallery; smoke WEST; chalk cliffs EAST",
+      "narration_slice": "most infamous custom. Rejecting the",
+      "drive_folder_id": "1jZduA_G7t8EvfH15fSPp3A5R-YoKB-QQ",
+      "drive_file_id": "1N2x4YrGNBtsrL346mmKSqMGoiY-SiirP",
+      "drive_url": "https://drive.google.com/file/d/1N2x4YrGNBtsrL346mmKSqMGoiY-SiirP/view",
+      "md5": "ad8072a2315881e2be897b2224a30cea",
+      "size_bytes": 1585754,
+      "resolution": "1376x768",
+      "upload_check": "Drive-returned md5_checksum matched local md5"
+    },
+    {
+      "image_number": 656,
+      "scene_id": "VAL-EP001-IMG0656",
+      "batch": 66,
+      "timestamp": "21:50–21:52",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "from the pasture-floor scree almost straight UP a colossal poured column butte; two tiny backs at its base (crimson + charcoal); dry-stack shepherd huts (legal, non-Valyrian); smoke WEST; sea EAST",
+      "narration_slice": "taboos observed by nearly",
+      "drive_folder_id": "1jZduA_G7t8EvfH15fSPp3A5R-YoKB-QQ",
+      "drive_file_id": "1rWfcLAKifmKp9qRHg0rEH2E19E7ySi0T",
+      "drive_url": "https://drive.google.com/file/d/1rWfcLAKifmKp9qRHg0rEH2E19E7ySi0T/view",
+      "md5": "cdcf3835a1c1a427c6e55983b8d1075f",
+      "size_bytes": 1741231,
+      "resolution": "1376x768",
+      "upload_check": "Drive-returned md5_checksum matched local md5"
+    },
+    {
+      "image_number": 657,
+      "scene_id": "VAL-EP001-IMG0657",
+      "batch": 66,
+      "timestamp": "21:52–21:54",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "extreme macro on black basalt — TWO sealed locks of platinum hair side by side, each whole and unmarked (a brother’s and a sister’s, unlabelled); interleaved red-gold wire; no marks at 2x; ash grains",
+      "narration_slice": "every other culture, dragonlord",
+      "drive_folder_id": "1jZduA_G7t8EvfH15fSPp3A5R-YoKB-QQ",
+      "drive_file_id": "1B9I6e3LmdcFASyagJs0arzHsO4V7C3ks",
+      "drive_url": "https://drive.google.com/file/d/1B9I6e3LmdcFASyagJs0arzHsO4V7C3ks/view",
+      "md5": "6bd05c033f619fff46216881426f8ce2",
+      "size_bytes": 1898018,
+      "resolution": "1376x768",
+      "upload_check": "Drive-returned md5_checksum matched local md5"
+    },
+    {
+      "image_number": 658,
+      "scene_id": "VAL-EP001-IMG0658",
+      "batch": 66,
+      "timestamp": "21:54–21:56",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "tight over the dark table — one small BLANK wax tablet at centre; behind it, soft, the interleaved fall of his silver-gold warrior braids (bronze clasps) and her long pale crimped falls with red-gold wire lattice lacing — NOT coiled braids; one black volcanic-glass pin resolves right (kit specifies two); shard-collar front edge not in frame; tablet BLANK at 2x; her shoulder reads PALE; kept, not silently passed",
+      "narration_slice": "houses wed brother to",
+      "drive_folder_id": "1jZduA_G7t8EvfH15fSPp3A5R-YoKB-QQ",
+      "drive_file_id": "1k7Z3ceWpdBbw-_Enia61pDgVof3UWAt3",
+      "drive_url": "https://drive.google.com/file/d/1k7Z3ceWpdBbw-_Enia61pDgVof3UWAt3/view",
+      "md5": "25b84e90243c72ba7d902d15b3333460",
+      "size_bytes": 1725709,
+      "resolution": "1376x768",
+      "upload_check": "Drive-returned md5_checksum matched local md5"
+    },
+    {
+      "image_number": 659,
+      "scene_id": "VAL-EP001-IMG0659",
+      "batch": 66,
+      "timestamp": "21:56–21:58",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "extreme close-up on the fire-mage’s pale right hand flat at the table edge — faint soot dust in the creases only; the corner of ONE unbroken sealed tablet, BLANK; obsidian knife untouched nearby, unmarked; PALE at 2x",
+      "narration_slice": "sister, uncle to niece, and",
+      "drive_folder_id": "1jZduA_G7t8EvfH15fSPp3A5R-YoKB-QQ",
+      "drive_file_id": "1nkPBB6wkj2n9VunUJXVsfO6b0ipEjwOf",
+      "drive_url": "https://drive.google.com/file/d/1nkPBB6wkj2n9VunUJXVsfO6b0ipEjwOf/view",
+      "md5": "d144230185c44ed8b42598665c4b546d",
+      "size_bytes": 1497178,
+      "resolution": "1376x768",
+      "upload_check": "Drive-returned md5_checksum matched local md5"
+    },
+    {
+      "image_number": 660,
+      "scene_id": "VAL-EP001-IMG0660",
+      "batch": 66,
+      "timestamp": "21:58–22:00",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "v3 (two revisions): the empty gallery at flat iron dusk — organic FUSED-FRACTURE basalt shelf (jagged polygonal cooled-flow, no coursing); pasture below all organic curving wall lines; cones WEST; cold grey sea seam EAST; layered iron overcast with ONE flat pale-grey horizon seam; no snow; no people; DEAD canals",
+      "narration_slice": "cousin to close cousin.",
+      "drive_folder_id": "1jZduA_G7t8EvfH15fSPp3A5R-YoKB-QQ",
+      "drive_file_id": "1ksecXgoH13kTdfT12tKdlOFezHrBRUS3",
+      "drive_url": "https://drive.google.com/file/d/1ksecXgoH13kTdfT12tKdlOFezHrBRUS3/view",
+      "md5": "7e9606cfc692018f7365004555b88bf6",
+      "size_bytes": 1564964,
       "resolution": "1376x768",
       "upload_check": "Drive-returned md5_checksum matched local md5"
     }
