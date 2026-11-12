@@ -5,9 +5,9 @@
   "target_images": 1050,
   "batch_size": 10,
   "total_batches": 105,
-  "completed_batches": 66,
-  "next_batch": 67,
-  "next_image_number": 661,
+  "completed_batches": 67,
+  "next_batch": 68,
+  "next_image_number": 671,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1137,7 +1137,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": "Batch 067 (22:00–22:20) — the ceremonial rites + braziers — NOT authorized",
+  "in_progress_batch": null,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1888,7 +1888,7 @@
       "qc_status": "APPROVED_VISUAL_65MM_V1"
     }
   ],
-  "last_updated": "2026-11-11",
+  "last_updated": "2026-11-12",
   "verified_progress_percent": 62.29,
   "batch_012_verified_images": [
     {
@@ -3585,7 +3585,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 654,
+  "verified_image_count": 664,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -9925,7 +9925,7 @@
   "the_scream_rule": "The scream is physical cost, not magic. Show flush, taut tendons, sweat, a worn and crusted mouthpiece, dry residue - then a still body on a terrace and one whole horn standing among ruins a civilisation later. No aura, no glow, no shockwave, no sound effect, nothing alight, in any frame.",
   "the_body_rule": "No face and no injury in batch 053. Strain is tendons, flush and sweat; damage is dryness, salt deposit and worn metal; the cost is posture. Negations carried in every prompt: no blood, no wound, no injury, no bruise, no burn. This is also why the batch cleared moderation on the first pass: describe what the body is doing, not what has been done to it.",
   "batch_052_three_faults_lesson": "0514 was masonry, 0519 was the sky, 0512 was a dropped call. All three fixed on the first re-render because the fault was in the negation list, not the idea. The masonry negation list is now standard wording on any frame containing a stone wall - 0528 pass 1 proved it is still needed in the middle distance, not just in the foreground.",
-  "verified_percent": 62.29,
+  "verified_percent": 63.24,
   "open_corrections": [
     "VAL-EP001-IMG0160"
   ],
@@ -10212,7 +10212,7 @@
   ],
   "batch_056_note": "Batch 056 'Barth's Sentence' (18:20-18:40) CLOSED 10/10 on ten first passes — zero rejections. The batch holds the testimony rule (bible 4h) without a single depiction of the act: 0551 residue, 0552-0554 category as specimen, 0555-0559 the boundary at widening scales, 0560 the reader. Crop checks passed at 3x-5x (0557 head a uniform dark shape, no ear or profile; 0553/0560 hands pale-dry-grimy, no red; 0557/0560 pages blank, toned, foxed; 0556's empty iron bracket verified empty at 5x). Uploads to EP001_BATCH_056_IMG0551-0560; checksums re-read from Drive and matched.",
   "batch_056_lesson": "The testimony rule holds when the sentence is rendered as objects. Where the narration says the unsayable, the images that survive are the ones about what was left behind — ash, wear, a tray, a cord, a horizon — never the thing itself. Zero rejected generations is a first for a Chapter IV batch.",
-  "reconciliation_note": "Running total reconciled 2026-11-11. Historical close notes claim 564/1,050 (53.71%); that figure is arithmetic drift and is superseded. The verifiable per-frame records sum to 549 through Batch 055 (batches 001-004: 4x10; batches 005-055: 509 of 510 — Batch 050 closed 9/10 with IMG0500 officially abandoned after two character failures). 549 + 10 (Batch 056) + 10 (Batch 057) + 9 of 10 (Batch 058; IMG0572 revision queued, not tallied) = 578/1,050 = 55.05%. Drive filename sweep re-run and verified 2026-11-11 after the 058 uploads (trashed=false, single page, next_page_token null): 586 files match VAL-EP001-IMG* — canonical numbers 0001-0580 with exactly one gap (IMG0500), i.e. 579 unique canonical PNGs, plus 7 legacy variant-suffixed PNGs (0010_peninsula_reveal, 0033_ancient_runes, 0048_frozen_rhoyne, 0064_bone_mountains, 0082_mother_rhoyne_iron, 0095_asshai_shadow, 0110_old_ghis_harpy). 579 canonical + 7 variants = 586. IMG0572 revision 1 uploaded and md5-verified; the superseded first pass was trashed (Drive trash is recoverable). IMG0160 remains the other open correction. Reconciliation addendum 2026-11-11 (Batch 062 close): +10 verified → 614/1,050 = 58.48%. Per-frame records intact: canonical 0001–0610 with the single IMG0500 gap, plus Batch 062 IMG0611–IMG0620, all md5-verified on Drive. Chapter-boundary correction: the 'Ch. V opens at Batch 063' wording in the Batch 058/059/060/061 notes was arithmetic drift; the canonical scene breakdown and narration script agree the boundary is 20:30 = IMG0616, inside Batch 062. Not user-ratified; flagged for review. Reconciliation addendum 2026-11-11 (Batch 063 close): +10 verified → 624/1,050 = 59.43%. Chapter V proper continues; opened inside Batch 062 at IMG0616/20:30 (boundary correction recorded at the Batch 062 close; not user-ratified). Reconciliation addendum 2026-11-11 (Batch 064 close): +10 verified → 634/1,050 = 60.38%. Per-frame records intact: canonical 0001–0640 with the single IMG0500 gap, all md5-verified on Drive. Chapter V proper continues (opened inside Batch 062 at IMG0616/20:30; boundary correction recorded at the Batch 062 close; not user-ratified). Reconciliation addendum 2026-11-11 (Batch 065 close): +10 verified → 644/1,050 = 61.33%. Per-frame records intact: canonical 0001–0650 with the single IMG0500 gap, all md5-verified on Drive. Chapter V proper continues. Reconciliation addendum 2026-11-11 (Batch 066 close): +10 verified → 654/1,050 = 62.29%. Per-frame records intact: canonical 0001–0660 with the single IMG0500 gap, all md5-verified on Drive. Chapter V proper continues.",
+  "reconciliation_note": "Running total reconciled 2026-11-11. Historical close notes claim 564/1,050 (53.71%); that figure is arithmetic drift and is superseded. The verifiable per-frame records sum to 549 through Batch 055 (batches 001-004: 4x10; batches 005-055: 509 of 510 — Batch 050 closed 9/10 with IMG0500 officially abandoned after two character failures). 549 + 10 (Batch 056) + 10 (Batch 057) + 9 of 10 (Batch 058; IMG0572 revision queued, not tallied) = 578/1,050 = 55.05%. Drive filename sweep re-run and verified 2026-11-11 after the 058 uploads (trashed=false, single page, next_page_token null): 586 files match VAL-EP001-IMG* — canonical numbers 0001-0580 with exactly one gap (IMG0500), i.e. 579 unique canonical PNGs, plus 7 legacy variant-suffixed PNGs (0010_peninsula_reveal, 0033_ancient_runes, 0048_frozen_rhoyne, 0064_bone_mountains, 0082_mother_rhoyne_iron, 0095_asshai_shadow, 0110_old_ghis_harpy). 579 canonical + 7 variants = 586. IMG0572 revision 1 uploaded and md5-verified; the superseded first pass was trashed (Drive trash is recoverable). IMG0160 remains the other open correction. Reconciliation addendum 2026-11-11 (Batch 062 close): +10 verified → 614/1,050 = 58.48%. Per-frame records intact: canonical 0001–0610 with the single IMG0500 gap, plus Batch 062 IMG0611–IMG0620, all md5-verified on Drive. Chapter-boundary correction: the 'Ch. V opens at Batch 063' wording in the Batch 058/059/060/061 notes was arithmetic drift; the canonical scene breakdown and narration script agree the boundary is 20:30 = IMG0616, inside Batch 062. Not user-ratified; flagged for review. Reconciliation addendum 2026-11-11 (Batch 063 close): +10 verified → 624/1,050 = 59.43%. Chapter V proper continues; opened inside Batch 062 at IMG0616/20:30 (boundary correction recorded at the Batch 062 close; not user-ratified). Reconciliation addendum 2026-11-11 (Batch 064 close): +10 verified → 634/1,050 = 60.38%. Per-frame records intact: canonical 0001–0640 with the single IMG0500 gap, all md5-verified on Drive. Chapter V proper continues (opened inside Batch 062 at IMG0616/20:30; boundary correction recorded at the Batch 062 close; not user-ratified). Reconciliation addendum 2026-11-11 (Batch 065 close): +10 verified → 644/1,050 = 61.33%. Per-frame records intact: canonical 0001–0650 with the single IMG0500 gap, all md5-verified on Drive. Chapter V proper continues. Reconciliation addendum 2026-11-11 (Batch 066 close): +10 verified → 654/1,050 = 62.29%. Per-frame records intact: canonical 0001–0660 with the single IMG0500 gap, all md5-verified on Drive. Chapter V proper continues. || 2026-11-12 BATCH 067 CLOSE: +10 images after full regeneration post-prune; count 654 -> 664; percent 62.29 -> 63.24; batch-067 md5s verified against Drive; ghost Drive folders trashed; batch folder 1cB3UKC95vYhthiQqlvfqC3bkP1cUyDE4 holds all ten frames.",
   "batch_057_status": "COMPLETE_10_OF_10_UPLOADED_MD5_VERIFIED",
   "batch_057_drive_folder_id": "1HhUVPcek11XTu-cihyohRuQR7bBJRodD",
   "batch_057_drive_verified_count": 10,
@@ -11651,5 +11651,163 @@
       "resolution": "1376x768",
       "upload_check": "Drive-returned md5_checksum matched local md5"
     }
-  ]
+  ],
+  "batch_067_status": "COMPLETE_10_OF_10_AFTER_FULL_REGENERATION — all ten md5s re-read from Drive and matched (2026-11-12); 0669 cleared a hard-doctrine rejection (incandescent wall/floor veins) on re-render; 0670 cleared three rejections (grid → warm horizon → beehive domes/rounded arch) at v4; eight frames carry ratification flags (see 06_BATCH_067_MANIFEST.json filing_note); NOT zero-rejection",
+  "batch_067_drive_folder_id": "1cB3UKC95vYhthiQqlvfqC3bkP1cUyDE4",
+  "batch_067_drive_folder_name": "EP001_BATCH_067_IMG0661-0670",
+  "batch_067_drive_url": "https://drive.google.com/drive/folders/1cB3UKC95vYhthiQqlvfqC3bkP1cUyDE4",
+  "batch_067_drive_verified_count": 10,
+  "batch_067_verified_images": [
+    {
+      "image_number": 661,
+      "scene_id": "VAL-EP001-IMG0661",
+      "batch": 67,
+      "timestamp": "22:00–22:02",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "v4-turn4 regen: LAM straight up the fused hex-basalt vault — ring of bronze tripods burning LOW for the first time; two small back-figures at the circle's centre; tripods first fire of the episode; smoke WEST at the vent; her closed-back gown, his scale+crimson",
+      "md5": "0edad66ea6f594a6f992e3905ee6826b",
+      "size_bytes": 1686008,
+      "drive_file_id": "1zJs7wuBJTQ1BSB-vBg1JSwTh8OJcN1Zd",
+      "drive_url": "https://drive.google.com/file/d/1zJs7wuBJTQ1BSB-vBg1JSwTh8OJcN1Zd/view",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_FIRST_PASS",
+      "qc_note": "ANN. turn-4: his hair renders luminous silver-white (flame-lit) — flagged; smoke WEST; no face/ears at 2x"
+    },
+    {
+      "image_number": 662,
+      "scene_id": "VAL-EP001-IMG0662",
+      "batch": 67,
+      "timestamp": "22:02–22:04",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "v4-turn4 regen: OTS 40mm just behind her right shoulder — her coiled platinum crown + TWO black glass teardrop pins + red-gold lattice in soft foreground; beyond her his warrior-braid architecture with banded bronze clasps; door an iron slit; one near LOW flame",
+      "md5": "61b71e320071cbece65a6321ae09fe9c",
+      "size_bytes": 1480767,
+      "drive_file_id": "1-0iRohyfPoYQiVKwshqriRfOKpcBuuMt",
+      "drive_url": "https://drive.google.com/file/d/1-0iRohyfPoYQiVKwshqriRfOKpcBuuMt/view",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_FIRST_PASS",
+      "qc_note": "ANN. turn-4: his hair renders silver-white (not golden) — flagged; her pins + clasps render correctly; no faces/ears at 2x"
+    },
+    {
+      "image_number": 663,
+      "scene_id": "VAL-EP001-IMG0663",
+      "batch": 67,
+      "timestamp": "22:04–22:06",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "v4-turn4 regen: WS deep-focus from the circle's edge — the pair full-length from BEHIND, hands joined low between them (union grip, LEGAL this batch only); radial-fracture fused floor; tripods LOW; columned hypostyle register (not open crater); pewter seam above",
+      "md5": "d864c7ee169e8fbe7aa1dda50add862f",
+      "size_bytes": 1538181,
+      "drive_file_id": "1cnsKoDXKDZUG5PV2zXQelp_j9hFMUNmZ",
+      "drive_url": "https://drive.google.com/file/d/1cnsKoDXKDZUG5PV2zXQelp_j9hFMUNmZ/view",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_AFTER_REVISION",
+      "qc_note": "ANN. turn-4: hands sit low-legibility in shadow — union grip legible at 2x crop; enclosed columned-hall register this pass (annotated); join-hands kept"
+    },
+    {
+      "image_number": 664,
+      "scene_id": "VAL-EP001-IMG0664",
+      "batch": 67,
+      "timestamp": "22:06–22:08",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "v4-turn4 regen: UWA from the high vent — chant-circle of HOODED cowls with BLACKNESS, featureless robed formations around the LOW tripods; pair tiny at the centre; NO text/glyphs/vessels anywhere; smoke WEST",
+      "md5": "e5ef12f437ad33aa1e32e64102ee8500",
+      "size_bytes": 1775167,
+      "drive_file_id": "1-FrH2-rOtVfPzjVRYFDTSDlPabbVp4_o",
+      "drive_url": "https://drive.google.com/file/d/1-FrH2-rOtVfPzjVRYFDTSDlPabbVp4_o/view",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_FIRST_PASS",
+      "qc_note": "ANN. turn-4: register reads as open drum-circle platform, NOT the enclosed hall (Cinder-Circle class) — kept, annotated, flagged for ratification; cowls = blackness only"
+    },
+    {
+      "image_number": 665,
+      "scene_id": "VAL-EP001-IMG0665",
+      "batch": 67,
+      "timestamp": "22:08–22:10",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "v4-turn4 regen: MCU macro — his weathered darker hand folded over her TRANSLUCENT PALE ALABASTER interlaced fingers; faint soot in her creases (never red); her hand BARE; his obsidian-and-red-gold signet; sleeve edges crimson wool / bronze-brocade; near-flame side light",
+      "md5": "53f0e702fa00205f2b4fcc2dfaffae23",
+      "size_bytes": 1635992,
+      "drive_file_id": "1qGFX4gEdqgpOOpB-yB7nO25jAhR5AlMo",
+      "drive_url": "https://drive.google.com/file/d/1qGFX4gEdqgpOOpB-yB7nO25jAhR5AlMo/view",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_FIRST_PASS",
+      "qc_note": "ANN. turn-4 2x crop: anatomy plausible, no extra digits; signet stone AGAIN carries flame-like red-on-black relief of unverified intention — 0651 class, FLAGGED FOR USER RATIFICATION"
+    },
+    {
+      "image_number": 666,
+      "scene_id": "VAL-EP001-IMG0666",
+      "batch": 67,
+      "timestamp": "22:10–22:12",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "v4-turn4 regen: MS lateral tracking — pair half-turned in three-quarter backs; brazier flame between them and camera; motion blur at sleeve/braid edges; enclosing architecture closes like a lock; her coiled crown + exactly TWO black teardrop pins; his braids + bronze-red-gold clasps",
+      "md5": "cb70f98fdf17096d2af26f2a020a27c4",
+      "size_bytes": 1466684,
+      "drive_file_id": "1wIJNMU_BXnTky7rnf3Fbl_lZakmXmTx4",
+      "drive_url": "https://drive.google.com/file/d/1wIJNMU_BXnTky7rnf3Fbl_lZakmXmTx4/view",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_AFTER_REVISION",
+      "qc_note": "ANN. turn-4: walls read as stacked hex-block masonry WITH visible joints vs POURED seamless fused basalt — panel-seam class; kept, annotated, flagged; smoke WEST"
+    },
+    {
+      "image_number": 667,
+      "scene_id": "VAL-EP001-IMG0667",
+      "batch": 67,
+      "timestamp": "22:12–22:14",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "v4-turn4 regen: MCU 65mm long-lens compression — two heads side by side, flattened to one plane; his thick warrior braids with bronze-red-gold/clasp ornaments (zero lettering); her coiled platinum crown, red-gold wire, exactly TWO black teardrop pins; shard collar mosaic at the FRONT collar gap (red-gold web, black glass); flame wash low",
+      "md5": "0a19c17c1b35b996bb94ba86cad981ad",
+      "size_bytes": 1727982,
+      "drive_file_id": "1OKhgbfFmdQ-ZB7aQ8pBUuyTwt7W4VJM-",
+      "drive_url": "https://drive.google.com/file/d/1OKhgbfFmdQ-ZB7aQ8pBUuyTwt7W4VJM-/view",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_AFTER_REVISION",
+      "qc_note": "ANN. turn-4: his hair renders GREY-SAGE desaturated — NOT luminous silver-gold (flagged); her pins render OVERSIZED vs small spec (annotated); collar correctly at front, no nape cord (0598 class clean)"
+    },
+    {
+      "image_number": 668,
+      "scene_id": "VAL-EP001-IMG0668",
+      "batch": 67,
+      "timestamp": "22:14–22:16",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "v4-turn4 regen: MS 50mm — the binding done, the pair STANDING APART at the circle's edge, three-quarter backs toward the great breach; tripods to grey-orange embers; smoke WEST; her head fully curtained, exactly TWO dark crown pins; his hair = thick warrior braids PLUS loose crimped falls (MIXED architecture)",
+      "md5": "213b7b0dcb0c8cfe80eb2d3c5260a415",
+      "size_bytes": 1706798,
+      "drive_file_id": "1-VrOcN5BpVZdZ9IkGCa6YjmX8PZCLXXT",
+      "drive_url": "https://drive.google.com/file/d/1-VrOcN5BpVZdZ9IkGCa6YjmX8PZCLXXT/view",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_AFTER_TWO_REVISIONS",
+      "qc_note": "ANN. turn-4 (carried flag, 0668 class): mixed hair architecture — NOT entirely warrior braids; kept rather than a fourth pass; irregular breach doorway (no arch); total ear/cheek/nape coverage verified"
+    },
+    {
+      "image_number": 669,
+      "scene_id": "VAL-EP001-IMG0669",
+      "batch": 67,
+      "timestamp": "22:16–22:18",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "turn-4 regen #2: WS tableau — the pair small from BEHIND walking side by side toward the great breach; organic angular portal of rough fused basalt, NO arch; an empty LOW tripod circle behind them; all stone COLD AND DARK — light from two LOW braziers + pewter overcast only; braidfalls catch last flamelight; ash-scattered fracture-slab floor",
+      "md5": "e1e0c2aec8e5d3bff397320f3fa1396f",
+      "size_bytes": 1695801,
+      "drive_file_id": "1NslX_7pwukne5SJCUQ57xvXRdoBy6NXT",
+      "drive_url": "https://drive.google.com/file/d/1NslX_7pwukne5SJCUQ57xvXRdoBy6NXT/view",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_AFTER_REVISION",
+      "qc_note": "HARD REJECTION CLEARED: turn-4 first render printed INCANDESCENT RED VEINS across walls/floor — direct breach of nothing-glows/DEAD-canal doctrine — rejected and file deleted; this re-render holds. ANNOTATIONS: brazier flames render standing rather than LOW; no sea seam visible through the breach"
+    },
+    {
+      "image_number": 670,
+      "scene_id": "VAL-EP001-IMG0670",
+      "batch": 67,
+      "timestamp": "22:18–22:20",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "v4: UWA from the vent — ANGULAR fused hex-basalt citadel on the perch (straight-edged polygonal masses and spires, ZERO curves; zero domes/beehives; NO rounded arch); pasture walls + canal FULLY organic meandering (no straight segments); ONE flat pale-grey horizon; sea EAST; cones WEST; exactly ONE low amber door pulse",
+      "md5": "7e3fe95f2a2796c4852320f436b1c4d4",
+      "size_bytes": 1468192,
+      "drive_file_id": "1t673CCEomYV92XFoVpxf2KgPgduc8sv_",
+      "drive_url": "https://drive.google.com/file/d/1t673CCEomYV92XFoVpxf2KgPgduc8sv_/view",
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED_AFTER_REVISIONS",
+      "qc_note": "Rejections cleared: v1 straight wall grid + dead-straight canal; v2 straight segments + WARM horizon band; v3 beehive/roundhouse domes + ROUNDED-ARCH glow door (register destroyed); v4 holds. Uploaded to parent folder 2026-11-12 09:05 then MOVED into the batch folder"
+    }
+  ],
+  "batch_067_note": "Fully regenerated after the 2026-11-12 workspace prune destroyed assets/batch_067 (batch-066 pruned the same way; batch-066 binaries safe on Drive). Turn-3 approved frames are GONE; these are new compositions passing the same per-frame criteria. The two ghost subfolders (403-denying, empty) were trashed; folder 1cB3UKC95vYhthiQqlvfqC3bkP1cUyDE4 created; 0661-0669 uploaded and 0670 moved in from the parent; all md5s Drive-verified. Chapter V — the rites live in this batch and nowhere else. 09_ART_DIRECTION_UPDATE_2026-11-12.md supersedes no-face language from Batch 068 onward; this batch predates the lift. Verified progress: 664/1,050 (63.24%). Ratification flags pending: 0651/0653/0658 + Batch-065 carries + 0661-0668 regen classes."
 }
