@@ -1,7 +1,7 @@
 # BATCH 063 — IMAGE PROMPTS
 **Episode 001 · Before the Dragons: The Rise of Old Valyria**
 **Timecode 20:40–21:00 · Ch. V · frames VAL-EP001-IMG0621 – IMG0630**
-**Status: PARTIAL — 9 of 10 approved and Drive-verified (0628 rejected; queued for PART 2)**
+**Status: CLOSED — 10 of 10 (one revision: 0628 re-rendered with the neck cord removed)**
 
 Shared opener on every prompt (do not drop it):
 
@@ -94,7 +94,7 @@ Shared opener on every prompt (do not drop it):
 ## VAL-EP001-IMG0628 — CU · 85mm — 20:54–20:56
 **Narration:** “to be herdsmen of”
 **Beat:** Intimate close-up detail / expression beat — Dragon-taming clans rise above ordinary pastoral neighbors
-**Status:** `REJECTED_FIRST_PASS` — cord at the human neck; queued for PART 2
+**Status:** `APPROVED_AFTER_REVISION` — v2 re-render (md5 a0ed8fd747e17b3b03d3b57d220702a7); neck bare; Drive-verified
 
 **Brief:** CU 85mm tight from behind a young herder's head and shoulder at the fold-line — same sun-scorched dark hair as every boy on the peninsula, same wool shoulder, HIGHLIGHT: a single bronze bead the size of a fingernail set into the leather cord at the nape — an object he never explains and never removes. The back of the skull fills frame-left; the terraces blur behind him; sheep-dots below. No face — not a sliver of it; hair and wool own the head. Two light sources. Nothing glows. No text.
 
