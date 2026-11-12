@@ -1,7 +1,7 @@
 # BATCH 062 — IMAGE PROMPTS
 **Episode 001 · Before the Dragons: The Rise of Old Valyria**
 **Timecode 20:20–20:40 · Ch. IV frames IMG0611–0615 → Ch. V frames IMG0616–0620 · frames VAL-EP001-IMG0611 – IMG0620**
-**Status: PARTIAL — 7 of 10 approved and Drive-verified (0611, 0615, 0619 failed first-pass QC; queued for PART 2 re-render)**
+**Status: CLOSED — 10 of 10 approved and Drive-verified (three first-pass rejections — 0611, 0615, 0619 — each cleared in one re-render). NOT zero-rejection.**
 
 **Correction on the chapter boundary (supersedes the "Batch 063" wording).** The scene breakdown (`03_SCENE_BREAKDOWN_1050_SCENES.json`) and the narration script (§Chapter V) both place the boundary at **20:30 = `VAL-EP001-IMG0616`** — inside **Batch 062, frame 6** (Ch. V scenes IMG0616–IMG0765 · Batches 062–077). The "Ch. V opens at Batch 063" wording that has ridden close-out notes since Batch 057 was arithmetic drift (chapter boundaries and batch boundaries are not aligned anywhere in this register). Frames 0611–0615 are the Chapter IV tail; frames 0616–0620 open **Chapter V — Blood of the Dragon: The Forty Houses**. Not user-ratified; flagged for review.
 
@@ -33,7 +33,7 @@ Shared opener on every prompt (do not drop it):
 ## VAL-EP001-IMG0611 — LAM · 24mm — 20:20–20:22
 **Narration:** “can follow every era of”
 **Beat:** Towering vertical scale composition — High aerial mastery rendering Essosi brick walls obsolete
-**Status:** `REJECTED_FIRST_PASS` — Essos rendered as resolved settlement sprawl; queued for PART 2
+**Status:** `APPROVED_AFTER_REVISION` — v2 re-render (md5 d16ff848a95c9e5ac14f55aa3a82530f); Drive-verified
 
 **Brief:** LAM 24mm from high above the strait line, looking down across water at the far coast with the pair far above and in front: the Essosi mainland a long low ochre-and-dust band of villages at vanishing range — tonal knots of tan, rust and olive, **no building, no tower, no banner, no light readable at any distance**; the peninsula coast foreground bottom-left in poured hex-basalt cliffs. The pair crossed in the upper third — the dragon a dark gate of wings against a white sea-glare band. Rider a pinhead. Nothing glows. No text. Four hulls, wings spread, enforced at this distance.
 
@@ -69,7 +69,7 @@ Shared opener on every prompt (do not drop it):
 ## VAL-EP001-IMG0615 — WS · 40mm — 20:28–20:30
 **Narration:** “about to fracture and reform.”
 **Beat:** Transitional wide horizon / bridge framing — High aerial mastery rendering Essosi brick walls obsolete
-**Status:** `REJECTED_FIRST_PASS` — pair reads as a gull; DRG-VAL-002 not legible; queued for PART 2
+**Status:** `APPROVED_AFTER_REVISION` — v2 re-render (md5 cd70321a0642d52340b80aeabfd242c8); Drive-verified
 
 **Brief:** WS 40mm from well above the peninsula's midline, the frame level with the horizon: the peninsula laid out below like an unwritten map — black flow midground, green-grey valleys stepping toward the khrodesta plain, the strait east as a hammered white-gold seam, beyond it Essos as a dusk-tawny smear with zero resolve; the pair tiny at frame-centre on an easterly heading, wing-span a dark cross-stroke above the glare. **The last altitude frame of Chapter IV.** Grey-heavy zenith, white horizon band; no disc, no rays. No text; no structure readable anywhere; no ships. Nothing glows.
 
@@ -105,7 +105,7 @@ Shared opener on every prompt (do not drop it):
 ## VAL-EP001-IMG0619 — UWA · 24mm — 20:36–20:38
 **Narration:** “every shepherd family upon the”
 **Beat:** Ultra-wide establishing vista — Dragon-taming clans rise above ordinary pastoral neighbors
-**Status:** `REJECTED_FIRST_PASS` — smoke bends EAST against the east wind; queued for PART 2
+**Status:** `APPROVED_AFTER_REVISION` — v2 re-render (md5 2d0fa652284708e4e60703104f932972); Drive-verified
 
 **Brief:** UWA 24mm from high on the caldera-side shoulder of the valley, the whole pastoral basin below: dry-stacked homestead clusters strung along the emerald terraces like beads on a dark cord; rivers soldering silver through the bottomland; the far drop of the Summer Sea a chalk-white seam through a notch in the eastern hills; beyond it Essos as smear, never architecture; the fourteen cones WEST in a jagged backstitch trailing white plumes bent WEST. **No persons or persons as indistinct far dots only; no structures anywhere but dry-stack basalt; no fences of dressed stone; nothing medieval-European.** The frame holds the whole question: who gets the sky, and who stays under it. No text. No ships. Nothing glows.
 
