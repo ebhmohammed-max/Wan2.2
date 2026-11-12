@@ -3,7 +3,7 @@
 **Timecode 22:20–22:40 · Ch. V · frames VAL-EP001-IMG0671 – IMG0680**
 **ART DIRECTION 2026-11-12 IN FORCE (see `09_ART_DIRECTION_UPDATE_2026-11-12.md`):** FACES ARE LIFTED — including CHAR-VAL-002/003. Crowds/families/bystanders REQUIRED where narration names them. Nasmith = element/mood guide for ORIGINAL compositions only (never a replica; no "in the style of"). "3D realistic cinematic" = photoreal CGI / Octane-render-look AI stills. The nothing-glows / DEAD-canal / no-warm-horizon doctrine was NOT ruled on and STANDS — NO glowing walls, NO warm horizon; ceremonial flame only inside the rites' remainder (0671–0675), LOW and local. `0674` shows the restored amethyst eye colour.
 
-**Status: PARTIAL 8/10 (2026-11-12, turn 1) — eight frames generated, QC'd and md5-VERIFIED FROM DRIVE; `0671` REJECTED (coursed-brick vault + glossy flowing lava-canal streaks — violates poured fused hex-basalt AND DEAD-canals; file DELETED, re-render queued); `0676` NEVER GENERATED this turn (generation failed and the 10/turn cap was reached); re-renders queued next turn. NOT closed; no manifest; totals UNCHANGED (664/1,050 · 63.24%). Drive folder `EP001_BATCH_068_IMG0671-0680` (`1F7FQDSVPIa5IG4Qc772b4qD_IyJpm3JN`) holds the eight.**
+**Status: CLOSED 10/10 (2026-11-12) — first batch under the 2026-11-12 ART-DIRECTION UPDATE (faces LIFTED incl. both leads). `0671` rejected turn-1 (coursed-brick vault + glossy lava-like streaks) — re-rendered turn-2 and APPROVED; `0676` generation-failed turn-1, rendered turn-2 and APPROVED. All ten md5s re-read from Drive and MATCHED. Two frames carry faces canonically: `0673` (her face), `0674` (her eyes), `0680` (his face — first full CHAR-VAL-002 face this episode). Seven frames carry ratification annotations/flags (0672 tan skin; 0673 black-teardrop earrings; 0674 iris asymmetry; 0675 fitted-block citadel register; 0677 BARE NEAR SHOULDER — kit breach flagged, kept; 0679 crown-of-spires silhouette; 0680 braid-end red-stone pendants). NOT zero-rejection. Drive folder `EP001_BATCH_068_IMG0671-0680` (`1F7FQDSVPIa5IG4Qc772b4qD_IyJpm3JN`). Verified progress: 674/1,050 (64.19%).**
 
 Shared opener on every prompt (do not drop it):
 
@@ -24,6 +24,8 @@ Shared opener on every prompt (do not drop it):
 ## VAL-EP001-IMG0671 — LAM · 24mm — 22:20–22:22
 **Narration:** “and uncanny dragon-affinity of”
 **Beat:** Towering vertical scale composition
+**Turn-2 (2026-11-12) verdict: `APPROVED_AFTER_REVISION` — the two leads tiny from behind beneath the seamless fused hex-basalt vault (organic polygonal plates, matte DEAD stone, NO flowing channels); ring of LOW tripods; pewter seam; smoke WEST. md5 `bdc048107401e532b106c51592dcc252`. Drive `1ECLmrSlBZNTuF-Gq5X73gNQOOAUFmDzU`.**
+
 **Brief:** LAM 24mm from floor level looking up — the two leads tiny far below under the vaulted fused hex-basalt dome of the First Council Hall; tripod flames burn LOW on both sides; her pale head and crimson-charcoal mass and his scale-and-crimson mass side by side; the vault closing over them like a held breath; smoke WEST at the vent; no face required (her head turned slightly away); nothing glows but flame; no text.
 
 **Turn-1 (2026-11-12) verdict: `REJECTED` — coursed STONE-BRICK tile vault (stacked masonry with mortar joints; doctrine: POURED seamless fused hex-basalt only) AND two GLOSSY DIAGONAL LAVA-LIKE STREAKS raking the vault — reflective, flowing, NOT DEAD crusted stone (DEAD-canals breach). File deleted; re-render queued next turn (cap reached).**
@@ -59,6 +61,8 @@ Shared opener on every prompt (do not drop it):
 ## VAL-EP001-IMG0676 — LAM · 28mm — 22:30–22:32
 **Narration:** “Yet this new aristocracy”
 **Beat:** Low-angle monumental architectural / geological framing
+**Turn-2 (2026-11-12) verdict: `APPROVED_FIRST_PASS` — LAM from the canyon scree: the fused-black ridge + Fourteen Flames chain, twisted organic spires, ONE unlit dragon silhouette crossing the overcast; NO flame, DEAD canals, smoke WEST; no people. md5 `5345f97972383468e60d6fddf7bc44dc`. Drive `1STgdVba3b1Hk-djkxAYP5hCeCjM3VV6_`.**
+
 **Brief:** LAM 28mm from the canyon scree looking up — the fused black ridge of the citadel AND the Fourteen Flames chain behind it, almost geological in scale; twisted fused spires (ORGANIC irregular geometry only — no gothic, no crenels, no pointed arches), one dragon passing high as a distant ember-NOT-ember silhouette taking the pewter sky (dragon takes light, never makes it); NO flame; smoke WEST; no warm horizon; absolutely no people in frame; no text.
 
 ## VAL-EP001-IMG0677 — OTS · 40mm — 22:32–22:34
