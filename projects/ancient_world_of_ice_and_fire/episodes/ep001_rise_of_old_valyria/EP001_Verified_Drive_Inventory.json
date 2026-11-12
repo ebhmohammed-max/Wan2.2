@@ -5,9 +5,9 @@
  "target_images": 1050,
  "batch_size": 10,
  "total_batches": 105,
- "completed_batches": 69,
- "next_batch": 70,
- "next_image_number": 691,
+ "completed_batches": 70,
+ "next_batch": 71,
+ "next_image_number": 701,
  "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
  "drive_folders": {
   "master_root_folder": {
@@ -109,6 +109,11 @@
    "name": "EP001_BATCH_069_IMG0681-0690",
    "drive_id": "1IyEWJEP3WqRG4r7cVpnNskMA0P220Jhr",
    "url": "https://drive.google.com/drive/folders/1IyEWJEP3WqRG4r7cVpnNskMA0P220Jhr"
+  },
+  "batch_070": {
+   "name": "EP001_BATCH_070_IMG0691-0700",
+   "drive_id": "16p9ZMM01KDUSyUs1Y6HpwwOAcSpLA--j",
+   "url": "https://drive.google.com/drive/folders/16p9ZMM01KDUSyUs1Y6HpwwOAcSpLA--j"
   }
  },
  "batch_001_images_65mm_upgraded": [
@@ -521,7 +526,7 @@
    "upload_checksum_verified": true
   }
  ],
- "completed_images": 684,
+ "completed_images": 694,
  "batch_002_images_65mm": [
   {
    "number": 11,
@@ -1894,7 +1899,7 @@
   }
  ],
  "last_updated": "2026-11-12",
- "verified_progress_percent": 65.14,
+ "verified_progress_percent": 66.1,
  "batch_012_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0111",
@@ -10217,7 +10222,7 @@
  ],
  "batch_056_note": "Batch 056 'Barth's Sentence' (18:20-18:40) CLOSED 10/10 on ten first passes — zero rejections. The batch holds the testimony rule (bible 4h) without a single depiction of the act: 0551 residue, 0552-0554 category as specimen, 0555-0559 the boundary at widening scales, 0560 the reader. Crop checks passed at 3x-5x (0557 head a uniform dark shape, no ear or profile; 0553/0560 hands pale-dry-grimy, no red; 0557/0560 pages blank, toned, foxed; 0556's empty iron bracket verified empty at 5x). Uploads to EP001_BATCH_056_IMG0551-0560; checksums re-read from Drive and matched.",
  "batch_056_lesson": "The testimony rule holds when the sentence is rendered as objects. Where the narration says the unsayable, the images that survive are the ones about what was left behind — ash, wear, a tray, a cord, a horizon — never the thing itself. Zero rejected generations is a first for a Chapter IV batch.",
- "reconciliation_note": "Running total reconciled 2026-11-11. Historical close notes claim 564/1,050 (53.71%); that figure is arithmetic drift and is superseded. The verifiable per-frame records sum to 549 through Batch 055 (batches 001-004: 4x10; batches 005-055: 509 of 510 — Batch 050 closed 9/10 with IMG0500 officially abandoned after two character failures). 549 + 10 (Batch 056) + 10 (Batch 057) + 9 of 10 (Batch 058; IMG0572 revision queued, not tallied) = 578/1,050 = 55.05%. Drive filename sweep re-run and verified 2026-11-11 after the 058 uploads (trashed=false, single page, next_page_token null): 586 files match VAL-EP001-IMG* — canonical numbers 0001-0580 with exactly one gap (IMG0500), i.e. 579 unique canonical PNGs, plus 7 legacy variant-suffixed PNGs (0010_peninsula_reveal, 0033_ancient_runes, 0048_frozen_rhoyne, 0064_bone_mountains, 0082_mother_rhoyne_iron, 0095_asshai_shadow, 0110_old_ghis_harpy). 579 canonical + 7 variants = 586. IMG0572 revision 1 uploaded and md5-verified; the superseded first pass was trashed (Drive trash is recoverable). IMG0160 remains the other open correction. Reconciliation addendum 2026-11-11 (Batch 062 close): +10 verified → 614/1,050 = 58.48%. Per-frame records intact: canonical 0001–0610 with the single IMG0500 gap, plus Batch 062 IMG0611–IMG0620, all md5-verified on Drive. Chapter-boundary correction: the 'Ch. V opens at Batch 063' wording in the Batch 058/059/060/061 notes was arithmetic drift; the canonical scene breakdown and narration script agree the boundary is 20:30 = IMG0616, inside Batch 062. Not user-ratified; flagged for review. Reconciliation addendum 2026-11-11 (Batch 063 close): +10 verified → 624/1,050 = 59.43%. Chapter V proper continues; opened inside Batch 062 at IMG0616/20:30 (boundary correction recorded at the Batch 062 close; not user-ratified). Reconciliation addendum 2026-11-11 (Batch 064 close): +10 verified → 634/1,050 = 60.38%. Per-frame records intact: canonical 0001–0640 with the single IMG0500 gap, all md5-verified on Drive. Chapter V proper continues (opened inside Batch 062 at IMG0616/20:30; boundary correction recorded at the Batch 062 close; not user-ratified). Reconciliation addendum 2026-11-11 (Batch 065 close): +10 verified → 644/1,050 = 61.33%. Per-frame records intact: canonical 0001–0650 with the single IMG0500 gap, all md5-verified on Drive. Chapter V proper continues. Reconciliation addendum 2026-11-11 (Batch 066 close): +10 verified → 654/1,050 = 62.29%. Per-frame records intact: canonical 0001–0660 with the single IMG0500 gap, all md5-verified on Drive. Chapter V proper continues. || 2026-11-12 BATCH 067 CLOSE: +10 images after full regeneration post-prune; count 654 -> 664; percent 62.29 -> 63.24; batch-067 md5s verified against Drive; ghost Drive folders trashed; batch folder 1cB3UKC95vYhthiQqlvfqC3bkP1cUyDE4 holds all ten frames. || 2026-11-12 BATCH 068 CLOSED 10/10: +10 images; count 664 -> 674; percent 63.24 -> 64.19; batch-068 md5s Drive-verified; first FaceCanon batch. || 2026-11-12 BATCH 069 CLOSED 10/10 on ten first passes (zero rejections; one pixel-scale doctrine flag: 0685 warm crater-vent glow; 0681/0688 no-snow flags; 0682 interior-colonnade register; 0683 gothic balustrade; 0689 near-emissive slit-edge iris). count 674 -> 684; percent 64.19 -> 65.14; batch-069 md5s re-read from Drive and matched (folder 1IyEWJEP3WqRG4r7cVpnNskMA0P220Jhr). FIRST zero-rejection FaceCanon closed batch.",
+ "reconciliation_note": "Running total reconciled 2026-11-11. Historical close notes claim 564/1,050 (53.71%); that figure is arithmetic drift and is superseded. The verifiable per-frame records sum to 549 through Batch 055 (batches 001-004: 4x10; batches 005-055: 509 of 510 — Batch 050 closed 9/10 with IMG0500 officially abandoned after two character failures). 549 + 10 (Batch 056) + 10 (Batch 057) + 9 of 10 (Batch 058; IMG0572 revision queued, not tallied) = 578/1,050 = 55.05%. Drive filename sweep re-run and verified 2026-11-11 after the 058 uploads (trashed=false, single page, next_page_token null): 586 files match VAL-EP001-IMG* — canonical numbers 0001-0580 with exactly one gap (IMG0500), i.e. 579 unique canonical PNGs, plus 7 legacy variant-suffixed PNGs (0010_peninsula_reveal, 0033_ancient_runes, 0048_frozen_rhoyne, 0064_bone_mountains, 0082_mother_rhoyne_iron, 0095_asshai_shadow, 0110_old_ghis_harpy). 579 canonical + 7 variants = 586. IMG0572 revision 1 uploaded and md5-verified; the superseded first pass was trashed (Drive trash is recoverable). IMG0160 remains the other open correction. Reconciliation addendum 2026-11-11 (Batch 062 close): +10 verified → 614/1,050 = 58.48%. Per-frame records intact: canonical 0001–0610 with the single IMG0500 gap, plus Batch 062 IMG0611–IMG0620, all md5-verified on Drive. Chapter-boundary correction: the 'Ch. V opens at Batch 063' wording in the Batch 058/059/060/061 notes was arithmetic drift; the canonical scene breakdown and narration script agree the boundary is 20:30 = IMG0616, inside Batch 062. Not user-ratified; flagged for review. Reconciliation addendum 2026-11-11 (Batch 063 close): +10 verified → 624/1,050 = 59.43%. Chapter V proper continues; opened inside Batch 062 at IMG0616/20:30 (boundary correction recorded at the Batch 062 close; not user-ratified). Reconciliation addendum 2026-11-11 (Batch 064 close): +10 verified → 634/1,050 = 60.38%. Per-frame records intact: canonical 0001–0640 with the single IMG0500 gap, all md5-verified on Drive. Chapter V proper continues (opened inside Batch 062 at IMG0616/20:30; boundary correction recorded at the Batch 062 close; not user-ratified). Reconciliation addendum 2026-11-11 (Batch 065 close): +10 verified → 644/1,050 = 61.33%. Per-frame records intact: canonical 0001–0650 with the single IMG0500 gap, all md5-verified on Drive. Chapter V proper continues. Reconciliation addendum 2026-11-11 (Batch 066 close): +10 verified → 654/1,050 = 62.29%. Per-frame records intact: canonical 0001–0660 with the single IMG0500 gap, all md5-verified on Drive. Chapter V proper continues. || 2026-11-12 BATCH 067 CLOSE: +10 images after full regeneration post-prune; count 654 -> 664; percent 62.29 -> 63.24; batch-067 md5s verified against Drive; ghost Drive folders trashed; batch folder 1cB3UKC95vYhthiQqlvfqC3bkP1cUyDE4 holds all ten frames. || 2026-11-12 BATCH 068 CLOSED 10/10: +10 images; count 664 -> 674; percent 63.24 -> 64.19; batch-068 md5s Drive-verified; first FaceCanon batch. || 2026-11-12 BATCH 069 CLOSED 10/10 on ten first passes (zero rejections; one pixel-scale doctrine flag: 0685 warm crater-vent glow; 0681/0688 no-snow flags; 0682 interior-colonnade register; 0683 gothic balustrade; 0689 near-emissive slit-edge iris). count 674 -> 684; percent 64.19 -> 65.14; batch-069 md5s re-read from Drive and matched (folder 1IyEWJEP3WqRG4r7cVpnNskMA0P220Jhr). FIRST zero-rejection FaceCanon closed batch. || 2026-11-12 BATCH 070 CLOSED 10/10 after FOUR first-pass rejections cleared on turn 2 (0696 CHAR-VAL-002 identity fail; 0697 humanoid-dragon; 0699 pitched gabled castles; 0700 zero dragons rendered). count 684 -> 694; percent 65.14 -> 66.10; batch-070 md5s re-read from Drive (folder 16p9ZMM01KDUSyUs1Y6HpwwOAcSpLA--j). NOT zero-rejection.",
  "batch_057_status": "COMPLETE_10_OF_10_UPLOADED_MD5_VERIFIED",
  "batch_057_drive_folder_id": "1HhUVPcek11XTu-cihyohRuQR7bBJRodD",
  "batch_057_drive_verified_count": 10,
@@ -12130,5 +12135,163 @@
    "qc_note": "clean; NINE dragons confirmed 2x; zero flame; no crown anywhere"
   }
  ],
- "batch_069_note": "First zero-rejection FaceCanon closed batch. Foreign monarchs (Ghis/Yi Ti/Sarnor) named, never depicted. NO crown anywhere; canals DEAD; smoke WEST; sea EAST; zero flame (0685 crater-vent glow flagged at pixel scale). Annotations carried: 0681 snow-capped distant ridge + military pike fence; 0682 interior-colonnade register, 2nd councilor too resolved, torque at throat line; 0683 gothic pointed-arch balustrade; 0685 warm vent glow flag; 0688 snow patches bottom-left + youthful skin + torque absent; 0689 near-emissive slit-edge iris. Faces lift applied (0681/0682/0683/0688); crowd REQUIRED populated (0681/0683/0690). Verified progress: 684/1,050 (65.14%)."
+ "batch_069_note": "First zero-rejection FaceCanon closed batch. Foreign monarchs (Ghis/Yi Ti/Sarnor) named, never depicted. NO crown anywhere; canals DEAD; smoke WEST; sea EAST; zero flame (0685 crater-vent glow flagged at pixel scale). Annotations carried: 0681 snow-capped distant ridge + military pike fence; 0682 interior-colonnade register, 2nd councilor too resolved, torque at throat line; 0683 gothic pointed-arch balustrade; 0685 warm vent glow flag; 0688 snow patches bottom-left + youthful skin + torque absent; 0689 near-emissive slit-edge iris. Faces lift applied (0681/0682/0683/0688); crowd REQUIRED populated (0681/0683/0690). Verified progress: 684/1,050 (65.14%).",
+ "batch_070_status": "COMPLETE_10_OF_10 — six first-pass approvals + four first-pass REJECTIONS cleared on turn-2 re-renders (2026-11-12 register counter-prompt); all md5s Drive-verified; NOT zero-rejection",
+ "batch_070_drive_folder_id": "16p9ZMM01KDUSyUs1Y6HpwwOAcSpLA--j",
+ "batch_070_drive_folder_name": "EP001_BATCH_070_IMG0691-0700",
+ "batch_070_drive_url": "https://drive.google.com/drive/folders/16p9ZMM01KDUSyUs1Y6HpwwOAcSpLA--j",
+ "batch_070_drive_verified_count": 10,
+ "batch_070_verified_images": [
+  {
+   "image_number": 691,
+   "scene_id": "VAL-EP001-IMG0691",
+   "batch": 70,
+   "timestamp": "23:00–23:02",
+   "shot_type": "LAM · 28mm",
+   "visual_beat": "LOW-ANGLE up the organic fused pinnacle — he a tiny mote at the parapet rim; bronze-spear freeholders at the scree base looking UP, faces readable; vertical axis = the station no king may dare",
+   "md5": "8f4cd75f38e0bcf1f54a0b2029ddfaee",
+   "size_bytes": 1480447,
+   "drive_file_id": "1FsHy9EYP1Fx_Jrl--6OWGTarCHRPbwDo",
+   "drive_url": "https://drive.google.com/file/d/1FsHy9EYP1Fx_Jrl--6OWGTarCHRPbwDo/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_FIRST_PASS",
+   "qc_note": "ANN: pinnacle renders STRATA-ROCK register, not poured cooled-flow fused basalt; smoke WEST; no crown"
+  },
+  {
+   "image_number": 692,
+   "scene_id": "VAL-EP001-IMG0692",
+   "batch": 70,
+   "timestamp": "23:02–23:04",
+   "shot_type": "OTS · 40mm",
+   "visual_beat": "OTS over HIS shoulder and braid-fall onto the muster — two dozen-plus bronze-spear freeholders in informal ranks, faces readable, mules at the flank; chalk sea EAST; smoke WEST",
+   "md5": "e801c622ebd3bb06f687fe4f3aadd104",
+   "size_bytes": 1628431,
+   "drive_file_id": "1AJP_MoxkRUY8ArR2M2SmBDUF_TJW0rjk",
+   "drive_url": "https://drive.google.com/file/d/1AJP_MoxkRUY8ArR2M2SmBDUF_TJW0rjk/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_FIRST_PASS",
+   "qc_note": "ANN: his braid renders DARK BROWN/grey (Stage-C kit: luminous silver-gold); distant citadel reads grey COURSED MASONRY rampart (fitted-block class)"
+  },
+  {
+   "image_number": 693,
+   "scene_id": "VAL-EP001-IMG0693",
+   "batch": 70,
+   "timestamp": "23:04–23:06",
+   "shot_type": "WS · 28mm",
+   "visual_beat": "deep-focus wide — TWO SPEAR COLUMNS facing off across the fused coastal road, nobody advancing; the lone crimson figure (HIM) halted mid-road; flock-dots; carts and horses at the verges; smoke WEST; sea EAST",
+   "md5": "76618bfd275b2103273875e5d1560c56",
+   "size_bytes": 1865651,
+   "drive_file_id": "1bOUZu1fAwUunmkQSRs8OM4e_5-6p-Mio",
+   "drive_url": "https://drive.google.com/file/d/1bOUZu1fAwUunmkQSRs8OM4e_5-6p-Mio/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_FIRST_PASS",
+   "qc_note": "clean — the armed-equilibrium money frame"
+  },
+  {
+   "image_number": 694,
+   "scene_id": "VAL-EP001-IMG0694",
+   "batch": 70,
+   "timestamp": "23:06–23:08",
+   "shot_type": "UWA · 24mm",
+   "visual_beat": "UWA from the sea at iron light — THREE RIVAL FREEHOLD HOLDS strung along one fused coastal ridge (his largest center), each trailing its own unlit smoke seam; pasture quilt; NO capital, NO crown; mutually visible equals",
+   "md5": "a7adcbd68101ab93eeacd8c1bd926146",
+   "size_bytes": 1480593,
+   "drive_file_id": "1IYYYaE9rap4vBNCQx_7PwP1SZmE1G3ii",
+   "drive_url": "https://drive.google.com/file/d/1IYYYaE9rap4vBNCQx_7PwP1SZmE1G3ii/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_FIRST_PASS",
+   "qc_note": "ANN: holds render BONE-WHITE GOTHIC PINNACLE register (fluted spires/buttress arcs) vs dark cooled-flow fused-basalt norm; far-right horizon glare borderline-cool"
+  },
+  {
+   "image_number": 695,
+   "scene_id": "VAL-EP001-IMG0695",
+   "batch": 70,
+   "timestamp": "23:08–23:10",
+   "shot_type": "MCU · 50mm",
+   "visual_beat": "MCU of HIM on the parapet walk — amethyst eyes level, braids clasped bronze-dark-red-stone (zero lettering), wind-stained skin; the dark crowd of the muster far below; NO crown",
+   "md5": "b70131a30fdd1ba51636a7ecbf28c503",
+   "size_bytes": 1469916,
+   "drive_file_id": "1DFn1ZGF-CKu_VJo-UlzenzA_F2r4USWm",
+   "drive_url": "https://drive.google.com/file/d/1DFn1ZGF-CKu_VJo-UlzenzA_F2r4USWm/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_FIRST_PASS",
+   "qc_note": "ANN: background city shows domed towers with warm/reddish roofs (non-Valyrian + warm-value borderline); parapet coursed ashlar class"
+  },
+  {
+   "image_number": 696,
+   "scene_id": "VAL-EP001-IMG0696",
+   "batch": 70,
+   "timestamp": "23:10–23:12",
+   "shot_type": "MS · 35mm",
+   "visual_beat": "lateral tracking — HIM (crimson veil, dark bronze scale, luminous silver-gold braids) at frame LEFT with two white-grey peers, three equals, one pace; each rival spire WEST bearing ONE unlit perched dragon; seamless fused monolith parapet",
+   "md5": "177ca8372ae24f1e723711a02e3acf74",
+   "size_bytes": 1545835,
+   "drive_file_id": "19OmuL6s2McuIttjpE0uamiMRuPvLB_TN",
+   "drive_url": "https://drive.google.com/file/d/19OmuL6s2McuIttjpE0uamiMRuPvLB_TN/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_AFTER_REVISION",
+   "qc_note": "v1 REJECTED: CHAR-VAL-002 ABSENT (red-haired crimson knight; pale female-reading figure; all-silver knight; pointed-arch ashlar parapet). v2 holds his exact kit; ANN: renders 4–5 perched-dragon spires vs brief's three"
+  },
+  {
+   "image_number": 697,
+   "scene_id": "VAL-EP001-IMG0697",
+   "batch": 70,
+   "timestamp": "23:12–23:14",
+   "shot_type": "MCU · 65mm",
+   "visual_beat": "telephoto flattening — a pure HUMAN peer on HIS OWN parapet: white-grey warrior braids, graphite-and-bronze scale, weathered face, zero reptilian traits; seamless cooled-flow monolith; mist (not snow) W; sea E",
+   "md5": "637b9e7418b01e5b82d2466a671e3bd5",
+   "size_bytes": 1443773,
+   "drive_file_id": "1z2mgyoh_ZDAZjww8j-P9xpqhsI19ivhX",
+   "drive_url": "https://drive.google.com/file/d/1z2mgyoh_ZDAZjww8j-P9xpqhsI19ivhX/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_AFTER_REVISION",
+   "qc_note": "v1 REJECTED: humanoid-dragon render (bipedal reptile torso, spiked dragon head, pendant); snow both ridges. v2 holds; ANN: renders close on the near wall, not 'two valleys far'; black gate-slit aperture on monolith annotated"
+  },
+  {
+   "image_number": 698,
+   "scene_id": "VAL-EP001-IMG0698",
+   "batch": 70,
+   "timestamp": "23:14–23:16",
+   "shot_type": "MS · 50mm",
+   "visual_beat": "a FULL-GROWN DRAGON at rest on a broad fused platform behind a white-braided peer; the beast's length spans the frame, scales taking pewter light, head low, one open unlit amber eye; capability without threat theater; NO flame",
+   "md5": "09a9f113f76fda88f87f6be109df0368",
+   "size_bytes": 1516970,
+   "drive_file_id": "1Bz9qjQ1hHVjCUFD8fbpFGroawihc7taX",
+   "drive_url": "https://drive.google.com/file/d/1Bz9qjQ1hHVjCUFD8fbpFGroawihc7taX/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_FIRST_PASS",
+   "qc_note": "ANN: deck renders wet polished RECTANGULAR SLABS (coursed-grid class); the amber eye reads near-emissive at 1x; white chalk cliffs EAST kept"
+  },
+  {
+   "image_number": 699,
+   "scene_id": "VAL-EP001-IMG0699",
+   "batch": 70,
+   "timestamp": "23:16–23:18",
+   "shot_type": "WS · 35mm",
+   "visual_beat": "the HALL MONOLITHS — THREE single-mass cooled-flow fused-basalt cylinders, flat-topped, NO roofs, NO keeps, dark obsidian pour among pasture meander walls; a god-high UNLIT dragon crossing, its long shadow sweeping the rightmost hall — the shadow is the sentence; nobody flees",
+   "md5": "24159f04434057defa4a939fece0a8de",
+   "size_bytes": 1340068,
+   "drive_file_id": "1-FtoF4jnGkbtfay5BjPUGYzT96gr4K-R",
+   "drive_url": "https://drive.google.com/file/d/1-FtoF4jnGkbtfay5BjPUGYzT96gr4K-R/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_AFTER_REVISION",
+   "qc_note": "v1 REJECTED: black castle keeps with pitched gabled slate roofs (one Tudor cluster) + warm horizon glare; dragon dominant, not god-high. v2 holds — calm, vast, correct register"
+  },
+  {
+   "image_number": 700,
+   "scene_id": "VAL-EP001-IMG0700",
+   "batch": 70,
+   "timestamp": "23:18–23:20",
+   "shot_type": "UWA · 24mm",
+   "visual_beat": "maximum-altitude wide — SEVEN LIVING DRAGONS IN LOOSE FORMATION across the upper sky (zoom-QC confirmed); foreground hold = his single-mass fused monolith; three rival monoliths smoking on the back ridge; NO snow; bridge into Batch 071",
+   "md5": "7ff1d86f24d63b1f17fc9a6b289c41e7",
+   "size_bytes": 1400251,
+   "drive_file_id": "1qh6Wew6-TxKQlvvRbK5NJrBX1Gs7I1bl",
+   "drive_url": "https://drive.google.com/file/d/1qh6Wew6-TxKQlvvRbK5NJrBX1Gs7I1bl/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_AFTER_REVISION",
+   "qc_note": "v1 REJECTED: rendered ZERO DRAGONS (shapes were winged rock outcrops); snow on back ridge; ruined-keep foreground. v2 holds; ANN: monolith shows TWO arched openings (arch-class) + ~3 WARM PINPRICKS on the upper rim/lower flank — unauthorized door-glow class at pixel scale (flagged for director)"
+  }
+ ],
+ "batch_070_note": "Mutual-deterrence batch. v1 failures prove the LOC-VAL-004 vernacular drift: 0696 (LEAD IDENTITY ABSENT — red-haired knight), 0697 (HUMANOID-DRAGON), 0699 (pitched gabled castles incl. Tudor cluster), 0700 (ZERO dragons rendered) — all recovered turn-2 with the counter-prompt (single-mass cooled-flow fused basalt; ZERO roofs/keeps/arches/ashlar/snow; dark obsidian silhouettes). 0699 turn-2 = the batch at its best. 0700 carries ~3 warm pixel pinpricks + 2 arched openings on the his-monolith (director ratification requested). Faces LIFTED and used (0691 base minor, 0692/0695/0696/0697 all face frames). Verified progress: 694/1,050 (66.10%)."
 }
