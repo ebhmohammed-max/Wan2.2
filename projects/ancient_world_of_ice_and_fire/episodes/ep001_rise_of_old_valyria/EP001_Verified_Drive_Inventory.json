@@ -5,9 +5,9 @@
     "target_images": 1050,
     "batch_size": 10,
     "total_batches": 105,
-    "completed_batches": 83,
-    "next_batch": 84,
-    "next_image_number": 832,
+    "completed_batches": 84,
+    "next_batch": 85,
+    "next_image_number": 841,
     "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
     "drive_folders": {
         "master_root_folder": {
@@ -1152,7 +1152,7 @@
             "narration_slice": "song that brought back the day."
         }
     ],
-    "in_progress_batch": 84,
+    "in_progress_batch": null,
     "batch_007_verified_images": [
         {
             "image_number": 61,
@@ -3600,7 +3600,7 @@
             "upload_checksum_verified": true
         }
     ],
-    "verified_image_count": 831,
+    "verified_image_count": 834,
     "batch_021_verified_images": [
         {
             "scene_id": "VAL-EP001-IMG0201",
@@ -14071,11 +14071,11 @@
             "verdict": "APPROVED_FIRST_PASS \u00b7 ANNOTATED (cup ceramic-not-bronze)"
         }
     ],
-    "batch_084_status": "IN_PROGRESS \u2014 turn-1 verdicts 2026-11-13: 7/10 keeps md5-verified on Drive (831/1,050); 0832/0834/0840 REJECTED at v1 (ANACHRONISM: modern hard-hat/gear workers + cliff-outcrop vs half-foot shoulder; PANEL MUD-TRACK: brown-tan wet dirt vs DARK GRAY-BLACK fused ribbon (canon b); PALE-FACE: road face renders beige/gravel-light vs canon (b)); v2 re-renders pending image-generation cap (10/turn), will land turn-2",
+    "batch_084_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
     "batch_084_drive_folder_id": "1zH9DNCLPbXoiyGifNnvg5noXtK-Dpnmt",
     "batch_084_drive_folder_name": "EP001_BATCH_084_IMG0831-0840",
-    "batch_084_verified_count": 7,
-    "batch_084_pending_rerender": 3,
+    "batch_084_verified_count": 10,
+    "batch_084_pending_rerender": 0,
     "batch_084_verified_images": [
         {
             "image_number": 831,
@@ -14090,6 +14090,18 @@
             "verdict": "APPROVED_FIRST_PASS \u00b7 ANNOTATED (smoke thread far-left present though brief said none; straw vs summer-felt hat)"
         },
         {
+            "image_number": 832,
+            "scene_id": "VAL-EP001-IMG0832",
+            "batch": 84,
+            "timestamp": "27:42\u201327:44",
+            "shot_type": "MCU \u00b7 65mm",
+            "visual_beat": "turn-2 after v1 ANACHRONISM reject \u2014 v2: two ancient hooded/rough-clad workers, faces turned/LIFTED; one crouched pressing a bare palm to the fused seam; seamless fused-stone interface over a scratchy dry soil shoulder; volcano far-WEST DORMANT; thin smoke strictly WEST; sea NOT visible",
+            "md5": "b7e11ee2405818a84af1ac1a577d55fb",
+            "size_bytes": 1634872,
+            "drive_file_id": "1XgTZ5_bO9_FiYCkzArWt30-2PrA2ob73",
+            "verdict": "APPROVED_AFTER_REVISION \u00b7 ANNOTATED (cooling-plate tessellation on road-top; half-foot not demonstrable; reads as edge along a continuing plain)"
+        },
+        {
             "image_number": 833,
             "scene_id": "VAL-EP001-IMG0833",
             "batch": 84,
@@ -14100,6 +14112,18 @@
             "size_bytes": 1568310,
             "drive_file_id": "1yIF2ZLERdsfq7vkMBGGP3nGVVxNOpXSE",
             "verdict": "APPROVED_FIRST_PASS \u00b7 ANNOTATED (steam near-vertical, weak WEST bend; arc reads as two ranks)"
+        },
+        {
+            "image_number": 834,
+            "scene_id": "VAL-EP001-IMG0834",
+            "batch": 84,
+            "timestamp": "27:46\u201327:48",
+            "shot_type": "WS \u00b7 35mm",
+            "visual_beat": "turn-2 after v1 PANEL MUD-TRACK reject \u2014 v2: THE RIBBON UNDER TRADE \u2014 a DEAD BLACK wet-sheen fused-basalt ribbon arrow-straight to the coast, THREE-WAGON WIDTH; six wagons (clay jars, pottery/olives crates, family wagon + sleepy children); TWO MERCHANTS share dark wine mid-road (faces LIFTED); smoke strictly WEST; sea ONE slate band far-right",
+            "md5": "7c3e56576fe5360d8079399960b89137",
+            "size_bytes": 1444790,
+            "drive_file_id": "1t9P0wPBWTcT6VaO0JklSYAlVQa_gLhMf",
+            "verdict": "APPROVED_AFTER_REVISION \u00b7 ANNOTATED (smoke spans much of the WEST horizon though horizon-hugging; wet-black near asphalt sheen; social fabric delivered)"
         },
         {
             "image_number": 835,
@@ -14160,7 +14184,20 @@
             "size_bytes": 1727296,
             "drive_file_id": "1LP_YNnSBn0M6Nor1ct7lXmOWQnovuNTI",
             "verdict": "APPROVED_FIRST_PASS \u00b7 ANNOTATED \u2014 DIRECTOR READ NEVER SELF-WAIVED: silver sheen on the dead scrub tips at both frame edges could cold-eye as FROST-GREY (frost never in frame); face itself dead-clean"
+        },
+        {
+            "image_number": 840,
+            "scene_id": "VAL-EP001-IMG0840",
+            "batch": 84,
+            "timestamp": "27:58\u201328:00",
+            "shot_type": "WS \u00b7 40mm",
+            "visual_beat": "turn-2 after v1 PALE-FACE reject \u2014 v2: THE ROAD OUT \u2014 the ribbon runs arrow-straight lower-left to the vanishing point on the FAR-RIGHT SEA horizon; face DEAD FLAT DARK GRAY-BLACK fused basalt, ragged raised broken edge; two tiny walkers (charcoal dot + companion apart); volcano far-WEST DORMANT; smoke strictly WEST; sea ONE slate band receiving the road",
+            "md5": "2bcf8353f6a8fb1cb109921125614665",
+            "size_bytes": 1454861,
+            "drive_file_id": "1RPGVkAeeQIg8NWPgyIbzuVOSobubo5oo",
+            "verdict": "APPROVED_AFTER_REVISION \u00b7 ANNOTATED (ragged edge reads as coarse rubble embankment; large dark cooling plates faint on lower-left road-top \u2014 cooling-plate tension, DIRECTOR READ)"
         }
     ],
-    "batch_084_note": "Ch. VI 27:40-28:00 \u2014 the DRAGONROADS sentence (fused into bedrock, dark gray-black, half a foot, three abreast, arrow-straight, immune to weeds/frost). Social-fabric directive STANDS and was implemented: 0831 (townswoman+levy-cart+CLAY WINE JARS), 0834 (six-wagon caravan + THREE-WAGON WIDTH + merchant wine-share mid-road + sleepy children + family wagon), 0838 (HER at the road edge above the wagon line, HIS crimson dot apart). DIRECTOR RULING IN FORCE (Ch. VI set-pieces only): canal beds emissive / stone takes never makes / NO open flame \u2014 this batch has NO canal in frame; NOTHING self-emits anywhere. v1 BREACH CLASSES this batch: ANACHRONISM (0832 v1: yellow HARD HAT/safety helmet/expedition gear \u2014 generator models modern geologists for 'workers at rock face'; counter-prompt must pin ancient tunics/aprons and NO modern gear), PANEL MUD-TRACK (0834 v1: road surface rendered wet BROWN MUD/stone \u2014 counter-prompt must demand DEAD BLACK fused basalt with only a dull rain sheen), PALE-FACE (0840 v1: road face rendered pale beige/gravel \u2014 counter-prompt must demand coal-dark, never pale/beige). DIRECTOR-READ FLAGS NEVER SELF-WAIVED: 0831 smoke-present-vs-none + straw-vs-felt hat; 0833 steam weak WEST bend; 0835 capital-as-discus from aloft; 0836 wall-misread/half-foot not demonstrable; 0838 unwashed-vs-soft-beauty; 0839 silver-scrub frost-grey read. md5s re-read from Drive and MATCHED for all seven uploaded keeps."
+    "batch_084_note": "Ch. VI 27:40-28:00 \u2014 the DRAGONROADS sentence (fused into bedrock, dark gray-black, half a foot, three abreast, arrow-straight, immune to weeds/frost). Social-fabric directive STANDS and was implemented: 0831 (townswoman+levy-cart+CLAY WINE JARS), 0834 (six-wagon caravan + THREE-WAGON WIDTH + merchant wine-share mid-road + sleepy children + family wagon), 0838 (HER at the road edge above the wagon line, HIS crimson dot apart). DIRECTOR RULING IN FORCE (Ch. VI set-pieces only): canal beds emissive / stone takes never makes / NO open flame \u2014 this batch has NO canal in frame; NOTHING self-emits anywhere. v1 BREACH CLASSES this batch: ANACHRONISM (0832 v1: yellow HARD HAT/safety helmet/expedition gear \u2014 generator models modern geologists for 'workers at rock face'; counter-prompt must pin ancient tunics/aprons and NO modern gear), PANEL MUD-TRACK (0834 v1: road surface rendered wet BROWN MUD/stone \u2014 counter-prompt must demand DEAD BLACK fused basalt with only a dull rain sheen), PALE-FACE (0840 v1: road face rendered pale beige/gravel \u2014 counter-prompt must demand coal-dark, never pale/beige). DIRECTOR-READ FLAGS NEVER SELF-WAIVED: 0831 smoke-present-vs-none + straw-vs-felt hat; 0833 steam weak WEST bend; 0835 capital-as-discus from aloft; 0836 wall-misread/half-foot not demonstrable; 0838 unwashed-vs-soft-beauty; 0839 silver-scrub frost-grey read. md5s re-read from Drive and MATCHED for all seven uploaded keeps. | Turn-2 (2026-11-13): ALL THREE v2s APPROVED_AFTER_REVISION and md5 re-read from Drive MATCHED (0832 `b7e11ee2` ANACHRONISM cleared \u2014 ancient workers, palm-to-seam pour-proof beat; 0834 `7c3e5657` PANEL MUD-TRACK cleared \u2014 DEAD BLACK wet-sheen fused ribbon, three-wagon width, six wagons, wine-share, sleepy children; 0840 `2bcf8353` PALE-FACE cleared \u2014 road out to the sea vanishing point, coal-dark). NEW CLASS TOUCHED: COOLING-PLATE TESSELLATION (0832 road-top + 0840 lower-left) \u2014 large columnar-basalt cooling plates, sizes/angles vary, DIRECTOR READ, never self-waived; 0840 ragged lip reads as coarse rubble embankment (DIRECTOR READ). Counts at close: 834/1,050 \u00b7 79.43%.",
+    "batch_084_close_note": "CLOSED 10/10 NOT zero-rejection \u2014 turn-1 7 keeps; three rejects (0832 modern-gear anachronism, 0834 brown-mud track, 0840 pale road face) cleared turn-2; md5s all MATCHED on Drive"
 }
