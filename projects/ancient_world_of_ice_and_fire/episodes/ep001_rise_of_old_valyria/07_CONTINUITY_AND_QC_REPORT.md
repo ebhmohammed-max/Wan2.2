@@ -1128,3 +1128,16 @@ Drive folder `EP001_BATCH_076_IMG0751-0760` (`1zc1Ptem5AyyApNuUffZflM05dOmVr-tv`
 The batch's persistent theme so far IS THE GENERATOR'S LOVE OF REGULARITY AND EMISSION — every breach named above is a favourite default (regular rings/grids/walls; glows at rims and lips; smoke drifting toward the sea). The counter-prompts are carried per frame in `06_IMAGE_PROMPTS_BATCH_076.md`.
 
 Counts: **747/1,050 (71.14%)**. Batch 076 stays OPEN; next image work = the seven re-renders. `in_progress_batch` retained at 76 by the inventory record. PR #3 REMAINS OPEN — the merge stays the director's call.
+
+
+## BATCH 076 — CLOSED 10/10 (2026-11-13) — PARTIAL FIRST PASS, ALL CLEARED
+
+Closed after TWO generation turns. Turn-1: THREE approved·annotated (0751, 0753, 0757); SEVEN rejected and deleted. Turn-2/3: re-renders — 0752/0754/0755/0756/0759/0760 cleared on the second pass; 0758 took THREE passes inside the batch (v2 rejected — the rival overseer rendered in HIS crimson pleated-shoulder class (kit-collision; brief spec'd plain slate-grey, one plain dark-bronze ring, NO red); v3 rejected — HER dress rendered WHITE-IVORY (charcoal-black silk is HER kit); v4 held — all kiln mouths BLACK, ALL smoke frame-LEFT/WEST strictly, HIS crimson + HER charcoal at frame-left, faces LIFTED).
+
+**Doctrine record for the batch:** (1) the generator's bias toward REGULARITY (ring-deck, square mega-grid slab, merlon wall-mass, regular stacked courses on kilnes and regular polygonal yard paving) plus the generator bias AND (2) toward EMISSION (hot crater rim, two kiln mouths' red-orange emission) and (3) toward kit-drift at full-frame size (HIS hair dark, HER hair dark, HER white dress). Every one was caught in full-frame review and none was waived.
+
+Key kept-annotated classes (FLAGGED, none waived): 0751 LAM reads low-angle WS; 0753 HIS pleat near-black; 0754 far cones pale-whitened (ash vs snow); 0755 bright slit frame-right background; 0756 regular polygonal yard paving + three handlers all viewed from behind (no faces resolvable — faces-lifted NOT satisfiable on that composition); 0757 her fingertips heaviest-acceptable dry soot film + bright upper-right gap; 0759 pasture vivid grass-green; 0760 slab-field fracture network reads dense near-regular at scale. Standing drama: the narration-mandated timber-and-sheepfold common-wood class (THE ONLY ordinary wooden roofs in the episode) held clean — dry, smokeless, dark, unlit — in 0759 and 0760 exactly where licensed.
+
+Drive folder `EP001_BATCH_076_IMG0751-0760` (`1zc1Ptem5AyyApNuUffZflM05dOmVr-tv`) — all ten md5s re-read from Drive and MATCHED (0751 `40c9802d…`, 0752 `e7029dfe…`, 0753 `680a6a55…`, 0754 `9fab6990…`, 0755 `5ba32f69…`, 0756 `634e1409…`, 0757 `46e5a5d0…`, 0758 `a73b9822…`, 0759 `2c4e887d…`, 0760 `8d2565fb…`).
+
+Canonical counts at close: **754/1,050 (71.81%)**. Next: **Batch 077 — Ch. V (25:20–25:40)**, "The Valyrian builders refused to use chisels and mortar…" — **NOT AUTHORIZED** until the director says so. PR #3 REMAINS OPEN — merge is the director's call.

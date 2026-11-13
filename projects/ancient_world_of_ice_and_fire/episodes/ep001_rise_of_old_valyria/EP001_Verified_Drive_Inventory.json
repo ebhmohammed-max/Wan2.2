@@ -5,9 +5,9 @@
   "target_images": 1050,
   "batch_size": 10,
   "total_batches": 105,
-  "completed_batches": 75,
-  "next_batch": 76,
-  "next_image_number": 751,
+  "completed_batches": 76,
+  "next_batch": 77,
+  "next_image_number": 761,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1152,7 +1152,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": 76,
+  "in_progress_batch": null,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1904,7 +1904,7 @@
     }
   ],
   "last_updated": "2026-11-13",
-  "verified_progress_percent": 71.14,
+  "verified_progress_percent": 71.81,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3600,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 747,
+  "verified_image_count": 754,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -13059,10 +13059,10 @@
     }
   ],
   "batch_075_close_note": "Ch. V 24:40–25:00 — the limited-term ARCHON as habit + the Targaryen foreshadow rendered ONLY via placement/object/absence (a minuscule pour-stone hold on the EASTERN fringe; tiny abstract forked-wing black-wax mark; never a word of the family name placed in any image). LOC-VAL-004 throughout; CHAR-VAL-002 only. Rejections that defined the batch: 0745 (v1 ZERO smoke + teal-green sea; v2 ALL smoke to sea + slate-blue sea) → v3 strictly-WEST plumes + pale-silver sea; 0746 (v1 a tiny GATE RING + LINTEL on the fringe shelf — named breach at any scale + smoke to sea; v2 dark crevice-shadow opening at the shelf face) → v3 horizon-DOT hold w/ WEST smoke, solid rock; 0750 (v1 HIS dark/brown hair + ALL smoke to sea + holds gouged INTO the mass + dark slit cavities; v2 holds as WALKED ANIMAL-BOWLS on legs) → v3 smoke strictly WEST, HIS silver-gold braids HELD, single-mass pour cairn-stack class. 0748 generation-failed turn 1 → approved turn 2. New flags filed (none waived): 0741 (0685-class pinprick standing), 0742 (background near-regular pour-pylon class + HIS ash-blonde), 0744 (necropolis-of-legs read), 0745 (bright pale-silver sea + foreground mound protrusions), 0746 (horizon-dot fringe-hold class + peninsula-tip sea slivers), 0748 (dark matte garment class; bright monochrome gap), 0750 (cairn-stack class), floor-class drift extended to 0741–0744. Verified progress: 744/1,050 (70.86%). Next: Batch 076 — NOT authorized.",
-  "batch_076_status": "OPEN_PARTIAL_3_OF_10_3_UPLOADED_MD5_VERIFIED_7_REJECTED_DELETED_2026-11-13",
+  "batch_076_status": "COMPLETE_10_OF_10 — first pass 0751/0753/0757 approved-annotated, SEVEN rejected and deleted; all seven cleared on re-render pass (0758 took THREE passes inside the batch — turn-2 overseer crimson kit-collision, turn-3 HER WHITE dress, cleared turn-4); all ten md5s re-read from Drive and MATCHED; NOT zero-rejection",
   "batch_076_drive_folder_id": "1zc1Ptem5AyyApNuUffZflM05dOmVr-tv",
   "batch_076_drive_folder_name": "EP001_BATCH_076_IMG0751-0760",
-  "batch_076_drive_verified_count": 3,
+  "batch_076_drive_verified_count": 10,
   "batch_076_verified_images": [
     {
       "image_number": 751,
@@ -13099,8 +13099,92 @@
       "size_bytes": 1296700,
       "drive_file_id": "1Hkm1tCbNgezEGjf2IMXadafTQyJPxDbx",
       "verdict": "APPROVED_FIRST_PASS · annotated flags: her dry fingertips render the HEAVIEST acceptable soot-crimson film of the batch (the dry / never-liquid rule held — nothing pooled, nothing dripped) — flagged for director; the pale bright SLASH at frame-upper-right is a bright, NEVER-warm overcast gap — kept-annotated"
+    },
+    {
+      "image_number": 752,
+      "scene_id": "VAL-EP001-IMG0752",
+      "batch": 76,
+      "timestamp": "25:02–25:04",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "turn-2 after turn-1 rejection (HIS hair dark + far cone lip hot red-orange rim glow): HIS silver-blonde braids HELD at full-frame; crater COLD AND BLACK, torn charcoal seam, NO emission; COOL DARK timber gantry towers; the working ground in gear under HIS crimson pleat and HER charcoal shoulder; all smoke frame-LEFT WEST; chalk band EAST far frame-right; dozens of LIFTED faces",
+      "md5": "e7029dfeeaa093a8e400a8828d0e9d58",
+      "size_bytes": 1660899,
+      "drive_file_id": "1bg_Yx9T1kTXW5o2h9ucIThzUmgi1o864",
+      "verdict": "APPROVED_AFTER_REVISION · annotated: v1 two breaches (dark hair + crater GLOW) rejected; v2 holds clean"
+    },
+    {
+      "image_number": 754,
+      "scene_id": "VAL-EP001-IMG0754",
+      "batch": 76,
+      "timestamp": "25:06–25:08",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-2 after turn-1 rejection (REGULAR ring-deck/pantheon-apron class + vivid-green pasture + slate-blue sea): forty INDEPENDENT organic single-mass heap-mound sites across olive-mottle moor, ragged lips, half-set skins, wandering fracture seams; hundreds of meandred walkers; doubled WEST-bending kiln smokes; sea ONE flat CHALK-PALE band EAST; far cones render pale-whitened caps (ash vs snow — FLAGGED)",
+      "md5": "9fab6990033fd2858fbc65e76524dfd0",
+      "size_bytes": 1767848,
+      "drive_file_id": "1GKANACcEHBk0H84qGjdh_0HlDbjSS34J",
+      "verdict": "APPROVED_AFTER_REVISION · annotated flag: far cones pale caps (ash vs snow); floor-class intact"
+    },
+    {
+      "image_number": 755,
+      "scene_id": "VAL-EP001-IMG0755",
+      "batch": 76,
+      "timestamp": "25:08–25:10",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "turn-2 after turn-1 rejection (BOTH leads' hair dark): HIS SILVER-GOLD braids HELD with gold strand weave; amethyst half-lidded; WHITE-ASH DRY on the knuckles; torque LOW at FRONT gap; HER platinum-WHITE falls with wire + obsidian pins over-his-shoulder; BLANK wax-and-clay mound (no numbers, no seals); her plum-violet eyes held",
+      "md5": "5ba32f69f55c7b12106b1d3f71d8fa03",
+      "size_bytes": 1745533,
+      "drive_file_id": "1zvHN5KNsLkoAKaUsJHakWim6XdG93pgt",
+      "verdict": "APPROVED_AFTER_REVISION · annotated: bright vertical slit far frame-right (overcast gap, never warm); calibration holds"
+    },
+    {
+      "image_number": 756,
+      "scene_id": "VAL-EP001-IMG0756",
+      "batch": 76,
+      "timestamp": "25:10–25:12",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "turn-2 after turn-1 rejection (dragon smoke drifted toward the sea; HIS falls near-black): keel-length young DRAGON grounded, wings FOLDED, dull bronze-charcoal, chains across chest, NO flame; clip-smoke and cone smoke strictly frame-LEFT (WEST); HIS crimson pleat + HER platinum profile frame-right; yard SLAB REGULAR POLYGONAL flagstone (kept-annotated — floor-class drift); three handlers all viewed from BEHIND (no faces resolvable on any named body — faces-lifted NOT satisfiable on this composition; annotated)",
+      "md5": "634e1409e645c42d8f655a96e688ed42",
+      "size_bytes": 1511425,
+      "drive_file_id": "111D0uD6r5WcP1roe4gyC0fuXunR1RlGY",
+      "verdict": "APPROVED_AFTER_REVISION · annotated: regular flagstone paving kept-annotated; handlers back-facing"
+    },
+    {
+      "image_number": 758,
+      "scene_id": "VAL-EP001-IMG0758",
+      "batch": 76,
+      "timestamp": "25:14–25:16",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "turn-3 after turn-2 rejection (rival overseer rendered in HIS crimson pleated-shoulder class — kit-collision) AND turn-3 rejection (HER dress WHITE-IVORY); v4 holds: HIS crimson pleat + HER CHARCOAL BLACK silk and MATTE PLATINUM falls, both small frame-LEFT; EVERY kiln mouth a DARK TORN LIP (BLACK, zero emission); ALL smoke strictly frame-LEFT/WEST; rival overseer frame-right PLAIN slate-grey, NO red; dozens of LIFTED faces — backs, shoulder-turns, glances",
+      "md5": "a73b9822024391bb08c215144550788b",
+      "size_bytes": 1587329,
+      "drive_file_id": "12jfZY-0RYvYsoWIE0he_aOjnQJloICnW",
+      "verdict": "APPROVED_AFTER_REVISION · annotated flag: kiln dome stacks render in REGULAR stacked courses (kept-annotated under the standing floor-class drift family; flagged for director)"
+    },
+    {
+      "image_number": 759,
+      "scene_id": "VAL-EP001-IMG0759",
+      "batch": 76,
+      "timestamp": "25:16–25:18",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "turn-2 after turn-1 rejection (backdrop was a MERLON-TOPPED CONTINUOUS WALL-MASS — gigantic keep/rampart; HIS + HER hair flagged dark): THE COMMON LAND — independent ragged single-mass pour mounds of the forty staggered at range, ZERO wall, ZERO merlons, NO continuous skyline line; narration-mandated LOW TIMBER HALLS (dry/plank, smokeless, unlit, blank door-beams) + DRY-STONE sheepfold walls; his peleat UNUSED; HER MATTE PLATINUM falls crossing mid-field with goat at heel + sheepdog; TWO LIFTED SHEPHERD FACES mid-field; sea ONE blunt chalk band EAST; smoke WEST frame-left; sky COOL-NEUTRAL",
+      "md5": "2c4e887d40a0965b9fa53a1f90d2461b",
+      "size_bytes": 1572650,
+      "drive_file_id": "13fm1gnPT4ZZ5EpXlDHgwVHxQS0jZO5OO",
+      "verdict": "APPROVED_AFTER_REVISION · annotated flag: pasture reads vivid grass-green (soft drift kept); shepherd faces LIFTED-but-small"
+    },
+    {
+      "image_number": 760,
+      "scene_id": "VAL-EP001-IMG0760",
+      "batch": 76,
+      "timestamp": "25:18–25:20",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-2 after turn-1 rejection (regular square-PLATE MEGA-GRID slab + stockade post-ring + warm upper-right horizon): THE OLD AND THE NEW — bottom third low TIMBER HALL + dry-stone sheepfold rings, slate-dark, unlit, smokeless; ONE CONTINUOUS SINGLE-MASS COOLED-FLOW CRUST — wandering fracture fissures, NO square plates, NO courses; fracture network reads dense near-regular at scale (floor-class drift kept-annotated, flagged); work perimeter UNTIDY scatter of carts/ropes/people, NO stockade, NO fence; HIS+HER minuscule crimson/charcoal at mythic center; dead-cold cones frame-left WEST-bending smoke; chalk band EAST; horizon COOL-NEUTRAL",
+      "md5": "8d2565fbe24db34f6b4d283edfafb583",
+      "size_bytes": 1750459,
+      "drive_file_id": "1rL52dAmq9s2IE0RyW_Rv92poObidku06",
+      "verdict": "APPROVED_AFTER_REVISION · annotated flag: fracture network dense near-regular at mega-scale (floor-class family)"
     }
   ],
-  "batch_076_note": "PARTIAL SYNC mid-batch: 3 of 10 frames Drive-verified 2026-11-13 (0751/0753/0757). SEVEN frames REJECTED on first pass and deleted: 0752 (HIS hair rendered dark brown/black + the far cone lip GLOWS orange-red — nothing-glows breach), 0754 (the forty sites rendered as REGULAR flagstone RING-DECKS/pantheon aprons — the 0739/0740 floor-class drift at world scale + broadcast-green pasture + slate-blue sea), 0755 (TOTAL both-leads kit failure — HIS hair dark, HER falls dark, not platinum-white), 0756 (dragon nostril-smoke bends toward frame-right/sea — all smoke WEST — plus HIS far-right falls rendered near-black), 0758 (TWO kiln mouths HOT RED-ORANGE EMISSION + both smokes bend toward the sea + HIS crimson pleat invisible against near-black), 0759 (THE BACKDROP RENDERED AS A CONTINUOUS MERLON-TOPPED WALL-MASS edge-to-edge — a gigantic battlemented keep/rampart on the skyline, the banned no-walls/no-merlons/keep-class verbatim — plus HER hair dark and a faint warm-cream tint upper-right), 0760 (the slab-field rendered as a REGULAR MEGA-GRID of side-by-side square plates at the biggest scale in the episode + a regular stockade post-circle at the work perimeter + warm-cream tint upper-right). The batch theme so far: generator preference for REGULARITY and EMISSION classes over the organic single-mass/cold/unlit Valyrian pour doctrine. md5s re-read from Drive and MATCHED for all three uploads. Batch 076 stays OPEN; seven re-renders outstanding; counts 747/1,050 (71.14%).",
-  "batch_076_close_note": null
+  "batch_076_note": "Batch 076 closed 2026-11-13 (turn-1 + turn-2/3 review + NARRATION-MANDATED timber-and-sheepfold exception used exactly in 0759/0760 — ordinary WOOD roofs, dark, smokeless, unlit). Doctrine classes confirmed this batch: generator regularity bias (RING-DECK pantheon aprons 0754; square-plate MEGA-GRID slab 0760; MERLON-TOPPED CONTINUOUS WALL-MASS 0759; regular polygonal yard paving 0756; regular stacked kine courses 0758; dense fracture tessellation 0760) and EMISSION bias (crater-rim glow 0752; TWO kiln mouths hot emission 0758-v1/v2/v3) and KIT-DRIFT at full-frame size (HIS hair dark 0752/0755; HER hair dark 0755/0759; HER dress WHITE 0758-v3). All caught at review; none waived. md5s re-read from Drive and MATCHED for all ten. Counts at close: 754/1,050 (71.81%).",
+  "batch_076_close_note": "CLOSED 10/10 NOT zero-rejection (first pass: 0751/0753/0757 approved·annotated; SEVEN rejected; all seven cleared re-render; 0758 needed THREE passes — overseer crimson kit-collision + HER white dress) — md5s all MATCHED on Drive"
 }
