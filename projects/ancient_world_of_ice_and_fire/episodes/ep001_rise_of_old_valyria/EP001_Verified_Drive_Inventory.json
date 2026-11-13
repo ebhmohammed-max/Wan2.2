@@ -5,9 +5,9 @@
  "target_images": 1050,
  "batch_size": 10,
  "total_batches": 105,
- "completed_batches": 72,
- "next_batch": 73,
- "next_image_number": 721,
+ "completed_batches": 73,
+ "next_batch": 74,
+ "next_image_number": 731,
  "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
  "drive_folders": {
   "master_root_folder": {
@@ -1904,7 +1904,7 @@
   }
  ],
  "last_updated": "2026-11-13",
- "verified_progress_percent": 68.0,
+ "verified_progress_percent": 68.95,
  "batch_012_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3600,7 @@
    "upload_checksum_verified": true
   }
  ],
- "verified_image_count": 714,
+ "verified_image_count": 724,
  "batch_021_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0201",
@@ -9940,7 +9940,7 @@
  "the_scream_rule": "The scream is physical cost, not magic. Show flush, taut tendons, sweat, a worn and crusted mouthpiece, dry residue - then a still body on a terrace and one whole horn standing among ruins a civilisation later. No aura, no glow, no shockwave, no sound effect, nothing alight, in any frame.",
  "the_body_rule": "No face and no injury in batch 053. Strain is tendons, flush and sweat; damage is dryness, salt deposit and worn metal; the cost is posture. Negations carried in every prompt: no blood, no wound, no injury, no bruise, no burn. This is also why the batch cleared moderation on the first pass: describe what the body is doing, not what has been done to it.",
  "batch_052_three_faults_lesson": "0514 was masonry, 0519 was the sky, 0512 was a dropped call. All three fixed on the first re-render because the fault was in the negation list, not the idea. The masonry negation list is now standard wording on any frame containing a stone wall - 0528 pass 1 proved it is still needed in the middle distance, not just in the foreground.",
- "verified_percent": 68.0,
+ "verified_percent": 68.95,
  "open_corrections": [
   "VAL-EP001-IMG0160"
  ],
@@ -12614,5 +12614,163 @@
    "qc_note": "ANN: far-right horizon neutral-pearlescent, not warm \u2014 kept, flagged"
   }
  ],
- "batch_072_note": "Ch. V 23:40\u201324:00 \u2014 LOC-VAL-004 ONLY; NO CHAR refs (custom bigger than one man; HIS kit deliberately absent). THE LAW OF THE COMMONS: empty center (0712), ground-level orator (0713), the great gathering (0714 re-rendered), the peninsula in many hands (0715), unified westward smoke (0716), raised working hands (0717), the old shipwright listening (0718), the flatstone worn by footfall (0719), the forty seeded WEST (0720). Faces LIFTED throughout; no crown/throne/regalia anywhere; NO flame; smoke WEST; sea EAST; no snow."
+ "batch_072_note": "Ch. V 23:40\u201324:00 \u2014 LOC-VAL-004 ONLY; NO CHAR refs (custom bigger than one man; HIS kit deliberately absent). THE LAW OF THE COMMONS: empty center (0712), ground-level orator (0713), the great gathering (0714 re-rendered), the peninsula in many hands (0715), unified westward smoke (0716), raised working hands (0717), the old shipwright listening (0718), the flatstone worn by footfall (0719), the forty seeded WEST (0720). Faces LIFTED throughout; no crown/throne/regalia anywhere; NO flame; smoke WEST; sea EAST; no snow.",
+ "batch_073_status": "COMPLETE_10_OF_10 \u2014 seven first-pass approvals + 0727/0729 cleared turn 2 + 0728 cleared on THREE passes; all md5s Drive-verified; NOT zero-rejection",
+ "batch_073_drive_folder_id": "1-xxJ8m1K8_f2bx3LQu76on1rPTD3S1PQ",
+ "batch_073_drive_folder_name": "EP001_BATCH_073_IMG0721-0730",
+ "batch_073_drive_url": "https://drive.google.com/drive/folders/1-xxJ8m1K8_f2bx3LQu76on1rPTD3S1PQ",
+ "batch_073_drive_verified_count": 10,
+ "batch_073_verified_images": [
+  {
+   "image_number": 721,
+   "scene_id": "VAL-EP001-IMG0721",
+   "batch": 73,
+   "timestamp": "24:00\u201324:02",
+   "shot_type": "LAM \u00b7 28mm",
+   "visual_beat": "THE HIGH COUNCIL SPUR \u2014 his crimson rim and her charcoal rim at ONE height on the crag; the commons helpless scale below; smoke WEST, sea EAST; slit doorway at grade; organic strata flute register",
+   "md5": "069c8a8c88b361eb7031935dc4537ec5",
+   "size_bytes": 1531623,
+   "drive_file_id": "11km0WkUfoznh6yTcrmsKwWmEw9x9RNcE",
+   "drive_url": "https://drive.google.com/file/d/11km0WkUfoznh6yTcrmsKwWmEw9x9RNcE/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_FIRST_PASS",
+   "qc_note": "ANN: organic strata-crag register (kept)"
+  },
+  {
+   "image_number": 722,
+   "scene_id": "VAL-EP001-IMG0722",
+   "batch": 73,
+   "timestamp": "24:02\u201324:04",
+   "shot_type": "OTS \u00b7 40mm",
+   "visual_beat": "OTS HIS shoulder and braid-fall onto ~30 Stage C peers at ONE height \u2014 red pleats, dark bronze-and-black scale; his obsidian-red-gold torque FRONT frame-bottom; sea chalk EAST; smoke WEST",
+   "md5": "bed64c60ae9330cf6395b8187032fb55",
+   "size_bytes": 1756760,
+   "drive_file_id": "1YwhGPIPbiGTcb5iyprmEXiZSmnS6Flow",
+   "drive_url": "https://drive.google.com/file/d/1YwhGPIPbiGTcb5iyprmEXiZSmnS6Flow/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_FIRST_PASS",
+   "qc_note": "ANN: uniformly crimson-bronze class; no female peers resolve \u2014 kept, flagged"
+  },
+  {
+   "image_number": 723,
+   "scene_id": "VAL-EP001-IMG0723",
+   "batch": 73,
+   "timestamp": "24:04\u201324:06",
+   "shot_type": "WS \u00b7 28mm",
+   "visual_beat": "THE STACKED ORDER, deep-focus \u2014 common arcs and flocks bottom; the road to the chalk sea seam; the council spur top-center with ~18 crimson rim-figures; far WEST cone smoke; no tier attached to the next",
+   "md5": "fee6436c94a713f8a106305b8363cba8",
+   "size_bytes": 1554610,
+   "drive_file_id": "1TqcMTWuhuMpKKW45Zl0KmD4p2glwhD8r",
+   "drive_url": "https://drive.google.com/file/d/1TqcMTWuhuMpKKW45Zl0KmD4p2glwhD8r/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_FIRST_PASS",
+   "qc_note": "clean"
+  },
+  {
+   "image_number": 724,
+   "scene_id": "VAL-EP001-IMG0724",
+   "batch": 73,
+   "timestamp": "24:06\u201324:08",
+   "shot_type": "UWA \u00b7 24mm",
+   "visual_beat": "THE COMMONS AT BASE \u2014 shipwright yard lofting longship ribs (raw oak), rope racks, nets, a COLD FORGE (anvil only, ZERO fire), ox-carts, lifted mixed faces; allotment smokes bend WEST; chalk cliffs EAST",
+   "md5": "7857b8921357bcd68465a0fc6435625c",
+   "size_bytes": 1807564,
+   "drive_file_id": "1PY_jMxVlxtcdhS84hwAlp4VjLtWuRRQw",
+   "drive_url": "https://drive.google.com/file/d/1PY_jMxVlxtcdhS84hwAlp4VjLtWuRRQw/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_FIRST_PASS",
+   "qc_note": "clean"
+  },
+  {
+   "image_number": 725,
+   "scene_id": "VAL-EP001-IMG0725",
+   "batch": 73,
+   "timestamp": "24:08\u201324:10",
+   "shot_type": "MCU \u00b7 50mm",
+   "visual_beat": "ONE OF THE FORTY over the oblivious commons \u2014 storm-white-aged figure, black-bronze spiked scale, cascading white braids; pasture works on below; sea EAST",
+   "md5": "bdf2e8e3d1ce85b8fe6e9b18ce8d875d",
+   "size_bytes": 1520689,
+   "drive_file_id": "14bOgAnJH0uwV_FK7rR97iYYa9VmSgPoR",
+   "drive_url": "https://drive.google.com/file/d/14bOgAnJH0uwV_FK7rR97iYYa9VmSgPoR/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_FIRST_PASS",
+   "qc_note": "ANN: closer to Aemon-aged class than brief\u2019s graphite-bronze peer \u2014 kept, flagged"
+  },
+  {
+   "image_number": 726,
+   "scene_id": "VAL-EP001-IMG0726",
+   "batch": 73,
+   "timestamp": "24:10\u201324:12",
+   "shot_type": "MS \u00b7 35mm",
+   "visual_beat": "THE COUNCIL RING track \u2014 HIS arc frame-left (amethyst, crimson) vs HER arc frame-right (platinum crown, Shard Collar FRONT); \u22653 female peers; one BLANK parchment tally held open \u2014 ZERO writing",
+   "md5": "0efc75867f7ca3f6033f46fe0501e132",
+   "size_bytes": 1566435,
+   "drive_file_id": "1GhAy-Yv8AnurL1WPYPe9-v8Xfas6wSRp",
+   "drive_url": "https://drive.google.com/file/d/1GhAy-Yv8AnurL1WPYPe9-v8Xfas6wSRp/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_FIRST_PASS",
+   "qc_note": "ANN: hair uniformly silver-white across the ring (all-Valyrian class) \u2014 kept, flagged"
+  },
+  {
+   "image_number": 727,
+   "scene_id": "VAL-EP001-IMG0727",
+   "batch": 73,
+   "timestamp": "24:12\u201324:14",
+   "shot_type": "MCU \u00b7 65mm",
+   "visual_beat": "THE WITHHELD PALM \u2014 her open hand over an INERT black obsidian shard on the bare basalt table; DRIED soot-crimson fingertip haze ONLY (no blood); HIS profile one plane behind; free unlit dragon far rim",
+   "md5": "9c301c59db6a4d56db70393db4daa754",
+   "size_bytes": 1554940,
+   "drive_file_id": "1dKTzUiu7ry5NRebnRdweEpW_XfHEWZf1",
+   "drive_url": "https://drive.google.com/file/d/1dKTzUiu7ry5NRebnRdweEpW_XfHEWZf1/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_AFTER_REVISION",
+   "qc_note": "v1 REJECTED: WET BLOOD + CANDLES + GOTHIC KEEP w/ MERLONS + dragon sculpture; v2 holds doctrine \u2014 BUT FOUR UNLIT WHITE CANDLES returned (no flame/glow) against the counter-prompt; kept, FLAGGED FOR DIRECTOR (rite-adjacency)"
+  },
+  {
+   "image_number": 728,
+   "scene_id": "VAL-EP001-IMG0728",
+   "batch": 73,
+   "timestamp": "24:14\u201324:16",
+   "shot_type": "MS \u00b7 50mm",
+   "visual_beat": "THE MOUNTS \u2014 multiple UNLIT dragons on a single-mass flaked organic pour ridge rim (flat slab caps, ZERO courses, ZERO merlons); vast half-mast wing; tiny clothed figures at the perch; push-cart below; sea EAST chalk frame-right; NO cone in frame",
+   "md5": "1dfbfffd50c594b563399840aefa5435",
+   "size_bytes": 1662183,
+   "drive_file_id": "19mjFTWvoKBa3_sunFlok8mCjcst9inrc",
+   "drive_url": "https://drive.google.com/file/d/19mjFTWvoKBa3_sunFlok8mCjcst9inrc/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_AFTER_REVISION",
+   "qc_note": "v1 REJECTED: COURSED ASHLAR CASTLE WALL. v2 REJECTED: architecture fixed but cone plume streamed EAST. v3 (this file): NO CONE IN FRAME \u2014 doctrine satisfied by absence"
+  },
+  {
+   "image_number": 729,
+   "scene_id": "VAL-EP001-IMG0729",
+   "batch": 73,
+   "timestamp": "24:16\u201324:18",
+   "shot_type": "WS \u00b7 35mm",
+   "visual_beat": "THE ECLIPSE MEASURED \u2014 six cones shouldering one unified WEST wind; the westward smoke braid; stacked strata; hundreds of minuscule workers; the ridge\u2019s thin crimson gallery; chalk sea EAST frame-right",
+   "md5": "e21622174690391e521b6531b32b6899",
+   "size_bytes": 1520063,
+   "drive_file_id": "1xwzvX0z9w0KecVZ8Ouhzw1XiEqGqn3j2",
+   "drive_url": "https://drive.google.com/file/d/1xwzvX0z9w0KecVZ8Ouhzw1XiEqGqn3j2/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_AFTER_REVISION",
+   "qc_note": "v1 REJECTED: ALL CONE SMOKE STREAMING EAST; v2 (this file): unified WEST wind \u2014 cleared; ANN rim-dot gallery crimson class"
+  },
+  {
+   "image_number": 730,
+   "scene_id": "VAL-EP001-IMG0730",
+   "batch": 73,
+   "timestamp": "24:18\u201324:20",
+   "shot_type": "UWA \u00b7 24mm",
+   "visual_beat": "THE COLONNADE WITHOUT SPANS \u2014 ~22 freestanding pour-basalt pillars, flat slab caps, slit doorways at grade, ZERO architraves/spans/roofs; BARE CENTRAL FLATSTONE at court center; tiny red-cloaked figures; chalk wave-lace coast EAST",
+   "md5": "dd07ea17a9bac54eba82761558d622fc",
+   "size_bytes": 1830619,
+   "drive_file_id": "15wZdNqoqKzZNvgTcmTnBhl7bqeZjirQ9",
+   "drive_url": "https://drive.google.com/file/d/15wZdNqoqKzZNvgTcmTnBhl7bqeZjirQ9/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_FIRST_PASS",
+   "qc_note": "HEAVILY ANNOTATED: slit interiors read as unlit deep-oxblood membrane \u2014 pigment, no bloom, thresholds dark; kept, flagged to glow-doctrine meeting"
+  }
+ ],
+ "batch_073_note": "Ch. V 24:00\u201324:20 \u2014 Dominance of the Forty. LOC-VAL-004; CHAR-VAL-002 + CHAR-VAL-003 Stage C. His crimson rim + her charcoal rim at one height (0721); the crimson-bronze OTS semicircle (0722); the stacked strata (0723); the commons at base (0724); one Aemon-aged dragonlord over the pasture (0725); the council ring track, BLANK tally (0726); HER withheld palm over an inert black obsidian shard (0727 \u2014 candles flagged for director); THE MOUNTS on a clean organic pour rim, no cone in frame (0728 v3); the eclipse measured, all cones one WEST wind (0729 v2); the colonnade without spans over a bare central flatstone (0730). NO flame; nothing glows; smoke WEST; sea EAST; no crown; no blood anywhere."
 }
