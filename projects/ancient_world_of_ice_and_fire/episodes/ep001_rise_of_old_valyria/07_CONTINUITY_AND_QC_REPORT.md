@@ -1141,3 +1141,14 @@ Key kept-annotated classes (FLAGGED, none waived): 0751 LAM reads low-angle WS; 
 Drive folder `EP001_BATCH_076_IMG0751-0760` (`1zc1Ptem5AyyApNuUffZflM05dOmVr-tv`) — all ten md5s re-read from Drive and MATCHED (0751 `40c9802d…`, 0752 `e7029dfe…`, 0753 `680a6a55…`, 0754 `9fab6990…`, 0755 `5ba32f69…`, 0756 `634e1409…`, 0757 `46e5a5d0…`, 0758 `a73b9822…`, 0759 `2c4e887d…`, 0760 `8d2565fb…`).
 
 Canonical counts at close: **754/1,050 (71.81%)**. Next: **Batch 077 — Ch. V (25:20–25:40)**, "The Valyrian builders refused to use chisels and mortar…" — **NOT AUTHORIZED** until the director says so. PR #3 REMAINS OPEN — merge is the director's call.
+
+
+## BATCH 077 — PART 1 / TURN-1 REVIEW + PARTIAL SYNC (2026-11-13)
+
+The opening turn of the refusal-of-chisels batch. FIVE frames verified (0761, 0762, 0763, 0764, 0765); FIVE rejected and deleted — the recurring EMISSION/WARM breach class and a NEW class this batch: THE SEA RENDERED AS WHITE FROZEN ICE (twice this turn), plus a CASTLE-KEEP backdrop at 0770-v1 and regular-cone repetition at 0767-v1. DRG-VAL-002 debuts at 0766/0770 — he renders beautifully as anatomy (four limbs, swept-back bronze horns, three-ridged brow, dark-iron harness with ox-hide straps — NEVER a saddle) — both frames were rejected on OTHER classes, not on the dragon.
+
+Drive folder `EP001_BATCH_077_IMG0761-0770` (`1DoxfMeZl1P9az1R4BTe8foDPQyy2uaD7`) created this turn.
+
+**Verified (5):** `0761` (LAM both backs — Capital-scale mound rearing overhead — HIS ash-wash kept), `0762` (DET macro — burst-bubble crust — fjord-split ash seam), `0763` (CU both profiles — HER fire-opal earring held, plum eye; his falls ash-silver), `0764` (DET macro — his scale-brace wrist, palm-down on crust, the UNUSED IRON CHISEL one plane behind — zero text), `0765` (WS OTS — the other-world still-life of abandonment; smoke strictly WEST; FLAG: autumn-gold moor pasture; dried-gold tinted backdrop; wax disc faint relief kept-annotated).
+
+**REJECTED — deleted (5):** `0766` (sky SUN-GOLDEN half-frame — no-warm-horizon breach; dragon anatomy held), `0767` (the sea as WHITE ICE FIELD + uniform regular cones everywhere), `0768` (cone smoke bends EAST + the wooden roller rendered as a metal grease-canister), `0769` (same white-glacier continent class for the sea at world-scale), `0770` (backdrop = REGULAR RECTILINEAR NORMAN CASTLE / coursed towers / tessellated paving floor class — keep-class breach at depth).md5s re-read from Drive and MATCHED for the five uploads. Batch 077 stays OPEN; five re-renders outstanding (0766, 0767, 0768, 0769, 0770 with counter-prompts in `06_IMAGE_PROMPTS_BATCH_077.md`). Canonical counts: **759/1,050 (72.29%)**.

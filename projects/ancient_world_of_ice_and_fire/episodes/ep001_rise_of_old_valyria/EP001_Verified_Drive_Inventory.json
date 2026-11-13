@@ -1152,7 +1152,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": null,
+  "in_progress_batch": 77,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1904,7 +1904,7 @@
     }
   ],
   "last_updated": "2026-11-13",
-  "verified_progress_percent": 71.81,
+  "verified_progress_percent": 72.29,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3600,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 754,
+  "verified_image_count": 759,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -13186,5 +13186,72 @@
     }
   ],
   "batch_076_note": "Batch 076 closed 2026-11-13 (turn-1 + turn-2/3 review + NARRATION-MANDATED timber-and-sheepfold exception used exactly in 0759/0760 — ordinary WOOD roofs, dark, smokeless, unlit). Doctrine classes confirmed this batch: generator regularity bias (RING-DECK pantheon aprons 0754; square-plate MEGA-GRID slab 0760; MERLON-TOPPED CONTINUOUS WALL-MASS 0759; regular polygonal yard paving 0756; regular stacked kine courses 0758; dense fracture tessellation 0760) and EMISSION bias (crater-rim glow 0752; TWO kiln mouths hot emission 0758-v1/v2/v3) and KIT-DRIFT at full-frame size (HIS hair dark 0752/0755; HER hair dark 0755/0759; HER dress WHITE 0758-v3). All caught at review; none waived. md5s re-read from Drive and MATCHED for all ten. Counts at close: 754/1,050 (71.81%).",
-  "batch_076_close_note": "CLOSED 10/10 NOT zero-rejection (first pass: 0751/0753/0757 approved·annotated; SEVEN rejected; all seven cleared re-render; 0758 needed THREE passes — overseer crimson kit-collision + HER white dress) — md5s all MATCHED on Drive"
+  "batch_076_close_note": "CLOSED 10/10 NOT zero-rejection (first pass: 0751/0753/0757 approved·annotated; SEVEN rejected; all seven cleared re-render; 0758 needed THREE passes — overseer crimson kit-collision + HER white dress) — md5s all MATCHED on Drive",
+  "batch_077_verified_images": [
+    {
+      "image_number": 761,
+      "scene_id": "VAL-EP001-IMG0761",
+      "batch": 77,
+      "timestamp": "25:20–25:22",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "turn-1: LAM straight up past both backs (HIS crimson + HER charcoal) — the FIRST CAPITAL-SCALE SINGLE-MASS POUR rearing through the top of frame: ragged lip, wandering fracture fissures, matte flaked crust, NO roof/span/scaffold; ONE smoke ribbon strictly WEST; sea one sliver EAST; HIS falls read ash-silver at this exposure (kept-annotated)",
+      "md5": "b4b866b61d1158307424b185bd63685c",
+      "size_bytes": 1445292,
+      "drive_file_id": "1AQ0Sdj0fAnzxGIzULvvZNjDwX6bjpnvW",
+      "verdict": "APPROVED_FIRST_PASS · annotated: HIS falls ash-silver class at this exposure"
+    },
+    {
+      "image_number": 762,
+      "scene_id": "VAL-EP001-IMG0762",
+      "batch": 77,
+      "timestamp": "25:22–25:24",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "turn-1: DET 85mm macro — black flaked cooled-flow crust fills frame — burst bubbles, one fjord-split fracture seam with ash-DRY line; HIS scale-bracelet enters frame bottom-left (dark-bronze riveted plates — HIS kit held); one BLANK off-cut one plane deep; NO text anywhere",
+      "md5": "83daaf7a002054b3ac4f824771c5fc01",
+      "size_bytes": 1711622,
+      "drive_file_id": "1er665Eo-uvaca51q52vSF3ZnLSoFEKLh",
+      "verdict": "APPROVED_FIRST_PASS · annotated: horizon reads slate-grey rather than chalk-silver (soft drift)"
+    },
+    {
+      "image_number": 763,
+      "scene_id": "VAL-EP001-IMG0763",
+      "batch": 77,
+      "timestamp": "25:24–25:26",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "turn-1: CU 85mm both-profile — HER alabaster skin, uncut fire-opal earring, plum-violet eye; HIS silver-blonde falls blotted at jaw edge (ash-ashy class); his amethyst eye level; both faces LIFTED, measurable; ONE blunt sea band far right frame-edge; NO warm rim-light, no hand, no torch",
+      "md5": "7975de897e5e60187ff74ed3040b5370",
+      "size_bytes": 1394257,
+      "drive_file_id": "1XIgVSYuPI2CbVSYOwZ4VA_u--wfh-j19",
+      "verdict": "APPROVED_FIRST_PASS · annotated: HIS falls read ash-silver class at this exposure"
+    },
+    {
+      "image_number": 764,
+      "scene_id": "VAL-EP001-IMG0764",
+      "batch": 77,
+      "timestamp": "25:26–25:28",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "turn-1: DET 100mm macro — HIS scale-brace wrist frame-left, palm-down onto the crust, white-ash bloom dry; THE ABANDONED IRON CHISEL one plane behind the fingers — never struck, zero-glyph shank, one nicked edge from storage; raw pour-day earth in finger gaps; crust reads pale shattered-bark (kept-annotated)",
+      "md5": "65c42c95379fb69519b2f7778c453155",
+      "size_bytes": 1733344,
+      "drive_file_id": "1cWptQYGBADN2ke81jyoXisOUMNnfRIHt",
+      "verdict": "APPROVED_FIRST_PASS · annotated: crust reads pale shattered-bark rather than matte-black cooled flow"
+    },
+    {
+      "image_number": 765,
+      "scene_id": "VAL-EP001-IMG0765",
+      "batch": 77,
+      "timestamp": "25:28–25:30",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "turn-1: WS 40mm OTS from work ridge — the whole FIELD OF THE FORTY below, dots crawling, smoke strictly frame-LEFT/WEST, chalk sea ONE blunt band EAST — the OTHER-WORLD STILL-LIFE foreground: rope coil, wood-grip chisel, BLANK black-wax-sealed waxed lime sack, one plain wooden roller; HER charcoal figure walking away frame-left toward pasture-track; the fresh crust pale-set behind",
+      "md5": "3018970b4c31a99f06510c89585eb643",
+      "size_bytes": 1844499,
+      "drive_file_id": "1IRfl8sNCRhfOGVl71jHb_7zwtKj_DL5P",
+      "verdict": "APPROVED_FIRST_PASS · annotated flags: pasture autumn-gold dried moor; wax disc renders faint raised relief (abstract, not glyph)"
+    }
+  ],
+  "batch_077_status": "OPEN_PARTIAL_5_OF_10_5_UPLOADED_MD5_VERIFIED_5_REJECTED_DELETED_2026-11-13",
+  "batch_077_drive_folder_id": "1DoxfMeZl1P9az1R4BTe8foDPQyy2uaD7",
+  "batch_077_drive_folder_name": "EP001_BATCH_077_IMG0761-0770",
+  "batch_077_drive_verified_count": 5,
+  "batch_077_note": "PARTIAL SYNC mid-batch 2026-11-13: 5 of 10 Drive-verified (0761–0765). FIVE rejected and deleted turn-1: 0766 (half the sky rendered SUN-GOLDEN cream — no-warm-horizon breach at capital scale; the dragon anatomy held), 0767 (the sea as WHITE ICE FIELD + uniform regular cones), 0768 (cone smoke bends EAST + the wooden roller rendered as a METAL CANISTER), 0769 (SAME WHITE GLACIER class for the sea at world-scale), 0770 (backdrop = REGULAR RECTILINEAR NORMAN CASTLE — coursed flat-topped towers — plus tessellated paving floor class). DRG-VAL-002 debut this batch: he renders as anatomy in 0766/0770 (four limbs ✓ swept twin bronze horns ✓ three-ridged brow ✓ dark-iron ride-harness, NO saddle ✓) — both frames rejected on OTHER classes. md5s re-read from Drive and MATCHED for the five uploads. Batch 077 stays OPEN; five re-renders outstanding; counts 759/1,050 (72.29%)."
 }
