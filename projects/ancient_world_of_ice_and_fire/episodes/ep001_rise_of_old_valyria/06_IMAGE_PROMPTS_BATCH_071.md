@@ -3,7 +3,7 @@
 **Timecode 23:20–23:40 · Ch. V · frames VAL-EP001-IMG0701 – IMG0710**
 **ART DIRECTION 2026-11-12 IN FORCE (see `09_ART_DIRECTION_UPDATE_2026-11-12.md`):** FACES LIFTED — everyone; crowds REQUIRED where narration names them; Nasmith = element/mood guide for ORIGINAL compositions only; "3D realistic cinematic" = photoreal CGI / Octane-look. The nothing-glows/DEAD-canal doctrine STANDS (NO flame anywhere in this batch; canals DEAD; no warm horizon). No crown, no throne, no diadem — EVER, not even as negatives. LOC-VAL-004 COUNTER-PROMPT IN FORCE FROM THE START (proven in Batch 070 turn-2): single-mass poured cooled-flow fused basalt, ZERO arches/roofs/keeps/merlons/ashlar courses, dark obsidian silhouettes, ZERO snow, flat cooled tops.
 
-**Status: IN PROGRESS — 10 frames to be generated turn 1; not yet QC'd/uploaded; totals UNCHANGED (694/1,050).**
+**Status: PARTIAL 9/10 (2026-11-13) — ten generated; `0709` REJECTED (UWA renders one unified dark MANDOLA-METROPOLIS, fully walled and dense — the state ALREADY BUILT, contradicting the still-prospective founding of 0706–0708; deleted; re-render queued next turn). Nine approved & Drive-verified (md5s re-read and MATCHED; folder `1K9mU8SAqYB5Uf9X9z8jGje5Gtr9kUorl`). Totals UNCHANGED: **694/1,050 (66.10%)**. NOT zero-rejection. Annotations: 0701 (strata-rock register; keep), 0702/0704 clean-to-mild, 0703 (first BEARD in the epic + ornate relief clasps + collar chain entering frame bottom front), 0704 (tiny red diamond on signet shoulder, face blank holds), 0705 (dragon chain reads as ~11 distinct wings rather than a murk — kept), 0706 (monoliths render near-RECTANGULAR WHOLE CUBES — silhouette-lean keep-class despite zero openings; slit doorways held), 0707 (pillars read near-RECTANGULAR unmarked columns — kept), 0708 + 0710 (bench stone renders LIGHT-GREY ROUGH-CUT SLABS vs dark poured register; 0710 renders a COMPLETED amphitheater — consistent with the brief's own 'outermost bench rim' wording, kept). 0709: RE-RENDER next turn with: 'the peninsula NOT yet unified — many separate rival HOLDS strung along the coast like vertebrae, smokes rising SEPARATELY from different points WEST, NO continuous walls, NO single settlement'.**
 
 Shared opener on every prompt (do not drop it):
 
@@ -24,47 +24,67 @@ Shared opener on every prompt (do not drop it):
 **Beat:** Towering vertical scale composition
 **Brief:** LAM 24mm looking nearly straight up a SINGLE CLAIMANT-HOUSE'S MONOLITH rearing TOO TALL above the coastal ridge — its summit cuts the sky at frame top, ONE VAST UNLIT DRAGON perched at the rim (half-furled, not posed), the mass deliberately taller than every peer hold visible along the coast; the neighboring holds read lower and darker to frame-left; dry pasture at the base with ONE tiny flock-dot of tiny herders; the imbalance is the sin; smoke WEST from the claimant's own vent; sea EAST; NO arches, NO roofs, NO merlons, NO crown; no flame; no text.
 
+
+**Turn-1 verdict: `APPROVED_FIRST_PASS`** — LAM straight up the too-tall claimant monolith; one VAST UNLIT DRAGON coiled at the summit (unlit, taken light); peer holds lower and darker WEST; tiny herders + horses at the base; smoke WEST; sea EAST; NO SNOW anywhere; organic fusedPour monolith; no crown. ANN: register reads STRATA-ROCK/ORGANIC-POUR (kept, clean). md5 `38f1f45f8288ddb03da5a5f504f0aec8`. Drive `1FPlzYEByvas3Ne9Y9BQvvXxz6EPCVOah`.**
 ## VAL-EP001-IMG0702 — DET · 85mm — 23:22–23:24
 **Narration:** “openly for a throne risked”
 **Beat:** Macro environmental / material texture insert
 **Brief:** DET 85mm extreme macro on a SINGLE BLANK CAST-BRONZE ROUNDEL — a boss meant to seat an overlord badge, mounted alone on the CLAIMANT-HOUSE'S poured-basalt wall: weathered, dull patina, ONE hairline double-crack crossing it, every surface UNMARKED — no letters, no reliefs, no sigils, no relief of any kind; it takes pewter light without making it; the perfect emblem of a reach that never engraved itself; no hands, no face, no crown; smoke WEST implied only by the wall's soot grain; no flame; no text.
 
+
+**Turn-1 verdict: `APPROVED_FIRST_PASS`** — extreme macro on a BLANK CAST-BRONZE ROUNDEL mounted alone on the claimant wall — unmarked, dull patina, ONE hairline double-crack; taken pewter light, never made; the emblem of a reach that never engraved itself; zero reliefs, zero marks, zero letters. md5 `10665a207fddb8d3ea8fcf2141289579`. Drive `1Z6h0QviA5VkOvzYEWoys9a7Vzh9xl9_h`.**
 ## VAL-EP001-IMG0703 — CU · 85mm — 23:24–23:26
 **Narration:** “uniting every other dragonlord”
 **Beat:** Intimate close-up detail / expression beat
 **Brief:** CU 85mm — HIS face three-quarter, the arithmetic landing: amethyst eyes fixed WEST toward the claimant's smoke; laminated silver-gold braids framing the face, clasps bronze-red-gold (zero lettering); jaw set, mouth closed, not anger — certainty without appetite; scale shoulder edge in frame, torque LOW at the FRONT collar gap entering frame bottom; wind-stained weathered skin; pewter sky; smoke WEST far behind him; no crown; no text; no flame.
 
+
+**Turn-1 verdict: `APPROVED_FIRST_PASS · ANNOTATED`** — HIS face three-quarter, the arithmetic landing: amethyst firm WEST, braids clasped (relief ornate but zero lettering), jaw set, mouth closed — certainty without appetite; scale shoulder edge + torque-chain entering frame bottom FRONT. ANN: (1) FIRST BEARD of the epic — he reads as an elder dragonlord now; (2) clasp faces carry ORNATE GEOMETRY relief (kept class, borderline heraldry-adjacent); (3) a chain enters frame bottom at FRONT (5598-compatible position, annotated). md5 `1918f9ccf9639dd38432bc618b831f88`. Drive `1RqAzaKcBHcY5m-EagC3RVdnBX_u-FJ2q`.**
 ## VAL-EP001-IMG0704 — DET · 100mm — 23:26–23:28
 **Narration:** “lineage against it in a”
 **Beat:** Extreme close-up tactile / light study
 **Brief:** DET 100mm extreme macro of HIS HANDS at his side — weathered, warm bronze-tan, faint soot crescents in the knuckles and finger-creases, the right hand opening slowly from a fist it never fully made; rope-callused fingers of a man who holds reins and vaults from parapets; a small obsidian-and-red-gold signet with a BLANK face; the hand that could draw, withholding; pewter light; no blood; no rings with faces, no engraving; no crown; no flame; no text.
 
+
+**Turn-1 verdict: `APPROVED_FIRST_PASS · ANNOTATED`** — HIS HANDS macro: weathered bronze-tan, soot-black crescents in knuckle-creases, the right hand opening SLOWLY from a fist it never made; the ring's face is a smooth black OVAL, BLANK; pewter light, no blood, no faces. ANN: one TINY RED DIAMOND on the signet SHOULDER (face holds blank; shoulder mark = heraldry-adjacent class — flagged for director ratification). md5 `8a3ee16da4ff8dc0b4c000c6809a1311`. Drive `1eokYfENtUoys-OKSwTzTViKPbshwPjUQ`.**
 ## VAL-EP001-IMG0705 — WS · 40mm — 23:28–23:30
 **Narration:** “war of mutual annihilation.”
 **Beat:** Transitional wide horizon / bridge framing
 **Brief:** WS 40mm — HIS TINY SILHOUETTE standing on the shoulder of a far ridge looking DOWN the coast — ahead of him, the WESTERN HOLDS' smokes CONVERGING into one long iron-grey horizontal seam (brother against brother), their fused spires dark against the overcast, and far above them a LOOSE MURK of UNLIT DRAGONS riding westward in a single dark chain; nothing burns, nothing has started, everything is ready; bridge frame; smoke WEST; sea EAST chalk seam; NO snow; no warm horizon; no crown; no flame; no text.
 
+
+**Turn-1 verdict: `APPROVED_FIRST_PASS · ANNOTATED`** — WS: HIS TINY SILHOUETTE on the far ridge shoulder; the western holds' smokes CONVERGING into one iron seam down the whole coast; above it a dark chain of UNLIT DRAGONS riding WEST; nothing burns, nothing started, everything ready — the single held breath before annihilation; bridge frame. ANN: the dragon chain reads as ~11 distinct wings rather than an indistinct murk — kept; far-right horizon pale but cool (kept). md5 `1c37a05aeae371dc643642c70c86e979`. Drive `1LE0W-8O2nvqICN_Bw60oYOGijcI_b7fm`.**
 ## VAL-EP001-IMG0706 — LAM · 28mm — 23:30–23:32
 **Narration:** “Out of mutual deterrence”
 **Beat:** Low-angle monumental architectural / geological framing
 **Brief:** LAM 28mm looking up a FRESH-POURED GREAT HALL — a LANDHOLDER ASSEMBLY HALF-BUILT ON THE COAST: three single-mass cooled-flow fused-basalt hall monoliths, FLAT TOPS, NO ROOFS YET, NO keeps, walls organic meander like cooled lava, each with ONE SEAMLESS SLIT DOORWAY (not an arch) at ground height; carts of fresh melt being hauled in the distance; a few workers tiny at the base; the first masonry of the state that will REPLACE kings; smoke WEST small; sea EAST; no crown; no flame; no text; NO SNOW, NO ARCHES, NO ASHLAR COURSES.
 
+
+**Turn-1 verdict: `APPROVED_FIRST_PASS · ANNOTATED`** — LAM up the landholder assembly half-built: THREE single-mass cooled-flow hall monoliths, FLAT TOPS, NO roofs, NO keeps; organic meander fracture-veneer; ONE SEAMLESS SLIT DOORWAY each (holds class — slit not arch); carts of fresh slag, tiny distant workers; ox-cart foreground; chalk cliffs EAST; smoke WEST. ANN: the monoliths read near-RECTANGULAR WHOLE CUBES (silhouette leans keep despite opening slits) — register flag, kept. md5 `53ac56084ba83c151b7bd3baa6ceb225`. Drive `17D7yDkPrA3PhZ_m-mTD0cRObEWLYz7_F`.**
 ## VAL-EP001-IMG0707 — OTS · 40mm — 23:32–23:34
 **Narration:** “and ancient clan pride,”
 **Beat:** Over-the-shoulder depth perspective
 **Brief:** OTS 40mm over a SEMICIRCLE of CLAN PILLARS — each a tall fused-basalt monolith plinth of EXACTLY equal height and width, all BLANK, an honor roll of EMPTY name-stones waiting for nobody; in front of them, three elder freeholders of different bloods (one tan with storm-grey locks, one weathered dark, one pale) leaning on plain staffs, same height, same stance; below them the half-built assembly ground; faces readable; pride rendered as parity; smoke WEST thread; sea EAST; no crown; no regalia; no marks; no flame; no text.
 
+
+**Turn-1 verdict: `APPROVED_FIRST_PASS · ANNOTATED`** — OTS over a SEMICIRCLE OF BLANK CLAN PILLARS: ~10 plinths of EXACT equal height and width, all BLANK — the parity custom in masonry; THREE elder freeholders of different bloods (tan storm-grey / weathered dark / pale), same height, same stance, plain wool; pride as parity; white chalk cliffs EAST; smoke WEST; NO SNOW; no marks; no regalia; no flame. ANN: pillars read near-RECTANGULAR slabs rather than organic pour (kept, class). md5 `c329d5263a9ec6f06ebf452453ea02a1`. Drive `1C4sd3axqIfY-sA_I00mXO-3J2Xk633y5`.**
 ## VAL-EP001-IMG0708 — WS · 28mm — 23:34–23:36
 **Narration:** “the Valyrians devised a”
 **Beat:** Deep-focus wide atmospheric composition
 **Brief:** WS 28mm deep-focus over the FIRST FREEHOLD ASSEMBLY GROUND at iron noon — CONCENTRIC SEMICIRCULAR ROWS of fused-slab benches on the pasture, all face-forward toward a BARE CENTRAL FLATSTONE (a decision stone, NOT a dais — no one sits above anyone; all one height); a dozen clan-figures (mixed skin, mixed wools and scales, faces readable) arriving in twos and threes with goats and tools; a straight fused road to the sea; one thin smoke thread WEST; sea EAST; no crown; no flame; no text; NO SNOW.
 
+
+**Turn-1 verdict: `APPROVED_FIRST_PASS · ANNOTATED`** — deep-focus wide over the FIRST FREEHOLD ASSEMBLY GROUND: CONCENTRIC SEMICIRCULAR ROWS of rough slab benches (mixed light grey, organic) all facing a BARE CENTRAL FLATSTONE — no dais, all one height; a dozen clan-figures (mixed skin, mixed wools/scales, faces readable) arriving with goats; the straight fused road running to the sea EAST; chalk cliffs; thin smoke WEST. ANN: bench stone renders LIGHT-GREY ROUGH-CUT (vs dark poured register); road reads near-white gravel — both kept, flagged. md5 `5a09d1e3c870b6c30d8c60727f3f4670`. Drive `1G9oA2VUlH2lYsz9-RYP_uDSd43Nv6Ig7`.**
 ## VAL-EP001-IMG0709 — UWA · 24mm — 23:36–23:38
 **Narration:** “radically different state: the Valyrian”
 **Beat:** Ultra-wide establishing vista
 **Brief:** UWA 24mm from high over the SWAMP OF HOUSES-THAT-WILL-BE-ONE-STATE — the whole peninsula mid-founding: the assembly arcs below like a stone fingerprint, the new great halls rising dark among older holds, MANY thin smoke threads rising from MANY rival sites WEST (these are MANY houses smoking, not one palace — a commons seen at altitude), the fused road stitching hold to hold, the sea EAST chalk seam; the crown of NOTHING — exactly what a state looks like before it names itself; no crown; no flame; no text; NO SNOW; no warm horizon.
 
+
+**Turn-1 verdict: `REJECTED — DELETED, re-render queued.`** — the UWA renders ONE UNIFIED DARK MANDALA-METROPOLIS: a continuous walled spiral-mandala of dense infrastructure stretching coast-to-coast, dozens of smokes rising WEST from within the single fabric — the STATE ALREADY BUILT, contradicting the still-prospective founding glimpse (0706–0708) and the batch's own arc (batch 069: no king; batch 070: deterrence; batch 071: the answering PROSPECT, not the achievement). NOT uploaded. Re-prompt next turn: 'the peninsula NOT yet unified — many SEPARATE rival holds strung along the coast like vertebrae, each with its OWN smoke and NO continuous walls; the arcs far below DISTINCT and alone in the pasture; NO roads other than the one causeway-stitch of goat-tracks; the state does not exist yet.'**
 ## VAL-EP001-IMG0710 — MCU · 50mm — 23:38–23:40
 **Narration:** “Freehold. By founding custom”
 **Beat:** Medium close-up atmospheric focal beat
 **Brief:** MCU 50mm — THE FIRST FREEHOLDER, an elder matriarch of no dragon-lineage line at all (weathered tan skin, storm-grey hair pulled back, plain wool, one unmarked copper ring), seated at the outermost bench rim with her hands folded and eyes closed — the founding custom embodied as a person waiting for the future; behind her in soft focus the assembly arcs and the sea glare; her face is the point; faces canon — this one is NOT of the blood and that is the whole idea; no crown; no scale, no torque, no flame; no text.
+
+**Turn-1 verdict: `APPROVED_FIRST_PASS · ANNOTATED`** — THE FIRST FREEHOLDER: an elder matriarch of NO dragon-lineage line (weathered tan, storm-grey hair back, plain dark wool, one unmarked copper ring), seated at the outermost bench rim, hands folded, eyes closed; behind her MANY ordinary freeholders on the tiered arcs, all faces plain and readable; THIS ONE is NOT OF THE BLOOD — and that is the whole idea; sea glare EAST; no crown, no scale, no torque; no flame. ANN: renders a COMPLETED amphitheater (pre-forms the founding rather than prospects it) — consistent with the brief's own 'outermost bench rim of the assembly arcs' wording; kept; bench stone light-grey rough-cut class. md5 `801db9b49642ae9561e1c3fc7275f26f`. Drive `1knCJpEf6KgH6iR8s_ZVFfsdbkQsjTWEr`.**
