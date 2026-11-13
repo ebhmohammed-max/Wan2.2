@@ -1113,3 +1113,18 @@ Scope rulings for the batch:
 - 0755 seals/maquette/ink-table items render BLANK; 0757 egg + shard = inert objects only, never glowing, never warm.
 
 Canonical counts at opening: **744/1,050 (70.86%)**; next batch in flight 076; next image number 0751; this batch targets 754/1,050 (71.81%). Drive folder to be created on first upload: `EP001_BATCH_076_IMG0751-0760`.
+
+
+## BATCH 076 — PART 2 / TURN-1 REVIEW + PARTIAL VERIFIED SYNC (2026-11-13)
+
+Turns used: 1 of the batch (10 generations). Harsh first pass — the generator streaked HIS hair dark in three frames and painted VALLEY-CLASS BREACHES (kilns glowing; MERLON SKYLINE; smoke to sea) — seven frames were REJECTED AND DELETED.
+
+Drive folder `EP001_BATCH_076_IMG0751-0760` (`1zc1Ptem5AyyApNuUffZflM05dOmVr-tv`) — created this turn.
+
+**Uploaded, md5-re-read and MATCHED (3):** `0751` (THE FRESH MEGA-POUR mound — freestanding legs, no spans; HIS pleat + HER charcoal; ANN: LAM reads low-angle WS), `0753` (the dedicated day — figure total unique-class; HIS pleat renders near-black — ANN), `0757` (HER MCU over the inert objects — shard flat, egg DORMANT-cold, NO glow anywhere held; her fingertips heaviest acceptable dry soot film — flag; bright gap kept-ANN).
+
+**REJECTED — deleted, never uploaded (7):** `0752` (HIS falls dark brown + far cone lip GLOWS orange), `0754` (the forty as regular flagstone RING APRONS/pantheon podiums + broadcast-green pasture + slate-blue sea), `0755` (HIS dark hair + HER falls dark, not platinum — total both-leads kit failure; maquette itself held), `0756` (dragon nostril smoke toward the sea + HIS far-right falls dark), `0758` (TWO kiln mouths RED-ORANGE EMISSION + both smokes toward the sea + HIS pleat invisible), `0759` (the backdrop rendered as a CONTINUOUS MERLON-TOPPED WALL-MASS edge-to-edge — a giant battlemented keep/rampart on the skyline — the named no-walls/no-merlons/keep-class breaches verbatim + HER hair dark + a faint warm-cream tint on the right cloud edges), `0760` (slab-field rendered as a REGULAR MEGA-GRID of side-by-side square plates — the standing floor-class drift at world-scale + a regular stockade post-circle at the work perimeter + warm-cream tint upper-right horizon).
+
+The batch's persistent theme so far IS THE GENERATOR'S LOVE OF REGULARITY AND EMISSION — every breach named above is a favourite default (regular rings/grids/walls; glows at rims and lips; smoke drifting toward the sea). The counter-prompts are carried per frame in `06_IMAGE_PROMPTS_BATCH_076.md`.
+
+Counts: **747/1,050 (71.14%)**. Batch 076 stays OPEN; next image work = the seven re-renders. `in_progress_batch` retained at 76 by the inventory record. PR #3 REMAINS OPEN — the merge stays the director's call.
