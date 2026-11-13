@@ -5,9 +5,9 @@
   "target_images": 1050,
   "batch_size": 10,
   "total_batches": 105,
-  "completed_batches": 77,
-  "next_batch": 78,
-  "next_image_number": 771,
+  "completed_batches": 78,
+  "next_batch": 79,
+  "next_image_number": 781,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1152,7 +1152,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": 78,
+  "in_progress_batch": null,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1904,7 +1904,7 @@
     }
   ],
   "last_updated": "2026-11-13",
-  "verified_progress_percent": 73.43,
+  "verified_progress_percent": 73.71,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3600,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 771,
+  "verified_image_count": 774,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -13353,6 +13353,30 @@
       "verdict": "APPROVED_FIRST_PASS · ANNOTATED — far cone smoke pale; horizon brightness flag"
     },
     {
+      "image_number": 774,
+      "scene_id": "VAL-EP001-IMG0774",
+      "batch": 78,
+      "timestamp": "25:46–25:48",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "turn-2 after v1 rejection — THE UN-DRESSED BLOCKS: ONE colossal single-mass cast basalt monolith lies dead FLAT bottom-frame, no chisel, no mortar, cast-in-place; TWO standalone freestanding pour legs stand alone, open sky both sides; HER + HIS tiny backs far-right; sea ONE blunt SLATE band; smoke strictly WEST; the v1 trilithon + slab floor + rogue disc gone",
+      "md5": "b3ba0669f8fb1b288bdea1b334447461",
+      "size_bytes": 1587291,
+      "drive_file_id": "10jjClRt-tZVeUNTKVVWexLFBlLo2FI48",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (REGULAR ARCH/TRILITHON + slab floor + rogue disc); v2 holds — legs regular-ish kept-annotated"
+    },
+    {
+      "image_number": 775,
+      "scene_id": "VAL-EP001-IMG0775",
+      "batch": 78,
+      "timestamp": "25:48–25:50",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-2 after v1 rejection — THE DORMANT VOLCANO god-high scale reveal: torn summit, matte black faceting, sulfur streaks DRY-matte, summit smoke strictly WEST in three columns; SKY edge-to-edge cold iron-pewter (NO warm band anywhere incl. frame-LEFT); HIS CRIMSON + HER CHARCOAL tiny at near rim centred, upturned, DWELLING; DRG-VAL-002 GROUNDED far-right FR four limbs, wings folded, TWIN horns + 3 ridge brow, dark-iron harness, TAKES light; sea far-right blunt SLATE band",
+      "md5": "41470eab6fd6482693e10a40105c6a86",
+      "size_bytes": 1504904,
+      "drive_file_id": "19fdvyRSlH-BHaoWEAbGR4zDRv_v24qjj",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (SUN-CREAM warm horizon frame-left + horn discipline); v2 holds entire horizon cold"
+    },
+    {
       "image_number": 776,
       "scene_id": "VAL-EP001-IMG0776",
       "batch": 78,
@@ -13389,6 +13413,18 @@
       "verdict": "APPROVED_FIRST_PASS · ANNOTATED — dragon iris luminous-copper flag; collar shard-fan kept"
     },
     {
+      "image_number": 779,
+      "scene_id": "VAL-EP001-IMG0779",
+      "batch": 78,
+      "timestamp": "25:56–25:58",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "turn-2 after v1 rejection — EXTREME MACRO: ONE of HER INTACT HEALTHY fingertips, pale alabaster, silver-crescent cuticles, faint soot smudge only; the basalt flake at frame-left reads dark grey-green at far face kept-annotated, DRY ash bloom at contact, matte, nothing glows",
+      "md5": "349faf46330a97798a5a62c02caadf13",
+      "size_bytes": 1209486,
+      "drive_file_id": "16mu_ho1yST_p13Ymk_drzNiIN-KA9pX5",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (fingertip raw/red blood-adjacent class; grey-green leathery flake); v2 holds intact-skin class"
+    },
+    {
       "image_number": 780,
       "scene_id": "VAL-EP001-IMG0780",
       "batch": 78,
@@ -13401,7 +13437,8 @@
       "verdict": "APPROVED_FIRST_PASS · ANNOTATED — sea band pale-slate flag; dragon frill annotate; horizon dot annotate"
     }
   ],
-  "batch_078_status": "OPEN_PARTIAL_7_OF_10 — turn-1: SEVEN approved·annotated; THREE rejected pending turn-2 re-render: 0774 (REGULAR ARCH/TRILITHON banned-span class + polygonal slab floor weave + rogue disc — CATASTROPHIC anti-pour class), 0775 (no-warm-horizon class breach: SUN-CREAM band at frame-left horizon at world scale + horn discipline), 0779 (fingertip raw/blood-class — dry-doctrine breach; flake read grey-green leather)",
-  "batch_078_drive_verified_count": 7,
-  "batch_078_note": "Batch 078 OPEN — turn-1 partial sync 2026-11-13. Seven uploaded (0771,0772,0773,0776,0777,0778,0780) md5s re-read from Drive all MATCHED. Three first-pass rejections REQUIRE turn-2: 0774 arch/trilithon class; 0775 warm-cream horizon at world-scale; 0779 fingertip red/blood class. Folder EP001_BATCH_078_IMG0771-0780 = 1odCKfOE3bZ97GVUf0SB-AzoDKUvuL1dq (parent 1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn). Counts at partial: 771/1,050 (73.43%)."
+  "batch_078_status": "COMPLETE_10_OF_10 — turn-1 seven approved·annotated; THREE rejected & deleted (0774 ARCH/TRILITHON + slab floor; 0775 warm SUN-CREAM horizon frame-left; 0779 bloodied fingertip) — ALL THREE cleared turn-2; all ten md5s re-read from Drive and MATCHED; NOT zero-rejection",
+  "batch_078_drive_verified_count": 10,
+  "batch_078_note": "Batch 078 CLOSED 10/10 2026-11-13, NOT zero-rejection. THE ARCH/TRILITHON CLASS catalogued — the generator models Stonehenge whenever “cast stone prehistoric” appears in the brief; counter-prompt must lead with NO arch/lintel/trilithon. THE NO-WARM-HORIZON AT WORLD SCALE — milder here but same class as 0766-v1. THE BLOOD-ADJACENT FINGERTIP — extreme macro inflamed by default; counter-prompt MUST say HEALTHY intact skin, faint smudge ONLY. THE OTHER WORLD IS NOT RENDERED — the elsewhere-world existed only as ONE dry baked brick + prose; the volcano was DORMANT throughout (nothing vessel-hot this batch). DRG-VAL-002 second appearance batch (0780 + 0775) — grounded, TAKES light, four limbs, TWIN horns hold. md5s re-read all MATCHED. Counts at close: 774/1,050 (73.71%).",
+  "batch_078_close_note": "CLOSED 10/10 NOT zero-rejection — first pass 7/10; three cleared turn-2; md5s all MATCHED on Drive"
 }
