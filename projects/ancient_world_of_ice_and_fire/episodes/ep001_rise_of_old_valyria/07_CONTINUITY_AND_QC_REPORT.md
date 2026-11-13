@@ -1204,3 +1204,15 @@ After ten frames: **764/1,050 (72.76%)**. Next: **Batch 078 — Ch. VI · 25:40�
 - **Emerging annotation drift across recent batches:** SEA BRIGHT-SLATE — 0762, 0780, 0782, 0783, 0784, 0786, 0789, 0790 all read the sea bright at the horizon line (chalk seam brighter than doctrine at exposure), kept annotated this batch. 0790-held it darkest. RECURRING CLASS: THE SEA AT WORLD-SCALE STILL MUST NOT READ WHITE BUT KEEPING IT SLATE-BLUNT LINE IS GETTING HARDER. Future counter-prompts: “far sea at horizon = ONE BLUNT PURE SLATE-GREY band, NO brightening at the horizon line anywhere.”
 - **DRG-VAL-002 third appearance:** 0781 (crouch on crag, wings semi-SPREAD braced — NOT flight); 0782, 0783, 0784 (contained event, RECOIL state); 0790 (grounded on crag, head UP). ALL TAKES light except FLAME WHICH IS THE SUBJECT. No flight ruling yet.
 - **Counts at close: 784/1,050 · 74.67%. Next: Batch 080 (26:20–26:40) — “…harder than granite, impervious to chisel or storm…” — NOT AUTHORIZED until the director says so. GLOW DOCTRINE RULING STILL OVERDUE AND WILL BE PAST DUE BY Batch 079/080.**
+
+
+---
+
+## BATCH 080 — OPEN, turn-1 PARTIAL 9/10 (2026-11-13) — THE WALL FAILS THE CHISEL — NO flame exception declared
+
+- **NARROW SCOPE DISCIPLINE: this batch has NO flame event and NO exception — stone takes overcast/grazing light only.** The pyromancy spectacle closed with 079; 080 is the morning after.
+- **Turn-1 verdicts:** NINE approved·annotated (`0791, 0792, 0793, 0794, 0796, 0797, 0798, 0799, 0800`) — hold to script seams; spans `26:20–26:40`. ONE rejected: **`0795`** — wall rendered as REGULAR COURSED ashlar with a REGULAR ROW OF TOP CAP-STONES (merlon-class). Not the Valyrian work class: fused work must be SINGLE-MASS poured basalt, wandering organic fracture lace, TORN freeform crown, NO courses/regular masonry/normal caps. DELETED; turn-2 counter-prompt recorded; pending next-turn image budget.
+- **Catalogued classes:** SPARK FLASH (0791) — chisel impact rendered white-hot, kept annotation, NOT flame, the stone does not emit; BRIGHT FIRE-OPAL (0793, 0800) — drops read copper-red/carnelian, bright-class annotation; canvas-slate-bright FLAG STILL ungated at horizon; REGULAR masonry ONLY as the halted mortal ruin beside the Valyrian work (0798) — never transported; THE FOURTEEN FLAMES render as cleanly cleffted WEST smoke threads (0797).
+- **md5 (nine MATCHED, re-read from Drive):** 0791 `ac02ef9e` · 0792 `b9250517` · 0793 `7736d3ca` · 0794 `df1b1072` · 0796 `bd7e7994` · 0797 `19ed792c` · 0798 `8bb2eed4` · 0799 `af685293` · 0800 `4140353c`. Folder **EP001_BATCH_080_IMG0791-0800** (`1V1jaLhTRsilR0fTTfGfV7DP0giRvQip5`).
+- **Glow doctrine ruling STILL OPEN — no batch-local exception granted in 080; the permanence of nothing-self-emits was held.**
+- **Counts at partial: 793/1,050 · 75.52%.** Next: turn-2 0795 — then batch 081 (26:40–27:00) NOT AUTHORIZED until director says so.

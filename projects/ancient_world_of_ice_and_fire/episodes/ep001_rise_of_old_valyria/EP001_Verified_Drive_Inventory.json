@@ -7,7 +7,7 @@
   "total_batches": 105,
   "completed_batches": 79,
   "next_batch": 80,
-  "next_image_number": 791,
+  "next_image_number": 801,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1152,7 +1152,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": null,
+  "in_progress_batch": 80,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1904,7 +1904,7 @@
     }
   ],
   "last_updated": "2026-11-13",
-  "verified_progress_percent": 74.67,
+  "verified_progress_percent": 75.52,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3600,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 784,
+  "verified_image_count": 793,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -13566,5 +13566,118 @@
   "batch_079_status": "COMPLETE_10_OF_10 — turn-1 seven approved·annotated; THREE rejected & deleted (0785 bloodied fingertip + warm tan-brown right-sky breach; 0787 rainbow-opal earrings GLITTER class + charcoal iris; 0790 fused formation read as black puddle + dragon illegible at range) — ALL THREE cleared turn-2; all ten md5s re-read from Drive and MATCHED; NOT zero-rejection",
   "batch_079_drive_verified_count": 10,
   "batch_079_note": "Batch 079 CLOSED 10/10 2026-11-13, NOT zero-rejection. NARROW FIRE EXCEPTION applied (flame events legal ONLY this batch; stone never self-emits; lava canals DEAD; no warm horizon; smoke WEST). GLOW DOCTRINE STILL NOT RULED EPISODE-WIDE. Catalogued: 0779-class fingertip-red RELAPSE (0785-v1, 0787-v1) — any visible fingertip in closeups must be INTACT-HEALTHY with faint soot-only; GLITTER-REELIC (0787-v1 rainbow-opal) — fire-opals MUST be FLAT DARK-CORAL, never rainbow; FUSED-FORMATION-LEGIBILITY (0790-v1 puddle) — world-scale fused formations must read RISING with height, DRG-VAL-002 must remain UNMISTAKABLE at range. THE OTHER WORLD remained unrendered; the VOLCANO stayed DORMANT. DRG-VAL-002 appeared semi-braced (wings NOT airborne; no flight ruling yet — wings semi-spread for recoil only). md5s all MATCHED. Counts at close: 784/1,050 (74.67%).",
-  "batch_079_close_note": "CLOSED 10/10 NOT zero-rejection — first pass 7/10; three cleared turn-2; md5s all MATCHED"
+  "batch_079_close_note": "CLOSED 10/10 NOT zero-rejection — first pass 7/10; three cleared turn-2; md5s all MATCHED",
+  "batch_080_verified_images": [
+    {
+      "image_number": 791,
+      "scene_id": "VAL-EP001-IMG0791",
+      "batch": 80,
+      "timestamp": "26:20–26:22",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "The walkway shadow-line — ONE colossal single-mass RAMPART scratches WEST from the CRAG to the horizon; HIS crimson + HER charcoal apart on the track; the pickman at the wall base whose chisel failed — spark-flash at impact annotated; DRG-VAL-002 grounded far-left crag; sea blunt slate far-right; smoke strictly WEST; sky UNBROKEN pewter",
+      "md5": "ac02ef9e02c725728bb3e49ac755e44f",
+      "size_bytes": 1948638,
+      "drive_file_id": "1uNc59j8FJoK0xln1Cy5AFb0Et1cmRQrx",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED"
+    },
+    {
+      "image_number": 792,
+      "scene_id": "VAL-EP001-IMG0792",
+      "batch": 80,
+      "timestamp": "26:22–26:24",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro — horizonless rain-pearl field of fused black basalt; ONE fresh ragged pale scratch riding long-axis; NO seam, no mark, no text; the storm has already failed",
+      "md5": "b925051760c1cfb547c4b9cff4b5db6b",
+      "size_bytes": 1884068,
+      "drive_file_id": "1b9rSLlJ2H0-jqbu6pJf5MGrDtfke8Bs1",
+      "verdict": "APPROVED_FIRST_PASS"
+    },
+    {
+      "image_number": 793,
+      "scene_id": "VAL-EP001-IMG0793",
+      "batch": 80,
+      "timestamp": "26:24–26:26",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "HER face three-quarter-left eye-line ON the wall; rain-glass finger intact; plum-violet; FLAG: earring BRIGHT COPPER-RED fire-opal — kept, not waived",
+      "md5": "7736d3ca7e71710aa7bd6348af9c8355",
+      "size_bytes": 1500440,
+      "drive_file_id": "1XezxoVaqjdfzELKhurya5RRGRHaKvxgV",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED"
+    },
+    {
+      "image_number": 794,
+      "scene_id": "VAL-EP001-IMG0794",
+      "batch": 80,
+      "timestamp": "26:26–26:28",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up — HER bare palm flat on unbroken matte-black face; the palm that finds nothing; NO seam anywhere",
+      "md5": "df1b10728570236317f9bb0dc2c05249",
+      "size_bytes": 1436914,
+      "drive_file_id": "1tNQuNJulonYT9eR2G68gm6Y1kIr2z0Ft",
+      "verdict": "APPROVED_FIRST_PASS"
+    },
+    {
+      "image_number": 796,
+      "scene_id": "VAL-EP001-IMG0796",
+      "batch": 80,
+      "timestamp": "26:30–26:32",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "Two colossal single-mass ORGANIC fused spires crest the basalt ridge — sibling not twin; ragged open RIMS; wolves; sea held slate",
+      "md5": "bd7e7994587f264d7659f2f4d7b21b8b",
+      "size_bytes": 1411602,
+      "drive_file_id": "13fPjoHoAJFwtyVTCnnIgR980adfUWifa",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED"
+    },
+    {
+      "image_number": 797,
+      "scene_id": "VAL-EP001-IMG0797",
+      "batch": 80,
+      "timestamp": "26:32–26:34",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "OTS behind HER — sentinel spire center; THE FOURTEEN FLAMES render as CLEFT smoke threads WEST (count ambiguity kept); two dots ahead faces LIFTED; sea blunt flat slate",
+      "md5": "19ed792c71f554b7cbf776756d69b506",
+      "size_bytes": 1398035,
+      "drive_file_id": "1mBmzxjq4HUreUYhVA56ffTVSne3xlbUi",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED"
+    },
+    {
+      "image_number": 798,
+      "scene_id": "VAL-EP001-IMG0798",
+      "batch": 80,
+      "timestamp": "26:34–26:36",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "Kept REGULAR ashlar + rope scaffold frame-left (halted mortal pile; not Valyrian class); fused spires organic single-mass; dots LIFTED; sea dark slate",
+      "md5": "8bb2eed421df8113f824700a1d851d11",
+      "size_bytes": 1421066,
+      "drive_file_id": "1NFf534J9IHx401vz8JFC-zaVmrZiw0jL",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED"
+    },
+    {
+      "image_number": 799,
+      "scene_id": "VAL-EP001-IMG0799",
+      "batch": 80,
+      "timestamp": "26:36–26:38",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "God-view — one spear-spire far-left pierces smoke-ceiling; five-spire cluster center; His crimson / Her charcoal dots lower-left; birds; sea ONE LONG BLUNT slate band",
+      "md5": "af685293be524a46f09f09bb99dac409",
+      "size_bytes": 1252227,
+      "drive_file_id": "16UGIm_3UhvmWgwOY2Z5CGbA9_8Au1dKF",
+      "verdict": "APPROVED_FIRST_PASS"
+    },
+    {
+      "image_number": 800,
+      "scene_id": "VAL-EP001-IMG0800",
+      "batch": 80,
+      "timestamp": "26:38–26:40",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "HER face three-quarter-RIGHT, chin dipped, gaze UP past frame-top; FLAGS: earring FLAT RED-ORANGE CARNELIAN (bright-class kept); collar shard-fan glints kept",
+      "md5": "4140353ce2b821cc5e8a5121887b8dbb",
+      "size_bytes": 1283335,
+      "drive_file_id": "1GYR4uLuZarVAodJ6cpNM5GZ6QJQLiNW3",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED"
+    }
+  ],
+  "batch_080_status": "OPEN_PARTIAL — turn-1 PARTIAL 9/10; 0795 REJECTED (REGULAR COURSED ashlar + merlon-class cap-stones; wall must be SINGLE-MASS freeform) — turn-2 pending (image-generation limit of 10 reached this turn)",
+  "batch_080_drive_verified_count": 9,
+  "batch_080_note": "Batch 080 turn-1 PARTIAL 2026-11-13: NINE approved·annotated; 0795 rejected (coursed ashlar + merlon-class top caps — wall class relapse) — turn-2 re-render pending. NO FIRE EXCEPTION DECLARED THIS BATCH — doctrine unopened; nothing self-emits anywhere; stone takes grazing light only. SPARK CLASS (0791): chisel-strike particle-flash rendered WHITE-BRIGHT — annotation kept; NOT flame, NOT emission; stone not glowing. BRIGHT-EARRING CLASS (0793, 0800): fire-opal drops render saturated copper-red/carnelian — kept annotation, NOT rainbow/flash; doctrine standing — fire-opals should be FLAT DARK-CORAL in close-ups. FOURTEEN FLAMES rendered as 12–14 cleft smoke threads WEST (count ambiguous, kept). Regular ashlar + scaffholding HELD ONLY at the halted mortal pile (0798) — never in the Valyrian work. Dawn CINDERS air free of warm horizon anywhere. Closed-batch glow doctrine ruling STILL OUTSTANDING. md5s all MATCHED for the nine."
 }
