@@ -1,0 +1,96 @@
+# BATCH 079 — IMAGE PROMPTS
+**Episode 001 · Before the Dragons: The Rise of Old Valyria**
+**Timecode 26:00–26:20 · Ch. VI · frames VAL-EP001-IMG0781 – IMG0790**
+**⚠ NARROW BATCH-LOCAL FIRE EXCEPTION — ratification pending (mirrors Batch 067's suspension pattern):** THE DRAGONFLAME WORKING IS THIS BATCH'S SUBJECT. **Fire as FLAME is LEGAL HERE** (the open flame events showing the rock being liquefied). **The stone NEVER self-emits:** freshly-softened rock takes the dragonflame's light at its facet-angles only — it does NOT glow with internal/incandescent heat; post-cast it reads MATTE BLACK ("the rock cooled into seamless… fused black stone"). **Lava canals remain DEAD. No warm horizon anywhere — flame is local, the sky stays iron-pewter. Smoke strictly WEST. IT IS NOT A RULING ON THE GLOW DOCTRINE — episode-wide ruling still PENDING director decision.**
+**Shared opener on every prompt (do not drop it):**
+
+> `LANDSCAPE ORIENTATION, WIDE HORIZONTAL 16:9 FRAME, cinematic 65mm photoreal film still or Octane-render photoreal CGI, physically based materials, muted Kodak Vision3 500T palette, fine organic grain.`
+
+**ART DIRECTION 2026-11-12 IN FORCE (see `09_ART_DIRECTION_UPDATE_2026-11-12.md`):** FACES LIFTED — everyone, incl. both leads; Nasmith = element/mood guide for ORIGINAL compositions only; "3D realistic cinematic" = photoreal CGI / Octane-look. NO roofs/courses/arches/keeps/merlons ANYWHERE — script says “ramparts” but they render as ORGANIC SINGLE-MASS FUSED SLIVER-WALLS only — free-standing legs only, no regularity, no merlons. NO CANDLES; NO TEXT anywhere; NO SNOW; crowds LIFTED where resolvable; DRG-VAL-002 = FOUR LIMBS exactly, TWIN METALLIC-BRONZE HORNS + 3-ridge brow only, copper-dark eyes, dark-iron + ox-hide harness, NO saddle, TAKES light, NEVER makes it EXCEPT the FLAME EVENT ITSELF (fire is the one thing he makes); smoke strictly WEST; the sea is ONE blunt SLATE-GREY chalk seam EAST; nothing glows except the FLAME EVENTS.
+
+**Status: OPEN — turn-1 verdicts pending (2026-11-13).** Authorized by director reply ("go on") after Batch 078 close-out. Batch 078 closed 774/1,050 · 73.71%. This batch is the PYROMANCY REVOLUTION proper — Ch. VI pivots from theory to the spectacle.
+
+**Script anchor (26:00–26:20):** `[26:00–26:30 — portion] Combining concentrated dragonflame with the secret arts of pyromancy, Valyrian sorcerers heated quarried stone until it softened and flowed like molten wax. Guided by spells and shaped while incandescent, the rock cooled into seamless, monolithic ramparts of fused black stone—harder than granite, impervious to chisel or storm, and showing neither mortar joint nor mason's seam anywhere upon its gleaming dark surface.`
+
+**What register this is.** THE KILN-EVENT — the making of the first fused facets. The episode's fire doctrine tilts on this batch; the SHEET DECLARES ITS OWN NARROW EXCEPTION AND FLAGS THE RULING AS PENDING. The volcano still does not erupt. The fire EVENT is small, contained, directed, deliberate — a weapon-grade blowtorch, not a furnace blast. The aftermath frames are MATTE, COOL, SEAMLESS.
+
+**DRG-VAL-002 kit:** ~28–33 years · 65 ft · 95 ft wingspan · strictly 4 limbs | burnished volcanic bronze / hammered-copper dorsal scale #8C522B illustrative | TWIN METALLIC-BRONZE HORNS + three-ridged brow crest | dark-iron and ox-hide ride-harness, NO saddle | TAKES light; NEVER makes it except via the FLAME EVENT this batch | wings semi-braced against recoil (NOT flight — the first flight still awaits the director's ruling) | grounded or crouched on the crag at every appearance.
+
+**CHAR-VAL-003 Stage C kit:** translucent pale alabaster skin; plum-violet eyes (#3D195B); pure platinum-white coiled braids interwoven red-gold wire + obsidian pins; smoky charcoal silk + blood-crimson pleated linen, bronze-brocade wide sleeves; fingertips faintly soot-crimson DRY film (never raw); shard collar volcanic glass in red gold FRONT; uncut fire-opal earrings; wax tallies BLANK. **CHAR-VAL-002 Stage C kit:** silver-gold long braids w/ bronze clasps; volcanic-crimson pleats; spun-gold abstract embroidery (NEVER script); dark bronze/black-iron scale; obsidian-and-red-gold torque LOW FRONT; amethyst eyes (#6D32A8). HIS presence this batch: silhouette or frame-far figure ONLY (scene-breakdown refs are CHAR-VAL-003).
+
+**Carried discipline:** no sun; no warm horizon; smoke WEST; sea ONE chalk seam SLATE; no SNOW; no candle; no text; smoke ALWAYS WEST; freestanding legs only; NO roofs/courses/arches/keep-class/merlons EVER; floor-class watch; flat tarnished sheens only — never spark/glitter; HIS crimson vs HER charcoal pinned in multi-figure frames.
+
+---
+
+## VAL-EP001-IMG0781 — LAM · 28mm — 26:00–26:02
+**Turn-1 verdict:** PENDING.
+**Narration:** “Combining concentrated dragonflame with”
+**Beat:** Low-angle monumental architectural / geological framing — the kiln opens
+**Brief:** LAM 28mm from the crust looking UP — THE FIRE-WORKING RIM: at frame-upper-right, DRG-VAL-002 crouched ON CRAG-ROCK firing DOWN — his jaws open, a CONE OF CONCENTRATED DRAGONFLAME sheds from him onto the quarried stone boulder nested below; wings SEMI-SPREAD and BRACED (recoil, NOT flight); four limbs exact; TWIN horns + 3 ridges; his dark-iron harness chains slack from the effort; the flame is CONTAINED — one bright LOCAL column, an event, nothing else in frame alight; the wet boulder stage looks slick with heat at grazing angles ONLY — it does NOT self-glow; HER (CHAR-VAL-003) ONE PLANE BELOW the dragon's shoulder, rising on tiptoe with arms half-extended (conducting, never touching) — charcoal silk, platinum falls whipping WEST off her shoulders, plum-violet eyes fixed on the work — HER fingertips soot-crimson DRY, never reaching the stone; smoke strictly WEST off the crag; sea EAST a blunt SLATE band far frame-right; sky UNBROKEN iron-pewter, NO warmth; nothing glows aside from the FLAME ENVELOPE; NO text; no SNOW; no candle.
+
+## VAL-EP001-IMG0782 — OTS · 40mm — 26:02–26:04
+**Turn-1 verdict:** PENDING.
+**Narration:** “the secret arts of”
+**Beat:** Over-the-shoulder depth perspective — the worker's eye goes down
+**Brief:** OTS 40mm from just behind HER right shoulder — HER charcoal silk + platinum falls fills the bottom frame right, nape-side (face one plane beyond the frame); beyond her at mid-frame: THE QUARRIED STONE MID-FLOW — one colossal block slumped into soft black folds, its edges running like cooling pitch, matte-black with glassy obsidian ropes at the corners taking the flame's light at grazing ONLY; the DRAGON'S FIRE ENVELOPE far edge-left — one contained ball, white-yellow core, no sparks, no embers thrown wide; work-dots STOPPED at a safe radius, LIFTED faces looking WEST (one figure on knees); smoke strictly WEST off-frame-left; the sea ONE blunt SLATE band far frame-right; sky UNBROKEN iron-pewter, NO warmth; nothing self-emits; NO text; no SNOW; faces LIFTED where resolvable.
+
+## VAL-EP001-IMG0783 — WS · 28mm — 26:04–26:06
+**Turn-1 verdict:** PENDING.
+**Narration:** “pyromancy, Valyrian sorcerers heated”
+**Beat:** Deep-focus wide atmospheric composition — the sorcerers' quiet choreography
+**Brief:** WS 28mm DEEP-FOCUS atmospheric — THE FIRE-YARD BELOW THE CRAG: the pour-site recedes in clear terraces; HER mid-frame OPPOSITE DRG-VAL-002 (grounded, crouched at recoil on the rock far-left-frame) directing worked-stones with a low half-gestureed arm — the flame event between them SMALL, CONTAINED, two-point-lit overcast-plus-flame; flanking dots stopped at radius — faces up; in the far-middle ONE WORKING CREW drags a boulder with ropes and ROLLERS toward the work — the first time wheels+stone meet fire; smoke strictly WEST; sea EAST ONE blunt SLATE band; sky UNBROKEN iron-pewter; nothing self-emits; the flame is ONE event, not a horizon; NO text; no SNOW.
+
+## VAL-EP001-IMG0784 — UWA · 24mm — 26:06–26:08
+**Turn-1 verdict:** PENDING.
+**Narration:** “quarried stone until it”
+**Beat:** Ultra-wide establishing vista — the wound that becomes the city
+**Brief:** UWA 24mm god-high — THE CHOSEN QUARRY FROM ALOFT: center-frame THE FRESH FUSED FACET — one oblong wound of matte black glassy stone sunk into the ash moor, its long axis WEST-TO-EAST, a stitch in the crust — flaked skin, organic wander fissures, ZERO courses; at its WEST END the recoiling dragon tiny crouched on crag, the ONE-POINT dragonflame event a white-yellow bead at the seam's lip (contained, no spread); at the east lip ONE work-crew of dots laid-straight ropes; smoke strictly WEST fuming off BOTH the quarry and the working site; the sea ONE LONG blunt SLATE band frame-RIGHT at the horizon; sky UNBROKEN iron-pewter corner-to-corner; NEVER warm; nothing self-emits; NO text; no SNOW.
+
+## VAL-EP001-IMG0785 — MCU · 50mm — 26:08–26:10
+**Turn-1 verdict:** PENDING.
+**Narration:** “softened and flowed like”
+**Beat:** Medium close-up atmospheric focal beat — her face in the flame light
+**Brief:** MCU 50mm — HER FACE fills frame, three-quarter-left, plum-violet eyes half-lidded and turned down the long axis toward the work; platinum-white falls FLAT with red-gold wire LOW sheen (ignite-sheen NOT sparkle); skin translucent pale lit from frame-LEFT by the ONE flame event — rim only, no warm cast across the face, no orange pane on the skin; the uncut fire-opal earrings only TAKE the flame — flat-tarnished; at the FRONT obsidian-shard collar only LEAVES-light; her fingertips at the FRONT EDGE-OF-FRAME one soot-crimson DRY smear; faces LIFTED; NO SNOW; NO text; no candle; no crown.
+
+## VAL-EP001-IMG0786 — MS · 35mm — 26:10–26:12
+**Turn-1 verdict:** PENDING.
+**Narration:** “molten wax. Guided by”
+**Beat:** Dynamic medium lateral tracking angle — the cooled facet walk
+**Brief:** MS 35mm LATERAL TRACKING — HER walking left-to-right ALONG THE FRESH-COOLED FACET'S EDGE; the facet behind her QUITE DARK AND MATTE — no shine, no glow, its skin flaked in cool conchoidal curves; HER falling whip WEST off her shoulders; dots stopped in two rows watching the fused result — faces up; HIS crimson figure frame-far-right, unlit, distant, untouched by the event; smoke WEST; sea EAST ONE blunt SLATE band; sky UNBROKEN IRON-PEWTER corner-to-corner, edge-to-edge; nothing self-emits; NO text; no SNOW; no candle; faces LIFTED where resolvable.
+
+## VAL-EP001-IMG0787 — MCU · 65mm — 26:12–26:14
+**Turn-1 verdict:** PENDING.
+**Narration:** “spells and shaped while”
+**Beat:** Compressed telephoto dramatic subject framing — the demo quadril, unmarked
+**Brief:** MCU 65mm compressed — HER face past it, ONE freshly-FUSED DEMO BLOCK hand-held in shallow focus raised to HER eye line — the quadril the workers test-strike in the quarry — matte black conchoidal sheen at the corners ONLY (grazing light), NO glyph, NO maker's mark, NO seam, no letters; her hand DRY, fingertips soot-crimson; her face past it, eyes half-lidded plum-violet measuring the JOINT RING of the fusing; wire in the falls FLAT; shard collar flat; uncut fire-opal earrings FLAT-tarnished; NO warm rim; NO text; NO crown; faces LIFTED; nothing self-emits.
+
+## VAL-EP001-IMG0788 — MS · 50mm — 26:14–26:16
+**Turn-1 verdict:** PENDING.
+**Narration:** “incandescent, the rock cooled into”
+**Beat:** Medium cinematic subject focus — the sober ascent of quality
+**Brief:** MS 50mm — WIDE SILHOUETTE TREK: HER + HIS figures far apart in the same frame, both backs ROUGHLY to camera, HERSL SHAPE ahead frame-left and HIS CRIMSON back frame-right, SEPARATE, walking the newly-fused RAMPART along its very ridge-line — the ridge organic, single-mass fused, no regularity, no merlons, no seams — the narration's "cooled into" already performing in the matte at their feet; smoke WEST; sea EAST ONE blunt SLATE band far-frame-right; sky UNBROKEN IRON-PEWTER; NO text; NO SNOW; faces safe at this distance; nothing glows; no candle; no crown.
+
+## VAL-EP001-IMG0789 — WS · 35mm — 26:16–26:18
+**Turn-1 verdict:** PENDING.
+**Narration:** “seamless, monolithic ramparts of”
+**Beat:** Wide environmental storytelling tableau — the ramparts that are not keeps
+**Brief:** WS 35mm environmental storytelling — THE FIRST FUSED SLIVER-WALL AS A FREESTANDING MONOLITH RIDGE: at frame-center ONE SINGLE-MASS FUSED-BLACK SLIVER-WALL rises organic-freeform into the pewter — top torn and ragged, NOT regularly finished, NO merlons, NO courses, NO ashlar; at its flank a weakened older crag leaning INTO it as if the native stone had agreed to; at the base work-kit abandoned (ONE oak roller, BLANK canvas-slate, ONE rope coil) and stump dots mixing around it; HER + HIS tiny separate figures at the wall's far base; smoke strictly WEST; the sea ONE blunt SLATE band frame-right; sky UNBROKEN IRON-PEWTER; nothing self-emits; NO text; no SNOW; no crown; faces LIFTED where resolvable.
+
+## VAL-EP001-IMG0790 — UWA · 24mm — 26:18–26:20
+**Turn-1 verdict:** PENDING.
+**Narration:** “fused black stone—harder than”
+**Beat:** High-elevation geographic / scale reveal — the whisper becomes the mountain's mind
+**Brief:** UWA 24mm god-high — THE WORK FROM ALOFT: the peninsula far below, near-featureless except for the FRESH SEAMLESS FUSED FORMATION now rising along a dry ridge — freeform, organic, torn, single-mass — its full length curling WEST-TO-EAST (smoke strictly WEST out of the seam's cool pores), the ariface ONE LONG BLACK RIDGE IN THE PEWTER LIGHT, read as a POURED VEIN THROUGH THE CRUST at continental scale; the sea ONE LONG blunt SLATE seam frame-right; clouds pure pewter; NO sun, NO warmth; HER + HIS tiniest dots at the ridge's far west end; DRG-VAL-002 GROUNDED at the far east end (last plan: he stays grounded); NO text; NO SNOW; no crown; nothing self-emits.
+
+---
+
+## BEAT ACROSS THE BATCH
+`0781` LAM — the kiln opens above the rim → `0782` OTS — the stone mid-flow → `0783` WS — the quiet choreography → `0784` UWA — the wound that becomes the city → `0785` MCU — her face in flame light → `0786` MS — the cooled-facet walk → `0787` MCU — the unmarked quadril → `0788` MS — the two shapes on the fresh ridge → `0789` WS — the sliver-wall monolith → `0790` UWA — continental scale seam.
+
+## DIRECTOR NOTES FOR THIS BATCH
+- NARROW FIRE EXCEPTION DECLARED ABOVE — the only self-luminous thing in any frame is the FLAME ENVELOPE of the working stone. Everything else — stone, rock, skin, glass, sky — takes light and never makes it.
+- DRG-VAL-002: STILL GROUNDED, still TAKES light except FLAME; Wings SEATED/COLLECTED or semi-braced against recoil on the crag — NEVER flight, that is a separate ruling.
+- WINGS SEMI-SPREAD RECOIL POSE is a physical recoil braced state — not flight, not hover, not takeoff. NOT absurd prayer pose either.
+- No sun anywhere; no warm horizon anywhere; smoke strictly WEST always; sea ONE blunt SLATE band; crowds LIFTED FACES; NO text; NO SNOW; NO candle; NO roofs/courses/arches/keeps/merlons ANYWHERE — “ramparts” render as freeform single-mass organic SLIVER-WALLS; nothing self-emits.
+- This batch FLOATS the glow-doctrine question: lava-canal-molten + sun-warmth STATUS still open globally; this batch excepts flame events ONLY for its own frames and no others.
+- The VOLCANO STAYS DORMANT. What wakes in this batch is imagination, not magma.
