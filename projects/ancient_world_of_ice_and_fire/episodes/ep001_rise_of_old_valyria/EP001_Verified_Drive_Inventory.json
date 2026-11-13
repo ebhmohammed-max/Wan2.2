@@ -5,8 +5,8 @@
   "target_images": 1050,
   "batch_size": 10,
   "total_batches": 105,
-  "completed_batches": 79,
-  "next_batch": 80,
+  "completed_batches": 80,
+  "next_batch": 81,
   "next_image_number": 801,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
@@ -1152,7 +1152,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": 80,
+  "in_progress_batch": null,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1904,7 +1904,7 @@
     }
   ],
   "last_updated": "2026-11-13",
-  "verified_progress_percent": 75.52,
+  "verified_progress_percent": 75.62,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3600,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 793,
+  "verified_image_count": 794,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -13675,9 +13675,21 @@
       "size_bytes": 1283335,
       "drive_file_id": "1GYR4uLuZarVAodJ6cpNM5GZ6QJQLiNW3",
       "verdict": "APPROVED_FIRST_PASS · ANNOTATED"
+    },
+    {
+      "image_number": 795,
+      "scene_id": "VAL-EP001-IMG0795",
+      "batch": 80,
+      "timestamp": "26:28–26:30",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "turn-2 after v1 rejection (coursed ashlar + merlon-class top caps) — v2: ONE MASSIVE ORGANIC CLIFF-MASS wall, wandering freeform contour/no rhythmic rows, torn organic crown; HIS crimson + HER charcoal on the track lower-center; smoke bank STRICTLY WEST; sea STRICTLY blunt flat slate band far-right",
+      "md5": "86533d167cecb1b9e26f108294095ffc",
+      "size_bytes": 1585178,
+      "drive_file_id": "1GoBw-7tB-f1QgYUU4p48BKcHMOt76S8R",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (wall rendered as REGULAR COURSED ashlar + merlon-class caps); v2 holds"
     }
   ],
-  "batch_080_status": "OPEN_PARTIAL — turn-1 PARTIAL 9/10; 0795 REJECTED (REGULAR COURSED ashlar + merlon-class cap-stones; wall must be SINGLE-MASS freeform) — turn-2 pending (image-generation limit of 10 reached this turn)",
-  "batch_080_drive_verified_count": 9,
-  "batch_080_note": "Batch 080 turn-1 PARTIAL 2026-11-13: NINE approved·annotated; 0795 rejected (coursed ashlar + merlon-class top caps — wall class relapse) — turn-2 re-render pending. NO FIRE EXCEPTION DECLARED THIS BATCH — doctrine unopened; nothing self-emits anywhere; stone takes grazing light only. SPARK CLASS (0791): chisel-strike particle-flash rendered WHITE-BRIGHT — annotation kept; NOT flame, NOT emission; stone not glowing. BRIGHT-EARRING CLASS (0793, 0800): fire-opal drops render saturated copper-red/carnelian — kept annotation, NOT rainbow/flash; doctrine standing — fire-opals should be FLAT DARK-CORAL in close-ups. FOURTEEN FLAMES rendered as 12–14 cleft smoke threads WEST (count ambiguous, kept). Regular ashlar + scaffholding HELD ONLY at the halted mortal pile (0798) — never in the Valyrian work. Dawn CINDERS air free of warm horizon anywhere. Closed-batch glow doctrine ruling STILL OUTSTANDING. md5s all MATCHED for the nine."
+  "batch_080_status": "COMPLETE_10_OF_10 — turn-1 nine approved·annotated; ONE rejected & deleted (0795 REGULAR COURSED ashlar + merlon-class cap-stones — wall-class doctrine violation); turn-2 cleared; md5s all MATCHED; NOT zero-rejection; NO flame exception declared — doctrine unopened",
+  "batch_080_drive_verified_count": 10,
+  "batch_080_note": "Batch 080 CLOSED 10/10 2026-11-13 — NOT zero-rejection. NO FIRE EXCEPTION DECLARED; nothing self-emits anywhere — stone takes grazing light only. CLASSES: fire-opal bright-class (0793, 0800 — copper-red/carnelian kept annotation; doctrine prefers FLAT DARK-CORAL in close-ups); SPARK FLASH (0791 chisel-impact white-hot — NOT flame, stone doesn't emit); sharp-shadow wall-class (0795-v1 coursed ashlar + merlon caps — REJECT; v2 cliff-mass holds); REGULAR masonry ONLY as halted mortal ruin (0798); THE FOURTEEN FLAMES render as cleft smoke threads WEST (0797). Sea ONE blunt slate band EAST held at far-right everywhere; smoke STRICTLY WEST; no horizon warmth ANYWHERE. Closed at 794/1,050 · 75.62%. GLOW DOCTRINE RULING STILL OPEN."
 }

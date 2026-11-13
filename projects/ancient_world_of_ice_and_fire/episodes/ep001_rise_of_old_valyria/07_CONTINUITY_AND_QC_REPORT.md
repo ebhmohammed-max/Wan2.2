@@ -1216,3 +1216,15 @@ After ten frames: **764/1,050 (72.76%)**. Next: **Batch 078 — Ch. VI · 25:40�
 - **md5 (nine MATCHED, re-read from Drive):** 0791 `ac02ef9e` · 0792 `b9250517` · 0793 `7736d3ca` · 0794 `df1b1072` · 0796 `bd7e7994` · 0797 `19ed792c` · 0798 `8bb2eed4` · 0799 `af685293` · 0800 `4140353c`. Folder **EP001_BATCH_080_IMG0791-0800** (`1V1jaLhTRsilR0fTTfGfV7DP0giRvQip5`).
 - **Glow doctrine ruling STILL OPEN — no batch-local exception granted in 080; the permanence of nothing-self-emits was held.**
 - **Counts at partial: 793/1,050 · 75.52%.** Next: turn-2 0795 — then batch 081 (26:40–27:00) NOT AUTHORIZED until director says so.
+
+
+---
+
+## BATCH 080 — CLOSED 10/10 (2026-11-13) — THE WALL FAILS THE CHISEL — NOT zero-rejection — doctrine unopened
+
+- **REGIME: NO fire exception declared in Batch 080.** Every frame takes cold overcast/grazing light only; stone takes and swallows light, never emits; sky pewter edge-to-edge; smoke STRICTLY WEST; the sea ONE blunt SLATE band EAST at the horizon-line; the VOLCANO stayed DORMANT. The glow doctrine remains UNRULED episode-wide.
+- **Turn-1 rejection (cleared turn-2):** `0795`-v1 — wall rendered as REGULAR COURSED MASONRY with a REGULAR ROW OF TOP CAP-STONES (merlon-class). Fused Valyrian work = SINGLE-MASS poured organic ridge, wandering fracture lace, TORN freeform crown, NO courses/rows/caps EVER. v2 holds one cliff-mass wall, no rows; cleared.
+- **Classes this batch:** SPARK FLASH (0791) — kept annotation; BRIGHT FIRE-OPAL (0793, 0800) — kept annotation; MERLON/COURSED WALL (0795) — REJECTED, v2 cleared; REGULAR masonry only as halted mortal ruin (0798); FOURTEEN FLAMES = cleft WEST smoke threads (0797) — count ambiguity kept.
+- **md5s (ALL MATCHED, re-read from Drive):** 0791 `ac02ef9e` · 0792 `b9250517` · 0793 `7736d3ca` · 0794 `df1b1072` · 0795 `86533d16` · 0796 `bd7e7994` · 0797 `19ed792c` · 0798 `8bb2eed4` · 0799 `af685293` · 0800 `4140353c`. Folder **EP001_BATCH_080_IMG0791-0800** (`1V1jaLhTRsilR0fTTfGfV7DP0giRvQip5`).
+- **DRG-VAL-002 fourth appearance:** 0791 only — grounded on crag, wings semi-braced, NOT flying. Flight ruling STILL OPEN.
+- **Counts at close: 794/1,050 · 75.62%. Next: Batch 081 (26:40–27:00) — NOT AUTHORIZED until director says so. GLOW DOCTRINE ruling STILL OVERDUE.**
