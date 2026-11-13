@@ -1228,3 +1228,14 @@ After ten frames: **764/1,050 (72.76%)**. Next: **Batch 078 — Ch. VI · 25:40�
 - **md5s (ALL MATCHED, re-read from Drive):** 0791 `ac02ef9e` · 0792 `b9250517` · 0793 `7736d3ca` · 0794 `df1b1072` · 0795 `86533d16` · 0796 `bd7e7994` · 0797 `19ed792c` · 0798 `8bb2eed4` · 0799 `af685293` · 0800 `4140353c`. Folder **EP001_BATCH_080_IMG0791-0800** (`1V1jaLhTRsilR0fTTfGfV7DP0giRvQip5`).
 - **DRG-VAL-002 fourth appearance:** 0791 only — grounded on crag, wings semi-braced, NOT flying. Flight ruling STILL OPEN.
 - **Counts at close: 794/1,050 · 75.62%. Next: Batch 081 (26:40–27:00) — NOT AUTHORIZED until director says so. GLOW DOCTRINE ruling STILL OVERDUE.**
+
+
+---
+
+## BATCH 081 — OPEN, turn-1 PARTIAL 6/10 (2026-11-13) — THE SKY-COURTS — DIRECTOR CANAL RULING IN FORCE
+
+- **DIRECTOR RULING (2026-11-13, recorded verbatim in sheet): LIVE MAGMA CANAL BEDS ARE LEGAL FOR THE CH. VI SET-PIECES ONLY** — canal beds / heated-roost interiors render emissive amber-crimson; the adjoining fused stone STILL TAKES light and NEVER makes it; reflected amber-crimson ONLY on adjacent surfaces/faces as canal-reflection; NO open flame events; aimed anywhere except Ch. VI only after an explicit global ruling (§5 remains OPEN).
+- **Turn-1 verdicts:** SIX approved·annotated (`0802, 0803, 0806, 0807, 0808` uploaded + md5 VERIFIED; `0809` local-approved, DRIVE UPLOAD PENDING — Merge upload rate-limit). FOUR REJECTED & DELETED: `0801` ORNATE GOTHIC ARCH-GALLERIES fused spire (built-architectural class); `0804` crown smoke drifting EAST + FILIGREE-TRELLIS crowns; `0805` FOURTEEN-FLAMES vent plumes drifting EAST instead of strictly WEST; `0810` SKELETAL LATTICE-SHAFT SPIRES (two twin oval voids per shaft) — NOT single-mass; rejections counter-prompt in sheet; turn-2 pending next turn.
+- **Catalogued classes:** GOTH-CATHEDRAL FUSED (0801) — fused work NEVER renders arch/portal/gallery openings; EAST-BOUND SMOKE (0804, 0805) — CRIME class when the smoke leaves WEST and bends EAST anywhere in Ch. VI — no exception travels by air; TRELLIS SPIRES (0804) — crowns are TORN ragged lobes, never mesh/lattice/filigree; SKELETON SPIRES (0810) — fused spires are SOLID SINGLE-MASS, voids only at the torn crown lips; BOUNCE BUDGET (0806 one inner curve / 0807 one inner curve / 0808 jaw-and-cheek strip / 0809 one deep pocket) — canonical under the director ruling.
+- **md5 (five MATCHED, re-read from Drive):** 0802 `ed05c53c` · 0803 `4536321a` · 0806 `7a27b7a7` · 0807 `94cf8ce4` · 0808 `234ddc3d`. `0809` local md5 `eaac1666` — Drive id PENDING (upload rate-limit). Folder **EP001_BATCH_081_IMG0801-0810** (`1ZOKw63vSaqQJrqb0dqhoGYspqujOS7cI`).
+- **Counts at partial: 799/1,050 · 76.10%.** Next: upload 0809 + turn-2 re-renders (0801/0804/0805/0810) — then Batch 082 (27:00–27:20 — “Below those rising towers…”) — magma-canal sentence begins — NOT AUTHORIZED UNTIL DIRECTOR SAYS SO.
