@@ -1904,7 +1904,7 @@
     }
   ],
   "last_updated": "2026-11-13",
-  "verified_progress_percent": 76.1,
+  "verified_progress_percent": 76.48,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3600,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 799,
+  "verified_image_count": 803,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -13694,6 +13694,18 @@
   "batch_080_note": "Batch 080 CLOSED 10/10 2026-11-13 — NOT zero-rejection. NO FIRE EXCEPTION DECLARED; nothing self-emits anywhere — stone takes grazing light only. CLASSES: fire-opal bright-class (0793, 0800 — copper-red/carnelian kept annotation; doctrine prefers FLAT DARK-CORAL in close-ups); SPARK FLASH (0791 chisel-impact white-hot — NOT flame, stone doesn't emit); sharp-shadow wall-class (0795-v1 coursed ashlar + merlon caps — REJECT; v2 cliff-mass holds); REGULAR masonry ONLY as halted mortal ruin (0798); THE FOURTEEN FLAMES render as cleft smoke threads WEST (0797). Sea ONE blunt slate band EAST held at far-right everywhere; smoke STRICTLY WEST; no horizon warmth ANYWHERE. Closed at 794/1,050 · 75.62%. GLOW DOCTRINE RULING STILL OPEN.",
   "batch_081_verified_images": [
     {
+      "image_number": 801,
+      "scene_id": "VAL-EP001-IMG0801",
+      "batch": 81,
+      "timestamp": "26:40–26:42",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "turn-2 after v1 GOTH-gallery rejection — v2: mason mid-set-down with ashlar; ONE opaque twisted fused spire frame-right, wandering lace, rain-glint on WEST flank ONLY (takes light); HIS crimson scree-speck far; faces LIFTED",
+      "md5": "84bd1d8be35090c73f08f62289bf24b5",
+      "size_bytes": 1522362,
+      "drive_file_id": "1Xa_rvq0e2-PdNhTHh8cSgVLoRXHF75uk",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (Goth-cathedral arch-gallery fused class)"
+    },
+    {
       "image_number": 802,
       "scene_id": "VAL-EP001-IMG0802",
       "batch": 81,
@@ -13711,11 +13723,35 @@
       "batch": 81,
       "timestamp": "26:44–26:46",
       "shot_type": "MS · 50mm",
-      "visual_beat": "HER conducting The Tower — the spire single-mass twisted mass, NO courses; HIS crimson distant; sea blunt slate; smoke WEST",
+      "visual_beat": "HER conducting The Tower — single-mass twisted spire, no courses; HIS crimson distant; sea blunt slate; smoke WEST",
       "md5": "4536321aae22062e13e89bfbc29daa20",
       "size_bytes": 1426262,
       "drive_file_id": "1WbJSZ0HdEFpFiNPfEubSR7T00S02d8_G",
       "verdict": "APPROVED_FIRST_PASS"
+    },
+    {
+      "image_number": 804,
+      "scene_id": "VAL-EP001-IMG0804",
+      "batch": 81,
+      "timestamp": "26:46–26:48",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "turn-2 after v1 EAST-crown-smoke + filigree-crown rejection — v2: chord of fused spires, TORN LOBED crowns, NO lattice/mesh; wide WEST-bound plumes from the tallest crowns; HIS crimson + HER charcoal lower-left; wolves",
+      "md5": "994f06897f02b4feb1899d9196b322af",
+      "size_bytes": 1264338,
+      "drive_file_id": "1KoQG4dZjKmGxxCW_D6eFrRvg97NNWS5F",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (east crown smoke + trellis crowns)"
+    },
+    {
+      "image_number": 805,
+      "scene_id": "VAL-EP001-IMG0805",
+      "batch": 81,
+      "timestamp": "26:48–26:50",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-2 after v1 EAST-plume rejection — v2: god-view cluster, cloud-deck fork; THE FOURTEEN FLAMES ≈14 vent plumes all bending STRICTLY WEST; His+Her ridge-track dots; bird; sea blunt slate",
+      "md5": "f4f10164eff33f5f3f86b22dc8ebdd73",
+      "size_bytes": 1565680,
+      "drive_file_id": "1-eriN5Z83H5pqnKsYqSsJs0H_IYlth_X",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (east-drifting Fourteen-Flames vent plumes)"
     },
     {
       "image_number": 806,
@@ -13723,7 +13759,7 @@
       "batch": 81,
       "timestamp": "26:50–26:52",
       "shot_type": "LAM · 24mm",
-      "visual_beat": "LAM inside the throat — TORN ORGANIC RIM vs coin of pewter sky; ONE small amber bounce on inner curve (director ruling 2026-11-13, reflected); smoke WEST; sea through throat slate band",
+      "visual_beat": "LAM inside the throat — TORN ORGANIC RIM vs pewter coin; ONE small amber bounce on inner curve (director ruling 2026-11-13); smoke WEST; sea through throat slate band",
       "md5": "7a27b7a7623640127e92997649e9adb1",
       "size_bytes": 1724708,
       "drive_file_id": "1lXocioUH9eACsARToV9H4MzdfRWhJLQq",
@@ -13735,7 +13771,7 @@
       "batch": 81,
       "timestamp": "26:52–26:54",
       "shot_type": "DET · 85mm",
-      "visual_beat": "Macro lip — culms under grazing pewter; ONE local amber-crimson BOUNCE along a single inner curve (director ruling, reflected); NO regular teeth; NO text",
+      "visual_beat": "Macro lip — culms under grazing pewter; ONE local amber BOUNCE along one inner curve (director ruling); NO regular teeth; NO text",
       "md5": "94cf8ce49a9984e77d726bfb18b97690",
       "size_bytes": 1535260,
       "drive_file_id": "1zXcqH_FE-LrHenX04cpDyBALP786noZI",
@@ -13747,14 +13783,12 @@
       "batch": 81,
       "timestamp": "26:54–26:56",
       "shot_type": "CU · 85mm",
-      "visual_beat": "CU — chin UP plum-violet gaze; amber bounce caps jaw/cheek strip ONLY; earring FLAT dark-coral; fingertip intact alabaster; faces LIFTED",
+      "visual_beat": "CU — chin UP plum-violet gaze; amber bounce caps jaw/cheek strip ONLY (director ruling); earring FLAT dark-coral; fingertip intact alabaster; faces LIFTED",
       "md5": "234ddc3dc1ac7257a4b572e3139e7ef7",
       "size_bytes": 1453883,
       "drive_file_id": "1jdJ40chlNYtoxsnly0FYk-pyeQJlyK0c",
       "verdict": "APPROVED_FIRST_PASS · ANNOTATED"
-    }
-  ],
-  "batch_081_pending_local": [
+    },
     {
       "image_number": 809,
       "scene_id": "VAL-EP001-IMG0809",
@@ -13764,10 +13798,22 @@
       "visual_beat": "EXTREME close — throat with coals under silt; single ledgered bounce; rim granite-coarse no hand-holds, NO text",
       "md5": "eaac1666c38039887d776f4971aedc0c",
       "size_bytes": 1754903,
-      "verdict": "APPROVED_FIRST_PASS · ANNOTATED — DRIVE UPLOAD PENDING (Merge upload rate-limit)"
+      "drive_file_id": "1FTFGHLusXZNBEqh5AA391_gDvlQIB3i8",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED"
     }
   ],
-  "batch_081_status": "OPEN_PARTIAL — turn-1: SIX approved·annotated (five uploaded+md5-VERIFIED; 0809 local-approval pending Drive upload) — FOUR REJECTIONS (0801 arch-gallery/cathedral fused class; 0804 east-bound crown smoke + filigree-trellis crowns; 0805 east-bound vent plumes; 0810 skeletal lattice-shaft fused spires). Turn-2 re-renders pending. DIRECTOR RULING 2026-11-13: live magma canal beds emissive amber-crimson for Ch. VI set-pieces; adjoining fused stone takes, never emits.",
-  "batch_081_drive_verified_count": 5,
+  "batch_081_pending_local": [
+    {
+      "image_number": 810,
+      "scene_id": "VAL-EP001-IMG0810",
+      "batch": 81,
+      "timestamp": "26:58–27:00",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Turn-2 re-render still EAST-drift smoke upper-left — REJECTED; skyline otherwise doctrine-clean (single-mass solid shafts, torn crown lips only); turn-3 counter-prompt: ZERO smoke at frame-top and in the RIGHT half; one thin column strictly hugging LEFT EDGE",
+      "verdict": "REJECTED — TURN-3 PENDING"
+    }
+  ],
+  "batch_081_status": "OPEN_PARTIAL — turn-2 PARTIAL 9/10 (three cleared turn-2; five first-pass; 0809 uploaded+md5 VERIFIED this turn) — ONLY 0810 outstanding (turn-2 REJECTED: east-drift smoke upper-left, second relapse). DIRECTOR RULING in force: live magma canal beds emissive amber-crimson for Ch. VI set-pieces; stone takes, never makes.",
+  "batch_081_drive_verified_count": 9,
   "batch_081_note": "Batch 081 turn-1 PARTIAL 2026-11-13 — under the DIRECTOR RULING: live magma canal beds render Emissive Amber-Crimson for Ch. VI set-pieces; adjoining fused stone takes, never makes; no open flame; no throat wash; bounce budgeted per frame (0806 ONE inner curve; 0807 ONE inner curve; 0808 jaw/cheek strip only; 0809 single deep pocket). CLASSES: 0801-v1 GOTHIC CATHEDRAL ARCH-GALLERIES — REJECTED; 0804-v1 EAST-BOUND CROWN SMOKE + TRELLIS CROWNS — REJECTED; 0805-v1 EAST-BOUND FOURTEEN-FLAMES VENT PLUMES — REJECTED (all fourteen must bend frame-LEFT WEST); 0810-v1 SKELETAL LATTICE SHAFT SPIRES (two oval voids per shaft, legs) — REJECTED: fused spires MUST be solid SINGLE-MASS, voids only at torn crown lips. 0802/0803/0806/0807/0808 uploaded + md5 VERIFIED; 0809 local-approved pending Drive upload. Counted at partial: 799/1,050 · 76.10%. Headline: the glow-doctrine now has a narrow CAPITAL-I Permitted zone (Ch. VI set-pieces), not an episode-wide license."
 }
