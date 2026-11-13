@@ -5,9 +5,9 @@
  "target_images": 1050,
  "batch_size": 10,
  "total_batches": 105,
- "completed_batches": 73,
- "next_batch": 74,
- "next_image_number": 731,
+ "completed_batches": 74,
+ "next_batch": 75,
+ "next_image_number": 741,
  "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
  "drive_folders": {
   "master_root_folder": {
@@ -1152,7 +1152,7 @@
    "narration_slice": "song that brought back the day."
   }
  ],
- "in_progress_batch": 74,
+ "in_progress_batch": null,
  "batch_007_verified_images": [
   {
    "image_number": 61,
@@ -1904,7 +1904,7 @@
   }
  ],
  "last_updated": "2026-11-13",
- "verified_progress_percent": 68.95,
+ "verified_progress_percent": 69.9,
  "batch_012_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3600,7 @@
    "upload_checksum_verified": true
   }
  ],
- "verified_image_count": 724,
+ "verified_image_count": 734,
  "batch_021_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0201",
@@ -9940,7 +9940,7 @@
  "the_scream_rule": "The scream is physical cost, not magic. Show flush, taut tendons, sweat, a worn and crusted mouthpiece, dry residue - then a still body on a terrace and one whole horn standing among ruins a civilisation later. No aura, no glow, no shockwave, no sound effect, nothing alight, in any frame.",
  "the_body_rule": "No face and no injury in batch 053. Strain is tendons, flush and sweat; damage is dryness, salt deposit and worn metal; the cost is posture. Negations carried in every prompt: no blood, no wound, no injury, no bruise, no burn. This is also why the batch cleared moderation on the first pass: describe what the body is doing, not what has been done to it.",
  "batch_052_three_faults_lesson": "0514 was masonry, 0519 was the sky, 0512 was a dropped call. All three fixed on the first re-render because the fault was in the negation list, not the idea. The masonry negation list is now standard wording on any frame containing a stone wall - 0528 pass 1 proved it is still needed in the middle distance, not just in the foreground.",
- "verified_percent": 68.95,
+ "verified_percent": 69.9,
  "open_corrections": [
   "VAL-EP001-IMG0160"
  ],
@@ -12773,9 +12773,162 @@
   }
  ],
  "batch_073_note": "Ch. V 24:00\u201324:20 \u2014 Dominance of the Forty. LOC-VAL-004; CHAR-VAL-002 + CHAR-VAL-003 Stage C. His crimson rim + her charcoal rim at one height (0721); the crimson-bronze OTS semicircle (0722); the stacked strata (0723); the commons at base (0724); one Aemon-aged dragonlord over the pasture (0725); the council ring track, BLANK tally (0726); HER withheld palm over an inert shard \u2014 CANDLES STRUCK by director ruling 2026-11-13, v3 Drive id 1ITDue_8k4g0kF-KxlHmZ9jkJF1AkYLj_ (0727); THE MOUNTS no cone in frame (0728 v3); the eclipse measured, all cones one WEST wind (0729 v2); the colonnade without spans (0730). NO flame; nothing glows; smoke WEST; sea EAST; no crown; no blood anywhere; no candles.",
- "batch_074_status": "PARTIAL_7_OF_10_APPROVED \u2014 0731/0732/0733/0734/0735/0736/0739 Drive-verified (0733 took 2 revisions; 0734/0735/0736/0739 annotated); OWED: 0737 v3 (lintel ring/spans breach folded in), 0738 v3 (roofed mini-city/grid breach), 0740 v2 (concrete pillars + blue sky; archon subject held); batch OPEN",
+ "batch_074_status": "COMPLETE_10_OF_10 \u2014 only 0732 first-pass green; ALL other frames cleared on revision (0733/0737/0738 needed THREE passes each); all md5s re-read from Drive and MATCHED; NOT zero-rejection",
  "batch_074_drive_folder_id": "1A005goo-QtCEEfvCxtCbfQLVaegvZhoE",
  "batch_074_drive_folder_name": "EP001_BATCH_074_IMG0731-0740",
  "batch_074_drive_url": "https://drive.google.com/drive/folders/1A005goo-QtCEEfvCxtCbfQLVaegvZhoE",
- "batch_074_drive_verified_count": 7
+ "batch_074_drive_verified_count": 10,
+ "batch_074_verified_images": [
+  {
+   "image_number": 731,
+   "scene_id": "VAL-EP001-IMG0731",
+   "batch": 74,
+   "timestamp": "24:20\u201324:22",
+   "shot_type": "LAM \u00b7 24mm",
+   "visual_beat": "LAM INTO THE COLONADE-OPEN-EYE COURT \u2014 ranked single-mass phallic pour legs rising past the frame top, flat slab caps; HIS crimson + HER charcoal at ONE height on the far rim; ONE blank charcoal wax tally disc low-center; chalk sea EAST ankle-sliver; smoke WEST frame-left only",
+   "md5": "308a9bd339c63902583ae500ed21cc14",
+   "size_bytes": 1629880,
+   "drive_file_id": "1TiEE0vDumNiDYh6eKauCzEIs52CSPx3T",
+   "drive_url": "https://drive.google.com/file/d/1TiEE0vDumNiDYh6eKauCzEIs52CSPx3T/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_AFTER_REVISION",
+   "qc_note": "v1 single smoke drift frame-right toward the sea \u2014 rejected; v2 keeps smoke ONLY deep frame-left WEST over the WEST mountains; organic FLAKED-VERTICAL pour legs always; flat BLANK tally DISC"
+  },
+  {
+   "image_number": 732,
+   "scene_id": "VAL-EP001-IMG0732",
+   "batch": 74,
+   "timestamp": "24:22\u201324:24",
+   "shot_type": "DET \u00b7 85mm",
+   "visual_beat": "DET macro THE MARRIAGE-PACT CARRIER \u2014 a thick folded BLANK vellum packet resting on raw dark basalt, secured by TWO BLACK WAX SEALS: LEFT an abstract THREE-PEAKED VOLCANO, RIGHT an abstract WING-CLAW; zero text anywhere; charcoal silk + ONE black obsidian pin as scale",
+   "md5": "627823a5e5979d8355a40dceab108baa",
+   "size_bytes": 1424941,
+   "drive_file_id": "19ZRNhdF1KiRCny7D9C29pkoB6UNRErbM",
+   "drive_url": "https://drive.google.com/file/d/19ZRNhdF1KiRCny7D9C29pkoB6UNRErbM/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_FIRST_PASS",
+   "qc_note": "ONLY FIRST-PASS GREEN OF THE BATCH; the pact object that carries primacy"
+  },
+  {
+   "image_number": 733,
+   "scene_id": "VAL-EP001-IMG0733",
+   "batch": 74,
+   "timestamp": "24:24\u201324:26",
+   "shot_type": "CU \u00b7 85mm",
+   "visual_beat": "THE TREATY CU \u2014 HER lowered plum eyes left third versus HIS level amethyst eyes right third; the tiny FOLDED BLANK vellum packet with TWIN BLACK WAX SEALS between them at table center; NO candles; NO columns/caps/arches; HIS near-platinum PALE SILVER-GOLD restored",
+   "md5": "47e6d9797ecc3efa0f3d43aed8a1efb9",
+   "size_bytes": 1548684,
+   "drive_file_id": "1bRmQcjeABtQNswmWtVF4o-2Og5DUOUC4",
+   "drive_url": "https://drive.google.com/file/d/1bRmQcjeABtQNswmWtVF4o-2Og5DUOUC4/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_AFTER_REVISION",
+   "qc_note": "v2 REJECTED: classical column/cap/ring loggia + wheat-gold HIS hair + background smoke dragging WEST\u2192EAST; v3 (this file) HELD BOTH"
+  },
+  {
+   "image_number": 734,
+   "scene_id": "VAL-EP001-IMG0734",
+   "batch": 74,
+   "timestamp": "24:26\u201324:28",
+   "shot_type": "DET \u00b7 100mm",
+   "visual_beat": "DET 100mm THE ARCANE SECRET AS OBJECT \u2014 HER soot-crimson stained fingertips (DRY MATTE film verified 2x \u2014 NO pooling/drips) holding THE INERT OBSIDIAN SHARD flat an inch off BLANK black vellum; HIS blank ra-red-gold signet black oval BLANK at frame-left",
+   "md5": "c9c50f697f84a53d5fc2ac649c42e4f3",
+   "size_bytes": 1241387,
+   "drive_file_id": "10plN34ihixbajgyzY0D7xiHh9t2et9wD",
+   "drive_url": "https://drive.google.com/file/d/10plN34ihixbajgyzY0D7xiHh9t2et9wD/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_AFTER_REVISION",
+   "qc_note": "v1 REJECTED: an abstract ARC DRAWN ON the black vellum + classical column in background; v2 vellum returns 100% BLANK; fingertip film kept, ANNOTATED (ribbed-knit sleeve)"
+  },
+  {
+   "image_number": 735,
+   "scene_id": "VAL-EP001-IMG0735",
+   "batch": 74,
+   "timestamp": "24:28\u201324:30",
+   "shot_type": "WS \u00b7 40mm",
+   "visual_beat": "THE POWER DISPLAY MEASURED \u2014 a SEVEN-strong line of unlit dragon skulls behind a review line of seven crimson-cape peers facing EAST over the sea; chalk sea at their front; commons on switchback road below; ZERO warm tint corner-to-corner",
+   "md5": "5e96d3014d58388961373f11698afd03",
+   "size_bytes": 1441308,
+   "drive_file_id": "1d7wwj_AsGjP4_L7dXiZ4xT6XtQ6RJZiH",
+   "drive_url": "https://drive.google.com/file/d/1d7wwj_AsGjP4_L7dXiZ4xT6XtQ6RJZiH/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_AFTER_REVISION",
+   "qc_note": "v1 REJECTED: faint PEACH-WARM wisp top-right over the horizon (0660-class) \u2014 fixed; ONE pixel-scale warm allotment-fire flicker at 2x center-coast \u2014 0685-class, flagged"
+  },
+  {
+   "image_number": 736,
+   "scene_id": "VAL-EP001-IMG0736",
+   "batch": 74,
+   "timestamp": "24:30\u201324:32",
+   "shot_type": "LAM \u00b7 28mm",
+   "visual_beat": "THE EMPTY COURT BEFORE THE CRISIS \u2014 ranked rows of single-mass flaked-pour legs soared against iron-pewter sky; HIS ONE silhouette, long SILVER-GOLD warrior braids falling past mid-back, facing the BARE FLATSTONE; slit doorways at grade; floor = cooled-flow pavement with wandering fracture fissures",
+   "md5": "c5c868d68723b4377abf496bce12da22",
+   "size_bytes": 1715034,
+   "drive_file_id": "1N_uPfi49FHTKYxug_-UJFxAN8IKBfZGH",
+   "drive_url": "https://drive.google.com/file/d/1N_uPfi49FHTKYxug_-UJFxAN8IKBfZGH/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_AFTER_REVISION",
+   "qc_note": "v1 REJECTED: machine-perfect cylinder legs with regular ring lines + regular ashlar left wall + regular flagstone grid floor + short brown curls + warm horizon trace \u2014 v2 fixes all five"
+  },
+  {
+   "image_number": 737,
+   "scene_id": "VAL-EP001-IMG0737",
+   "batch": 74,
+   "timestamp": "24:32\u201324:34",
+   "shot_type": "OTS \u00b7 40mm",
+   "visual_beat": "THE CRISIS ASSEMBLY, HIS POV \u2014 HIS braid falls past his shoulder (frame-left); hundreds DISTINCT LIFTED faces packed into the open bench arcs, intermixed commons and forty at ONE height; the ash-haired bareheaded grey-wool ELDER rises at the focus with ONE open palm raised, mid-word; EVERY LEG ENDS OPEN TO SKY \u2014 ZERO spans anywhere",
+   "md5": "13c725e3771df2fc38ff5ae64fb29bce",
+   "size_bytes": 1848700,
+   "drive_file_id": "1A2izdR1P9gaGkRDVug96zDlVrLpe2J_T",
+   "drive_url": "https://drive.google.com/file/d/1A2izdR1P9gaGkRDVug96zDlVrLpe2J_T/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_AFTER_REVISION",
+   "qc_note": "v1 REJECTED: classical cap/ring portico + HIS short brown hair + capitals/rings; v2 REJECTED: A CONTINUOUS LINTEL RING spanning all the legs around the horizon (henge frame \u2014 banned this batch by definition); v3 HELD (tapered hex pylon class kept \u2014 columnar-jointed basalt)"
+  },
+  {
+   "image_number": 738,
+   "scene_id": "VAL-EP001-IMG0738",
+   "batch": 74,
+   "timestamp": "24:34\u201324:36",
+   "shot_type": "WS \u00b7 28mm",
+   "visual_beat": "THE WHOLE PENINSULA IN THE ROUND \u2014 a BARE STRATA MASS crowded with thousands of minuscule freeholders on bare rock shelves in concentric arcs (NO buildings, NO roofs, NO rectangles), joined to the mainland by ONE NARROW CAUSEWAY packed with approaching crowd; chalk sea EAST one blunt neutral horizon; smokes one thin grey seam each, all WEST",
+   "md5": "39150cae03b8c6e8313c07eb3c297698",
+   "size_bytes": 1746795,
+   "drive_file_id": "1HFSXq0fAhMiTqucLB5mAzYiptzd09lbM",
+   "drive_url": "https://drive.google.com/file/d/1HFSXq0fAhMiTqucLB5mAzYiptzd09lbM/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_AFTER_REVISION",
+   "qc_note": "v1 REJECTED: citadel islanded in mist; v2 REJECTED: summit a ROO-COVERED MINI-CITY of sheds + pasture as regular perspective field grid; v3 HOLDS the doctrine completely; neutral horizon"
+  },
+  {
+   "image_number": 739,
+   "scene_id": "VAL-EP001-IMG0739",
+   "batch": 74,
+   "timestamp": "24:36\u201324:38",
+   "shot_type": "UWA \u00b7 24mm",
+   "visual_beat": "THE ELECTION MOMENT \u2014 the axis at eye level; thousands RAISED BARE WORKING HANDS; HIS pleat frame-left, HER charcoal sleeve + soot-crimson dry fingertips frame-right; the way ENDS AT THE OPEN SKY AND DISTANT SEA; EXACTLY at the vanishing point stands a BLANK round FLATSTONE 4\u20136m across, humanly empty; freestanding legs recede each side",
+   "md5": "d155e3f78e494613023fd1370d8accd7",
+   "size_bytes": 1526286,
+   "drive_file_id": "1tU_7wTTjevQ5CuWUR8UA9YMqPg-gd_nY",
+   "drive_url": "https://drive.google.com/file/d/1tU_7wTTjevQ5CuWUR8UA9YMqPg-gd_nY/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_AFTER_REVISION",
+   "qc_note": "v1 REJECTED: axis terminated into a DARK SLOT (portal); regular flagstone grid floor; feathered-gold shoulder drift; FLATSTONE absent; v2 HOLDS (floor kept-annotated as ancient cracked weathered slab class)"
+  },
+  {
+   "image_number": 740,
+   "scene_id": "VAL-EP001-IMG0740",
+   "batch": 74,
+   "timestamp": "24:38\u201324:40",
+   "shot_type": "MCU \u00b7 50mm",
+   "visual_beat": "THE ELECTED ARCHON \u2014 an ordinary mixed-blood freeholder elder (ash-grey wind-cured hair, kind unlined face, half-closed calm eyes) within reach of NOTHING: plain undyed grey wool, NO scale/clasp/chain/buckle; RIGHT hand at his bare chest palm-flat EMPTY; LEFT hand hanging open bearing ONE PLAIN COPPER WEDDING BAND only; iron-pewter sky; a long flatstone shadow bottom-right",
+   "md5": "ed963b92c429889dc7d892281a750c0b",
+   "size_bytes": 1610554,
+   "drive_file_id": "1jfNwppGxOUJdH-5T_MxSmqhjYif-QiB-",
+   "drive_url": "https://drive.google.com/file/d/1jfNwppGxOUJdH-5T_MxSmqhjYif-QiB-/view",
+   "md5_verified_on_drive": true,
+   "qc_status": "APPROVED_AFTER_REVISION",
+   "qc_note": "v1 REJECTED: machine-cut concrete pillars with DECORATIVE RING BANDS + BLUE sky/turquoise day + regular flagstone weave; v2 fixes sky, architecture and floor-class drift kept narrower"
+  }
+ ],
+ "batch_074_note": "Ch. V 24:20\u201324:40 \u2014 the mechanics of the Forty and the birth of the limited-term ARCHON office; LOC-VAL-004; CHAR-VAL-002 + CHAR-VAL-003 Stage C (early frames), CHAR-VAL-002 only (late frames). THE MARRIAGE-PACT carrier object (0732); the treaty CU between HIS level amethyst and HER lowered plum eyes (0733); the arcane secret as one inert object (0734); the power display measured (0735); THE EMPTY COURT AND ONE TINY SILHOUETTE (0736); HIS OTS into the crisis assembly, the grey-wool elder mid-word (0737); THE WHOLE PENINSULA IN THE ROUND \u2014 a bare strata mass pulling thousands to vote (0738); the election moment \u2014 thousands of raised bare working hands, the FLATSTONE humanly empty at the axis vanishing point (0739); THE ELECTED ARCHON with nothing on him but one copper wedding band (0740). NO flame; nothing glows; smoke WEST; sea EAST; no crown; no writing; no candles (2026-11-13 ruling); no blood."
 }
