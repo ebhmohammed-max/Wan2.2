@@ -12615,7 +12615,7 @@
   }
  ],
  "batch_072_note": "Ch. V 23:40\u201324:00 \u2014 LOC-VAL-004 ONLY; NO CHAR refs (custom bigger than one man; HIS kit deliberately absent). THE LAW OF THE COMMONS: empty center (0712), ground-level orator (0713), the great gathering (0714 re-rendered), the peninsula in many hands (0715), unified westward smoke (0716), raised working hands (0717), the old shipwright listening (0718), the flatstone worn by footfall (0719), the forty seeded WEST (0720). Faces LIFTED throughout; no crown/throne/regalia anywhere; NO flame; smoke WEST; sea EAST; no snow.",
- "batch_073_status": "COMPLETE_10_OF_10 \u2014 seven first-pass approvals + 0727/0729 cleared turn 2 + 0728 cleared on THREE passes; all md5s Drive-verified; NOT zero-rejection",
+ "batch_073_status": "COMPLETE_10_OF_10 \u2014 seven first-pass approvals + 0727 (struck-and-verified v3), 0729 cleared turn 2 + 0728 cleared on THREE passes; all md5s Drive-verified incl. 0727 v3 replacement; NOT zero-rejection; director candles flag RESOLVED",
  "batch_073_drive_folder_id": "1-xxJ8m1K8_f2bx3LQu76on1rPTD3S1PQ",
  "batch_073_drive_folder_name": "EP001_BATCH_073_IMG0721-0730",
  "batch_073_drive_url": "https://drive.google.com/drive/folders/1-xxJ8m1K8_f2bx3LQu76on1rPTD3S1PQ",
@@ -12718,13 +12718,13 @@
    "timestamp": "24:12\u201324:14",
    "shot_type": "MCU \u00b7 65mm",
    "visual_beat": "THE WITHHELD PALM \u2014 her open hand over an INERT black obsidian shard on the bare basalt table; DRIED soot-crimson fingertip haze ONLY (no blood); HIS profile one plane behind; free unlit dragon far rim",
-   "md5": "9c301c59db6a4d56db70393db4daa754",
-   "size_bytes": 1554940,
-   "drive_file_id": "1dKTzUiu7ry5NRebnRdweEpW_XfHEWZf1",
-   "drive_url": "https://drive.google.com/file/d/1dKTzUiu7ry5NRebnRdweEpW_XfHEWZf1/view",
+   "md5": "9b393d12a70cf5c0401f0f43b3a7770b",
+   "size_bytes": 1546209,
+   "drive_file_id": "1ITDue_8k4g0kF-KxlHmZ9jkJF1AkYLj_",
+   "drive_url": "https://drive.google.com/file/d/1ITDue_8k4g0kF-KxlHmZ9jkJF1AkYLj_/view",
    "md5_verified_on_drive": true,
-   "qc_status": "APPROVED_AFTER_REVISION",
-   "qc_note": "v1 REJECTED: WET BLOOD + CANDLES + GOTHIC KEEP w/ MERLONS + dragon sculpture; v2 holds doctrine \u2014 BUT FOUR UNLIT WHITE CANDLES returned (no flame/glow) against the counter-prompt; kept, FLAGGED FOR DIRECTOR (rite-adjacency)"
+   "qc_status": "APPROVED_AFTER_REVISION_STRIKE",
+   "qc_note": "Director ruling 2026-11-13 \u2014 STRIKE candles. v1 REJECTED (WET BLOOD + candles + gothic keep). v2 REJECTED-class (doctrine held, but FOUR UNLIT CANDLES returned against the counter-prompt) \u2014 kept pending ruling; now STRUCK: v3 in Drive (md5 9b393d12a70cf5c0401f0f43b3a7770b, Drive re-read matched). v2 file 1dKTzUiu7ry5NRebnRdweEpW_XfHEWZf1 trashed. v3: ZERO candles anywhere; dry soot-crimson film hand (matte, no drips); inert shard; HIS profile; free unlit dragon relocated to an offshore sea-stack (annotated); seven BLANK dark tallies; nothing glows; no blood; sea EAST"
   },
   {
    "image_number": 728,
@@ -12772,5 +12772,5 @@
    "qc_note": "HEAVILY ANNOTATED: slit interiors read as unlit deep-oxblood membrane \u2014 pigment, no bloom, thresholds dark; kept, flagged to glow-doctrine meeting"
   }
  ],
- "batch_073_note": "Ch. V 24:00\u201324:20 \u2014 Dominance of the Forty. LOC-VAL-004; CHAR-VAL-002 + CHAR-VAL-003 Stage C. His crimson rim + her charcoal rim at one height (0721); the crimson-bronze OTS semicircle (0722); the stacked strata (0723); the commons at base (0724); one Aemon-aged dragonlord over the pasture (0725); the council ring track, BLANK tally (0726); HER withheld palm over an inert black obsidian shard (0727 \u2014 candles flagged for director); THE MOUNTS on a clean organic pour rim, no cone in frame (0728 v3); the eclipse measured, all cones one WEST wind (0729 v2); the colonnade without spans over a bare central flatstone (0730). NO flame; nothing glows; smoke WEST; sea EAST; no crown; no blood anywhere."
+ "batch_073_note": "Ch. V 24:00\u201324:20 \u2014 Dominance of the Forty. LOC-VAL-004; CHAR-VAL-002 + CHAR-VAL-003 Stage C. His crimson rim + her charcoal rim at one height (0721); the crimson-bronze OTS semicircle (0722); the stacked strata (0723); the commons at base (0724); one Aemon-aged dragonlord over the pasture (0725); the council ring track, BLANK tally (0726); HER withheld palm over an inert shard \u2014 CANDLES STRUCK by director ruling 2026-11-13, v3 Drive id 1ITDue_8k4g0kF-KxlHmZ9jkJF1AkYLj_ (0727); THE MOUNTS no cone in frame (0728 v3); the eclipse measured, all cones one WEST wind (0729 v2); the colonnade without spans (0730). NO flame; nothing glows; smoke WEST; sea EAST; no crown; no blood anywhere; no candles."
 }
