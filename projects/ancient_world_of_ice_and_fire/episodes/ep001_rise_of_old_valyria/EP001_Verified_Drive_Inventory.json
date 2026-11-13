@@ -5,9 +5,9 @@
   "target_images": 1050,
   "batch_size": 10,
   "total_batches": 105,
-  "completed_batches": 76,
-  "next_batch": 77,
-  "next_image_number": 761,
+  "completed_batches": 77,
+  "next_batch": 78,
+  "next_image_number": 771,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1152,7 +1152,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": 77,
+  "in_progress_batch": null,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1904,7 +1904,7 @@
     }
   ],
   "last_updated": "2026-11-13",
-  "verified_progress_percent": 72.29,
+  "verified_progress_percent": 72.76,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3600,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 759,
+  "verified_image_count": 764,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -13247,11 +13247,72 @@
       "size_bytes": 1844499,
       "drive_file_id": "1IRfl8sNCRhfOGVl71jHb_7zwtKj_DL5P",
       "verdict": "APPROVED_FIRST_PASS · annotated flags: pasture autumn-gold dried moor; wax disc renders faint raised relief (abstract, not glyph)"
+    },
+    {
+      "image_number": 766,
+      "scene_id": "VAL-EP001-IMG0766",
+      "batch": 77,
+      "timestamp": "25:30–25:32",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "turn-2: iron-pewter ALTO-ceiling edge-to-edge cool-neutral; DRG-VAL-002 EMERGES above the newest CAPITAL-SCALE POUR — three-ridged brow crest, swept twin metallic-bronze horns, copper-dark half-lidded eyes, TAKES light; wings folded low, four limbs exactly; dark-iron + ox-hide ride-harness, NO saddle; one mundane dust breath WEST; HER charcoal silhouette climbs one plane ahead on the mound-face, falls whipping WEST — her profile LIFTED, looking UP",
+      "md5": "a2f7238af506c8d27ab837106322adaa",
+      "size_bytes": 1466983,
+      "drive_file_id": "1MS_hysTx7sJg1AQovOlSniHu_WOBYhNm",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (SUN-GOLDEN half-sky); v2 holds cool-neutral; dragon anatomy holds"
+    },
+    {
+      "image_number": 767,
+      "scene_id": "VAL-EP001-IMG0767",
+      "batch": 77,
+      "timestamp": "25:32–25:34",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "turn-2 after v1 rejection (WHITE FROZEN ICE FIELD kilometres wide + uniform regular cones): OTS over HER shoulder — THE POUR-DAY HELD IN PAUSE — hundreds of dots idle, buckets down, every face turned WEST; the ASYMMETRIC, RAGGED flaked single-mass heap-mounds scatter every plane; the DRAGON'S WINGED SHADOW glides WEST ON THE FAR MOUNTAIN flank; the sea is ONE flat SLATE-GREY matte band far frame-right, NO ice glare; HER falls from behind",
+      "md5": "1bc339f41aabb2094de42d9ae42b332b",
+      "size_bytes": 1408135,
+      "drive_file_id": "1ldgpLUdfdSWvD5BoTAiLqTXCdHBsInde",
+      "verdict": "APPROVED_AFTER_REVISION · annotated: sea matte slate-chalky band kept; dragon wing-shadow doctrine-fine"
+    },
+    {
+      "image_number": 768,
+      "scene_id": "VAL-EP001-IMG0768",
+      "batch": 77,
+      "timestamp": "25:34–25:36",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "turn-2 after v1 rejection (cone smoke bends EAST + the wooden roller rendered as a metal canister/grease-drum with seam-hoop): THE REFUSAL MADE VISIBLE — ONE plain rough-hewn BROWN OAK ROLLER reads timber grain, no metal/paint/stencil; ONE STILL-BLACKENED UNSTRUCK CHISEL one plane behind; beyond them the RAGGED single-mass pour-field recedes; EVERY cone's smoke strictly frame-LEFT/WEST; the sea ONE flat SLATE band EAST; pasture reads autumn-gold (FLAG)",
+      "md5": "0a5d610bb39a6636d18ea7f649b7dea5",
+      "size_bytes": 1610354,
+      "drive_file_id": "1qrbr4Yq0vIOUtCeKBEhe2KCbNeh0msFc",
+      "verdict": "APPROVED_AFTER_REVISION · annotated flag: autumn-gold pasture kept"
+    },
+    {
+      "image_number": 769,
+      "scene_id": "VAL-EP001-IMG0769",
+      "batch": 77,
+      "timestamp": "25:36–25:38",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-2 after v1 rejection (WHITE GLACIER CONTINENT sea at world scale): THE REFUSAL CATALOGUED — ONE CONTINUOUS SINGLE-MASS COOLED-FLOW CRUST sprawls like a dark wound (wandering fracture lace, NO courses, NO grid); LOST YARD bottom-left: canvas-slate brick stack, TWO plain oak ROLLERS, three laid-straight chisels, one rope coil, split grey lime sack — ZERO characters anywhere; the sea reads MATTE SLATE-GREY band EAST, NO white reflect; smoke strictly frame-LEFT",
+      "md5": "e162fb40d9e44c75bd0c24aabb7fc49c",
+      "size_bytes": 1751155,
+      "drive_file_id": "1HW4npT6yGXI4i0SEKUtflO5aI-hVW9R2",
+      "verdict": "APPROVED_AFTER_REVISION · annotated: sea slate-chalk flat class restored"
+    },
+    {
+      "image_number": 770,
+      "scene_id": "VAL-EP001-IMG0770",
+      "batch": 77,
+      "timestamp": "25:38–25:40",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "turn-2 after v1 rejection (REGULAR RECTILINEAR NORMAN CASTLE skyline + tessellated paving): HER face LIFTED — platinum falls w/ red-gold wire FLAT sheen, plum-violet half-lidded eyes, uncut fire-opal earring, ash freckles at 2x; DIRECTLY BEHIND her shoulder — POUR-MOUNDS SKYLINE receding into UNBROKEN IRON-PEWTER GLOOM, NO masonry anywhere; DRG-VAL-002 GROUNDED on the new crust — four limbs exactly, wings FOLDED LOW, dark-iron harness, TAKES light; BLANK vellum + ONE dry mud brick + BLANK lime sack; her fingertips dry",
+      "md5": "1cecce6b220ab57f698d0a776a34a9a1",
+      "size_bytes": 1588639,
+      "drive_file_id": "1GbuqMqAquRPB7d9vppbsZG6okKcxWRwF",
+      "verdict": "APPROVED_AFTER_REVISION · annotated: brass braid-pin catches a faint glitter (kept-annotated)"
     }
   ],
-  "batch_077_status": "OPEN_PARTIAL_5_OF_10_5_UPLOADED_MD5_VERIFIED_5_REJECTED_DELETED_2026-11-13",
+  "batch_077_status": "COMPLETE_10_OF_10 — first pass 0761–0765 approved-annotated, FIVE rejected (0766 SUN-GOLDEN sky; 0767 WHITE ICE sea; 0768 smoke-to-sea EAST + metal-canister roller; 0769 WHITE GLACIER at world-scale; 0770 NORMAN CASTLE backdrop) — ALL FIVE cleared on turn-2 re-render; all ten md5s re-read from Drive and MATCHED; NOT zero-rejection",
   "batch_077_drive_folder_id": "1DoxfMeZl1P9az1R4BTe8foDPQyy2uaD7",
   "batch_077_drive_folder_name": "EP001_BATCH_077_IMG0761-0770",
-  "batch_077_drive_verified_count": 5,
-  "batch_077_note": "PARTIAL SYNC mid-batch 2026-11-13: 5 of 10 Drive-verified (0761–0765). FIVE rejected and deleted turn-1: 0766 (half the sky rendered SUN-GOLDEN cream — no-warm-horizon breach at capital scale; the dragon anatomy held), 0767 (the sea as WHITE ICE FIELD + uniform regular cones), 0768 (cone smoke bends EAST + the wooden roller rendered as a METAL CANISTER), 0769 (SAME WHITE GLACIER class for the sea at world-scale), 0770 (backdrop = REGULAR RECTILINEAR NORMAN CASTLE — coursed flat-topped towers — plus tessellated paving floor class). DRG-VAL-002 debut this batch: he renders as anatomy in 0766/0770 (four limbs ✓ swept twin bronze horns ✓ three-ridged brow ✓ dark-iron ride-harness, NO saddle ✓) — both frames rejected on OTHER classes. md5s re-read from Drive and MATCHED for the five uploads. Batch 077 stays OPEN; five re-renders outstanding; counts 759/1,050 (72.29%)."
+  "batch_077_drive_verified_count": 10,
+  "batch_077_note": "Batch 077 closed 2026-11-13 (TWO turns). NEW BREACH CLASS this batch: the sea rendered as WHITE GLACIER/ICE FIELD TWICE (0767-v1, 0769-v1) — fixed by counter-prompt requiring ONE MATTE SLATE-GREY flat band at world scale. Also: 0766-v1 SUN-GOLDEN half-sky (no-warm-horizon class); 0768-v1 smoke bending EAST + wooden roller rendered as a METAL CANISTER; 0770-v1 REGULAR RECTILINEAR NORMAN CASTLE skyline + tessellated paving — keep-class breach at depth. DRG-VAL-002 debut this batch: holds as anatomy (four limbs, swept horns, dark-iron harness, no saddle) across 0766/0770. md5s re-read from Drive and MATCHED for all ten. Counts at close: 764/1,050 (72.76%).",
+  "batch_077_close_note": "CLOSED 10/10 NOT zero-rejection — first pass 5/10; second pass cleared all five; md5s all MATCHED on Drive"
 }
