@@ -7,7 +7,7 @@
   "total_batches": 105,
   "completed_batches": 81,
   "next_batch": 82,
-  "next_image_number": 811,
+  "next_image_number": 812,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1152,7 +1152,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": null,
+  "in_progress_batch": 82,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1904,7 +1904,7 @@
     }
   ],
   "last_updated": "2026-11-13",
-  "verified_progress_percent": 76.57,
+  "verified_progress_percent": 77.43,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3600,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 804,
+  "verified_image_count": 813,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -13816,5 +13816,120 @@
   ],
   "batch_081_status": "COMPLETE_10_OF_10 — NOT zero-rejection. turn-1 FOUR rejected; turn-2 three cleared; 0810 turn-2 REJECTED again (east-drift smoke); turn-3 cleared. DIRECTOR RULING IN FORCE: live magma canal beds emissive amber-crimson for Ch. VI set-pieces; adjoining fused stone takes, never makes; NO open flame events; §5 episode-wide ruling still OPEN. Verified 804/1,050 · 76.57%.",
   "batch_081_drive_verified_count": 10,
-  "batch_081_note": "Batch 081 CLOSED 10/10 2026-11-13 — NOT zero-rejection. DIRECTOR RULING (Ch. VI set-pieces only): canal beds emissive amber-crimson; adjoining stone takes; NO open flame; reflect budget held per frame (0806 one inner curve; 0807 one curve flag; 0808 jaw/cheek strip; 0809 one deep pocket). Rejection classes: 0801-v1 GOTH CATHEDRAL ARCH-GALLERIES (fused never opens portals); 0804-v1 east crown smoke + filigree TRELLIS crowns; 0805-v1 east-drifting Fourteen-Flames vent plumes; 0810-v1 skeletal lattice-shaft spires (twin oval voids); 0810-v2 EAST-DRIFT smoke upper-left — SECOND relapse, cleared v3 with a hard zero-top/zero-right fence + one thread strictly WEST at the far-left edge. 0809 local-approval Drive upload confirmed post-rate-limit. GLOW DOCTRINE §5 episode-wide STILL OPEN. Closed at 804/1,050 · 76.57%."
+  "batch_081_note": "Batch 081 CLOSED 10/10 2026-11-13 — NOT zero-rejection. DIRECTOR RULING (Ch. VI set-pieces only): canal beds emissive amber-crimson; adjoining stone takes; NO open flame; reflect budget held per frame (0806 one inner curve; 0807 one curve flag; 0808 jaw/cheek strip; 0809 one deep pocket). Rejection classes: 0801-v1 GOTH CATHEDRAL ARCH-GALLERIES (fused never opens portals); 0804-v1 east crown smoke + filigree TRELLIS crowns; 0805-v1 east-drifting Fourteen-Flames vent plumes; 0810-v1 skeletal lattice-shaft spires (twin oval voids); 0810-v2 EAST-DRIFT smoke upper-left — SECOND relapse, cleared v3 with a hard zero-top/zero-right fence + one thread strictly WEST at the far-left edge. 0809 local-approval Drive upload confirmed post-rate-limit. GLOW DOCTRINE §5 episode-wide STILL OPEN. Closed at 804/1,050 · 76.57%.",
+  "batch_082_status": "PARTIAL_9_OF_10_APPROVED_UPLOADED_MD5_PENDING_0812_V3",
+  "batch_082_drive_folder_id": "1CTpF6CJzLtz0fTKAdFobGeQTj6fE1adp",
+  "batch_082_verified_count": 9,
+  "batch_082_pending_rerender": 1,
+  "batch_082_note": "Ch. VI 27:00-27:20 canal/sphinx set-piece under the 2026-11-13 director ruling (LIVE MAGMA CANAL BEDS emissive, stone TAKES never MAKES, NO open flame events; NOT a global §5 ruling, not retroactive). IMG0812 v1 REJECT (erupting volcano, full-top smoke) and v2 REJECT (HER hair reads DARK vs platinum-white spec; horizon-spanning white plume across frame-top) -> v3 QUEUED. IMG0814/0817/0818 passed turn-1; all other seven required turn-2 revisions. Flags carried: 0814 underlights the crucible read; 0815 mid-face up-light strong, gown reads brocade; 0816 paving regular-grid; 0813 pier-voids skirt the regular-opening line; 0820 inland tidal pools (possible water-doctrine flag); sea far-right in 0820 reads lighter than slate spec. Open rulings unchanged: §5 global glow doctrine; DRG-VAL-002 flight; merge of PR #3 (director call).",
+  "batch_082_verified_images": [
+    {
+      "image_number": 811,
+      "scene_id": "VAL-EP001-IMG0811",
+      "batch": 82,
+      "timestamp": "27:00–27:02",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "turn-2 — LAM from the city floor: colossal single-mass fused column-bases; one organic viaduct slab spanning scree-to-scree (NO arches); emissive canal line legal (bed emits); FROM-beneath amber bounce on flanks; HIS crimson dot one shadow takes legal canal catch; thin smoke thread extreme-LEFT ONLY",
+      "md5": "2fe66ec073635e93bc8260f17a304b4d",
+      "size_bytes": 1595416,
+      "drive_file_id": "1s2F6-ZCo53Hhe71TpJVV3tFo99N_7q1z",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (rounded arches under viaduct + east-drift smoke + stray red point); v2 holds"
+    },
+    {
+      "image_number": 813,
+      "scene_id": "VAL-EP001-IMG0813",
+      "batch": 82,
+      "timestamp": "27:04–27:06",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "turn-2 — WS deep-focus canal Y-fork network from a low ridge; DARK ORGANIC fused mounds (no rectilinear grid, no lit windows); piers ORGANIC single-mass NOT rond arches; HIS crimson + HER charcoal dots lower-left apart; far-lip dots; smoke LEFT-edge only; sea blunt slate far-right",
+      "md5": "30c49f2cd06af2d6fde8a912ba1baf9b",
+      "size_bytes": 1545967,
+      "drive_file_id": "1_ExtiDf41IisBHX5neCoNbhrmP5hnNaK",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (rectilinear blocks + self-emissive window grid); v2 holds · pier-void flag"
+    },
+    {
+      "image_number": 814,
+      "scene_id": "VAL-EP001-IMG0814",
+      "batch": 82,
+      "timestamp": "27:06–27:08",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turning-1 — UWA god-view THE MAGMA LATTICE: branching emissive crucible under the dark silhouette-mass city; DORMANT volcano far-WEST; sea ONE blunt slate band far-RIGHT; dots lower-left scarp",
+      "md5": "de6e4c36d2a89947383900373b4ce141",
+      "size_bytes": 1605988,
+      "drive_file_id": "1ZpuN8vMkDQNBxgmE7xRQmd_4cdXRO27E",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED (glow-lace wider than city crucible)"
+    },
+    {
+      "image_number": 815,
+      "scene_id": "VAL-EP001-IMG0815",
+      "batch": 82,
+      "timestamp": "27:08–27:10",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "turn-2 — MCU HER three-quarter: canal FROM-BENEATH under-light on jaw/chin/cheek undersides; eyes COOL DARK VIOLET; forehead NOT washed; tearstrip on right fall; earring FLAT dark-coral single tip-catch; background matte fused cavern; emitters ONLY two out-of-focus canal lines",
+      "md5": "1416194b8092299e0617dd5fedfd4d2d",
+      "size_bytes": 1260673,
+      "drive_file_id": "16H9TN1IHiDwOchL_vt0gww3bT3QfOZVA",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (background arches + candle/lamp bokeh; warmed eyes); v2 holds"
+    },
+    {
+      "image_number": 816,
+      "scene_id": "VAL-EP001-IMG0816",
+      "batch": 82,
+      "timestamp": "27:10–27:12",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "turn-2 — MS lateral: obsidian causeway dead-straight into OPEN PEWTER void (NO arch/gate); crowd dots LIFTED faces both flanks; HIS crimson center-far + HER charcoal behind; slab-edge amber = legal under-canal reflection; spires smooth single-mass",
+      "md5": "c4d975793c0d184d6889dc47baa6a44c",
+      "size_bytes": 1480097,
+      "drive_file_id": "1Shl6kfjiWmTMPYnQheXDJebCRpfGtwR2",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (built arch at vanishing point); v2 holds · paving regular-grid flag"
+    },
+    {
+      "image_number": 817,
+      "scene_id": "VAL-EP001-IMG0817",
+      "batch": 82,
+      "timestamp": "27:12–27:14",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "turn-1 — MCU 65mm under-span from beneath; ceiling fissures emit (legal: river above); work-dots hierarchy beneath lifted faces; smoke pools WEST-left; matte darkness otherwise",
+      "md5": "c694062444f90e5fb1f7256e8c4ebaef",
+      "size_bytes": 1425418,
+      "drive_file_id": "1SYAvzKtYKFeHIBTkFgCz0Ary7QSKO1fB",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED (fissure emitters vs designed spelunks)"
+    },
+    {
+      "image_number": 818,
+      "scene_id": "VAL-EP001-IMG0818",
+      "batch": 82,
+      "timestamp": "27:14–27:16",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "turn-1 — MS 50mm: FIRST colossal crouched DRAGON-BODY single-mass basalt sphinx, serene male face silver-wire braids half-open violet eyes; second sphinx silhouette down-axis; HIS crimson/HER charcoal apart; smoke strictly WEST; sea far-right slate",
+      "md5": "2bf702d2e7fe4cede7122b5545d7a7a6",
+      "size_bytes": 1529218,
+      "drive_file_id": "13hXHYpEETc6GlXfmZlGGIQvXTt9CAQMm",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED (finished not mid-erection; background domes)"
+    },
+    {
+      "image_number": 819,
+      "scene_id": "VAL-EP001-IMG0819",
+      "batch": 82,
+      "timestamp": "27:16–27:18",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "turn-2 — WS TABLEAU alternating file of colossal crouched dragon-body sphinxes, SERENE MAN/WOMAN faces alternate down the line, half-open violet eyes; shaper dots near base frame-left; HIS crimson/HER charcoal on axis; smoke EXTREME-LEFT only; red-gold arc inlays NO script",
+      "md5": "e808d96766cabe67f5e415b215b8edf9",
+      "size_bytes": 1670791,
+      "drive_file_id": "1wSM8dI2aKFWW213ILXULU6UrNl4N285w",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (smoke across frame-top); v2 holds · plinth-trim flag"
+    },
+    {
+      "image_number": 820,
+      "scene_id": "VAL-EP001-IMG0820",
+      "batch": 82,
+      "timestamp": "27:18–27:20",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-2 — UWA high elevation THE PROCESSIONAL SPHINX AVENUE diagonal; HUMAN angular profiles alternating M/F; far gate = opposed dragon-skull masses torn void (NO arch); inland tidal pools flagged; sea far-right slate; DORMANT volcano w/ WEST plume",
+      "md5": "999b3de4d4add84350ac19dc8ab37a0b",
+      "size_bytes": 1716167,
+      "drive_file_id": "1NfSJasruSv273hT1x7CZKiUxJR_7EObG",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (Anubis heads + self-glowing arched gate + pale sea); v2 holds · inland-water flag"
+    }
+  ]
 }
