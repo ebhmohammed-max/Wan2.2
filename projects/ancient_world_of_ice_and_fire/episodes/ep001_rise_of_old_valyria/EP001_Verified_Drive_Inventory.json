@@ -1152,7 +1152,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": null,
+  "in_progress_batch": 79,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1904,7 +1904,7 @@
     }
   ],
   "last_updated": "2026-11-13",
-  "verified_progress_percent": 73.71,
+  "verified_progress_percent": 73.81,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3600,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 774,
+  "verified_image_count": 775,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -13440,5 +13440,22 @@
   "batch_078_status": "COMPLETE_10_OF_10 — turn-1 seven approved·annotated; THREE rejected & deleted (0774 ARCH/TRILITHON + slab floor; 0775 warm SUN-CREAM horizon frame-left; 0779 bloodied fingertip) — ALL THREE cleared turn-2; all ten md5s re-read from Drive and MATCHED; NOT zero-rejection",
   "batch_078_drive_verified_count": 10,
   "batch_078_note": "Batch 078 CLOSED 10/10 2026-11-13, NOT zero-rejection. THE ARCH/TRILITHON CLASS catalogued — the generator models Stonehenge whenever “cast stone prehistoric” appears in the brief; counter-prompt must lead with NO arch/lintel/trilithon. THE NO-WARM-HORIZON AT WORLD SCALE — milder here but same class as 0766-v1. THE BLOOD-ADJACENT FINGERTIP — extreme macro inflamed by default; counter-prompt MUST say HEALTHY intact skin, faint smudge ONLY. THE OTHER WORLD IS NOT RENDERED — the elsewhere-world existed only as ONE dry baked brick + prose; the volcano was DORMANT throughout (nothing vessel-hot this batch). DRG-VAL-002 second appearance batch (0780 + 0775) — grounded, TAKES light, four limbs, TWIN horns hold. md5s re-read all MATCHED. Counts at close: 774/1,050 (73.71%).",
-  "batch_078_close_note": "CLOSED 10/10 NOT zero-rejection — first pass 7/10; three cleared turn-2; md5s all MATCHED on Drive"
+  "batch_078_close_note": "CLOSED 10/10 NOT zero-rejection — first pass 7/10; three cleared turn-2; md5s all MATCHED on Drive",
+  "batch_079_verified_images": [
+    {
+      "image_number": 781,
+      "scene_id": "VAL-EP001-IMG0781",
+      "batch": 79,
+      "timestamp": "26:00–26:02",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "turn-1 LAM straight up — THE FIRE-WORKING RIM: DRG-VAL-002 crouched on crag firing DOWNWARD into the quarried block — wings semi-braced against recoil (NOT flight); four limbs, twin horns + 3 ridges; HER one plane below, conducting, falls whipping WEST; the flame CONTAINED one bright column; the wet boulder takes grazing-light only; smoke strictly WEST; sea ONE SLATE band EAST; sky iron-pewter; nothing else alight",
+      "md5": "a65de62169f9143d38b26194b074f9cc",
+      "size_bytes": 1556193,
+      "drive_file_id": "1bUIsn26h2ofdVjJZJmISsQXXVADOGdNX",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED — 0886 class kept"
+    }
+  ],
+  "batch_079_status": "OPEN_PARTIAL (07 local approved / 01 uploaded+verified at sync instant) — turn-1: SEVEN approved·annotated (0781, 0782, 0783, 0784, 0786, 0788, 0789); THREE rejected pending turn-2 (0785 fingertip-red + warm-right horizon; 0787 rainbow-opal earrings GLITTER class + red fingers + charcoal iris; 0790 fused formation renders as black puddle + grounded dragon illegible at range + bright-slate sea). Drive folder created EP001_BATCH_079_IMG0781-0790 = 12aw5NKO3EQ87hu2kjinx5ucGfqqdTTP-; only 0781 uploaded this turn (upload rate-limit); six more to upload after the 15-second cool-off.",
+  "batch_079_drive_verified_count": 1,
+  "batch_079_note": "Batch 079 OPEN — turn-1 partial; upload rate-limited before images could all land; 0700-class 0785 flag relapse; glitter class relapse on 0787; fused-formation illegibility on 0790. Sheet CLOSED line pending 0785/0787/0790 turn-2 clears + all-ten Drive md5 re-read. Counts at this partial: 775/1,050 (73.81%)."
 }
