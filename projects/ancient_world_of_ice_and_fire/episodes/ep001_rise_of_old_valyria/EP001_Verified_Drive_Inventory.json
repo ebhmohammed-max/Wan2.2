@@ -1152,7 +1152,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": null,
+  "in_progress_batch": 78,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1904,7 +1904,7 @@
     }
   ],
   "last_updated": "2026-11-13",
-  "verified_progress_percent": 72.76,
+  "verified_progress_percent": 73.43,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3600,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 764,
+  "verified_image_count": 771,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -13314,5 +13314,94 @@
   "batch_077_drive_folder_name": "EP001_BATCH_077_IMG0761-0770",
   "batch_077_drive_verified_count": 10,
   "batch_077_note": "Batch 077 closed 2026-11-13 (TWO turns). NEW BREACH CLASS this batch: the sea rendered as WHITE GLACIER/ICE FIELD TWICE (0767-v1, 0769-v1) — fixed by counter-prompt requiring ONE MATTE SLATE-GREY flat band at world scale. Also: 0766-v1 SUN-GOLDEN half-sky (no-warm-horizon class); 0768-v1 smoke bending EAST + wooden roller rendered as a METAL CANISTER; 0770-v1 REGULAR RECTILINEAR NORMAN CASTLE skyline + tessellated paving — keep-class breach at depth. DRG-VAL-002 debut this batch: holds as anatomy (four limbs, swept horns, dark-iron harness, no saddle) across 0766/0770. md5s re-read from Drive and MATCHED for all ten. Counts at close: 764/1,050 (72.76%).",
-  "batch_077_close_note": "CLOSED 10/10 NOT zero-rejection — first pass 5/10; second pass cleared all five; md5s all MATCHED on Drive"
+  "batch_077_close_note": "CLOSED 10/10 NOT zero-rejection — first pass 5/10; second pass cleared all five; md5s all MATCHED on Drive",
+  "batch_078_verified_images": [
+    {
+      "image_number": 771,
+      "scene_id": "VAL-EP001-IMG0771",
+      "batch": 78,
+      "timestamp": "25:40–25:42",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "MS lateral tracking — HER (CHAR-VAL-003) walks the founding pour-field — platinum coiled falls, charcoal silk + blood-crimson pleats — carrying ONE DRY BAKED BRICK (biscuit-brown, UNSTAMPED, BLANK) at hip height; the pour-mounds recede to a torn horizon; smoke strictly WEST; the sea band ABSENT at this horizon (land only)",
+      "md5": "0d21c81eaa54794ea645a58a4f015db3",
+      "size_bytes": 1449687,
+      "drive_file_id": "1o-h5j2mgmYxKtfa7S0xdxqGVQaKuWD6P",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED — sea band absent at this horizon (land-only horizon)"
+    },
+    {
+      "image_number": 772,
+      "scene_id": "VAL-EP001-IMG0772",
+      "batch": 78,
+      "timestamp": "25:42–25:44",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "MCU compressed — HER hands cup the ONE DRY BAKED BRICK (biscuit-brown, UNSTAMPED, BLANK); her plum-violet half-lidded eyes fixed past it; platinum falls flat; obsidian-shard collar reads SPIKY-scale kept-annotated; fire-opal earrings saturated orange-red kept-annotated; fingers read red-brown at 1x — soot DRY class, flagged",
+      "md5": "e75b0c0d93cc045cf302aa08dcb3214d",
+      "size_bytes": 1425580,
+      "drive_file_id": "132myaggPgnyST-VSDorODAqoi_1uauSq",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED — hands flag (soot-red), collar spiky-scale class, earrings saturated"
+    },
+    {
+      "image_number": 773,
+      "scene_id": "VAL-EP001-IMG0773",
+      "batch": 78,
+      "timestamp": "25:44–25:46",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "MS behind-left — HER back/profile lifted WEST down the pour-field; rag-heaped single-mass mounds everywhere, ASYMMETRIC, NO courses; work-dots LIFTED; far-left cone smoke reads pale chalk kept-annotated",
+      "md5": "a8eb21bfcf8134c4ffc0a073923c52da",
+      "size_bytes": 1592526,
+      "drive_file_id": "1KTGubbQ3aB_5WnVaRqb4Mw7Ss3ZnQICN",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED — far cone smoke pale; horizon brightness flag"
+    },
+    {
+      "image_number": 776,
+      "scene_id": "VAL-EP001-IMG0776",
+      "batch": 78,
+      "timestamp": "25:50–25:52",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "LAM straight-up — the TORN DORMANT VOLCANO'S SHOULDER fills the frame; HER upturned profile at the bottom edge, falls FLAT, gaze aimed at the stone; smoke strictly WEST at frame-left; sulfur streaks DRY-matte kept; NO eruption, nothing glows",
+      "md5": "908336bcadb61d30e1b6d87b4419d22d",
+      "size_bytes": 1590004,
+      "drive_file_id": "1VdYsK-dBu43wzKaJpsclB7m7c6qTYuLI",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED — exposure dark class; sulfur kept matte"
+    },
+    {
+      "image_number": 777,
+      "scene_id": "VAL-EP001-IMG0777",
+      "batch": 78,
+      "timestamp": "25:52–25:54",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "DET 85mm macro — BLACK BASALT fills frame: burst-blister and glassy obsidian seam top-right at grazing sheen; HER charcoal cuff enters bottom-left; fingertips soot-DRY red-brown kept-annotated; ZERO tool marks, NO text",
+      "md5": "04c77cff3f3754105fdd427af94d9e95",
+      "size_bytes": 1883286,
+      "drive_file_id": "1ELrsWJn2UiCwMaXS9R3qUjIeq_ml3h4G",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED — fingertips red-brown flag (soot class)"
+    },
+    {
+      "image_number": 778,
+      "scene_id": "VAL-EP001-IMG0778",
+      "batch": 78,
+      "timestamp": "25:54–25:56",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "CU INTIMATE — HER face three-quarter-left, plum-violet half-lidded; DIRECTLY ONE PLANE BEHIND at frame-left edge, DRG-VAL-002's COPPER-DARK EYE enters partially — saturated copper BACKLIT iris, NO light released (kept-annotated); brow crest 3-ridged; obsidian-shard collar reads DRAMATIC SHARD-FAN kept-annotated; faces LIFTED",
+      "md5": "96df00a7232d195ea453ca28531b949d",
+      "size_bytes": 1709667,
+      "drive_file_id": "1PqBms4sZTWUw0Pv_XBbBCV5hboeHeYyn",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED — dragon iris luminous-copper flag; collar shard-fan kept"
+    },
+    {
+      "image_number": 780,
+      "scene_id": "VAL-EP001-IMG0780",
+      "batch": 78,
+      "timestamp": "25:58–26:00",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "WS BRIDGE — volcano dead-ahead HUGE dormant, smoke strictly WEST; HIS CRIMSON + HER CHARCOAL two tiny figures walk toward the mountain; DRG-VAL-002 grounded frame-far-right, wings FOLDED, TAKES light; sea far-right reads PALE SLATE-GREY kept-flag; dragon spine frill annotated (not extra horns); one tiny horizon speck (dot class) annotated",
+      "md5": "cd985ac2e84c76ac0cf376a0bf815cc2",
+      "size_bytes": 1477290,
+      "drive_file_id": "1CT7wcs_RzFO8lJMG53hfTdfSTlDn_IQz",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED — sea band pale-slate flag; dragon frill annotate; horizon dot annotate"
+    }
+  ],
+  "batch_078_status": "OPEN_PARTIAL_7_OF_10 — turn-1: SEVEN approved·annotated; THREE rejected pending turn-2 re-render: 0774 (REGULAR ARCH/TRILITHON banned-span class + polygonal slab floor weave + rogue disc — CATASTROPHIC anti-pour class), 0775 (no-warm-horizon class breach: SUN-CREAM band at frame-left horizon at world scale + horn discipline), 0779 (fingertip raw/blood-class — dry-doctrine breach; flake read grey-green leather)",
+  "batch_078_drive_verified_count": 7,
+  "batch_078_note": "Batch 078 OPEN — turn-1 partial sync 2026-11-13. Seven uploaded (0771,0772,0773,0776,0777,0778,0780) md5s re-read from Drive all MATCHED. Three first-pass rejections REQUIRE turn-2: 0774 arch/trilithon class; 0775 warm-cream horizon at world-scale; 0779 fingertip red/blood class. Folder EP001_BATCH_078_IMG0771-0780 = 1odCKfOE3bZ97GVUf0SB-AzoDKUvuL1dq (parent 1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn). Counts at partial: 771/1,050 (73.43%)."
 }
