@@ -7,7 +7,7 @@
   "total_batches": 105,
   "completed_batches": 82,
   "next_batch": 83,
-  "next_image_number": 821,
+  "next_image_number": 823,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1152,7 +1152,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": null,
+  "in_progress_batch": 83,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1904,7 +1904,7 @@
     }
   ],
   "last_updated": "2026-11-13",
-  "verified_progress_percent": 77.52,
+  "verified_progress_percent": 78.1,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3600,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 814,
+  "verified_image_count": 820,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -13942,6 +13942,85 @@
       "size_bytes": 1716167,
       "drive_file_id": "1NfSJasruSv273hT1x7CZKiUxJR_7EObG",
       "verdict": "APPROVED_AFTER_REVISION · v1 rejected (Anubis heads + self-glowing arched gate + pale sea); v2 holds · inland-water flag"
+    }
+  ],
+  "batch_083_status": "PARTIAL_6_OF_10_APPROVED_UPLOADED_MD5_PENDING_V2_0823_0827_0828_0829",
+  "batch_083_drive_folder_id": "1OtvQxd0cvxYSzCDkPO15Kq7l9t_8IOY7",
+  "batch_083_verified_count": 6,
+  "batch_083_pending_rerender": 4,
+  "batch_083_note": "Ch. VI 27:20-27:40 — the sphinx sentence closes, the dragonroad sentence opens (27:30+). Under the 2026-11-13 Ch. VI canal ruling (canal beds emissive, stone takes, NO open flame, not global). DIRECTOR DIRECTIVE 2026-11-13 STANDING: houses/customs/councils/wine/gatherings/communities shown throughout remaining batches where the scene permits — implemented 0825-0826-0828(pending v2)-0830. v1 rejections: 0823 (nemes-headdress Egyptian profile + whole head vs cheek fragment), 0827 (smoke trunk vs one-thin-thread fence; sea near-white), 0828 (CAPITAL drawn as conventional WALLED MEDIEVAL TOWN — coursed walls, regular square towers, street grid — hard built-fortress class), 0829 (FREE-STANDING ARCH-FRAME TOWERS + self-emissive window grid — canal beds only emit). 0027 monolith gate reading accepted as jagged torn void. FLAG 0826: ~6 tiny ring-base ember points possible NO-CANDLES violation — director flagged. Open rulings unchanged: §5 global glow doctrine OPEN (Ch. VI exception does not generalize); DRG-VAL-002 flight/descent ruling OPEN; merge of PR #3 is director call.",
+  "batch_083_verified_images": [
+    {
+      "image_number": 821,
+      "scene_id": "VAL-EP001-IMG0821",
+      "batch": 83,
+      "timestamp": "27:20–27:22",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "turn-1 — LAM from under the sphinx chest-plate: single-mass fracture-laced belly, burial-scale frame-top; HIS crimson + HER charcoal apart on the obsidian axis below; ONE WEST smoke thread extreme-LEFT only; nothing emits",
+      "md5": "b7c115eb13e0d39d1eb01002194c579b",
+      "size_bytes": 1918738,
+      "drive_file_id": "16tiUw4nyoflG4jm1xmqmY52YFsWKOrT4",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED (thread thick at base)"
+    },
+    {
+      "image_number": 822,
+      "scene_id": "VAL-EP001-IMG0822",
+      "batch": 83,
+      "timestamp": "27:22–27:24",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "turn-1 — DET MACRO THE CARVED EYE: FLAT dead-violet tarnished-amethyst inlay, NO catchlight; leather-worn lid; red-gold trace corner FLAT; zero other features",
+      "md5": "d412f019f46f194c5667a43e2fb4d048",
+      "size_bytes": 2072921,
+      "drive_file_id": "1Ad8SGIBaZTEQ9M6lESexcemT3DRui1ra",
+      "verdict": "APPROVED_FIRST_PASS"
+    },
+    {
+      "image_number": 824,
+      "scene_id": "VAL-EP001-IMG0824",
+      "batch": 83,
+      "timestamp": "27:26–27:28",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "turn-1 — DET MACRO THE INLAY ARC: static curve of tarnished red-gold, ONE rain-water curve glint; obsidian FLAT dead-grained; THREE soft sphinx-head reflections inside the polish (real reflections only); NO lettering/emblem",
+      "md5": "d3e2896b672b60cbeca02c9858c2bd6b",
+      "size_bytes": 1460498,
+      "drive_file_id": "1W5-XhIphkdsNwE3LRvzziNJSh9YkjapU",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED (reflection faint warm blush)"
+    },
+    {
+      "image_number": 825,
+      "scene_id": "VAL-EP001-IMG0825",
+      "batch": 83,
+      "timestamp": "27:28–27:30",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "turn-1 — WS 40mm: THE FIRST PROCESSION CROSSING — twelve-to-sixteen dots crimson wool + bronze-and-iron scale, TWO plain crimson banners (NO glyph/text), clay jars + wine skins on poles; ONE central figure raises bronze cup in vow-toast; sphinx file alternating, SERENE man/woman faces; HIS crimson/HER charcoal apart; volcano far-LEFT dead-cold ONE WEST plume; sea ONE slate band far-right",
+      "md5": "ba1fd17813392530bb7e1a669f824a8f",
+      "size_bytes": 1546650,
+      "drive_file_id": "1cMsKr0kEXzHvsv2b65PTnfi0eYNEtJvQ",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED (M-alternation soft; avenue paving grid; faces borderline)"
+    },
+    {
+      "image_number": 826,
+      "scene_id": "VAL-EP001-IMG0826",
+      "batch": 83,
+      "timestamp": "27:30–27:32",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "turn-1 — LAM 28mm: THE CAPITAL HEART — free-standing fused-basalt PILLAR RINGS (single-mass legs, NO spans); the assembly ground w/ communal table + CLAY JUGS (NO fire); SECOND SMALLER RING at right w/ low table (40 houses private council); towers tear up past frame-top; smoke WEST-left only",
+      "md5": "f5a6951b3747d6a299e2972cae80fa5c",
+      "size_bytes": 1633420,
+      "drive_file_id": "18bwgjwKpwfUctPax7HdIBEcnDASC6kjG",
+      "verdict": "APPROVED_FIRST_PASS · FLAGGED (ring-base ember/lamp points — possible NO-CANDLES violation)"
+    },
+    {
+      "image_number": 830,
+      "scene_id": "VAL-EP001-IMG0830",
+      "batch": 83,
+      "timestamp": "27:38–27:40",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "turn-1 — MCU 50mm: THE WAYSTATION TABLE at the road head — two anonymous workmen share dark wine; bread broken; salt twist; old cartwright eyes down into a plain cup; NO insignia/text/crowns anywhere; background coast pale-slate; nothing emits",
+      "md5": "8a05af7a34af67c3687a6802cf3a7103",
+      "size_bytes": 1406327,
+      "drive_file_id": "1Qn2_JLMO0zOWHYMhkYaO5hg4SseaMAvb",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED (cup ceramic-not-bronze)"
     }
   ]
 }
