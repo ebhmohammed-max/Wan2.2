@@ -5,9 +5,9 @@
   "target_images": 1050,
   "batch_size": 10,
   "total_batches": 105,
-  "completed_batches": 78,
-  "next_batch": 79,
-  "next_image_number": 781,
+  "completed_batches": 79,
+  "next_batch": 80,
+  "next_image_number": 791,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1152,7 +1152,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": 79,
+  "in_progress_batch": null,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1904,7 +1904,7 @@
     }
   ],
   "last_updated": "2026-11-13",
-  "verified_progress_percent": 73.81,
+  "verified_progress_percent": 74.67,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3600,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 775,
+  "verified_image_count": 784,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -13448,14 +13448,123 @@
       "batch": 79,
       "timestamp": "26:00–26:02",
       "shot_type": "LAM · 28mm",
-      "visual_beat": "turn-1 LAM straight up — THE FIRE-WORKING RIM: DRG-VAL-002 crouched on crag firing DOWNWARD into the quarried block — wings semi-braced against recoil (NOT flight); four limbs, twin horns + 3 ridges; HER one plane below, conducting, falls whipping WEST; the flame CONTAINED one bright column; the wet boulder takes grazing-light only; smoke strictly WEST; sea ONE SLATE band EAST; sky iron-pewter; nothing else alight",
+      "visual_beat": "LAM straight up — THE FIRE-WORKING RIM: DRG-VAL-002 crouched on crag firing DOWNWARD into the quarried block — wings semi-braced RECOIL, NOT flight; four limbs; twin horns; the flame CONTAINED one local column; HER one plane below conducting, slides whipping WEST; smoke strictly WEST; sea ONE SLATE band EAST; sky iron-pewter; nothing else alight",
       "md5": "a65de62169f9143d38b26194b074f9cc",
       "size_bytes": 1556193,
       "drive_file_id": "1bUIsn26h2ofdVjJZJmISsQXXVADOGdNX",
-      "verdict": "APPROVED_FIRST_PASS · ANNOTATED — 0886 class kept"
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED"
+    },
+    {
+      "image_number": 782,
+      "scene_id": "VAL-EP001-IMG0782",
+      "batch": 79,
+      "timestamp": "26:02–26:04",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "OTS behind HER right shoulder — the QUARRIED STONE MID-FLOW: one colossal block slumped into soft black folds, glazed obsidian ropes at corners grazing light only; contained white-yellow fireball frame-left; distant work-dots LIFTED faces; one kneeling; smoke strictly WEST; sea far-right BRIGHT SLATE-GREY flag",
+      "md5": "58647cc6e511c4dc5e2f2b4b2e25bb0d",
+      "size_bytes": 1329177,
+      "drive_file_id": "1REO3SS_QwqTFWqM8BW_XlWfnqSPiQjv6",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED — sea bright-slate flag"
+    },
+    {
+      "image_number": 783,
+      "scene_id": "VAL-EP001-IMG0783",
+      "batch": 79,
+      "timestamp": "26:04–26:06",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "WS deep-focus THE FIRE-YARD BELOW THE CRAG — HER mid-frame OPPOSITE DRG-VAL-002 grounded far-left crag, slow half-gesture; the contained flame event SMALL one-point; crew dragging a NEW boulder with ropes+rollers; dots faces WEST, LIFTED; sea far-right BRIGHT WHITE-SLATE flag",
+      "md5": "0d8de7916e4cb665d0c5ec37f77b5729",
+      "size_bytes": 1469699,
+      "drive_file_id": "1_WR_19z6RbiysBaoIrWIruwguy3XV1WG",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED — sea bright-slate flag"
+    },
+    {
+      "image_number": 784,
+      "scene_id": "VAL-EP001-IMG0784",
+      "batch": 79,
+      "timestamp": "26:06–26:08",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "UWA god-high THE CHOSEN QUARRY FROM ALOFT — ONE oblong wound of matte black glassy stone long-axis E-W, the STITCH IN THE CRUST; dragon’s tiny flare bead far-WEST lip (contained); HIS + HER smallest dots; smoke strictly WEST; sea far-right BRIGHT pale-SLATE flag; facet’s far patch REGULAR rectangle-fractured — floor-class flag kept",
+      "md5": "a9777b923a0e95e424cc1aae478e188e",
+      "size_bytes": 1611124,
+      "drive_file_id": "1ExdSwZJXxNLFf3wjRzb1sMmIMocWPFRH",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED — sea bright-slate + floor-class fracture flag"
+    },
+    {
+      "image_number": 785,
+      "scene_id": "VAL-EP001-IMG0785",
+      "batch": 79,
+      "timestamp": "26:08–26:10",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "turn-2 after v1 rejection (fingertip raw/red + right ridge warm tan-brown) — v2: HER face three-quarter-left flame frame-LEFT rim-light only; fingertip INTACT-HEALTHY intact alabaster faint soot only; earrings FLAT BROWN-CORAL no flash; right ridge cold desaturated — NO warmth; nothing self-emits",
+      "md5": "d9d417d08c9f3807de06a6984cf1ce25",
+      "size_bytes": 1385852,
+      "drive_file_id": "1XqtM2FyLItPK0Gp2oBlajRflkw9WjAjh",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (bloodied fingertip + warm-tan right ridge); v2 holds"
+    },
+    {
+      "image_number": 786,
+      "scene_id": "VAL-EP001-IMG0786",
+      "batch": 79,
+      "timestamp": "26:10–26:12",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "MS lateral track — HER walking frame-edge of the fresh MATTE face; falls whipping WEST/ropey tendrils annotation; PALE ONLOOKERS on the cliff LIFTED FACES (annotated); HIS distant crimson frame-far-right unlit; sea far-right BRIGHT WHITE-SLATE flag; facet flank reads SEA-CLIFF annotation",
+      "md5": "156480528073d545cc4f064bc873ccab",
+      "size_bytes": 1394349,
+      "drive_file_id": "1djSAJ9NN7udQ0wpUhAEgy9pmGYOgMNu_",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED — sea bright-slate + crowd-class annotated"
+    },
+    {
+      "image_number": 787,
+      "scene_id": "VAL-EP001-IMG0787",
+      "batch": 79,
+      "timestamp": "26:12–26:14",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "turn-2 after v1 rejection (rainbow-opal GLITTER earrings + red fingers + charcoal iris) — v2: matte black quadril held to her eye-line — glazed corners only, BLANK; her fingers PURE SOOT-BLACK film pads — NO RED; iris TRUE PLUM-VIOLET; earrings DARK DULL-AMBER CLUSTERED DROPS — NO rainbow, NO flash; collar flat-black",
+      "md5": "7f9b54354109513b4f569e6a1a6cf19e",
+      "size_bytes": 1379555,
+      "drive_file_id": "1hv1zscrnqcPZE-mMzr-Eh3ddu96ZVG4a",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (rainbow-opal GLITTER class)"
+    },
+    {
+      "image_number": 788,
+      "scene_id": "VAL-EP001-IMG0788",
+      "batch": 79,
+      "timestamp": "26:14–26:16",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "MS 50mm — the two shapes frame-walking the ridge: HUNDER-CRIMSON scale + cloak flame right behind HER charcoal + crimson pleats; both backs to camera; ridge organic single-mass, NO courses/merlons; smoke strictly WEST; sea frame-right DARK SLATE-GREY HELD",
+      "md5": "831899279c9b88a4bafafd1266165aa1",
+      "size_bytes": 1481208,
+      "drive_file_id": "1-Ffd9q0MbKct_iTayre7OWbFcc0AnRR5",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED"
+    },
+    {
+      "image_number": 789,
+      "scene_id": "VAL-EP001-IMG0789",
+      "batch": 79,
+      "timestamp": "26:16–26:18",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "WS 35mm THE FIRST FUSED SLIVER-WALL — colossal single-mass wall torn top, NO courses/merlons; base old-trade still-life (ONE oak roller; canvas-slate reads WHITE-STRIPED container annotation); one robed background figure annotated; LEFT hillside green-lichen dry-pasture drift flag; sea far-right BRIGHT slate flag",
+      "md5": "a1a10218c1e9d9fbee55ac0a26d817b2",
+      "size_bytes": 1380221,
+      "drive_file_id": "1PGeTfj4VcKoVb3tjNB8KU2hkTTX8Mxhx",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED — pasture drift + roller-canister annotated + sea bright-slate flag"
+    },
+    {
+      "image_number": 790,
+      "scene_id": "VAL-EP001-IMG0790",
+      "batch": 79,
+      "timestamp": "26:18–26:20",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-2 after v1 rejection (black-puddle formation + dragon illegible) — v2: THE RISING SINGLE-MASS FUSED RIDGE reads clearly — LONG, freeform, 3-5 banks of black glass, wandering fracture lace, one smoke thread WEST; HIS crimson + HER charcoal tiny at far west; DRG-VAL-002 FROZEN ON A CRAG FRAME-RIGHT AGAINST THE SEA — TWIN horns, head UP, wings FOLDED LOW — unmistakably the dragon; sky edge-to-edge cold pewter",
+      "md5": "f6e4e585c1d109c5801dd3207dc2ac1e",
+      "size_bytes": 1388092,
+      "drive_file_id": "1oiXk8ye0tHkQnyHFc_sCZeAJvmFK_F_7",
+      "verdict": "APPROVED_AFTER_REVISION"
     }
   ],
-  "batch_079_status": "OPEN_PARTIAL (07 local approved / 01 uploaded+verified at sync instant) — turn-1: SEVEN approved·annotated (0781, 0782, 0783, 0784, 0786, 0788, 0789); THREE rejected pending turn-2 (0785 fingertip-red + warm-right horizon; 0787 rainbow-opal earrings GLITTER class + red fingers + charcoal iris; 0790 fused formation renders as black puddle + grounded dragon illegible at range + bright-slate sea). Drive folder created EP001_BATCH_079_IMG0781-0790 = 12aw5NKO3EQ87hu2kjinx5ucGfqqdTTP-; only 0781 uploaded this turn (upload rate-limit); six more to upload after the 15-second cool-off.",
-  "batch_079_drive_verified_count": 1,
-  "batch_079_note": "Batch 079 OPEN — turn-1 partial; upload rate-limited before images could all land; 0700-class 0785 flag relapse; glitter class relapse on 0787; fused-formation illegibility on 0790. Sheet CLOSED line pending 0785/0787/0790 turn-2 clears + all-ten Drive md5 re-read. Counts at this partial: 775/1,050 (73.81%)."
+  "batch_079_status": "COMPLETE_10_OF_10 — turn-1 seven approved·annotated; THREE rejected & deleted (0785 bloodied fingertip + warm tan-brown right-sky breach; 0787 rainbow-opal earrings GLITTER class + charcoal iris; 0790 fused formation read as black puddle + dragon illegible at range) — ALL THREE cleared turn-2; all ten md5s re-read from Drive and MATCHED; NOT zero-rejection",
+  "batch_079_drive_verified_count": 10,
+  "batch_079_note": "Batch 079 CLOSED 10/10 2026-11-13, NOT zero-rejection. NARROW FIRE EXCEPTION applied (flame events legal ONLY this batch; stone never self-emits; lava canals DEAD; no warm horizon; smoke WEST). GLOW DOCTRINE STILL NOT RULED EPISODE-WIDE. Catalogued: 0779-class fingertip-red RELAPSE (0785-v1, 0787-v1) — any visible fingertip in closeups must be INTACT-HEALTHY with faint soot-only; GLITTER-REELIC (0787-v1 rainbow-opal) — fire-opals MUST be FLAT DARK-CORAL, never rainbow; FUSED-FORMATION-LEGIBILITY (0790-v1 puddle) — world-scale fused formations must read RISING with height, DRG-VAL-002 must remain UNMISTAKABLE at range. THE OTHER WORLD remained unrendered; the VOLCANO stayed DORMANT. DRG-VAL-002 appeared semi-braced (wings NOT airborne; no flight ruling yet — wings semi-spread for recoil only). md5s all MATCHED. Counts at close: 784/1,050 (74.67%).",
+  "batch_079_close_note": "CLOSED 10/10 NOT zero-rejection — first pass 7/10; three cleared turn-2; md5s all MATCHED"
 }
