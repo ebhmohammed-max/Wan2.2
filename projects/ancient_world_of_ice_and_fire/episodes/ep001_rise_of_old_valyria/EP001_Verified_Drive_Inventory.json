@@ -5,9 +5,9 @@
   "target_images": 1050,
   "batch_size": 10,
   "total_batches": 105,
-  "completed_batches": 82,
-  "next_batch": 83,
-  "next_image_number": 823,
+  "completed_batches": 83,
+  "next_batch": 84,
+  "next_image_number": 831,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1152,7 +1152,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": 83,
+  "in_progress_batch": null,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1904,7 +1904,7 @@
     }
   ],
   "last_updated": "2026-11-13",
-  "verified_progress_percent": 78.1,
+  "verified_progress_percent": 78.48,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3600,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 820,
+  "verified_image_count": 824,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -13944,11 +13944,11 @@
       "verdict": "APPROVED_AFTER_REVISION · v1 rejected (Anubis heads + self-glowing arched gate + pale sea); v2 holds · inland-water flag"
     }
   ],
-  "batch_083_status": "PARTIAL_6_OF_10_APPROVED_UPLOADED_MD5_PENDING_V2_0823_0827_0828_0829",
+  "batch_083_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
   "batch_083_drive_folder_id": "1OtvQxd0cvxYSzCDkPO15Kq7l9t_8IOY7",
-  "batch_083_verified_count": 6,
-  "batch_083_pending_rerender": 4,
-  "batch_083_note": "Ch. VI 27:20-27:40 — the sphinx sentence closes, the dragonroad sentence opens (27:30+). Under the 2026-11-13 Ch. VI canal ruling (canal beds emissive, stone takes, NO open flame, not global). DIRECTOR DIRECTIVE 2026-11-13 STANDING: houses/customs/councils/wine/gatherings/communities shown throughout remaining batches where the scene permits — implemented 0825-0826-0828(pending v2)-0830. v1 rejections: 0823 (nemes-headdress Egyptian profile + whole head vs cheek fragment), 0827 (smoke trunk vs one-thin-thread fence; sea near-white), 0828 (CAPITAL drawn as conventional WALLED MEDIEVAL TOWN — coursed walls, regular square towers, street grid — hard built-fortress class), 0829 (FREE-STANDING ARCH-FRAME TOWERS + self-emissive window grid — canal beds only emit). 0027 monolith gate reading accepted as jagged torn void. FLAG 0826: ~6 tiny ring-base ember points possible NO-CANDLES violation — director flagged. Open rulings unchanged: §5 global glow doctrine OPEN (Ch. VI exception does not generalize); DRG-VAL-002 flight/descent ruling OPEN; merge of PR #3 is director call.",
+  "batch_083_verified_count": 10,
+  "batch_083_pending_rerender": 0,
+  "batch_083_note": "Ch. VI 27:20-27:40 — the sphinx sentence closes, the dragonroad sentence opens (27:30+). Under the 2026-11-13 Ch. VI canal ruling (canal beds emissive, stone takes, NO open flame, not global). DIRECTOR DIRECTIVE 2026-11-13 STANDING: houses/customs/councils/wine/gatherings/communities shown throughout remaining batches where the scene permits — implemented 0825-0826-0828(pending v2)-0830. v1 rejections: 0823 (nemes-headdress Egyptian profile + whole head vs cheek fragment), 0827 (smoke trunk vs one-thin-thread fence; sea near-white), 0828 (CAPITAL drawn as conventional WALLED MEDIEVAL TOWN — coursed walls, regular square towers, street grid — hard built-fortress class), 0829 (FREE-STANDING ARCH-FRAME TOWERS + self-emissive window grid — canal beds only emit). 0027 monolith gate reading accepted as jagged torn void. FLAG 0826: ~6 tiny ring-base ember points possible NO-CANDLES violation — director flagged. Open rulings unchanged: §5 global glow doctrine OPEN (Ch. VI exception does not generalize); DRG-VAL-002 flight/descent ruling OPEN; merge of PR #3 is director call. CLOSED 10/10 2026-11-13. Turn-2 md5 re-reads verified: 0823 c36def8a · 0827 863e4e96 · 0828 d9b83c0d · 0829 d2601831.",
   "batch_083_verified_images": [
     {
       "image_number": 821,
@@ -13973,6 +13973,18 @@
       "size_bytes": 2072921,
       "drive_file_id": "1Ad8SGIBaZTEQ9M6lESexcemT3DRui1ra",
       "verdict": "APPROVED_FIRST_PASS"
+    },
+    {
+      "image_number": 823,
+      "scene_id": "VAL-EP001-IMG0823",
+      "batch": 83,
+      "timestamp": "27:24–27:26",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "turn-2 — CU HER three-quarter with the RAGGED TORN CHEEK-FRAGMENT one plane behind (no nemes/banding); HIS crimson dot down the causeway; cool pearl-grey; LIFTED both planes",
+      "md5": "c36def8afc6967892f5aef7dfae1f0a2",
+      "size_bytes": 1775177,
+      "drive_file_id": "1AKu-VhF8BYmlrd8ycXUp1mPn6kUIej_l",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (nemes-headdress Egyptian profile + whole colossal head vs cheek fragment); v2 holds"
     },
     {
       "image_number": 824,
@@ -14009,6 +14021,42 @@
       "size_bytes": 1633420,
       "drive_file_id": "18bwgjwKpwfUctPax7HdIBEcnDASC6kjG",
       "verdict": "APPROVED_FIRST_PASS · FLAGGED (ring-base ember/lamp points — possible NO-CANDLES violation)"
+    },
+    {
+      "image_number": 827,
+      "scene_id": "VAL-EP001-IMG0827",
+      "batch": 83,
+      "timestamp": "27:32–27:34",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "turn-2 — OTS HER right shoulder (platinum falls); solid megalithic gate-mass w/ small jagged TORN VOID (no arch); wagon train EAST; waystone wine pair; sea blunt SLATE far-right; smoke far-LEFT thread only",
+      "md5": "863e4e96f06e948db699eee97572ba93",
+      "size_bytes": 1587698,
+      "drive_file_id": "1fxp6so1dUCywNUmvu-DTvHXKEJlc4Vf0",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (smoke trunk; near-white sea); v2 holds · meander-vs-ribbon road flag"
+    },
+    {
+      "image_number": 828,
+      "scene_id": "VAL-EP001-IMG0828",
+      "batch": 83,
+      "timestamp": "27:34–27:36",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "turn-2 — WS 28mm THE ROADWORKS: arrow-straight BEDROCK CUT to the vanishing point; STEAM-LINE bends WEST; capital = dark single-mass mound-spires (no walls/keeps/squares/window-lights); FOREGROUND FAMILY bread-and-wine huddle (social directive)",
+      "md5": "d9b83c0dfdc5935bfead9d11a4820658",
+      "size_bytes": 1593785,
+      "drive_file_id": "1q_DW6J3G-7zssrhiJoA1cwxSa1wdtnB_",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (WALLED MEDIEVAL TOWN class); v2 holds"
+    },
+    {
+      "image_number": 829,
+      "scene_id": "VAL-EP001-IMG0829",
+      "batch": 83,
+      "timestamp": "27:36–27:38",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-2 — UWA 24mm THE PENINSULA RIBBONED: the dragonroad as one dark ribbon WEST→EAST w/ two tiny covered wagons; capital = organic mounds + ragged torn spires; thin legal canal-glints under shadow-line only; volcano DORMANT ONE WEST plume; sea ONE blunt DARK SLATE band",
+      "md5": "d26018316263a7862292fee2635d8344",
+      "size_bytes": 1606413,
+      "drive_file_id": "16HTjbXOUGogPwpWH9DhIzSWQ94hKX-XM",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (ARCH-FRAME tower skyline + window grid); v2 holds"
     },
     {
       "image_number": 830,
