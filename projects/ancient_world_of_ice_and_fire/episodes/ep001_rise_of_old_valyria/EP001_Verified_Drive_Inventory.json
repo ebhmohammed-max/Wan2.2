@@ -5,9 +5,9 @@
     "target_images": 1050,
     "batch_size": 10,
     "total_batches": 105,
-    "completed_batches": 84,
-    "next_batch": 85,
-    "next_image_number": 843,
+    "completed_batches": 85,
+    "next_batch": 86,
+    "next_image_number": 851,
     "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
     "drive_folders": {
         "master_root_folder": {
@@ -1152,7 +1152,7 @@
             "narration_slice": "song that brought back the day."
         }
     ],
-    "in_progress_batch": 85,
+    "in_progress_batch": null,
     "batch_007_verified_images": [
         {
             "image_number": 61,
@@ -3600,7 +3600,7 @@
             "upload_checksum_verified": true
         }
     ],
-    "verified_image_count": 836,
+    "verified_image_count": 844,
     "batch_021_verified_images": [
         {
             "scene_id": "VAL-EP001-IMG0201",
@@ -14200,11 +14200,11 @@
     ],
     "batch_084_note": "Ch. VI 27:40-28:00 \u2014 the DRAGONROADS sentence (fused into bedrock, dark gray-black, half a foot, three abreast, arrow-straight, immune to weeds/frost). Social-fabric directive STANDS and was implemented: 0831 (townswoman+levy-cart+CLAY WINE JARS), 0834 (six-wagon caravan + THREE-WAGON WIDTH + merchant wine-share mid-road + sleepy children + family wagon), 0838 (HER at the road edge above the wagon line, HIS crimson dot apart). DIRECTOR RULING IN FORCE (Ch. VI set-pieces only): canal beds emissive / stone takes never makes / NO open flame \u2014 this batch has NO canal in frame; NOTHING self-emits anywhere. v1 BREACH CLASSES this batch: ANACHRONISM (0832 v1: yellow HARD HAT/safety helmet/expedition gear \u2014 generator models modern geologists for 'workers at rock face'; counter-prompt must pin ancient tunics/aprons and NO modern gear), PANEL MUD-TRACK (0834 v1: road surface rendered wet BROWN MUD/stone \u2014 counter-prompt must demand DEAD BLACK fused basalt with only a dull rain sheen), PALE-FACE (0840 v1: road face rendered pale beige/gravel \u2014 counter-prompt must demand coal-dark, never pale/beige). DIRECTOR-READ FLAGS NEVER SELF-WAIVED: 0831 smoke-present-vs-none + straw-vs-felt hat; 0833 steam weak WEST bend; 0835 capital-as-discus from aloft; 0836 wall-misread/half-foot not demonstrable; 0838 unwashed-vs-soft-beauty; 0839 silver-scrub frost-grey read. md5s re-read from Drive and MATCHED for all seven uploaded keeps. | Turn-2 (2026-11-13): ALL THREE v2s APPROVED_AFTER_REVISION and md5 re-read from Drive MATCHED (0832 `b7e11ee2` ANACHRONISM cleared \u2014 ancient workers, palm-to-seam pour-proof beat; 0834 `7c3e5657` PANEL MUD-TRACK cleared \u2014 DEAD BLACK wet-sheen fused ribbon, three-wagon width, six wagons, wine-share, sleepy children; 0840 `2bcf8353` PALE-FACE cleared \u2014 road out to the sea vanishing point, coal-dark). NEW CLASS TOUCHED: COOLING-PLATE TESSELLATION (0832 road-top + 0840 lower-left) \u2014 large columnar-basalt cooling plates, sizes/angles vary, DIRECTOR READ, never self-waived; 0840 ragged lip reads as coarse rubble embankment (DIRECTOR READ). Counts at close: 834/1,050 \u00b7 79.43%.",
     "batch_084_close_note": "CLOSED 10/10 NOT zero-rejection \u2014 turn-1 7 keeps; three rejects (0832 modern-gear anachronism, 0834 brown-mud track, 0840 pale road face) cleared turn-2; md5s all MATCHED on Drive",
-    "batch_085_status": "IN_PROGRESS \u2014 turn-1 verdicts 2026-11-13: 2/10 keeps md5-verified on Drive (0841/0842); FIVE keeps approved-annotated but UPLOAD QUEUED (Merge upload rate-limit, 2/7 uploaded this turn): 0844/0845/0846/0847/0850; THREE REJECTED v1: 0843 NO-WARM-HORIZON (warm golden band far-right horizon), 0848 OPEN-FLAME-EVENT (leaping flames at forge mouth far-left), 0849 INDUSTRIAL-ANACHRONISM (white built town + smoking chimney stacks); v2 re-renders QUEUED (image-generation cap 10/turn hit)",
+    "batch_085_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
     "batch_085_drive_folder_id": "10-F9aI5u0o-YaaAWm12mhzoGbh7-zlxS",
     "batch_085_drive_folder_name": "EP001_BATCH_085_IMG0841-0850",
-    "batch_085_verified_count": 2,
-    "batch_085_pending_rerender": 3,
+    "batch_085_verified_count": 10,
+    "batch_085_pending_rerender": 0,
     "batch_085_verified_images": [
         {
             "image_number": 841,
@@ -14229,7 +14229,104 @@
             "size_bytes": 1609459,
             "drive_file_id": "1U5dBIl5pWxBv7zBsJSN59IVF2Jp6GwrA",
             "verdict": "APPROVED_FIRST_PASS \u00b7 ANNOTATED (frame-right wall reads coursed cut-blocks \u2014 mortal-masonry tension, DIRECTOR READ; steam bank wide though WEST)"
+        },
+        {
+            "image_number": 843,
+            "scene_id": "VAL-EP001-IMG0843",
+            "batch": 85,
+            "timestamp": "28:04\u201328:06",
+            "shot_type": "WS \u00b7 28mm",
+            "visual_beat": "turn-2 after v1 NO-WARM-HORIZON reject \u2014 v2: THE BREAK BENCH at the long rest-slab \u2014 bread bowls, TWO plain clay jugs, raised jug in toast, grins, faces LIFTED; anvils + quench-troughs steaming strictly WEST low; SKY UNBROKEN IRON-PEWTER edge to edge (NO warm band); sea blunt slate to the horizon",
+            "md5": "c4faffdcf4426cdf2661183271409a2a",
+            "size_bytes": 1601739,
+            "drive_file_id": "1LXg5C8Qo9cI68-q_BRPvyWQyyE1ZRfZK",
+            "verdict": "APPROVED_AFTER_REVISION \u00b7 ANNOTATED (ARCHED forge mouths frame-left \u2014 built-arch openings, mortal-foundry tension, DIRECTOR READ; tiny amber DOT mid-frame far wall \u2014 possible lamp if flame = hard breach, if bed-grazing = lawful; STRICTEST READING = RE-RENDER; coursed cut-block wall)"
+        },
+        {
+            "image_number": 844,
+            "scene_id": "VAL-EP001-IMG0844",
+            "batch": 85,
+            "timestamp": "28:06\u201328:08",
+            "shot_type": "UWA \u00b7 24mm",
+            "visual_beat": "turn-1 \u2014 aloft reveal of the FOUNDRY DISTRICT: organic fused-work complex stitched to the caldera rim by dark ORANGE heat-canal veins (beds ONLY emit); First Dragonroad vein arrow-straight to the coast; volcano far-WEST DORMANT; smoke strictly WEST low, ZERO top/right; sea far-right ONE blunt SLATE band",
+            "md5": "c8eee6201914aa78317ff97a2d1a3d9b",
+            "size_bytes": 1473295,
+            "drive_file_id": "1aDNMJk1Z5qkY-rBPkzk6wuA3KvsWKCcl",
+            "verdict": "APPROVED_FIRST_PASS \u00b7 ANNOTATED (plume span wide though strictly WEST low)"
+        },
+        {
+            "image_number": 845,
+            "scene_id": "VAL-EP001-IMG0845",
+            "batch": 85,
+            "timestamp": "28:08\u201328:10",
+            "shot_type": "MCU \u00b7 50mm",
+            "visual_beat": "turn-1 \u2014 a master smith soot-dark, wrapped cloth headband, bronze hammer mid-strike over copper; the sheet TAKES grazing amber at edges ONLY; face LIFTED eyes down; low amber bed strip behind-right; steam strictly WEST; NO flames",
+            "md5": "d9e4d31a3c50155d7fb9c60da356d4c1",
+            "size_bytes": 1347083,
+            "drive_file_id": "1Ta77zAZMBZ2A22Md5crTe9CaCJOlhEj8",
+            "verdict": "APPROVED_FIRST_PASS \u00b7 ANNOTATED (tiny hot catch at anvil edge = bed grazing)"
+        },
+        {
+            "image_number": 846,
+            "scene_id": "VAL-EP001-IMG0846",
+            "batch": 85,
+            "timestamp": "28:10\u201328:12",
+            "shot_type": "MS \u00b7 35mm",
+            "visual_beat": "turn-1 \u2014 THE ORE-SORTING LINE: copper/tin/silver hand-picked into plain clay baskets by two boys and a woman; TWO workers share dark wine from a skin mid-frame; fourth carries a silver basket inward; emissive beds line the plinth behind grazing at low side angle; steam strictly WEST",
+            "md5": "71167ada753532867c784d12e68dddc7",
+            "size_bytes": 1673351,
+            "drive_file_id": "141tW-6PBCzsquhOjdoSjBGmlaHA6y5z7",
+            "verdict": "APPROVED_FIRST_PASS \u00b7 ANNOTATED (coursed cut-block wall dominates \u2014 mortal-masonry 0798-exception, DIRECTOR READ; small built tower skyline frame-right, DIRECTOR READ)"
+        },
+        {
+            "image_number": 847,
+            "scene_id": "VAL-EP001-IMG0847",
+            "batch": 85,
+            "timestamp": "28:12\u201328:14",
+            "shot_type": "MCU \u00b7 65mm",
+            "visual_beat": "turn-1 \u2014 THE ORE BENCH: high-grade iron lumps, raw tin, copper bloom, native silver sliver on scratched slabs; slag basket; covered wicker crate of RAW DRAGONBONE (unworked horn-black, no skull); beds amber grazing frame-left BELOW at grazing; NO self-glow; NO flames",
+            "md5": "b13eb6611a30f5809bf41582cfbc6af0",
+            "size_bytes": 1564716,
+            "drive_file_id": "1tg0jAuJge1oXc6r8DOrY0MQhOFFFjgy2",
+            "verdict": "APPROVED_FIRST_PASS \u00b7 ANNOTATED (slabs read warm-golden at grazing \u2014 take budget, DIRECTOR READ)"
+        },
+        {
+            "image_number": 848,
+            "scene_id": "VAL-EP001-IMG0848",
+            "batch": 85,
+            "timestamp": "28:14\u201328:16",
+            "shot_type": "MS \u00b7 50mm",
+            "visual_beat": "turn-2 after v1 OPEN-FLAME-EVENT reject \u2014 v2: THE BOWYERS' RACK \u2014 forge mouth DEAD BLACK, ABSOLUTELY NO flames/sparks/fire-glow; MASTER + APPRENTICE compare recurve DRAGONBONE bow-staves, feather-vane grain grazing edge-lines only; rack of staves; NO skull; NO remains",
+            "md5": "146cb580e42d99040de4340503e16d9a",
+            "size_bytes": 1567176,
+            "drive_file_id": "1kVco_j2WPfkiiaw4yVPzxgitcEZZ6CsZ",
+            "verdict": "APPROVED_AFTER_REVISION \u00b7 ANNOTATED (staves' edge-lines read slightly golden \u2014 take-budget; background wall courses regular cut blocks, DIRECTOR READ)"
+        },
+        {
+            "image_number": 849,
+            "scene_id": "VAL-EP001-IMG0849",
+            "batch": 85,
+            "timestamp": "28:16\u201328:18",
+            "shot_type": "WS \u00b7 35mm",
+            "visual_beat": "turn-2 after v1 INDUSTRIAL-ANACHRONISM reject \u2014 v2: THE BOWYERS' YARD AT THE FOUNDRY'S EDGE \u2014 white industrial town GONE; ONE DARK ORGANIC FUSED SPIRE-MASS behind (wandering pinnacles, torn voids, ZERO lit openings); steam strictly WEST; FAMILY at the table (old woman splicing string, man with bread, two children) + two apprentices stringing a stave; raw-stave beds on trestles; plain unmarked gear",
+            "md5": "8ce2fcfd138532593194d33aad71d68d",
+            "size_bytes": 1535914,
+            "drive_file_id": "1OGkca5vpZMlpAfuLoEduGXT_curD-d6X",
+            "verdict": "APPROVED_AFTER_REVISION \u00b7 ANNOTATED (small pale speck bottom-center \u2014 stone/egg read, bone-chip risk; spire voids = natural torn chambers, unlit, lawful \u2014 DIRECTOR READ)"
+        },
+        {
+            "image_number": 850,
+            "scene_id": "VAL-EP001-IMG0850",
+            "batch": 85,
+            "timestamp": "28:18\u201328:20",
+            "shot_type": "UWA \u00b7 24mm",
+            "visual_beat": "turn-1 \u2014 VERY HIGH elevation: the foundry dark on the caldera shoulder; quench/canal veins scratched across the obsidian plateau like a hand-drawn diagram, veins emissive amber (BEDS ONLY EMIT); the First Dragonroad arrow-straight lower third, dark and dead; DORMANT pyramid far-WEST; sea far-right ONE blunt SLATE band; pinpoint figures",
+            "md5": "248ef70ee67af08675ab2f2ef14f42ff",
+            "size_bytes": 1567705,
+            "drive_file_id": "1k6mn6HzeN9ZhVPm_SF8EvtbvK4nCJSLs",
+            "verdict": "APPROVED_FIRST_PASS \u00b7 ANNOTATED (emissive vein-field reads as a lit dendritic map \u2014 canal-legal, dense end of the ledger, DIRECTOR READ)"
         }
     ],
-    "batch_085_note": "Ch. VI 28:00-28:20 \u2014 the FOUNDRY SENTENCE (in blazing volcanic foundries, fed by geothermal vents\u2026). Executed STRICTLY under the standing Ch. VI surgical exception: vent/canal BEDS are the ONLY emitters; adjoining stone TAKES; NO open flame events; \u00a75 NOT opened, this batch supplies NO \u00a75 precedent. Social-fabric directive DELIVERED: 0843 (the break bench \u2014 crew sharing bread/wine at the rest slab, rejected turn-1 on the NO-WARM-HORIZON class), 0846 (ore-sorting line + wine-share), 0849 (bowyers' yard family meal + splice + stringing \u2014 rejected turn-1 on INDUSTRIAL-ANACHRONISM backdrop). REJECTION CLASSES CATALOGUED: NO-WARM-HORIZON (0843-v1 \u2014 warm golden band far-right horizon; 0775 precedent; the FIRST DAYLIGHT is FLAT COLD COLOURLESS), OPEN-FLAME-EVENT (0848-v1 \u2014 leaping flame tongues at the forge mouth; the in-force ruling forbids ALL flame; \u00a75 license DOES NOT EXIST), INDUSTRIAL-ANACHRONISM (0849-v1 \u2014 white built town + smoking chimney stacks; must be organic fused foundry mass). DIRECTOR-READ FLAGS NEVER SELF-WAIVED: 0841 forge-mouth glow depth; 0842 coursed cut-block plinth wall + wide steam bank; 0844 wide plume span (WEST-fenced); 0845 hot catch at anvil edge; 0846 coursed wall dominates + small skyline tower frame-right; 0847 slabs read warm-golden (take budget); 0850 dense emissive vein-field (canal legal). md5 re-reads MATCH for 0841/0842. Uploads for 0844/0845/0846/0847/0850 queued \u2014 Merge upload rate-limit hit after 2 uploads this turn (2/7 sent)."
+    "batch_085_note": "Ch. VI 28:00-28:20 \u2014 the FOUNDRY SENTENCE (in blazing volcanic foundries, fed by geothermal vents\u2026). Executed STRICTLY under the standing Ch. VI surgical exception: vent/canal BEDS are the ONLY emitters; adjoining stone TAKES; NO open flame events; \u00a75 NOT opened, this batch supplies NO \u00a75 precedent. Social-fabric directive DELIVERED: 0843 (the break bench \u2014 crew sharing bread/wine at the rest slab, rejected turn-1 on the NO-WARM-HORIZON class), 0846 (ore-sorting line + wine-share), 0849 (bowyers' yard family meal + splice + stringing \u2014 rejected turn-1 on INDUSTRIAL-ANACHRONISM backdrop). REJECTION CLASSES CATALOGUED: NO-WARM-HORIZON (0843-v1 \u2014 warm golden band far-right horizon; 0775 precedent; the FIRST DAYLIGHT is FLAT COLD COLOURLESS), OPEN-FLAME-EVENT (0848-v1 \u2014 leaping flame tongues at the forge mouth; the in-force ruling forbids ALL flame; \u00a75 license DOES NOT EXIST), INDUSTRIAL-ANACHRONISM (0849-v1 \u2014 white built town + smoking chimney stacks; must be organic fused foundry mass). DIRECTOR-READ FLAGS NEVER SELF-WAIVED: 0841 forge-mouth glow depth; 0842 coursed cut-block plinth wall + wide steam bank; 0844 wide plume span (WEST-fenced); 0845 hot catch at anvil edge; 0846 coursed wall dominates + small skyline tower frame-right; 0847 slabs read warm-golden (take budget); 0850 dense emissive vein-field (canal legal). md5 re-reads MATCH for 0841/0842. Uploads for 0844/0845/0846/0847/0850 queued \u2014 Merge upload rate-limit hit after 2 uploads this turn (2/7 sent). | Turn-2 (2026-11-13): ALL FIVE PENDING UPLOADS md5-verified (0844 `c8eee620`, 0845 `d9e4d31a`, 0846 `71167ada`, 0847 `b13eb661`, 0850 `248ef70e`) + ALL THREE v2s APPROVED_AFTER_REVISION and md5 re-read from Drive MATCHED (0843 `c4faffdc` NO-WARM-HORIZON cleared \u2014 iron-pewter held edge to edge, the BREAK BENCH delivered; 0848 `146cb580` OPEN-FLAME-EVENT cleared \u2014 forge mouth DEAD BLACK, master/apprentice dragonbone bow-staves; 0849 `8ce2fcfd` INDUSTRIAL-ANACHRONISM cleared \u2014 organic fused spire-mass replaces the chimney town, family tableau intact). NEW DIRECTOR-READ FLAGS carried unwaived: 0843 ARCHED forge mouths frame-left + tiny amber DOT mid-frame far wall (possible lamp if flame \u2014 strictest reading = re-render; THE strictest read applies) + coursed cut-block wall; 0848 staves read golden at edge-lines + regular block courses behind; 0849 pale speck bottom-center (stone/egg vs bone-chip risk). Counts at close: 844/1,050 \u00b7 80.38%.",
+    "batch_085_close_note": "CLOSED 10/10 NOT zero-rejection \u2014 turn-1 7 keeps; three rejects (0843 NO-WARM-HORIZON, 0848 OPEN-FLAME-EVENT, 0849 INDUSTRIAL-ANACHRONISM) cleared turn-2; md5s all MATCHED on Drive"
 }
