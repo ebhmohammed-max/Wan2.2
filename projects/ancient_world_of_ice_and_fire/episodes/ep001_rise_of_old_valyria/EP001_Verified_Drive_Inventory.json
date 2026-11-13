@@ -5,9 +5,9 @@
  "target_images": 1050,
  "batch_size": 10,
  "total_batches": 105,
- "completed_batches": 74,
- "next_batch": 75,
- "next_image_number": 741,
+ "completed_batches": 75,
+ "next_batch": 76,
+ "next_image_number": 751,
  "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
  "drive_folders": {
   "master_root_folder": {
@@ -1152,7 +1152,7 @@
    "narration_slice": "song that brought back the day."
   }
  ],
- "in_progress_batch": 75,
+ "in_progress_batch": null,
  "batch_007_verified_images": [
   {
    "image_number": 61,
@@ -1904,7 +1904,7 @@
   }
  ],
  "last_updated": "2026-11-13",
- "verified_progress_percent": 70.38,
+ "verified_progress_percent": 70.86,
  "batch_012_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3600,7 @@
    "upload_checksum_verified": true
   }
  ],
- "verified_image_count": 739,
+ "verified_image_count": 744,
  "batch_021_verified_images": [
   {
    "scene_id": "VAL-EP001-IMG0201",
@@ -9940,7 +9940,7 @@
  "the_scream_rule": "The scream is physical cost, not magic. Show flush, taut tendons, sweat, a worn and crusted mouthpiece, dry residue - then a still body on a terrace and one whole horn standing among ruins a civilisation later. No aura, no glow, no shockwave, no sound effect, nothing alight, in any frame.",
  "the_body_rule": "No face and no injury in batch 053. Strain is tendons, flush and sweat; damage is dryness, salt deposit and worn metal; the cost is posture. Negations carried in every prompt: no blood, no wound, no injury, no bruise, no burn. This is also why the batch cleared moderation on the first pass: describe what the body is doing, not what has been done to it.",
  "batch_052_three_faults_lesson": "0514 was masonry, 0519 was the sky, 0512 was a dropped call. All three fixed on the first re-render because the fault was in the negation list, not the idea. The masonry negation list is now standard wording on any frame containing a stone wall - 0528 pass 1 proved it is still needed in the middle distance, not just in the foreground.",
- "verified_percent": 70.38,
+ "verified_percent": 70.86,
  "open_corrections": [
   "VAL-EP001-IMG0160"
  ],
@@ -12931,11 +12931,11 @@
   }
  ],
  "batch_074_note": "Ch. V 24:20–24:40 — the mechanics of the Forty and the birth of the limited-term ARCHON office; LOC-VAL-004; CHAR-VAL-002 + CHAR-VAL-003 Stage C (early frames), CHAR-VAL-002 only (late frames). THE MARRIAGE-PACT carrier object (0732); the treaty CU between HIS level amethyst and HER lowered plum eyes (0733); the arcane secret as one inert object (0734); the power display measured (0735); THE EMPTY COURT AND ONE TINY SILHOUETTE (0736); HIS OTS into the crisis assembly, the grey-wool elder mid-word (0737); THE WHOLE PENINSULA IN THE ROUND — a bare strata mass pulling thousands to vote (0738); the election moment — thousands of raised bare working hands, the FLATSTONE humanly empty at the axis vanishing point (0739); THE ELECTED ARCHON with nothing on him but one copper wedding band (0740). NO flame; nothing glows; smoke WEST; sea EAST; no crown; no writing; no candles (2026-11-13 ruling); no blood.",
- "batch_075_status": "PARTIAL_5_OF_10 — five frames Drive-verified; awaiting 0748 (generation failed) and 0745/0746/0747/0750 (first-pass REJECTIONS, re-renders queued)",
+ "batch_075_status": "COMPLETE_10_OF_10 — five first-pass approvals (0741/0742/0743/0744/0749); 0748 cleared turn 2; 0747 cleared turn 2; 0745/0746/0750 each REJECTED TWICE then cleared on third pass; all ten md5s re-read from Drive and MATCHED; NOT zero-rejection",
  "batch_075_drive_folder_id": "1TUUh7xmdwf-uPYjTh0m5W2OGYdJH_A6J",
  "batch_075_drive_folder_name": "EP001_BATCH_075_IMG0741-0750",
  "batch_075_drive_url": "https://drive.google.com/drive/folders/1TUUh7xmdwf-uPYjTh0m5W2OGYdJH_A6J",
- "batch_075_drive_verified_count": 5,
+ "batch_075_drive_verified_count": 10,
  "batch_075_verified_images": [
   {
    "image_number": 741,
@@ -12986,6 +12986,54 @@
    "verdict": "APPROVED_FIRST_PASS · annotated: freestanding-leg field reads NECROPOLIS-OF-STONES-class at distance — composition held for its funerary deep-time read; floor drift kept-annotated"
   },
   {
+   "image_number": 745,
+   "scene_id": "VAL-EP001-IMG0745",
+   "batch": 75,
+   "timestamp": "24:48–24:50",
+   "shot_type": "UWA · 24mm",
+   "visual_beat": "UWA god-high aerial — the crescent of forty holds; ALL smoke bends strictly WEST (after two failures); sea ONE pale-silver band; nobody outranked; dozens of meandred walkers",
+   "md5": "52a781544cd62cc13a022b94389943b0",
+   "size_bytes": 1862964,
+   "drive_file_id": "1LJgMR5nFkIU0WQMPzBAYG2pbK-iZiAbW",
+   "verdict": "APPROVED_AFTER_REVISION · sea bright pale-silver kept-annotated; foreground mound leg-like protrusions annotated"
+  },
+  {
+   "image_number": 746,
+   "scene_id": "VAL-EP001-IMG0746",
+   "batch": 75,
+   "timestamp": "24:50–24:52",
+   "shot_type": "LAM · 24mm",
+   "visual_beat": "LAM straight-up — seven freestanding pour legs + slab caps HELD; HIS pleat + silver-gold braids fan bottom; minor hold = far horizon-edge DOT with WEST smoke; solid rock held everywhere",
+   "md5": "a341d7367eef8b28d9f27d1a7113e864",
+   "size_bytes": 1697832,
+   "drive_file_id": "1ebDQWQVWq4NZ2Y9Y8G7no6_zDqBq8G5B",
+   "verdict": "APPROVED_AFTER_REVISION · near-regular slab-cap class kept (0737); horizon-dot fringe-hold class annotated; sea slivers both flanks annotated"
+  },
+  {
+   "image_number": 747,
+   "scene_id": "VAL-EP001-IMG0747",
+   "batch": 75,
+   "timestamp": "24:52–24:54",
+   "shot_type": "DET · 85mm",
+   "visual_beat": "DET 85mm macro — small smooth low-chevron fork-wing minor seal vs LARGE soft-peaks volcano major seal; ZERO text; HIS crimson pleat frame-left",
+   "md5": "d73f2aabe8ba06a59ebe3d9c8b1d1a07",
+   "size_bytes": 1615626,
+   "drive_file_id": "1fLPHK46lqcdBJvlNd7nKrbfdMyfl6dJg",
+   "verdict": "APPROVED_AFTER_REVISION"
+  },
+  {
+   "image_number": 748,
+   "scene_id": "VAL-EP001-IMG0748",
+   "batch": 75,
+   "timestamp": "24:54–24:56",
+   "shot_type": "CU · 85mm",
+   "visual_beat": "CU HIS intimate close-up — amethyst lowered, bare hand-backs flat on the dark tally-ledge; background legs tele-blurred; unreadable calm",
+   "md5": "dfda65b3295e564d0f20313b03744acc",
+   "size_bytes": 1314918,
+   "drive_file_id": "1zgQ3nLCEajzrUX4nIzB4X_lTTW0V6nju",
+   "verdict": "APPROVED_AFTER_REVISION · dark matte garment class kept-annotated (no crimson); bright monochrome gap annotated"
+  },
+  {
    "image_number": 749,
    "scene_id": "VAL-EP001-IMG0749",
    "batch": 75,
@@ -12996,6 +13044,19 @@
    "size_bytes": 1417471,
    "drive_file_id": "10Ge_xAm-wlC9x6XCqCT2bfeGtHVAUo7a",
    "verdict": "APPROVED_FIRST_PASS"
+  },
+  {
+   "image_number": 750,
+   "scene_id": "VAL-EP001-IMG0750",
+   "batch": 75,
+   "timestamp": "24:58–25:00",
+   "shot_type": "WS · 40mm",
+   "visual_beat": "WS 40mm OTS bridge — HIS silver-gold braids frame-left; ENTIRE smoke fan strictly WEST; static single-mass pour cairn-stack holds (kept-annotated); far EASTERN fringe smallest against chalk-pale sea",
+   "md5": "9b23bbdc33c20f2aa7c4a78fbf5bd5d1",
+   "size_bytes": 1487336,
+   "drive_file_id": "1uTSNmJY0WOS3-nhBRmpPmUlJeCNCUK8y",
+   "verdict": "APPROVED_AFTER_REVISION · cairn-stack hold class kept annotated"
   }
- ]
+ ],
+ "batch_075_close_note": "Ch. V 24:40–25:00 — the limited-term ARCHON as habit + the Targaryen foreshadow rendered ONLY via placement/object/absence (a minuscule pour-stone hold on the EASTERN fringe; tiny abstract forked-wing black-wax mark; never a word of the family name placed in any image). LOC-VAL-004 throughout; CHAR-VAL-002 only. Rejections that defined the batch: 0745 (v1 ZERO smoke + teal-green sea; v2 ALL smoke to sea + slate-blue sea) → v3 strictly-WEST plumes + pale-silver sea; 0746 (v1 a tiny GATE RING + LINTEL on the fringe shelf — named breach at any scale + smoke to sea; v2 dark crevice-shadow opening at the shelf face) → v3 horizon-DOT hold w/ WEST smoke, solid rock; 0750 (v1 HIS dark/brown hair + ALL smoke to sea + holds gouged INTO the mass + dark slit cavities; v2 holds as WALKED ANIMAL-BOWLS on legs) → v3 smoke strictly WEST, HIS silver-gold braids HELD, single-mass pour cairn-stack class. 0748 generation-failed turn 1 → approved turn 2. New flags filed (none waived): 0741 (0685-class pinprick standing), 0742 (background near-regular pour-pylon class + HIS ash-blonde), 0744 (necropolis-of-legs read), 0745 (bright pale-silver sea + foreground mound protrusions), 0746 (horizon-dot fringe-hold class + peninsula-tip sea slivers), 0748 (dark matte garment class; bright monochrome gap), 0750 (cairn-stack class), floor-class drift extended to 0741–0744. Verified progress: 744/1,050 (70.86%). Next: Batch 076 — NOT authorized."
 }

@@ -1081,3 +1081,19 @@ Drive folder `EP001_BATCH_075_IMG0741-0750` (`1TUUh7xmdwf-uPYjTh0m5W2OGYdJH_A6J`
 **`0748` CU — generation-failed on attempt; absent until next turn.**
 
 Counts: **739/1,050 (70.38%)**. Batch 075 stays OPEN; next image work = `0748` then the four re-renders. `in_progress_batch`=75 in the inventory. The glow-doctrine entry stands; PR #3 REMAINS OPEN — the merge stays the director's call.
+
+## BATCH 075 — CLOSED 10/10 (2026-11-13) — NOT zero-rejection (the Targaryen foreshadow)
+
+Ch. V `24:40–25:00` — the limited-term ARCHON settles into LAW AS HABIT; the camera pulls back past the first generation to the far horizon of the Freehold's chronicle ("a house named Targaryen … far from the mightiest"). LOC-VAL-004 on every frame; CHAR-VAL-002 only (no CHAR-VAL-003). Folder `EP001_BATCH_075_IMG0741-0750` (`1TUUh7xmdwf-uPYjTh0m5W2OGYdJH_A6J`); all ten md5s re-read from Drive and matched. **Progress: 744/1,050 (70.86%).**
+
+Approved first-pass: `0741` (MS — HIS empty hands; EX-ARCHON ordinary elder passes opposite; ONE nod; the FLATSTONE unused; FLAG 0685-class pinprick ~4–6px on WEST horizon), `0742` (HIS MCU 65mm — amethyst steady), `0743` (MS — close-of-assembly-day procession — HIS kit returned to the common rack by a single elder), `0744` (WS deep-time strata vista), `0749` (DET extreme macro — ONE tiny matte carbon forked-wing stamp on BLANK dark-linen roll).
+
+Revisions: `0748` (generation-failed turn 1 → approved turn 2; HIS dark matte garment class — no crimson — FLAGGED kept), `0747` (v1 THORN-CLAW-fang mark — scale order inverted → v2 order restored: LARGE 3-soft-peaks major seal vs smooth low-chevron minor fork-wing), `0745` (v1 ZERO smoke + teal-green sea → v2 ALL smoke toward the sea + slate-blue sea → v3 MANY plumes strictly WEST, sea bright pale-silver — kept annotated), `0746` (v1 a tiny GATE RING with uprights+LINTEL spanning (named breach at any scale) + smoke to the sea → v2 dark crevice-shadow opening at shelf face → v3 horizon-edge DOT hold with WEST smoke; solid rock held), `0750` (v1 HIS DARK/BROWN HAIR + ALL smoke toward sea + holds gouged INTO the mountain mass as bowl/pedestals + dark slit cavities → v2 holds rendered as WALKED ANIMAL-BOWLS — worst possible read — → v3 smoke strictly WEST frame-left, single-mass pour cairn-stack class, HIS silver-gold braids HELD).
+
+The batch's doctrine signature held everywhere: smoke WEST (after re-renders), sea EAST chalk/pale-silver (no teal), NO crown, NO text/letters/runes anywhere (all seals/marks BLANK or pure abstract geometry; the word Targaryen never placed), NO flame, nothing glows, NO SNOW, NO candle, NO roofs/arches/spans/merlons/courses anywhere incl. the minor house, the FLATSTONE stays bare, colonnade legs FREESTANDING ONLY (no spans ever — the 0737 precedent held throughout).
+
+New flags filed (none waived): `0741` 0685-class pinprick; `0748` garment drift; `0745` bright pale-silver sea/cur bright horizon (not warm); `0746` fringe-hold horizon-dot class; `0750` cairn-stack class; `0744` necropolis-of-legs read; `0742` near-regular pylon background class + HIS ash-blonde exposure; standing floor-class drift (0741–0744) now also on this batch.
+
+Cumulative open director items: glow-doctrine ruling; closed-batch enrichment (066–075); `0700` warm pinpricks; `0704` red-diamond signet shoulder; 0685/0735/0741 pixel dots; floor-class doctrine drift (`0739`/`0740`/`0741`/`0742`/`0743`/`0744`); `0744` necropolis-class; `0745` sea horizon class; `0746` fringe-hold class; `0748` garment class; `0750` cairn-stack class.
+
+**Next: Batch 076 (`25:00–25:20`) — NOT authorized. PR #3 REMAINS OPEN — the merge stays the director's call.**
