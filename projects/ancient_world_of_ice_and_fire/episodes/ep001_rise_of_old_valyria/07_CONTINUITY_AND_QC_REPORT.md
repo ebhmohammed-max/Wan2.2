@@ -1057,3 +1057,27 @@ Scope rulings for the batch:
 - Crowds REQUIRED per 2026-11-12 lift; faces LIFTED everywhere resolved.
 
 Canonical counts unchanged at opening: **734/1,050 (69.90%)**; next batch 075 in flight; next image number 0741. Drive folder to be created on first upload: `EP001_BATCH_075_IMG0741-0750`.
+
+
+## BATCH 075 — PART 2 / TURN-1 REVIEW + PARTIAL VERIFIED SYNC (2026-11-13)
+
+Turns used: 1 of the batch (generation-limit-truncated). **NOT zero-rejection**; 0748 generation failed on attempt and is queued; four hard rejections filed.
+
+Drive folder `EP001_BATCH_075_IMG0741-0750` (`1TUUh7xmdwf-uPYjTh0m5W2OGYdJH_A6J`) — created this turn under the standard parent `1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn`.
+
+**Uploaded, md5-re-read and MATCHED (5):**
+- `0741` (MS·35mm lateral tracking) — `dc947d20195fc72df2ffc05a6a734b13` — **flagged (not waived): ONE ~4–6px warm pinprick on the far WEST horizon allotment-fire (0685-class)**; floor reads weathered polygonal slab class — kept-annotated for director.
+- `0742` (HIS MCU·65mm) — faint flag: background dresser reads as near-regular tapered pour-pylon colonnade (kept under the 0737 ruling — NO spans, freestanding only); HIS hair ash-blonde at this exposure, silver-gold held at braid level. `f20c60517b76b803d472897624022004`
+- `0743` (MS·50mm close-of-assembly-day procession) — floor reads weathered polygonal slab weave (drift, annotated); olive moor grass kept. `ab1eccc01141689f9dc10c912e553a60`
+- `0744` (WS·35mm deep-time strata) — freestanding-leg field reads as a'necropolis of standing stones' class at this exposure (kept for its funerary deep-time read, annotated). `e8e614f43f993472af1a956f60b3f70f`
+- `0749` (DET·100mm macro — ONE tiny matte carbon forked-wing stamp on BLANK dark-linen roll; presence/absence beat perfect). `e83a018597992939cc020abe3a69caaa`
+
+**REJECTED — deleted, never uploaded:**
+- `0745` (UWA aerial) — zero smoke rendered + sea reads teal-green. Counter-prompt carried.
+- `0746` (LAM straight-up) — minor-house hold rendered as a tiny GATE RING (two uprights + LINTEL SPANNING — named breach at ANY scale) and its smoke drifted toward the sea. Counter-prompt carried.
+- `0747` (DET macro) — the minor stamp read THORN-CLAW-fang; inverted the foreshadow's scale logic. Counter-prompt carried.
+- `0750` (WS bridge) — HIS DARK/BROWN hair (kit breach), ALL smoke drifted toward the sea (doctrine breach), holds gouged INTO the mountain mass as bowl/pedestals (not freestanding pour-stone class), and dark slit cavities reading as arch-like strips. Counter-prompt carried.
+
+**`0748` CU — generation-failed on attempt; absent until next turn.**
+
+Counts: **739/1,050 (70.38%)**. Batch 075 stays OPEN; next image work = `0748` then the four re-renders. `in_progress_batch`=75 in the inventory. The glow-doctrine entry stands; PR #3 REMAINS OPEN — the merge stays the director's call.
