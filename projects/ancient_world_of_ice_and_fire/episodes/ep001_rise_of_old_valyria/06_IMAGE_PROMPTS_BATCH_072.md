@@ -3,7 +3,7 @@
 **Timecode 23:40–24:00 · Ch. V · frames VAL-EP001-IMG0711 – IMG0720**
 **ART DIRECTION 2026-11-12 IN FORCE (see `09_ART_DIRECTION_UPDATE_2026-11-12.md`):** FACES LIFTED — everyone; crowds REQUIRED where narration names them; Nasmith = element/mood guide for ORIGINAL compositions only; "3D realistic cinematic" = photoreal CGI / Octane-look. The nothing-glows/DEAD-canal doctrine STANDS (NO flame anywhere in this batch; canals DEAD; no warm horizon). No crown, no throne, no diadem — EVER, not even as negatives. LOC-VAL-004 COUNTER-PROMPT IN FORCE FROM THE START (proven in Batch 070 turn-2): single-mass poured cooled-flow fused basalt, ZERO arches/roofs/keeps/merlons/ashlar courses, dark obsidian silhouettes, ZERO snow, flat cooled tops.
 
-**Status: PART 1 (2026-11-13) — turn 1 complete: 8/10 first-pass approvals uploaded to Drive folder `1X9dhtn_Qqvj1Ip2e4F7EsJ03feIFz0lZ` with md5 MATCH (upload-time); `0714` + `0716` REJECTED turn 1, deleted, re-render authorised for turn 2. Batch NOT closed. NOT zero-rejection.**
+**Status: CLOSED 10/10 (2026-11-13) — eight first-pass approvals + `0714` + `0716` cleared on turn-2 re-renders. All ten md5s re-read from Drive and MATCHED (folder `1X9dhtn_Qqvj1Ip2e4F7EsJ03feIFz0lZ`). NOT zero-rejection. Annotations carried: 0712 (frontal deep-focus; near-hollow tiers — 0710 pre-form class), 0713 (hex poured paving; posture ≠ elevation), 0718 (menhir ovoid background), 0720 (neutral-pearlescent far-right horizon). 0716 kept with amphitheater-tier rim annotation; 0714 held the full nothing-glows re-render discipline (cold dark vent, smoke only). 0709-style prospective tense doctrine NOT violated this batch. Totals: **714/1,050 (68.00%)**.**
 
 
 Shared opener on every prompt (do not drop it):
@@ -44,7 +44,8 @@ Shared opener on every prompt (do not drop it):
 **Beat:** Wide environmental storytelling tableau
 **Brief:** WS 35mm wide ANTHEMSHOT TABLEAU of the GREAT OPEN ASSEMBLY AT FULL GATHERING — CONCENTRIC SEMICIRCULAR ROWS of rough light-grey fused-slab benches filled end to end with hundreds of mixed freeholders (faces resolved and DISTINCT in the front rows, smearing to texture in the back) — goats tethered in knots at row ends, two ox-carts and a string of pack mules parked on the straight road, dogs asleep in the dust, a low wire of smoke WEST on the ridge and the chalk sea seam EAST; iron-noon pewter, flat diffuse light; NO banners, NO standards, NO emblems, NO raised dais anywhere; no crown; no flame; no text; NO SNOW. The single largest crowd frame of the founding arc.
 
-**Turn-1 verdict: `REJECTED — DELETED.`** WS tableau rendered a VISIBLE WARM FLAME at the western ridge smoke vent — orange fire licking from the vent mouth, an effigy of burning. The nothing-glows/NO-FLAME doctrine holds tuyệt: NOT uploaded; file deleted locally. Turn-2 counter-prompt: COLD vent mouth, smoke only, ZERO orange/fire/glow anywhere.**
+**Turn-1 verdict: `REJECTED — DELETED.`** WS tableau rendered a VISIBLE WARM FLAME at the western ridge smoke vent — orange fire licking from the vent mouth, an effigy of burning. NOT uploaded; file deleted locally.
+**Turn-2 verdict: `APPROVED_FIRST_PASS`** — re-render holds the tableau from behind the benches: hundreds of mixed freeholders, goats at row ends, ox-cart + mule string on the road, the WESTERN CONE smoking COLD from a torn dark mouth — NO orange, NO sparks, NO glow; sea EAST chalk headland seam; pewter iron-noon. md5 `77f0ee961bddc21d076a0e3fbddc8877`. Drive `1PBKI8hiluf3HTuOMl63QG1NNxFZayLI5`.**
 
 ## VAL-EP001-IMG0715 — UWA · 24mm — 23:48–23:50
 **Narration:** “who owned land upon”
@@ -58,7 +59,8 @@ Shared opener on every prompt (do not drop it):
 **Beat:** Towering vertical scale composition
 **Brief:** LAM 24mm from the assembly pasture looking nearly STRAIGHT UP at the two SMOKING CONES — torn bare summits tearing into iron pewter, smoke bent steadily WEST off both peaks; at the extreme frame bottom, a thin curved rim of the assembly arcs and the tiniest of resolved freeholder silhouettes, motionless, face-up — every freeholder of the peninsula nominally owning what the peaks already own; vertical awe without worship; ZERO arches, NO roofs on the cones; no flame; no text; NO SNOW; the land possessed by being stood upon together.
 
-**Turn-1 verdict: `REJECTED — DELETED.`** LAM rendered CONTRADICTORY SMOKE DRIFT — left peak’s plume bent WEST but right peak’s plume blown EAST (frame upper-right), a wind that does not exist and a smoke-EAST violation. NOT uploaded; file deleted locally. Turn-2 counter-prompt: ALL smoke bent steadily WEST (frame left) from BOTH cones; ZERO eastward drift. Also flag: freeholder rims rendered on near-stepped amphitheater tiers (0710 pre-form register) — tolerate, keep grade consistent.**
+**Turn-1 verdict: `REJECTED — DELETED.`** LAM rendered CONTRADICTORY SMOKE DRIFT — left peak’s plume bent WEST but right peak’s plume blown EAST (frame upper-right), a wind that does not exist and a smoke-EAST violation. NOT uploaded; file deleted locally.
+**Turn-2 verdict: `APPROVED_FIRST_PASS · ANNOTATED`** — both torn cones now breathe ONE unified WEST wind (frame left); dozens of freeholder silhouettes hold the stepped rim at frame bottom; nothing glows; NO flame; vertical awe without worship holds. ANN: rim still renders on stepped amphitheater tiers (0710 pre-form class) — kept; smoke unification resolved. md5 `03be6212b4c0c9fd0caaee50aaef955e`. Drive `1Rf81pD4dFVtrvuP88-dUtKSk1dZ0vUVM`.**
 
 ## VAL-EP001-IMG0717 — DET · 85mm — 23:52–23:54
 **Narration:** “a voice in the governance”
