@@ -5,8 +5,8 @@
   "target_images": 1050,
   "batch_size": 10,
   "total_batches": 105,
-  "completed_batches": 80,
-  "next_batch": 81,
+  "completed_batches": 81,
+  "next_batch": 82,
   "next_image_number": 811,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
@@ -1152,7 +1152,7 @@
       "narration_slice": "song that brought back the day."
     }
   ],
-  "in_progress_batch": 81,
+  "in_progress_batch": null,
   "batch_007_verified_images": [
     {
       "image_number": 61,
@@ -1904,7 +1904,7 @@
     }
   ],
   "last_updated": "2026-11-13",
-  "verified_progress_percent": 76.48,
+  "verified_progress_percent": 76.57,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3600,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 803,
+  "verified_image_count": 804,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -13800,20 +13800,21 @@
       "size_bytes": 1754903,
       "drive_file_id": "1FTFGHLusXZNBEqh5AA391_gDvlQIB3i8",
       "verdict": "APPROVED_FIRST_PASS · ANNOTATED"
-    }
-  ],
-  "batch_081_pending_local": [
+    },
     {
       "image_number": 810,
       "scene_id": "VAL-EP001-IMG0810",
       "batch": 81,
       "timestamp": "26:58–27:00",
       "shot_type": "WS · 40mm",
-      "visual_beat": "Turn-2 re-render still EAST-drift smoke upper-left — REJECTED; skyline otherwise doctrine-clean (single-mass solid shafts, torn crown lips only); turn-3 counter-prompt: ZERO smoke at frame-top and in the RIGHT half; one thin column strictly hugging LEFT EDGE",
-      "verdict": "REJECTED — TURN-3 PENDING"
+      "visual_beat": "turn-3 after two-turn smoke-WEST/EAST breach sequence — v3: THE SINGLE-MASS SKYLINE HOLDS — opaque matte black shard shafts rooted in scree, voids only at jagged torn crown lips; His crimson + Her charcoal on the ridge track; one thin smoke thread strictly WEST at the far-left edge; sky unbroken pewter; sea ONE blunt slate band far-right; NO top-or-right-half smoke",
+      "md5": "031f01655602db74fadad608081e3dd3",
+      "size_bytes": 1282298,
+      "drive_file_id": "1ILV3XRlXebSKspJIcwkPGfXN7LI9fXnM",
+      "verdict": "APPROVED_AFTER_REVISION · v1 rejected (skeletal lattice spires); v2 rejected again (east-drift smoke); v3 holds"
     }
   ],
-  "batch_081_status": "OPEN_PARTIAL — turn-2 PARTIAL 9/10 (three cleared turn-2; five first-pass; 0809 uploaded+md5 VERIFIED this turn) — ONLY 0810 outstanding (turn-2 REJECTED: east-drift smoke upper-left, second relapse). DIRECTOR RULING in force: live magma canal beds emissive amber-crimson for Ch. VI set-pieces; stone takes, never makes.",
-  "batch_081_drive_verified_count": 9,
-  "batch_081_note": "Batch 081 turn-1 PARTIAL 2026-11-13 — under the DIRECTOR RULING: live magma canal beds render Emissive Amber-Crimson for Ch. VI set-pieces; adjoining fused stone takes, never makes; no open flame; no throat wash; bounce budgeted per frame (0806 ONE inner curve; 0807 ONE inner curve; 0808 jaw/cheek strip only; 0809 single deep pocket). CLASSES: 0801-v1 GOTHIC CATHEDRAL ARCH-GALLERIES — REJECTED; 0804-v1 EAST-BOUND CROWN SMOKE + TRELLIS CROWNS — REJECTED; 0805-v1 EAST-BOUND FOURTEEN-FLAMES VENT PLUMES — REJECTED (all fourteen must bend frame-LEFT WEST); 0810-v1 SKELETAL LATTICE SHAFT SPIRES (two oval voids per shaft, legs) — REJECTED: fused spires MUST be solid SINGLE-MASS, voids only at torn crown lips. 0802/0803/0806/0807/0808 uploaded + md5 VERIFIED; 0809 local-approved pending Drive upload. Counted at partial: 799/1,050 · 76.10%. Headline: the glow-doctrine now has a narrow CAPITAL-I Permitted zone (Ch. VI set-pieces), not an episode-wide license."
+  "batch_081_status": "COMPLETE_10_OF_10 — NOT zero-rejection. turn-1 FOUR rejected; turn-2 three cleared; 0810 turn-2 REJECTED again (east-drift smoke); turn-3 cleared. DIRECTOR RULING IN FORCE: live magma canal beds emissive amber-crimson for Ch. VI set-pieces; adjoining fused stone takes, never makes; NO open flame events; §5 episode-wide ruling still OPEN. Verified 804/1,050 · 76.57%.",
+  "batch_081_drive_verified_count": 10,
+  "batch_081_note": "Batch 081 CLOSED 10/10 2026-11-13 — NOT zero-rejection. DIRECTOR RULING (Ch. VI set-pieces only): canal beds emissive amber-crimson; adjoining stone takes; NO open flame; reflect budget held per frame (0806 one inner curve; 0807 one curve flag; 0808 jaw/cheek strip; 0809 one deep pocket). Rejection classes: 0801-v1 GOTH CATHEDRAL ARCH-GALLERIES (fused never opens portals); 0804-v1 east crown smoke + filigree TRELLIS crowns; 0805-v1 east-drifting Fourteen-Flames vent plumes; 0810-v1 skeletal lattice-shaft spires (twin oval voids); 0810-v2 EAST-DRIFT smoke upper-left — SECOND relapse, cleared v3 with a hard zero-top/zero-right fence + one thread strictly WEST at the far-left edge. 0809 local-approval Drive upload confirmed post-rate-limit. GLOW DOCTRINE §5 episode-wide STILL OPEN. Closed at 804/1,050 · 76.57%."
 }

@@ -1249,3 +1249,15 @@ After ten frames: **764/1,050 (72.76%)**. Next: **Batch 078 — Ch. VI · 25:40�
 - **ONLY `0810` stands in breach — SECOND relapse: smoke at frame-top-LEFT trails frame-RIGHT (east).** v2 skyline otherwise clean (OPAQUE SINGLE-MASS shards, voids only at crown lips). Turn-3: ZERO smoke in frame-top or right-half; one thin column strictly hugging the WEST-side left edge.
 - **Held classes (record):** `0801-v1` Goth-cathedral ARCH-GALLERY fused class; `0804-v1` east crown smoke + filigree crowns; `0805-v1` east-drifting vent plumes; `0810-v2` east-drift smoke relapse — the smoke-strictly-WEST rule keeps failing this channel; the turn-3 counter-prompt uses zero-top/zero-right hard fences.
 - **Counts at partial: 803/1,050 · 76.48%.** Batch closes with 0810 (turn-3) next; then Batch 082 (the magma canals proper) — NOT AUTHORIZED until director says so.
+
+
+---
+
+## BATCH 081 — CLOSED 10/10 (2026-11-13) — THE SKY-COURTS — NOT zero-rejection — canal ruling in force
+
+- **DIRECTOR RULING (2026-11-13): LIVE MAGMA CANAL BEDS LEGAL FOR THE CH. VI SET-PIECES ONLY.** Canal beds render emissive amber-crimson; adjoining fused stone TAKES, never makes; NO open flame events; reflected amber only as canal-reflection on adjacent surfaces/faces, budgeted per frame; this ruling does NOT open episode-wide doctrine (§5 still out) and does NOT extend past Ch. VI.
+- **Rejection staircase (all cleared):** `0801`-v1 Goth-cathedral ARCH-GALLERY fused class then v2 opaque twisted fused mass. `0804`-v1 EAST crown smoke + filigree trellis crowns then v2 TORN LOBED crowns + smoke WEST. `0805`-v1 EAST-drifting Fourteen-Flames plumes then v2 all ≈14 plumes bend STRICTLY WEST. `0810`-v1 SKELETAL LATTICE-SHAFT SPIRES (twin oval voids) then v2 opaque shafts, voids only at crown lips, BUT smoke at upper-left still trailed EAST — `0810`-v2 REJECTED (second east-drift breach on this shot) then v3: ZERO smoke at top/right halves; one thin thread strictly WEST hugging the far-left edge; cleared.
+- **Catalogued classes:** GOTH-CATHEDRAL FUSED (`0801`-v1); TRELLIS-CROWN (`0804`-v1); EAST-DRIFT SMOKE (`0804`-v1, `0805`-v1, `0810`-v1/v2 — THREE east occurrences this batch — smoke-strictly-WEST must be fenced HARD in Ch. VI framings: zero-top/zero-right, one thread WEST at frame edge only).
+- **md5s (ALL MATCHED, re-read from Drive):** 0801 `84bd1d8b` · 0802 `ed05c53c` · 0803 `4536321a` · 0804 `994f0689` · 0805 `f4f10164` · 0806 `7a27b7a7` · 0807 `94cf8ce4` · 0808 `234ddc3d` · 0809 `eaac1666` · 0810 `031f0165`. Folder **EP001_BATCH_081_IMG0801-0810** (`1ZOKw63vSaqQJrqb0dqhoGYspqujOS7cI`).
+- **DRG-VAL-002 fifth batch:** absent by build — the span narrates the roosts being built "not for human footsteps, but for descending dragons," and the dragons have not visited yet; the sky was kept EMPTY. Flight ruling STILL OPEN.
+- **Counts at close: 804/1,050 · 76.57%. Next: Batch 082 (27:00–27:20 — the magma canals proper + the processional causeways + the sphinxes) — under the SAME Ch. VI canal ruling — NOT AUTHORIZED until director says so. §5 global ruling STILL OVERDUE.**
