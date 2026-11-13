@@ -1097,3 +1097,19 @@ New flags filed (none waived): `0741` 0685-class pinprick; `0748` garment drift;
 Cumulative open director items: glow-doctrine ruling; closed-batch enrichment (066–075); `0700` warm pinpricks; `0704` red-diamond signet shoulder; 0685/0735/0741 pixel dots; floor-class doctrine drift (`0739`/`0740`/`0741`/`0742`/`0743`/`0744`); `0744` necropolis-class; `0745` sea horizon class; `0746` fringe-hold class; `0748` garment class; `0750` cairn-stack class.
 
 **Next: Batch 076 (`25:00–25:20`) — NOT authorized. PR #3 REMAINS OPEN — the merge stays the director's call.**
+
+## BATCH 076 — OPENED 2026-11-13 (Ch. V · `25:00–25:20` · the republic learns to race · LOC-VAL-004 · CHAR-VAL-002 + CHAR-VAL-003 Stage C · frames `0751–0760`)
+
+Batch authorized by director reply ("go on") to the standing question posed at Batch 075 close-out. **NOT yet generated/uploaded — this is the opening ledger entry, counted as 0/10.**
+
+Scope rulings for the batch:
+- Every frame is CHAR-VAL-002 + CHAR-VAL-003 (both Stage C, side by side for the first time since the treaty block) + LOC-VAL-004.
+- The registry register is COMPETITIVE PRODUCTION (who pours more stone, who wakes more dragons, who goes deeper — rendered as muddy rope-and-hammer sweat, never effects).
+- **Narration-mandated exception:** the line "Dry-stone sheepfolds and timber halls could no longer house the lords of the sky" licenses ORDINARY WOODEN ROOFS (small dry-stone sheepfolds, low timber common halls) in frames **0759** and **0760** ONLY — dry, dark, SMOKELESS, unlit inside (zero candle class, zero hearth-glow, zero warm windows). All OTHER frames: NO roofs anywhere, ever, on Valyrian pour structures.
+- Dragons: unlit, grounded, wings folded, TAKE light never make it; ONE faint WEST smoke of a dragon's own breath permitted on 0756.
+- NO text/letters/runes anywhere; all tallies and reliefs BLANK or pure abstract geometry (chevrons/wave-lines/dots); NO crown/wreath; nothing glows; canals DEAD; smoke WEST; sea EAST ONE chalk seam; no sun; no warm horizon; no blood; NO SNOW; NO candles.
+- Faces LIFTED everywhere incl. both leads and every face resolved at range; crowds REQUIRED where named.
+- Floor-class drift on active review — polygonal weave = annotate + flag; monolithic pour the preferred class.
+- 0755 seals/maquette/ink-table items render BLANK; 0757 egg + shard = inert objects only, never glowing, never warm.
+
+Canonical counts at opening: **744/1,050 (70.86%)**; next batch in flight 076; next image number 0751; this batch targets 754/1,050 (71.81%). Drive folder to be created on first upload: `EP001_BATCH_076_IMG0751-0760`.
