@@ -1,0 +1,241 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1H-Pvs5y4gn7Uhh_-z8NI38wqgMBKEbY-",
+  "batch_drive_folder_name": "Batch_039_Images_0381-0390_Geothermal_Clutches_And_Hatchlings_12m40s-13m00s",
+  "batch_number": 39,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "12:40–13:00",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "approved_count": 10,
+  "approved_uploaded_count": 10,
+  "drive_verified_count": 10,
+  "pending_rerender_count": 0,
+  "pending_generate_count": 0,
+  "pending_completion_scenes": [],
+  "generations_used": 11,
+  "verified_episode_frames_after_batch": 396,
+  "verified_episode_percent_after_batch": "37.71%",
+  "visual_qc_note": "The first single-location batch since 036 and the strongest of them. Eleven generations for ten frames: nine landed on the first pass and only 0388 needed a second. 0381 is now the definitive dragon frame of the production — a full-weight adult loping on two taloned legs, wings half-spread for balance, thick tail counterweighting, the whole five-part silhouette intact in daylight. The hatching sequence escalates by scale rather than by detail: eggs as objects (0384), eggs against an endless columnar wall (0386), a claw through the split shell (0387), a head-and-shoulder portrait of the newborn (0388), the folded wet wing (0389), and finally the hatchling alone on the rim at two percent of frame (0390).",
+  "silhouette_note": "The Batch 037 five-part signature held in every dragon frame with no correction: barrel chest, thick short ringed neck, blunt horned wedge skull, folded wing-arms, thick tapering tail. 0381 adds the grounded stance to the repertoire — weight carried on two taloned hind legs with the wings used as counterbalance rather than support, which is what keeps a walking dragon from reading as a biped ape.",
+  "letterbox_scan_note": "Per-row content-box scan on all ten frames. Six carried strips and were cropped and resized back to 1376x768: 0381, 0382, 0383, 0388 and 0389 at rows 12-755, and 0390 at rows 0-755. The other four were full-bleed.",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0381",
+      "timestamp": "12:40–12:42",
+      "narration_slice": "and leviathans over the",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "Dynamic medium lateral tracking angle — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_039/VAL-EP001-IMG0381.png",
+      "resolution": "1376x768",
+      "drive_file_id": "19-Nr-kXVPMZ4I247mf23uBqzNcC2oQia",
+      "drive_url": "https://drive.google.com/file/d/19-Nr-kXVPMZ4I247mf23uBqzNcC2oQia/view?usp=drivesdk",
+      "md5": "db51c47ad17d26ae05cc05d97142d4c6",
+      "size_bytes": 1376326,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. The strongest dragon frame of the episode so far. 35mm lateral tracking at body height on a black caldera shelf: a wild adult loping forward on its two taloned hind legs, wings half-spread for balance, long thick tail counterweighting out behind, deep plated chest and thick short ringed neck, heavy blunt wedge skull in profile with both swept-back horns. Four limbs, weight not grace. Thin dark grey smoke filaments behind it, ash flats below, the hexagonal basalt wall half lost in cloud. Full-bleed after reframing rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0382",
+      "timestamp": "12:42–12:44",
+      "narration_slice": "Summer Sea and when they",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_039/VAL-EP001-IMG0382.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1_QE-XEfthZ--RX5fE3ngENRKW1QKzUG_",
+      "drive_url": "https://drive.google.com/file/d/1_QE-XEfthZ--RX5fE3ngENRKW1QKzUG_/view?usp=drivesdk",
+      "md5": "0b660e83f6fbc583308bd6e63463d562",
+      "size_bytes": 1508520,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 65mm compressed telephoto of a gorged adult asleep on its ledge: only the head and near shoulder in frame, the broad blunt snout resting flat on its own folded limb, jaw slack, both obsidian horns catching a cold edge, one brass-gold slit eye half-lidded and unfocused. A dull ember seam under the jaw is the only warmth. Face never presented to the lens. Full-bleed after reframing rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0383",
+      "timestamp": "12:44–12:46",
+      "narration_slice": "slept gorged upon cavern",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "Medium cinematic subject focus — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_039/VAL-EP001-IMG0383.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1WNIJKFqXvLOxuX0vqKyDbxZw1H_Iv-NA",
+      "drive_url": "https://drive.google.com/file/d/1WNIJKFqXvLOxuX0vqKyDbxZw1H_Iv-NA/view?usp=drivesdk",
+      "md5": "78af4c052b94ba5065d339ad84d8e28d",
+      "size_bytes": 1495686,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 50mm from inside a basalt lair alcove: the alcove mouth frames a sleeping adult lying on its side, tail curled around, wing membrane draped over its own flank, blunt horned skull flat on the rock. The shell-crusted floor fills the foreground, and beyond the alcove mouth the caldera opens onto fog and vertical ranks of hexagonal columns. A contained dull red seam of heat in the rock floor, never a fire. Full-bleed after reframing rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0384",
+      "timestamp": "12:46–12:48",
+      "narration_slice": "shelves. They observed clutches of",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "Wide environmental storytelling tableau — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_039/VAL-EP001-IMG0384.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1C8ic9Ak18zSeVyA3dZaKE1SPO_pGLA1t",
+      "drive_url": "https://drive.google.com/file/d/1C8ic9Ak18zSeVyA3dZaKE1SPO_pGLA1t/view?usp=drivesdk",
+      "md5": "46229c185543c89a673def8855ed564c",
+      "size_bytes": 2649523,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 35mm low across a geothermal ash-bed: five large eggs in a loose hollow, each hard and scale-textured with fine overlapping ridges and ashy mottling, one tilted against another and a fifth half-buried apart. Thin dark grey smoke seeps up through the cracked ash crust. Broken shell and old bone scatter the flats beyond. No animal living or dead in frame. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0385",
+      "timestamp": "12:48–12:50",
+      "narration_slice": "hard, scale-textured eggs nestled",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "High-elevation geographic / scale reveal — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_039/VAL-EP001-IMG0385.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1LC07JIOESugtpnyfqQpH2yF2V6aXUm0_",
+      "drive_url": "https://drive.google.com/file/d/1LC07JIOESugtpnyfqQpH2yF2V6aXUm0_/view?usp=drivesdk",
+      "md5": "40b8e7537c3fb4b22a0bc55cdb994d84",
+      "size_bytes": 2315933,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 24mm high reveal down into the nesting basin: a vast ash plain patterned with dozens of pale-rimmed shallow bowls, each with its own thin dark smoke filament drifting sideways, tiny dark adults curled at rest among them. The far wall of hexagonal columns rises out of cloud. Foreground ledge carries loose obsidian shards and one broken eggshell to give the drop its scale. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0386",
+      "timestamp": "12:50–12:52",
+      "narration_slice": "directly inside geothermal ash-beds,",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "Towering vertical scale composition — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_039/VAL-EP001-IMG0386.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1KiD6EYoFXtvgqWobbypWXl9y_mBc8Vi3",
+      "drive_url": "https://drive.google.com/file/d/1KiD6EYoFXtvgqWobbypWXl9y_mBc8Vi3/view?usp=drivesdk",
+      "md5": "8b0dab46e2105b5544b6c6e3d42d07a5",
+      "size_bytes": 2375833,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 24mm from inside a nesting hollow, low and tilted up: three eggs close at the lens, the nearest huge and soft, their ridged surfaces filling the lower left corner, smoke seeping between them. Above the hollow rim the caldera wall climbs in tier after tier of natural hexagonal basalt columns, rain-wet with pale mineral crust in the joints, out of frame into grey cloud. The scale contrast between man-sized eggs and an endless wall is the whole point. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0387",
+      "timestamp": "12:52–12:54",
+      "narration_slice": "watching winged hatchlings no larger",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "Macro environmental / material texture insert — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_039/VAL-EP001-IMG0387.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1yff3Ic5HkTScS-iNmJjygYgUBfwtAwkh",
+      "drive_url": "https://drive.google.com/file/d/1yff3Ic5HkTScS-iNmJjygYgUBfwtAwkh/view?usp=drivesdk",
+      "md5": "4acebab76329b55828deb25ce6120a58",
+      "size_bytes": 2566847,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 85mm near-macro at the moment of hatching: one small dark forelimb, four wet glossy scaled digits, pushed out through a jagged split in the shell and hooked over the broken edge, the shell crazed and lightly blackened at the fracture, a thin dark grey smoke filament escaping the gap, and a small dull ember-orange glow deep inside the split. Broken pale fragments in coarse ash around it. Full-bleed."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0388",
+      "timestamp": "12:54–12:56",
+      "narration_slice": "than hounds claw free",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "Intimate close-up detail / expression beat — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_039/VAL-EP001-IMG0388.png",
+      "resolution": "1376x768",
+      "drive_file_id": "12YP6QLpAs1THd3Eywf-NNsrrkQyrzchB",
+      "drive_url": "https://drive.google.com/file/d/12YP6QLpAs1THd3Eywf-NNsrrkQyrzchB/view?usp=drivesdk",
+      "md5": "5e567da614d7320d1c17d54c860342e5",
+      "size_bytes": 1791828,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 2. 85mm tight profile of the hatchling's head and forequarters as it emerges from the split shell: heavy blunt wedge skull, broad flat snout, low brow, two short swept-back horn buds, jaw slightly open showing small teeth, one brass-gold slit eye to the light; thick short plate-ringed neck and a deep plated shoulder behind. Matte, wet, finely scaled living skin. Pass 1 was a glossy figurine with a spiky crest and slender neck; the fix was to stop photographing the whole animal and shoot it as a head-and-shoulder portrait. Reframed rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0389",
+      "timestamp": "12:56–12:58",
+      "narration_slice": "of smoking shells and hiss",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "Extreme close-up tactile / light study — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [],
+      "file_path": "assets/batch_039/VAL-EP001-IMG0389.png",
+      "resolution": "1376x768",
+      "drive_file_id": "1IdU3C2vietBYsrpYBs8O6Wcs5-bdJ5S3",
+      "drive_url": "https://drive.google.com/file/d/1IdU3C2vietBYsrpYBs8O6Wcs5-bdJ5S3/view?usp=drivesdk",
+      "md5": "724a715f68f08920809099eaa9853a6c",
+      "size_bytes": 1580746,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 100mm near-macro grazing along a newborn's folded wing: the wet membrane creased into soft folds like wet leather, fine pebbled scales along the arm bones, faint translucent veins, water beads sitting in the creases, the outer margin soft and unfrayed unlike an adult's, the small wing-claw curled shut and still glossy. Pale shell fragments at the edge of frame and one out-of-focus smoke filament behind. Full-bleed after reframing rows 12-755."
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0390",
+      "timestamp": "12:58–13:00",
+      "narration_slice": "at the mountain sky.",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "Transitional wide horizon / bridge framing — Geothermal ash-nests, smoking dragon eggs & winged hatchlings",
+      "location_refs": [
+        "LOC-VAL-003"
+      ],
+      "creature_refs": [
+        "DRG-VAL-001"
+      ],
+      "file_path": "assets/batch_039/VAL-EP001-IMG0390.png",
+      "resolution": "1376x768",
+      "drive_file_id": "12vkTrCNaoBJf1KESUOG665cp3Ve093dN",
+      "drive_url": "https://drive.google.com/file/d/12vkTrCNaoBJf1KESUOG665cp3Ve093dN/view?usp=drivesdk",
+      "md5": "189816f549b6934ab96cbe6dccc53412",
+      "size_bytes": 1406113,
+      "md5_verified_on_drive": true,
+      "qc_status": "APPROVED",
+      "qc_note": "APPROVED pass 1. 40mm bridge from a low angle behind the nest rim: the hatchling stands on the ash and bone rim, tiny in frame, jaw open, head tilted up at the sky, wings half-unfolded and awkward, wet membrane creased. Behind it the whole caldera plain of smoking pale-rimmed beds recedes into layered haze under the hexagonal wall. Heroic in scale, not in size; the animal is roughly two percent of the frame. Full-bleed after reframing rows 0-755."
+    }
+  ],
+  "md5_verification_note": "Folder listing re-read after the tenth upload and compared to local md5sum output. All ten names, sizes and checksums match byte for byte: db51c47ad17d26ae05cc05d97142d4c6, 0b660e83f6fbc583308bd6e63463d562, 78af4c052b94ba5065d339ad84d8e28d, 46229c185543c89a673def8855ed564c, 40b8e7537c3fb4b22a0bc55cdb994d84, 8b0dab46e2105b5544b6c6e3d42d07a5, 4acebab76329b55828deb25ce6120a58, 5e567da614d7320d1c17d54c860342e5, 724a715f68f08920809099eaa9853a6c, 189816f549b6934ab96cbe6dccc53412."
+}

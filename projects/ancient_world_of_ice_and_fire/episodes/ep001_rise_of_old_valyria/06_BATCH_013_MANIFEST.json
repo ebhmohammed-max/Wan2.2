@@ -1,0 +1,261 @@
+{
+  "series_title": "The Ancient World of Ice and Fire",
+  "episode_number": "EP001",
+  "episode_title": "Before the Dragons: The Rise of Old Valyria",
+  "visual_cadence_rule": "30 images per minute (1 image every 2.0 seconds)",
+  "visual_style_standard": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location cinematography (ARRI Alexa 65, Panavision Primo primes, Kodak Vision3 500T grade: warm sandstone highlights, muted earth/stone/bronze midtones, deep ink-navy shadows)",
+  "style_reference_benchmark": "The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
+  "target_drive_archive_folder": "Game of thrones YT (1ymYd6xYO3MyJ-IXaYyo2YrBclUGYzJGo)",
+  "batch_drive_folder_id": "1fDZk-LqYBJSkFH4TOKGh8gPnk5aW5fqF",
+  "batch_number": 13,
+  "total_batches": 105,
+  "total_episode_images": 1050,
+  "batch_timespan": "04:00–04:20",
+  "aspect_ratio": "16:9",
+  "resolution_native": "1376x768",
+  "batch_status": "10_OF_10_UPLOADED_MD5_VERIFIED_VISUAL_QC_APPROVED",
+  "pending_completion_scenes": [],
+  "visual_qc_note": "All ten Lockstep Legion frames visually reviewed and approved; IMG0129 letterbox strips were removed and the full-bleed crop resized to 1376x768 sRGB. Drive lists exactly ten images and all Drive MD5 checksums match local files.",
+  "scenes": [
+    {
+      "scene_id": "VAL-EP001-IMG0121",
+      "timestamp": "04:00–04:02",
+      "shot_lens": "LAM · 28mm",
+      "narration_slice": "Under its legendary founder,",
+      "shot_type": "Low-angle monumental architectural / geological framing — Grazdan the Great & triple-speared Lockstep Legions",
+      "visual_beat": "Low-angle monumental architectural / geological framing — Grazdan the Great & triple-speared Lockstep Legions",
+      "character_refs": [
+        "CHAR-GHI-001"
+      ],
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "file_path": "assets/batch_013/VAL-EP001-IMG0121.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. I",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2859513,
+      "md5": "7d6c84f52b74285c88e1b63e96dc2d0b",
+      "resolution": "1376x768",
+      "drive_file_id": "10udxRahl6hBCVjC0mua8VyXd0XMNnqqH",
+      "drive_url": "https://drive.google.com/file/d/10udxRahl6hBCVjC0mua8VyXd0XMNnqqH/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0122",
+      "timestamp": "04:02–04:04",
+      "shot_lens": "OTS · 40mm",
+      "narration_slice": "Grazdan the Great, Ghis forged",
+      "shot_type": "Over-the-shoulder depth perspective — Grazdan the Great & triple-speared Lockstep Legions",
+      "visual_beat": "Over-the-shoulder depth perspective — Grazdan the Great & triple-speared Lockstep Legions",
+      "character_refs": [
+        "CHAR-GHI-001"
+      ],
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "file_path": "assets/batch_013/VAL-EP001-IMG0122.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. I",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2780488,
+      "md5": "880d9bf2cb777c2864314e758c976cd2",
+      "resolution": "1376x768",
+      "drive_file_id": "1AWmpElmsBVyeWWg4pFhQyzhC6K35VYfv",
+      "drive_url": "https://drive.google.com/file/d/1AWmpElmsBVyeWWg4pFhQyzhC6K35VYfv/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0123",
+      "timestamp": "04:04–04:06",
+      "shot_lens": "WS · 28mm",
+      "narration_slice": "an engine of conquest",
+      "shot_type": "Deep-focus wide atmospheric composition — Grazdan the Great & triple-speared Lockstep Legions",
+      "visual_beat": "Deep-focus wide atmospheric composition — Grazdan the Great & triple-speared Lockstep Legions",
+      "character_refs": [
+        "CHAR-GHI-001"
+      ],
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "file_path": "assets/batch_013/VAL-EP001-IMG0123.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. I",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 2654708,
+      "md5": "e6736e6f825a2f713ab4cb35508121ec",
+      "resolution": "1376x768",
+      "drive_file_id": "1kCOF-rxqGGeNOBfPWD-VCqYXsVeekGqL",
+      "drive_url": "https://drive.google.com/file/d/1kCOF-rxqGGeNOBfPWD-VCqYXsVeekGqL/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0124",
+      "timestamp": "04:06–04:08",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "unlike anything Essos had",
+      "shot_type": "Ultra-wide establishing vista — Grazdan the Great & triple-speared Lockstep Legions",
+      "visual_beat": "Ultra-wide establishing vista — Grazdan the Great & triple-speared Lockstep Legions",
+      "character_refs": [
+        "CHAR-GHI-001"
+      ],
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "file_path": "assets/batch_013/VAL-EP001-IMG0124.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. I",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2711037,
+      "md5": "d081e93e3763405d76fafc075ce825ce",
+      "resolution": "1376x768",
+      "drive_file_id": "1DA-yjsRpGTagwG6vOem739Sns2MYO5M1",
+      "drive_url": "https://drive.google.com/file/d/1DA-yjsRpGTagwG6vOem739Sns2MYO5M1/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0125",
+      "timestamp": "04:08–04:10",
+      "shot_lens": "MCU · 50mm",
+      "narration_slice": "yet witnessed: the lockstep",
+      "shot_type": "Medium close-up atmospheric focal beat — Grazdan the Great & triple-speared Lockstep Legions",
+      "visual_beat": "Medium close-up atmospheric focal beat — Grazdan the Great & triple-speared Lockstep Legions",
+      "character_refs": [
+        "CHAR-GHI-001"
+      ],
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "file_path": "assets/batch_013/VAL-EP001-IMG0125.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. I",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2668782,
+      "md5": "89135e0ecb656df5c6f3dd26c125e0d3",
+      "resolution": "1376x768",
+      "drive_file_id": "12nkUluEbVR9nI4yS0QZzlSXxSs2tz3dJ",
+      "drive_url": "https://drive.google.com/file/d/12nkUluEbVR9nI4yS0QZzlSXxSs2tz3dJ/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0126",
+      "timestamp": "04:10–04:12",
+      "shot_lens": "MS · 35mm",
+      "narration_slice": "legions. Armed with tall shields,",
+      "shot_type": "Dynamic medium lateral tracking angle — Grazdan the Great & triple-speared Lockstep Legions",
+      "visual_beat": "Dynamic medium lateral tracking angle — Grazdan the Great & triple-speared Lockstep Legions",
+      "character_refs": [
+        "CHAR-GHI-001"
+      ],
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "file_path": "assets/batch_013/VAL-EP001-IMG0126.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. I",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 2803446,
+      "md5": "09533c45484c2e0d04e2d9e41962688b",
+      "resolution": "1376x768",
+      "drive_file_id": "1QHNU24JSrlXVxHKCkmJqe1N8RsKrlflQ",
+      "drive_url": "https://drive.google.com/file/d/1QHNU24JSrlXVxHKCkmJqe1N8RsKrlflQ/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0127",
+      "timestamp": "04:12–04:14",
+      "shot_lens": "MCU · 65mm",
+      "narration_slice": "short swords, and three",
+      "shot_type": "Compressed telephoto dramatic subject framing — Grazdan the Great & triple-speared Lockstep Legions",
+      "visual_beat": "Compressed telephoto dramatic subject framing — Grazdan the Great & triple-speared Lockstep Legions",
+      "character_refs": [
+        "CHAR-GHI-001"
+      ],
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "file_path": "assets/batch_013/VAL-EP001-IMG0127.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. I",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2751994,
+      "md5": "b3fa8bdeaf893fd7f925f7bc76cc9725",
+      "resolution": "1376x768",
+      "drive_file_id": "1TnJnL_gtbGmHc-Rkb591vZ_FPKL1SPgK",
+      "drive_url": "https://drive.google.com/file/d/1TnJnL_gtbGmHc-Rkb591vZ_FPKL1SPgK/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0128",
+      "timestamp": "04:14–04:16",
+      "shot_lens": "MS · 50mm",
+      "narration_slice": "spears of graduated length,",
+      "shot_type": "Medium cinematic subject focus — Grazdan the Great & triple-speared Lockstep Legions",
+      "visual_beat": "Medium cinematic subject focus — Grazdan the Great & triple-speared Lockstep Legions",
+      "character_refs": [
+        "CHAR-GHI-001"
+      ],
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "file_path": "assets/batch_013/VAL-EP001-IMG0128.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. I",
+      "editorial_treatment": "Static 2.0s theatrical hold; clean cut on narration beat.",
+      "size_bytes": 2662498,
+      "md5": "2cc1ccf1552a3eadb0ae9110c70f56e0",
+      "resolution": "1376x768",
+      "drive_file_id": "18bDPobOHA_Vpr6SiiPXxdl1uTFJ3aWkX",
+      "drive_url": "https://drive.google.com/file/d/18bDPobOHA_Vpr6SiiPXxdl1uTFJ3aWkX/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0129",
+      "timestamp": "04:16–04:18",
+      "shot_lens": "WS · 35mm",
+      "narration_slice": "Ghiscari infantry marched to",
+      "shot_type": "Wide environmental storytelling tableau — Grazdan the Great & triple-speared Lockstep Legions",
+      "visual_beat": "Wide environmental storytelling tableau — Grazdan the Great & triple-speared Lockstep Legions",
+      "character_refs": [
+        "CHAR-GHI-001"
+      ],
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "file_path": "assets/batch_013/VAL-EP001-IMG0129.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. I",
+      "editorial_treatment": "Subtle lateral drift <=3%; maintain natural 65mm film grain.",
+      "size_bytes": 1760537,
+      "md5": "7280aff24d7028b0fa57339ae1af0a40",
+      "resolution": "1376x768",
+      "drive_file_id": "1vULDufURi4bYazIb1sirE25yLENKS9sZ",
+      "drive_url": "https://drive.google.com/file/d/1vULDufURi4bYazIb1sirE25yLENKS9sZ/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    },
+    {
+      "scene_id": "VAL-EP001-IMG0130",
+      "timestamp": "04:18–04:20",
+      "shot_lens": "UWA · 24mm",
+      "narration_slice": "the beat of bronze drums",
+      "shot_type": "High-elevation geographic / scale reveal — Grazdan the Great & triple-speared Lockstep Legions",
+      "visual_beat": "High-elevation geographic / scale reveal — Grazdan the Great & triple-speared Lockstep Legions",
+      "character_refs": [
+        "CHAR-GHI-001"
+      ],
+      "location_refs": [
+        "LOC-ESS-001"
+      ],
+      "file_path": "assets/batch_013/VAL-EP001-IMG0130.png",
+      "qc_status": "APPROVED_VISUAL_65MM_V1",
+      "chapter": "Ch. I",
+      "editorial_treatment": "Slow push 100->105%; preserve horizon and architectural verticals.",
+      "size_bytes": 2785211,
+      "md5": "100315a39f07ecda26df3503739601ac",
+      "resolution": "1376x768",
+      "drive_file_id": "1uczRBtyBSqJM0BCuUFLe_cDElrYN9VAm",
+      "drive_url": "https://drive.google.com/file/d/1uczRBtyBSqJM0BCuUFLe_cDElrYN9VAm/view?usp=drivesdk",
+      "md5_verified_on_drive": true
+    }
+  ]
+}
