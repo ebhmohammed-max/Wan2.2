@@ -1,7 +1,7 @@
 # BATCH 098 — IMAGE PROMPTS
 **Episode 001 · Before the Dragons: The Rise of Old Valyria**
 **Timecode 32:20–32:40 · frames VAL-EP001-IMG0971 – IMG0980 · Ch. VII — THE WARLORDS OF GHIS PRICE THE KINGDOM OF ASH**
-**Status: OPEN 8/10 — turn-1 executed 2026-11-14; TWO REJECTS, turn-2 pending (0977 gold-chrome Mycenean armor + slab-edge pseudo-Latin inscription + warm cloud break; 0979 idol capped monolith-towers + pharaonic-feet pylons). Span narration (L297 tail → L298):**
+**Status: CLOSED 10/10 — turn-2 cleared 0977 & 0979 on 2026-11-14. Span narration (L297 tail → L298):**
 
 `…dragons. To the warlords of Ghis, such creatures were simultaneously an intolerable danger and an irresistible prize that belonged to Ghis alone.`
 
@@ -89,3 +89,23 @@ Saved `/home/user/Wan2.2/assets/batch_098_work/`, all 1376×768, md5s below. **T
 
 **Batch status: OPEN 8/10 — NOTHING uploaded. Inventory UNCHANGED 964/1,050 · 91.81%.**
 md5s: 0971 9956d890a3a5bf76e001753b8f5d966e · 0972 cb841a27c1d5a52f59c10ce89a31d7d9 · 0973 25a3f26b0b5a4aeaaccdeba4ef08c842 · 0974 355ff69089705801dd774b9901917192 · 0975 ee5a7ebe68bf1fe74cc3d3357fd67d83 · 0976 26fcfbc5b512afe28059cd8676c09610 · 0977 a3dde7054c72ff4959ef0428124180a8 (rejected) · 0978 812fbe5840ce1c719c75e9d6d331c760 · 0979 54d1c74eb192a54970622c3fd958d82c (rejected) · 0980 28a8520f3f3d0495428e7de422d6c459
+
+
+---
+
+## TURN-2 VERDICTS — 2026-11-14 (both cleared) — UPDATED: batch CLOSED 10/10
+- **0977 — KEEP (caution, director read).** OTS rebuilt: TWO figures in dull KHAN-DUST/horizon ash-tan wrap and robe-class (NO armor, NO pauldrons, NO chrome); SLAB FRONT FACE grounds smooth — ZERO letters, ZERO lines; sky UNIFORM FLAT PEWTER edge-to-edge INCLUDING the horizon (warm gong GONE); spear-wall ant-dot files below. Carried caution: the far figure’s TURBAN + LONG GOWN TAIL reads KHAN/BARB-TRADE dress generics rather than a tokar drape — Ess trade-aristocracy pastiche class; director read, never waived. md5 48b4cd21aa47d9218305851d50920ebf.
+- **0979 — KEEP · CLEAN.** The establishing vista REBUILT: plain multi-staggered brick PYLONS (zero caps, zero statues, zero creatures — idol class ELIMINATED); paving seams down the avenue; forty LONG FILES of lockstep spear-points iron-black, NO glints; lantern-boards EMPTY; the city beyond FLAT and SOMBER; sky UNIFORM PEWTER edge-to-edge; NO text; NO sigils; ZERO flame. The macro-order, absolute confidence rendered from above. md5 0b92f4fb08bfdf68e11d7ccbcdd701b2.
+
+## CLOSE — BATCH 098 — 2026-11-14 — UPLOADED + MD5-VERIFIED — 964 → 974/1,050 (92.76%)
+**Drive folder:** `EP001_BATCH_098_IMG0971-0980` · id **`1s3a6hwtyTctkaD5jJUvEEhdkzQm-GNjE`** (parent EP001 `1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn`). File IDs: 0971 1InjccndORiQwgUqB_NLdL49lCsAYL8ei · 0972 1GCKbL-P9Tlv1JFTT-8cCDzBqOgl302-7 · 0973 10jJNGxaQcrOiHFG0xH0kDmUoU5cuQ1KM · 0974 1y_7My2Vt9Z0ymNVGSOQX8QT-MKHTa9uA · 0975 1HqwV1LGDjj___XChiAn4q7bsDVUuN3Et · 0976 1wNaCpGFtH73fhje77jCS6mGSPrgzTvMw · 0977 1ZACyh3uRCjuufxQAIIK2JrRIDNuL4zDF · 0978 1ADGSUIYQ0ShiOqDfucii4npLE-ezyMN7 · 0979 1E6rzByN43GVys9UMb0BfcQFaamRRD1Yd · 0980 1IU_LrwSQzxZIZVc0kEs2xkw0c32Eb6-G. Create→upload→re-list executed; `list_files` returned **10 files, total_count 10**; every `md5Checksum` matched local EXACTLY (see entries below). All 1376×768, stripped.
+**Batch outcome: 10/10 landed. Turn-1 8 KEEP + 2 REJECT; turn-2 BOTH CLEARED.**
+**Dignified-horror HELD:** ZERO capture, ZERO blood, ZERO suffering. The Ghis appetite renders as hardware and a BLANK PRIZE-BED (0972 scorpion-bolt macro; 0974 the empty strongbox) — appetite with no face attached.
+**§5 IN FORCE — HELD. Zero emitters everywhere (0977’s warm horizon gong re-rendered silent). One logged open-door PEWTER sliver only (open-door ambient — 0978 — no beams, no disc, no rays, no point lights anywhere). PEWTER universal. SLATE at frame seams where water sits (0975).**
+**DRG-VAL-002 HELD — no dragon ANYWHERE. The question “beasts of flesh, and beasts could be brought down” is answered ENTIRELY by apparatus and absence: scorpion bolts (0972) · an empty prize-bed (0974) · shadows and attention (0971/0976/0978/0979) · two stone-still hands (0980). The creature remains off-frame by decree (0771–0980 all hold).**
+**THE HARPY REMAINS UNDEPICTED — ABSOLUTE FREEZE HELD. “In the shadow of the Harpy’s thunderbolt” rendered as STRUCTURAL SHADOW ONLY: bastion tip in silhouette (0976) over a black pooling straight-shadow on the muster-ground, NO fig, NO emblem, NO bird. The 100-ft bronze Harpy of Old Ghis still awaits your explicit ruling.**
+**HOUSE DOCTRINE:** UNCLASSIFIED Ghiscari commanders everywhere; horizon ash-tant wrap/Khan tokar generics logged as pastiche class; NO sigils/devices anywhere (0980 silver bowl rim clean); NO TEXT/LETTERS anywhere; geometry-only ornament HELD (the 0980 filigree class + square+sun-circle motifs = director read).
+**Carried standing cautions INTO batch 099+ (never waived):** 0980 (filigree GOLD-DULL load + sun-motif class) · 0977 (Khan/Barb trade-dress generics) · 0975 (chalk-white cliff bridge far shore; Venetian brigantine class at left; stub-boss class) · 0973 (swatch of gold pigment upper-right; upper-left boss class) · 0980 ornament lushness.
+**Inventory:** 964 → **974/1,050 · 92.76%** · completed_batches **98** · next_batch **99** · next_image_number **981**. Batch 099 (32:40→) NOT AUTHORIZED until director word.
+**PR:** Batches 095+096+097 ride PR #4; this batch joins them on the same branch. Merge = director’s call.
+md5s: 0971 9956d890a3a5bf76e001753b8f5d966e · 0972 cb841a27c1d5a52f59c10ce89a31d7d9 · 0973 25a3f26b0b5a4aeaaccdeba4ef08c842 · 0974 355ff69089705801dd774b9901917192 · 0975 ee5a7ebe68bf1fe74cc3d3357fd67d83 · 0976 26fcfbc5b512afe28059cd8676c09610 · 0977 48b4cd21aa47d9218305851d50920ebf · 0978 812fbe5840ce1c719c75e9d6d331c760 · 0979 0b92f4fb08bfdf68e11d7ccbcdd701b2 · 0980 28a8520f3f3d0495428e7de422d6c459

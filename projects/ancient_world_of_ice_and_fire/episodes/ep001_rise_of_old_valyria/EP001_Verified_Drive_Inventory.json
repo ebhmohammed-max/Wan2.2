@@ -5,9 +5,9 @@
   "target_images": 1050,
   "batch_size": 10,
   "total_batches": 105,
-  "completed_batches": 97,
-  "next_batch": 98,
-  "next_image_number": 971,
+  "completed_batches": 98,
+  "next_batch": 99,
+  "next_image_number": 981,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -149,6 +149,11 @@
       "name": "EP001_BATCH_097_IMG0961-0970",
       "drive_id": "1MSnNvYlpNI79oGbRg0vgxHRYwCd7i_iY",
       "url": "https://drive.google.com/drive/folders/1MSnNvYlpNI79oGbRg0vgxHRYwCd7i_iY"
+    },
+    "batch_098": {
+      "name": "EP001_BATCH_098_IMG0971-0980",
+      "drive_id": "1s3a6hwtyTctkaD5jJUvEEhdkzQm-GNjE",
+      "url": "https://drive.google.com/drive/folders/1s3a6hwtyTctkaD5jJUvEEhdkzQm-GNjE"
     }
   },
   "batch_001_images_65mm_upgraded": [
@@ -1934,7 +1939,7 @@
     }
   ],
   "last_updated": "2026-11-14",
-  "verified_progress_percent": 91.81,
+  "verified_progress_percent": 92.76,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3630,7 +3635,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 964,
+  "verified_image_count": 974,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -15906,5 +15911,134 @@
   "batch_097_pending_rerender": 0,
   "batch_097_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
   "batch_097_note": "Ch. VII 32:00–32:20 — the Ghis dark envy (upstart republic across the gulf; the unpaid Bronze Harpy; the verified dragon sightings). Turn-1 5 KEEP + 5 REJECT; turn-2 ALL FIVE CLEARED. FIVE CLASS FAULTS all logged and cleared: modern-industrial canal (0964) · stamped denarii text (0965) · rails + wire + vanishing minarets (0966) · MODERN dock + lamps (0968) · plague-dense rooftops + desert cast (0970). Dignified-horror ABSOLUTE held — slavery span rendered as emptied apparatus and accounting (empty market, blank coins, unpaid tribute); ZERO captives, ZERO coffles. §5 HELD (0968 point-light breach cleared turn-2). DRG-VAL-002 OPEN — no dragon anywhere; sightings rendered as unanimous STILLNESS at empty sky (0970). THE HARPY REMAINS UNDEPICTED (refusal rendered via empty tribute-stone + slack grey ribbon; the 100-ft bronze Harpy awaits explicit director ruling). Inventory 954→964/1,050 · 91.81%. Batch 098 (32:20→) NOT AUTHORIZED.",
-  "batch_097_close_note": "CLOSED 10/10 NOT zero-defect — five turn-1 class faults, ALL CLEARED turn-2 (modern-industrial/modern-dock/inscribed-coinage/rail-wire/pollution of density). §5 HELD. DRG-VAL-002 HELD. md5s ALL MATCHED on Drive re-list (10/10). Dignified-horror absolute held. Batch 098 NOT AUTHORIZED."
+  "batch_097_close_note": "CLOSED 10/10 NOT zero-defect — five turn-1 class faults, ALL CLEARED turn-2 (modern-industrial/modern-dock/inscribed-coinage/rail-wire/pollution of density). §5 HELD. DRG-VAL-002 HELD. md5s ALL MATCHED on Drive re-list (10/10). Dignified-horror absolute held. Batch 098 NOT AUTHORIZED.",
+  "batch_098_verified_images": [
+    {
+      "image_number": 971,
+      "scene_id": "VAL-EP001-IMG971",
+      "batch": 98,
+      "timestamp": "32:20–32:22",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "turn-1 — LAM 24mm: blank brick OBSERVATION SHAFT, tallest citadel mass, side face in STRAIGHT PEWTER shadow, zero insignia; hooded sentinel from behind-below, rod grounded; sky UNIFORM PEWTER; Ghis envy answered with brick height; NO text",
+      "md5": "9956d890a3a5bf76e001753b8f5d966e",
+      "size_bytes": 1686892,
+      "drive_file_id": "1InjccndORiQwgUqB_NLdL49lCsAYL8ei",
+      "verdict": "APPROVED_TURN_1_·_CLEAN"
+    },
+    {
+      "image_number": 972,
+      "scene_id": "VAL-EP001-IMG972",
+      "batch": 98,
+      "timestamp": "32:22–32:24",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "turn-1 — DET 85mm macro: THREE graduated honey-bronze triple-barbed scorpion bolts racked in a magazine trough (4th cropped); shafts matte, NO glint; braided cordage; NO flesh/crest/text; SORCERY-FLAT",
+      "md5": "cb841a27c1d5a52f59c10ce89a31d7d9",
+      "size_bytes": 1370234,
+      "drive_file_id": "1GCKbL-P9Tlv1JFTT-8cCDzBqOgl302-7",
+      "verdict": "APPROVED_TURN_1_·_CLEAN"
+    },
+    {
+      "image_number": 973,
+      "scene_id": "VAL-EP001-IMG973",
+      "batch": 98,
+      "timestamp": "32:24–32:26",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "turn-1 — CU 85mm elder commander: dusk-brown chalk-grey close crop, upper-lidded past-lens stare; ochre tokar dull fringe; ONE bronze earring, ONE ring; map-room gloom pooling behind; arithmetic about a fire he refuses to name",
+      "md5": "25a3f26b0b5a4aeaaccdeba4ef08c842",
+      "size_bytes": 1372761,
+      "drive_file_id": "10jJNGxaQcrOiHFG0xH0kDmUoU5cuQ1KM",
+      "verdict": "APPROVED_TURN_1_·_CAUTION (pigment swirls + upper-left boss class — illegible, geometry-only HELD)"
+    },
+    {
+      "image_number": 974,
+      "scene_id": "VAL-EP001-IMG974",
+      "batch": 98,
+      "timestamp": "32:26–32:28",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "turn-1 — DET 100mm macro: open STRONGBOX, madder-red stitched velvet bed laying EMPTY, fresh corners; dull iron corner-cuffs; iron ring half-received; the confidence of an owner awaiting delivery; ZERO text; ZERO flame",
+      "md5": "355ff69089705801dd774b9901917192",
+      "size_bytes": 1534534,
+      "drive_file_id": "1y_7My2Vt9Z0ymNVGSOQX8QT-MKHTa9uA",
+      "verdict": "APPROVED_TURN_1_·_CLEAN"
+    },
+    {
+      "image_number": 975,
+      "scene_id": "VAL-EP001-IMG975",
+      "batch": 98,
+      "timestamp": "32:28–32:30",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "turn-1 — WS 40mm transitional bridge: Ghis quay profile vs FAR SHORE rendered as full-width CHALK-WHITE claim band (“mountains of silver” grand-metaphor — director read); Venetian-brigantine-class hull at left (masted, no flags); SLATE strait; UNIFORM PEWTER",
+      "md5": "ee5a7ebe68bf1fe74cc3d3357fd67d83",
+      "size_bytes": 1360815,
+      "drive_file_id": "1HqwV1LGDjj___XChiAn4q7bsDVUuN3Et",
+      "verdict": "APPROVED_TURN_1_·_CAUTION (chalk-cliff far shore; Venetian brigantine; stub-boss class)"
+    },
+    {
+      "image_number": 976,
+      "scene_id": "VAL-EP001-IMG976",
+      "batch": 98,
+      "timestamp": "32:30–32:32",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "turn-1 — LAM 28mm: crenellated brick bastion TIP against an UNBROKEN PEWTER ceiling; straight-edged shadow pooling black over the muster-ground below; NO birds, NO figuration — the “Harpy’s thunderbolt” rendered as STRUCTURAL SHADOW ONLY; freeze honoured",
+      "md5": "26fcfbc5b512afe28059cd8676c09610",
+      "size_bytes": 1178235,
+      "drive_file_id": "1wNaCpGFtH73fhje77jCS6mGSPrgzTvMw",
+      "verdict": "APPROVED_TURN_1_·_CLEAN"
+    },
+    {
+      "image_number": 977,
+      "scene_id": "VAL-EP001-IMG977",
+      "batch": 98,
+      "timestamp": "32:32–32:34",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "turn-2 — OTS 40mm: two figures in dull KHAN-DUST/horizon ash-tan wrap class (NO armor/pauldrons/chrome); SLAB FRONT face ground SMOOTH (ZERO letters); sky UNIFORM FLAT PEWTER incl. HORIZON (warm gong GONE); ant-files of spear-wall at legal-square; two figures only",
+      "md5": "48b4cd21aa47d9218305851d50920ebf",
+      "size_bytes": 1258781,
+      "drive_file_id": "1ZACyh3uRCjuufxQAIIK2JrRIDNuL4zDF",
+      "verdict": "APPROVED_AFTER_TURN_2_·_FAULT_CLEARED (mirror-gold Mycenean cuirass + edge-incised pseudo-Latin + warm horizon gong → dull KHAN ash-tones, blank slab, uniform PEWTER) — CAUTION (Khan/barb trade-dress generics, pastiche class)"
+    },
+    {
+      "image_number": 978,
+      "scene_id": "VAL-EP001-IMG978",
+      "batch": 98,
+      "timestamp": "32:34–32:36",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "turn-1 — WS 28mm DEEP-FOCUS: the WEIGHING IN THE DARK HALL — bench-rows of forty officers receding, backs ONLY, faces erased to grain; ONE far PEWTER door door-sliver at the vanishing point (open-door ambient, logged; NO beams, NO disc, NO rays); plain geometry arches; the attendance IS the weighing",
+      "md5": "812fbe5840ce1c719c75e9d6d331c760",
+      "size_bytes": 1245488,
+      "drive_file_id": "1ADGSUIYQ0ShiOqDfucii4npLE-ezyMN7",
+      "verdict": "APPROVED_TURN_1_·_CLEAN"
+    },
+    {
+      "image_number": 979,
+      "scene_id": "VAL-EP001-IMG979",
+      "batch": 98,
+      "timestamp": "32:36–32:38",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-2 — UWA 24mm: plain MULTI-STAGGERED BRICK PYLONS at both abutments (NO statues, NO caps, ZERO creatures — idol class ELIMINATED); paving seams down the avenue; forty LONG FILES of lockstep spear-points iron-black, NO glints; lantern boards EMPTY; the city beyond flat and somber; UNIFORM PEWTER edge-to-edge",
+      "md5": "0b92f4fb08bfdf68e11d7ccbcdd701b2",
+      "size_bytes": 1589924,
+      "drive_file_id": "1E6rzByN43GVys9UMb0BfcQFaamRRD1Yd",
+      "verdict": "APPROVED_AFTER_TURN_2_·_FAULT_CLEARED (idol-capped monolith spires + pharaonic-feet + Egyptian gate class → pure brick geometry)"
+    },
+    {
+      "image_number": 980,
+      "scene_id": "VAL-EP001-IMG980",
+      "batch": 98,
+      "timestamp": "32:38–32:40",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "turn-1 — MCU 50mm: Ghis commander’s RIGHT HAND flat on polished dark COMMAND-SLAB, fingers half-curled mid-Razonamiento; a row of blurred leather shoulder-cuffs; bare dark stone — NO map, NO letters, NO ornament dispute; SORCERY-FLAT PEWTER; the argument rendered as choreography",
+      "md5": "28a8520f3f3d0495428e7de422d6c459",
+      "size_bytes": 1279678,
+      "drive_file_id": "1IU_LrwSQzxZIZVc0kEs2xkw0c32Eb6-G",
+      "verdict": "APPROVED_TURN_1_·_CAUTION (filigree GOLD lushness + small square+sun-circle motif class — director read)"
+    }
+  ],
+  "batch_098_drive_folder_id": "1s3a6hwtyTctkaD5jJUvEEhdkzQm-GNjE",
+  "batch_098_drive_folder_name": "EP001_BATCH_098_IMG0971-0980",
+  "batch_098_drive_verified_count": 10,
+  "batch_098_pending_rerender": 0,
+  "batch_098_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_098_note": "Ch. VII 32:20–32:40 — the Ghis price its young neighbour (upstart’s mines; the unpaid Harpy; the verified dragon sightings; serene certainty of triumph). Turn-1 8 KEEP + 2 REJECT; turn-2 BOTH CLEARED (0977 mirror-gold Mycenean armor + slab-edge pseudo-Latin + warm horizon gong → dull KHAN ash-tones, blank slab, uniform PEWTER; 0979 idol-capped monolith towers + pharaonic-feet → plain staggered brick pylons, iron-black spear files, NO creatures). §5 HELD (one open-door PEWTER sliver logged, no beams/disc/rays; ZERO point-lights). DRG-VAL-002 HELD — no dragon ANYWHERE, the argument performed entirely by apparatus: scorpion bolts (0972) · an EMPTY prize-bed (0974) · shadows + stillness (0971/0976/0978/0979) · Razonamiento choreography (0980). THE HARPY UNDEPICTED — the “shadow of the Harpy’s thunderbolt” rendered as STRUCTURAL SHADOW ONLY (0976); 100-ft bronze Harpy awaits director ruling. Dignified-horror held. Inventory 964→974/1,050 · 92.76%. Batch 099 (32:40→) NOT AUTHORIZED.",
+  "batch_098_close_note": "CLOSED 10/10 NOT zero-defect — two turn-1 faults, BOTH CLEARED turn-2 (hero-anachronism costuming + slab-edge text; idol-class figuration). §5 HELD (one logged open-door sliver 0978 — no beams). DRG-VAL-002 HELD. md5s ALL MATCHED on Drive re-list (10/10). Harpy freeze HELD. Batch 099 NOT AUTHORIZED."
 }
