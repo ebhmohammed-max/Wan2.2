@@ -1,0 +1,79 @@
+# BATCH 088 — IMAGE PROMPTS
+**Episode 001 · Before the Dragons: The Rise of Old Valyria**
+**Timecode 29:00–29:20 · Ch. VI · frames VAL-EP001-IMG0871 – IMG0880**
+**DIRECTOR RULING (2026-11-13) IN FORCE — THIS BATCH EXECUTES STRICTLY UNDER THE SURGICAL CH. VI EXCEPTION — NO §5 OPENING IS IMPLIED.** Beds ONLY emit (amber-crimson); adjoining stone/metal TAKES, never MAKES; NO open flame events; §5 global doctrine remains OPEN.
+**DIRECTOR DIRECTIVE (2026-11-14, VERBATIM IN FORCE): “don't make the valyrians houses and lords like some normal humans and customs. show them as they are with valyrian attributes.”** Valyrians: silver-gold/platinum hair, violet/amethyst/lilac eyes, narrow-faced alien beauty, languid hauteur. Foreigners/enslaved peoples: earth tones — the CONTRAST IS THE HORROR. See `10_ART_DIRECTION_UPDATE_2026-11-14.md` — BINDING.
+**THE SLAVERY FRAMES — DIGNIFIED-HORROR LAW (absolute for this batch):** The chains and the driving are NAMED by the scene map and they are IN FRAME: captives, bound wrists, iron neck-torques, the driven column. The genre is solemn tragedy, NOT spectacle: **NO nudity · NO gore or blood · NO whipping/striking ACTION on screen · NO sexualized depiction of any figure · NO child abuse depicted — children may appear ONLY as a small half-shadowed figure led by a parent in the mass, never harmed on camera, faces unresolvable · NO text or lettering anywhere (no trader's signs, no brands) · faces partially lit (never pure silhouette) but WEARY, not leering · NO iconography of triumph — no masters smiling, no cruel festival atmosphere.** The horror is SCALE, FATIGUE and SYSTEM — the sin made industrial.
+**Shared opener on every prompt (do not drop it):**
+
+> `LANDSCAPE ORIENTATION, WIDE HORIZONTAL 16:9 FRAME, cinematic 65mm photoreal film still or Octane-render photoreal CGI, physically based materials, muted Kodak Vision3 500T palette, fine organic grain.`
+
+**ART DIRECTION 2026-11-12 IN FORCE:** FACES LIFTED; fused work ORGANIC SINGLE-MASS only — NO cooling plates, NO tessellation; smoke STRICTLY WEST thin and low; vent STEAM strictly WEST; the sea ONE blunt SLATE band far-right (EAST); volcano far-WEST DORMANT; NO TEXT; NO SIGILS; NO crowns (torcs only); NO CANDLES; **ancient dress only — rags, loincloths and tunics for the enslaved (ancient weave), draped linen and torcs for the Valyrians; NO modern gear**; GOLD-DULL; SORCERY-FLAT.
+
+**Status: CLOSED 2026-11-14 — UNLOCKED 10/10 on turn-2 (authoritative 2026-11-14 close; 088 delivered). Span 29:00–29:20. 088 turn-1: 6 KEEP (upload md5 ALL MATCH) + 4 REJECT (0874 / 0876 / 0877 / 0880) → TURN-2 re-renders 2026-11-14: ALL 4 CLEARED (0877 required turn-2b for the distant-canyon-wall warm sliver). All 10 MD5 re-read from Drive: MATCH. Uploads: folder 1kFBtn85e3G_HXRdhuhSa4cNZI9lnZ1Sv. DIRECTOR READS pending: 0858 re-render (STILL needs explicit go-ahead); 0871 fume CENTER (not WEST); 0872 rear-wall regular courses; 0873 regular coursed market wall; 0874 beds mouth-glow (hot end); 0875 adit throat bed-amber HOT (soft); 0878 bed-veins CRUSTY/BRIGHT (hot end); 0880 volcano summit wisp + far-left cloud breaks (soft).** Authorized by director reply “go on” (2026-11-14). Span narration:
+
+`Through border raids, debt bondage, and brisk commerce with neighboring slave markets, captives from across the region were driven down into the subterranean furnace beneath the volcanoes. Stripped to rags in air thick with sulfur fumes and choking ash, chained miners`
+
+**Canon targets OUT-LOUD:** (a) chains LAWFUL in this batch by scene name — nowhere else; (b) Valyrian masters/dealers/escorts = alien blond + violet eyes; enslaved peoples = varied earth tones, Ghiscari/Rhoynar/Stepstone/Summer-Isles descent, dignity intact; (c) beds ONLY emit; the subterranean furnace shows NO flame event; (d) sulfur haze is ambient diegetic air — not a plume, not WEST-fenced, not self-lit; (e) faces LIFTED (partially lit), weariness; (f) NO text/sigils/crowns/candles; sky PEWTER; sea ONE blunt SLATE band far-right; volcano far-WEST DORMANT; (g) DRG-VAL-002 ABSENT; (h) the slavery is NOT aestheticized — no hero-shot bondage, no beauty framing of suffering.
+
+---
+
+## VAL-EP001-IMG0871 — LAM · 28mm — 29:00–29:02
+**Turn-1 verdict: KEEP (2026-11-14) — turn-1: fused black outpost, organic single-mass, jagged torn crown; captive train below; break lawful. — DIRECTOR READ (soft): horizon smoke reads CENTER, not strictly WEST; right-half sky reads high-value bright-grey (cold but hot-adjacent at the horizon). md5 eec3a351aa90e415c86cf1ac2a7aacb6 MATCH.**
+**Narration:** "Through border raids, debt"
+**Beat:** Low-angle monumental — THE OUTPOST WATCHES THE ROAD
+**Brief:** LAM 28mm — a fused black VALYRIAN BORDER OUTPOST at dawn-flat pewter (organic single-mass, no crowns, no regular courses): one massive Watch-tower leaning over a coast road; far BELOW on the road, a SMALL DARK COLUMN OF CAPTIVES under escort — chained wrists as one dark rope of figures; TWO BLOND VALYRIAN RIDERS (platinum falls, violet eyes) ahead of them; the outpost balcony holds THREE FIGURES (blond, still) watching; sea far-right ONE blunt SLATE band; sky PEWTER edge-to-edge ZERO warm band; smoke strictly WEST; NO text; no crowns; no flame.
+
+## VAL-EP001-IMG0872 — OTS · 40mm — 29:02–29:04
+**Turn-1 verdict: KEEP (2026-11-14) — turn-1 THE DEBT LEDGER AT THE GATES: blond dealers frame-left and beyond, three kneeling earthen debtors, lockbox + ore-tokens; solemn not celebratory — CONTRAST lawful. — DIRECTOR READ: rear-wall regular courses (mortal-masonry class); background child far-right in shadow, unharmed (lawful per brief). md5 9be1ffd004e390467eeb24f3f064328b MATCH.**
+**Narration:** "bondage, and brisk commerce"
+**Beat:** Over-the-shoulder — THE DEBT LEDGER AT THE GATES
+**Brief:** OTS 40mm over a blond Valyrian DEALER'S shoulder (platinum mane, plain black linen, tarnished torc, face beyond frame) — in front: a line of EARTH-TONED DEBTORS on their knees beside an iron lockbox and a heap of raw ore-tokens as payment; a Laurel of bronze coins; behind them, a second line of BOUND CAPTIVES being inspected by a SECOND blond dealer with a long measuring cord (NO tablet, NO text anywhere); torches NONE; pewter light from an awning void; dignity intact; NO slavery-pleasure, NO triumph; GOLD-DULL; NO text; no candles.
+
+## VAL-EP001-IMG0873 — WS · 28mm — 29:04–29:06
+**Turn-1 verdict: KEEP (2026-11-14) — turn-1 THE MARKET AT THE FREEHOLD’S EDGE: earth-toned captives (blanket, dignity) + blond buyers + Ghiscari leader — casual-purchase horror, not festive; NO text. — DIRECTOR READ: background city wall REGULAR COURSED masonry / lighter blocks (mortal-masonry class). md5 c0501698bbca4635c78c76010222aabd MATCH.**
+**Narration:** "with neighboring slave markets,"
+**Beat:** Deep-focus wide — THE MARKET AT THE FREEHOLD'S EDGE
+**Brief:** WS 28mm DEEP FOCUS — a dusty auction PLAZA at the fused black edge of the city: THREE GROUPS in deep focus — left: a Ghiscari caravan-leader arguing (copper-bronze skin, earth linen); center foreground: EARTH-TONED CAPTIVES on a stone causeway block, chained ankles, a barefoot woman among them holding a rough blanket around herself (NOT nudity); right: TWO BLOND VALYRIAN BUYERS conferring, one lifting a tarnished gold TORC from his neck in appraisal — the horror of casual purchase; townsfolk keep distance; NO text, NO banners, NO crowns, NO festival; pewter overcast; sea not in frame; NO flame.
+
+## VAL-EP001-IMG0874 — UWA · 24mm — 29:06–29:08
+**Turn-1 verdict: Turn-1 REJECT (image-verified: regular cluster of near-identical smooth cylindrical stacks — industrial smokestack class, NOT organic single-mass; gilt sparkle dots/filaments at approach roads) → **Turn-2 RE-RENDER (2026-11-14): KEEP** — three-roads/cartography beat intact; organic single-mass black wound-lace massif (stacks GONE); tiny captive columns on all three roads; slate sea far-right; PEWTER edge-to-edge; dormant cones far-WEST; zero plume; zero sparkles/dots. — DIRECTOR READ (beds-hot): the deeper adit mouths in the massif carry broad AMBER mouth-glow (more than hairline) — same class as 0878; hot-end beds, flagged not waived. md5 dc07a50e322a00eefbd859cc1b0a9793 MATCH.**
+**Narration:** "captives from across the"
+**Beat:** Ultra-wide scale vista — ALL ROADS TO THE FURNACE
+**Brief:** UWA 24mm VERY HIGH — THREE DUST ROADS from three horizons (Ghis inland, the Stepstones by sea-road, the Rhoyne by inland track) converging on the black roots of the Fourteen Flames; on each road a SMALL DARK COLUMN of captives under pinhead escort; the sea far-right ONE blunt SLATE band; the First Dragonroad arrow-straight lower third; volcano cones far-WEST DORMANT; sky PEWTER edge-to-edge; smoke strictly WEST thin low; NO flame; bed-hairline amber at the root shafts ONLY; NO text; the horror rendered as CARTOGRAPHY.
+
+## VAL-EP001-IMG0875 — MCU · 50mm — 29:08–29:10
+**Turn-1 verdict: KEEP (2026-11-14) — turn-1 THE DESCENT RAMP: silver escort forearm frame-left; ash-grey middle-aged captive, iron wrist-torque + chain, sackcloth; adit throat breathing dark bed-amber hairline; faces LIFTED downcast; NO cruelty gesture. md5 2bf1de04363b56afd6c9f87f4e14574a MATCH.**
+**Narration:** "region were driven down"
+**Beat:** Medium close-up — THE DESCENT RAMP
+**Brief:** MCU 50mm — on the adit descent ramp: the FOREARM of a silver-maned VALYRIAN ESCORT frame-left with an iron-chained wrist he does NOT hold hard — just guides; at center: the TORSO and HANDS of a MIDDLE-AGED EARTH-TONED CAPTIVE, copper-brown skin gone grey with ash, iron wrist-torque linked by chain to the man behind; ragged sackcloth tunic; at the ramp's end, darkness breathing faint bed-amber; faces LIFTED but downcast; no striking, no cruelty gesture — the system itself suffices; GOLD-DULL; NO text.
+
+## VAL-EP001-IMG0876 — MS · 35mm — 29:10–29:12
+**Turn-1 verdict: Turn-1 REJECT (image-verified: warm ROSE-GOLD horizon far-left — hard PEWTER breach; adit mouth rendered as BUILT cut-stone block + heavy timber doorframe — mortal-masonry/fused-work breach) → **Turn-2 RE-RENDER (2026-11-14): KEEP — CLEAN** — flat cold PEWTER edge-to-edge over sea and sky, ZERO warm band; RAW wound adit mouth (organic single-mass, NO doorframe, NO dressed masonry); chain of ragged captives crossing the sill; two blond escorts (platinum hair, violet eyes) at fringes; dropped gourd; chained dog asleep; hairline amber slits only back-depth; steam thin low WEST; faces LIFTED/weary; GOLD-DULL. md5 5873ca6cf9f498f7bfae7c9d0eac64f2 MATCH.**
+**Narration:** "into the subterranean furnace,"
+**Beat:** Dynamic lateral tracking — THE LAST LIGHT
+**Brief:** MS 35mm LATERAL — at the adit mouth: the LAST WEAK PEWTER light catches a line of ragged CAPTIVES crossing the sill into the shaft — the escort party two blond figures at the fringes (platinum falls, violet eyes, still); at the far interior, hairline amber bed-veins glow dim amber (beds ONLY emit — NEVER flame, NEVER a furnace-glow EVENT); a dropped gourd rolls at the sill; a dog lies chained to the outpost post, asleep; steam strictly WEST thin low; NO text; no crowns; ash on everyone's shoulders.
+
+## VAL-EP001-IMG0877 — MCU · 65mm — 29:12–29:14
+**Turn-1 verdict: Turn-1 REJECT (image-verified: heavy REGULAR CUT-BLOCK masonry frame-left; unaccounted warm glow at depth — candle-class) → **Turn-2 + TURN-2b RE-RENDER (2026-11-14): KEEP — CLEAN** — telephoto bound-line preserved (Ghiscari profile LIFTED in dignity; wrapping woman with half-shadowed small child, unresolvable face, unharmed); fused rock organic (courses GONE); zero warm light, zero candles, zero unaccounted glow; flat cold PEWTER half-dark edge-to-edge into the canyon fog (turn-2 still showed a small warm sliver at the canyon exit — PEWTER absolute law — turn-2b corrected it; FULLY CLEAN). md5 11cc32bb06a78a69763f895b40657f20 MATCH.**
+**Narration:** "beneath the volcanoes. Stripped"
+**Beat:** Compressed telephoto — THE RAGS, COMPRESSED
+**Brief:** MCU 65mm — telephoto compression down a BOUND LINE: ragged tunics, rope belts gone dark with oil and ash; EMPTY PAULS; a MID-AGED Ghiscari man's face in profile, grey with dust, eyes half-lidded (LIFTED, partially lit); behind him a WOMAN with a rough wrap holding a SMALL FIGURE half-hidden behind her skirt (very small, face in shadow, NEVER harmed — the image of a parent shielding, not of victimhood used for spectacle); NO nudity; NO gore; faces weary; compressed depth; pewter half-dark; NO text; no crowns.
+
+## VAL-EP001-IMG0878 — MS · 50mm — 29:14–29:16
+**Turn-1 verdict: KEEP (2026-11-14) — turn-1 THE AIR THEY BREATHE: blond escort breathing through cloth; three coughing ragged captives; sulfur haze thick, lawful AMBIENT (not a plume, not self-lit). — DIRECTOR READ (hot end): upper-right rock wall shows exposed BED-VEINS too broad/crusty-bright (far past hairline slits — canal-bed class at its hottest; SORCERY-FLAT strain). md5 890d13fc36f4b359e8890d0a0593ef19 MATCH.**
+**Narration:** "to rags in air thick"
+**Beat:** Medium subject — THE AIR THEY BREATHE
+**Brief:** MS 50mm — INSIDE the shaft's throat shadow: a line of ragged captives coughing into wrapped forearms; the air visibly THICK with yellow-grey sulfur haze (ambient air — NOT self-lit, NOT a plume); a blond ESCORT stands back from it, breathing through a cloth; the haze drinks the pewter light; the ragged ones stand in it; NO explosion of steam (beds are hairlines only); NO text; humanity in profile; faces partially lit.
+
+## VAL-EP001-IMG0879 — WS · 35mm — 29:16–29:18
+**Turn-1 verdict: KEEP (2026-11-14) — turn-1 THE SULFUR COUNTRY: dead grey-yellow scrub; fume-haze HUGGING the ground (no risers); two raw adits; water-cart train arriving; bare-earth rings where cook-fires were (NO flames); faces at distance. md5 2e5685cf996a942548cf7d0a5a626215 MATCH.**
+**Narration:** "with sulfur fumes and"
+**Beat:** Wide tableau — THE SULFUR COUNTRY
+**Brief:** WS 35mm — THE WORKINGS FROM OUTSIDE AN HOUR LATER: the black ridge's flank dead silent under yellow-grey fume-haze hugging the ground; a single dark path from the shafts down to a FLAT SCRUBLAND CAMP — a few hundred tiny dark cook-fire PITS marked only as bare earth rings (NO flame on screen); sentries (blond) at intervals; a water-cart train arriving; faces at distance; sea not in frame; sky PEWTER smeared by haze at the horizon (NOT warm — ashen); NO text; no crowns.
+
+## VAL-EP001-IMG0880 — UWA · 24mm — 29:18–29:20
+**Turn-1 verdict: Turn-1 REJECT (image-verified: mesa/adit-knots/switchback continuous black flow/sawtooth spires frame-left/slate sea far-right all correct — BUT cliff and tracks studded with GOLD-EMBER dots/streaks, lantern-string density) → **Turn-2 RE-RENDER (2026-11-14): KEEP — FLAGGED** — embers GONE; hairline amber slits real and SPARSE on the mesa face; dark knots unlit; continuous unbroken black flow; sawtooth spires frame-left dull; slate sea far-right; WEST haze pool; capital “glittering with NOTHING”. — DIRECTOR READ (soft flags): volcano cone far-WEST carries a tiny grey summit wisp (dormant-adjacent smudge — 0859-class FLAG, not a breach); far-left high-cloud breaks read high-value brighter (cold but hot-adjacent). md5 d1fbb67b0e5116871ee7033c96166fb2 MATCH.**
+**Narration:** "choking ash, chained miners"
+**Beat:** Ultra-wide reveal from aloft — THE LEDGER TOTALED
+**Brief:** UWA 24mm VERY HIGH — the root-shaft complex from directly ABOVE: dozens of adit mouths as dark knots in the black ridge; the switchback tracks below scribbled with a tiny continuous black flow of figures (a line that never breaks); blond pinhead escorts as lighter pinheads at intervals; the haze-fan pooling WEST (lawful WEST); the capital's saw-tooth spires far frame-LEFT behind the haze, glittering with NOTHING; the sea far-right ONE blunt SLATE band; sky PEWTER; bed-amber hairlines ONLY; NO flame; NO text; NO crowns; volcano far-WEST DORMANT.

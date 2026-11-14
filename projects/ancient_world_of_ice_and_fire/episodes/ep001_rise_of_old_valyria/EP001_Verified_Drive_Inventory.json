@@ -5,9 +5,9 @@
     "target_images": 1050,
     "batch_size": 10,
     "total_batches": 105,
-    "completed_batches": 87,
-    "next_batch": 88,
-    "next_image_number": 871,
+    "completed_batches": 88,
+    "next_batch": 89,
+    "next_image_number": 881,
     "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
     "drive_folders": {
         "master_root_folder": {
@@ -3600,7 +3600,7 @@
             "upload_checksum_verified": true
         }
     ],
-    "verified_image_count": 864,
+    "verified_image_count": 874,
     "batch_021_verified_images": [
         {
             "scene_id": "VAL-EP001-IMG0201",
@@ -14586,5 +14586,134 @@
         }
     ],
     "batch_087_note": "Ch. VI 28:40-29:00 — the RICHEST SEAMS / mineral-hunger sentence (of gold, silver, red copper, and iron lay locked deep inside the blistering roots of the Fourteen Flames—in suffocating shafts where free Valyrian citizens increasingly refused to labor. Thus, at the very dawn of its glory, the Freehold embraced its darkest sin.). Executed under the standing 2026-11-13 Ch. VI surgical exception AND the NEW 2026-11-14 VALYRIAN LAW (10_ART_DIRECTION_UPDATE_2026-11-14, director verbatim: 'don't make the valyrians houses and lords like some normal humans and customs. show them as they are with valyrian attributes.'): every Valyrian on camera carries silver-gold/platinum hair + violet/amethyst/lilac eyes + narrow-faced alien beauty — NEVER an earth everyman; gatherings stage as a convocation of near-immortals. Turn-1 kept seven (0861 assay lord; 0862 near-twin heirs + mother's face in shadow — THE KIN-CLOSE frame; 0865 fourteen-flames aloft; 0866 THE REFUSED PICK — pale freedmen, elder's closed fist; 0867 unlabored hands; 0868 THE DAWN OF THE GLORY; 0869 the dull thumb-nugget). Three rejected and CLEARED turn-2 with beats intact: 0863 VALYRIAN-ATTRIBUTE BREACH (earth-brown boys + patterned near-crown cap + hot throat) -> ashen fair-haired boys, bareheaded silver overseer, near-black adit hairline bed-veins; 0864 STEAM-SCATTER (a dozen center-right risers) -> ONE thin low WEST thread only; 0870 STEAM-SCATTER + cold-white sea-horizon band -> uniform PEWTER sky incl. over the sea, WEST thread only. NOT zero-rejection. DIRECTOR-READ FLAGS NEVER SELF-WAIVED: 0861 ingots brighter than GOLD-DULL; 0862 copper-vein glint; 0864 parapet volutes regular masonry-class; 0865 MISSING slate sea band far-right + ambiguous WEST skyline bank; 0866 adit throat reads HOT; 0869 earth-bronze skin (attribute test inconclusive, no face); 0870 regular basalt paving + spire-dome crown-forms + robed-column ambiguity (lawful by distance) + parapet mortal-masonry read. 0858 (Batch 086) REMAINS INDICTED under the new law — re-render requires explicit director go-ahead (scope control stands); NOT re-rendered. md5s re-read from Drive and MATCHED for all ten. Counts at close: 864/1,050 · 82.29%.",
-    "batch_087_close_note": "CLOSED 10/10 NOT zero-rejection — turn-1 7 keeps; three rejects (0863 VALYRIAN-ATTRIBUTE BREACH, 0864 STEAM-SCATTER, 0870 STEAM-SCATTER + horizon) cleared turn-2; first batch executed under the 2026-11-14 VALYRIAN-ATTRIBUTE law; md5s all MATCHED on Drive"
+    "batch_087_close_note": "CLOSED 10/10 NOT zero-rejection — turn-1 7 keeps; three rejects (0863 VALYRIAN-ATTRIBUTE BREACH, 0864 STEAM-SCATTER, 0870 STEAM-SCATTER + horizon) cleared turn-2; first batch executed under the 2026-11-14 VALYRIAN-ATTRIBUTE law; md5s all MATCHED on Drive",
+    "batch_088_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+    "batch_088_drive_folder_id": "1kFBtn85e3G_HXRdhuhSa4cNZI9lnZ1Sv",
+    "batch_088_drive_folder_name": "EP001_BATCH_088_IMG0871-0880",
+    "batch_088_drive_verified_count": 10,
+    "batch_088_pending_rerender": 0,
+    "batch_088_verified_images": [
+        {
+            "image_number": 871,
+            "scene_id": "VAL-EP001-IMG871",
+            "batch": 88,
+            "timestamp": "29:00–29:02",
+            "shot_type": "LAM · 28mm",
+            "visual_beat": "turn-1 — LAM THE OUTPOST WATCHES THE ROAD: fused black VALYRIAN BORDER OUTPOST at dawn-flat pewter, organic single-mass, jagged torn crown (no regular courses, no crowns); one monumental watch-tower over a coast road; far below, a small dark column of chained captives + two pale pinhead riders; balcony watchers, still, platinum-haired; sea far-right ONE blunt SLATE band; sky PEWTER edge-to-edge; smoke strictly WEST; NO text/sigils/crowns/candles | DIRECTOR READ (soft): horizon smoke reads CENTER, not strictly WEST; right-half sky high-value bright-grey",
+            "md5": "eec3a351aa90e415c86cf1ac2a7aacb6",
+            "size_bytes": 1439394,
+            "drive_file_id": "1aaH_vmkdGLNeHfI4mN-qi0qgFl6lSBCG",
+            "verdict": "APPROVED_FIRST_PASS · ANNOTATED (fume CENTER not WEST; bright hot-adjacent right sky — DIRECTOR READ)"
+        },
+        {
+            "image_number": 872,
+            "scene_id": "VAL-EP001-IMG872",
+            "batch": 88,
+            "timestamp": "29:02–29:04",
+            "shot_type": "OTS · 40mm",
+            "visual_beat": "turn-1 — OTS THE DEBT LEDGER AT THE GATES: blond Valyrian dealer frame-left (face beyond frame); three kneeling earthen debt-debtors at an iron lockbox + raw ore-token heap; second dealer measuring the bound line with a cord; dignity intact, solemn not celebratory; pewter awning light; GOLD-DULL; NO text (no tablets/signs) | DIRECTOR READ: rear-wall REGULAR COURSES (mortal-masonry class); background child far-right in shadow (unresolvable, unharmed — lawful)",
+            "md5": "9be1ffd004e390467eeb24f3f064328b",
+            "size_bytes": 1535528,
+            "drive_file_id": "1Nsp00A2gNsELiJgFx_vlM9raLXMla_-b",
+            "verdict": "APPROVED_FIRST_PASS · ANNOTATED (rear-wall regular courses — DIRECTOR READ)"
+        },
+        {
+            "image_number": 873,
+            "scene_id": "VAL-EP001-IMG873",
+            "batch": 88,
+            "timestamp": "29:04–29:06",
+            "shot_type": "WS · 28mm",
+            "visual_beat": "turn-1 — WS THE MARKET AT THE FREEHOLD’S EDGE: deep-focus plaza at the fused black city edge; Ghiscari caravan-leader arguing (earth copper tones); EARTH-TONED CAPTIVES on the causeway block — blanket fully wrapped, chained ankles, barefoot, dignity intact; TWO BLOND VALYRIAN BUYERS conferring (one lifting a tarnished gold TORC in appraisal) — casual purchase, not a festival; NO text/banners/crowns; pewter overcast | DIRECTOR READ: background city wall REGULAR COURSED masonry / lighter blocks (mortal-masonry class)",
+            "md5": "c0501698bbca4635c78c76010222aabd",
+            "size_bytes": 1573939,
+            "drive_file_id": "1Fx35oAaTHzPq2QMXvJV9e0qywlflW4Ho",
+            "verdict": "APPROVED_FIRST_PASS · ANNOTATED (background wall regular coursed masonry — DIRECTOR READ)"
+        },
+        {
+            "image_number": 874,
+            "scene_id": "VAL-EP001-IMG874",
+            "batch": 88,
+            "timestamp": "29:06–29:08",
+            "shot_type": "UWA · 24mm",
+            "visual_beat": "turn-1 REJECTED (regular cluster of near-identical smooth cylindrical stacks — industrial smokestack class; gilt sparkle dots/filaments at approach roads) → turn-2 RE-RENDER CLEAR: the CARTOGRAPHY vista — THREE dust roads converge from three horizons onto a black fused single-mass massif with jagged wander-lace adits (NO towers/cylinders); three continuous captive ropes; slate sea far-right; dormant cones far-WEST silent; PEWTER edge-to-edge; WEST smoke thin low; hairline amber slits sparse only | DIRECTOR READ (beds-hot): several adit mouths glow broad amber (more than hairline — 0878 class)",
+            "md5": "dc07a50e322a00eefbd859cc1b0a9793",
+            "size_bytes": 1610270,
+            "drive_file_id": "1xiFIpBQKJkOdhcNNMKflcnpwm6wRQG-x",
+            "verdict": "APPROVED_AFTER_TURN_2 · ANNOTATED (adit mouths read hot — beds-hot DIRECTOR READ)"
+        },
+        {
+            "image_number": 875,
+            "scene_id": "VAL-EP001-IMG875",
+            "batch": 88,
+            "timestamp": "29:08–29:10",
+            "shot_type": "MCU · 50mm",
+            "visual_beat": "turn-1 — MCU THE DESCENT RAMP: silver escort forearm frame-left guiding (never gripping) a chained iron wrist; ash-greyed middle-aged earth-toned captive center, iron wrist-torque + linking chain, sackcloth; ramp end darkness breathing faint bed-amber; faces LIFTED, downcast; NO cruelty gesture; GOLD-DULL; NO text",
+            "md5": "2bf1de04363b56afd6c9f87f4e14574a",
+            "size_bytes": 1443794,
+            "drive_file_id": "1tJH14ofazPvFQdo77NBmeAhE7ilsKfis",
+            "verdict": "APPROVED_FIRST_PASS · ANNOTATED (throat bed-amber reads HOT — hot end, DIRECTOR READ)"
+        },
+        {
+            "image_number": 876,
+            "scene_id": "VAL-EP001-IMG876",
+            "batch": 88,
+            "timestamp": "29:10–29:12",
+            "shot_type": "MS · 35mm",
+            "visual_beat": "turn-1 REJECTED (warm ROSE-GOLD horizon far-left — hard PEWTER breach; BUILT cut-stone + heavy timber doorframe adit — mortal-masonry) → turn-2 RE-RENDER CLEAN: flat cold PEWTER edge-to-edge; RAW organic wound adit (NO doorframe/masonry); line of ragged captives crossing the sill; two blond escorts at fringes (platinum falls, violet eyes, still); dropped gourd at the sill; chained dog asleep; hairline amber bed-veins dim back-depth; steam thin low WEST; ash on shoulders",
+            "md5": "5873ca6cf9f498f7bfae7c9d0eac64f2",
+            "size_bytes": 1660669,
+            "drive_file_id": "1nhbLWJpY6Q9rinnpX75I_LNQ9ESANEuZ",
+            "verdict": "APPROVED_AFTER_TURN_2 · CLEAN"
+        },
+        {
+            "image_number": 877,
+            "scene_id": "VAL-EP001-IMG877",
+            "batch": 88,
+            "timestamp": "29:12–29:14",
+            "shot_type": "MCU · 65mm",
+            "visual_beat": "turn-1 REJECTED (frame-left REGULAR CUT-BLOCK masonry; unaccounted warm depth-glow — candle-class) → turn-2 STILL FAILED (residual warm sliver at distant canyon exit — PEWTER absolute) → turn-2b RE-RENDER CLEAR: LONG lens compression down the bound line; Ghiscari profile LIFTED with dignity (partially lit face, weary); wrapping woman with HALF-SHADOWED small child (face unresolvable, unharmed); fused rock organic (courses GONE); ZERO warm anywhere — canyon exit fog flat cold pewter",
+            "md5": "11cc32bb06a78a69763f895b40657f20",
+            "size_bytes": 1509615,
+            "drive_file_id": "1wpK4oNc4g-Z0XCXR9Ldwm56oaxqZDaZP",
+            "verdict": "APPROVED_AFTER_TURN_2B · CLEAN (child handling lawful; three turns to reach clean)"
+        },
+        {
+            "image_number": 878,
+            "scene_id": "VAL-EP001-IMG878",
+            "batch": 88,
+            "timestamp": "29:14–29:16",
+            "shot_type": "MS · 50mm",
+            "visual_beat": "turn-1 — MS THE AIR THEY BREATHE: inside the shaft throat — ragged captives coughing into wrapped forearms; air thick with sulfur haze (AMBIENT air — never self-lit, never a plume); blond ESCORT standing back breathing through cloth; haze drinks the pewter light; faces partially lit | DIRECTOR READ (hot end): upper-right rock wall exposes bed-veins too broad/crusty-bright — far past hairline — canal-bed class at its hottest; SORCERY-FLAT strain",
+            "md5": "890d13fc36f4b359e8890d0a0593ef19",
+            "size_bytes": 1160563,
+            "drive_file_id": "12uQmcCb3FqxQDHBC5pP0BIDVEBRLX--q",
+            "verdict": "APPROVED_FIRST_PASS · ANNOTATED (bed-veins crusty-bright/hot — DIRECTOR READ)"
+        },
+        {
+            "image_number": 879,
+            "scene_id": "VAL-EP001-IMG879",
+            "batch": 88,
+            "timestamp": "29:16–29:18",
+            "shot_type": "WS · 35mm",
+            "visual_beat": "turn-1 — WS THE SULFUR COUNTRY: the WORKINGS FROM OUTSIDE an hour later — black ridge flank dead silent under yellow-grey fume-haze HUGGING the ground (never risers); two raw adits with thin low WEST wisps; flat scrub camp with bare-earth rings where cook-fires were (NO flame); arrives water-cart train; sentries as pinheads; faces at distance; sky PEWTER smeared ashen (NOT warm)",
+            "md5": "2e5685cf996a942548cf7d0a5a626215",
+            "size_bytes": 1604942,
+            "drive_file_id": "1NRhA0QhLFVn-dPeEqe19IOlw4EoAjkwI",
+            "verdict": "APPROVED_FIRST_PASS · CLEAN"
+        },
+        {
+            "image_number": 880,
+            "scene_id": "VAL-EP001-IMG880",
+            "batch": 88,
+            "timestamp": "29:18–29:20",
+            "shot_type": "UWA · 24mm",
+            "visual_beat": "turn-1 REJECTED (mesa/switchback/sawtooth-spires/slate-sea all correct — BUT cliff + roads studded with gold-ember DOTS/streaks, lantern-string density) → turn-2 RE-RENDER CLEAR: black mesa, adit mouths dark knots (NO lip-rings); switchback tracks scrawled with CONTINUOUS unbroken black flow; pale pinhead escorts at intervals; capital sawtooth spires far frame-LEFT dull (glittering with NOTHING); slate sea far-right; WEST haze pool; PEWTER; sparse hairline amber slits only — ZERO dots/embers/streaks | DIRECTOR READ (soft flags): volcano cone far-WEST carries a tiny grey summit wisp (0859-class flag); far-left high-cloud breaks read high-value (cold, bright-adjacent)",
+            "md5": "d1fbb67b0e5116871ee7033c96166fb2",
+            "size_bytes": 1539815,
+            "drive_file_id": "1BjarHF5ZQAvLXe0QpUR-9Awe3KRUzVPJ",
+            "verdict": "APPROVED_AFTER_TURN_2 · ANNOTATED (summit wisp + bright cloud breaks — DIRECTOR READ, soft)"
+        }
+    ],
+    "batch_088_note": "Ch. VI 29:00-29:20 — THE SLAVERY ENTERS THE FRAME (narration verbatim: “Through border raids, debt bondage, and brisk commerce with neighboring slave markets…”). Chains LAWFUL BY SCENE NAME ONLY in this span. Dignified-horror law in force: NO nudity, NO gore, NO striking on camera, NO child abuse depicted (children ONLY as small half-shadowed figures led by a parent, faces unresolvable), NO text, faces LIFTED/weary. Turn-1: 6 KEEP + 4 REJECT (0874 regular cylindrical-stack cluster + gilt sparkle-dots; 0876 warm far-left horizon + built timber doorframe; 0877 regular cut-block masonry + unaccounted warm depth-glow; 0880 gold-ember dot-studding) → TURN-2 re-renders 2026-11-14 cleared ALL FOUR (0877 needed turn-2b after turn-2 retained a small warm sliver at the distant canyon exit). Not zero-rejection. md5s re-read from Drive and MATCHED for all ten. Counts at close: 874/1,050 · 83.24%. DIRECTOR-READ FLAGS NEVER SELF-WAIVED: 0871 fume CENTER; 0872 rear-wall regular courses; 0873 market-wall regular courses; 0874 beds mouth-glow hot end; 0875 adit throat bed-amber HOT; 0878 bed-veins CRUSTY/BRIGHT; 0880 volcano summit wisp + bright far-left cloud breaks. 0858 (Batch 086) REMAINS INDICTED under the 2026-11-14 VALYRIAN-ATTRIBUTE law — re-render requires explicit director go-ahead (scope control stands); NOT re-rendered. §5 global doctrine still OPEN/OVERDUE; DRG-VAL-002 OPEN.",
+    "batch_088_close_note": "CLOSED 10/10 NOT zero-rejection — turn-1 6 keeps; four rejects (0874 / 0876 / 0877 / 0880) cleared turn-2 (0877 on turn-2b); first Ch. VI slavery-span executed; executed under the same surgical exception; md5s all MATCHED on Drive; 874/1,050 · 83.24%"
 }
