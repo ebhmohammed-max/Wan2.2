@@ -2,7 +2,7 @@
 **Episode 001 · Before the Dragons: The Rise of Old Valyria**
 **Director directive (2026-11-14, verbatim):** *"go on and also show the valyrian steel makings and valyrian steel jewelries, swords, armour, daggers and all objects that mentioned in the script."*
 **Resolution (director Q&A, same date):** scope = **canon-safe objects only** · style = **mixed → resolves to cinematic in-episode cutaways** (no override pieces exist, so there is nothing for the "clean showcase" lane) · rendered as **VAL-EP001-OBJ001–OBJ010**, 1376×768, EP001 house style (65mm cinematic still · grazing PEWTER light · GOLD-DULL · SORCERY-FLAT · NO text/letters/sigils anywhere · no warm sources · black fused-basalt surfaces).
-**Status: BRIEF LOCKED — render pending (next turn; full 10/10 image-gen cap reserved). NOT part of the 1050-scene inventory. NOTHING uploaded to Drive yet.**
+**Status: TURN-1 RENDERED — 10/10 KEEP (two carried cautions: OBJ009 background torc arc antique-gold warm · OBJ010 scale highlights lively in center-left). NOT part of the 1050-scene inventory. NOTHING uploaded to Drive — awaits director sign-off (per Production Notes).**
 
 ## CANON FINDING (hard constraint — locked script)
 Valyrian steel **does not exist yet** in EP001's time:
@@ -60,3 +60,23 @@ Valyrian steel **does not exist yet** in EP001's time:
 - Delivery: `assets/object_showcase_work/` (gitignored; `assets/batch_*/` pattern) → Drive folder `EP001_OBJECT_SHOWCASE_IMG001-010` (create at close) → counts do NOT advance inventory; verdicts appended here; nothing uploaded until 10/10 + md5 verify + director sign-off.
 - After render: per-frame verdicts appended; rejected frames progress turn-by-turn exactly like batch frames.
 **Gates that remain: §5 GLOBAL OVERDUE · DRG-VAL-002 OPEN · 0858 INDICTED · Batch 094 NOT AUTHORIZED · PR #3 = director's call.**
+
+
+---
+
+## TURN-1 VERDICTS — 2026-11-14 (rendered, 10/10 KEEP)
+
+Saved `/home/user/Wan2.2/assets/object_showcase_work/` (gitignored), all 1376×768, md5-unique (OBJ001 26ae69e5… · OBJ002 d856042c… · OBJ003 71251a73… · OBJ004 fd934dc5… · OBJ005 cb05f3f1… · OBJ006 a65ff1ba… · OBJ007 7ae4bdb4… · OBJ008 2a233750… · OBJ009 4752290e… · OBJ010 7cc98cab…).
+
+- **OBJ001 — KEEP.** Red copper ore fist on fused-basalt dust; dull copper-rose in the seams; crushed fines; grazing pewter; SORCERY-FLAT.
+- **OBJ002 — KEEP.** Native gold, granular, gangue-set, OLD and matte (never gleaming); one fresh pick-cut facet; two dull slugs aside.
+- **OBJ003 — KEEP.** Two poured silver ingots (matte assay, not mirror) + spun filigree-wire coil + one S-offcut; geometry only; NO letters.
+- **OBJ004 — KEEP.** High-grade iron ore chunks, bronze-tarnished lustre; one snapped piece with a faint glittering interior facet (liveliest specular in the set — within tolerance).
+- **OBJ005 — KEEP.** Three jet-black dragonbone bow-STAVES, trade-wrapped oilcloth + twine, plain bronze knot binding; staves only, no strings; best organic texture in the set.
+- **OBJ006 — KEEP.** The foundry after the pour: cooled crucible skull upended, slag-lipped; ingot mould with one fresh matte crusted ingot; distant geothermal steam ONLY — ZERO flame, ZERO fire event.
+- **OBJ007 — KEEP (centrepiece lands).** THE EXPERIMENTAL BLADE — unmarked, tang-only, unfinished; crucible-fresh iron-steel; whisper of temper-blue at the edge fading into shadow; NO fuller, NO crossguard, NO inscription of any kind. The only "steel" EP001 shows.
+- **OBJ008 — KEEP.** Dragonglass macro: conchoidal black obsidian, flat, pewter catching fracture ridges; two trade disks; NO sparkle; NO text.
+- **OBJ009 — KEEP (caution).** Silver-filigree torc, vine geometry ONLY, ONE obsidian cabochon; twined geometry only — NO letters/runes/hallmarks; background torc arc antique-gold slightly WARM/BRIGHT (caution carried — same class as 0929; never waived).
+- **OBJ010 — KEEP (caution).** Overlapping bronze-and-iron scale, leaf-flat, bronze tarnish-dark; crimson wool drape gathered at one shoulder; NO sigil/glyph/house mark; slumped empty, never worn; scale highlights center-frame run LIVELY (caution — same class as 0914/0928 speculars; never waived).
+
+**Delivery gates unchanged:** not in the 1050-scene inventory; inventory untouched at 924/1,050 · 88.00% · counts do not advance for this pack. Upload requires: 10/10 + md5 verify (done locally) + director sign-off. Proposed Drive folder on approval: `EP001_OBJECT_SHOWCASE_IMG001-010`. **OBJ011 (Ghiscari lockstep kit — the literal swords in the script, L49) STILL PENDING director word — will not render without it.**
