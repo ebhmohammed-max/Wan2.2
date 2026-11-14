@@ -5,9 +5,9 @@
   "target_images": 1050,
   "batch_size": 10,
   "total_batches": 105,
-  "completed_batches": 90,
-  "next_batch": 91,
-  "next_image_number": 901,
+  "completed_batches": 91,
+  "next_batch": 92,
+  "next_image_number": 911,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -1904,7 +1904,7 @@
     }
   ],
   "last_updated": "2026-11-14",
-  "verified_progress_percent": 85.14,
+  "verified_progress_percent": 86.1,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3600,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 894,
+  "verified_image_count": 904,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -14973,5 +14973,134 @@
   "batch_090_drive_verified_count": 10,
   "batch_090_pending_rerender": 0,
   "batch_090_note": "Ch. VI 29:40-30:00 — THE FIREWYRM SENTENCE (narration verbatim: “and in the deepest shafts, where pickaxes broke through into ancient magma tubes, pale wingless firewyrms burst from the stone to incinerate intruders in the dark. Still the dragonlords demanded ever deeper shafts and ever more hands.”). GOVERNING RULINGS IN FORCE: 2026-11-14 DIRECTOR ONE-SPAN FIRE RULING (verbatim): 'A pale wingless firewyrm is seen, canon-true (blind, legless, serpentine, child-arm thick for a young one), mid-breach, scorching flash. This exceeds the Ch. VI exception and constitutes a new one-span fire ruling, NOT a §5 global doctrine.' — FIRE IS ON CAMERA IN THIS BATCH ONLY, in 0896 ONLY; §5 global doctrine remains OPEN/OVERDUE and this batch is NOT a precedent. ENTITY LOCK (verbatim, 2026-11-14): ANCIENT MONOLITH — 'An ancient specimen of monstrous length implied (a pale segment passing through the dark, never composed into one silhouette); scale conveyed by implication, not by portrait.' FINAL BEAT (director Q&A 2026-11-14, verbatim staging): CONVOCATION OF NEAR-IMMORTALS. 2026-11-14 VALYRIAN-ATTRIBUTE law held end-to-end (all on-camera Valyrians silver-gold/platinum + violet/amethyst/lilac; gatherings stage as a convocation of near-immortals). Dignified-horror ABSOLUTE: deaths rendered ONLY as aftermath/absence (0897 — the vitrified floor and the empty pick; NO body, NO remains); NO wound/blood/burn/spasm on camera; NO child in this span; faces LIFTED; NO text; GOLD-DULL; SORCERY-FLAT. Turn-1: 7 KEEP + 2 REJECT (0893 — webbed breach-cavern content error; 0894 — open-air quarry + lamped mining helmets) + 1 KEEP-WITH-FLAGS HELD (0895). Turn-2 2026-11-14: BOTH REJECTS CLEARED (0893 pick-frozen seam; 0894 underground breach) and 0895 RE-RENDERED to clear its flags (broad web glow and modern scaffold lamps GONE). NOT zero-rejection. ONE-SPAN FIRE consumed exactly as licensed — 0896 is the ONLY fire frame in EP001 to date; adjoining stone TAKES; everywhere else beds-only hairlines. md5s re-read from Drive and MATCHED for all ten. Counts at close: 894/1,050 · 85.14% (verified_progress_percent corrected to match verified_image_count; it had been stale at 78.48). DIRECTOR-READ FLAGS NEVER SELF-WAIVED: 0892 underexposure at the edge of legible · 0894 central breach node orange-bright (crack-web denser than hairline at core — hot end) · 0895 vein-traces read sparse dotted filaments (0886-class), very dark. 0858 (Batch 086) REMAINS INDICTED under the VALYRIAN-ATTRIBUTE law — re-render needs explicit director go-ahead (not given) — NOT re-rendered. §5 STILL OPEN/OVERDUE; DRG-VAL-002 STILL OPEN/ABSENT by build.",
-  "batch_090_close_note": "CLOSED 10/10 NOT zero-rejection — turn-1 7 keeps; two rejects (0893 webbed breach-cavern / 0894 open-air quarry + lamped helmets) cleared turn-2; 0895 re-rendered turn-2 to clear broad-glow + modern-lamp flags; ONE-SPAN FIRE RULING 2026-11-14 consumed in 0896 ONLY (not §5 precedent); convocation close staged per director Q&A; md5s all MATCHED on Drive; one rejected frame was uploaded in error mid-flight and TRASHED same-session (no rejected frame remains live); image-generation cap blocked the turn-2 by one turn — re-rendered next turn; 894/1,050 · 85.14%"
+  "batch_090_close_note": "CLOSED 10/10 NOT zero-rejection — turn-1 7 keeps; two rejects (0893 webbed breach-cavern / 0894 open-air quarry + lamped helmets) cleared turn-2; 0895 re-rendered turn-2 to clear broad-glow + modern-lamp flags; ONE-SPAN FIRE RULING 2026-11-14 consumed in 0896 ONLY (not §5 precedent); convocation close staged per director Q&A; md5s all MATCHED on Drive; one rejected frame was uploaded in error mid-flight and TRASHED same-session (no rejected frame remains live); image-generation cap blocked the turn-2 by one turn — re-rendered next turn; 894/1,050 · 85.14%",
+  "batch_091_verified_images": [
+    {
+      "image_number": 901,
+      "scene_id": "VAL-EP001-IMG901",
+      "batch": 91,
+      "timestamp": "30:00–30:02",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "turn-1 — LAM THE TWO WORLDS IN ONE VERTICAL: ground-level look UP at mortarless fused black single-mass spires past frame-top into flat PEWTER heaven; at the massif's root a raw wound-mouth adit with a thin pinhead line filing in; spire crowns catch pale pewter light, roots swallow it; NO fire, NO wyrm, NO people legible",
+      "md5": "8fa17fa463d540060555779ab5641c59",
+      "size_bytes": 1543749,
+      "drive_file_id": "1YqpyvX4xojcT5w6flCNjZLmzsK6GQ0Cu",
+      "verdict": "APPROVED_FIRST_PASS · CLEAN"
+    },
+    {
+      "image_number": 902,
+      "scene_id": "VAL-EP001-IMG902",
+      "batch": 91,
+      "timestamp": "30:02–30:04",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "turn-1 REJECTED (MORTAL MASONRY — coursed ashlar curtain wall + battlements, castle silhouette) → turn-2 RE-RENDER CLEAR: over-the-shoulder past a platinum shoulder/tarnished torc looking DOWN over a fused obsidian parapet into the mine-chasm; above, the fused organic massif citadel; pinhead switchbacks; NO courses, NO towers, NO crenellations",
+      "md5": "4cb14a12b50185391d1e49094583884c",
+      "size_bytes": 1522198,
+      "drive_file_id": "1GfMIj9_VTk6f3V-WWNdKirgh7DN3RKy0",
+      "verdict": "APPROVED_AFTER_TURN_2 · CLEAN"
+    },
+    {
+      "image_number": 903,
+      "scene_id": "VAL-EP001-IMG903",
+      "batch": 91,
+      "timestamp": "30:04–30:06",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "turn-1 — WS THE BEDROCK PSALM: deep-focus panorama from a black basalt ridge — ONE fused organic mountain-mass citadel, open EMPTY roost crowns, terraces, wound-mouths at the root; sea ONE blunt SLATE band far-right; far-WEST cone DORMANT in haze; PEWTER edge-to-edge; NO fire",
+      "md5": "1a5f29eb8981c62a85a5598f8cf8b515",
+      "size_bytes": 1379206,
+      "drive_file_id": "1NjtA8GKSDamoGB6bJ6LyXB-MuLuJRGwf",
+      "verdict": "APPROVED_FIRST_PASS · CLEAN (flagship-class)"
+    },
+    {
+      "image_number": 904,
+      "scene_id": "VAL-EP001-IMG904",
+      "batch": 91,
+      "timestamp": "30:06–30:08",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-1 REJECTED (GOTHIC-KIT — cathedral pinnacles, robed-temple dome + spire crown-forms piercing the cloud) → turn-2 RE-RENDER CLEAR: the citadel as ONE seamless fused organic mountain-fusion piercing the PEWTER cloud-deck; NO domes/towers/courses anywhere; sea SLATE far-right; WEST cone DORMANT silhouette",
+      "md5": "172c32dcd62e20d250f6c30f72a5d2ac",
+      "size_bytes": 1488335,
+      "drive_file_id": "1K6OSF0P7ZybMkcIN42JCeDgQVpS-gIfx",
+      "verdict": "APPROVED_AFTER_TURN_2 · ANNOTATED (gold-fleck swirl texture reads hot-end — DIRECTOR READ)"
+    },
+    {
+      "image_number": 905,
+      "scene_id": "VAL-EP001-IMG905",
+      "batch": 91,
+      "timestamp": "30:08–30:10",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "turn-1 REJECTED (mortal-masonry parapet + golden domed temple, gold too bright) → turn-2 REJECTED (NO-WARM-HORIZON — golden horizon band low frame-left) → turn-3 CLEAR: HOUSE DREVAN orator (dusk line — indigo-grey dusk-weave with silver rite-threads at hems, BOTH temples bound with two narrow silver cords, ONE amethyst-drop earring, platinum falls, violet eyes, obsidian torc); uniform FLAT PEWTER incl. over the sea; closed fist on fused organic parapet; the boast as liturgy — delivered under the NEW 11_HOUSE_DRESS_DOCTRINE_2026-11-14",
+      "md5": "02eca2dabef4e54dbc1f3db662496b29",
+      "size_bytes": 1232824,
+      "drive_file_id": "10_zsmOYFJrR-uGkTadGK6xgAaDcI_ggQ",
+      "verdict": "APPROVED_AFTER_TURN_2 · CLEAN (turn-3 render; turn-2 frame carried a NO-WARM-HORIZON band and was rejected)"
+    },
+    {
+      "image_number": 906,
+      "scene_id": "VAL-EP001-IMG906",
+      "batch": 91,
+      "timestamp": "30:10–30:12",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "turn-1 — MS THE THRONE THAT IS NOT THERE: First Council Hall lateral tracking; asymmetric knots of near-immortal dragonlords; VACANT black-glass dais with NO throne; FORTY UNLIT bronze tripods at the perimeter; NO crown anywhere; politics without a throne room",
+      "md5": "bb3d662ebd2b4bb969e6be3895b51b6f",
+      "size_bytes": 1357295,
+      "drive_file_id": "1DX7q09JyRViWzfasSWS-uJI-JnH7gEbT",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED (far-wall REGULAR fluted-column rhythm reads structural-mortal; mirror-polish obsidian floor — DIRECTOR READ)"
+    },
+    {
+      "image_number": 907,
+      "scene_id": "VAL-EP001-IMG907",
+      "batch": 91,
+      "timestamp": "30:12–30:14",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "turn-1 — MCU THE DEBATE: two ANCIENT DRAGONLORDS in tight profile — platinum falls, violet eyes, faces lined like weathered obsidian, tarnished torcs, BLANK black-glass tablet between them, zero letters; the law as a duel of stillnesses",
+      "md5": "71bdbfa51df87f42549f90bec960d003",
+      "size_bytes": 1411387,
+      "drive_file_id": "1BRdUezJLU1e7Z_n9rugSRO372wwfUWt_",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED (skin reads stone-grey — extreme attribute read; DIRECTOR READ)"
+    },
+    {
+      "image_number": 908,
+      "scene_id": "VAL-EP001-IMG908",
+      "batch": 91,
+      "timestamp": "30:14–30:16",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "turn-1 — MS THE SPHINX WITNESSES: TWO VALYRIAN SPHINXES flank the debate — dragon-bodied, alien violet-eyed mask-bone faces, fused wander-lace stone (NO regular courses); platinum dragonlords mid-argument (one standing, one seated on an obsidian bench); hanging gardens trailing from high ledges; UNLIT bronze tripods",
+      "md5": "a6abb01381e6ab9783039e965d44da1e",
+      "size_bytes": 1601955,
+      "drive_file_id": "1IKCNiNHLJcwVC6IaNs_hZKxGr4gRz-1y",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED (mirror-polish tiled floor + plinth courses + regular rear-terrace rhythm — mortal-masonry borderline — DIRECTOR READ)"
+    },
+    {
+      "image_number": 909,
+      "scene_id": "VAL-EP001-IMG909",
+      "batch": 91,
+      "timestamp": "30:16–30:18",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "turn-1 REJECTED (upper half reads TUSCAN HILLTOWN — regular rectilinear blocks + parapets) → turn-2 REJECTED (GILDED RIVENDELL — golden baroque balconies and orb lights, GOLD-DULL broken) → turn-2b CLEAR: single seamless FUSED OBSIDIAN ledge-wall, modest green cascades in cracks, black wound-mouths breathing rock-dust, ONE pinhead switchback, sea SLATE far-right, PEWTER; green as a rumour on black rock",
+      "md5": "dab56ffacbb8f96c9625bd3cf3449218",
+      "size_bytes": 1933532,
+      "drive_file_id": "11EJHwgx2tdcBbpbFw0fGlWe400-RCkqU",
+      "verdict": "APPROVED_AFTER_TURN_2 · CLEAN (turn-2b)"
+    },
+    {
+      "image_number": 910,
+      "scene_id": "VAL-EP001-IMG910",
+      "batch": 91,
+      "timestamp": "30:18–30:20",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-1 — UWA THE EXPANDING MACHINE: from great height the whole ridge — OLD wound-mouths + NEW pale rope-scar arcs and fresh black craters radiating outward; tiny UNLIT winch-pylons speck the newcut arcs; the citadel floats on its cloud-deck behind; the groan rendered as pure geometry",
+      "md5": "7db8e3a1b8a3d693b0803f07bd3b7b51",
+      "size_bytes": 1603610,
+      "drive_file_id": "17nVnxjvlhesxi_-P_xFi3QZIrDHimApA",
+      "verdict": "APPROVED_FIRST_PASS · ANNOTATED (horizon citadel reads spiky-castle silhouette at distance + scars read trail-like — 0870-class by distance — DIRECTOR READ)"
+    }
+  ],
+  "batch_091_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_091_drive_folder_id": "1Ez4O7i372Lg9cbKPXl66S7bCC21eL9Fy",
+  "batch_091_drive_folder_name": "EP001_BATCH_091_IMG0901-0910",
+  "batch_091_drive_verified_count": 10,
+  "batch_091_pending_rerender": 0,
+  "batch_091_note": "Ch. VI 30:00-30:20 — THE TRAGIC CONTRADICTION (narration verbatim: 'Here lay the tragic contradiction built into the bedrock of Old Valyria. Above the clouds rose a shining commonwealth that boasted it bowed to no king, where noble assemblies debated law amid sphinxes and hanging gardens. Beneath their sandals groaned an expanding'). LOC-VAL-004/005. NO FIRE RULING in force for this span — beds-only discipline; no wyrm; DRG-VAL-002 ABSENT by build; lava/magma canals DEAD doctrine — never rendered; bronze tripods render UNLIT; 'shining' = weathered pale stone + pewter light, never glitter. Dignified-horror held (no child, no death-on-camera moments). VALYRIAN-ATTRIBUTE law held on every on-camera Valyrian. NEW LAW IN FORCE THIS BATCH (forward-only, director 2026-11-14): HOUSE DRESS DOCTRINE (11_HOUSE_DRESS_DOCTRINE_2026-11-14.md) — twelve signature lines covering the Forty Houses (palette/weave/accessory-metal/grooming/manner; names reference-only, NEVER on camera; hair/eyes/faces fixed). Turn-1: 6 KEEP + 4 REJECT (ALL ONE CLASS — mortal-masonry/gothic drift: 0902 coursed-ashlar castle; 0904 gothic pinnacles + domed temple; 0905 ashlar parapet + gilded dome; 0909 Tuscan hilltown). Turn-2: 0902 cleared; 0904 cleared (gold-fleck flag carried); 0909 turn-2 came back GILDED RIVENDELL — turn-2b cleared it; 0905 turn-2 carried a NO-WARM-HORIZON band then — turn-3 CLEARED with HOUSE DREVAN signature. NOT zero-rejection. md5s re-read from Drive and MATCHED for all ten. Counts at close: 904/1,050 · 86.10%. DIRECTOR-READ FLAGS NEVER SELF-WAIVED: 0904 gold-fleck hot-end · 0906 regular fluted-column rhythm far-wall · 0907 stone-grey skin read · 0908 polished floor + plinth courses + rear terraces · 0910 horizon citadel silhouette + trail-like scars. 0858 (Batch 086) REMAINS INDICTED — needs explicit director go-ahead; NOT re-rendered (would now also gain a house signature when cleared). §5 STILL OPEN/OVERDUE; DRG-VAL-002 OPEN.",
+  "batch_091_close_note": "CLOSED 10/10 NOT zero-rejection — turn-1 6 keeps; four mortal-masonry/gothic rejects cleared (0902 turn-2; 0904 turn-2 + flag; 0905 turn-3 after a NO-WARM-HORIZON turn-2; 0909 turn-2b after a GILDED-RIVENDELL turn-2); HOUSE DRESS DOCTRINE adopted forward-only (11_HOUSE_DRESS_DOCTRINE_2026-11-14.md; 0905 is its first on-camera delivery — HOUSE DREVAN); md5s all MATCHED on Drive; 904/1,050 · 86.10%"
 }
