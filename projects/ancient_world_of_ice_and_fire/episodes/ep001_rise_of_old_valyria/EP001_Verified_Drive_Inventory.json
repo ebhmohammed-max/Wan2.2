@@ -5,9 +5,9 @@
   "target_images": 1050,
   "batch_size": 10,
   "total_batches": 105,
-  "completed_batches": 94,
-  "next_batch": 95,
-  "next_image_number": 941,
+  "completed_batches": 95,
+  "next_batch": 96,
+  "next_image_number": 951,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -134,6 +134,11 @@
       "name": "EP001_BATCH_094_IMG0931-0940",
       "drive_id": "1CHpuVd5yOkkXBvqnTVa5YBKApTtGcYL1",
       "url": "https://drive.google.com/drive/folders/1CHpuVd5yOkkXBvqnTVa5YBKApTtGcYL1"
+    },
+    "batch_095": {
+      "name": "EP001_BATCH_095_IMG0941-0950",
+      "drive_id": "1KaosJSlATEKmMHA6_s4pfRukDBpcJTIJ",
+      "url": "https://drive.google.com/drive/folders/1KaosJSlATEKmMHA6_s4pfRukDBpcJTIJ"
     }
   },
   "batch_001_images_65mm_upgraded": [
@@ -1919,7 +1924,7 @@
     }
   ],
   "last_updated": "2026-11-14",
-  "verified_progress_percent": 88.95,
+  "verified_progress_percent": 89.9,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3615,7 +3620,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 934,
+  "verified_image_count": 944,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -15504,5 +15509,134 @@
   "batch_094_drive_verified_count": 10,
   "batch_094_pending_rerender": 0,
   "batch_094_note": "Ch. VII 31:00-31:20 — 'Sailors returning from Valyrian waters carried breathless reports...' LOC-VAL-004 tag discrepancy logged (narration is Essos ports/courts + reported Valyrian as testimony; director to correct or confirm). LOCATIONS FOLLOW NARRATION. §5 IN FORCE (Appendix A ratified 2026-11-14) — ZERO emitters on camera; ZERO flame events; ZERO point-lights; stone TAKES never MAKES; smoke strictly WEST; sky flat PEWTER; one SLATE sea far-right; far-WEST cones DORMANT. 0934 turn-1 REJECTED (jali Islamic lattice + white-marble world-light break); turn-2 CLEARED under locked counter (RAW CUT STONE + PACKED EARTH, plain shutters, saffron/rust/dusk textiles). DRG-VAL-002 HELD — no dragon depiction anywhere in the batch (0940 renders the script's own simile as literal distant hawks). Valyrians UNCLASSIFIED (HOUSE DRESS DOCTRINE; names reference-only, never on camera; no house signature invented). Foreigners earth-toned; faces LIFTED; awe ≠ triumph. md5s re-read from Drive ALL MATCH; 1376x768. Cautions carried (never waived): 0932 lighthouse+pennon+torc-warm · 0933 hill-town silhouette · 0937 torc braid relief (geometry-only held) · 0938 regular round piers · 0940 Mediterranean rooflines. 0858 remains INDICTED. Counts at close: 934/1,050 · 88.95%. DRG-VAL-002 OPEN. PR #3 = director's call.",
-  "batch_094_close_note": "CLOSED 10/10 NOT zero-defect — 0934 cleared turn-2 (pastiche class); §5 held silent; DRG-VAL-002 HELD; md5s ALL MATCHED on Drive; 934/1,050 · 88.95%"
+  "batch_094_close_note": "CLOSED 10/10 NOT zero-defect — 0934 cleared turn-2 (pastiche class); §5 held silent; DRG-VAL-002 HELD; md5s ALL MATCHED on Drive; 934/1,050 · 88.95%",
+  "batch_095_verified_images": [
+    {
+      "image_number": 941,
+      "scene_id": "VAL-EP001-IMG941",
+      "batch": 95,
+      "timestamp": "31:20–31:22",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "turn-1 — LAM grass level: the far side towers as a COLOSSAL COLUMNAR-BASALT BUTTRESS WALL (director read — cones vs buttresses); one large gull + one speck (DRG-VAL-002 HELD); PEWTER incl. over far SLATE water; ZERO fire",
+      "md5": "52265316826efd95b2e3a43e3b9c8ee9",
+      "size_bytes": 1480197,
+      "drive_file_id": "1Myq6pexwFWmPrGp33HroHHTFUL-Be7lM",
+      "verdict": "APPROVED_TURN_1_·_CAUTION"
+    },
+    {
+      "image_number": 942,
+      "scene_id": "VAL-EP001-IMG942",
+      "batch": 95,
+      "timestamp": "31:22–31:24",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "turn-1 — DET macro: pasture in shallow focus; horsetail; ONE pale hawk feather pinned to a thorn; SLATE water + drowned cone line depth-washed beyond; ZERO fire; ZERO text",
+      "md5": "0082cd0ea86da6ce987ee4d9ec9e9759",
+      "size_bytes": 1533073,
+      "drive_file_id": "1dhZH95XhccBc8yIxIWaEcJ1xDdRRsV-s",
+      "verdict": "APPROVED_TURN_1_·_CAUTION"
+    },
+    {
+      "image_number": 943,
+      "scene_id": "VAL-EP001-IMG943",
+      "batch": 95,
+      "timestamp": "31:24–31:26",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "turn-1 — CU at the waterline: black tidal stone, guano strokes, shattered shell, wrack-weed, one SLATE breaker frozen mid-break; pale far coast drowning in PEWTER",
+      "md5": "56a01dde23eafeff8e2d4e606b3c9217",
+      "size_bytes": 1456694,
+      "drive_file_id": "1GZdYSC5YXjtS7FfPevo6HXpwEW5ighvd",
+      "verdict": "APPROVED_TURN_1_·_CAUTION"
+    },
+    {
+      "image_number": 944,
+      "scene_id": "VAL-EP001-IMG944",
+      "batch": 95,
+      "timestamp": "31:26–31:28",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "turn-1 — DET macro wrack-sand: barnacle-crusted oar fragment, thrice-knotted anonymous sailors’ hitch, one cracked bleached clay cup — grief as abandoned gear; NO people; NO text",
+      "md5": "fb547e9756a7fd8be4789091c80d6f46",
+      "size_bytes": 1736624,
+      "drive_file_id": "1sjlauWC2eSbaAmXKlO3CbpKteshPUl5-",
+      "verdict": "APPROVED_TURN_1_·_CAUTION"
+    },
+    {
+      "image_number": 945,
+      "scene_id": "VAL-EP001-IMG945",
+      "batch": 95,
+      "timestamp": "31:28–31:30",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "turn-1 — WS transitional: high Essos headland, across the SLATE strait a barely-resolved dark LINE of brick pyramids (slightly more resolved; director read); NO bronze gleam; faces EAST; PEWTER over the water",
+      "md5": "242be2056d4edad05ec23b76fd65515f",
+      "size_bytes": 1291205,
+      "drive_file_id": "1KWJwM3OdP7NC2m1AqFgYuVVX9XPuYsCI",
+      "verdict": "APPROVED_TURN_1_·_CAUTION"
+    },
+    {
+      "image_number": 946,
+      "scene_id": "VAL-EP001-IMG946",
+      "batch": 95,
+      "timestamp": "31:30–31:32",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "turn-2 — stepped brick citadel looming over slate-dark water; hanging palms; tiny parapet figures for scale; NO winged statue ANYWHERE (turn-1 living-wyvern Harpy CLEARED); brick cooled to umber/ash; sky PEWTER; ZERO flame",
+      "md5": "9037a9c1a10e411f31704b25b05dc953",
+      "size_bytes": 1551053,
+      "drive_file_id": "15xt0E2xG_HMCCfxoiWdeDk_q02TEOkqM",
+      "verdict": "APPROVED_AFTER_TURN_2_·_FAULT_CLEARED"
+    },
+    {
+      "image_number": 947,
+      "scene_id": "VAL-EP001-IMG947",
+      "batch": 95,
+      "timestamp": "31:32–31:34",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "turn-2 — OTS: patrician shoulder ochre; below, stubby dark LOW-SQUARE hulks, bare poles, ZERO flags/crescents/beast-heads (turn-1 Norse leak CLEARED); second patrician at the rail, dusk-brown, earring, still; boardwalks + grain barges; SLATE water; PEWTER",
+      "md5": "00907f700cb11f3ae983f4c17b909495",
+      "size_bytes": 1372837,
+      "drive_file_id": "1eb1vvGl4UnMzUnrNooZre7EwN9CrDG6h",
+      "verdict": "APPROVED_AFTER_TURN_2_·_FAULT_CLEARED"
+    },
+    {
+      "image_number": 948,
+      "scene_id": "VAL-EP001-IMG948",
+      "batch": 95,
+      "timestamp": "31:34–31:36",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "turn-2 — identical master-plan geometry, light rebuilt FLAT: four pyramid masses recede; ceremonial avenue runs to haze; brick umber/ash-sepia; sky UNIFORM PEWTER edge-to-edge; SUN FULLY OCCLUDED; irrigation flat; ZERO glare (turn-1 warm band CLEARED); NO fire",
+      "md5": "597da64a58bf57fa42d64822ed64f4d1",
+      "size_bytes": 1300967,
+      "drive_file_id": "135P3lDzrrDZsC8XT_JyCPPJ-toxVhId_",
+      "verdict": "APPROVED_AFTER_TURN_2_·_FAULT_CLEARED"
+    },
+    {
+      "image_number": 949,
+      "scene_id": "VAL-EP001-IMG949",
+      "batch": 95,
+      "timestamp": "31:36–31:38",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-1 — UWA plateau: grey dust-belts, dark irrigation seams, hearth-stone town clusters, TWO far barges; ONE unlit bronze tripod (no flame); far horizon band cool-white bright, no warm tint — director read; edge-to-edge PEWTER",
+      "md5": "6447538d3ae41cb5d602e15bae2f51d4",
+      "size_bytes": 1451716,
+      "drive_file_id": "1a3OitnQLQMUy462TNj75lIsHNooA__2G",
+      "verdict": "APPROVED_TURN_1_·_CAUTION"
+    },
+    {
+      "image_number": 950,
+      "scene_id": "VAL-EP001-IMG950",
+      "batch": 95,
+      "timestamp": "31:38–31:40",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "turn-1 — MCU: patrician with dust-red tokar, dull leaf-flat gold fringe (shoulder-edge slight life — 0914-class caution), bronze earring, close coils, underlidded eyes; NO crown/sigil/inlay; faces LIFTED; cold patience, never triumph",
+      "md5": "6a6b7cc1427396008113b36d804f3649",
+      "size_bytes": 1258460,
+      "drive_file_id": "1sSPBPNv0E2sWRZObe-6Xs1qtTvo7jHPb",
+      "verdict": "APPROVED_TURN_1_·_CAUTION"
+    }
+  ],
+  "batch_095_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_095_drive_folder_id": "1KaosJSlATEKmMHA6_s4pfRukDBpcJTIJ",
+  "batch_095_drive_folder_name": "EP001_BATCH_095_IMG0941-0950",
+  "batch_095_drive_verified_count": 10,
+  "batch_095_pending_rerender": 0,
+  "batch_095_note": "Ch. VII 31:20-31:40 — '…volcanic peaks like hawks above a pasture. Across the narrow waters of the Gulf of Grief, one empire listened with cold displeasure.' then L296 Old Ghis opens. Locations follow narration; CSV 0941-0945 tagged LOC-VAL-004 (foundry) — discrepancy logged; LOC-ESS-001 registry's desert-gold sun NOT rendered (§5 in force — flat PEWTER). DRG-VAL-002 HELD — NO dragon depicted anywhere (0941 gull + speck; 0949 far barges). §5 HELD — ZERO emitters. Ghiscari patricians tokar/earth-toned, UNCLASSIFIED (House Dress Doctrine); no sigils, no crowns, no text. Turn-1: 7 KEEP (0941 caution basalt buttresses vs cones; 0945 caution resolution; 0949 caution cool-white bright horizon + unlit tripod; 0950 caution gold-fringe edge); 3 REJECTS cleared turn-2: 0946 (parapet 'Harpy' rendered as living wyvern-like creature + warm brick — counter honoured, strike the Harpy; brick cooled) · 0947 (Norse crescent prows + pennons — counter honoured: stubby blunt hulks, bare poles, ZERO flags) · 0948 (warm sun-glare horizon — counter honoured: identical geometry, flat PEWTER, sun occluded))). md5s re-read from Drive ALL MATCH; 1376x768. Cautions carried. 0858 INDICTED. Counts at close: 944/1,050 · 89.90%. DRG-VAL-002 OPEN.",
+  "batch_095_close_note": "CLOSED 10/10 NOT zero-defect — confusion-free; three turn-1 class faults all cleared turn-2 (0946 Harpy struck; 0947 Norse prows; 0948 warm-glare horizon); §5 HELD; DRG-VAL-002 HELD; md5s ALL MATCHED on Drive; 944/1,050 · 89.90%"
 }

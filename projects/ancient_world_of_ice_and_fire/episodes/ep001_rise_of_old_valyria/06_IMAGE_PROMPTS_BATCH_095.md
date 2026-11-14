@@ -88,3 +88,16 @@ Saved `/home/user/Wan2.2/assets/batch_095_work/`, all 1376×768, md5s below.
 
 **Batch status: OPEN 7/10 — NOTHING uploaded. Inventory UNCHANGED 934/1,050 · 88.95%.**
 md5s: 0941 52265316826efd95b2e3a43e3b9c8ee9 · 0942 0082cd0ea86da6ce987ee4d9ec9e9759 · 0943 56a01dde23eafeff8e2d4e606b3c9217 · 0944 fb547e9756a7fd8be4789091c80d6f46 · 0945 242be2056d4edad05ec23b76fd65515f · 0946 4902a4b7655aaa0fff259a3754c1ff8f · 0947 efe4f8eede99b91dae747a33a1e4ac27 · 0948 acccd69bb8ca903cf59497db044a3f4e · 0949 6447538d3ae41cb5d602e15bae2f51d4 · 0950 6a6b7cc1427396008113b36d804f3649
+
+
+---
+
+## TURN-2 VERDICTS — 2026-11-14 (all three rejects CLEARED)
+- **0946 v2 — KEEP (caution).** Colossal stepped brick citadel looming over SLATE-dark water; hanging palms; tiny parapet figures for scale; **NO Harpy, NO statue of ANY winged form anywhere**; brick cooled to umber/ash; sky PEWTER; ZERO flame. Caution: upper-terrace ochre accent face reads mildly warm — GOLD-DULL strain, director read. md5 9037a9c1… · 1376×768.
+- **0947 v2 — KEEP (caution).** OTS patrician shoulder (ochre tokar, dull gold fringe); below, rows of STUBBY LOW-SQUARE dark hulks with bare poles — **zero flags/pennons/crescent prows/beast heads**; grain barges + boardwalks; second patrician at the rail (dusk-brown, bronze earring, patience); SLATE water; UNIFORM PEWTER. Caution: rams below waterline not legible at this angle — no anachronism present. md5 00907f70… · 1376×768.
+- **0948 v2 — KEEP · CLEAN.** Identical master-plan geometry re-lit FLAT: four pyramid masses recede; pack-grey ceremonial avenue running to haze; brick umber/ash-sepia; sky UNIFORM PEWTER edge-to-edge incl. at every horizon point; SUN FULLY OCCLUDED; irrigation flat; zero glare; zero fire. md5 597da64a… · 1376×768.
+
+## CLOSE — 2026-11-14 (10/10 uploaded + md5 verified)
+Folder `EP001_BATCH_095_IMG0941-0950` — Drive id `1KaosJSlATEKmMHA6_s4pfRukDBpcJTIJ` (parent EP001 `1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn`). All ten files re-listed from Drive and every `md5Checksum` MATCHED local: 0941 52265316… · 0942 0082cd0e… · 0943 56a01dde… · 0944 fb547e97… · 0945 242be205… · 0946 9037a9c1… · 0947 00907f70… · 0948 597da64a… · 0949 6447538d… · 0950 6a6b7cc1… (sizes 1,480,197 · 1,533,073 · 1,456,694 · 1,736,624 · 1,291,205 · 1,551,053 · 1,372,837 · 1,300,967 · 1,451,716 · 1,258,460 B).
+Inventory **944/1,050 · 89.90%** · completed_batches 95 · next_batch 96 · next_image_number 951.
+Standing: §5 IN FORCE · DRG-VAL-002 OPEN (no dragon depicted anywhere this batch) · 0858 INDICTED · Batch 096 NOT AUTHORIZED · PR merge = director's call. Cautions carried (never waived): 0941 (buttress class) · 0945 · 0946 · 0947 · 0949 · 0950.
