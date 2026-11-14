@@ -1,0 +1,62 @@
+# 12 — VALYRIAN STEEL & SCRIPT-OBJECTS SHOWCASE (canon-safe cut) — 2026-11-14
+**Episode 001 · Before the Dragons: The Rise of Old Valyria**
+**Director directive (2026-11-14, verbatim):** *"go on and also show the valyrian steel makings and valyrian steel jewelries, swords, armour, daggers and all objects that mentioned in the script."*
+**Resolution (director Q&A, same date):** scope = **canon-safe objects only** · style = **mixed → resolves to cinematic in-episode cutaways** (no override pieces exist, so there is nothing for the "clean showcase" lane) · rendered as **VAL-EP001-OBJ001–OBJ010**, 1376×768, EP001 house style (65mm cinematic still · grazing PEWTER light · GOLD-DULL · SORCERY-FLAT · NO text/letters/sigils anywhere · no warm sources · black fused-basalt surfaces).
+**Status: BRIEF LOCKED — render pending (next turn; full 10/10 image-gen cap reserved). NOT part of the 1050-scene inventory. NOTHING uploaded to Drive yet.**
+
+## CANON FINDING (hard constraint — locked script)
+Valyrian steel **does not exist yet** in EP001's time:
+- `02_COMPLETE_NARRATION_SCRIPT.md` L262 (foundries): *"In blazing volcanic foundries fed by geothermal vents, Valyrian smiths pushed metallurgy beyond the limits of the ancient Bronze Age. Working copper, tin, silver, and high-grade iron ores alongside prized jet-black dragonbone—valued across Essos for bow-staves stronger than yew—they laid the experimental foundations for the spell-forged blades that later ages would revere in awe as Valyrian steel. Yet every wonder above carried a price below."* → the steel itself is **future-tense**; only its **makings** may be shown.
+- L121 (dragon anatomy, the only other "steel" in the script — a simile): *"…lighter and more supple than forged steel."*
+- L25: *"Long before the Iron Throne was hammered from a thousand surrendered blades…"* — future, anachronism for EP001.
+- L37: *"…a champion wielding a blade of living fire—called Azor Ahai…"* — myth, not an object in scene.
+- **No named Valyrian-steel artifact (sword/armour/dagger/jewellery) appears anywhere in EP001.** Any rendering of one requires an explicit director override and would ship as a clearly-labelled non-canon "what's coming" pack — NOT commissioned.
+
+## WHAT "ALL OBJECTS MENTIONED IN THE SCRIPT" YIELDS (census)
+| In-script object (verbatim) | Anchor | Showcase treatment |
+|---|---|---|
+| "red copper, tin, iron, silver, and gleaming native gold … veined" | L78 | OBJ001–OBJ004 (ores macro) — GOLD rendered matte, never gleaming |
+| "glassy seams of black volcanic obsidian—the frozen fire … dragonglass" | L78 | OBJ008 |
+| "jet-black dragonbone … bow-staves stronger than yew" | L121, L262 | OBJ005 (trade-wrapped staves) |
+| foundries / smiths / metallurgy ("pushed metallurgy") | L262 | OBJ006 (cooled crucible skull + mould — **COLD**, no open flame without a per-span fire ruling) |
+| "the spell-forged blades that later ages would revere … as Valyrian steel" (experimental foundations) | L262 | **OBJ007 — THE EXPERIMENTAL BLADE: unmarked, unfinished, crucible-fresh; flat dark iron with a whisper of temper-colour at the edge; NO fuller, NO inscription, NO hallmark; the ONLY 'steel' EP001 may show** |
+| "pale … dragon horns … wrought of black iron and banded in red gold … incised with Valyrian glyphs of fire, blood, and command" | L169 | OBJ009 — black iron banded red gold; carving as **abstract fire/blood geometry only — GLYPHS NEVER LEGIBLE** (NO-TEXT law) |
+| trade goods: "Valyrian gold, silver, obsidian, and fine metalwork" | L291 | OBJ003 wire + OBJ009 jeweller's exhibit; 0928/0929 deliver the trade-table cuts already |
+| "…silver filigree diadem-band" / torc goods / obsidian disks | (EP001 trade beats; cf. Batch 092/093 keeps) | OBJ009 — silver filigree + obsidian cabochon torc, geometry-only |
+| "…draped now in crimson wool, spun gold, and overlapping bronze-and-iron scale" | L206 | OBJ010 — dragonlord ceremonial scale cuirass, crimson wool drape (the episode's only armour that may be shown; NOT Valyrian steel) |
+| Ghiscari war kit: "tall shields, short swords, and three spears of graduated length … bronze drums" | L49 | **optional OBJ011 — the literal swords/spears/shield/drums in the script; NOT in the 10-frame run without a director nod** (count is hard-capped at 10/turn; see options below) |
+| bronze Harpy on Old Ghis ramparts | L46, L54 | Monumental set piece — excluded (not a showcase cutaway; belongs to Ch. I establishing art) |
+| Valyrian sphinxes / polished obsidian, red gold, bronze avenues | L256 | Monumental — excluded (scene frames own this) |
+| tokars (Ghiscari patricians) | L297 | Garments, not objects — excluded |
+| Fossil dragon bones (Ib→Sothoryos) | L136 | Optional swap-in for any slot if director prefers |
+
+## THE 10 FRAMES (prompt-ready; house style header on every prompt)
+> Em-dashes are plain punctuation. Every prompt opens: `LANDSCAPE ORIENTATION, WIDE HORIZONTAL 16:9 FRAME, cinematic 65mm photoreal film still or Octane-render photoreal CGI, physically based materials, muted Kodak Vision3 500T palette, fine organic grain.`
+
+- **OBJ001 — DET 100mm** MACRO — a fresh fist of **red copper ore** on black fused basalt dust: raw, matte, fractured faces, dull copper-rose in the seams (GOLD-DULL analogue); a scatter of crushed ore; NO people; NO text; grazing pewter; SORCERY-FLAT.
+- **OBJ002 — DET 100mm** MACRO — **native gold specimen**, dull and granular, set in dark gangue on black fused basalt; the gold is OLD and matte (never gleaming); one edge already cut by a pick; NO people; NO text; grazing PEWTER; GOLD-DULL.
+- **OBJ003 — DET 85mm** — **two poured silver ingots** and a coil of **spun silver filigree wire** on a black basalt tray; matte assay-bright, NOT mirror; a single offcut curl of wire; NO people; NO text; grazing pewter; SORCERY-FLAT.
+- **OBJ004 — DET 100mm** MACRO — **high-grade iron ore** chunks, dark with bronze-tarnished lustre, on basalt dust; one snapped column showing a glittering interior facet; NO people; NO text; pewter; SORCERY-FLAT.
+- **OBJ005 — CU · 50mm** — **jet-black dragonbone bow-staves** (three), trade-wrapped in dark oilcloth and twine, the black bone pale where flexed; a small plain bronze knot used as a binding; NO people; NO text; on fused basalt; pewter; SORCERY-FLAT. (Bow-staves — NOT strung bows, NOT weapons in hand.)
+- **OBJ006 — CU · 50mm** — the foundry **after the pour**: a **cooled crucible skull** upended on fused basalt, slag-lipped, faint heat-shimmer long gone; beside it an **ingot mould** with one cooling ingot crusted matte; geothermal steam far in the background (NO open flame, NO fire event); NO people; NO text; GOLD-DULL; SORCERY-FLAT.
+- **OBJ007 — CU · 85mm · THE CENTREPIECE — THE EXPERIMENTAL BLADE.** A single **unmarked, unfinished early blade** on a basalt anvil-stone: no fuller, no crossguard (tang only), crucible-fresh iron-steel, the edge a whisper of temper-blue fading to shadow; deliberately imperfect — this is a *foundation*, not a legend; NO inscription of ANY kind; NO “Valyrian steel” anywhere; NO glow; pewter grazing light; SORCERY-FLAT.
+- **OBJ008 — DET 100mm** MACRO — **dragonglass**: a macro of the glassy black obsidian seam, conchoidal fractures catching flat pewter; a few trade smalls (disks, chips) beside it on basalt; obsidian FLAT — never glossy-black; NO gemstones catching light; NO text; SORCERY-FLAT.
+- **OBJ009 — DET 85mm · THE JEWELLERY CUT.** A **Valyrian torc exhibit** on black basalt: spun silver filigree with vine geometry and ONE obsidian cabochon; twined geometry ONLY — **NO letters, NO runes, NO hallmarks**; a second torc arc leaf-flat in the soft background (GOLD-DULL); NO people; grazing pewter; dust — new but not new-bright; SORCERY-FLAT.
+- **OBJ010 — CU · 85mm · THE ARMOUR CUT.** A **dragonlord ceremonial cuirass** of overlapping **bronze-and-iron scale**, crimson wool drape gathered at one shoulder, no sigil, no glyph, no house mark; scale leaf-flat, bronze tarnish-dark; displayed on a headless form or slumped on black basalt (never worn); NO faces; NO text; pewter; GOLD-DULL; SORCERY-FLAT.
+
+## EXCLUSIONS (recorded so nobody re-asks)
+1. Any **named Valyrian-steel hero weapon/armour/jewellery** — does not exist in EP001's time (L262). Requires explicit director override.
+2. **Iron Throne** (L25) — future; anachronism.
+3. **Azor Ahai's blade of living fire** (L37) — myth; not an object in scene; "living fire" would also breach the fire doctrine.
+4. **Dragon eggs** — never mentioned in EP001; excluded (would invent canon).
+5. **Bronze Harpy / sphinxes / obsidian-red gold avenues** (L46/L256) — monumental set pieces; excluded from showcase cuts (they belong to scene frames).
+6. **Ghiscari lockstep kit** (L49) + **bronze drums** — the literal "swords … mentioned in the script"; **optional OBJ011** — will render ONLY on director instruction (or as a swap for any cut above).
+7. **Tokars** (L297) — garments, not objects.
+8. **Text/glyphs/sigils/hallmarks** — absolute NO on every cut (geometry only).
+
+## PRODUCTION NOTES
+- 1376×768; aggressive QC on every frame: no warm sources; PEWTER incl. over any sea glimpse (none here — tabletop cuts); GOLD-DULL; obsidian never glossy-black; geometry-only ornament; NO people in OBJ001–OBJ009 (OBJ010 may slump on a form — no worn body, no face).
+- Frames are **not** in the 1050-scene count; intended as **B-roll/insert candidates** and an archival object file for the episode package.
+- Delivery: `assets/object_showcase_work/` (gitignored; `assets/batch_*/` pattern) → Drive folder `EP001_OBJECT_SHOWCASE_IMG001-010` (create at close) → counts do NOT advance inventory; verdicts appended here; nothing uploaded until 10/10 + md5 verify + director sign-off.
+- After render: per-frame verdicts appended; rejected frames progress turn-by-turn exactly like batch frames.
+**Gates that remain: §5 GLOBAL OVERDUE · DRG-VAL-002 OPEN · 0858 INDICTED · Batch 094 NOT AUTHORIZED · PR #3 = director's call.**
