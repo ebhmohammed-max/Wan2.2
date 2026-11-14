@@ -24,7 +24,7 @@ Valyrian steel **does not exist yet** in EP001's time:
 | trade goods: "Valyrian gold, silver, obsidian, and fine metalwork" | L291 | OBJ003 wire + OBJ009 jeweller's exhibit; 0928/0929 deliver the trade-table cuts already |
 | "…silver filigree diadem-band" / torc goods / obsidian disks | (EP001 trade beats; cf. Batch 092/093 keeps) | OBJ009 — silver filigree + obsidian cabochon torc, geometry-only |
 | "…draped now in crimson wool, spun gold, and overlapping bronze-and-iron scale" | L206 | OBJ010 — dragonlord ceremonial scale cuirass, crimson wool drape (the episode's only armour that may be shown; NOT Valyrian steel) |
-| Ghiscari war kit: "tall shields, short swords, and three spears of graduated length … bronze drums" | L49 | **optional OBJ012 — the literal swords/spears/shield/drums in the script; NOT in any run without a director nod** (count is hard-capped at 10/turn; see options below) |
+| Ghiscari war kit: "tall shields, short swords, and three spears of graduated length … bronze drums" | L49 | **OBJ012 — RENDERED + UPLOADED (2026-11-14) — the literal swords/spears/shield/drums in the script; delivered under the director’s canon_safe selection (“Ghiscari/Rhoynar/Asshai objects literally named”).** (count is hard-capped at 10/turn; see options below) |
 | bronze Harpy on Old Ghis ramparts | L46, L54 | Monumental set piece — excluded (not a showcase cutaway; belongs to Ch. I establishing art) |
 | Valyrian sphinxes / polished obsidian, red gold, bronze avenues | L256 | Monumental — excluded (scene frames own this) |
 | tokars (Ghiscari patricians) | L297 | Garments, not objects — excluded |
@@ -50,7 +50,7 @@ Valyrian steel **does not exist yet** in EP001's time:
 3. **Azor Ahai's blade of living fire** (L37) — myth; not an object in scene; "living fire" would also breach the fire doctrine.
 4. **Dragon eggs** — never mentioned in EP001; excluded (would invent canon).
 5. **Bronze Harpy / sphinxes / obsidian-red gold avenues** (L46/L256) — monumental set pieces; excluded from showcase cuts (they belong to scene frames).
-6. **Ghiscari lockstep kit** (L49) + **bronze drums** — the literal "swords … mentioned in the script"; **optional OBJ012** — will render ONLY on director instruction (or as a swap for any cut above).
+6. **Ghiscari lockstep kit** (L49) + **bronze drums** — the literal "swords … mentioned in the script"; **OBJ012** — delivered; the Ghiscari kit (L49).
 7. **Tokars** (L297) — garments, not objects.
 8. **Text/glyphs/sigils/hallmarks** — absolute NO on every cut (geometry only).
 
@@ -101,3 +101,13 @@ Inventory DELIBERATELY UNCHANGED (showcase pack, not scene frames): 924/1,050 ·
 - **OBJ011 — CU · 50mm — KEEP.** One monstrous curved horn wrought of BLACK IRON, banded leaf-flat (tarnish-dark) at the mouth and belly; incisions resolve ONLY as abstract fire-and-blood GEOMETRY — NO letters/runes/characters anywhere; matte iron; pewter grazing light; no people, no hand. Caution: bands read more antique BRONZE-BRASS than red gold — plausible as tarnished red gold, flagged for the director read (never waived). md5 240340b5478ccf3c882769261678f1f2 · 1376×768 · `assets/object_showcase_work/VAL-EP001-OBJ011.png`.
 - **Upload state: UPLOADED (2026-11-14, retry after rate limit).** Added to folder `EP001_OBJECT_SHOWCASE_IMG001-010` (`1_TINFqt0U1VN1sdCXbd3cxUhhS2mocH9`) as `VAL-EP001-OBJ011.png` → Drive id `1xpar2AG55ym_qGAWdpEmoIzZCDG-B19k` (1731867 B); Drive `md5Checksum` re-read and MATCHES local (`240340b5478ccf3c882769261678f1f2`).**
 - Showcase now 11/11 KEEP (OBJ001–OBJ011). **OBJ012** (optional, Ghiscari lockstep kit — the literal swords in the script, L49) remains PENDING explicit director word — not rendered, not authorized. Inventory UNCHANGED: 924/1,050 · 88.00% · next_batch 94 NOT AUTHORIZED · next_image_number 931. §5 OVERDUE · DRG-VAL-002 OPEN · 0858 INDICTED · PR #3 = director's call.
+
+
+---
+
+## OBJ012 — THE LOCKSTEP KIT (Ghiscari war gear, literal script objects) — 2026-11-14
+
+Director’s canon_safe selection explicitly included “Ghiscari/Rhoynar/Asshai objects literally named” — the Ghiscari kit is the script’s literal swords. Rendered on the repeated “go on”.
+- **OBJ012 — CU · 50mm — KEEP.** Still-life of Ghiscari war gear on sun-baked FIRED-BRICK paving with pooled dust: one TALL SHIELD leaning back (plain weathered bronze face over leather, absolutely NO emblem/sigil/harpy), TWO SHORT SWORDS crossed before it, THREE SPEARS of graduated length laid behind (graduated bronze spearheads on dark aged shafts), ONE BRONZE DRUM with a taut dark hide head at frame-right; campaign-worn, never ceremonial-bright; flat PEWTER light; NO people; NO text; no sparkle. md5 0efdeb52012b950a24d6b12d0ae55957 · 1376×768.
+- **Upload state: UPLOADED + md5 MATCHED** — folder `EP001_OBJECT_SHOWCASE_IMG001-010` (`1_TINFqt0U1VN1sdCXbd3cxUhhS2mocH9`), Drive id `1US0X787KgiDAaL2d-hPENW45IphUIxhQ` (1811225 B).
+- Showcase now **12/12 KEEP**. Ghiscari kit delivered; Harpy (L46 — monument only, no hand-object exists in-script, excluded) · tokars (L297, garments) · fossil dragon bones (L136 — Yandel-recorded; NOT rendered, not chosen) · Rhoynar/Asshai specifics (no literal named artifacts in EP001). Inventory UNCHANGED 924/1,050 · 88.00% · next_batch 94 NOT AUTHORIZED · §5 OVERDUE · DRG-VAL-002 OPEN · 0858 INDICTED · PR #3 = director’s call.
