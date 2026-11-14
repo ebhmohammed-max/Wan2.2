@@ -5,9 +5,9 @@
   "target_images": 1050,
   "batch_size": 10,
   "total_batches": 105,
-  "completed_batches": 92,
-  "next_batch": 93,
-  "next_image_number": 921,
+  "completed_batches": 93,
+  "next_batch": 94,
+  "next_image_number": 931,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -124,6 +124,11 @@
       "name": "EP001_BATCH_092_IMG0911-0920",
       "drive_id": "1_F6SSWFVrnXNiDewr9NgNulLaRBWk5-s",
       "url": "https://drive.google.com/drive/folders/1_F6SSWFVrnXNiDewr9NgNulLaRBWk5-s"
+    },
+    "batch_093": {
+      "name": "EP001_BATCH_093_IMG0921-0930",
+      "drive_id": "1ibTtOMOdkL7Q1XAK6l3jt6X5XQjqMv0I",
+      "url": "https://drive.google.com/drive/folders/1ibTtOMOdkL7Q1XAK6l3jt6X5XQjqMv0I"
     }
   },
   "batch_001_images_65mm_upgraded": [
@@ -1909,7 +1914,7 @@
     }
   ],
   "last_updated": "2026-11-14",
-  "verified_progress_percent": 87.05,
+  "verified_progress_percent": 88.0,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3605,7 +3610,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 914,
+  "verified_image_count": 924,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -15236,5 +15241,134 @@
   "batch_092_drive_verified_count": 10,
   "batch_092_pending_rerender": 0,
   "batch_092_note": "Ch. VI 30:20-30:30 → Ch. VII 30:30-30:40 — span crosses the CHAPTER SEAM: IMG0911-0915 CLOSE Ch. VI (THE TRAGIC CONTRADICTION passage: 'underworld of chains—an appetite for enslaved labor that would soon bring young Valyria face-to-face with the greatest slave empire on earth.') and IMG0916-0920 OPEN Ch. VII (THE CONSOLIDATED PENINSULA: 'Within a few transformative generations, the peninsula of the Fourteen Flames had become unrecognizable. Every valley from the northern foothills'). LOC-VAL-004/005 below-registry (0911-0915) chain exception in force by Ch. VI scene name; LOC-VAL-001/004 above-registry (0916-0920). NO FIRE RULING still in force for this span — zero fire on camera; beds-only hairlines; DRG-VAL-002 ABSENT by build; bronze tripods UNLIT; dormant WEST cones; 'shining' = weathered pale stone + pewter light, never glitter; sea ONE blunt SLATE band far-right incl. over the sea; sky UNIFORM PEWTER incl. over the sea (NO-WARM-HORIZON class hard reject). Dignified-horror absolute held (no child, no death-on-camera). HOUSE DRESS DOCTRINE 2026-11-14 second on-camera cycle (forward-only): 0913 = HOUSE DREVAN dusk line (silver temple cords + amethyst-drop earring); 0917 = HOUSE ILVAREN cloud line (pearl torc, defeated-harbour turn-1 re-rendered); 0920 = earth-toned foreigner (only non-Valyrian). Turn-1: 7 KEEP + 3 REJECT — 0915 aloft city a gothic pinnacle field + domes; 0917 harbour rust-gold + gilded finials + pearl torc invisible; 0918 pinnacle field AGAIN + warm amber window-lights in roost-towers. Turn-2 all three cleared (0915 single fused floating mass; 0917 black matte moles + torc at nape; 0918 fused low ridge + zero warm sources). NOT zero-rejection. md5s re-read from Drive and MATCHED for all ten; sizes match local. Counts at close: 914/1,050 · 87.05%. DIRECTOR-READ FLAGS FROM 091 STAND — none cleared by this batch: 0904 gold-fleck hot-end · 0906 regular fluted-column rhythm far-wall · 0907 stone-grey skin read · 0908 polished floor + plinth courses + rear terraces · 0910 horizon citadel silhouette + trail-like scars · 0914 gold speculars slightly bright (this batch, caution carried). 0858 (Batch 086) REMAINS INDICTED — needs explicit director go-ahead; NOT re-rendered (gains a house signature only when cleared). §5 STILL OPEN/OVERDUE; DRG-VAL-002 OPEN; chairs flags never waived.",
-  "batch_092_close_note": "CLOSED 10/10 NOT zero-rejection — turn-1 7 keeps; three rejects one disease (0915 gothic pinnacles/domes; 0917 gold-harbour/finials + invisible pearl torc; 0918 pinnacle field + warm window-lights), all cleared turn-2; HOUSE DRESS DOCTRINE delivered twice on-camera this batch (0913 DREVAN; 0917 ILVAREN); md5s all MATCHED on Drive; 914/1,050 · 87.05%"
+  "batch_092_close_note": "CLOSED 10/10 NOT zero-rejection — turn-1 7 keeps; three rejects one disease (0915 gothic pinnacles/domes; 0917 gold-harbour/finials + invisible pearl torc; 0918 pinnacle field + warm window-lights), all cleared turn-2; HOUSE DRESS DOCTRINE delivered twice on-camera this batch (0913 DREVAN; 0917 ILVAREN); md5s all MATCHED on Drive; 914/1,050 · 87.05%",
+  "batch_093_verified_images": [
+    {
+      "image_number": 921,
+      "scene_id": "VAL-EP001-IMG921",
+      "batch": 93,
+      "timestamp": "30:40–30:42",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "turn-3 — MS THE CAPE WATCHER: ash-pale wool robe (turn-1 bare-chest fault CLEARED), obsidian torc, platinum falls profile; consolidated coast below = FUSED ORGANIC single-mass sprawl, black comma breakwaters, teal-grey nearshore → ONE blunt SLATE band far-right; PEWTER edge-to-edge incl. over the sea; ZERO warm points; ZERO window-lights; the watcher never turns to camera",
+      "md5": "64511196cdd90522c41d145acfb5e2b7",
+      "size_bytes": 1561466,
+      "drive_file_id": "1U_VRVdh143tXQcce4ZvciMOEDdSK9XYL",
+      "verdict": "APPROVED_AFTER_TURN_3 · CLEAN"
+    },
+    {
+      "image_number": 922,
+      "scene_id": "VAL-EP001-IMG922",
+      "batch": 93,
+      "timestamp": "30:42–30:44",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "turn-3 — MCU THE GREEN ISLE: compressed 65mm telephoto; sea stacks into one blunt SLATE-teal plane; the ISLE OF CEDARS low cone-ridge, de-saturated dark green; platinum hair/ear edge extreme near plane (attribute law, face beyond frame); PEWTER incl. over the sea; ZERO warm band; the distance does the storytelling",
+      "md5": "164af590ca804716cbf2597872f44a93",
+      "size_bytes": 1251205,
+      "drive_file_id": "1GVQb4oOEsDpMYKJD4U5Rxurp8-2NHD_X",
+      "verdict": "APPROVED_AFTER_TURN_3 · CLEAN"
+    },
+    {
+      "image_number": 923,
+      "scene_id": "VAL-EP001-IMG923",
+      "batch": 93,
+      "timestamp": "30:44–30:46",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "turn-3 — MS THE ACKNOWLEDGMENT: Cedar Isles envoy earth-toned, upright, eyes level, NO chains; UNCLASSIFIED VALYRIAN ash-pale robe (turn-2 discipline held), platinum falls, violet eyes, obsidian torc; quay head RAW fused black basalt slabs; grey-green rock hills; NO wall/buttresses/masonry anywhere; both faces LIFTED",
+      "md5": "34505b5b94e1086f8537f3ec679e0333",
+      "size_bytes": 1271963,
+      "drive_file_id": "1tBRreC3SE1q13_M8sPF8hvi_dKL-_Q9o",
+      "verdict": "APPROVED_AFTER_TURN_3 · CLEAN"
+    },
+    {
+      "image_number": 924,
+      "scene_id": "VAL-EP001-IMG924",
+      "batch": 93,
+      "timestamp": "30:46–30:48",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "turn-3 — WS THE TURQUOISE BAYS (muted): chain of bays DE-SATURATED teal-grey; black comma breakwaters; every harbour town FUSED organic single-mass at distance (turn-1 hilltown/beige/domes fault CLEARED); grey-green hills; sea → ONE blunt SLATE band far-right; PEWTER incl. over the sea; ZERO window-lights",
+      "md5": "bb8b95f9d06b528944ebedcbcc8a0d2d",
+      "size_bytes": 1501212,
+      "drive_file_id": "1OjfDnNzLqOgnKAYtfP8IkBVfvWx0y7yt",
+      "verdict": "APPROVED_AFTER_TURN_3 · CLEAN"
+    },
+    {
+      "image_number": 925,
+      "scene_id": "VAL-EP001-IMG925",
+      "batch": 93,
+      "timestamp": "30:48–30:50",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-3 — UWA THE PEARL STRING: god’s view; multiple bays each with fused breakwater + harbour-town rendered FUSED organic single-mass (turn-1 rectilinear-grid/beige fault CLEARED); pale coast highway = organic branch-curves; grey-green field-quilts; Isle of Cedars cone-ridge far-horizon; sea → SLATE far-right; PEWTER incl. over the sea; ZERO warm; ZERO fire",
+      "md5": "dcdb457e0d355edf869af31d606978bb",
+      "size_bytes": 1553062,
+      "drive_file_id": "1yuRnqL4bmuZgJpY_dmPd9PHZdhaUrr9X",
+      "verdict": "APPROVED_AFTER_TURN_3 · CLEAN"
+    },
+    {
+      "image_number": 926,
+      "scene_id": "VAL-EP001-IMG926",
+      "batch": 93,
+      "timestamp": "30:50–30:52",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "turn-4 — LAM THE CROWDED PIERHEADS: close-moored sleek merchant hulls, black tarred timber, weathered grey bone-white paint, furled dark sails, NO flags; behind the sterns ONLY a LOW FUSED SINGLE-MASS black draft hugging the waterline + TWO low organic dormant roost-spires SHORTER than mast-tops; NO building/towers/cupolas/openings (turn-1 gothic pinnacles + clock tower / turn-3 gabled stone quay-works CLEARED); ZERO window-lights; PEWTER edge-to-edge",
+      "md5": "f67b72d27ac2060dc91e116ea1e58da7",
+      "size_bytes": 1800272,
+      "drive_file_id": "1zNsCWgeoOXvjfQwsBespbIGQiFbILBzb",
+      "verdict": "APPROVED_AFTER_TURN_4 · CLEAN"
+    },
+    {
+      "image_number": 927,
+      "scene_id": "VAL-EP001-IMG927",
+      "batch": 93,
+      "timestamp": "30:52–30:54",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "turn-3 — DET THE BLACK STONE BAND: macro fused basalt block, glassy organic seams; ONE matte rust-dark mooring ring; salt crust; tarred rope coil; barnacle waterline; grazing pewter; NO people; NO text. Caution: faint warm-sand wet-rock graze lower-left — no horizon in frame, NO-WARM-HORIZON bar untouched",
+      "md5": "5a48f114adf1bc45cdd988966997f782",
+      "size_bytes": 1864821,
+      "drive_file_id": "1XhDqBl1LReh8YCtL-Iwj6PpYxuZLso1A",
+      "verdict": "APPROVED_AFTER_TURN_3 · CAUTION (warm-sand graze lower-left)"
+    },
+    {
+      "image_number": 928,
+      "scene_id": "VAL-EP001-IMG928",
+      "batch": 93,
+      "timestamp": "30:54–30:56",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "turn-3 — CU THE TRADE TABLEAU: tarnished leaf-gold chains/torcs (several read BRIGHT — 0914-class caution carried, never waived); silver filigree diadem-band; flat obsidian disks (ornament geometry only, NO letters); palm-sized obsidian figurine; dark silk; earth-toned buyer shoulder frame-right, face beyond frame; NO gemstones catching light",
+      "md5": "ff9bfdd0c5985399799360c9c93b0196",
+      "size_bytes": 1474750,
+      "drive_file_id": "158_hfWBH7pebqGG57xXjFvNDYw2m-FA2",
+      "verdict": "APPROVED_AFTER_TURN_3 · CAUTION (gold slightly bright — 0914-class)"
+    },
+    {
+      "image_number": 929,
+      "scene_id": "VAL-EP001-IMG929",
+      "batch": 93,
+      "timestamp": "30:56–30:58",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "turn-3 — DET THE FIRE WORK: spun silver filigree wirework, twining vine geometry ONLY; ONE small obsidian cabochon; background torc arc antique-gold slightly warm (caution carried); NO letters/runes/hallmarks anywhere; piece NEW but not new-bright; SORCERY-FLAT",
+      "md5": "14e4680bfb06d8cc4dbca0bb4bd279ab",
+      "size_bytes": 1559338,
+      "drive_file_id": "1Qbz9lG8SCelY72yBKO29NT0queWv_yqp",
+      "verdict": "APPROVED_AFTER_TURN_3 · CAUTION (torc arc antique-gold warm)"
+    },
+    {
+      "image_number": 930,
+      "scene_id": "VAL-EP001-IMG930",
+      "batch": 93,
+      "timestamp": "30:58–31:00",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "turn-4 — WS THE FAR SAILS: fused breakwater lower third = seamless FUSED SINGLE-MASS BASALT with glassy wander-seams (turn-3 concrete-cube fault CLEARED); THREE single-mast WOODEN SAILING HULLS, weathered grey-tan canvas sails, small as gulls (turn-3 modern-container-ship fault CLEARED); slate-teal sea; PEWTER incl. over the sea; ZERO warm; NO flags; NO text",
+      "md5": "97e0b7aa3c68f783a21b0b8555c7deaf",
+      "size_bytes": 1166261,
+      "drive_file_id": "16YLUKXC1zSSv8cm-W2QRtIYDIulBfMYT",
+      "verdict": "APPROVED_AFTER_TURN_4 · CLEAN"
+    }
+  ],
+  "batch_093_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_093_drive_folder_id": "1ibTtOMOdkL7Q1XAK6l3jt6X5XQjqMv0I",
+  "batch_093_drive_folder_name": "EP001_BATCH_093_IMG0921-0930",
+  "batch_093_drive_verified_count": 10,
+  "batch_093_pending_rerender": 0,
+  "batch_093_note": "Ch. VII 30:40-31:00 — THE CONSOLIDATED FREEHOLD (Summer Sea ports & the Isle of Cedars trade; narration verbatim: 'to the southern capes—looking out toward the green Isle of Cedars—answered to the Freehold. Along turquoise bays of the Summer Sea, sleek merchant hulls crowded beneath fused-stone breakwaters, trading Valyrian gold, silver, obsidian, and fine metalwork with mariners from distant coasts.'). LOC-VAL-001/004 (above-registry consolidated coast). NO FIRE RULING in force — zero fire; DRG-VAL-002 ABSENT by build; dormant WEST cones; 'turquoise' = DE-SATURATED teal-grey, never cyan; sea ONE blunt SLATE band far-right; sky UNIFORM PEWTER incl. over the sea (NO-WARM-HORIZON hard bar, held). Dignified-horror absolute held (no child, no death-on-camera). HOUSE DRESS DOCTRINE 2026-11-14 in force — the watcher (0921/0922) and the Valyrian party (0923) are UNCLASSIFIED: invariants held, NO house signature invented. FOREIGNER law held (0923 cedar envoy earth-toned, upright, dignified, NOT groveling, NO chains). NOT zero-defect: the WORKSPACE LOST ALL TEN FRAMES mid-turn (assets/batch_093_work/ vanished externally); full rebuild from locked prompts (turn-3), then 0926 (third mortal-quay masonry miss — gothic+clock tower, then gabled stone quay-works) and 0930 (turn-3 modern container ships + concrete-cube breakwater) cleared on turn-4 under locked counters. Turn-3 keeps: 0921/0922/0923/0924/0925/0927/0928/0929; turn-4 keeps: 0926/0930. md5s re-read from Drive (md5Checksum) and MATCHED for all ten; sizes match local. Counts at close: 924/1,050 · 88.00%. DIRECTOR-READ FLAGS NEVER SELF-WAIVED: 0928 gold medallions/chains slightly bright (0914-class) · 0929 background torc arc antique-gold warm (geometry-only law HELD) · 0927 faint warm-sand wet-rock graze lower-left (no horizon in frame). Standing desk unchanged: 0904 · 0906 · 0907 · 0908 · 0910 · 0914 · 0859 · 0843 · 0839 · 0826 · 0832/0840 · 0865 · 0866 · 0869 · 0881/0884/0885/0886/0887/0888/0890/0892/0894/0895. 0858 (Batch 086) REMAINS INDICTED — needs explicit director go-ahead — NOT re-rendered. §5 STILL OPEN/OVERDUE; DRG-VAL-002 OPEN.",
+  "batch_093_close_note": "CLOSED 10/10 NOT zero-defect — full rebuild after external workspace loss (turn-3); two frames cleared on turn-4 (0926 mortal-quay masonry class ×3 misses → low fused waterline draft, two ≤mast-top roost-spires ONLY; 0930 anachronism class → single-mast wooden hulls + fused-basalt seam breakwater); cautions carried on 0927/0928/0929; md5s all MATCHED on Drive; 924/1,050 · 88.00%"
 }
