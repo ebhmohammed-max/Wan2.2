@@ -2,7 +2,7 @@
 **Episode 001 · Before the Dragons: The Rise of Old Valyria**
 **Director directive (2026-11-14, verbatim):** *"go on and also show the valyrian steel makings and valyrian steel jewelries, swords, armour, daggers and all objects that mentioned in the script."*
 **Resolution (director Q&A, same date):** scope = **canon-safe objects only** · style = **mixed → resolves to cinematic in-episode cutaways** (no override pieces exist, so there is nothing for the "clean showcase" lane) · rendered as **VAL-EP001-OBJ001–OBJ010**, 1376×768, EP001 house style (65mm cinematic still · grazing PEWTER light · GOLD-DULL · SORCERY-FLAT · NO text/letters/sigils anywhere · no warm sources · black fused-basalt surfaces).
-**Status: UPLOADED 10/10 — md5Checksum re-read from Drive for all ten and MATCHED local (folder `EP001_OBJECT_SHOWCASE_IMG001-010`, `1_TINFqt0U1VN1sdCXbd3cxUhhS2mocH9`). NOT part of the 1050-scene inventory; counts unchanged (924/1,050 · 88.00%). Director signed off via "go on" (2026-11-14, after sign-off was requested).**
+**Status: UPLOADED 12/12 — md5Checksum re-read from Drive for all twelve and MATCHED local (folder `EP001_OBJECT_SHOWCASE_IMG001-010`, `1_TINFqt0U1VN1sdCXbd3cxUhhS2mocH9`); final verification 2026-11-14 (12 files, totals 19,837,599 B). NOT part of the 1050-scene inventory; counts unchanged (924/1,050 · 88.00%). Director “go on” chain: 10/10 close-out → OBJ011 horn (L169) census completion → OBJ012 Ghiscari kit (L49, the script’s literal swords; canon_safe selection).**
 
 ## CANON FINDING (hard constraint — locked script)
 Valyrian steel **does not exist yet** in EP001's time:
@@ -111,3 +111,29 @@ Director’s canon_safe selection explicitly included “Ghiscari/Rhoynar/Asshai
 - **OBJ012 — CU · 50mm — KEEP.** Still-life of Ghiscari war gear on sun-baked FIRED-BRICK paving with pooled dust: one TALL SHIELD leaning back (plain weathered bronze face over leather, absolutely NO emblem/sigil/harpy), TWO SHORT SWORDS crossed before it, THREE SPEARS of graduated length laid behind (graduated bronze spearheads on dark aged shafts), ONE BRONZE DRUM with a taut dark hide head at frame-right; campaign-worn, never ceremonial-bright; flat PEWTER light; NO people; NO text; no sparkle. md5 0efdeb52012b950a24d6b12d0ae55957 · 1376×768.
 - **Upload state: UPLOADED + md5 MATCHED** — folder `EP001_OBJECT_SHOWCASE_IMG001-010` (`1_TINFqt0U1VN1sdCXbd3cxUhhS2mocH9`), Drive id `1US0X787KgiDAaL2d-hPENW45IphUIxhQ` (1811225 B).
 - Showcase now **12/12 KEEP**. Ghiscari kit delivered; Harpy (L46 — monument only, no hand-object exists in-script, excluded) · tokars (L297, garments) · fossil dragon bones (L136 — Yandel-recorded; NOT rendered, not chosen) · Rhoynar/Asshai specifics (no literal named artifacts in EP001). Inventory UNCHANGED 924/1,050 · 88.00% · next_batch 94 NOT AUTHORIZED · §5 OVERDUE · DRG-VAL-002 OPEN · 0858 INDICTED · PR #3 = director’s call.
+
+
+---
+
+## APPENDIX A — §5 GLOBAL DOCTRINE — DRAFT FOR DIRECTOR RULING ONLY (2026-11-14; NOT IN FORCE — NOT PRECEDENT — NOT AUTHORIZATION)
+
+Every gate note since Batch 081 carries "§5 global doctrine ruling STILL OVERDUE". This is a **draft consolidated from your own standing rulings** so you can ratify, strike or amend clause by clause. **Until you sign off in writing, nothing here binds anything.** The operative state is unchanged: Ch. VI canal exception (2026-11-13) stands exactly as written and travels nowhere past Ch. VI; the firewyrm one-span ruling (2026-11-14, 0896) is one span and sets no precedent; "no new fire without per-span ruling" remains the bar.
+
+DRAFT clauses (ratify / strike / amend):
+1. **Default: nothing in EP001 emits on camera.** Stone, water, faces take; they never make. No object, surface, sky or skin self-emits.
+2. **Ch. VI surgical exception stands as ruled (not episode-wide):** LIVE MAGMA CANALS and (within the shafts) the vent beds are the ONLY emitters; adjoining fused stone TAKES never makes; NO open-flame EVENTS anywhere; colour = emissive amber-crimson bed edges only. Scope: Ch. VI set-pieces (Batches 081–085/090) only. Never applied to Ch. I–V or VII onward without a fresh ruling.
+3. **One-span rulings are single-span forever unless the director re-states scope:** the 0896 firewyrm breach (white-hot flash fringe, one pale segment, eyes never resolved, no fire tongues) was ONE FRAME class in ONE batch; it may not be cited as precedent, borrowed, extended or generalized.
+4. **No open-flame events — anywhere — without an explicit written per-span ruling in the batch gate note.** Absence of a ruling is a flat NO. (This is the operative bar that already held in Batches 085–093: forge mouths dead black, foundries after the pour, OBJ006 cold, OBJ007 crucible-fresh blade with no glow.)
+5. **Smoke strictly WEST; sky FLAT cold PEWTER edge-to-edge; sea ONE blunt SLATE band; horizon never warm** (0775 precedent); volcano far-WEST DORMANT; no cones active; no ember points; no sparkles, gemstones, candles, lamps or torches — point-lights require the same per-span ruling as flames.
+6. **GOLD-DULL never lifts:** tarnished leaf-flat grey-gold or antique-bronze only; grazing pewter; no gleam, no mirror, no nugget-bright. **SORCERY-FLAT never lifts:** obsidian / horn-black bronze / grey-black glass — zero glow, zero runes, zero letters, geometry-only ornament.
+7. **Authority:** any new emitter, any new span, any relaxation of 2–6 requires the director's written per-span ruling BEFORE the batch is prompted; the ruling goes in the batch gate note verbatim. Silence, absence, or implication is never authorization. Partial credit never exists; a frame failing 2–6 is rejected and re-rendered, never annotated into compliance.
+8. **Ratification mechanics:** on your written sign-off the text above is marked IN FORCE with your date, all "§5 OVERDUE" lines are struck from the master package progressively (never silently), and this appendix stops being a draft. If you strike clauses or amend scope, the amended text is what binds; nothing else changes.
+
+Open questions that ONLY the director can answer (answer any of them and this closes):
+- (a) Does "Beds the only emitters" bind the whole episode, or remain Ch. VI only? (The 2026-11-13 rulings say Ch. VI only; this draft assumes it.)
+- (b) Are forge mouths, smelt vents or crucible risk surfaces EVER allowable as emissive beds outside Ch. VI, or is the episode uniformly cold-foundry (OBJ006 doctrine)?
+- (c) Smoke: is WEST-only episode-wide, or Ch. VI-specific too?
+- (d) Does GOLD-DULL bind literally ALL gold in frame episode-wide, or does any future hero/trade cut get a different budget?
+- (e) Does this doctrine travel into Batch 094+/EP002 planning, or is it EP001-scoped?
+
+**Status: DRAFT — OVERDUE remains OPEN. Nothing in this appendix is a ruling.**
