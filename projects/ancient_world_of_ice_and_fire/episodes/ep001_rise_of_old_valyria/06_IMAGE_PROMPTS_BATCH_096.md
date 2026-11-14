@@ -1,7 +1,7 @@
 # BATCH 096 — IMAGE PROMPTS
 **Episode 001 · Before the Dragons: The Rise of Old Valyria**
 **Timecode 31:40–32:00 · frames VAL-EP001-IMG0951 – IMG0960 · Ch. VII — OLD GHIS, THE CIVILIZATION THESIS**
-**Status: OPEN 9/10 — turn-1 executed 2026-11-14 (execute authorization = director “go on”, stop-clause logged). ONE REJECT: 0960 (counterfactual RUINED ARCH for a peak-dominion Ghis + Roman-shaft colonnade). Span narration (L296 end):**
+**Status: CLOSED 10/10 — turn-1 executed + turn-2 0960 cleared 2026-11-14 (execute authorization = director “go on”, stop-clause logged). Span narration (L296 end):**
 
 `From the shaded terraces of their stepped brick pyramids, patricians draped in gold-fringed tokars surveyed harbors packed with bronze-rammed war-galleys and slave transports. In Ghiscari eyes, civilization itself meant Ghiscari law, Ghiscari brick, Ghiscari chains, and the unbreakable spear-walls of the lockstep legions.`
 
@@ -86,3 +86,23 @@ Saved `/home/user/Wan2.2/assets/batch_096_work/`, all 1376×768, md5s below.
 
 **Batch status: OPEN 9/10 — NOTHING uploaded. Inventory UNCHANGED 944/1,050 · 89.90%.**
 md5s: 0951 27d8183964a81e763c2bed1d547c1277 · 0952 1c9a4cc072b0afe56fad2e7c82d2a9fa · 0953 ebe0954681c3aeb8c5b04675abfbae55 · 0954 f1be3e39352c5bdcd2696d779caf8354 · 0955 58cb5991b8480d5cbb63c0318cb3f8cd · 0956 692b2679e79b80e3e3a2bd16fb9158ed · 0957 47f49edb266de3ea432896e69528a4ed · 0958 e3cbc26adf11bcedabb416ce33db97aa · 0959 1a16603c3f7632b0a8897138e6dec1a6 · 0960 23bdae44dc0742b515cb94672b9d1387
+
+
+---
+
+## TURN-2 VERDICT — 2026-11-14 (0960 cleared) — UPDATED: batch CLOSED 10/10
+**0960 — KEEP (caution: brick-mass warmth).** The frame re-lit exactly as the turn-2 counter demanded: the arch stands INTACT — near-left, whole in every course, fresh-umber proud-eclipse brick with ZERO breach, ZERO crack, ZERO rubble anywhere (counterfactual ruin definitively cleared); the free-standing Roman shaft colonnade replaced by LOW square stone MARKER-BLOCKS grading down the avenue into haze; sky edge-to-edge FLAT PEWTER; the LOCKSTEP SPEAR-WALL at haze-depth holds — a single dark rectangular mass of upright lance-points in eerie synchrony, muted crimson sash-lines at thigh-height, NO faces, ZERO glints, ZERO flame, ZERO text, ZERO sigils. Caution carried (director read): the arch brick mass reads strongly rust-umber (fired-clay tolerance — same class as 0956); the PEWTER-vs-warm edge on that brick is a director ruling to make, not me.
+md5 0960: bd3c91148dd9a2ed1f053cde831a45a8
+
+## CLOSE — BATCH 096 — 2026-11-14 — UPLOADED + MD5-VERIFIED — 944 → 954/1,050 (90.86%)
+**Drive folder:** `EP001_BATCH_096_IMG0951-0960` · id **`1gUeJBmcE8LQDXjCAa6Lj2zgFuRgq-5LP`** (parent EP001 `1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn`). Create→upload→re-list executed; `list_files` returned **10 files, total_count 10**, and every `md5Checksum` re-read from Drive matched local EXACTLY (0951 27d81839… · 0952 1c9a4cc0… · 0953 ebe09546… · 0954 f1be3e39… · 0955 58cb5991… · 0956 692b2679… · 0957 47f49edb… · 0958 e3cbc26a… · 0959 1a16603c… · 0960 bd3c9114…). All 1376×768, stripped.
+**File IDs:** 0951 1JhMdpxGDn9FAbbwMa6F5AIOKwC21WcOA · 0952 1VQWw09hjHXsjcgqwSmv15wKnbsPJx5HZ · 0953 1pysSwHA3p-7Ak7XIkGPgu8N7xZCkFpMk · 0954 1TrA_863ekFDfGWF5uEE8rKKiVqEjYWM1 · 0955 1R9WFOtP5_lu6uSaBgOe19hw7kZu-iRXK · 0956 1KsXDgxppV7CDDru-eLUYKeGPG9hqfN34 · 0957 1Z-4H6mgCABkCMpZzrBe81a2WXo53YbFA · 0958 1SRM3P5F4BhqJfjv660bcaTfHYoKWZ28P · 0959 1GH6fNlsaIOiwuCKp2E6e50kFlaZv8Axj · 0960 1sJm-dfGqkqddDoDZaSrFcrmxGl8E8iGa.
+**Batch outcome: 10/10 landed. Turn-1 9 KEEP + 1 REJECT (0960); turn-2 0960 CLEARED.**
+**Dignified-horror absolute HELD everywhere:** ZERO chained bodies, ZERO coffles, ZERO suffering. "Slaves" exist ONLY as (a) the tabulated capacity of 0955’s two-class moorage ledger and (b) the still-titles of 0958’s iron coil — the regime rendered as apparatus and accounting, never as bodies under the lash.
+**§5 IN FORCE — held silent. Zero emitters (no fires, no lamps, no point-light). ZERO warm-sun. SLATE far-right only where the sea sits. Smoke WEST-only (none). PEWTER edge-to-edge everywhere else — incl. 0960’s full-frame grey ceiling and 0954/0955’s flat water.**
+**DRG-VAL-002 OPEN — no dragons in span, none depicted. GOLD-DULL all fringe/rings (direct-read strain logged on 0951/0953 hems). No sigils, no crowns, no crests, no letters, no glyphs anywhere — geometry-only ornament HELD (0954 broadside dotted band + 0957 notched band ruled geometry-only after director read — logged, never waived).**
+**LOC-ESS-001 (Old Ghis) registry “harsh desert-gold sunlight” NOT rendered — §5 supersedes; director correction/ratification requested (same class as Batch 095’s LOC-ESS-001 standing flag).**
+**Far-shore silhouette — castle-block / needle-spire pastiche class — flagged TWICE this batch (0951 castle-block right horizon; 0952 needle/minaret right horizon): mortal Essos shore mass, pastiche class, left as-is for director ruling, NEVER silently re-rolled.**
+**Carried cautions INTO batch 097+ (never waived, worst first):** 0960 (brick rust-umber) · 0956 (honey-umber brick mass strain) · 0954 (broadside pseudo-letters + European block-port wall) · 0951 (frieze swirls + far-shore castle-block + fringe) · 0952 (needle-spire far shore) · 0953 (Venetian hull read + fringe low strain) · 0957 (notched band lushness) · 0958 (knot-weight + brick warm edge) · 0959 (drum-rim warmth) · 0955 (pyramid apex beige — within tolerance).
+**Inventory:** 944 → **954/1,050 · 90.86%** · completed_batches **96** · next_batch **97** · next_image_number **961**. Batch 097 (32:00→) NOT AUTHORIZED until director word.
+**PR:** Batch 095 + Batch 096 ride the same branch `arena/8baf0702-wan2-2` → **PR #4** (OPEN; merge = director’s call).

@@ -5,9 +5,9 @@
   "target_images": 1050,
   "batch_size": 10,
   "total_batches": 105,
-  "completed_batches": 95,
-  "next_batch": 96,
-  "next_image_number": 951,
+  "completed_batches": 96,
+  "next_batch": 97,
+  "next_image_number": 961,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -139,6 +139,11 @@
       "name": "EP001_BATCH_095_IMG0941-0950",
       "drive_id": "1KaosJSlATEKmMHA6_s4pfRukDBpcJTIJ",
       "url": "https://drive.google.com/drive/folders/1KaosJSlATEKmMHA6_s4pfRukDBpcJTIJ"
+    },
+    "batch_096": {
+      "name": "EP001_BATCH_096_IMG0951-0960",
+      "drive_id": "1gUeJBmcE8LQDXjCAa6Lj2zgFuRgq-5LP",
+      "url": "https://drive.google.com/drive/folders/1gUeJBmcE8LQDXjCAa6Lj2zgFuRgq-5LP"
     }
   },
   "batch_001_images_65mm_upgraded": [
@@ -1924,7 +1929,7 @@
     }
   ],
   "last_updated": "2026-11-14",
-  "verified_progress_percent": 89.9,
+  "verified_progress_percent": 90.86,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3620,7 +3625,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 944,
+  "verified_image_count": 954,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -15638,5 +15643,134 @@
   "batch_095_drive_verified_count": 10,
   "batch_095_pending_rerender": 0,
   "batch_095_note": "Ch. VII 31:20-31:40 — '…volcanic peaks like hawks above a pasture. Across the narrow waters of the Gulf of Grief, one empire listened with cold displeasure.' then L296 Old Ghis opens. Locations follow narration; CSV 0941-0945 tagged LOC-VAL-004 (foundry) — discrepancy logged; LOC-ESS-001 registry's desert-gold sun NOT rendered (§5 in force — flat PEWTER). DRG-VAL-002 HELD — NO dragon depicted anywhere (0941 gull + speck; 0949 far barges). §5 HELD — ZERO emitters. Ghiscari patricians tokar/earth-toned, UNCLASSIFIED (House Dress Doctrine); no sigils, no crowns, no text. Turn-1: 7 KEEP (0941 caution basalt buttresses vs cones; 0945 caution resolution; 0949 caution cool-white bright horizon + unlit tripod; 0950 caution gold-fringe edge); 3 REJECTS cleared turn-2: 0946 (parapet 'Harpy' rendered as living wyvern-like creature + warm brick — counter honoured, strike the Harpy; brick cooled) · 0947 (Norse crescent prows + pennons — counter honoured: stubby blunt hulks, bare poles, ZERO flags) · 0948 (warm sun-glare horizon — counter honoured: identical geometry, flat PEWTER, sun occluded))). md5s re-read from Drive ALL MATCH; 1376x768. Cautions carried. 0858 INDICTED. Counts at close: 944/1,050 · 89.90%. DRG-VAL-002 OPEN.",
-  "batch_095_close_note": "CLOSED 10/10 NOT zero-defect — confusion-free; three turn-1 class faults all cleared turn-2 (0946 Harpy struck; 0947 Norse prows; 0948 warm-glare horizon); §5 HELD; DRG-VAL-002 HELD; md5s ALL MATCHED on Drive; 944/1,050 · 89.90%"
+  "batch_095_close_note": "CLOSED 10/10 NOT zero-defect — confusion-free; three turn-1 class faults all cleared turn-2 (0946 Harpy struck; 0947 Norse prows; 0948 warm-glare horizon); §5 HELD; DRG-VAL-002 HELD; md5s ALL MATCHED on Drive; 944/1,050 · 89.90%",
+  "batch_096_verified_images": [
+    {
+      "image_number": 951,
+      "scene_id": "VAL-EP001-IMG951",
+      "batch": 96,
+      "timestamp": "31:40–31:42",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "turn-1 — MS lateral: TWO Ghiscari patricians on the shaded terrace colonnade lip (UNCLASSIFIED; ochre/rust tokars; plain-dull gold fringe); deep straight shade spreads the brick; faces LIFTED; cold patience; SLATE far water",
+      "md5": "27d8183964a81e763c2bed1d547c1277",
+      "size_bytes": 1268515,
+      "drive_file_id": "1JhMdpxGDn9FAbbwMa6F5AIOKwC21WcOA",
+      "verdict": "APPROVED_TURN_1_·_CAUTION"
+    },
+    {
+      "image_number": 952,
+      "scene_id": "VAL-EP001-IMG952",
+      "batch": 96,
+      "timestamp": "31:42–31:44",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "turn-1 — MCU 65mm compressed: pyramid bands crushed flat (umber courses, palms serrated); ONE patrician half-body leaning at near edge, face in half-shadow, underlidded harbour-stare; compressed geometry does the talking",
+      "md5": "1c9a4cc072b0afe56fad2e7c82d2a9fa",
+      "size_bytes": 1291608,
+      "drive_file_id": "1VQWw09hjHXsjcgqwSmv15wKnbsPJx5HZ",
+      "verdict": "APPROVED_TURN_1_·_CAUTION (far-shore needle-spire)"
+    },
+    {
+      "image_number": 953,
+      "scene_id": "VAL-EP001-IMG953",
+      "batch": 96,
+      "timestamp": "31:44–31:46",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "turn-1 — MS 50mm survey beat: THREE backs/three-quarter at the rail; ONE finger toward the harbour; gold-fringe plain leaf-flat; SLATE water; low-masted broad galley; faces beyond frame; watchfulness of men pricing the sea",
+      "md5": "ebe0954681c3aeb8c5b04675abfbae55",
+      "size_bytes": 1541001,
+      "drive_file_id": "1pysSwHA3p-7Ak7XIkGPgu8N7xZCkFpMk",
+      "verdict": "APPROVED_TURN_1_·_CAUTION (Venetian hull read · fringe)"
+    },
+    {
+      "image_number": 954,
+      "scene_id": "VAL-EP001-IMG954",
+      "batch": 96,
+      "timestamp": "31:46–31:48",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "turn-1 — WS 35mm tableau: TEN-PLUS stubby dark-hulled low-square BRONZE-RAM war galleys at moorings in low order (NO crescent prows, NO flags, NO beast-heads; beaks BELOW waterline); plain pale-grey quay, sootless gantries; SLATE water crisp-reflecting nothing",
+      "md5": "f1be3e39352c5bdcd2696d779caf8354",
+      "size_bytes": 1646233,
+      "drive_file_id": "1TrA_863ekFDfGWF5uEE8rKKiVqEjYWM1",
+      "verdict": "APPROVED_TURN_1_·_CAUTION_STRICTEST (broadside dotted band ≈ pseudo-letters · European block-port)"
+    },
+    {
+      "image_number": 955,
+      "scene_id": "VAL-EP001-IMG955",
+      "batch": 96,
+      "timestamp": "31:48–31:50",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-1 — UWA 24mm DIRECT-DOWN ledger: the moorage as TABLE OF CAPACITY — two hull classes (beaked war-galleys / slab-hulled transports w/ square hold-mouths), plank piers ruled as ledger-lines; ZERO people, no chains, no letters; horror as tabulation",
+      "md5": "58cb5991b8480d5cbb63c0318cb3f8cd",
+      "size_bytes": 1800611,
+      "drive_file_id": "1R9WFOtP5_lu6uSaBgOe19hw7kZu-iRXK",
+      "verdict": "APPROVED_TURN_1_·_CAUTION (pyramid apex beige — tolerance)"
+    },
+    {
+      "image_number": 956,
+      "scene_id": "VAL-EP001-IMG956",
+      "batch": 96,
+      "timestamp": "31:50–31:52",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "turn-1 — LAM 24mm extreme low: COLOSSAL mud-brick+fired-brick processional arch spanning empty parade way; pure geometry — NO glyphs, NO inscriptions, NO corbels, NO crests; passage pure shade; structural confidence rendered",
+      "md5": "692b2679e79b80e3e3a2bd16fb9158ed",
+      "size_bytes": 1525074,
+      "drive_file_id": "1KsXDgxppV7CDDru-eLUYKeGPG9hqfN34",
+      "verdict": "APPROVED_TURN_1_·_CAUTION (honey-umber brick mass strain)"
+    },
+    {
+      "image_number": 957,
+      "scene_id": "VAL-EP001-IMG957",
+      "batch": 96,
+      "timestamp": "31:52–31:54",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "turn-1 — DET 85mm macro: dark basalt counter; TWO bronze law WEIGHTS of differing mass, notched band geometry-only (NO letters); folded flax; wax tablet FACE-DOWN (blank seal); bone-nib idle; SORCERY-FLAT",
+      "md5": "47f49edb266de3ea432896e69528a4ed",
+      "size_bytes": 1399300,
+      "drive_file_id": "1Z-4H6mgCABkCMpZzrBe81a2WXo53YbFA",
+      "verdict": "APPROVED_TURN_1_·_CAUTION (notched band lush — geometry-only HELD)"
+    },
+    {
+      "image_number": 958,
+      "scene_id": "VAL-EP001-IMG958",
+      "batch": 96,
+      "timestamp": "31:54–31:56",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "turn-1 — CU 85mm object still-life: coiled plain iron chain on a fired-brick fragment + lime mortar; free end into shadow; ONE small bronze knot-weight; NO body, no wrist, no blood, no smith soot; empire as hardware",
+      "md5": "e3cbc26adf11bcedabb416ce33db97aa",
+      "size_bytes": 1657274,
+      "drive_file_id": "1SRM3P5F4BhqJfjv660bcaTfHYoKWZ28P",
+      "verdict": "APPROVED_TURN_1_·_CAUTION (knot-weight warm edge)"
+    },
+    {
+      "image_number": 959,
+      "scene_id": "VAL-EP001-IMG959",
+      "batch": 96,
+      "timestamp": "31:56–31:58",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "turn-1 — DET 100mm macro: THREE graduated spearheads racked short→long, tempered bronze matte-flat with flat pewter edge-lines; cropped crescent rim of a plain bronze drum (L49 payoff); NO beast-heads, NO crests, NO engraving",
+      "md5": "1a16603c3f7632b0a8897138e6dec1a6",
+      "size_bytes": 1231575,
+      "drive_file_id": "1GH6fNlsaIOiwuCKp2E6e50kFlaZv8Axj",
+      "verdict": "APPROVED_TURN_1_·_CAUTION (drum-rim warmth)"
+    },
+    {
+      "image_number": 960,
+      "scene_id": "VAL-EP001-IMG960",
+      "batch": 96,
+      "timestamp": "31:58–32:00",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "turn-2 — WS 40mm transitional: MASSIVE INTACT brick arch near-left built proud and new (ZERO breach, ZERO rubble — counterfactual ruin definitively cleared); LOW square stone MARKER-BLOCKS grade the avenue to haze (Roman shafts struck); the LOCKSTEP SPEAR-WALL at haze-depth — upright lance mass in synchrony, muted crimson sashes, no faces, no glints; PEWTER ceiling-to-edge",
+      "md5": "bd3c91148dd9a2ed1f053cde831a45a8",
+      "size_bytes": 1532470,
+      "drive_file_id": "1sJm-dfGqkqddDoDZaSrFcrmxGl8E8iGa",
+      "verdict": "APPROVED_AFTER_TURN_2_·_FAULT_CLEARED (counterfactual ruin → intact; Roman columns → marker-blocks)"
+    }
+  ],
+  "batch_096_drive_folder_id": "1gUeJBmcE8LQDXjCAa6Lj2zgFuRgq-5LP",
+  "batch_096_drive_folder_name": "EP001_BATCH_096_IMG0951-0960",
+  "batch_096_drive_verified_count": 10,
+  "batch_096_pending_rerender": 0,
+  "batch_096_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_096_note": "Ch. VII 31:40–32:00 — Old Ghis, the civilization thesis (heirs of Grazdan, the surveyed harbours, the lockstep legions). Turn-1 9 KEEP + 1 REJECT; turn-2 0960 CLEARED — final count 10/10. Dignified-horror ABSOLUTE held: “slave transports” paid as tabulated capacity (0955 direct-down ledger: ZERO people), “Ghiscari chains” as plain-iron still-life (0958) — no bodies, no wrists, no lash anywhere. §5 HELD; SLATE maritime only; PEWTER universal. LOC-ESS-001 “harsh desert-gold sunlight” NOT rendered — §5 supersedes, director ratification pending (same flag as 095). Far-shore castle-block/needle-spire pastiche class flagged twice (0951/0952), left as-is for director ruling. Counterfactual-ruin fault on 0960 self-inflicted via prompt wording (“wasted” & “columned”) — recorded; turn-2 corrected clean. DRG-VAL-002 HELD. Inventory 944→954/1,050 · 90.86%. Batch 097 (32:00→) NOT AUTHORIZED.",
+  "batch_096_close_note": "CLOSED 10/10 NOT zero-defect — one turn-1 fault class (0960 counterfactual ruin + Roman colonnade, self-inflicted prompt wording) cleared turn-2 (intact proud arch · marker-blocks instead of shafts). §5 HELD. DRG-VAL-002 HELD. md5s ALL MATCHED on Drive re-list (10/10, total_count 10). Dignified-horror absolute held. Batch 097 NOT AUTHORIZED."
 }
