@@ -5,9 +5,9 @@
     "target_images": 1050,
     "batch_size": 10,
     "total_batches": 105,
-    "completed_batches": 88,
-    "next_batch": 89,
-    "next_image_number": 881,
+    "completed_batches": 89,
+    "next_batch": 90,
+    "next_image_number": 891,
     "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
     "drive_folders": {
         "master_root_folder": {
@@ -3600,7 +3600,7 @@
             "upload_checksum_verified": true
         }
     ],
-    "verified_image_count": 874,
+    "verified_image_count": 884,
     "batch_021_verified_images": [
         {
             "scene_id": "VAL-EP001-IMG0201",
@@ -14715,5 +14715,134 @@
         }
     ],
     "batch_088_note": "Ch. VI 29:00-29:20 — THE SLAVERY ENTERS THE FRAME (narration verbatim: “Through border raids, debt bondage, and brisk commerce with neighboring slave markets…”). Chains LAWFUL BY SCENE NAME ONLY in this span. Dignified-horror law in force: NO nudity, NO gore, NO striking on camera, NO child abuse depicted (children ONLY as small half-shadowed figures led by a parent, faces unresolvable), NO text, faces LIFTED/weary. Turn-1: 6 KEEP + 4 REJECT (0874 regular cylindrical-stack cluster + gilt sparkle-dots; 0876 warm far-left horizon + built timber doorframe; 0877 regular cut-block masonry + unaccounted warm depth-glow; 0880 gold-ember dot-studding) → TURN-2 re-renders 2026-11-14 cleared ALL FOUR (0877 needed turn-2b after turn-2 retained a small warm sliver at the distant canyon exit). Not zero-rejection. md5s re-read from Drive and MATCHED for all ten. Counts at close: 874/1,050 · 83.24%. DIRECTOR-READ FLAGS NEVER SELF-WAIVED: 0871 fume CENTER; 0872 rear-wall regular courses; 0873 market-wall regular courses; 0874 beds mouth-glow hot end; 0875 adit throat bed-amber HOT; 0878 bed-veins CRUSTY/BRIGHT; 0880 volcano summit wisp + bright far-left cloud breaks. 0858 (Batch 086) REMAINS INDICTED under the 2026-11-14 VALYRIAN-ATTRIBUTE law — re-render requires explicit director go-ahead (scope control stands); NOT re-rendered. §5 global doctrine still OPEN/OVERDUE; DRG-VAL-002 OPEN.",
-    "batch_088_close_note": "CLOSED 10/10 NOT zero-rejection — turn-1 6 keeps; four rejects (0874 / 0876 / 0877 / 0880) cleared turn-2 (0877 on turn-2b); first Ch. VI slavery-span executed; executed under the same surgical exception; md5s all MATCHED on Drive; 874/1,050 · 83.24%"
+    "batch_088_close_note": "CLOSED 10/10 NOT zero-rejection — turn-1 6 keeps; four rejects (0874 / 0876 / 0877 / 0880) cleared turn-2 (0877 on turn-2b); first Ch. VI slavery-span executed; executed under the same surgical exception; md5s all MATCHED on Drive; 874/1,050 · 83.24%",
+    "batch_089_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+    "batch_089_drive_folder_id": "16QcZx4Sj24lqvozUa5iRT_HH8ERfoUws",
+    "batch_089_drive_folder_name": "EP001_BATCH_089_IMG0881-0890",
+    "batch_089_drive_verified_count": 10,
+    "batch_089_pending_rerender": 0,
+    "batch_089_verified_images": [
+        {
+            "image_number": 881,
+            "scene_id": "VAL-EP001-IMG881",
+            "batch": 89,
+            "timestamp": "29:20–29:22",
+            "shot_type": "LAM · 24mm",
+            "visual_beat": "turn-1 — LAM THE HOIST: looking UP the yawning chasm — two LIFTED earth-toned miners hack a glittering quartz-clotted grey-gold/copper seam; chained wrists; rope-line hauls ore baskets upward; WALL ORGANIC SINGLE-MASS (no masonry); one hairline amber bed-thread at the apex (beds ONLY emit); vertical drop falls black — the machine at full scale; NO hero-shot bondage",
+            "md5": "05e4683968e62b7665ddbc7bf7ce37e1",
+            "size_bytes": 1563950,
+            "drive_file_id": "1pZvcFXhmlcNEAlcP7MRvricle9HnD4ZR",
+            "verdict": "APPROVED_FIRST_PASS · ANNOTATED (ore glint-spray reads hot — GOLD-DULL edge, DIRECTOR READ)"
+        },
+        {
+            "image_number": 882,
+            "scene_id": "VAL-EP001-IMG882",
+            "batch": 89,
+            "timestamp": "29:22–29:24",
+            "shot_type": "DET · 85mm",
+            "visual_beat": "turn-1 — DET THE SEAM BESIDE THE HEAT: macro diagonal ore vein through black fused stone; DULL knot-quartz spray + grey-gold/copper on hips, leaf-flat; stone absolute black; ONE thin hairline amber bed-thread deep frame — everything TAKES, nothing MAKES; no people; GOLD-DULL",
+            "md5": "02810bb3ae7f17c8d97f51762ae25391",
+            "size_bytes": 1666529,
+            "drive_file_id": "1l_nirCYBy49-5Baozanzmb_UTLuHurGC",
+            "verdict": "APPROVED_FIRST_PASS · CLEAN"
+        },
+        {
+            "image_number": 883,
+            "scene_id": "VAL-EP001-IMG883",
+            "batch": 89,
+            "timestamp": "29:24–29:26",
+            "shot_type": "CU · 85mm",
+            "visual_beat": "turn-1 — CU THE HEAT HE CAN FEEL: MID-AGED Ghiscari face three-quarter, LIFTED, partially lit, ash-damp one cheek; eyes half-lidded on his own CALLUSED labourer's hand at frame edge (UNBROKEN — never a wound, never a blister); cloth wrap ancient weave; endurance not despair; GOLD-DULL",
+            "md5": "6d7a6e994392354c9e7a6ea617f4081f",
+            "size_bytes": 1516866,
+            "drive_file_id": "1rsKza0YNFplnUfXVAvhwdc74m6mYXLIg",
+            "verdict": "APPROVED_FIRST_PASS · CLEAN"
+        },
+        {
+            "image_number": 884,
+            "scene_id": "VAL-EP001-IMG884",
+            "batch": 89,
+            "timestamp": "29:26–29:28",
+            "shot_type": "DET · 100mm",
+            "visual_beat": "turn-1 — DET THE WEIGHT: two-and-a-half pairs of labourer’s palms of palms locked to a frayed ancient rope — knuckle-dark, old healed scars; hide-wood basket rim below frame-bottom heaped with DULL raw ore; drop below absolute black — the weight of the chain economy made TACTILE",
+            "md5": "131fbfbc9c6c61a9fe61e241d9a17454",
+            "size_bytes": 1549409,
+            "drive_file_id": "1YYyNPo4XQU7xPzX3s8KsUBKyzdM5rLeB",
+            "verdict": "APPROVED_FIRST_PASS · ANNOTATED (frame-bottom ore-chunk highlights hot-end, DIRECTOR READ)"
+        },
+        {
+            "image_number": 885,
+            "scene_id": "VAL-EP001-IMG885",
+            "batch": 89,
+            "timestamp": "29:28–29:30",
+            "shot_type": "WS · 40mm",
+            "visual_beat": "turn-1 — WS THE CHASM LIPS: gallery-shoulder over the yawning black maw at world scale; lip ROPE-LINE of tiny figures hauling baskets up from the maw; TWO STILL BLOND VALYRIAN ESCORTS frame-right, platinum falls, violet eyes, faces LIFTED from the work; PEWTER sky edge-to-edge ZERO warm; smoke strictly WEST thin low; NO flame",
+            "md5": "1cef8424721541c09fb4dd401dc2c868",
+            "size_bytes": 1417497,
+            "drive_file_id": "1Py3Dq8SdjaQV5_oG8CdXi46rnjl5rA3Q",
+            "verdict": "APPROVED_FIRST_PASS · ANNOTATED (WEST horizon smoke bank spans much of the horizon — fence held but wide; chasm cliff reads regular stratified columnar fissuring — DIRECTOR READ)"
+        },
+        {
+            "image_number": 886,
+            "scene_id": "VAL-EP001-IMG886",
+            "batch": 89,
+            "timestamp": "29:30–29:32",
+            "shot_type": "LAM · 28mm",
+            "visual_beat": "turn-1 — LAM THE HOLLOW THROAT: knee-height look-UP at a TOWERING ORGANIC fused monolith (single-mass, wander-lace) with ONE RAW WOUND MOUTH at its base; captive line files in; two platinum escorts stone-still at fringes; back-depth ONE hairline amber-crimson bed-thread; NO creature, NO flame, NO EVENT — the menace is STONE",
+            "md5": "d6431124789465f8191e10d2f24d6540",
+            "size_bytes": 1573895,
+            "drive_file_id": "1QiSEZpAfNpllVO-6Y2qObtxleoVJgZEp",
+            "verdict": "APPROVED_FIRST_PASS · ANNOTATED (back-depth hairline reads slightly regular dotted-filament at finest end — DIRECTOR READ)"
+        },
+        {
+            "image_number": 887,
+            "scene_id": "VAL-EP001-IMG887",
+            "batch": 89,
+            "timestamp": "29:32–29:34",
+            "shot_type": "OTS · 40mm",
+            "visual_beat": "turn-1 blocked twice by CONTENT MODERATION then image-gen cap → turn-2 moderation-safe — OTS THE HELD BREATH: from behind a labourer’s shoulder down the black organic tunnel; receding fused chambers dimmer each step; ONE thin hairline steam thread leaking LOW at frame-right; deepest chamber breathing faint amber bed-thread; tiny distant knots of figures — the held breath BEFORE the word “jets”",
+            "md5": "1d87f77424e821a8d977216f9f34d4c4",
+            "size_bytes": 1374677,
+            "drive_file_id": "1sM78LAhYbRm5UyX_1i7KwWfteEiEH91G",
+            "verdict": "APPROVED_AFTER_TURN_2 · ANNOTATED (deepest chamber back-glow reads broad — hot end, DIRECTOR READ)"
+        },
+        {
+            "image_number": 888,
+            "scene_id": "VAL-EP001-IMG888",
+            "batch": 89,
+            "timestamp": "29:34–29:36",
+            "shot_type": "WS · 28mm",
+            "visual_beat": "turn-1 REJECTED (GALA-inversion — stripped white-gown frame-edge women, strappy high-heeled sandals, polished floor, REGULAR pointed gothic arcade, self-lit gold centre-shaft) → turn-2 RE-RENDER CLEAR: organic single-mass, NO arches/columns/masonry; THE LINE HALTED, chained captives kneeling; crew kneeling over a small dark shape at far seam behind thin low grey veil; two platinum-haired oversight figures LIFTED; hairline amber the only seam light; dignified-horror ABSOLUTE held",
+            "md5": "14452d565f31993b62ccdc88abd161e8",
+            "size_bytes": 1469593,
+            "drive_file_id": "10AM5rRkb_s4aDu1Qe_B1ltEOMbP6kQt-",
+            "verdict": "APPROVED_AFTER_TURN_2 · ANNOTATED (pure-vertical gold hairline far back-right very straight/bright — DIRECTOR READ)"
+        },
+        {
+            "image_number": 889,
+            "scene_id": "VAL-EP001-IMG889",
+            "batch": 89,
+            "timestamp": "29:36–29:38",
+            "shot_type": "UWA · 24mm",
+            "visual_beat": "turn-1 REJECTED (REGULAR coffered niche-grid fabric + GOLD-EMBER dot-spray ceiling) → turn-2 RE-RENDER CLEAR: moth-eaten single-mass ceiling (irregular wander-lace, NO grid, NO dots); halted pinhead line; green-grey feet-fog veils pooling LOW in floor basins (never luminous); unlit lone hanging chain far-right; NO firewyrm — absence made visible (“men where they stood”)",
+            "md5": "7a82bc2519e2686c994116616fbd28b6",
+            "size_bytes": 1566031,
+            "drive_file_id": "1XxmJ_B4AE-H_AlUJIQRk5gT4pzall2VC",
+            "verdict": "APPROVED_AFTER_TURN_2 · CLEAN"
+        },
+        {
+            "image_number": 890,
+            "scene_id": "VAL-EP001-IMG890",
+            "batch": 89,
+            "timestamp": "29:38–29:40",
+            "shot_type": "MCU · 50mm",
+            "visual_beat": "turn-1 blocked by CONTENT MODERATION (collapse frame) then image-gen cap → turn-2 — MCU CARRIED OUT: two earth-toned bearers support a SPENT-but-ALIVE mid-aged labourer between them (NO wound, NO blood, eyes closed); thin green-grey gas veil pooling shin-height dissipating; BLOND VALYRIAN oversight figure frame-right unmoved (platinum, violet eyes, black linen, ONE tarnished torc) — the system does not stop",
+            "md5": "7de9cb2066d74133390aa88b093b09e4",
+            "size_bytes": 1318304,
+            "drive_file_id": "193vZiBahoPzt22ZehJvbvSr92ld8Y-x5",
+            "verdict": "APPROVED_AFTER_TURN_2 · ANNOTATED (frame-left/right wall ore patches read broad GOLD — hot end, DIRECTOR READ)"
+        }
+    ],
+    "batch_089_note": "Ch. VI 29:20-29:40 — THE DEATH SENTENCE (narration verbatim: “…chained miners hacked at glittering ore veins beside stone hot enough to blister bare palms, hoisting heavy baskets up yawning black chasms. Death waited in every tunnel. Sudden jets of scalding red steam boiled men where they stood; poisonous volcanic gases snuffed out”). Chains lawful BY SCENE NAME ONLY. Dignified-horror ABSOLUTE: interiors held organic fused single-mass (NO arches/columns/masonry; NO polished luxury fabric); deaths rendered ONLY as aftermath/absence — no wound, no blood, no spasm, no face of the fallen; child NOT PRESENT in this span; NO text; faces LIFTED/weary. FIREWYRMS STRICTLY OFF CAMERA (CRT-VAL-001 NOT YET ARMED — the firewyrm sentence lands in batch 090 and WILL require its own ruling: “incinerate intruders in the dark” exceeds the Ch. VI exception). Turn-1: 6 KEEP + 2 REJECT (0888 GALA-INVERSION — white-gown frame-edge women + strappy high-heeled sandals + polished floor + regular gothic arcade + self-lit gold centre-shaft; 0889 REGULAR COFFERED niche-grid + GOLD-EMBER dot-spray) + 2 NOT GENERATED (0887/0890 — CONTENT MODERATION blockages; retries diced on the image-gen cap 10/turn). Turn-2 2026-11-14: ALL FOUR CLEARED (beats intact). Not zero-rejection. md5s re-read from Drive and MATCHED for all ten. Counts at close: 884/1,050 · 84.19%. DIRECTOR-READ FLAGS NEVER SELF-WAIVED: 0881 ore-glitter hot · 0884 ore-chunk hot · 0885 WEST-horizon smoke wide + regular stratified cliff fissuring · 0886 depth hairline slightly regular · 0887 deepest chamber glow broad · 0888 vertical hairline back-frame very straight/bright · 0890 wall ore patches broad GOLD. 0858 (Batch 086) REMAINS INDICTED — needs explicit director go-ahead — NOT re-rendered. §5 STILL OPEN/OVERDUE; DRG-VAL-002 OPEN.",
+    "batch_089_close_note": "CLOSED 10/10 NOT zero-rejection — turn-1 6 keeps; two rejects cleared turn-2 (0888/0889); two moderation-blocked frames built turn-2 (0887/0890); dignified-horror held end-to-end; md5s all MATCHED on Drive; 884/1,050 · 84.19%"
 }
