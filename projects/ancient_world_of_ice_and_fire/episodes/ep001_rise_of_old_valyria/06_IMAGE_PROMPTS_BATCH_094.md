@@ -1,7 +1,7 @@
 # BATCH 094 — IMAGE PROMPTS
 **Episode 001 · Before the Dragons: The Rise of Old Valyria**
 **Timecode 31:00–31:20 · frames VAL-EP001-IMG0931 – IMG0940 · Ch. VII — THE CONSOLIDATED FREEHOLD (reports from Valyrian waters)**
-**Status: OPEN — AUTHORIZED by the director 2026-11-14 ("Batch 094 authorized"). Span narration (L294):**
+**Status: CLOSED 10/10 (2026-11-14) — NOT zero-defect: 0934 rejected turn-1 (jali lattice + white-marble world-light fault), cleared turn-2 under locked counter. §5 GLOBAL DOCTRINE held silent (ratified Appendix A) — zero emitters, zero flame events, zero point-lights on camera. DRG-VAL-002 HELD. Authorized by the director 2026-11-14 ("Batch 094 authorized"). Span narration (L294):**
 
 `Sailors returning from Valyrian waters carried breathless reports into every harbor tavern and royal court of Essos. They spoke of seamless black towers grown without chisels from living flame, of silver-haired lords and ladies with eyes like bruised plums, and of winged leviathans circling volcanic peaks like hawks above a pasture.`
 
@@ -88,3 +88,14 @@ Saved `/home/user/Wan2.2/assets/batch_094_work/`, all 1376×768, md5s below.
 **Batch status: OPEN 9/10 — 0934 REJECT (jali/pastiche + world-light fault). NOTHING uploaded to Drive. Inventory UNCHANGED 924/1,050 · 88.00%. next_batch 94 → will read 934/1,050 on close. §5 IN FORCE (2026-11-14 ratified Appendix A) held — ZERO emitters in every frame; 0934 v2 must hold the same bar.**
 
 md5s: 0931 7be13a0e8ccfce1a1e3a7cb287f10f95 · 0932 3e82dbad4bcde6dbec6ba6f81d9c1d73 · 0933 7b0913a88156684706ccd6820606fe35 · 0934 89171da127429bba4e32fa8ea83aa2e0 · 0935 00c29fe0a02a311f7071d794e5ffedbd · 0936 aa741aa1391c56fba4e0e3724a56cb77 · 0937 0588488a9e24c137bc93435ca3eaba3e · 0938 63eb5da4dbcdf0278bd7bfb4bf85242f · 0939 04da5d8922c9d498effbb9bb295a60a4 · 0940 af643ede9763e3f129bfafb0c1c92562
+
+
+---
+
+## TURN-2 VERDICT — 2026-11-14 (0934 v2 — REJECT CLEARED)
+- **0934 (v2) — KEEP.** RAW CUT-STONE + PACKED-EARTH audience hall; dim taken-PEWTER light; plain wide shutters/reveals; courtiers saffron/rust/dusk-purple coarse weave, sun-dark faces; plain bronze office-torcs (NO glyphs); two salt-withered sailor-witnesses mid-hall; NO jali screens, NO lattice, NO white marble; NO crowns/sigils/text; NO flame; faces LIFTED. Coursed masonry appropriate to a MORTAL ESSOS build (not Valyria). md5 5e3cacb47649b97600ee3dec7a448a86 · 1376×768. Image-cap turn: v2 was the only generation call.
+
+## CLOSE — 2026-11-14 (10/10 uploaded + md5 verified)
+Folder `EP001_BATCH_094_IMG0931-0940` — Drive id `1CHpuVd5yOkkXBvqnTVa5YBKApTtGcYL1` (parent EP001 `1X4cqHh216EuaW38i_FM8v_EvF-ASbhcn`). All ten files re-listed from Drive and every `md5Checksum` MATCHED local: 0931 7be13a0e… · 0932 3e82dbad… · 0933 7b0913a8… · 0934 5e3cacb4… · 0935 00c29fe0… · 0936 aa741aa1… · 0937 0588488a… · 0938 63eb5da4… · 0939 04da5d89… · 0940 af643ede… (sizes 1,160,489 · 1,304,583 · 1,595,831 · 1,572,349 · 1,302,806 · 1,436,368 · 1,369,017 · 1,344,433 · 1,486,716 · 1,430,464 B).
+Inventory **934/1,050 · 88.95%** · completed_batches 94 · next_batch 95 · next_image_number 941.
+Standing: §5 IN FORCE (2026-11-14) · DRG-VAL-002 OPEN (0940 depicts no dragon) · 0858 INDICTED · Batch 095 NOT AUTHORIZED · PR #3 = director's call. Cautions carried (never waived): 0932 (invented lighthouse · far-galley pennon · torc GOLD-DULL strain) · 0933 outline · 0937 braid relief · 0938 round piers · 0940 rooflines.

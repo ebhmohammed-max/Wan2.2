@@ -5,9 +5,9 @@
   "target_images": 1050,
   "batch_size": 10,
   "total_batches": 105,
-  "completed_batches": 93,
-  "next_batch": 94,
-  "next_image_number": 931,
+  "completed_batches": 94,
+  "next_batch": 95,
+  "next_image_number": 941,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -129,6 +129,11 @@
       "name": "EP001_BATCH_093_IMG0921-0930",
       "drive_id": "1ibTtOMOdkL7Q1XAK6l3jt6X5XQjqMv0I",
       "url": "https://drive.google.com/drive/folders/1ibTtOMOdkL7Q1XAK6l3jt6X5XQjqMv0I"
+    },
+    "batch_094": {
+      "name": "EP001_BATCH_094_IMG0931-0940",
+      "drive_id": "1CHpuVd5yOkkXBvqnTVa5YBKApTtGcYL1",
+      "url": "https://drive.google.com/drive/folders/1CHpuVd5yOkkXBvqnTVa5YBKApTtGcYL1"
     }
   },
   "batch_001_images_65mm_upgraded": [
@@ -1914,7 +1919,7 @@
     }
   ],
   "last_updated": "2026-11-14",
-  "verified_progress_percent": 88.0,
+  "verified_progress_percent": 88.95,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3610,7 +3615,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 924,
+  "verified_image_count": 934,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -15370,5 +15375,134 @@
   "batch_093_drive_verified_count": 10,
   "batch_093_pending_rerender": 0,
   "batch_093_note": "Ch. VII 30:40-31:00 — THE CONSOLIDATED FREEHOLD (Summer Sea ports & the Isle of Cedars trade; narration verbatim: 'to the southern capes—looking out toward the green Isle of Cedars—answered to the Freehold. Along turquoise bays of the Summer Sea, sleek merchant hulls crowded beneath fused-stone breakwaters, trading Valyrian gold, silver, obsidian, and fine metalwork with mariners from distant coasts.'). LOC-VAL-001/004 (above-registry consolidated coast). NO FIRE RULING in force — zero fire; DRG-VAL-002 ABSENT by build; dormant WEST cones; 'turquoise' = DE-SATURATED teal-grey, never cyan; sea ONE blunt SLATE band far-right; sky UNIFORM PEWTER incl. over the sea (NO-WARM-HORIZON hard bar, held). Dignified-horror absolute held (no child, no death-on-camera). HOUSE DRESS DOCTRINE 2026-11-14 in force — the watcher (0921/0922) and the Valyrian party (0923) are UNCLASSIFIED: invariants held, NO house signature invented. FOREIGNER law held (0923 cedar envoy earth-toned, upright, dignified, NOT groveling, NO chains). NOT zero-defect: the WORKSPACE LOST ALL TEN FRAMES mid-turn (assets/batch_093_work/ vanished externally); full rebuild from locked prompts (turn-3), then 0926 (third mortal-quay masonry miss — gothic+clock tower, then gabled stone quay-works) and 0930 (turn-3 modern container ships + concrete-cube breakwater) cleared on turn-4 under locked counters. Turn-3 keeps: 0921/0922/0923/0924/0925/0927/0928/0929; turn-4 keeps: 0926/0930. md5s re-read from Drive (md5Checksum) and MATCHED for all ten; sizes match local. Counts at close: 924/1,050 · 88.00%. DIRECTOR-READ FLAGS NEVER SELF-WAIVED: 0928 gold medallions/chains slightly bright (0914-class) · 0929 background torc arc antique-gold warm (geometry-only law HELD) · 0927 faint warm-sand wet-rock graze lower-left (no horizon in frame). Standing desk unchanged: 0904 · 0906 · 0907 · 0908 · 0910 · 0914 · 0859 · 0843 · 0839 · 0826 · 0832/0840 · 0865 · 0866 · 0869 · 0881/0884/0885/0886/0887/0888/0890/0892/0894/0895. 0858 (Batch 086) REMAINS INDICTED — needs explicit director go-ahead — NOT re-rendered. §5 STILL OPEN/OVERDUE; DRG-VAL-002 OPEN.",
-  "batch_093_close_note": "CLOSED 10/10 NOT zero-defect — full rebuild after external workspace loss (turn-3); two frames cleared on turn-4 (0926 mortal-quay masonry class ×3 misses → low fused waterline draft, two ≤mast-top roost-spires ONLY; 0930 anachronism class → single-mast wooden hulls + fused-basalt seam breakwater); cautions carried on 0927/0928/0929; md5s all MATCHED on Drive; 924/1,050 · 88.00%"
+  "batch_093_close_note": "CLOSED 10/10 NOT zero-defect — full rebuild after external workspace loss (turn-3); two frames cleared on turn-4 (0926 mortal-quay masonry class ×3 misses → low fused waterline draft, two ≤mast-top roost-spires ONLY; 0930 anachronism class → single-mast wooden hulls + fused-basalt seam breakwater); cautions carried on 0927/0928/0929; md5s all MATCHED on Drive; 924/1,050 · 88.00%",
+  "batch_094_verified_images": [
+    {
+      "image_number": 931,
+      "scene_id": "VAL-EP001-IMG931",
+      "batch": 94,
+      "timestamp": "31:00–31:02",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "turn-1 — LAM low-angle, monumentolized: weathered Essos sailor climbing the wharf at grey first light; ochre tunic, salt-burnished skin, plain bronze disc clasp, satchel; pitch-dark planking; SLATE sea; DORMANT WEST cones far-left; ZERO warm, ZERO flame, ZERO text; awe-sick exhaustion, never triumph",
+      "md5": "7be13a0e8ccfce1a1e3a7cb287f10f95",
+      "size_bytes": 1160489,
+      "drive_file_id": "1u-U4RQo-ON_u7xtJ7mpzYEp5YoOf9GCj",
+      "verdict": "TURN-1_KEEP_·_CLEAN"
+    },
+    {
+      "image_number": 932,
+      "scene_id": "VAL-EP001-IMG932",
+      "batch": 94,
+      "timestamp": "31:02–31:04",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "turn-1 — OTS over the weathered sailor’s shoulder; HARBORMASTER in sun-faded saffron linen with PLAIN bronze office-torc (NO glyphs) listening narrowed; quill, closed wax-sealed scroll (NO device/letters), clay cup, bread; SLATE sea + PEWTER beyond door; NO flame. Carried DIRECTOR READ: invented far lighthouse + quay; ONE mast pennon on the far galley (NO-flags strain); torc reads antique-bronze warm — GOLD-DULL strain",
+      "md5": "3e82dbad4bcde6dbec6ba6f81d9c1d73",
+      "size_bytes": 1304583,
+      "drive_file_id": "12jIz3z68Zkp0F-kTbXx4hDgiYzyN8pfV",
+      "verdict": "TURN-1_KEEP_·_CAUTION_(LIGHTHOUSE_·_PENNON_·_TORC-WARM)"
+    },
+    {
+      "image_number": 933,
+      "scene_id": "VAL-EP001-IMG933",
+      "batch": 94,
+      "timestamp": "31:04–31:06",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "turn-1 — deep-focus: packed earth-toned benches turned to ONE storyteller mid-gesture; COLD DEAD HEARTH (no embers anywhere); clay jugs/loaves; PEWTER shutter-light; NO candles/lamps; faces LIFTED; voices of a harbor that has heard everything and believes half",
+      "md5": "7b0913a88156684706ccd6820606fe35",
+      "size_bytes": 1595831,
+      "drive_file_id": "18buxFYHGrLc61XFHHOFesoGi-gFONnq5",
+      "verdict": "TURN-1_KEEP_·_CAUTION_(OUTSIDE_HILL-TOWN_SILHOUETTE_—_ESSOS_MIDGROUND)"
+    },
+    {
+      "image_number": 934,
+      "scene_id": "VAL-EP001-IMG934",
+      "batch": 94,
+      "timestamp": "31:06–31:08",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-2 — RAW CUT-STONE + PACKED-EARTH audience hall, dim taken-PEWTER light through plain open shutters; courtiers in saffron/rust/dusk-purple coarse weave; sun-dark faces; plain bronze office-torcs (NO glyphs); two salt-withered sailor-witnesses mid-hall; NO jali screens, NO lattice, NO white marble (turn-1 pastiche fault CLEARED); NO crowns/sigils/text; NO flame",
+      "md5": "5e3cacb47649b97600ee3dec7a448a86",
+      "size_bytes": 1572349,
+      "drive_file_id": "1Rkt79nO-1blWIDb67HVksGfAYZ-fnGQg",
+      "verdict": "TURN-2_KEEP_·_CLEAN_(PASTICHE_FAULT_CLEARED)"
+    },
+    {
+      "image_number": 935,
+      "scene_id": "VAL-EP001-IMG935",
+      "batch": 94,
+      "timestamp": "31:08–31:10",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "turn-1 — medium-close focal beat: leathery hands cupping the shape of an invisible spire; jaw set; eyes forward past camera; one blade of grey shutter-light — ZERO warm; awe never triumph; the voice carved in tendons",
+      "md5": "00c29fe0a02a311f7071d794e5ffedbd",
+      "size_bytes": 1302806,
+      "drive_file_id": "1h3fly9BH5fR-9qsrs5NdIybMUnmkYyN5",
+      "verdict": "TURN-1_KEEP_·_CLEAN"
+    },
+    {
+      "image_number": 936,
+      "scene_id": "VAL-EP001-IMG936",
+      "batch": 94,
+      "timestamp": "31:10–31:12",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "turn-1 — testimony image: dawn mist at the feet of a seamless fused-BLACK SPIRE FIELD; wander-laced basalt masses, no joints, no chisel-marks; surfaces take flat PEWTER and nothing else; ZERO emitters, ZERO smoke, ZERO heat shimmer (L294 is REPORTED speech; §5 in force — horror rendered as architecture)",
+      "md5": "aa741aa1391c56fba4e0e3724a56cb77",
+      "size_bytes": 1436368,
+      "drive_file_id": "13_4v9cMmtdFskfFPi3vHtDgMT2F-fdMX",
+      "verdict": "TURN-1_KEEP_·_CLEAN"
+    },
+    {
+      "image_number": 937,
+      "scene_id": "VAL-EP001-IMG937",
+      "batch": 94,
+      "timestamp": "31:12–31:14",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "turn-1 — macro crescent of S-rayed silver hair over bare nape + edge of obsidian torc crescent (braid relief — geometry-only HELD); face entirely beyond the frame; marble-flat cold light; NO emissives; SORCERY-FLAT",
+      "md5": "0588488a9e24c137bc93435ca3eaba3e",
+      "size_bytes": 1369017,
+      "drive_file_id": "1VnWu-3USapxBSQu_bFFbk2udkrPZEuWP",
+      "verdict": "TURN-1_KEEP_·_CAUTION_(WORKED_TORC-BRAID_RELIEF_—_GEOMETRY-ONLY_HELD)"
+    },
+    {
+      "image_number": 938,
+      "scene_id": "VAL-EP001-IMG938",
+      "batch": 94,
+      "timestamp": "31:14–31:16",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "turn-1 — UNCLASSIFIED Valyrian lord and lady in a fused colonnade hall; platinum falls; violet eye-rims in deep shadow; obsidian canted torcs; bronze-scale shoulder caps; ash-pale drape; cold PEWTER through open bays; NO flame, NO glyphs, NO triumph. Caution: regular ROUND PIERS (Roman-classical lean) — director read",
+      "md5": "63eb5da4dbcdf0278bd7bfb4bf85242f",
+      "size_bytes": 1344433,
+      "drive_file_id": "1gY5A_KFfx6uq_mb9ONRy0l2sTu2Nbuz9",
+      "verdict": "TURN-1_KEEP_·_CAUTION_(REGULAR_ROUND_PIERS)"
+    },
+    {
+      "image_number": 939,
+      "scene_id": "VAL-EP001-IMG939",
+      "batch": 94,
+      "timestamp": "31:16–31:18",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "turn-1 — high back-row over a limitless fused-basalt colonnade: silver-haired congregation scattered asymmetrically; ONE violet glint (frame-left profile); aggregate stillness as awe; NO fire, NO text, NO heraldry; far portal void",
+      "md5": "04da5d8922c9d498effbb9bb295a60a4",
+      "size_bytes": 1486716,
+      "drive_file_id": "1vgO5AgdZ25HwDvLnHbQnRG4ys_FeJf_J",
+      "verdict": "TURN-1_KEEP_·_CLEAN"
+    },
+    {
+      "image_number": 940,
+      "scene_id": "VAL-EP001-IMG940",
+      "batch": 94,
+      "timestamp": "31:18–31:20",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-1 — Essos rooftop vantage, high-elevation: SLATE water, far DORMANT cone line WEST (a suggestion, never a portrait); pasture + cropped fallow quilts; TWO HAWKS circling a thermal — the script’s own simile literalized; NO dragons depicted (DRG-VAL-002 opened by nothing); PEWTER edge-to-edge; ZERO warm; no smoke",
+      "md5": "af643ede9763e3f129bfafb0c1c92562",
+      "size_bytes": 1430464,
+      "drive_file_id": "10ETD4L5Px6BZcZLv1fw6DwyUBUydkU85",
+      "verdict": "TURN-1_KEEP_·_CAUTION_(MORTAL-MEDITERRANEAN_ROOFLINES_—_ESSOS_COAST)_·_DRG-VAL-002_HELD"
+    }
+  ],
+  "batch_094_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_094_drive_folder_id": "1CHpuVd5yOkkXBvqnTVa5YBKApTtGcYL1",
+  "batch_094_drive_folder_name": "EP001_BATCH_094_IMG0931-0940",
+  "batch_094_drive_verified_count": 10,
+  "batch_094_pending_rerender": 0,
+  "batch_094_note": "Ch. VII 31:00-31:20 — 'Sailors returning from Valyrian waters carried breathless reports...' LOC-VAL-004 tag discrepancy logged (narration is Essos ports/courts + reported Valyrian as testimony; director to correct or confirm). LOCATIONS FOLLOW NARRATION. §5 IN FORCE (Appendix A ratified 2026-11-14) — ZERO emitters on camera; ZERO flame events; ZERO point-lights; stone TAKES never MAKES; smoke strictly WEST; sky flat PEWTER; one SLATE sea far-right; far-WEST cones DORMANT. 0934 turn-1 REJECTED (jali Islamic lattice + white-marble world-light break); turn-2 CLEARED under locked counter (RAW CUT STONE + PACKED EARTH, plain shutters, saffron/rust/dusk textiles). DRG-VAL-002 HELD — no dragon depiction anywhere in the batch (0940 renders the script's own simile as literal distant hawks). Valyrians UNCLASSIFIED (HOUSE DRESS DOCTRINE; names reference-only, never on camera; no house signature invented). Foreigners earth-toned; faces LIFTED; awe ≠ triumph. md5s re-read from Drive ALL MATCH; 1376x768. Cautions carried (never waived): 0932 lighthouse+pennon+torc-warm · 0933 hill-town silhouette · 0937 torc braid relief (geometry-only held) · 0938 regular round piers · 0940 Mediterranean rooflines. 0858 remains INDICTED. Counts at close: 934/1,050 · 88.95%. DRG-VAL-002 OPEN. PR #3 = director's call.",
+  "batch_094_close_note": "CLOSED 10/10 NOT zero-defect — 0934 cleared turn-2 (pastiche class); §5 held silent; DRG-VAL-002 HELD; md5s ALL MATCHED on Drive; 934/1,050 · 88.95%"
 }
