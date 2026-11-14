@@ -2,7 +2,7 @@
 **Episode 001 · Before the Dragons: The Rise of Old Valyria**
 **Director directive (2026-11-14, verbatim):** *"go on and also show the valyrian steel makings and valyrian steel jewelries, swords, armour, daggers and all objects that mentioned in the script."*
 **Resolution (director Q&A, same date):** scope = **canon-safe objects only** · style = **mixed → resolves to cinematic in-episode cutaways** (no override pieces exist, so there is nothing for the "clean showcase" lane) · rendered as **VAL-EP001-OBJ001–OBJ010**, 1376×768, EP001 house style (65mm cinematic still · grazing PEWTER light · GOLD-DULL · SORCERY-FLAT · NO text/letters/sigils anywhere · no warm sources · black fused-basalt surfaces).
-**Status: TURN-1 RENDERED — 10/10 KEEP (two carried cautions: OBJ009 background torc arc antique-gold warm · OBJ010 scale highlights lively in center-left). NOT part of the 1050-scene inventory. NOTHING uploaded to Drive — awaits director sign-off (per Production Notes).**
+**Status: UPLOADED 10/10 — md5Checksum re-read from Drive for all ten and MATCHED local (folder `EP001_OBJECT_SHOWCASE_IMG001-010`, `1_TINFqt0U1VN1sdCXbd3cxUhhS2mocH9`). NOT part of the 1050-scene inventory; counts unchanged (924/1,050 · 88.00%). Director signed off via "go on" (2026-11-14, after sign-off was requested).**
 
 ## CANON FINDING (hard constraint — locked script)
 Valyrian steel **does not exist yet** in EP001's time:
@@ -80,3 +80,13 @@ Saved `/home/user/Wan2.2/assets/object_showcase_work/` (gitignored), all 1376×7
 - **OBJ010 — KEEP (caution).** Overlapping bronze-and-iron scale, leaf-flat, bronze tarnish-dark; crimson wool drape gathered at one shoulder; NO sigil/glyph/house mark; slumped empty, never worn; scale highlights center-frame run LIVELY (caution — same class as 0914/0928 speculars; never waived).
 
 **Delivery gates unchanged:** not in the 1050-scene inventory; inventory untouched at 924/1,050 · 88.00% · counts do not advance for this pack. Upload requires: 10/10 + md5 verify (done locally) + director sign-off. Proposed Drive folder on approval: `EP001_OBJECT_SHOWCASE_IMG001-010`. **OBJ011 (Ghiscari lockstep kit — the literal swords in the script, L49) STILL PENDING director word — will not render without it.**
+
+
+---
+
+## UPLOAD CLOSE-OUT — 2026-11-14
+
+10/10 uploaded to Drive folder **EP001_OBJECT_SHOWCASE_IMG001-010** (`1_TINFqt0U1VN1sdCXbd3cxUhhS2mocH9`, parent EP001 root). Drive `md5Checksum` matches local md5 for every file:
+OBJ001 26ae69e5… → 1bT19xDLR9_rT7yHCjTcmBXVkYf-GCm90 (1669846 B) · OBJ002 d856042c… → 1yOYxmACEFI8LTYsswMaEGKMfPryjv5IG (1891835 B) · OBJ003 71251a73… → 1GC6PN5KVUZTD1qybP3IQEwZcyHPecV5S (1637340 B) · OBJ004 fd934dc5… → 1wEXsf6BKydY9TOAApytagm8j7_EsQq7j (1650768 B) · OBJ005 cb05f3f1… → 1-aD0RXB33IvRpDHEgA_Hqmjunmd-iv2N (1461436 B) · OBJ006 a65ff1ba… → 1y8zrILHX1hN6yPNMhqrvW6hwJuW3PICY (1914757 B) · OBJ007 7ae4bdb4… → 1h4Q5z4IMaejuO0ntFbzmGbqhu0N37VLE (1378205 B) · OBJ008 2a233750… → 1-WWBBmJTjAZ1W98lzS1vFCtrZRw6LsDH (1651961 B) · OBJ009 4752290e… → 1KlAvFurv2RUxOjWChhlF2q4Bf5ZxOAbl (1466277 B) · OBJ010 7cc98cab… → 1I0cHjBJf_7fl5rqy4L0Mh6ue-yu_MkrO (1572082 B). Total ≈ 16.3 MB.
+
+Inventory DELIBERATELY UNCHANGED (showcase pack, not scene frames): 924/1,050 · 88.00% · next_batch 94 (NOT AUTHORIZED) · next_image_number 931. Cautions carried (never waived): OBJ009 torc arc antique-gold warm · OBJ010 scale highlights lively. OBJ011 (Ghiscari lockstep kit — literal swords, L49) STILL PENDING director word — not rendered. §5 OVERDUE · DRG-VAL-002 OPEN · 0858 INDICTED · PR #3 = director's call.
