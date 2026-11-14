@@ -20,11 +20,11 @@ Valyrian steel **does not exist yet** in EP001's time:
 | "jet-black dragonbone … bow-staves stronger than yew" | L121, L262 | OBJ005 (trade-wrapped staves) |
 | foundries / smiths / metallurgy ("pushed metallurgy") | L262 | OBJ006 (cooled crucible skull + mould — **COLD**, no open flame without a per-span fire ruling) |
 | "the spell-forged blades that later ages would revere … as Valyrian steel" (experimental foundations) | L262 | **OBJ007 — THE EXPERIMENTAL BLADE: unmarked, unfinished, crucible-fresh; flat dark iron with a whisper of temper-colour at the edge; NO fuller, NO inscription, NO hallmark; the ONLY 'steel' EP001 may show** |
-| "pale … dragon horns … wrought of black iron and banded in red gold … incised with Valyrian glyphs of fire, blood, and command" | L169 | OBJ009 — black iron banded red gold; carving as **abstract fire/blood geometry only — GLYPHS NEVER LEGIBLE** (NO-TEXT law) |
+| "pale … dragon horns … wrought of black iron and banded in red gold … incised with Valyrian glyphs of fire, blood, and command" | L169 | **OBJ011** — black iron banded red gold; carving as **abstract fire/blood geometry only — GLYPHS NEVER LEGIBLE** (NO-TEXT law) |
 | trade goods: "Valyrian gold, silver, obsidian, and fine metalwork" | L291 | OBJ003 wire + OBJ009 jeweller's exhibit; 0928/0929 deliver the trade-table cuts already |
 | "…silver filigree diadem-band" / torc goods / obsidian disks | (EP001 trade beats; cf. Batch 092/093 keeps) | OBJ009 — silver filigree + obsidian cabochon torc, geometry-only |
 | "…draped now in crimson wool, spun gold, and overlapping bronze-and-iron scale" | L206 | OBJ010 — dragonlord ceremonial scale cuirass, crimson wool drape (the episode's only armour that may be shown; NOT Valyrian steel) |
-| Ghiscari war kit: "tall shields, short swords, and three spears of graduated length … bronze drums" | L49 | **optional OBJ011 — the literal swords/spears/shield/drums in the script; NOT in the 10-frame run without a director nod** (count is hard-capped at 10/turn; see options below) |
+| Ghiscari war kit: "tall shields, short swords, and three spears of graduated length … bronze drums" | L49 | **optional OBJ012 — the literal swords/spears/shield/drums in the script; NOT in any run without a director nod** (count is hard-capped at 10/turn; see options below) |
 | bronze Harpy on Old Ghis ramparts | L46, L54 | Monumental set piece — excluded (not a showcase cutaway; belongs to Ch. I establishing art) |
 | Valyrian sphinxes / polished obsidian, red gold, bronze avenues | L256 | Monumental — excluded (scene frames own this) |
 | tokars (Ghiscari patricians) | L297 | Garments, not objects — excluded |
@@ -50,7 +50,7 @@ Valyrian steel **does not exist yet** in EP001's time:
 3. **Azor Ahai's blade of living fire** (L37) — myth; not an object in scene; "living fire" would also breach the fire doctrine.
 4. **Dragon eggs** — never mentioned in EP001; excluded (would invent canon).
 5. **Bronze Harpy / sphinxes / obsidian-red gold avenues** (L46/L256) — monumental set pieces; excluded from showcase cuts (they belong to scene frames).
-6. **Ghiscari lockstep kit** (L49) + **bronze drums** — the literal "swords … mentioned in the script"; **optional OBJ011** — will render ONLY on director instruction (or as a swap for any cut above).
+6. **Ghiscari lockstep kit** (L49) + **bronze drums** — the literal "swords … mentioned in the script"; **optional OBJ012** — will render ONLY on director instruction (or as a swap for any cut above).
 7. **Tokars** (L297) — garments, not objects.
 8. **Text/glyphs/sigils/hallmarks** — absolute NO on every cut (geometry only).
 
@@ -79,7 +79,7 @@ Saved `/home/user/Wan2.2/assets/object_showcase_work/` (gitignored), all 1376×7
 - **OBJ009 — KEEP (caution).** Silver-filigree torc, vine geometry ONLY, ONE obsidian cabochon; twined geometry only — NO letters/runes/hallmarks; background torc arc antique-gold slightly WARM/BRIGHT (caution carried — same class as 0929; never waived).
 - **OBJ010 — KEEP (caution).** Overlapping bronze-and-iron scale, leaf-flat, bronze tarnish-dark; crimson wool drape gathered at one shoulder; NO sigil/glyph/house mark; slumped empty, never worn; scale highlights center-frame run LIVELY (caution — same class as 0914/0928 speculars; never waived).
 
-**Delivery gates unchanged:** not in the 1050-scene inventory; inventory untouched at 924/1,050 · 88.00% · counts do not advance for this pack. Upload requires: 10/10 + md5 verify (done locally) + director sign-off. Proposed Drive folder on approval: `EP001_OBJECT_SHOWCASE_IMG001-010`. **OBJ011 (Ghiscari lockstep kit — the literal swords in the script, L49) STILL PENDING director word — will not render without it.**
+**Delivery gates unchanged:** not in the 1050-scene inventory; inventory untouched at 924/1,050 · 88.00% · counts do not advance for this pack. Upload requires: 10/10 + md5 verify (done locally) + director sign-off. Proposed Drive folder on approval: `EP001_OBJECT_SHOWCASE_IMG001-010`. **OBJ012 (Ghiscari lockstep kit — the literal swords in the script, L49) STILL PENDING director word — will not render without it.**
 
 
 ---
@@ -89,4 +89,15 @@ Saved `/home/user/Wan2.2/assets/object_showcase_work/` (gitignored), all 1376×7
 10/10 uploaded to Drive folder **EP001_OBJECT_SHOWCASE_IMG001-010** (`1_TINFqt0U1VN1sdCXbd3cxUhhS2mocH9`, parent EP001 root). Drive `md5Checksum` matches local md5 for every file:
 OBJ001 26ae69e5… → 1bT19xDLR9_rT7yHCjTcmBXVkYf-GCm90 (1669846 B) · OBJ002 d856042c… → 1yOYxmACEFI8LTYsswMaEGKMfPryjv5IG (1891835 B) · OBJ003 71251a73… → 1GC6PN5KVUZTD1qybP3IQEwZcyHPecV5S (1637340 B) · OBJ004 fd934dc5… → 1wEXsf6BKydY9TOAApytagm8j7_EsQq7j (1650768 B) · OBJ005 cb05f3f1… → 1-aD0RXB33IvRpDHEgA_Hqmjunmd-iv2N (1461436 B) · OBJ006 a65ff1ba… → 1y8zrILHX1hN6yPNMhqrvW6hwJuW3PICY (1914757 B) · OBJ007 7ae4bdb4… → 1h4Q5z4IMaejuO0ntFbzmGbqhu0N37VLE (1378205 B) · OBJ008 2a233750… → 1-WWBBmJTjAZ1W98lzS1vFCtrZRw6LsDH (1651961 B) · OBJ009 4752290e… → 1KlAvFurv2RUxOjWChhlF2q4Bf5ZxOAbl (1466277 B) · OBJ010 7cc98cab… → 1I0cHjBJf_7fl5rqy4L0Mh6ue-yu_MkrO (1572082 B). Total ≈ 16.3 MB.
 
-Inventory DELIBERATELY UNCHANGED (showcase pack, not scene frames): 924/1,050 · 88.00% · next_batch 94 (NOT AUTHORIZED) · next_image_number 931. Cautions carried (never waived): OBJ009 torc arc antique-gold warm · OBJ010 scale highlights lively. OBJ011 (Ghiscari lockstep kit — literal swords, L49) STILL PENDING director word — not rendered. §5 OVERDUE · DRG-VAL-002 OPEN · 0858 INDICTED · PR #3 = director's call.
+Inventory DELIBERATELY UNCHANGED (showcase pack, not scene frames): 924/1,050 · 88.00% · next_batch 94 (NOT AUTHORIZED) · next_image_number 931. Cautions carried (never waived): OBJ009 torc arc antique-gold warm · OBJ010 scale highlights lively. OBJ012 (Ghiscari lockstep kit — literal swords, L49) STILL PENDING director word — not rendered. §5 OVERDUE · DRG-VAL-002 OPEN · 0858 INDICTED · PR #3 = director's call.
+
+
+---
+
+## OBJ011 — DRAGONBINDER HORN (census completion) — 2026-11-14
+
+**Why:** the committed census listed the dragonbinder horn (L169) as in-scope, but the 10-frame cap forced a slot sacrifice — it was never rendered and the census mis-numbered it (both horn and torc were mapped to OBJ009). Director's “go on” (2026-11-14) executed as completing the in-script object census; frame added as VAL-EP001-OBJ011.
+
+- **OBJ011 — CU · 50mm — KEEP.** One monstrous curved horn wrought of BLACK IRON, banded leaf-flat (tarnish-dark) at the mouth and belly; incisions resolve ONLY as abstract fire-and-blood GEOMETRY — NO letters/runes/characters anywhere; matte iron; pewter grazing light; no people, no hand. Caution: bands read more antique BRONZE-BRASS than red gold — plausible as tarnished red gold, flagged for the director read (never waived). md5 240340b5478ccf3c882769261678f1f2 · 1376×768 · `assets/object_showcase_work/VAL-EP001-OBJ011.png`.
+- **Upload state: PENDING — Drive rate limit hit on the first upload attempt this session (“Merge is rate-limiting file uploads… try again in at least 15 seconds”); the frame was NOT uploaded and must NOT be uploaded this reply. Next opportunity: add `VAL-EP001-OBJ011.png` to `EP001_OBJECT_SHOWCASE_IMG001-010` (`1_TINFqt0U1VN1sdCXbd3cxUhhS2mocH9`) and re-read its md5Checksum.**
+- Showcase now 11/11 KEEP (OBJ001–OBJ011). **OBJ012** (optional, Ghiscari lockstep kit — the literal swords in the script, L49) remains PENDING explicit director word — not rendered, not authorized. Inventory UNCHANGED: 924/1,050 · 88.00% · next_batch 94 NOT AUTHORIZED · next_image_number 931. §5 OVERDUE · DRG-VAL-002 OPEN · 0858 INDICTED · PR #3 = director's call.
