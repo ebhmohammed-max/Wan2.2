@@ -115,7 +115,7 @@ Director’s canon_safe selection explicitly included “Ghiscari/Rhoynar/Asshai
 
 ---
 
-## APPENDIX A — §5 GLOBAL DOCTRINE — DRAFT FOR DIRECTOR RULING ONLY (2026-11-14; NOT IN FORCE — NOT PRECEDENT — NOT AUTHORIZATION)
+## APPENDIX A — §5 GLOBAL DOCTRINE — **IN FORCE (RATIFIED by the director, 2026-11-14)** (verbatim text below; clause (a)–(e) stand AS WRITTEN)
 
 Every gate note since Batch 081 carries "§5 global doctrine ruling STILL OVERDUE". This is a **draft consolidated from your own standing rulings** so you can ratify, strike or amend clause by clause. **Until you sign off in writing, nothing here binds anything.** The operative state is unchanged: Ch. VI canal exception (2026-11-13) stands exactly as written and travels nowhere past Ch. VI; the firewyrm one-span ruling (2026-11-14, 0896) is one span and sets no precedent; "no new fire without per-span ruling" remains the bar.
 
@@ -136,4 +136,4 @@ Open questions that ONLY the director can answer (answer any of them and this cl
 - (d) Does GOLD-DULL bind literally ALL gold in frame episode-wide, or does any future hero/trade cut get a different budget?
 - (e) Does this doctrine travel into Batch 094+/EP002 planning, or is it EP001-scoped?
 
-**Status: DRAFT — OVERDUE remains OPEN. Nothing in this appendix is a ruling.**
+**Status: IN FORCE as of 2026-11-14 — ratified by the director verbatim ("ratify Appendix A"). Clauses (a)–(e) stand AS WRITTEN (Ch. VI surgical exception is Ch. VI-only; the episode is otherwise cold — stone takes never makes; smoke strictly WEST; GOLD-DULL episode-wide; EP001 scope). Anything beyond the ratified clauses requires a fresh written ruling. §5 OVERDUE is CLOSED.**
