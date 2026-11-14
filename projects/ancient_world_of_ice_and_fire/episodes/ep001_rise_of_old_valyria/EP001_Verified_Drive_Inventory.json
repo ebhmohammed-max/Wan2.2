@@ -5,9 +5,9 @@
   "target_images": 1050,
   "batch_size": 10,
   "total_batches": 105,
-  "completed_batches": 96,
-  "next_batch": 97,
-  "next_image_number": 961,
+  "completed_batches": 97,
+  "next_batch": 98,
+  "next_image_number": 971,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -144,6 +144,11 @@
       "name": "EP001_BATCH_096_IMG0951-0960",
       "drive_id": "1gUeJBmcE8LQDXjCAa6Lj2zgFuRgq-5LP",
       "url": "https://drive.google.com/drive/folders/1gUeJBmcE8LQDXjCAa6Lj2zgFuRgq-5LP"
+    },
+    "batch_097": {
+      "name": "EP001_BATCH_097_IMG0961-0970",
+      "drive_id": "1MSnNvYlpNI79oGbRg0vgxHRYwCd7i_iY",
+      "url": "https://drive.google.com/drive/folders/1MSnNvYlpNI79oGbRg0vgxHRYwCd7i_iY"
     }
   },
   "batch_001_images_65mm_upgraded": [
@@ -1929,7 +1934,7 @@
     }
   ],
   "last_updated": "2026-11-14",
-  "verified_progress_percent": 90.86,
+  "verified_progress_percent": 91.81,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3625,7 +3630,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 954,
+  "verified_image_count": 964,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -15772,5 +15777,134 @@
   "batch_096_pending_rerender": 0,
   "batch_096_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
   "batch_096_note": "Ch. VII 31:40–32:00 — Old Ghis, the civilization thesis (heirs of Grazdan, the surveyed harbours, the lockstep legions). Turn-1 9 KEEP + 1 REJECT; turn-2 0960 CLEARED — final count 10/10. Dignified-horror ABSOLUTE held: “slave transports” paid as tabulated capacity (0955 direct-down ledger: ZERO people), “Ghiscari chains” as plain-iron still-life (0958) — no bodies, no wrists, no lash anywhere. §5 HELD; SLATE maritime only; PEWTER universal. LOC-ESS-001 “harsh desert-gold sunlight” NOT rendered — §5 supersedes, director ratification pending (same flag as 095). Far-shore castle-block/needle-spire pastiche class flagged twice (0951/0952), left as-is for director ruling. Counterfactual-ruin fault on 0960 self-inflicted via prompt wording (“wasted” & “columned”) — recorded; turn-2 corrected clean. DRG-VAL-002 HELD. Inventory 944→954/1,050 · 90.86%. Batch 097 (32:00→) NOT AUTHORIZED.",
-  "batch_096_close_note": "CLOSED 10/10 NOT zero-defect — one turn-1 fault class (0960 counterfactual ruin + Roman colonnade, self-inflicted prompt wording) cleared turn-2 (intact proud arch · marker-blocks instead of shafts). §5 HELD. DRG-VAL-002 HELD. md5s ALL MATCHED on Drive re-list (10/10, total_count 10). Dignified-horror absolute held. Batch 097 NOT AUTHORIZED."
+  "batch_096_close_note": "CLOSED 10/10 NOT zero-defect — one turn-1 fault class (0960 counterfactual ruin + Roman colonnade, self-inflicted prompt wording) cleared turn-2 (intact proud arch · marker-blocks instead of shafts). §5 HELD. DRG-VAL-002 HELD. md5s ALL MATCHED on Drive re-list (10/10, total_count 10). Dignified-horror absolute held. Batch 097 NOT AUTHORIZED.",
+  "batch_097_verified_images": [
+    {
+      "image_number": 961,
+      "scene_id": "VAL-EP001-IMG961",
+      "batch": 97,
+      "timestamp": "32:00–32:02",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "turn-1 — LAM 28mm: unworked claim-MOUNTAIN fills PEWTER rim-to-rim (monumental geological framing); near Ghis brick cornice grounds POV; hairline crib-works + matte tailings ribbon at base; NO figures; ZERO flame; ZERO text",
+      "md5": "30ceb248334880367c5d5b2b6011a003",
+      "size_bytes": 1625181,
+      "drive_file_id": "1C-A1qhyGzsk9FjopCIZ6oUymZX5B1UO7",
+      "verdict": "APPROVED_TURN_1_·_CAUTION (green water cast — benign)"
+    },
+    {
+      "image_number": 962,
+      "scene_id": "VAL-EP001-IMG962",
+      "batch": 97,
+      "timestamp": "32:02–32:04",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "turn-1 — OTS 40mm: Ghiscari patrician (ochre tokar; dull fringe) at the parapet; beyond SLATE water, the bare claim country — ant-scale pick-works, ONE switchback haul-road up the mountain, NO derricks/stacks/smoke; PEWTER ceiling",
+      "md5": "567a31bbd0135942034a1b4551480ae3",
+      "size_bytes": 1381358,
+      "drive_file_id": "1xF4Mt92VfOhnZHkw3HvANeGazeFx77kg",
+      "verdict": "APPROVED_TURN_1_·_CAUTION (fringe GOLD-DULL — 0914 class)"
+    },
+    {
+      "image_number": 963,
+      "scene_id": "VAL-EP001-IMG963",
+      "batch": 97,
+      "timestamp": "32:04–32:06",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "turn-1 — WS 28mm deep-focus: ABANDONED Ghis herder lookout hut + broken sheep-hurdle flat on salt-grass; far shore claim country cut in straight sections, long tailings ribbons; two-shore account-book; NO people; ZERO text; ZERO fire",
+      "md5": "9febbee3f64f374b5fdb143c8c58f7f1",
+      "size_bytes": 1612342,
+      "drive_file_id": "1Jxr3NafO8ub_XzgI6QRjp5NcLefNKMoB",
+      "verdict": "APPROVED_TURN_1_·_CLEAN"
+    },
+    {
+      "image_number": 964,
+      "scene_id": "VAL-EP001-IMG964",
+      "batch": 97,
+      "timestamp": "32:06–32:08",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-2 — UWA 24mm establishing HIGH VISTA, strictly PRE-INDUSTRIAL: LEFT Ghis brick terraces to bare-pole hulls + horse-drawn tally carts; RIGHT flat hand-worked excavation (timber crib grid, spoil heaps); SLATE centre; sky UNIFORM PEWTER; NO bridges/pylons/cranes/lamps/machinery",
+      "md5": "87287b8335631c933737101c0a93eff6",
+      "size_bytes": 1518792,
+      "drive_file_id": "16SHtfVhaMEupcDnthPLGnDeHi_SYFP4F",
+      "verdict": "APPROVED_AFTER_TURN_2_·_FAULT_CLEARED (modern-industrial canal: steel gantries/pylons/x-beam bridge → pre-industrial ledger)"
+    },
+    {
+      "image_number": 965,
+      "scene_id": "VAL-EP001-IMG965",
+      "batch": 97,
+      "timestamp": "32:08–32:10",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "turn-2 — MCU 50mm over dark basalt changer counter: bronze beam-scale out-read HEAVY on silver; SMOOTH BLANK DENARII — NO letters/devices/faces, rim tool-cut notch bands ONLY; lashed tally sticks; ONE pushing hand at frame edge; soft gloom, NO light shaft; SORCERY-FLAT",
+      "md5": "6393ecf0042bb8a90f7a2be68905d448",
+      "size_bytes": 1189622,
+      "drive_file_id": "1yjiECHFvJ1L-E3RQdwwsjFpfT4sYTHZI",
+      "verdict": "APPROVED_AFTER_TURN_2_·_FAULT_CLEARED (denarii STAMPED with devices/pseudo-letters → smooth faces)"
+    },
+    {
+      "image_number": 966,
+      "scene_id": "VAL-EP001-IMG966",
+      "batch": 97,
+      "timestamp": "32:10–32:12",
+      "shot_type": "MS · 35mm",
+      "visual_beat": "turn-2 — MS 35mm lateral: EMPTY market-yard, barred galleries, SHUT doors; timber+rope weigh-gantry; amphora; madder bolt-ends; drovers’ sticks; face-down slate slab; paving plain dressed stone, cart ruts ONLY — RAILS ELIMINATED; NO wires; NO horizon towers; NO people",
+      "md5": "4f6ab76d3e357b836ffe9fdb54126400",
+      "size_bytes": 1572808,
+      "drive_file_id": "1RA7POZv6Ic6Q0QbA28MSiQI2uXNNvZQm",
+      "verdict": "APPROVED_AFTER_TURN_2_·_FAULT_CLEARED (rails + wire + vanishing minarets → empty-apparatus court) — CAUTION (caravan-portico class)"
+    },
+    {
+      "image_number": 967,
+      "scene_id": "VAL-EP001-IMG967",
+      "batch": 97,
+      "timestamp": "32:12–32:14",
+      "shot_type": "MCU · 65mm",
+      "visual_beat": "turn-1 — MCU 65mm compressed: two STILL hands across plank deal-table; unopened embassy pouch (madder-red wax seal, NO device, NO letters); swept-bare space where a tribute-chest should sit; doorway light only; faces cut at frame-top as composed; refusal as choreography",
+      "md5": "35f54f496ed2fd6dbb7c13c0c7d97922",
+      "size_bytes": 1581354,
+      "drive_file_id": "1Jd3fTSY-jArrXpLrg7ybHH3OhzuY12Lm",
+      "verdict": "APPROVED_TURN_1_·_CAUTION (Venetian/Tudor court sleeve + chain-of-office; GOLD-DULL cuff strain)"
+    },
+    {
+      "image_number": 968,
+      "scene_id": "VAL-EP001-IMG968",
+      "batch": 97,
+      "timestamp": "32:14–32:16",
+      "shot_type": "MS · 50mm",
+      "visual_beat": "turn-2 — MS 50mm: UNPAID OFFERING — polished black basalt TRIBUTE-STONE on tripod table + slack grey ribbon, face EMPTY; BEYOND, ANCIENT lashed-pile harbour only: bare poles, A-frame lashed gantries, low square dark hulls, grain barges, brick skyline unbroken; ZERO cranes/containers/lamps",
+      "md5": "6f98a3edaea6bbb8d05357c4811f1eb8",
+      "size_bytes": 1435846,
+      "drive_file_id": "1m91BURsCVxm1nMoBPle9qluHNG8Em271",
+      "verdict": "APPROVED_AFTER_TURN_2_·_FAULT_CLEARED (modern deep-water port + dock-lamp points → ancient harbour, zero point-lights)"
+    },
+    {
+      "image_number": 969,
+      "scene_id": "VAL-EP001-IMG969",
+      "batch": 97,
+      "timestamp": "32:16–32:18",
+      "shot_type": "WS · 35mm",
+      "visual_beat": "turn-1 — WS 35mm: parade-court at thick dusk CLOUD — racked LANCE-SETS in long rows, helmets file-stocked, sandals under the portico, ONE cloak open over a chair, ONE officer alone at the vanishing arch (face unreadable); crimson muted; the square emptied by rumour",
+      "md5": "eab416e02aefe95c7fbe9e26c1a01cfa",
+      "size_bytes": 1599933,
+      "drive_file_id": "1wCuqPW8BOI-p9ks8Ku0oF6hPS0g8wvdM",
+      "verdict": "APPROVED_TURN_1_·_CAUTION (Roman-Tuscan portico order; cool-white cloud sliver; rain-black flagstones)"
+    },
+    {
+      "image_number": 970,
+      "scene_id": "VAL-EP001-IMG970",
+      "batch": 97,
+      "timestamp": "32:18–32:20",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-2 — UWA 24mm high-elevation STRAIGHT-DOWN: STRICT COOL PEWTER GRADE (cold ash-brown clay, ZERO honey); rooftop grid EMPTY; only SMALL UPTURNED CLUSTERS at arcade mouths/courtyard knots; SLATE water sliver, frame foot; NO dragon, NO shadow; the verification is unanimous STILLNESS",
+      "md5": "b7293996fb3795a9abef71e09833fa55",
+      "size_bytes": 1621810,
+      "drive_file_id": "1OikpSk5gLTGDxdIaaN2hBIXqMX_m8HN0",
+      "verdict": "APPROVED_AFTER_TURN_2_·_FAULT_CLEARED (plague-dense rooftops + honey-slate cast → strict PEWTER, empty grid, upturned minorities)"
+    }
+  ],
+  "batch_097_drive_folder_id": "1MSnNvYlpNI79oGbRg0vgxHRYwCd7i_iY",
+  "batch_097_drive_folder_name": "EP001_BATCH_097_IMG0961-0970",
+  "batch_097_drive_verified_count": 10,
+  "batch_097_pending_rerender": 0,
+  "batch_097_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_097_note": "Ch. VII 32:00–32:20 — the Ghis dark envy (upstart republic across the gulf; the unpaid Bronze Harpy; the verified dragon sightings). Turn-1 5 KEEP + 5 REJECT; turn-2 ALL FIVE CLEARED. FIVE CLASS FAULTS all logged and cleared: modern-industrial canal (0964) · stamped denarii text (0965) · rails + wire + vanishing minarets (0966) · MODERN dock + lamps (0968) · plague-dense rooftops + desert cast (0970). Dignified-horror ABSOLUTE held — slavery span rendered as emptied apparatus and accounting (empty market, blank coins, unpaid tribute); ZERO captives, ZERO coffles. §5 HELD (0968 point-light breach cleared turn-2). DRG-VAL-002 OPEN — no dragon anywhere; sightings rendered as unanimous STILLNESS at empty sky (0970). THE HARPY REMAINS UNDEPICTED (refusal rendered via empty tribute-stone + slack grey ribbon; the 100-ft bronze Harpy awaits explicit director ruling). Inventory 954→964/1,050 · 91.81%. Batch 098 (32:20→) NOT AUTHORIZED.",
+  "batch_097_close_note": "CLOSED 10/10 NOT zero-defect — five turn-1 class faults, ALL CLEARED turn-2 (modern-industrial/modern-dock/inscribed-coinage/rail-wire/pollution of density). §5 HELD. DRG-VAL-002 HELD. md5s ALL MATCHED on Drive re-list (10/10). Dignified-horror absolute held. Batch 098 NOT AUTHORIZED."
 }
