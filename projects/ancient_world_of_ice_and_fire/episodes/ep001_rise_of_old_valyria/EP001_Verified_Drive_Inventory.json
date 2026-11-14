@@ -5,9 +5,9 @@
   "target_images": 1050,
   "batch_size": 10,
   "total_batches": 105,
-  "completed_batches": 91,
-  "next_batch": 92,
-  "next_image_number": 911,
+  "completed_batches": 92,
+  "next_batch": 93,
+  "next_image_number": 921,
   "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
   "drive_folders": {
     "master_root_folder": {
@@ -119,6 +119,11 @@
       "name": "EP001_BATCH_071_IMG0701-0710",
       "drive_id": "1K9mU8SAqYB5Uf9X9z8jGje5Gtr9kUorl",
       "url": "https://drive.google.com/drive/folders/1K9mU8SAqYB5Uf9X9z8jGje5Gtr9kUorl"
+    },
+    "batch_092": {
+      "name": "EP001_BATCH_092_IMG0911-0920",
+      "drive_id": "1_F6SSWFVrnXNiDewr9NgNulLaRBWk5-s",
+      "url": "https://drive.google.com/drive/folders/1_F6SSWFVrnXNiDewr9NgNulLaRBWk5-s"
     }
   },
   "batch_001_images_65mm_upgraded": [
@@ -1904,7 +1909,7 @@
     }
   ],
   "last_updated": "2026-11-14",
-  "verified_progress_percent": 86.1,
+  "verified_progress_percent": 87.05,
   "batch_012_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0111",
@@ -3600,7 +3605,7 @@
       "upload_checksum_verified": true
     }
   ],
-  "verified_image_count": 904,
+  "verified_image_count": 914,
   "batch_021_verified_images": [
     {
       "scene_id": "VAL-EP001-IMG0201",
@@ -15102,5 +15107,134 @@
   "batch_091_drive_verified_count": 10,
   "batch_091_pending_rerender": 0,
   "batch_091_note": "Ch. VI 30:00-30:20 — THE TRAGIC CONTRADICTION (narration verbatim: 'Here lay the tragic contradiction built into the bedrock of Old Valyria. Above the clouds rose a shining commonwealth that boasted it bowed to no king, where noble assemblies debated law amid sphinxes and hanging gardens. Beneath their sandals groaned an expanding'). LOC-VAL-004/005. NO FIRE RULING in force for this span — beds-only discipline; no wyrm; DRG-VAL-002 ABSENT by build; lava/magma canals DEAD doctrine — never rendered; bronze tripods render UNLIT; 'shining' = weathered pale stone + pewter light, never glitter. Dignified-horror held (no child, no death-on-camera moments). VALYRIAN-ATTRIBUTE law held on every on-camera Valyrian. NEW LAW IN FORCE THIS BATCH (forward-only, director 2026-11-14): HOUSE DRESS DOCTRINE (11_HOUSE_DRESS_DOCTRINE_2026-11-14.md) — twelve signature lines covering the Forty Houses (palette/weave/accessory-metal/grooming/manner; names reference-only, NEVER on camera; hair/eyes/faces fixed). Turn-1: 6 KEEP + 4 REJECT (ALL ONE CLASS — mortal-masonry/gothic drift: 0902 coursed-ashlar castle; 0904 gothic pinnacles + domed temple; 0905 ashlar parapet + gilded dome; 0909 Tuscan hilltown). Turn-2: 0902 cleared; 0904 cleared (gold-fleck flag carried); 0909 turn-2 came back GILDED RIVENDELL — turn-2b cleared it; 0905 turn-2 carried a NO-WARM-HORIZON band then — turn-3 CLEARED with HOUSE DREVAN signature. NOT zero-rejection. md5s re-read from Drive and MATCHED for all ten. Counts at close: 904/1,050 · 86.10%. DIRECTOR-READ FLAGS NEVER SELF-WAIVED: 0904 gold-fleck hot-end · 0906 regular fluted-column rhythm far-wall · 0907 stone-grey skin read · 0908 polished floor + plinth courses + rear terraces · 0910 horizon citadel silhouette + trail-like scars. 0858 (Batch 086) REMAINS INDICTED — needs explicit director go-ahead; NOT re-rendered (would now also gain a house signature when cleared). §5 STILL OPEN/OVERDUE; DRG-VAL-002 OPEN.",
-  "batch_091_close_note": "CLOSED 10/10 NOT zero-rejection — turn-1 6 keeps; four mortal-masonry/gothic rejects cleared (0902 turn-2; 0904 turn-2 + flag; 0905 turn-3 after a NO-WARM-HORIZON turn-2; 0909 turn-2b after a GILDED-RIVENDELL turn-2); HOUSE DRESS DOCTRINE adopted forward-only (11_HOUSE_DRESS_DOCTRINE_2026-11-14.md; 0905 is its first on-camera delivery — HOUSE DREVAN); md5s all MATCHED on Drive; 904/1,050 · 86.10%"
+  "batch_091_close_note": "CLOSED 10/10 NOT zero-rejection — turn-1 6 keeps; four mortal-masonry/gothic rejects cleared (0902 turn-2; 0904 turn-2 + flag; 0905 turn-3 after a NO-WARM-HORIZON turn-2; 0909 turn-2b after a GILDED-RIVENDELL turn-2); HOUSE DRESS DOCTRINE adopted forward-only (11_HOUSE_DRESS_DOCTRINE_2026-11-14.md; 0905 is its first on-camera delivery — HOUSE DREVAN); md5s all MATCHED on Drive; 904/1,050 · 86.10%",
+  "batch_092_verified_images": [
+    {
+      "image_number": 911,
+      "scene_id": "VAL-EP001-IMG911",
+      "batch": 92,
+      "timestamp": "30:20–30:22",
+      "shot_type": "LAM · 24mm",
+      "visual_beat": "turn-1 — LAM THE APPETITE AS GEOLOGY: descending-gallery look through one impossible verticalised shaft; rust-dark haul-chains in long diagonals from unlit matte windlass frames on fused black single-mass walls; one small coin of flat PEWTER light far above; ant-scale pinhead platforms at mid-levels; ONE hairline amber bed-thread deep in the shaft core (beds class); NO faces, NO fire, NO wyrm",
+      "md5": "a27c328a1de4b9db9ac0396a8a8ad2be",
+      "size_bytes": 1361343,
+      "drive_file_id": "1tEb3w3yc7xu8z_HgolzJP3bWptHynhQa",
+      "verdict": "APPROVED_FIRST_PASS · CLEAN"
+    },
+    {
+      "image_number": 912,
+      "scene_id": "VAL-EP001-IMG912",
+      "batch": 92,
+      "timestamp": "30:22–30:24",
+      "shot_type": "DET · 85mm",
+      "visual_beat": "turn-1 — DET MACRO THE CHAIN WITHOUT A MAN: pooled working chain on absolute black dust, grease-black rust-dark links, one link ending mid-frame; raw dull ore lump with dull hips + frayed rope-end; grazing pewter only; NO man, NO hand, NO faces",
+      "md5": "072fc199a4d6e9b923bfc5147db0b88b",
+      "size_bytes": 1865379,
+      "drive_file_id": "1v4yNxhLCaSn84EFjuTwHqvRQJIY1AbAw",
+      "verdict": "APPROVED_FIRST_PASS · CLEAN"
+    },
+    {
+      "image_number": 913,
+      "scene_id": "VAL-EP001-IMG913",
+      "batch": 92,
+      "timestamp": "30:24–30:26",
+      "shot_type": "CU · 85mm",
+      "visual_beat": "turn-1 — CU THE ONE WHO ALMOST HEARS IT (HOUSE DREVAN dusk line, doctrine first full portrait delivery): TWO silver temple cords + ONE amethyst-drop earring + platinum parted falls + VIOLET eyes fixed past frame + narrow mask-bone alien face + obsidian torc; half in shadow; NO warm light; alien serenity with grief-plane intact",
+      "md5": "6d39fca3470ad9bc064facae9b394d70",
+      "size_bytes": 1148472,
+      "drive_file_id": "1-8K0Yb0HMLaLbfYYU5U-ORypDtciuH0G",
+      "verdict": "APPROVED_FIRST_PASS · CLEAN"
+    },
+    {
+      "image_number": 914,
+      "scene_id": "VAL-EP001-IMG914",
+      "batch": 92,
+      "timestamp": "30:26–30:28",
+      "shot_type": "DET · 100mm",
+      "visual_beat": "turn-1 — DET MACRO TWO METALS ONE DUST: tarnished leaf-flat torc arc beside a rust-dark iron manacle link, both under black basalt dust; NO skin, NO faces; gold speculars slightly bright but tarnish-encrusted overall; the two registry-metals prophecy lands",
+      "md5": "2700469e7be28e8df68ae1fafcc07576",
+      "size_bytes": 1683460,
+      "drive_file_id": "15Bczym8ADQluyC8gHUckRNBTIdV5Mcgs",
+      "verdict": "APPROVED_FIRST_PASS · CLEAN (gold-caution noted)"
+    },
+    {
+      "image_number": 915,
+      "scene_id": "VAL-EP001-IMG915",
+      "batch": 92,
+      "timestamp": "30:28–30:30",
+      "shot_type": "WS · 40mm",
+      "visual_beat": "turn-1 REJECTED (MORTAL-MASONRY/GOTHIC — aloft city a pinnacle field of thousands of individual spires + small domes) → turn-2 RE-RENDER CLEAR END OF CH. VI: the city aloft rendered as ONE single fused black single-mass ridge silhouette floating over black chasm-mouths; pinhead labourer lines rim the chasm edges; SLATE sea band far-right; PEWTER edge-to-edge incl. over sea; ZERO warm band",
+      "md5": "89e3a4fef92cee44741b561d4c76c0f2",
+      "size_bytes": 1179058,
+      "drive_file_id": "1u7yQrCTgfWiSpPcMdHH8Ai-lFfKDRdeC",
+      "verdict": "APPROVED_AFTER_TURN_2 · CLEAN"
+    },
+    {
+      "image_number": 916,
+      "scene_id": "VAL-EP001-IMG916",
+      "batch": 92,
+      "timestamp": "30:30–30:32",
+      "shot_type": "LAM · 28mm",
+      "visual_beat": "turn-1 — LAM THE NEW VISAGE (Ch. VII doorway): from black coastal strand, fused black single-mass spire past frame-top; dormant grey cone far-left; green valley seam with pale fused highway to harbour; ant-scale furled-sail craft; SLATE sea far-right; uniform PEWTER incl. over sea; NO warm band",
+      "md5": "b95a6cc0211710842c41e3a823c76317",
+      "size_bytes": 1396705,
+      "drive_file_id": "1J4mK0YW9DFRrVOWXMfzFnUFlF1_JllgT",
+      "verdict": "APPROVED_FIRST_PASS · CLEAN"
+    },
+    {
+      "image_number": 917,
+      "scene_id": "VAL-EP001-IMG917",
+      "batch": 92,
+      "timestamp": "30:32–30:34",
+      "shot_type": "OTS · 40mm",
+      "visual_beat": "turn-1 REJECTED (harbour read rust/ochre-gold incl. gilded pyramidal finial caps; ILVAREN pearl torc NOT visible) → turn-2 RE-RENDER CLEAR (HOUSE ILVAREN cloud line): harbour rebuilt BLACK fused matte — black moles, unlit organic crane-gantries, dense furled-sail craft, NO finials; pearl torc visible at the nape over the half-sheer silk; falls wind-torn; Isle of Cedars low dark ridge with cones on horizon; SLATE sea far-right; PEWTER incl. over sea",
+      "md5": "f59a3e18eb4481acfacbf319479a4e5f",
+      "size_bytes": 1286591,
+      "drive_file_id": "1mvN2S-tMN7M-E8fDpqecj55fhUBA5IPf",
+      "verdict": "APPROVED_AFTER_TURN_2 · CLEAN"
+    },
+    {
+      "image_number": 918,
+      "scene_id": "VAL-EP001-IMG918",
+      "batch": 92,
+      "timestamp": "30:34–30:36",
+      "shot_type": "WS · 28mm",
+      "visual_beat": "turn-1 REJECTED (city again a pinnacle field; two foreground roost-towers carried WARM AMBER window-lights) → turn-2 RE-RENDER CLEAR: Fourteen Flames cones dormant grey in low haze; city held as ONE fused low grey ridge mass, silhouette only; pale fused highway crossing desaturated grey-green valleys; unlit organic roost-towers; ZERO warm source anywhere; SLATE sea far-right; PEWTER incl. over sea",
+      "md5": "c72a5a98bb287ec1a397e27d29954601",
+      "size_bytes": 1529349,
+      "drive_file_id": "1Fm-ION0WV4p8US4ynd8zykq7PUPNV35S",
+      "verdict": "APPROVED_AFTER_TURN_2 · CLEAN"
+    },
+    {
+      "image_number": 919,
+      "scene_id": "VAL-EP001-IMG919",
+      "batch": 92,
+      "timestamp": "30:36–30:38",
+      "shot_type": "UWA · 24mm",
+      "visual_beat": "turn-1 — UWA EVERY VALLEY TRANSFORMED: patchwork of desaturated grey-green valleys ribbed with pale fused highways; valley-mouth fused citadel clusters read correctly at altitude; coast cut with black harbourworks; SLATE sea far-right; PEWTER edge-to-edge incl. over sea; NO fire, NO flags, NO banners, NO text",
+      "md5": "8cf5cbcb0c60cde471588dad05d52aad",
+      "size_bytes": 1656132,
+      "drive_file_id": "1-2a4x_CIbMT23i2MrnuXslTxFfedAFp6",
+      "verdict": "APPROVED_FIRST_PASS · CLEAN"
+    },
+    {
+      "image_number": 920,
+      "scene_id": "VAL-EP001-IMG920",
+      "batch": 92,
+      "timestamp": "30:38–30:40",
+      "shot_type": "MCU · 50mm",
+      "visual_beat": "turn-1 — MCU THE OUTSIDER’S FIRST SIGHT: earth-toned foreign trader (salted wool wraps, weathered leather, plain bronze earring, waxed-canvas pack), partial profile, face raised beyond frame; awe as physical act — lips parted, road-dust not tears; mountains PEWTER overcast, NO warm band; only earth tones — the contrast is the point",
+      "md5": "1ddcb253c133c120ae22e24eca54524d",
+      "size_bytes": 1556450,
+      "drive_file_id": "1YwO4gCivZ6B0caVMC2B6mGZ1rCivSJ7V",
+      "verdict": "APPROVED_FIRST_PASS · CLEAN"
+    }
+  ],
+  "batch_092_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+  "batch_092_drive_folder_id": "1_F6SSWFVrnXNiDewr9NgNulLaRBWk5-s",
+  "batch_092_drive_folder_name": "EP001_BATCH_092_IMG0911-0920",
+  "batch_092_drive_verified_count": 10,
+  "batch_092_pending_rerender": 0,
+  "batch_092_note": "Ch. VI 30:20-30:30 → Ch. VII 30:30-30:40 — span crosses the CHAPTER SEAM: IMG0911-0915 CLOSE Ch. VI (THE TRAGIC CONTRADICTION passage: 'underworld of chains—an appetite for enslaved labor that would soon bring young Valyria face-to-face with the greatest slave empire on earth.') and IMG0916-0920 OPEN Ch. VII (THE CONSOLIDATED PENINSULA: 'Within a few transformative generations, the peninsula of the Fourteen Flames had become unrecognizable. Every valley from the northern foothills'). LOC-VAL-004/005 below-registry (0911-0915) chain exception in force by Ch. VI scene name; LOC-VAL-001/004 above-registry (0916-0920). NO FIRE RULING still in force for this span — zero fire on camera; beds-only hairlines; DRG-VAL-002 ABSENT by build; bronze tripods UNLIT; dormant WEST cones; 'shining' = weathered pale stone + pewter light, never glitter; sea ONE blunt SLATE band far-right incl. over the sea; sky UNIFORM PEWTER incl. over the sea (NO-WARM-HORIZON class hard reject). Dignified-horror absolute held (no child, no death-on-camera). HOUSE DRESS DOCTRINE 2026-11-14 second on-camera cycle (forward-only): 0913 = HOUSE DREVAN dusk line (silver temple cords + amethyst-drop earring); 0917 = HOUSE ILVAREN cloud line (pearl torc, defeated-harbour turn-1 re-rendered); 0920 = earth-toned foreigner (only non-Valyrian). Turn-1: 7 KEEP + 3 REJECT — 0915 aloft city a gothic pinnacle field + domes; 0917 harbour rust-gold + gilded finials + pearl torc invisible; 0918 pinnacle field AGAIN + warm amber window-lights in roost-towers. Turn-2 all three cleared (0915 single fused floating mass; 0917 black matte moles + torc at nape; 0918 fused low ridge + zero warm sources). NOT zero-rejection. md5s re-read from Drive and MATCHED for all ten; sizes match local. Counts at close: 914/1,050 · 87.05%. DIRECTOR-READ FLAGS FROM 091 STAND — none cleared by this batch: 0904 gold-fleck hot-end · 0906 regular fluted-column rhythm far-wall · 0907 stone-grey skin read · 0908 polished floor + plinth courses + rear terraces · 0910 horizon citadel silhouette + trail-like scars · 0914 gold speculars slightly bright (this batch, caution carried). 0858 (Batch 086) REMAINS INDICTED — needs explicit director go-ahead; NOT re-rendered (gains a house signature only when cleared). §5 STILL OPEN/OVERDUE; DRG-VAL-002 OPEN; chairs flags never waived.",
+  "batch_092_close_note": "CLOSED 10/10 NOT zero-rejection — turn-1 7 keeps; three rejects one disease (0915 gothic pinnacles/domes; 0917 gold-harbour/finials + invisible pearl torc; 0918 pinnacle field + warm window-lights), all cleared turn-2; HOUSE DRESS DOCTRINE delivered twice on-camera this batch (0913 DREVAN; 0917 ILVAREN); md5s all MATCHED on Drive; 914/1,050 · 87.05%"
 }
