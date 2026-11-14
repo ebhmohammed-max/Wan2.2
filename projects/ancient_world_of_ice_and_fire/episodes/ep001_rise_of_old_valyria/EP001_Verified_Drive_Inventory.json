@@ -5,9 +5,9 @@
     "target_images": 1050,
     "batch_size": 10,
     "total_batches": 105,
-    "completed_batches": 86,
-    "next_batch": 87,
-    "next_image_number": 861,
+    "completed_batches": 87,
+    "next_batch": 88,
+    "next_image_number": 871,
     "visual_style": "Adult cinematic physically realistic 3D historical reconstruction & live-action 65mm location photography, widescreen 16:9, ARRI Alexa 65 + Panavision Primo spherical primes, Kodak Vision3 500T film grade (warm sandstone highlights, muted archaeological earth/stone/bronze midtones, deep ink-navy shadows); calibrated to The_Trojan_War_The_Legend_the_City_and_the_Evidence (10a-uGdIdMdMhvHl0q5_VpRl0PGEFkhp6)",
     "drive_folders": {
         "master_root_folder": {
@@ -3600,7 +3600,7 @@
             "upload_checksum_verified": true
         }
     ],
-    "verified_image_count": 854,
+    "verified_image_count": 864,
     "batch_021_verified_images": [
         {
             "scene_id": "VAL-EP001-IMG0201",
@@ -14457,5 +14457,134 @@
         }
     ],
     "batch_086_note": "Ch. VI 28:20-28:40 — the PROTO-SPELL-FORGED BLADES sentence and the FORTY HOUSES (for the spell-forged blades that later ages would revere in awe as Valyrian steel. Yet every wonder above carried a price below. Soaring spires, golden ornaments, sorcerous instruments, and forty competing noble households devoured mineral wealth on a staggering scale. The richest seams,). Executed STRICTLY under the standing Ch. VI surgical exception (beds ONLY emit; adjoining stone/metal/gold/blade/instrument TAKE never MAKE; NO open flame events; §5 NOT opened, NO §5 precedent). NEW LAWS IN FORCE THIS BATCH: GOLD-DULL (grey-gold tarnished leaf-flat, grazing pewter only, never saturated/mirror/self-lit) and SORCERY-FLAT (obsidian/horn-black bronze/grey-black glass, MATTE, NO glow/runes/letters). FORTY-HOUSES social fabric delivered camera-side: 0858 (two rival delegations, torcs only on the two masters, wine, bread, asymmetric natural council) + 0859 (forty organic masses from aloft). REJECTION CLASSES CATALOGUED: BUILT-TIMBER-SUPERSTRUCTURE (0855-v1 — scaffolded wooden works/timbered adit; cleared v2 0855 `2792c92b` — foundry FUSED into rock, raw black adit, NO chains, slavery NOT yet on-screen), CRISP-APPLIED-GOLD-LEAF (0856-v1 — heraldic laurel plating; cleared v2 `35ab5fa1` — ornament FUSED into mass), MIRRORED-SYMMETRY-LOW-COUNT (0858-v1 — pose-mirror, ~8 figures; cleared v2 `104270f9` — asymmetric scatter, 20+ figures), SATURATED-NUGGET-BRIGHT-BACKGROUND (0860-v1 — glittery nugget + bright daylight; cleared v2 `78b0e76b` — matte tarnished nugget, overcast pewter yard). NOT zero-rejection — 4/4 re-renders cleared turn-2. DIRECTOR-READ FLAGS NEVER SELF-WAIVED: 0855 amber slit rows read regular at the flank (vent beds lawful, regular-row read); 0856 central gold-swirl contrast reads hot at the core (GOLD-DULL strain); 0858 coursed ashlar/cut-block hall masonry (0798-exception tension); 0859 far-WEST cone emits a DARK PLUME vs volcano far-WEST DORMANT doctrine — flagged hardest, strictest reading = re-render, THE strictest read applies. md5s re-read from Drive MATCH for all ten. Counts at close: 854/1,050 · 81.33%.",
-    "batch_086_close_note": "CLOSED 10/10 NOT zero-rejection — turn-1 6 keeps; two reject-classes re-rendered twice (0855 timber-superstructure -> fused mass; 0856 gold-leaf plating -> fused ornament; 0858 mirrored council -> asymmetric 20+; 0860 glittering nugget -> matte tarnished); md5s all MATCHED on Drive"
+    "batch_086_close_note": "CLOSED 10/10 NOT zero-rejection — turn-1 6 keeps; two reject-classes re-rendered twice (0855 timber-superstructure -> fused mass; 0856 gold-leaf plating -> fused ornament; 0858 mirrored council -> asymmetric 20+; 0860 glittering nugget -> matte tarnished); md5s all MATCHED on Drive",
+    "batch_087_status": "COMPLETE_10_OF_10_APPROVED_UPLOADED_MD5_VERIFIED",
+    "batch_087_drive_folder_id": "1acG_2IPbXakFzAmaHJd3HnT-w-C40jpN",
+    "batch_087_drive_folder_name": "EP001_BATCH_087_IMG0861-0870",
+    "batch_087_verified_count": 10,
+    "batch_087_pending_rerender": 0,
+    "batch_087_verified_images": [
+        {
+            "image_number": 861,
+            "scene_id": "VAL-EP001-IMG0861",
+            "batch": 87,
+            "timestamp": "28:40–28:42",
+            "shot_type": "MS · 35mm",
+            "visual_beat": "turn-1 — MS the dragonlord at an assay bench in a basalt treasury vault (organic single-mass): PLATINUM-WHITE fall, narrow almond face, pale LILAC eyes, uncalloused hands, plain black linen, ONE unmarked tarnished TORC (never a crown); sorts DULL raw GOLD/SILVER/RED COPPER sample ingots at grazing pewter only; torn roof-void pewter light; NO ring larger than an olive",
+            "md5": "0a992ee296a1115f0a734a66a74711b8",
+            "size_bytes": 1493784,
+            "drive_file_id": "1EExkxaxNnfaBcu2O71cErdNC1KRontqx",
+            "verdict": "APPROVED_FIRST_PASS · ANNOTATED (INGOTS read brighter than GOLD-DULL leaf-flat at low-side specular — DIRECTOR READ)"
+        },
+        {
+            "image_number": 862,
+            "scene_id": "VAL-EP001-IMG0862",
+            "batch": 87,
+            "timestamp": "28:42–28:44",
+            "shot_type": "MCU · 65mm",
+            "visual_beat": "turn-1 — MCU the two YOUNG VALYRIAN HEIRS (brother and sister, same narrow face twice — kin-close) deep in a copper-and-iron seam gallery; platinum falls, VIOLET eyes at flat approach; the MOTHER the same face behind them in shadow; rough iron/copper wall; telephoto compression; pewter grazing only; NO sparkle, NO self-lit metal",
+            "md5": "b443f55efebb21916e443c4393db45ee",
+            "size_bytes": 1490761,
+            "drive_file_id": "1OPr-0QPicbce1zX7FBALpBr9W0iWW_cJ",
+            "verdict": "APPROVED_FIRST_PASS · ANNOTATED (copper-vein wall sparkle embedded in rock — texture vs self-light, DIRECTOR READ)"
+        },
+        {
+            "image_number": 863,
+            "scene_id": "VAL-EP001-IMG0863",
+            "batch": 87,
+            "timestamp": "28:44–28:46",
+            "shot_type": "MS · 50mm",
+            "visual_beat": "turn-2 after v1 VALYRIAN-ATTRIBUTE BREACH reject — v2: THE BLISTERING THROAT — adit almost entirely BLACK, only NARROW HAIRLINE BED-VEINS deep amber-crimson far back (beds ONLY emit); bareheaded SILVER OVERSEER (AMETHYST eyes, plain black linen, tarnished torc, NO cap, NO headwear); two ASHEN fair-haired Valyrian boys (ash-blond silver-streaked, pale LILAC-GREY downturned eyes, undyed linen, rope belts) — Valyrian blood, exhausted, NO chains; steam strictly WEST",
+            "md5": "f4372ba174fb7ba4a238d55ffb12a86a",
+            "size_bytes": 1610484,
+            "drive_file_id": "1FA_EjsK-txJXOoL3L3pqGJXTMz4LQe4u",
+            "verdict": "APPROVED_AFTER_REVISION · VALYRIAN-ATTRIBUTE BREACH CLEARED"
+        },
+        {
+            "image_number": 864,
+            "scene_id": "VAL-EP001-IMG0864",
+            "batch": 87,
+            "timestamp": "28:46–28:48",
+            "shot_type": "WS · 35mm",
+            "visual_beat": "turn-2 after v1 STEAM-SCATTER reject — v2: ROOTS OF THE FOURTEEN FLAMES — black ridgeline far-WEST, root-flanks veined with shaft mouths + thin hairline AMBER BED VEINS (beds ONLY emit); ONE thin low steam thread hugging far-WEST base ONLY, ZERO risers elsewhere; three TINY ASHEN laborers with ore baskets up the lit switchback (pale at distance); white-ashed parapet corner with organic swirls lower-left; FLAT COLD PEWTER horizon edge-to-edge; sea far-right ONE blunt SLATE band; cones DORMANT",
+            "md5": "783921ab0978e20afd575bb59ee16e8d",
+            "size_bytes": 1649170,
+            "drive_file_id": "1PSyY6FQ0vULTyuUW-C1pCzAxv7LuteD2",
+            "verdict": "APPROVED_AFTER_REVISION · ANNOTATED (parapet volutes read regular — mortal-masonry class, DIRECTOR READ)"
+        },
+        {
+            "image_number": 865,
+            "scene_id": "VAL-EP001-IMG0865",
+            "batch": 87,
+            "timestamp": "28:48–28:50",
+            "shot_type": "UWA · 24mm",
+            "visual_beat": "turn-1 — UWA VERY HIGH THE FOURTEEN FLAMES FROM ABOVE: dark mass-pack far-WEST cone-by-cone DORMANT; flanks threaded with shaft-complexes + hairline AMBER BED VEINS (beds ONLY emit); black plateau stitched with track-lines/adit works; First Dragonroad arrow-straight lower third; capital fused spires low dark saw-line far frame-LEFT; FLAT COLD PEWTER sky ZERO warm band",
+            "md5": "18103d6a9f1412862e4e5f468b096f25",
+            "size_bytes": 1541664,
+            "drive_file_id": "12FO3GscnbMnoidlnbSSE4s5RwdflMXdl",
+            "verdict": "APPROVED_FIRST_PASS · ANNOTATED (sea ONE blunt SLATE band MISSING far-right; ambiguous low white cloud/steam bank at the WEST skyline — DIRECTOR READ)"
+        },
+        {
+            "image_number": 866,
+            "scene_id": "VAL-EP001-IMG0866",
+            "batch": 87,
+            "timestamp": "28:50–28:52",
+            "shot_type": "LAM · 24mm",
+            "visual_beat": "turn-1 — LAM THE REFUSED PICK: beneath an organic single-mass fused spire flank, a knot of FREE VALYRIAN LABORERS has SET DOWN their tools (three picks + ore basket flat on black dust, handles unheld); SILVER-PALE hair, grey-lilac eyes, faded linen, rope belts, NO torcs, NO chains; elder holds a CLOSED FIST — refusal without violence; adit mouth breathes faint AMBER bed-light (beds ONLY emit); faces LIFTED",
+            "md5": "98ac35b13ffa9b2c40d7d082684bc60e",
+            "size_bytes": 1740010,
+            "drive_file_id": "1b0eHHFpvz-S3lNQKo5oD3oahjwB88g0V",
+            "verdict": "APPROVED_FIRST_PASS · ANNOTATED (adit throat reads HOT — bed-only strain, not a flame event, DIRECTOR READ)"
+        },
+        {
+            "image_number": 867,
+            "scene_id": "VAL-EP001-IMG0867",
+            "batch": 87,
+            "timestamp": "28:52–28:54",
+            "shot_type": "DET · 85mm",
+            "visual_beat": "turn-1 — DET MACRO THE UNLABORED HAND: two unlabored pearl-pale HANDS folded in oxblood linen lap — smooth palms, uncalloused, one thin TARNISHED wrist-torc, one small AMETHYST ring; beside them an UNTOUCHED pick-head, haft still sailcloth-wrapped, on black basalt dust; NO text; pewter grazing only",
+            "md5": "e86cb75f8e6202188d7234c5bfcb3303",
+            "size_bytes": 1443559,
+            "drive_file_id": "1bfJfJ2kNLaLLS0kI05wmYmeQZniPC7gW",
+            "verdict": "APPROVED_FIRST_PASS"
+        },
+        {
+            "image_number": 868,
+            "scene_id": "VAL-EP001-IMG0868",
+            "batch": 87,
+            "timestamp": "28:54–28:56",
+            "shot_type": "CU · 85mm",
+            "visual_beat": "turn-1 — CU THE DAWN OF THE GLORY: VERY YOUNG VALYRIAN LORD at a carved parapet from slightly below — platinum fall over one shoulder, mask-bone cheekbones, pale LILAC eyes FIXED ON THE FAR HORIZON (not downcast); porcelain-bronzed skin; lips pressed; beauty that unsettles; ONE unmarked tarnished torc; black linen, dull bronze clasp; FLAT COLD PEWTER dawn light, ZERO warm band; organic parapet swirls; faces LIFTED",
+            "md5": "108f6f223e56e02e32c78348712b4d30",
+            "size_bytes": 1327378,
+            "drive_file_id": "1XdMa868KWGq6OoExiHK14flBNCqp8q4g",
+            "verdict": "APPROVED_FIRST_PASS"
+        },
+        {
+            "image_number": 869,
+            "scene_id": "VAL-EP001-IMG0869",
+            "batch": 87,
+            "timestamp": "28:56–28:58",
+            "shot_type": "DET · 100mm",
+            "visual_beat": "turn-1 — DET MACRO THE THUMB OF THE FREEHOLD: dark-bronzed UNLABORED fingers (smooth, no callus) tipping a thumb-sized RAW GOLD nugget from palm to scratched basalt slab — DULL TARNISHED grey-gold, leaf-flat, low contrast, grazing only, raw hips clotted with grey quartz; three ore crumbs + gold dust pinch; sample INGOT fan DULL in soft shadow; GOLD-DULL holds",
+            "md5": "95a30363f7f67f416457db91128a615a",
+            "size_bytes": 1472790,
+            "drive_file_id": "1rkYDVmGr1hIjwcqA_PXgleFwZEXQOErS",
+            "verdict": "APPROVED_FIRST_PASS · ANNOTATED (skin reads earth-bronze — attribute test inconclusive, no face in frame; soft flag, DIRECTOR READ)"
+        },
+        {
+            "image_number": 870,
+            "scene_id": "VAL-EP001-IMG0870",
+            "batch": 87,
+            "timestamp": "28:58–28:58",
+            "shot_type": "WS · 40mm",
+            "visual_beat": "turn-2 after v1 STEAM-SCATTER + horizon-strain reject — v2: THE DOORWAY TO THE SIN (the bridge): plateau's western edge at flat PEWTER dusk; free city's organic fused spires massed low dark frame-LEFT; on the First Dragonroad ahead, AT THE EDGE OF VISIBILITY, a COLUMN OF FIGURES walking WEST toward the black roots of the Fourteen Flames — too far to see chains, too far to read faces; at parapet frame-RIGHT a LONE PLATINUM-HAIRED OVERLORD still as a pillar watching them pass; sea far-right ONE blunt SLATE band; ONE thin low WEST thread only; adits breathe NARROW AMBER bed-lines (beds ONLY emit); slavery NOT YET on screen",
+            "md5": "5bf8acb8cc44822ccfdce7a82e18f0d5",
+            "size_bytes": 1337640,
+            "drive_file_id": "1XNP8uDWyIMhdf7izvXJgOB3HJDf3tLQi",
+            "verdict": "APPROVED_AFTER_REVISION · ANNOTATED (regular basalt paving + causeway courses — mortal-masonry class; spire-dome crown-forms; robed column ambiguous under VALYRIAN LAW — lawful by distance; DIRECTOR READS)"
+        }
+    ],
+    "batch_087_note": "Ch. VI 28:40-29:00 — the RICHEST SEAMS / mineral-hunger sentence (of gold, silver, red copper, and iron lay locked deep inside the blistering roots of the Fourteen Flames—in suffocating shafts where free Valyrian citizens increasingly refused to labor. Thus, at the very dawn of its glory, the Freehold embraced its darkest sin.). Executed under the standing 2026-11-13 Ch. VI surgical exception AND the NEW 2026-11-14 VALYRIAN LAW (10_ART_DIRECTION_UPDATE_2026-11-14, director verbatim: 'don't make the valyrians houses and lords like some normal humans and customs. show them as they are with valyrian attributes.'): every Valyrian on camera carries silver-gold/platinum hair + violet/amethyst/lilac eyes + narrow-faced alien beauty — NEVER an earth everyman; gatherings stage as a convocation of near-immortals. Turn-1 kept seven (0861 assay lord; 0862 near-twin heirs + mother's face in shadow — THE KIN-CLOSE frame; 0865 fourteen-flames aloft; 0866 THE REFUSED PICK — pale freedmen, elder's closed fist; 0867 unlabored hands; 0868 THE DAWN OF THE GLORY; 0869 the dull thumb-nugget). Three rejected and CLEARED turn-2 with beats intact: 0863 VALYRIAN-ATTRIBUTE BREACH (earth-brown boys + patterned near-crown cap + hot throat) -> ashen fair-haired boys, bareheaded silver overseer, near-black adit hairline bed-veins; 0864 STEAM-SCATTER (a dozen center-right risers) -> ONE thin low WEST thread only; 0870 STEAM-SCATTER + cold-white sea-horizon band -> uniform PEWTER sky incl. over the sea, WEST thread only. NOT zero-rejection. DIRECTOR-READ FLAGS NEVER SELF-WAIVED: 0861 ingots brighter than GOLD-DULL; 0862 copper-vein glint; 0864 parapet volutes regular masonry-class; 0865 MISSING slate sea band far-right + ambiguous WEST skyline bank; 0866 adit throat reads HOT; 0869 earth-bronze skin (attribute test inconclusive, no face); 0870 regular basalt paving + spire-dome crown-forms + robed-column ambiguity (lawful by distance) + parapet mortal-masonry read. 0858 (Batch 086) REMAINS INDICTED under the new law — re-render requires explicit director go-ahead (scope control stands); NOT re-rendered. md5s re-read from Drive and MATCHED for all ten. Counts at close: 864/1,050 · 82.29%.",
+    "batch_087_close_note": "CLOSED 10/10 NOT zero-rejection — turn-1 7 keeps; three rejects (0863 VALYRIAN-ATTRIBUTE BREACH, 0864 STEAM-SCATTER, 0870 STEAM-SCATTER + horizon) cleared turn-2; first batch executed under the 2026-11-14 VALYRIAN-ATTRIBUTE law; md5s all MATCHED on Drive"
 }
