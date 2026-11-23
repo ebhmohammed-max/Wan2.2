@@ -1,0 +1,16 @@
+{
+ "timeline": 61,
+ "characters": 52,
+ "houses": 8,
+ "factions": 21,
+ "planets": 18,
+ "tech": 26,
+ "eco_religion": 18,
+ "topics": 213,
+ "hooks": 1065,
+ "tiers": {
+  "MINI": 122,
+  "STANDARD": 72,
+  "EPIC": 19
+ }
+}

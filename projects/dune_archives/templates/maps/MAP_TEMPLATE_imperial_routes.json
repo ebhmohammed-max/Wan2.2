@@ -1,0 +1,25 @@
+{
+  "_comment": "TEMPLATE — schematic Imperium map. Positions are ARTISTIC; Herbert published no coordinates. Replace nodes/beats per episode.",
+  "style": "imperial",
+  "duration": 12,
+  "camera": {"focus": [0.55, 0.5], "push": 0.08},
+  "nodes": [
+    {"id": "kaitain", "label": "Kaitain", "sub": "Imperial capital (ORIGINAL)", "x": 0.30, "y": 0.35, "canon": "ORIGINAL"},
+    {"id": "caladan", "label": "Caladan", "sub": "House Atreides (ORIGINAL)", "x": 0.18, "y": 0.62, "canon": "ORIGINAL"},
+    {"id": "giedi", "label": "Giedi Prime", "sub": "House Harkonnen (ORIGINAL)", "x": 0.52, "y": 0.22, "canon": "ORIGINAL"},
+    {"id": "arrakis", "label": "Arrakis", "sub": "Sole natural spice source (ORIGINAL)", "x": 0.70, "y": 0.58, "canon": "ORIGINAL"},
+    {"id": "salusa", "label": "Salusa Secundus", "sub": "Prison planet (ORIGINAL)", "x": 0.40, "y": 0.78, "canon": "ORIGINAL"},
+    {"id": "ix", "label": "Ix", "sub": "Machine culture (ORIGINAL)", "x": 0.84, "y": 0.30, "canon": "ORIGINAL"}
+  ],
+  "beats": [
+    {"type": "title", "text": "The Imperium of House Corrino", "sub": "c. 10191 AG — schematic", "start": 0.0, "dur": 1.5},
+    {"type": "node", "id": "kaitain", "start": 1.0, "dur": 0.8},
+    {"type": "node", "id": "caladan", "start": 1.8, "dur": 0.8},
+    {"type": "node", "id": "giedi", "start": 2.6, "dur": 0.8},
+    {"type": "node", "id": "salusa", "start": 3.4, "dur": 0.8},
+    {"type": "node", "id": "ix", "start": 4.2, "dur": 0.8},
+    {"type": "node", "id": "arrakis", "start": 5.0, "dur": 1.0},
+    {"type": "route", "path": ["caladan", "kaitain", "arrakis"], "start": 6.2, "dur": 3.0},
+    {"type": "route", "path": ["giedi", "arrakis"], "dashed": true, "start": 7.5, "dur": 2.5}
+  ]
+}
