@@ -378,3 +378,7 @@ Director said "go on", which **keeps S145 (Preacher) as-is**. Used 6 of 10 gener
 | SCENE094 v2 | PASS | Lens edit: metal arm removed, now on a dark band; band reads heavier. v1 kept as an alternative |
 
 Uploads this reply: S137–S142 = 6. **11 PASS images are waiting for Drive:** S143–S150 and the v2s of S050, S059 and S094. They are committed in `pending_upload/`. Superseded v1 descriptions get updated as each v2 uploads. Index v19 is not on Drive.
+
+## Drive log: turn 20 (2026-11-23)
+
+Uploaded S050 v2, S059 v2, S094 v2, S143, S144 and S145 (6). Updated v1 descriptions: S050 and S059 marked SUPERSEDED; S094 v1 marked ALTERNATIVE. **5 images are still waiting for Drive:** S146–S150, in `pending_upload/`.

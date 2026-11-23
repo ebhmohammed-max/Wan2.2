@@ -2,7 +2,7 @@
  "episode": "DUN003",
  "batch": "BATCH015",
  "max_batch_size": 10,
- "status": "COMPLETE: 10/10 PASS (Drive upload pending: 143-150)",
+ "status": "COMPLETE: 10/10 PASS (Drive upload pending: 146-150)",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop",
  "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
  "images": [
@@ -61,9 +61,9 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
+   "drive_file_id": "1JWFepa_ypY3Slo0OFLD9hHp70nKvBy8Y",
    "qc": "PASS",
-   "qc_note": "Column of hooded followers behind a green hawk banner (no text) marching into a colossal sandstorm. Excellent. Minor: the bird reads more like a raven. DRIVE UPLOAD PENDING: staged in pending_upload/ (6-uploads-per-reply limit).",
+   "qc_note": "Column of hooded followers behind a green hawk banner (no text) marching into a colossal sandstorm. Excellent. Minor: the bird reads more like a raven.",
    "version": "v1"
   },
   {
@@ -81,9 +81,9 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
+   "drive_file_id": "1ZZWL6lFrRKo48ctkNIfkYbmAYTXKCwqg",
    "qc": "PASS",
-   "qc_note": "Colossal hooded bearded stone head, crack through the face, sand streaming; hard sun. Minor: reads slightly like a wizard or Jedi statue. DRIVE UPLOAD PENDING: staged in pending_upload/ (6-uploads-per-reply limit).",
+   "qc_note": "Colossal hooded bearded stone head, crack through the face, sand streaming; hard sun. Minor: reads slightly like a wizard or Jedi statue.",
    "version": "v1"
   },
   {
@@ -101,9 +101,9 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
+   "drive_file_id": "1er1Erw1HzuDfL4OIMLcsH5PSS2c3rxIT",
    "qc": "PASS",
-   "qc_note": "Director kept as-is (turn 19 \"go on\"). First render of the Preacher (PAUL-E), who has no approved ref. Blindfolded, hooded, ragged beard, partly obscured by dust, led by a young hooded guide down a mud-brick street. Face not used as an anchor. Minor: strong biblical/Christ-like read. DRIVE UPLOAD PENDING: staged in pending_upload/ (6-uploads-per-reply limit).",
+   "qc_note": "Director kept as-is (turn 19 \"go on\"). First render of the Preacher (PAUL-E), who has no approved ref. Blindfolded, hooded, ragged beard, partly obscured by dust, led by a young hooded guide down a mud-brick street. Face not used as an anchor. Minor: strong biblical/Christ-like read.",
    "version": "v1"
   },
   {

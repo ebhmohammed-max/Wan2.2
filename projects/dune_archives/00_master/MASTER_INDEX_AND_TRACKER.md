@@ -507,6 +507,20 @@ New PASS this turn (Drive pending): S147 v2, S149, S150; old-flag fixes S050 v2,
 
 **Image progress: 150 of 150 generated, ALL PASS. Batches 001–015 complete.** Remaining: Drive backlog (11), S012/S016 director flags, Drive doc refresh (continuity v1.5+, tracker appends, manifests v11, index v19), then the post-production phase (VO/TTS, music, edit, maps, 22 [VERIFY] fact checks).
 
+
+## Y. DUN003 turn 20 (2026-11-23): Drive backlog
+
+| File | Drive ID | QC |
+|---|---|---|
+| B005 SCENE050_EDRIC_EYE_v2.png | `1A8dh_Ea1FfsbwOaFAlFC8By24K3w5pps` | PASS |
+| B006 SCENE059_CHANI_MEAL_v2.png | `1HI6XjDq6Zf0X-N5H_CbPFyAB5IMyOsBl` | PASS |
+| B010 SCENE094_PAUL_STANDING_ASH_v2.png | `1mE93goJrjeWhG4IgK1B0rm1wM6YzMmhS` | PASS |
+| B015 SCENE143_FOLLOWERS_INTO_STORM.png | `1JWFepa_ypY3Slo0OFLD9hHp70nKvBy8Y` | PASS |
+| B015 SCENE144_CRACKED_STATUE.png | `1ZZWL6lFrRKo48ctkNIfkYbmAYTXKCwqg` | PASS |
+| B015 SCENE145_PREACHER_TEASE.png | `1er1Erw1HzuDfL4OIMLcsH5PSS2c3rxIT` | PASS |
+
+v1 descriptions updated: S050 and S059 SUPERSEDED; S094 v1 ALTERNATIVE. **Waiting for Drive: S146–S150 (5).**
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
@@ -524,3 +538,4 @@ New PASS this turn (Drive pending): S147 v2, S149, S150; old-flag fixes S050 v2,
 | v2.7 | 2026-11-23 | Batch 013 complete. Batch 014: 8 PASS. 138/150. 8 Drive uploads pending |
 | v2.8 | 2026-11-23 | Batch 014 complete. Batch 015: 7 PASS, S147 FIX. 147/150 PASS. 11 Drive uploads pending. S145 Preacher awaiting director review |
 | v2.9 | 2026-11-23 | ALL 150 PASS. S147 v2, S149, S150; S050/S059/S094 flags fixed; S145 kept. 11 Drive uploads pending |
+| v2.10 | 2026-11-23 | Drive backlog 11 → 5 (S146–S150 remain) |
