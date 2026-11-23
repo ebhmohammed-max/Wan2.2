@@ -1,8 +1,19 @@
-name: DUN003 asset fetch (manual)
+name: DUN003 asset fetch
 on:
-  workflow_dispatch:
+  push:
+    branches: [arena/e01ea136-wan2-2]
+    paths: ['.github/workflows/dun003_assets.yml', 'projects/dune_archives/tools/ci_fetch_assets.py', 'projects/dune_archives/22_edit/DUN003/ci_trigger.txt']
+permissions:
+  contents: write
 jobs:
-  noop:
+  probe:
     runs-on: ubuntu-latest
     steps:
-      - run: echo placeholder
+      - uses: actions/checkout@v4
+        with: {ref: arena/e01ea136-wan2-2}
+      - run: |
+          mkdir -p projects/dune_archives/22_edit/DUN003
+          echo "actions ok $(date -u) $(nproc) cpus" > projects/dune_archives/22_edit/DUN003/ci_probe.txt
+          for u in https://drive.google.com https://incompetech.com https://freepd.com https://upload.wikimedia.org; do echo "$u $(curl -s -o /dev/null -m 10 -w '%{http_code}' $u)" >> projects/dune_archives/22_edit/DUN003/ci_probe.txt; done
+          git config user.name "ci-bot"; git config user.email "ci-bot@users.noreply.github.com"
+          git add projects/dune_archives/22_edit/DUN003/ci_probe.txt && git commit -m "ci: probe" && git push
