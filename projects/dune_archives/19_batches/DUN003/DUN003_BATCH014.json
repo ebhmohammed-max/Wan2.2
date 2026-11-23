@@ -2,7 +2,7 @@
  "episode": "DUN003",
  "batch": "BATCH014",
  "max_batch_size": 10,
- "status": "COMPLETE: 10/10 PASS (137-140 Drive upload pending)",
+ "status": "COMPLETE: 10/10 PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop",
  "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
  "images": [
@@ -143,9 +143,9 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
+   "drive_file_id": "1YCdNuJTm5yNBmDbz_X3nV3G6xq-i_KfM",
    "qc": "PASS",
-   "qc_note": "Tarnished metal reel half buried in sand, film strip with blank frames curling out; no logos. DRIVE UPLOAD PENDING: held back in turn 17 to stay within the 6-uploads-per-reply limit; file staged in pending_upload/.",
+   "qc_note": "Tarnished metal reel half buried in sand, film strip with blank frames curling out; no logos.",
    "version": "v1"
   },
   {
@@ -163,9 +163,9 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
+   "drive_file_id": "1xWR5kNh1SHKLl73APqpnTKehCZOfnuDO",
    "qc": "PASS",
-   "qc_note": "Matches the Duncan-B ref: near-profile with faceted steel eye catching a glint, dark background, negative space ahead. Minor: three-quarter profile rather than strict side. DRIVE UPLOAD PENDING: held back in turn 17 to stay within the 6-uploads-per-reply limit; file staged in pending_upload/.",
+   "qc_note": "Matches the Duncan-B ref: near-profile with faceted steel eye catching a glint, dark background, negative space ahead. Minor: three-quarter profile rather than strict side.",
    "version": "v1",
    "reference_used": "anchors/REF_CS-DUNCAN-B_v1.jpg"
   },
@@ -184,9 +184,9 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
+   "drive_file_id": "1ldjmWKALn_qCM-QoqmmMkG1SFtxDRn_7",
    "qc": "PASS",
-   "qc_note": "Grey-robed figure (from behind) before a shattered mirror; shards show an old man, a young woman, a scarred soldier, a pale bald androgynous face and a child. Minor: a little blood on the soldier's face. DRIVE UPLOAD PENDING: staged in pending_upload/ (6-uploads-per-reply limit).",
+   "qc_note": "Grey-robed figure (from behind) before a shattered mirror; shards show an old man, a young woman, a scarred soldier, a pale bald androgynous face and a child. Minor: a little blood on the soldier's face.",
    "version": "v1"
   },
   {
@@ -204,9 +204,9 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
+   "drive_file_id": "1t36ji2mXopk3gPiZ6s6I8puJzfMCtoOe",
    "qc": "PASS",
-   "qc_note": "Dune ridge forking left and right from the foreground under a dark storm sky with a break of light. Reads as a curve and fork rather than two separate ridges. DRIVE UPLOAD PENDING: staged in pending_upload/ (6-uploads-per-reply limit).",
+   "qc_note": "Dune ridge forking left and right from the foreground under a dark storm sky with a break of light. Reads as a curve and fork rather than two separate ridges.",
    "version": "v1"
   }
  ]

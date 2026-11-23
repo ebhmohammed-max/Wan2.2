@@ -491,6 +491,22 @@ New this turn (Drive upload pending): S139–S146 and S148 PASS (S145 awaiting d
 
 **Image progress: 148 of 150 generated. 147 PASS, 1 FIX.** Batches 001–014 are complete. 11 images are waiting for Drive.
 
+
+## X. DUN003 turn 19 (2026-11-23): IMAGE SET COMPLETE
+
+| File | Drive ID | QC |
+|---|---|---|
+| B014 SCENE137_REEL_IN_SAND.png | `1YCdNuJTm5yNBmDbz_X3nV3G6xq-i_KfM` | PASS |
+| B014 SCENE138_HAYT_PROFILE.png | `1xWR5kNh1SHKLl73APqpnTKehCZOfnuDO` | PASS |
+| B014 SCENE139_SHATTERED_MIRROR_FACES.png | `1ldjmWKALn_qCM-QoqmmMkG1SFtxDRn_7` | PASS |
+| B014 SCENE140_DIVERGING_RIDGES.png | `1t36ji2mXopk3gPiZ6s6I8puJzfMCtoOe` | PASS |
+| B015 SCENE141_FROZEN_CROWD.png | `15hmTNW_zlykS_u0d4gAA4lLfKaVymaq6` | PASS |
+| B015 SCENE142_WRITERS_DESK_1960S.png | `1UzpyX1jfI_wCGKHg6NulALaPxePw_hTk` | PASS |
+
+New PASS this turn (Drive pending): S147 v2, S149, S150; old-flag fixes S050 v2, S059 v2, S094 v2. S145 kept by director. 11 files are waiting in `pending_upload/`. Index v19 is not on Drive.
+
+**Image progress: 150 of 150 generated, ALL PASS. Batches 001–015 complete.** Remaining: Drive backlog (11), S012/S016 director flags, Drive doc refresh (continuity v1.5+, tracker appends, manifests v11, index v19), then the post-production phase (VO/TTS, music, edit, maps, 22 [VERIFY] fact checks).
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
@@ -507,3 +523,4 @@ New this turn (Drive upload pending): S139–S146 and S148 PASS (S145 awaiting d
 | v2.6 | 2026-11-23 | Batch 012 complete (S116 retry, S119 v2). Batch 013: 8 PASS. 128/150. 3 Drive uploads pending |
 | v2.7 | 2026-11-23 | Batch 013 complete. Batch 014: 8 PASS. 138/150. 8 Drive uploads pending |
 | v2.8 | 2026-11-23 | Batch 014 complete. Batch 015: 7 PASS, S147 FIX. 147/150 PASS. 11 Drive uploads pending. S145 Preacher awaiting director review |
+| v2.9 | 2026-11-23 | ALL 150 PASS. S147 v2, S149, S150; S050/S059/S094 flags fixed; S145 kept. 11 Drive uploads pending |

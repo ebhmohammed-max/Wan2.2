@@ -116,3 +116,9 @@
 - A blindfolded, hooded, bearded blind prophet reads strongly as Christ-like (S145). If the director wants less of that: shorter beard, sand-goggle scars, Fremen-style head-cloth instead of a hood.
 - "Child's hand" in macro can render as an adolescent hand (S148). Add "small chubby child's hand, short fingers".
 - Blue-in-blue eyes held first time again on a close portrait (S146).
+
+## 2026-11-23: turn 19 (image set complete)
+- **Object-swap edits work cleanly** (S059: hurricane lamp to glowglobe; everything else held).
+- **Eyewear edits overshoot**: asking for a thin band instead of a temple arm gave a thick band and bigger lenses (S094 v2). Say "very thin dark cord, same lens size".
+- **Episode total:** 150 unique stills, all PASS. About 19 turns at 10 generations per turn; roughly 25% of slots went to fixes, remakes and eye edits.
+- **Drive throughput is now the bottleneck** at 6 uploads per reply. Next episode: upload while generating, or batch the uploads as a zip.

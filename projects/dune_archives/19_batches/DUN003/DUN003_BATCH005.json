@@ -188,7 +188,7 @@
   },
   {
    "scene_id": "DUN003_SCENE050",
-   "file": "DUN003_BATCH005_SCENE050_EDRIC_EYE.png",
+   "file": "DUN003_BATCH005_SCENE050_EDRIC_EYE_v2.png",
    "chapter": "04",
    "shot_type": "INS",
    "lens": "100mm macro",
@@ -201,10 +201,10 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": "1kxnoKrVBGKqpwyrnKLd4BygvBwyf8JpH",
+   "drive_file_id": null,
    "qc": "PASS",
-   "qc_note": "Human eyelid and lashes; sclera pale blue rather than fully saturated, acceptable through glass and vapour.",
-   "version": "v1"
+   "qc_note": "v2 eye-only edit: the whites are now fully deep blue; all else unchanged. Supersedes v1 (Drive 1kxnoKrVBGKqpwyrnKLd4BygvBwyf8JpH; mark superseded on upload). DRIVE UPLOAD PENDING: staged in pending_upload/ (6-uploads-per-reply limit).",
+   "version": "v2"
   }
  ]
 }

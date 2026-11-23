@@ -68,7 +68,7 @@
   },
   {
    "scene_id": "DUN003_SCENE094",
-   "file": "DUN003_BATCH010_SCENE094_PAUL_STANDING_ASH.png",
+   "file": "DUN003_BATCH010_SCENE094_PAUL_STANDING_ASH_v2.png",
    "chapter": "06",
    "shot_type": "MS",
    "lens": "50mm",
@@ -81,10 +81,10 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": "1QoYk8bSGNtkU5ihTBLx0H5PX3qk-flyN",
+   "drive_file_id": null,
    "qc": "PASS",
-   "qc_note": "Paul-D ref held: face, grey temples, beard; scorched cloak with embers, falling ash. Minor: at this angle the lenses show a thin temple arm (slightly modern).",
-   "version": "v1",
+   "qc_note": "v2 edit: thin metal temple arm removed; frameless round dark lenses now on a dark band (matches the Paul-D spec). Minor: the band is thicker and the lenses larger than in the ref; reads a bit heavier. Supersedes v1 (Drive 1QoYk8bSGNtkU5ihTBLx0H5PX3qk-flyN), which stays available as an alternative. DRIVE UPLOAD PENDING: staged in pending_upload/ (6-uploads-per-reply limit).",
+   "version": "v2",
    "reference_used": "anchors/REF_CS-PAUL-D_v1.jpg"
   },
   {
