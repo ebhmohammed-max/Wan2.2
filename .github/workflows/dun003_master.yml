@@ -1,0 +1,41 @@
+name: DUN003 master render + Drive upload
+# Renders the 1080p master from the repo (stills, maps, storyboard, committed final mix) on a
+# 4-CPU runner and streams it into the Drive resumable session in 22_edit/DUN003/.ci_upload_session.
+on:
+  push:
+    branches: [arena/e01ea136-wan2-2]
+    paths: ['projects/dune_archives/22_edit/DUN003/master_trigger.txt']
+permissions:
+  contents: write
+concurrency: {group: dun003-master, cancel-in-progress: false}
+jobs:
+  master:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: arena/e01ea136-wan2-2}
+      - run: |
+          pip install --quiet opencv-python-headless numpy pillow imageio-ffmpeg
+          test -f /usr/share/fonts/truetype/dejavu/DejaVuSans.ttf || (sudo apt-get update -qq && sudo apt-get install -y -qq fonts-dejavu-core)
+      - name: render
+        run: |
+          cd projects/dune_archives
+          python tools/assemble_roughcut.py DUN003 --vo 22_edit/DUN003/DUN003_MIX_v1.m4a \
+            --images 19_batches/DUN003/stills_jpg --out /tmp/DUN003_MASTER_v1_1080p.mp4 \
+            --res 1920x1080 --crf 20 --abr 320k --workdir /tmp/rc --jobs 4 2>&1 | tail -5 | tee 22_edit/DUN003/ci_master_log.txt
+          ls -la /tmp/DUN003_MASTER_v1_1080p.mp4 | tee -a 22_edit/DUN003/ci_master_log.txt
+          python -c "import imageio_ffmpeg,subprocess;print(subprocess.run([imageio_ffmpeg.get_ffmpeg_exe(),'-hide_banner','-i','/tmp/DUN003_MASTER_v1_1080p.mp4'],capture_output=True,text=True).stderr[-600:])" >> 22_edit/DUN003/ci_master_log.txt
+      - name: upload to Drive
+        run: |
+          cd projects/dune_archives
+          python tools/ci_drive_upload.py /tmp/DUN003_MASTER_v1_1080p.mp4 22_edit/DUN003/.ci_upload_session > 22_edit/DUN003/ci_upload_result.json 2>> 22_edit/DUN003/ci_master_log.txt || echo "UPLOAD FAILED" >> 22_edit/DUN003/ci_master_log.txt
+      - name: commit log (and drop the one-time session URI)
+        if: always()
+        run: |
+          git rm -q --cached projects/dune_archives/22_edit/DUN003/.ci_upload_session || true
+          rm -f projects/dune_archives/22_edit/DUN003/.ci_upload_session
+          git config user.name "dun003-ci"; git config user.email "dun003-ci@users.noreply.github.com"
+          git add -A projects/dune_archives/22_edit/DUN003
+          git commit -m "ci: DUN003 master render + Drive upload log" || exit 0
+          for i in 1 2 3; do git pull --rebase -q origin arena/e01ea136-wan2-2 && git push origin HEAD:arena/e01ea136-wan2-2 && break; sleep 5; done

@@ -113,6 +113,13 @@ def build_segment(i, r, nframes, a):
         hits = sorted(glob.glob(os.path.join(a.images, stem + '.*')))
         img = hits[0] if hits else None
     base = wd / f'base_{i:03d}.mp4'
+    if img and a.engine == 'fast':
+        import fast_motion
+        ov = overlay_png(wd / f'ov_{i:03d}.png', W, H, text, archive=archive, bug=True)
+        focus = (0.5, 0.42) if r['unique_or_reuse'] == 'REUSE' else (0.5, 0.5)
+        fast_motion.render(img, seg, r['motion_recipe'] or 'DRIFT', nframes, W, H, ov, focus=focus,
+                           crf=a.crf, seed=i)
+        return seg
     if is_map:
         mp4 = ROOT / '19_batches' / a.ep / 'maps' / pathlib.Path(r['map_scene_json']).name.replace('.json', '.mp4')
         run([FF, '-y', '-loglevel', 'error', '-i', str(mp4), '-vf',
@@ -150,6 +157,9 @@ def main():
     ap.add_argument('--jobs', type=int, default=2)
     ap.add_argument('--hold', type=float, default=2.0, help='end-card hold after the last VO')
     ap.add_argument('--force', action='store_true')
+    ap.add_argument('--abr', default='192k', help='AAC bitrate for the muxed programme audio')
+    ap.add_argument('--engine', choices=['fast', 'classic'], default='fast',
+                    help='fast = OpenCV + single ffmpeg pass (fast_motion.py); classic = motion_engine.py')
     a = ap.parse_args()
     a.W, a.H = map(int, a.res.split('x'))
     pathlib.Path(a.workdir).mkdir(parents=True, exist_ok=True)
@@ -165,7 +175,7 @@ def main():
     vid = pathlib.Path(a.workdir) / 'video.mp4'
     run([FF, '-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', str(lst), '-c', 'copy', str(vid)])
     run([FF, '-y', '-loglevel', 'error', '-i', str(vid), '-i', a.vo, '-filter_complex', '[1:a]apad[a]',
-         '-map', '0:v', '-map', '[a]', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-t', f'{fr[-1] / FPS:.3f}',
+         '-map', '0:v', '-map', '[a]', '-c:v', 'copy', '-c:a', 'aac', '-b:a', a.abr, '-t', f'{fr[-1] / FPS:.3f}',
          '-movflags', '+faststart', a.out])
     print('wrote', a.out, 'frames', fr[-1], 'duration', round(fr[-1] / FPS, 2))
 
