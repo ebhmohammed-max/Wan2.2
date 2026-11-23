@@ -628,6 +628,19 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 - All 178 storyboard shots now have a visual: 150 stills plus 3 maps; the remaining shots reuse stills.
 - **Drive (DUN003 folder):** MAP A `1auyro8BD29-n1vulg98C7wuZWxKVjy5j` · MAP B `1lP-gaUgde1ffUEO3P2qN51zgZ6xFDShJ` · MAP C `1_aXkZtOzSx9afwaunEmnHr8E98CiyKU2`.
 
+
+## AG. DUN003 turn 30 (2026-11-23): music cue sheet and animatic
+
+- **Music:** `21_music/DUN003_MUSIC_CUE_SHEET.md` has 12 cues (M1–M12), timed to storyboard v4, with mood, tempo and sync points. It also covers:
+  - 3 marked silence drop-outs (07:20 stone burner, 08:50 "Chani dies.", 10:24 "The man is gone.");
+  - an SFX table, a no-Zimmer-soundalike rule, mix targets (−14 LUFS integrated, −1 dBTP) and a licence log.
+- **Edit:** the new tool `tools/assemble_roughcut.py` builds segments from the storyboard at exact frame counts:
+  - motion_engine for stills, or a slate when the still is missing;
+  - the map clips;
+  - on-screen text and archive-card overlays, plus a CREATIVE RECONSTRUCTION corner bug;
+  - then a concat and a mux with the VO master.
+- **Animatic v1:** `22_edit/DUN003/DUN003_ANIMATIC_v1_720p.mp4`, 12:11, 720p, git-ignored and on Drive. It uses slates because the 150 stills are on Drive and the sandbox can't download them. The full 1080p rough cut runs locally with the same tool; see `22_edit/DUN003/README.md`.
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
@@ -655,5 +668,6 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 | v2.17 | 2026-11-23 | Script rev 1.3 (§03 date line plus on-screen text). VO §03 re-recorded; master v2 12:09 on Drive |
 | v2.18 | 2026-11-23 | Storyboard re-timed to the 12:09 VO (programme 12:11). New tool retime_storyboard.py. Storyboard v4 on Drive |
 | v2.19 | 2026-11-23 | 3 animated maps authored, rendered and QC PASS; on Drive |
+| v2.20 | 2026-11-23 | Music cue sheet. assemble_roughcut.py. Slate animatic v1 (12:11) on Drive |
 
 > Turn 22 note: the old manifests v11, continuity v1.4 and original tracker Doc have their Drive descriptions set to SUPERSEDED, pointing at the new IDs above. The Drive tracker v2.12 Doc is a snapshot taken before its own ID was added here.

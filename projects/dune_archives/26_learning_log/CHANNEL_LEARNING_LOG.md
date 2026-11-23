@@ -157,3 +157,7 @@
 - map_animator always puts node labels to the right of the node. Any route leaving a node to the right at a shallow angle cuts through its label. Lay nodes out so routes leave left, or steeply up or down; otherwise frame-check and fix.
 - A render takes about 2 minutes per 8 s on CPU. Run renders through start_process, one at a time, and frame-check with ffmpeg `-ss`.
 - For a canon-safe jihad map, use unnamed RECON dots plus Arrakis. Herbert names no conquest order and gives no coordinates.
+
+## DUN003 turn 30 (2026-11-23): edit
+- The sandbox can't pull images back from Drive: the Drive host isn't reachable, and base64 through the tool context won't scale to 150 images. **For future episodes, keep a lightweight local copy of the stills**, e.g. 1280px JPGs in a tracked folder (about 150 × 150 KB ≈ 22 MB), so the sandbox can render the motion rough cut itself.
+- A slate animatic with the real VO still checks timing and flow, and the whole assembly pipeline. A 12-minute 720p animatic takes about 3 minutes to render.
