@@ -277,7 +277,7 @@ Director said "go on". As stated, that keeps **S098 as-is**; Paul-D shots from h
 
 | Scene | QC | Note |
 |---|---|---|
-| SCENE102 | PASS | Awed young guard with blue eyes |
+| SCENE102 | PASS (provisional) | Awed young guard; whites of the eyes still visible, eye edit queued |
 | SCENE103 | PASS | Paul-D on balcony, two moons, loose robe; parapet has a Greek-key pattern |
 | SCENE104 | PASS | Cracking crystal |
 | SCENE105 | PASS | Sandstorm wall |
