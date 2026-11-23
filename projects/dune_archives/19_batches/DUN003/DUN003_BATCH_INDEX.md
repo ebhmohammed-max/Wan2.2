@@ -287,3 +287,22 @@ Director said "go on". As stated, that keeps **S098 as-is**; Paul-D shots from h
 | SCENE109 | PASS | Birth chamber, modest; hooded elder looks slightly Reaper-like |
 | SCENE110 | PASS | Paul-D waiting; loose robe |
 | SCENE111 | PASS | Twin newborns |
+
+## QC log: turn 15 (2026-11-23)
+
+Used all 10 generations: 9 succeeded and 1 failed (S116, Scytale holding a knife over the cradle; probably a safety refusal). **118 of 150 PASS. One shot needs a remake (S119) and one still needs generating (S116).**
+
+| Scene | QC | Note |
+|---|---|---|
+| SCENE102 v2 | PASS | Eye-only edit worked. v1 is superseded on Drive |
+| SCENE112 | PASS | Still hand with water rings |
+| SCENE113 | PASS | Paul-D grief; hair slightly greyer than the ref |
+| SCENE114 | PASS | Hayt triggered, Duncan-B ref held |
+| SCENE115 | PASS | Duncan awakens, faceted eyes, tears |
+| SCENE116 | not generated | Generation failed. Retry with the knife held low, away from the cradle, and the infants implied |
+| SCENE117 | PASS | Blue-in-blue newborn eyes **right first time** |
+| SCENE118 | PASS | Cradle point of view: veiled figure and doorway silhouette |
+| SCENE119 | **FIX** | Crysknife came out with a blade at both ends. Remake |
+| SCENE120 | PASS | Fallen figure, intact cradle, no gore |
+
+Also: updated the S097 v2 Drive description to PASS (owed since turn 13).

@@ -414,6 +414,24 @@ S098 is kept as-is (director, turn 14). Index/QC v14 Doc: `1VSoakYOoYKYGUgHDak7w
 
 **Image progress: 111 of 150 generated, all 111 PASS. Batches 001–011 are complete.** Batch 012 is at 1/10. 39 images remain.
 
+
+## T. DUN003 turn 15 (2026-11-23)
+
+| File | Drive ID | QC |
+|---|---|---|
+| B011 SCENE102_FREMEN_AWE_v2.png (supersedes v1) | `1Itr9kS1CBDStib4SeoPgGawSKK2T0ME3` | PASS |
+| B012 SCENE112_CHANI_HAND_STILL.png | `1_Xz3QszcjLGIHwpJaFkUtJtWkzzi8fsW` | PASS |
+| B012 SCENE113_PAUL_GRIEF.png | `1Fq9c45iwRo7twmS-xBaOhx1967Ec_K5l` | PASS |
+| B012 SCENE114_HAYT_TRIGGERED.png | `1Qt6aAZ0HKS-kz6X2KxvaQUEDpNw1QHbv` | PASS |
+| B012 SCENE115_DUNCAN_AWAKENS.png | `19HErXeZOOHXMAddeLO2mSbQvWHsKlv3D` | PASS |
+| B012 SCENE117_LETO_INFANT_EYES.png | `166Bx-v5rl8MlGVNO6ZYwuIdE9rg5ETQ0` | PASS |
+| B012 SCENE118_INFANT_POV.png | `1Y3fFVIZ-rf1igcU9r3r2xBqWwRv2n8qW` | PASS |
+| B012 SCENE120_SCYTALE_FALLEN.png | `1hLtyJxTwWBc-gMzKh292MhZPdEIFurdF` | PASS |
+
+S119 needs a remake (double-ended knife). S116 failed to generate. The S097 Drive description is now updated. Index/QC v15 Doc: `1IL_jiLBxHQBmmoNwwFAX6uKjJuVAv32Xq49zq5Khuhs`.
+
+**Image progress: 119 of 150 generated. 118 PASS, 1 FIX.** Batch 012 is at 8/10 passing.
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
@@ -426,3 +444,4 @@ S098 is kept as-is (director, turn 14). Index/QC v14 Doc: `1VSoakYOoYKYGUgHDak7w
 | v2.2 | 2026-11-23 | Korba/Lichna/Otheym/Bijaz approved. Batch 009 10/10 PASS. Batch 010 started. Paul-D (blind) look pending |
 | v2.3 | 2026-11-23 | Paul-D approved. Batches 008 and 010 complete. 101/101 PASS. Batch 011 started |
 | v2.4 | 2026-11-23 | Batch 011 complete. 111/111 PASS. Batch 012 started. Ornithopter solved |
+| v2.5 | 2026-11-23 | S102 eye fix. Batch 012: 7 more PASS (118 total), S119 FIX, S116 failed |

@@ -28,7 +28,7 @@
   },
   {
    "scene_id": "DUN003_SCENE102",
-   "file": "DUN003_BATCH011_SCENE102_FREMEN_AWE.png",
+   "file": "DUN003_BATCH011_SCENE102_FREMEN_AWE_v2.png",
    "chapter": "07",
    "shot_type": "CU",
    "lens": "85mm",
@@ -41,10 +41,10 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": "1kNXMG0-W551TCu3mM4kBkm-cEks_GDY0",
+   "drive_file_id": "1Itr9kS1CBDStib4SeoPgGawSKK2T0ME3",
    "qc": "PASS",
-   "qc_note": "Young guard, dun head-cloth, stillsuit collar, wide-eyed awe. Irises are vivid blue but the whites are still visible. Provisional PASS; eye-only edit queued for next turn.",
-   "version": "v1"
+   "qc_note": "v2 eye-only edit of v1: the whites are now deep blue and nothing else changed. Awed young guard in a dun head-cloth with a stillsuit collar. v1 (1kNXMG0-W551TCu3mM4kBkm-cEks_GDY0) is superseded.",
+   "version": "v2"
   },
   {
    "scene_id": "DUN003_SCENE103",

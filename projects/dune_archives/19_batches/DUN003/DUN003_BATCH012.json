@@ -2,7 +2,7 @@
  "episode": "DUN003",
  "batch": "BATCH012",
  "max_batch_size": 10,
- "status": "IN PROGRESS 1/10: 111 PASS",
+ "status": "IN PROGRESS 8/10 generated: 111-115, 117, 118, 120 PASS; 119 FIX (remake); 116 not yet generated (generation failed)",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop",
  "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
  "images": [
@@ -39,10 +39,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a woman's hand with a bracelet of water rings lying still on rough fabric. Lighting: fading lamp light. Camera: macro insert shot, 100mm macro lens. Mood: grief. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "1_Xz3QszcjLGIHwpJaFkUtJtWkzzi8fsW",
+   "qc": "PASS",
+   "qc_note": "Still hand on a woven blanket with a cord of gold water rings at the wrist; no face, no blood.",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE113",
@@ -57,10 +59,13 @@
    "onscreen_uses": 2,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. man about thirty with a broad angular face, heavy straight brow ridge, prominent aquiline nose with a slight bump, wide thin-lipped mouth, strong square jaw under a short dense dark beard, close-cropped dark brown hair with early grey at the temples, weathered olive skin, eyes covered by dark smoked-glass lenses, faint healed burn scarring at the temples, calm composed expression, head bowed, one hand over his face. Lighting: dark, single low light. Camera: portrait close-up, shallow depth of field, 85mm lens. Mood: grief. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "1Fq9c45iwRo7twmS-xBaOhx1967Ec_K5l",
+   "qc": "PASS",
+   "qc_note": "Matches the Paul-D ref: temple scars, frameless round dark lens, hand over brow. Minor: hair greyer than the ref, robe reads slightly Jedi-like, scene brighter than \"very dark\".",
+   "version": "v1",
+   "reference_used": "anchors/REF_CS-PAUL-D_v1.jpg"
   },
   {
    "scene_id": "DUN003_SCENE114",
@@ -75,10 +80,13 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. compact muscular man about thirty, tight black curly hair, round jaw with cleft chin, olive-brown skin, faceted metallic steel-grey artificial eyes, plain grey tunic, mid-step toward the camera with a blade drawn, face contorted in internal struggle. Lighting: hard side light. Camera: medium shot, 50mm lens. Mood: violence. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "1Qt6aAZ0HKS-kz6X2KxvaQUEDpNw1QHbv",
+   "qc": "PASS",
+   "qc_note": "Matches the Duncan-B ref: hand at temple, gritted teeth, short knife low, grey high-collar tunic, plain stone corridor. Minor: the eyes look more mirrored than faceted at this size.",
+   "version": "v1",
+   "reference_used": "anchors/REF_CS-DUNCAN-B_v1.jpg"
   },
   {
    "scene_id": "DUN003_SCENE115",
@@ -93,10 +101,13 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. compact muscular man about thirty, tight black curly hair, round jaw with cleft chin, olive-brown skin, faceted metallic steel-grey artificial eyes, plain grey tunic, tears on his face, recognition dawning. Lighting: light warming across the face. Camera: portrait close-up, shallow depth of field, 85mm lens. Mood: revelation. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "19HErXeZOOHXMAddeLO2mSbQvWHsKlv3D",
+   "qc": "PASS",
+   "qc_note": "Matches the Duncan-B ref: faceted steel eyes, tears, warm light across the face. Strong shot.",
+   "version": "v1",
+   "reference_used": "anchors/REF_CS-DUNCAN-B_v1.jpg"
   },
   {
    "scene_id": "DUN003_SCENE116",
@@ -129,10 +140,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. close-up of a newborn's eyes, impossibly aware, entirely blue. Lighting: soft light. Camera: macro insert shot, 100mm macro lens. Mood: eerie. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "166Bx-v5rl8MlGVNO6ZYwuIdE9rg5ETQ0",
+   "qc": "PASS",
+   "qc_note": "Newborn with fully blue-in-blue eyes, right first time (no edit needed). Eerie, aware stare.",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE118",
@@ -147,10 +160,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a low wide view from cradle height of a lamplit rock chamber, a grey-robed figure looming, a man in the doorway. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: volumetric haze. Camera: epic wide shot, low horizon, 18mm lens. Mood: tension. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "1Y3fFVIZ-rf1igcU9r3r2xBqWwRv2n8qW",
+   "qc": "PASS",
+   "qc_note": "Cradle-level point of view: veiled faceless figure in grey with a knife, man silhouetted in the bright doorway. Minor: the glowglobe hangs on a cord; the chamber is rounded.",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE119",
@@ -165,10 +180,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a milky-white curved crystal knife spinning through lamplit air. Lighting: amber light. Camera: macro insert shot, 100mm macro lens. Mood: climax. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
    "drive_file_id": null,
-   "qc": "PENDING"
+   "qc": "FIX",
+   "qc_note": "REMAKE: the crysknife rendered with a blade at BOTH ends of the hilt (double-ended). Next prompt: \"single curved blade, hilt at one end only\". Not uploaded.",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE120",
@@ -183,10 +200,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a grey-robed figure fallen on a stone floor, no gore, an intact cradle nearby, lamps flickering. Lighting: dim light. Camera: establishing shot, 35mm lens. Mood: release. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "1hLtyJxTwWBc-gMzKh292MhZPdEIFurdF",
+   "qc": "PASS",
+   "qc_note": "Grey-robed figure face-down, no gore; intact woven cradle; floating glowglobe hovering freely. Minor: dark hair visible (Scytale is hairless; face hidden).",
+   "version": "v1"
   }
  ]
 }

@@ -92,3 +92,9 @@
 - **"Loose layered black desert robe with wide sleeves, hood down, not a fitted coat"** removed the Matrix read for Paul-D (S103, S110).
 - **The Chani-B ref transfers well into new poses**, including pregnancy (S106) and pain (S107).
 - **"Abstract geometric carving" can render as a Greek-key meander** (S103). Add "no meander or Greek key patterns".
+
+## 2026-11-23: turn 15
+- **Blue-in-blue eyes CAN work first time** when they are the subject of the shot (S117 macro): "the whites of the eyes also completely deep blue, no white visible anywhere in the eyes".
+- **"Curved double-edged blade" can give a double-ENDED knife** (S119). Write "single curved blade, hilt at one end only".
+- **"Holding a knife over a cradle with two infants" failed to generate** (S116, probably a safety refusal). Reframe so the threat is implied: blade lowered, infants out of frame or only the cradle edge visible.
+- The Duncan-B ref with "polished faceted steel, no iris, no pupil, no glow" stays reliable (S114, S115).
