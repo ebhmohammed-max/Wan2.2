@@ -626,6 +626,7 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 - 3 map scene files were authored in `templates/maps/` (A spice lever, B jihad spread, C Wallach IX). They were rendered with `tools/map_animator.py` to `19_batches/DUN003/maps/*.mp4` (1080p24, 6–8 s each, with trim handles).
 - QC PASS after the layout v2 label-collision fix. Details are in `19_batches/DUN003/maps/README.md`.
 - All 178 storyboard shots now have a visual: 150 stills plus 3 maps; the remaining shots reuse stills.
+- **Drive (DUN003 folder):** MAP A `1auyro8BD29-n1vulg98C7wuZWxKVjy5j` · MAP B `1lP-gaUgde1ffUEO3P2qN51zgZ6xFDShJ` · MAP C `1_aXkZtOzSx9afwaunEmnHr8E98CiyKU2`.
 
 | Version | Date | Change |
 |---|---|---|

@@ -15,3 +15,10 @@ Render environment: a venv with `numpy pillow imageio-ffmpeg`. Each map takes ab
   - Only Arrakis, Wallach IX and Tleilax are named. All other worlds are unnamed RECON dots.
   - The Guild start point is RECON.
 - **QC (frame checks at the start, middle and end): PASS.** Layout v2 fixed routes crossing labels in A, B and C.
+
+## Drive (DUN003 folder)
+| File | Drive ID |
+|---|---|
+| DUN003_MAP_A_spice_lever.mp4 | `1auyro8BD29-n1vulg98C7wuZWxKVjy5j` |
+| DUN003_MAP_B_jihad_spread.mp4 | `1lP-gaUgde1ffUEO3P2qN51zgZ6xFDShJ` |
+| DUN003_MAP_C_wallach_ix.mp4 | `1_aXkZtOzSx9afwaunEmnHr8E98CiyKU2` |
