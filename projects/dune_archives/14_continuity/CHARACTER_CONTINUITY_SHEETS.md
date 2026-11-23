@@ -217,3 +217,15 @@ Rule: never use the word "elfin" in prompts. Image models render it as literal e
 
 Still awaiting approval when first generated: CS-EDRIC, CS-KORBA, CS-LICHNA, CS-OTHEYM, CS-BIJAZ, CS-PAUL-E, plus any new faces.
 **Workflow:** once a face is approved, pass its anchor JPEG as a reference in every later shot of that character, and prefer face-preserving edits for fixes.
+
+## v1.5 addendum (2026-11-23)
+- **CS-SCYTALE v1: APPROVED.** Reference: `19_batches/DUN003/anchors/REF_CS-SCYTALE_v1.jpg`.
+- **CS-DUNCAN-A v1: PENDING.** Reference: `anchors/REF_CS-DUNCAN-A_v1_PENDING.jpg` (from S066).
+  - Short tight black curls, clean-shaven, thin scar on the left cheek.
+  - Warm brown eyes, olive-brown skin.
+  - Black-and-green uniform with a red hawk collar emblem.
+  - Original design: no long hair, no beard, not based on any actor.
+- **CS-DUNCAN-B (Hayt): PENDING.** Same face as Duncan-A, plus:
+  - Eyes of polished faceted steel, with no iris or pupil.
+  - Grey tunic.
+  - S064 is the source image once its eye edit is done.

@@ -177,3 +177,23 @@ Director said "go on". By my stated default, that approves the **CS-MOHIAM v1** 
 
 - **Batch 005 complete (10/10).** Batch 006 is closed pending the Scytale face. Batch 007 is at 1/10.
 - **Drive rate limit hit after 13 transfers in one reply.** S060, S061, index v8 and manifests v8 will be uploaded at the start of the next turn. Their `drive_file_id` values are null until then.
+
+## QC log: turn 9 (2026-11-23)
+
+Director said "go on". By my stated default, that approves the **CS-SCYTALE v1** natural face (S053 now PASS). S060 and S061 were uploaded at the start of this turn.
+
+| Scene | QC | Note |
+|---|---|---|
+| SCENE063 | PASS | Edric ref held; tank carried through the throne hall |
+| SCENE064 | PENDING-APPROVAL + FIX | Hayt from the Duncan-A ref; eyes need a faceted-metal edit |
+| SCENE065 | PASS | Duncan's last stand, seen from behind |
+| SCENE066 | PENDING-APPROVAL | First CS-DUNCAN-A face |
+| SCENE067 | PASS | Axlotl vats, nothing explicit |
+| SCENE069 | FIX | Paul's eyes are not blue-in-blue; eye edit queued |
+| SCENE071 | PASS | Paul-C ref held |
+| SCENE072 | PASS | Falcon-type hawk banner |
+| SCENE075 | PASS | — |
+| SCENE062 | not generated | The first attempt failed with a generator error, and the failed attempt counted toward the 10-per-turn cap |
+
+- **Duncan sequencing:** I generated the defining Duncan-A portrait first, then built Hayt from it as a reference. The other Hayt close-ups (S068, S070, S073, S074) are held until the director approves the face.
+- **Upload pacing:** two rounds of 5 uploads separated by a 25-second pause went through without hitting the rate limit.

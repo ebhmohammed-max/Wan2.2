@@ -54,3 +54,10 @@
 - **Drive upload rate limit:** about 13 file transfers in one reply hit Merge's limit. Keep each reply to at most 12 uploads. Upload the index and manifests first so the record is never missing, and defer images instead.
 - **Reference-image scenes held the faces** of Irulan (×2) and Chani in new settings. Every recurring character with an approved anchor should now be generated from its reference image.
 - **Props drift to Earth objects** (a hurricane lamp, a screw-neck bottle). Name sci-fi alternatives for props: "angular brass oil vessel", "faceted crystal ampoule".
+
+## 2026-11-23: turn 9
+- **Failed generations count toward the 10-image cap.** Put the most important or dependent shots early in the turn and keep 1 slot spare for retries.
+- **Uploads of about 5 per round with a 25-second pause** avoided Merge's rate limit (12 transfers in this reply).
+- **"Faceted metallic eyes" in a reference-based edit came out as pale silver eyes.** The look needs a dedicated eye-only edit with explicit words: "polished steel, geometric facets, no iris, no pupil".
+- **Medium shots built from a face reference can drop the blue-in-blue eyes.** Repeat "eyes entirely blue including the whites" in every Paul prompt, even when using the reference.
+- **Hold dependent shots until a new face is approved.** This avoids spending the generation budget on a face that might be rejected.

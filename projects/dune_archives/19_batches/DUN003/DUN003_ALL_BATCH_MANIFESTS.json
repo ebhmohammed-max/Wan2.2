@@ -1053,7 +1053,7 @@
   "episode": "DUN003",
   "batch": "BATCH006",
   "max_batch_size": 10,
-  "status": "COMPLETE (pending director): 9 PASS / S053 Scytale face PENDING-APPROVAL; S060 Drive upload pending",
+  "status": "COMPLETE: 10/10 PASS (Scytale approved turn 9)",
   "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop",
   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
   "images": [
@@ -1113,9 +1113,9 @@
     "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
     "seed": null,
     "drive_file_id": "1Kcs4DucEsn6DrQQbZgOx1uvur9iKOMfC",
-    "qc": "PENDING-APPROVAL",
+    "qc": "PASS",
     "version": "v1",
-    "qc_note": "First CS-SCYTALE natural (Face Dancer) face: hairless, androgynous, flat features, pale grey eyes. No resemblance to Part Three casting. Director approval required. Ref anchors/REF_CS-SCYTALE_v1_PENDING.jpg."
+    "qc_note": "CS-SCYTALE v1 natural face APPROVED by director (turn 9 \"go on\"). Ref anchors/REF_CS-SCYTALE_v1.jpg."
    },
    {
     "scene_id": "DUN003_SCENE054",
@@ -1252,7 +1252,7 @@
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
     "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
     "seed": null,
-    "drive_file_id": null,
+    "drive_file_id": "1Z4oy6kppIyPhuKXf3hPiSZb2LgWfyeNN",
     "qc": "PASS",
     "version": "v1",
     "qc_note": "Night desert martyr platform, huge human crowd; no Earth religious symbols. Drive upload deferred (rate limit)."
@@ -1263,7 +1263,7 @@
   "episode": "DUN003",
   "batch": "BATCH007",
   "max_batch_size": 10,
-  "status": "IN PROGRESS: 061 PASS (Drive upload pending); 062–070 pending",
+  "status": "IN PROGRESS: 061/063/065/067 PASS; 064+066 Duncan face PENDING-APPROVAL (064 eye FIX); 069 FIX (eye edit); 062/068/070 pending",
   "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop",
   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
   "images": [
@@ -1282,7 +1282,7 @@
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
     "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
     "seed": null,
-    "drive_file_id": null,
+    "drive_file_id": "1FoeAIMnpRKqoUVqZWXhcYajahgE1O4vE",
     "qc": "PASS",
     "version": "v1",
     "qc_note": "Four converging shadows on basalt throne. Drive upload deferred (rate limit)."
@@ -1318,10 +1318,12 @@
     "onscreen_uses": 2,
     "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a tall tank of orange gas carried into a vast throne hall on a platform by grey-robed attendants, a distant figure on the throne, courtiers lining the hall. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: single shaft of light. Camera: epic wide shot, low horizon, 24mm lens. Mood: ceremony. Texture: fine film grain, subtle atmospheric haze, tactile materials. The Guild Navigator is a mutated human, not an alien; everyone else shown is fully human. Original character design, not based on any real person. No text anywhere in the image.",
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-    "generator": null,
+    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
     "seed": null,
-    "drive_file_id": null,
-    "qc": "PENDING"
+    "drive_file_id": "1AEMTgRO9-YOt7LbLlnMWbaIm35r5Jogo",
+    "qc": "PASS",
+    "qc_note": "EDRIC v1 ref held; tank carried through monolithic hall, Paul tiny on throne.",
+    "version": "v1"
    },
    {
     "scene_id": "DUN003_SCENE064",
@@ -1336,10 +1338,12 @@
     "onscreen_uses": 2,
     "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. compact muscular man about thirty, tight black curly hair, round jaw with cleft chin, olive-brown skin, faceted metallic steel-grey artificial eyes, plain grey tunic, standing motionless before a throne. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: shaft of light. Camera: medium shot, 50mm lens. Mood: shock. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-    "generator": null,
+    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
     "seed": null,
-    "drive_file_id": null,
-    "qc": "PENDING"
+    "drive_file_id": "1a6_6T6SGQaXbKiJYRd5PfqB7GDnLvXlg",
+    "qc": "PENDING-APPROVAL",
+    "qc_note": "Hayt from DUNCAN-A ref (face held). FIX queued: eyes read pale silver, not clearly faceted metal; eye-only edit from anchors/EDITSRC_B007_SCENE064_HAYT_REVEAL.jpg. Face approval rides with Duncan-A.",
+    "version": "v1"
    },
    {
     "scene_id": "DUN003_SCENE065",
@@ -1354,10 +1358,12 @@
     "onscreen_uses": 1,
     "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. compact muscular man about thirty, tight black curly hair, round jaw with cleft chin, olive-brown skin, warm brown eyes, dark green and black military uniform with a small red hawk insignia, fighting alone in a narrow rock corridor against many armoured soldiers, blades raised, dust, no gore. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: firelight. Camera: epic wide shot, low horizon, 24mm lens. Mood: sacrifice. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-    "generator": null,
+    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
     "seed": null,
-    "drive_file_id": null,
-    "qc": "PENDING"
+    "drive_file_id": "1S7FPN4AzlVlr0qrEYTr92HKw8taV4FzH",
+    "qc": "PASS",
+    "qc_note": "Duncan from behind vs armoured soldiers; no gore.",
+    "version": "v1"
    },
    {
     "scene_id": "DUN003_SCENE066",
@@ -1372,10 +1378,12 @@
     "onscreen_uses": 1,
     "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. compact muscular man about thirty, tight black curly hair, round jaw with cleft chin, olive-brown skin, warm brown eyes, dark green and black military uniform with a small red hawk insignia, a warm confident half-smile. Lighting: warm daylight. Camera: portrait close-up, shallow depth of field, 85mm lens. Mood: nostalgia. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-    "generator": null,
+    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
     "seed": null,
-    "drive_file_id": null,
-    "qc": "PENDING"
+    "drive_file_id": "12DFmPH53lsZBRceyt0_fEOo8E-W3MKID",
+    "qc": "PENDING-APPROVAL",
+    "qc_note": "First CS-DUNCAN-A face: short black curls, clean-shaven, cheek scar, warm brown eyes, olive-brown skin. Deliberately unlike film casting (no long hair, no beard). Collar emblem has spread wings (reads slightly eagle-like at insert size). Ref anchors/REF_CS-DUNCAN-A_v1_PENDING.jpg.",
+    "version": "v1"
    },
    {
     "scene_id": "DUN003_SCENE067",
@@ -1390,10 +1398,12 @@
     "onscreen_uses": 1,
     "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a dim laboratory with rows of sealed organic vats glowing faintly, grey-robed technicians, nothing explicit. Lighting: dim sickly light. Camera: establishing shot, 35mm lens. Mood: unease. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-    "generator": null,
+    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
     "seed": null,
-    "drive_file_id": null,
-    "qc": "PENDING"
+    "drive_file_id": "1t_wmkwsq7W7gQv9mH7nz9M6kEusPfsol",
+    "qc": "PASS",
+    "qc_note": "Opaque organic vats, nothing explicit.",
+    "version": "v1"
    },
    {
     "scene_id": "DUN003_SCENE068",
@@ -1426,10 +1436,12 @@
     "onscreen_uses": 1,
     "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a bearded man in a black imperial robe and a curly-haired man in a grey tunic facing each other across a stone chamber. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: a shaft of light falling between them. Camera: medium shot, 35mm lens. Mood: tension. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-    "generator": null,
+    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
     "seed": null,
-    "drive_file_id": null,
-    "qc": "PENDING"
+    "drive_file_id": "14mmVBkiFqR0ikoCDNgjPwDBg5xFIjNUC",
+    "qc": "FIX",
+    "qc_note": "Paul face from PAUL-C ref but eyes not blue-in-blue at medium distance; eye-only edit queued (anchors/EDITSRC_B007_SCENE069_PAUL_HAYT_FACEOFF.jpg). Minor: Hayt tunic reads like a modern T-shirt.",
+    "version": "v1"
    },
    {
     "scene_id": "DUN003_SCENE070",
@@ -1455,7 +1467,7 @@
   "episode": "DUN003",
   "batch": "BATCH008",
   "max_batch_size": 10,
-  "status": "PENDING",
+  "status": "IN PROGRESS: 071/072/075 PASS; rest pending",
   "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop",
   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
   "images": [
@@ -1472,10 +1484,12 @@
     "onscreen_uses": 1,
     "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. man about thirty with a broad angular face, heavy straight brow ridge, deep-set narrow eyes entirely blue including the whites, prominent aquiline nose with a slight bump from an old break, wide thin-lipped mouth, strong square jaw under a short dense dark beard, close-cropped dark brown hair shaved short at the sides, early grey streaks at the temples, weathered sun-darkened olive skin, pale scar cutting through the left eyebrow, lean wiry build, eyes closed, pained, accepting. Lighting: side light. Camera: portrait close-up, shallow depth of field, 85mm lens. Mood: grief. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-    "generator": null,
+    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
     "seed": null,
-    "drive_file_id": null,
-    "qc": "PENDING"
+    "drive_file_id": "1N_iLgN2fPgwczfnYIPDmTqz8cDjZdobL",
+    "qc": "PASS",
+    "qc_note": "PAUL-C ref held; brow scar on same side as anchor.",
+    "version": "v1"
    },
    {
     "scene_id": "DUN003_SCENE072",
@@ -1490,10 +1504,12 @@
     "onscreen_uses": 1,
     "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. an old faded hawk banner in green and black, torn, hanging in a shadowed citadel corridor. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: dim light. Camera: macro insert shot, 50mm lens. Mood: memory. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-    "generator": null,
+    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
     "seed": null,
-    "drive_file_id": null,
-    "qc": "PENDING"
+    "drive_file_id": "1d4SLeQCH0Km6JKM04YmvZxiSMeIgmjVZ",
+    "qc": "PASS",
+    "qc_note": "Falcon-type hawk (not eagle) on green banner; no lettering.",
+    "version": "v1"
    },
    {
     "scene_id": "DUN003_SCENE073",
@@ -1544,10 +1560,12 @@
     "onscreen_uses": 1,
     "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. abstract: a human head in profile formed of fine sand with a single glowing thread knotted deep inside. Lighting: volumetric light. Camera: epic wide shot, low horizon, 24mm lens. Mood: foreboding. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-    "generator": null,
+    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
     "seed": null,
-    "drive_file_id": null,
-    "qc": "PENDING"
+    "drive_file_id": "1so2AFCXoBQEERzehARv3qIT_clSMF9Iz",
+    "qc": "PASS",
+    "qc_note": "Sand head with knotted thread; no people.",
+    "version": "v1"
    },
    {
     "scene_id": "DUN003_SCENE076",

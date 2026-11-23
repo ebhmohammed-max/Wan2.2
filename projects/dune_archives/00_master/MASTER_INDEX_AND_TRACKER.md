@@ -84,7 +84,7 @@ Folders 10, 11, 12, 19, 21, 22, 23 and 24 are empty on purpose. They fill once p
 
 | ID | Title | Tier | Status | Topic OK | Duration OK | Image qty OK | Script | Storyboard | Images | Edit | Export | Published |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| DUN003 | Dune Messiah Explained Before Part Three | STANDARD | APPROVED (topic + 15 min + 150 imgs, 2026-11-23) | ☑ | ☑ 15 min | ☑ 150 imgs / 15 batches | v1.0 APPROVED | v1 (178 shots) | B001 ✅ · B002 ✅ · B003 ✅ · B004 ✅ · B005 ✅ · B006 ✅ (Scytale face pending) · B007 1/10 | — | — | — |
+| DUN003 | Dune Messiah Explained Before Part Three | STANDARD | APPROVED (topic + 15 min + 150 imgs, 2026-11-23) | ☑ | ☑ 15 min | ☑ 150 imgs / 15 batches | v1.0 APPROVED | v1 (178 shots) | B001 ✅ · B002 ✅ · B003 ✅ · B004 ✅ · B005 ✅ · B006 ✅ · B007 4/10 (+Duncan pending, 1 fix) · B008 3/10 | — | — | — |
 | DUN001 | The Butlerian Jihad: The War Frank Herbert Never Wrote | EPIC | BACKUP | ☐ | ☐ | ☐ | — | — | — | — | — | — |
 
 ## E. Data counts (from `00_master/build_summary.json`)
@@ -278,8 +278,8 @@ Image progress: 16 of 150 final PASS, plus 4 pending.
 | B006 SCENE057_IRULAN_LATTICE.png | `1MKfuXJFFnZEqLA-Y_nTrpWhGZt6lP042` | PASS |
 | B006 SCENE058_CONTRACEPTIVE_VIAL.png | `1mPZA_Jg3bYH2FUHtWnrgqvYQ9XC9tE5_` | PASS |
 | B006 SCENE059_CHANI_MEAL.png | `1YllXFCWqzY93E7_GhUNjh5LLbZ8sUW2O` | PASS |
-| B006 SCENE060_MARTYR_SHRINE.png | **not uploaded yet** (rate limit; copy in `19_batches/DUN003/pending_upload/`) | PASS |
-| B007 SCENE061_FOUR_SHADOWS.png | **not uploaded yet** (rate limit; copy in `pending_upload/`) | PASS |
+| B006 SCENE060_MARTYR_SHRINE.png | `1Z4oy6kppIyPhuKXf3hPiSZb2LgWfyeNN` (uploaded turn 9) | PASS |
+| B007 SCENE061_FOUR_SHADOWS.png | `1FoeAIMnpRKqoUVqZWXhcYajahgE1O4vE` (uploaded turn 9) | PASS |
 | REF_CS-SCYTALE_v1_PENDING.jpg (folder 14) | `1lS5NX__IEGPExQA9PHFzsAGuoQHvR7HL` | anchor, pending |
 | REF_CS-MOHIAM_v1.jpg (renamed from _PENDING) | `1eelWvKz8N977sgGjgZxUgxAaBq66NB8U` | APPROVED anchor |
 | REF_CS-EDRIC_v1.jpg (renamed from _PENDING) | `1HJhvCYD7L3BX--pMNkVdBjVPPSv6UfYp` | APPROVED anchor |
@@ -287,9 +287,30 @@ Image progress: 16 of 150 final PASS, plus 4 pending.
 
 **Image progress: 59 of 150 PASS, plus 1 face pending approval (S053 Scytale) = 60 generated.** Batches 001–005 complete; Batch 006 closed pending approval; Batch 007 at 1/10.
 
+
+## N. DUN003 turn 9 (2026-11-23, all transfers confirmed by Drive listing)
+
+| File | Drive ID | QC |
+|---|---|---|
+| B006 SCENE060 / B007 SCENE061 (deferred from turn 8) | `1Z4oy6kppIyPhuKXf3hPiSZb2LgWfyeNN` / `1FoeAIMnpRKqoUVqZWXhcYajahgE1O4vE` | PASS |
+| B007 SCENE063_EDRIC_AUDIENCE.png | `1AEMTgRO9-YOt7LbLlnMWbaIm35r5Jogo` | PASS |
+| B007 SCENE064_HAYT_REVEAL_v1_FIX.png | `1a6_6T6SGQaXbKiJYRd5PfqB7GDnLvXlg` | PENDING approval + eye FIX |
+| B007 SCENE065_DUNCAN_LAST_STAND.png | `1S7FPN4AzlVlr0qrEYTr92HKw8taV4FzH` | PASS |
+| B007 SCENE066_DUNCAN_SWORDMASTER.png | `12DFmPH53lsZBRceyt0_fEOo8E-W3MKID` | PENDING approval |
+| B007 SCENE067_AXLOTL_VATS.png | `1t_wmkwsq7W7gQv9mH7nz9M6kEusPfsol` | PASS |
+| B007 SCENE069_PAUL_HAYT_FACEOFF_v1_FIX.png | `14mmVBkiFqR0ikoCDNgjPwDBg5xFIjNUC` | FIX (eye edit) |
+| B008 SCENE071_PAUL_DECISION.png | `1N_iLgN2fPgwczfnYIPDmTqz8cDjZdobL` | PASS |
+| B008 SCENE072_ATREIDES_BANNER.png | `1d4SLeQCH0Km6JKM04YmvZxiSMeIgmjVZ` | PASS |
+| B008 SCENE075_HIDDEN_CONDITIONING.png | `1so2AFCXoBQEERzehARv3qIT_clSMF9Iz` | PASS |
+| REF_CS-SCYTALE_v1.jpg (renamed from _PENDING) | `1lS5NX__IEGPExQA9PHFzsAGuoQHvR7HL` | APPROVED anchor |
+| REF_CS-DUNCAN-A_v1_PENDING.jpg (folder 14) | `1Er1ciKGpTdyVfUycTYTRc8tz5WIbrYL2` | anchor, pending |
+
+**Image progress: 67 of 150 PASS, plus 2 pending approval (S064, S066) and 1 FIX (S069) = 70 generated.** Batches 001–006 complete.
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
 | v1.6 | 2026-11-23 | Batch 004 closed (3 fixes done). Batch 005 started. Navigator clause. First Alia-B face pending approval |
 | v1.7 | 2026-11-23 | Alia-B approved. Batch 004 10/10. Batch 005 closed (Mohiam + Edric faces pending). Batch 006 started |
 | v1.8 | 2026-11-23 | Mohiam + Edric approved. Batch 005 10/10. Batch 006 closed (Scytale face pending). Batch 007 started. 2 uploads deferred (rate limit) |
+| v1.9 | 2026-11-23 | Scytale approved. Batch 006 10/10. Deferred uploads done. Duncan-A + Hayt faces pending. Batch 008 started |
