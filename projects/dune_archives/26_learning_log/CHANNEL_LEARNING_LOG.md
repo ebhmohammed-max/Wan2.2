@@ -122,3 +122,12 @@
 - **Eyewear edits overshoot**: asking for a thin band instead of a temple arm gave a thick band and bigger lenses (S094 v2). Say "very thin dark cord, same lens size".
 - **Episode total:** 150 unique stills, all PASS. About 19 turns at 10 generations per turn; roughly 25% of slots went to fixes, remakes and eye edits.
 - **Drive throughput is now the bottleneck** at 6 uploads per reply. Next episode: upload while generating, or batch the uploads as a zip.
+
+## DUN003 turn 23 (2026-11-23): narration voice audition, no voice chosen
+- The in-app TTS audition tool (add_voice/generate_speech) exists. It used the cold-open lines "He won… after he wins?" as the test passage.
+- 6 pairs (12 voices) were all rejected by the director:
+  - 2 pairs with no preset (narration);
+  - 2 pairs of deep US male (entertainment, advertising);
+  - 2 pairs of British male (narration, entertainment).
+- The director's brief: male, US accent, deep and gravelly, epic trailer style. A British male was tried at the director's request.
+- Lesson: the in-app voice range may not cover an epic trailer-style narrator. Consider an external TTS service (e.g. ElevenLabs voice library) or a human VO artist, working from a VO-ready script.
