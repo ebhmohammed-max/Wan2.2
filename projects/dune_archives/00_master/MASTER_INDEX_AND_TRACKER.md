@@ -581,6 +581,10 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 - **Fact check:** 22 of 22 PASS, using secondary sources. The report is `25_sources/DUN003_FACT_CHECK_REPORT.md`. The script fact log and source tags are updated (script rev 1.2). **The VO text is unchanged, so no re-records are needed.**
   - #2: the speaker is Paul, with Stilgar and Korba, in ch. 9.
   - #18: 18 Dec is the North America date; most international markets open on 16 Dec. There is an optional §03 wording tweak, or an on-screen text fix.
+- **Drive, turn 26:**
+  - fact-check report Doc `163TBpz3y7H-cnJjv1N5iHZ3-kpkoXzjWgeQRg3oilZQ` (DUN003 folder);
+  - script v1.2 Doc `1adSqyiTc_hxM4zPE2chZfALGTToHbzLBYc40up15m6A` (folder 17); the v1.1 Doc is marked SUPERSEDED;
+  - storyboard Sheet renamed "DUN003_STORYBOARD v3".
 - **Remaining:**
   - re-time the storyboard to the 12:11 VO;
   - map JSONs;
