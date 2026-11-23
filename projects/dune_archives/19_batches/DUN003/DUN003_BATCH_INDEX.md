@@ -117,3 +117,22 @@ Approved: **150 unique stills · ~177 still-based shots + 3 map scenes ≈ 180 o
 - **CS-ALIA-A/B hardened before first use.** The old anchor's "wide-set intense eyes" is the signature feature of the actress cast as Alia in *Part Three*. It's now a narrow heart-shaped face, small close-set deep-set eyes, an upturned nose, a lip scar and a blunt bob. Director approval is needed at first generation (SCENE037).
 - **SCENE033** said "towering columns", which contradicted ARCH_GUARD. Now "sheer monolithic walls and massive square piers".
 - **New tool `tools/rebuild_preserve.py`** rebuilds and keeps all QC'd records, batch statuses and this index automatically. It replaces the manual /tmp backup and restore.
+
+## QC log: turn 6 (2026-11-23)
+
+| Scene | QC | Note |
+|---|---|---|
+| SCENE032 v2 | PASS | Hooded black/ochre veiled priests, angular censers; Buddhist-monk drift fixed |
+| SCENE034 v2 | PASS | Face-preserving eye edit: saturated blue eyes; everything else unchanged |
+| SCENE036 v2 | PASS-FLAG | All humans now (alien FAIL fixed). Director flag: some figurines resemble Earth Madonna statuettes |
+| SCENE037 | PENDING-APPROVAL | First CS-ALIA-B original face; ref saved as anchors/REF_CS-ALIA-B_v1_PENDING.jpg |
+| SCENE038 | PASS | Back view, face hidden |
+| SCENE039 | PASS | — |
+| SCENE040 | PASS | Angular monolithic hall |
+| SCENE041 | PASS | — |
+| SCENE042 | PASS | No lettering on book |
+| SCENE043 | PASS | Wallach IX = CREATIVE RECONSTRUCTION mood only |
+
+- **Batch 004 closed** (pending the director's Alia decision and the S036 flag). Batch 005 is at 3/10.
+- **Guild Navigator vs humans-only guard:** `build_episode.py` now has `human_clause()`. Navigator/tank shots (CS-EDRIC, S044/S049/S050) say "The Guild Navigator is a mutated human, not an alien; everyone else shown is fully human." In Frank Herbert canon, Navigators are humans mutated by spice (ORIGINAL FRANK HERBERT CANON). All other shots keep the strict humans-only clause.
+- **Anchor hardening before first use:** CS-MOHIAM changed from "birdlike face, piercing pale eyes" to a broad, wrinkled, heavy-lidded original face with a chin mole and cropped grey hair (avoids a generic old-crone look that could converge on a known performer). The S-shot Irulan wording was aligned to the approved IRULAN v2 (veiled, pale gold/ivory gown).

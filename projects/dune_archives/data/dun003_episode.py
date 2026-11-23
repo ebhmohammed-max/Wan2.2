@@ -40,7 +40,7 @@ ANCHORS = {
     "CS-IRULAN": "tall regal woman in her early thirties, long narrow face with a high forehead, strong straight nose, deep-set cool grey eyes under heavy lids, thin composed lips, a small dark mole on the cheekbone, long neck, long loose pale-gold hair under a sheer pale veil (never a braided crown), faint ink stains on right fingertips, pale gold and ivory silk gown with fine geometric embroidery (no crimson), small golden lion-head clasp on the left shoulder",
     "CS-ALIA-A": "small girl about two years old with a narrow heart-shaped face, small close-set deep-set eyes entirely saturated blue including the whites (no white sclera), low straight brows, short upturned nose, bronze-auburn hair in a short blunt bob, unnervingly adult expression",
     "CS-ALIA-B": "girl about fifteen with a narrow heart-shaped face, small close-set deep-set eyes entirely saturated blue including the whites (no white sclera), low straight dark-bronze brows, short upturned nose, thin pale scar under the lower lip, bronze-auburn hair cut in a blunt chin-length bob, unnervingly adult expression, black and gold priestly robes",
-    "CS-MOHIAM": "very old woman with a birdlike face, thin lipless mouth, piercing pale eyes, deep black hood and aba robe",
+    "CS-MOHIAM": "very old woman with a broad heavily wrinkled face, small heavy-lidded dark eyes, a wide flat nose, deep vertical lines around a thin hard mouth, a dark mole on her chin, steel-grey hair cropped short under her hood, deep black hood and aba robe",
     "CS-SCYTALE": "smooth hairless androgynous face with flat indistinct features and pale eyes, plain grey garments",
     "CS-DUNCAN-A": "compact muscular man about thirty, tight black curly hair, round jaw with cleft chin, olive-brown skin, warm brown eyes, dark green and black military uniform with a small red hawk insignia",
     "CS-DUNCAN-B": "compact muscular man about thirty, tight black curly hair, round jaw with cleft chin, olive-brown skin, faceted metallic steel-grey artificial eyes, plain grey tunic",
@@ -262,7 +262,7 @@ S["03"] = [
 ]
 S["04"] = [
     ("WALLACH_IX_EXTERIOR", "EW", "18mm", "", "a cold grey world, a complex of dark stone buildings on a windswept plateau, tiny hooded figures crossing a courtyard", "pale low sun, cold dusk", "secrecy", "PULL_OUT", "R", 2),
-    ("CONSPIRATORS_TABLE", "EST", "35mm", "", "a circular stone chamber with four presences around a table: an old hooded woman, a tall tank of orange gas with a vague humanoid shape, a plain grey-robed figure, a pale-gold-haired woman in a gold gown", "low light, pools of shadow", "intrigue", "PUSH_IN", "O", 2),
+    ("CONSPIRATORS_TABLE", "EST", "35mm", "", "a circular stone chamber with four presences around a table: an old hooded woman, a tall tank of orange gas with a vague humanoid shape, a plain grey-robed figure, a pale-gold-haired veiled woman in a pale gold and ivory gown", "low light, pools of shadow", "intrigue", "PUSH_IN", "O", 2),
     ("MOHIAM_PORTRAIT", "CU", "85mm", "CS-MOHIAM", "watching from deep within her hood", "single low glowglobe", "menace", "DRIFT", "O", 1),
     ("GOM_JABBAR_MEMORY", "INS", "100mm macro", "", "an old woman's hand holding a long fine needle near a young man's neck, a small black box nearby, faces out of frame", "dim warm light", "dread", "PUSH_IN", "O", 1),
     ("BREEDING_RECORDS", "EST", "35mm", "", "an archive of endless shelves of faintly glowing genealogical record crystals, black-robed women moving among them", "cool dim light", "intrigue", "PAN_LR", "R", 1),

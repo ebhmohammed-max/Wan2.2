@@ -47,6 +47,13 @@ def sentences(text):
     return [s for s in re.split(r"(?<=[.!?])\s+", text) if s]
 
 
+def human_clause(cs, low):
+    # Guild Navigators are mutated humans (ORIGINAL canon), never aliens.
+    if cs == "CS-EDRIC" or "navigator" in low or "tank of orange gas" in low or "tank glass" in low:
+        return "The Guild Navigator is a mutated human, not an alien; everyone else shown is fully human."
+    return "Any people shown are fully human (no aliens, no creatures)."
+
+
 def prompt_for(shot, anchors):
     key, kind, lens, cs, body, light, mood, motion, label, n = shot
     subject = (anchors[cs] + ", " + body) if cs else body
@@ -56,7 +63,7 @@ def prompt_for(shot, anchors):
     if any(w in low for w in CRAFT_WORDS):
         subject += ". " + CRAFT_GUARD
     return (f"{STYLE}. {subject}. Lighting: {light}. Camera: {SHOT_NAMES[kind]}, {lens} lens. "
-            f"Mood: {mood}. Texture: {TEXTURE}. Any people shown are fully human (no aliens, no creatures). "
+            f"Mood: {mood}. Texture: {TEXTURE}. {human_clause(cs, low)} "
             f"Original character design, not based on any real person. "
             f"No text anywhere in the image.")
 

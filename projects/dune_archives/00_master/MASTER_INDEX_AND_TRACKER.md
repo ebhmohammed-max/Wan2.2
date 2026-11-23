@@ -84,7 +84,7 @@ Folders 10, 11, 12, 19, 21, 22, 23 and 24 are empty on purpose. They fill once p
 
 | ID | Title | Tier | Status | Topic OK | Duration OK | Image qty OK | Script | Storyboard | Images | Edit | Export | Published |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| DUN003 | Dune Messiah Explained Before Part Three | STANDARD | APPROVED (topic + 15 min + 150 imgs, 2026-11-23) | ☑ | ☑ 15 min | ☑ 150 imgs / 15 batches | v1.0 APPROVED | v1 (178 shots) | B001 ✅ · B002 ✅ · B003 ✅ · B004 3/10 (+3 to fix) | — | — | — |
+| DUN003 | Dune Messiah Explained Before Part Three | STANDARD | APPROVED (topic + 15 min + 150 imgs, 2026-11-23) | ☑ | ☑ 15 min | ☑ 150 imgs / 15 batches | v1.0 APPROVED | v1 (178 shots) | B001 ✅ · B002 ✅ · B003 ✅ · B004 ✅ (Alia face pending) · B005 3/10 | — | — | — |
 | DUN001 | The Butlerian Jihad: The War Frank Herbert Never Wrote | EPIC | BACKUP | ☐ | ☐ | ☐ | — | — | — | — | — | — |
 
 ## E. Data counts (from `00_master/build_summary.json`)
@@ -221,6 +221,28 @@ Image progress: 16 of 150 final PASS, plus 4 pending.
 
 **Image progress: 33 of 150 PASS** (Batches 001–003 complete; Batch 004 at 3/10, with 3 fixes queued).
 
+
+## K. DUN003 turn 6 (2026-11-23, all 13 confirmed by Drive listing)
+
+| File | Drive ID | QC |
+|---|---|---|
+| B004 SCENE032_QIZARATE_PRIESTS_v2.png | `1D1T057dqwq0IJGeVUtMHIa5oZ56x_vZd` | PASS (supersedes v1 FIX) |
+| B004 SCENE034_FREMEN_GOVERNOR_v2.png | `1e4YGR2gpReCVPDzRF1213g4ELyxkUjHb` | PASS (supersedes v1 FIX) |
+| B004 SCENE036_ICONS_MARKET_v2.png | `1bqsxoSmmfXGC_pzmnqMDELIvjKlgmuHa` | PASS-FLAG (figurines) |
+| B004 SCENE037_ALIA_REGENT_PORTRAIT.png | `1YpAkiLWcjDZZEixh1rm_4_53ASnYo8k9` | PENDING director approval |
+| B004 SCENE038_PAUL_TRAPPED_VISION.png | `1e8kFPHGRIrJansCuibD0qHRVWcBfkteK` | PASS |
+| B004 SCENE039_NARROW_PATH_CANYON.png | `1r0IeUj9vZEtgiqdwlgEt9-Kde9bLHbcc` | PASS |
+| B004 SCENE040_SHADOW_WATCHERS.png | `1JVSUOfMvgKzmMtU1KoiqT4rVKBWDqcdf` | PASS |
+| B005 SCENE041_HOURGLASS_SAND.png | `1fdc-DJAT8kCDhDQTJAoNsmN2562PpF_G` | PASS |
+| B005 SCENE042_ANCIENT_BOOK_LECTERN.png | `130WDiHlwimU3x7e7Pi4FaYCiSNF-iY9L` | PASS |
+| B005 SCENE043_WALLACH_IX_EXTERIOR.png | `1tLFGDj82osAKBFMsAE71QBPTZimsJKNW` | PASS |
+| REF_CS-ALIA-B_v1_PENDING.jpg (folder 14) | `1AXvmTLFBGjU4y4uysncrZyUfv0sqpey3` | anchor, pending |
+| DUN003_BATCH_INDEX_AND_QC v6 | `12vi0lWMDOTcak6Xx4bi4EljifDWvAWmjyrZbRwtShjI` | supersedes v5 |
+| DUN003_ALL_BATCH_MANIFESTS_v6.json | `1rNwNELE7tObjjbNEbY7bdbEIsmPl2nAZ` | supersedes v5 |
+
+**Image progress: 41 of 150 PASS, plus S036 (flagged) and S037 (Alia, pending approval) = 43 generated.** Batches 001–004 closed; Batch 005 at 3/10.
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
+| v1.6 | 2026-11-23 | Batch 004 closed (3 fixes done). Batch 005 started. Navigator clause. First Alia-B face pending approval |

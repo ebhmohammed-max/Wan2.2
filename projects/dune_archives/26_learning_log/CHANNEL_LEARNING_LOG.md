@@ -36,3 +36,10 @@
 - **"Priests + censers + ochre" reads as Buddhist monks or Catholic thuribles.** Invented religions need invented visual cues: hoods, veils, black-and-ochre, angular metalwork. Name the Earth looks to avoid.
 - **Check every new face anchor against the current casting before first use** (as done for Alia). This is now a standing pre-flight step for each batch.
 - **Passing the approved anchor JPEG as a reference held Paul's face** in a new setting (SCENE028).
+
+## 2026-11-23: turn 6
+- **Global guards need canon-aware exceptions.** The humans-only clause would have blocked Guild Navigators, who are spice-mutated humans in Frank Herbert canon. `human_clause()` now switches to "mutated human, not an alien" only for Navigator/tank shots.
+- **Invented-religion cues worked.** Hood + veil + black/ochre + angular censers on rods produced priests with no Earth-religion read (S032 v2).
+- **Figurines of a "hooded robed figure" drift toward Madonna statuettes.** For religious merchandise, specify masculine, faceless, armoured or angular silhouettes and name the Earth looks to avoid.
+- **Eye-only edits fix blue-in-blue reliably** when the prompt says "irises AND whites both blue, no white sclera". New portraits still often render partly white sclera on the first pass.
+- **The venv at /home/user/.venv-dune can vanish between turns.** ImageMagick `convert` is a dependable fallback for JPEG anchors.
