@@ -115,7 +115,7 @@ def music():
             open(raw, "wb").write(data)
             sha = hashlib.sha256(data).hexdigest()
             subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", raw, "-ac", "2", "-ar", "44100",
-                            "-b:a", "192k", dst], check=True)
+                            "-b:a", "160k", dst], check=True)
             os.remove(raw)
             dur = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of",
                                   "default=nw=1:nk=1", dst], capture_output=True, text=True).stdout.strip()
