@@ -1,5 +1,5 @@
 wrote /tmp/DUN003_MASTER_v1_1080p.mp4 frames 17555 duration 731.46
--rw-r--r-- 1 runner runner 1820684948 Nov 23 19:10 /tmp/DUN003_MASTER_v1_1080p.mp4
+-rw-r--r-- 1 runner runner 1820684948 Nov 23 19:22 /tmp/DUN003_MASTER_v1_1080p.mp4
 minor_version   : 512
     compatible_brands: isomiso2avc1mp41
     encoder         : Lavf63.1.102
@@ -13,5 +13,12 @@ minor_version   : 512
       handler_name    : SoundHandler
 At least one output file must be specified
 
-upload failed: HTTP 400 b'Invalid request.  X-Goog-Upload-Command header is missing.'
-UPLOAD FAILED
+query: HTTP 200 status=active received=0
+209715200/1820684948
+419430400/1820684948
+629145600/1820684948
+838860800/1820684948
+1048576000/1820684948
+1258291200/1820684948
+1468006400/1820684948
+1677721600/1820684948
