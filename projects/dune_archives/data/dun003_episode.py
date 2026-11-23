@@ -26,15 +26,16 @@ META = {
     "hooks": "H3 (cold open), H4 (re-hook ~25%), H5 (archive card)",
     "images": "150 unique stills · ~177 still-based shots + 3 map scenes ≈ 180 on-screen shots · 15 batches × 10",
     "publish_target": "12–15 Dec 2026 (Dune: Part Three opens 18 Dec 2026)",
-    "status": "DRAFT v0.1 → FACT-CHECK → DIRECTOR REVIEW → LOCKED",
+    "status": "DIRECTOR APPROVED 2026-11-23 (text locked) — [VERIFY] page checks still open before publish",
+    "script_version": "v1.0",
 }
 
 # Continuity anchors (from 14_continuity sheets + DUN003 addendum).
 ANCHORS = {
-    "CS-PAUL-B": "young man about seventeen with a narrow oval face, high forehead, straight pronounced nose bridge, light freckles across the nose, thick low dark brows, short wavy black-brown hair, small pale scar above left eyebrow, wiry build, sun-tanned skin, blue-in-blue eyes",
-    "CS-PAUL-C": "man about thirty with a narrow oval face, high forehead, straight pronounced nose bridge, light freckles across the nose, thick low dark brows, short wavy black-brown hair, small pale scar above left eyebrow, close-trimmed dark beard, wiry build, entirely blue eyes with blue whites",
-    "CS-PAUL-D": "man about thirty with a narrow oval face, high forehead, straight pronounced nose bridge, thick low dark brows, short wavy black-brown hair, close-trimmed dark beard, eyes covered by dark smoked-glass lenses, faint healed burn scarring at the temples, calm composed expression",
-    "CS-PAUL-E": "gaunt blind man in his late thirties with long matted black-brown hair and beard, narrow oval face, straight pronounced nose bridge, eyes covered by a strip of dark cloth, rough sun-bleached desert robe",
+    "CS-PAUL-B": "young man about seventeen with a broad angular face, heavy straight dark brows, deep-set narrow eyes, prominent aquiline nose with a slight bump, wide thin-lipped mouth, strong square jaw, close-cropped dark brown hair shaved short at the sides, sun-darkened olive skin, pale scar cutting through the left eyebrow, lean wiry build",
+    "CS-PAUL-C": "man about thirty with a broad angular face, heavy straight brow ridge, deep-set narrow eyes entirely blue including the whites, prominent aquiline nose with a slight bump from an old break, wide thin-lipped mouth, strong square jaw under a short dense dark beard, close-cropped dark brown hair shaved short at the sides, early grey streaks at the temples, weathered sun-darkened olive skin, pale scar cutting through the left eyebrow, lean wiry build",
+    "CS-PAUL-D": "man about thirty with a broad angular face, heavy straight brow ridge, prominent aquiline nose with a slight bump, wide thin-lipped mouth, strong square jaw under a short dense dark beard, close-cropped dark brown hair with early grey at the temples, weathered olive skin, eyes covered by dark smoked-glass lenses, faint healed burn scarring at the temples, calm composed expression",
+    "CS-PAUL-E": "gaunt blind man in his late thirties with a broad angular face, prominent aquiline nose with a slight bump, long matted dark brown hair streaked with grey, ragged beard, eyes covered by a strip of dark cloth, rough sun-bleached desert robe",
     "CS-CHANI-B": "slight Fremen woman, elfin face with sharp cheekbones and narrow chin, dark red hair in a braid threaded with small metal water rings, small notch scar on upper right ear, entirely blue eyes with blue whites, sun-darkened skin",
     "CS-IRULAN": "tall regal woman, pale-gold hair, cool grey eyes, long neck, faint ink stains on right fingertips, gold and scarlet court gown with a lion clasp",
     "CS-ALIA-A": "small girl about two years old with bronze-auburn hair, wide-set intense eyes entirely blue, unnervingly adult expression",

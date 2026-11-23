@@ -13,3 +13,8 @@
 - **"Desert city/citadel" drifts toward Earth history** (Roman, medieval). Pass an approved establishing still as a reference image for every later location shot.
 - **Generic "hawk" emblems come out as real-world heraldic eagles.** Specify a stylised hawk in profile and avoid heraldic eagle forms.
 - **Throughput:** at most 10 image generations per turn, which works out to one batch, or its fixes, per turn.
+
+## 2026-11-23: Paul redesign and storage lesson
+- **The director confirmed a likeness problem in scene 002** (the bearded emperor). The cause was the v1 anchor text itself: narrow oval face, wavy dark hair, wiry. Character anchors must be built from *distinctive* features (bone structure, nose, hairline, scars), never from soft, generic "handsome young man" traits. Paul was redesigned (CS-PAUL v1.2) and the director chose the new face from 2 options.
+- **Generated images vanish between turns** (git-ignored workspace files are not kept). Upload to Drive in the same turn, and commit about 300 KB JPEG anchor references to `19_batches/<EP>/refs/` so face and location continuity survives across turns.
+- A Batch 001 rerun took 7 image generations. Fixes eat into the 10-per-turn limit, so batches with many faces should be budgeted at about 7 new images plus 3 spare for fixes.

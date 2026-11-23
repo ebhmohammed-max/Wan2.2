@@ -174,7 +174,7 @@ def main(ep_mod):
     (bdir / f"{EP}_BATCH_INDEX.md").write_text("\n".join(idx_lines) + "\n", "utf-8")
 
     # ---------- script ----------
-    out = [f"# {EP} — {M['title']} — SCRIPT v0.1", "",
+    out = [f"# {EP} — {M['title']} — SCRIPT {M.get('script_version', 'v0.1')}", "",
            "| Field | Value |", "|---|---|",
            f"| Topic ID / tier | {EP} · {M['tier']} |",
            f"| Target runtime | {total // 60}:{total % 60:02d} (≈ {M['wpm']} wpm → budget {total // 60 * M['wpm']} words; "
@@ -215,8 +215,9 @@ def main(ep_mod):
     for i, (c, lab, src) in enumerate(FACTS, 1):
         out.append(f"| {i} | {c} | {L[lab]} | {src} | VERIFY |")
     out += ["", "### Change log", "| Version | Date | Change | By |", "|---|---|---|---|",
-            "| v0.1 | 2026-11-23 | First draft from approved topic, runtime and image budget | THE DUNE ARCHIVES agent |"]
-    sp = ROOT / f"17_scripts/{EP}_SCRIPT_v0.1.md"
+            "| v0.1 | 2026-11-23 | First draft from approved topic, runtime and image budget | THE DUNE ARCHIVES agent |",
+            "| v1.0 | 2026-11-23 | Approved as-is by the creative director (text locked; VERIFY page checks pending) | Creative director |"]
+    sp = ROOT / f"17_scripts/{EP}_SCRIPT_{M.get('script_version', 'v0.1')}.md"
     sp.parent.mkdir(parents=True, exist_ok=True)
     sp.write_text("\n".join(out) + "\n", "utf-8")
 

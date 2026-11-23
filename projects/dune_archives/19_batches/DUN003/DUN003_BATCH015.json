@@ -89,7 +89,7 @@
    "visual_label": "CREATIVE RECONSTRUCTION",
    "motion_recipe": "PUSH_IN",
    "onscreen_uses": 1,
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, wide 16:9 cinematic frame composed for a 2.39:1 letterbox. gaunt blind man in his late thirties with long matted black-brown hair and beard, narrow oval face, straight pronounced nose bridge, eyes covered by a strip of dark cloth, rough sun-bleached desert robe, led by a young guide, emerging from a dust haze. Lighting: hard hazy light. Camera: medium shot, 50mm lens. Mood: mystery. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, wide 16:9 cinematic frame composed for a 2.39:1 letterbox. gaunt blind man in his late thirties with a broad angular face, prominent aquiline nose with a slight bump, long matted dark brown hair streaked with grey, ragged beard, eyes covered by a strip of dark cloth, rough sun-bleached desert robe, led by a young guide, emerging from a dust haze. Lighting: hard hazy light. Camera: medium shot, 50mm lens. Mood: mystery. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood",
    "generator": null,
    "seed": null,

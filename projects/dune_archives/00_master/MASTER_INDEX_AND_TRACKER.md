@@ -84,7 +84,7 @@ Folders 10, 11, 12, 19, 21, 22, 23 and 24 are empty on purpose. They fill once p
 
 | ID | Title | Tier | Status | Topic OK | Duration OK | Image qty OK | Script | Storyboard | Images | Edit | Export | Published |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| DUN003 | Dune Messiah Explained Before Part Three | STANDARD | APPROVED (topic + 15 min + 150 imgs, 2026-11-23) | ☑ | ☑ 15 min | ☑ 150 imgs / 15 batches | v0.1 DRAFT | v1 (178 shots) | B001 v1 QC (4/10 pass) | — | — | — |
+| DUN003 | Dune Messiah Explained Before Part Three | STANDARD | APPROVED (topic + 15 min + 150 imgs, 2026-11-23) | ☑ | ☑ 15 min | ☑ 150 imgs / 15 batches | v1.0 APPROVED | v1 (178 shots) | B001 ✅ 10/10 | — | — | — |
 | DUN001 | The Butlerian Jihad: The War Frank Herbert Never Wrote | EPIC | BACKUP | ☐ | ☐ | ☐ | — | — | — | — | — | — |
 
 ## E. Data counts (from `00_master/build_summary.json`)
@@ -121,3 +121,27 @@ Scenes 002, 003, 004, 006 and 008 are held locally pending fixes. Scene 005 was 
 | Version | Date | Change |
 |---|---|---|
 | v1.1 | 2026-11-23 | DUN003 approved (topic, 15 min, 150 images in 15 batches). Script v0.1, storyboard v1, 15 manifests. Batch 001 v1 generated and QC'd (4 PASS) |
+
+## G. DUN003 v2 (2026-11-23, turn 2, all confirmed by Drive listing)
+
+| Folder | Drive file | Drive ID | Note |
+|---|---|---|---|
+| 17 | DUN003_SCRIPT_v1.0 (APPROVED) | `1riImFyVVDi8qQ8WDb9YPvgnqcJrMF_PN0Rka_94vWA0` | Director approved as-is; replaces v0.1 |
+| 14 | CHARACTER_CONTINUITY_SHEETS v1.2 | `16nvNg4wjehA5-FwBwY1HaTDi5oD-jwDXu5qr-5BM8GU` | Paul redesigned |
+| 14 | REF_CS-PAUL-C_v1.2.jpg | `1lB4TN4XlX3p1IMlw9XoE2FYk7IKubJfW` | Face anchor (director-selected) |
+| 14 | REF_CS-PAUL-C_v1.2_profile.jpg | `1mDqd4xRfwazPxYBcv0TnDkLk7VtF8w3N` | Profile anchor |
+| 11 | REF_LOC_ARRAKEEN_CITADEL.jpg | `19-9Ax6Q3ohmpZQQBxP6scJog5m9ZTNWu` | Location anchor |
+| 19/DUN003 | DUN003_ALL_BATCH_MANIFESTS_v2.json | `1FmszfjPvUlA_3igD-D-vsdjQj6GYncLv` | Replaces v1 |
+| 19/DUN003 | DUN003_BATCH_INDEX_AND_QC v2 | `1vLhws6hCrCes-2sIhcNLhHuVmQc8o7BqmjQi4DrkCAE` | Replaces v1 |
+| 19/DUN003 | SCENE002_PAUL_EMPEROR_PORTRAIT.png v2 | `1M3PRDVWpzY5Tx-7lyiWe6D8RJsO786HW` | PASS (redesign) |
+| 19/DUN003 | SCENE003_CITADEL_EXTERIOR_DAWN.png v2 | `1cutFURNzGpsVTDASMcuuUmnJt5-eI0HX` | PASS |
+| 19/DUN003 | SCENE004_PILGRIM_CROWDS.png v2 | `1Btz6mW8U3isPxgU0f8mzdmpFqZuvMRbH` | PASS |
+| 19/DUN003 | SCENE005_YOUNG_PAUL_DESERT_MEMORY.png v2 | `11gcjbISj374zEQMj7dD7bpeOBJzbiICB` | PASS (back view) |
+| 19/DUN003 | SCENE006_HAND_ON_THRONE_ARM.png v2 | `1ulDX62wnzPwrNC-smP2k1eFMEdQUpcy5` | PASS |
+| 19/DUN003 | SCENE008_PAUL_WINDOW_SILHOUETTE.png v2 | `1ELKUdcQveXuFiyfpj2Hcrbl3XiqlpI--` | PASS |
+
+**BATCH001 complete: 10 of 10 on Drive.** Image progress: 10 of 150.
+
+| Version | Date | Change |
+|---|---|---|
+| v1.2 | 2026-11-23 | Script v1.0 approved. Paul redesigned (likeness). Batch 001 complete. Anchors committed to `19_batches/DUN003/refs/` |

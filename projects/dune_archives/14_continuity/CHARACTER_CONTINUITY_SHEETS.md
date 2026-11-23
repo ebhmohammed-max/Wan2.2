@@ -20,23 +20,26 @@
 
 ---
 
-## CS-PAUL — Paul Atreides
+## CS-PAUL — Paul Atreides (REDESIGNED v1.2, 2026-11-23)
 
-- **Canon basis (ORIGINAL):** Atreides heir; described with dark hair and his grandfather's features. Spice turns his eyes blue-in-blue on Arrakis. `[VERIFY exact physical description wording in Dune Book I]`
-- **ORIGINAL DESIGN:**
-  - Face: narrow oval, high forehead and a pronounced straight nose bridge, lightly freckled across the nose.
-  - Brows: thick, low-set dark brows.
-  - Hair: black-brown with a slight wave, cut short at the sides.
-  - Build: lean, wiry, below-average height in youth.
-- **Locked:** brow shape, nose bridge, small scar above the left eyebrow (ORIGINAL DESIGN, from training) and the freckle pattern.
+> **Why the redesign:** the v1.0 anchor ("narrow oval face, wavy dark hair, wiry") produced faces that resembled a well-known film actor in DUN003 Batch 001. The creative director flagged scene 002. Under YouTube's AI-likeness and privacy policies and right-of-publicity law, that face cannot be used. The v1.0 face is **retired**, and every image made with it is withdrawn (scenes 002, 005 and 008, v1).
+
+- **Canon basis (ORIGINAL):** Atreides heir with dark hair. Spice turns his eyes blue-in-blue on Arrakis. Small and slight in youth `[VERIFY exact physical description wording in Dune Book I]`. Canon traits are kept: dark hair, lean build, blue-in-blue eyes.
+- **ORIGINAL DESIGN v1.2:** chosen to be deliberately unlike any performer who has played the role.
+  - Face: broad and angular, with a heavy straight brow ridge and deep-set narrow eyes.
+  - Nose: prominent aquiline, with a slight bump from an old training break.
+  - Mouth and jaw: wide thin-lipped mouth, strong square jaw.
+  - Hair: dark brown, close-cropped and shaved short at the sides, never wavy or curly.
+  - Skin: weathered, sun-darkened olive.
+  - Build: lean and wiry.
+- **Locked:** brow ridge, aquiline nose with the bump, square jaw, close-cropped hair, a pale scar cutting through the left eyebrow, and early grey at the temples from the Emperor era onward.
 - **Variants:**
-  - `CS-PAUL-A`, Caladan, age 15: grey-green eyes, Atreides house tunic.
-  - `CS-PAUL-B`, Fremen Usul, 16–17: tanned skin, blue-tinged eyes, stillsuit, hair bound.
-  - `CS-PAUL-C`, Emperor, ~27 (Messiah): blue-in-blue eyes, close beard, black imperial robe with a muted hawk motif.
-  - `CS-PAUL-D`, blind Emperor: scarred, burned eye sockets with prosthetic-free dark lenses (ORIGINAL DESIGN). Render tastefully, never graphic.
-  - `CS-PAUL-E`, the Preacher: gaunt and long-haired, rough desert robe, led by a guide.
-- **Prompt anchor:** "young man with a narrow oval face, high forehead, straight pronounced nose bridge, light freckles across the nose, thick low dark brows, short wavy black-brown hair, small pale scar above left eyebrow, wiry build"
-- **Avoid:** any resemblance to a known performer; overly glamorous styling; modern haircuts.
+  - `CS-PAUL-B`, about 17 (Fremen / young emperor): beardless; **back or distant views only in DUN003** (director decision 2026-11-23).
+  - `CS-PAUL-C`, Emperor, about 30 (Messiah): short dense dark beard, blue-in-blue eyes (whites blue too), grey streaks at the temples, black imperial robe with a muted red hawk.
+  - `CS-PAUL-D`, blind Emperor: dark smoked-glass lenses, faint healed burn scarring at the temples. Never graphic.
+  - `CS-PAUL-E`, the Preacher: gaunt, long matted greying hair, cloth over the eyes.
+- **Prompt anchor (C):** "man about thirty with a broad angular face, heavy straight brow ridge, deep-set narrow eyes entirely blue including the whites, prominent aquiline nose with a slight bump from an old break, wide thin-lipped mouth, strong square jaw under a short dense dark beard, close-cropped dark brown hair shaved short at the sides, early grey streaks at the temples, weathered sun-darkened olive skin, pale scar cutting through the left eyebrow, lean wiry build"
+- **Avoid:** narrow oval or delicate face, wavy or curly fringe, boyish glamour, any resemblance to a known performer. **Every Paul face is checked for likeness before it is uploaded.**
 
 ## CS-JESSICA — Lady Jessica
 
