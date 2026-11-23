@@ -475,6 +475,22 @@ S131–S138 are staged in `pending_upload/` (committed). Index/QC v17 Doc: `1IBl
 
 **Image progress: 138 of 150 generated, all 138 PASS. Batches 001–013 are complete.** Batch 014 is at 8/10. 12 images remain (S139–S150).
 
+
+## W. DUN003 turn 18 (2026-11-23)
+
+| File | Drive ID | QC |
+|---|---|---|
+| B014 SCENE131_DUNE_SUNSET_ABSENCE.png | `1a7Z5AdJRp66yH64m3rW7Kupr3NfOaxuB` | PASS |
+| B014 SCENE132_ARCHIVE_TWO_SCROLLS.png | `1kxuTvf12niACtjquGAGFh6y5XKfjBMm0` | PASS |
+| B014 SCENE133_CHANI_AT_PAULS_SIDE.png | `1dWZmvn4Ute3SJITbRIjd1TnKWEFze7zW` | PASS |
+| B014 SCENE134_LONE_RIDER_BACK.png | `1v8SEynTPIn-r1AYVqjilD-Jx5BCCIKt6` | PASS |
+| B014 SCENE135_ALIA_TODDLER.png | `1gqz90t5aG8U_P4CSomjlQRJlAegyvOHo` | PASS |
+| B014 SCENE136_TIMELINE_STRATA.png | `1B3FQmD4QwhXj5VlVtrX8hdBS_-6Mtz8r` | PASS |
+
+New this turn (Drive upload pending): S139–S146 and S148 PASS (S145 awaiting director review); S147 FIX. Still waiting from turn 17: S137, S138. Index v18 is not on Drive.
+
+**Image progress: 148 of 150 generated. 147 PASS, 1 FIX.** Batches 001–014 are complete. 11 images are waiting for Drive.
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
@@ -490,3 +506,4 @@ S131–S138 are staged in `pending_upload/` (committed). Index/QC v17 Doc: `1IBl
 | v2.5 | 2026-11-23 | S102 eye fix. Batch 012: 7 more PASS (118 total), S119 FIX, S116 failed |
 | v2.6 | 2026-11-23 | Batch 012 complete (S116 retry, S119 v2). Batch 013: 8 PASS. 128/150. 3 Drive uploads pending |
 | v2.7 | 2026-11-23 | Batch 013 complete. Batch 014: 8 PASS. 138/150. 8 Drive uploads pending |
+| v2.8 | 2026-11-23 | Batch 014 complete. Batch 015: 7 PASS, S147 FIX. 147/150 PASS. 11 Drive uploads pending. S145 Preacher awaiting director review |

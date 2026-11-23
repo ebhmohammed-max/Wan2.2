@@ -110,3 +110,9 @@
 - "Small clay dish lamps" reads as Indian diyas. Next time try "squat lidded stone oil cups" or glowglobes instead.
 - "Plain matte grey stillsuit" still drifts toward segmented film armour in back views (S134). Add "smooth one-piece suit, no armour plates, no segments".
 - "About two years old" plus an adult reference renders a 4–5-year-old (S135). Write "toddler, chubby baby cheeks, very small" if a true 2-year-old is needed.
+
+## 2026-11-23: turn 18
+- **"Distant ancient ruins" gives Palmyra-style Roman arches and columns** (S147). Always add the no-arches, no-columns clause, even in pure landscape shots.
+- A blindfolded, hooded, bearded blind prophet reads strongly as Christ-like (S145). If the director wants less of that: shorter beard, sand-goggle scars, Fremen-style head-cloth instead of a hood.
+- "Child's hand" in macro can render as an adolescent hand (S148). Add "small chubby child's hand, short fingers".
+- Blue-in-blue eyes held first time again on a close portrait (S146).

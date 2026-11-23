@@ -344,3 +344,22 @@ S126–S128 uploaded to Drive at the start of the turn. Used all 10 generations;
 | SCENE138 | PASS (Drive pending) | Hayt near-profile, steel eye glint |
 
 Uploads this reply: S126, S127, S128, S129, S130, and this index (v17) = 6. S131–S138 are committed in `pending_upload/`.
+
+## QC log: turn 18 (2026-11-23)
+
+Used all 10 generations; all 10 succeeded. **Batch 014 complete. 147 of 150 PASS, 1 FIX (S147), 2 not yet generated (S149, S150).**
+
+| Scene | QC | Note |
+|---|---|---|
+| SCENE139 | PASS | Shattered mirror with many faces |
+| SCENE140 | PASS | Forking dune ridges under a storm |
+| SCENE141 | PASS | Frozen cheering crowd; biblical read |
+| SCENE142 | PASS | 1960s writer's desk, coastal dunes outside, no person |
+| SCENE143 | PASS | Followers marching behind a hawk banner into a storm. Excellent |
+| SCENE144 | PASS | Cracked colossal hooded statue |
+| SCENE145 | PASS, **director review** | First Preacher render, blindfolded and dust-obscured; no approved ref |
+| SCENE146 | PASS | Leto at about nine, blue-in-blue eyes confirmed |
+| SCENE147 | **FIX** | Ruins rendered as Roman arches and columns. Remake |
+| SCENE148 | PASS | Sandtrout membrane over a hand; hand reads adolescent |
+
+Uploads this reply: S131–S136 = 6. **11 PASS images are waiting for Drive** (S137–S146, S148), staged in `pending_upload/`. Index v18 is not on Drive (the 6 slots went to images).
