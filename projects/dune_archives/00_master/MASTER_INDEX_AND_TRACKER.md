@@ -373,6 +373,27 @@ QC log v12 (Google Doc) `1JiJYGVnv3v1TwmUxZjO_wbiN8i3ctykDNG1vuosAEAE` uploaded.
 
 **Image progress: 93 of 150 generated. 90 PASS, 2 FIX, 1 pending approval.** Batches 001–009 generated in full (008 has 1 FIX). Batch 010 is at 3/10.
 
+
+## R. DUN003 turn 13 (2026-11-23)
+
+| File | Drive ID | QC |
+|---|---|---|
+| REF_CS-PAUL-D_v1.jpg (folder 14) | `1xAjoZwPRbLmRyD3vuEKpFrJpt1ICjWDh` | APPROVED anchor |
+| B008 SCENE079_SOFT_FREMEN_CITY_v3.png | `1hk2l1_JpIfyHDpQorDragHCwesrqlwSJ` | PASS |
+| B010 SCENE092_STONE_BURNER_FLASH_v2.png | `1xzfJNXx55lDMVawJm3ZSSZAVJG3mlpJu` | PASS |
+| B010 SCENE093_AFTERMATH_STREET.png | `12cGJZU3bM4RpvQhZjWVDPGfAo3TNZhqm` | PASS |
+| B010 SCENE094_PAUL_STANDING_ASH.png | `1QoYk8bSGNtkU5ihTBLx0H5PX3qk-flyN` | PASS |
+| B010 SCENE095_MELTED_STONE.png | `1ot7rtcaaCxRz5jOL_cTine2HYbl_QAIs` | PASS |
+| B010 SCENE096_FREMEN_LAW_DESERT.png | `17d8mKADiy9DhUSE3VspE2aoVpYN_giX2` | PASS |
+| B010 SCENE098_PAUL_WALKS_COURT.png | `1SH_ms-F9cjygdD6FFZkBUDkiKkqUzF9w` | PASS (Matrix-read flag) |
+| B010 SCENE099_BLINDED_SOLDIERS.png | `1H8a3y3XiGSQqzQEtV7U8ls7zRu91D2Yx` | PASS |
+| B010 SCENE100_TLEILAXU_EYES_TRAY.png | `1xvCoEUHAUTh6JsejSbkeTOoF0nV9FKTV` | PASS |
+| B011 SCENE101_VISION_OVERLAY_ROOM.png | `1ohXniKCUgUfOfTd2RS_JBPkh4DIEoz22` | PASS |
+
+On Drive, the QC log is v12 and the combined batch file is v11; this turn's versions are in git.
+
+**Image progress: 101 of 150 generated, all 101 PASS. Batches 001–010 are complete.** Batch 011 is at 1/10. 49 images remain (Batches 011–015).
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
@@ -383,3 +404,4 @@ QC log v12 (Google Doc) `1JiJYGVnv3v1TwmUxZjO_wbiN8i3ctykDNG1vuosAEAE` uploaded.
 | v2.0 | 2026-11-23 | Duncan-A approved. S064/S069 eye fixes. Batch 007 fully generated. Batch 008 at 8/10. Duncan-B eye design pending |
 | v2.1 | 2026-11-23 | Duncan-B approved. Batch 007 10/10 PASS. Batch 008 fully generated. Batch 009 at 6/10. Korba/Lichna/Otheym/Bijaz faces pending |
 | v2.2 | 2026-11-23 | Korba/Lichna/Otheym/Bijaz approved. Batch 009 10/10 PASS. Batch 010 started. Paul-D (blind) look pending |
+| v2.3 | 2026-11-23 | Paul-D approved. Batches 008 and 010 complete. 101/101 PASS. Batch 011 started |

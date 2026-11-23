@@ -80,3 +80,9 @@
 - **Fixing the S079 look** (short hair, head-cloths, desert-cut robes) **dropped the blue eyes entirely.** Every blue-eyed group shot needs a planned eye edit.
 - **"Silhouetted towers" in a city-wide shot drifted to modern glass skyscrapers** (S092). Use "blank windowless monolithic stone towers, no glass, no windows".
 - **Reference chaining continues to hold faces well:** Lichna in S081 and Bijaz in S088 both matched their refs first time.
+
+## 2026-11-23: turn 13
+- **"Blank windowless monolithic stone towers, no glass" plus "deep night, black starry sky"** fixed the skyscraper/daytime drift in S092 in one try.
+- **Black imperial robe + round dark lenses can read as Neo from The Matrix** (S098), especially when the robe renders as a long fitted coat. For Paul-D wide shots use "loose layered black desert robe with hood down, wide sleeves, not a coat".
+- **"Grey stillsuits" sometimes reproduces the ribbed 2021/2024 film costume** (S099). Consider "plain matte grey stillsuit with simple seams, original design".
+- **"Tribe members walking away" at small scale picks up modern backpacks.** Add "no backpacks, no modern gear".

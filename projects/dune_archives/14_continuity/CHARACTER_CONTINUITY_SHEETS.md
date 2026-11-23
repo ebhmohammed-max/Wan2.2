@@ -249,3 +249,7 @@ Still awaiting approval when first generated: CS-EDRIC, CS-KORBA, CS-LICHNA, CS-
   - CS-OTHEYM v1 (eye-edited ref)
   - CS-BIJAZ v1 (realistic look kept)
 - **CS-PAUL-D (blind Paul) v1: PENDING (lens design only).** Reference: `anchors/REF_CS-PAUL-D_v1_PENDING.jpg` (S097 v2). Approved Paul-C face with frameless round near-black lenses on a thin band, pale burn scars at both temples, black high-collared imperial robe. Avoid modern wire-frame sunglasses.
+
+## v1.9 addendum (2026-11-23)
+- **CS-PAUL-D v1: APPROVED.** Reference: `anchors/REF_CS-PAUL-D_v1.jpg` (Drive folder 14). To avoid a Matrix read, dress him in a loose layered black desert robe, not a fitted long coat.
+- **Every continuity character used so far now has an approved ref.**
