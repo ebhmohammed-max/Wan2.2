@@ -2,7 +2,7 @@
  "episode": "DUN003",
  "batch": "BATCH002",
  "max_batch_size": 10,
- "status": "GENERATED v1 — QC: 6 PASS / 3 FIX / 1 HOLD (all 10 on Drive)",
+ "status": "COMPLETE: 10/10 PASS, all on Drive",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop",
  "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
  "images": [
@@ -41,10 +41,10 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
    "generator": "arena generate_image",
    "seed": null,
-   "drive_file_id": "1m7HmHKhwfnn_CrJUympSJonEjxa6A3Jb",
-   "qc": "FIX",
-   "qc_note": "Roman columns + Roman-style courtiers (Earth drift). Face = CS-SHADDAM draft, director approval pending. Regen with arch guard + face anchor ref",
-   "version": "v1"
+   "drive_file_id": "1YNZAPQRJnaC1GMF1O92OeMCH0SEd-aDk",
+   "qc": "PASS",
+   "qc_note": "PASS v2: edited setting to monolithic stone; face approved (CS-SHADDAM v1)",
+   "version": "v2"
   },
   {
    "scene_id": "DUN003_SCENE013",
@@ -101,10 +101,10 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
    "generator": "arena generate_image",
    "seed": null,
-   "drive_file_id": "1rshr15WQnUItNtCH_ISMy_kbalHkzt7D",
-   "qc": "FIX",
-   "qc_note": "Gothic cathedral / rose window (Earth drift). Composition (far, from behind) is right; regen with arch guard",
-   "version": "v1"
+   "drive_file_id": "1oOWwNWbuE5wWh655zcpJiyE1vhT0pKS0",
+   "qc": "PASS",
+   "qc_note": "PASS v2: monolithic hall, slit windows, distant back view",
+   "version": "v2"
   },
   {
    "scene_id": "DUN003_SCENE016",
@@ -121,10 +121,10 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
    "generator": "arena generate_image",
    "seed": null,
-   "drive_file_id": "10ZrlfRh7Ch8-RKAtHPlzFwYbxMY9VG2c",
-   "qc": "HOLD",
-   "qc_note": "Face original (no match found by eye), but styling (blonde braided crown + crimson/gold + lion pendant) echoes a famous TV queen. Director decision",
-   "version": "v1"
+   "drive_file_id": "1Nb-qNgJ6qRHyH4ROQZhELbPzQp2nMS_j",
+   "qc": "PASS",
+   "qc_note": "PASS v2: restyled per director (veil, ivory/pale gold, lion shoulder clasp); face kept (CS-IRULAN v2). Minor: blurred round niches in background",
+   "version": "v2"
   },
   {
    "scene_id": "DUN003_SCENE017",
@@ -141,10 +141,10 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
    "generator": "arena generate_image",
    "seed": null,
-   "drive_file_id": "1LrNy7U0bhuyCxAjxiRWaQvE3OQ189JsZ",
-   "qc": "FIX",
-   "qc_note": "'elfin' produced pointed elf ears. Face = CS-CHANI-B draft (freckles, jaw scar, blue-in-blue OK). Fix ears via edit of anchors/REF_CS-CHANI-B_v1_draft.jpg",
-   "version": "v1"
+   "drive_file_id": "1XdakYRmtJKyF79GocikVOvYyfwElyT-_",
+   "qc": "PASS",
+   "qc_note": "PASS v2: human ear, full blue-in-blue; face approved (CS-CHANI-B v1)",
+   "version": "v2"
   },
   {
    "scene_id": "DUN003_SCENE018",

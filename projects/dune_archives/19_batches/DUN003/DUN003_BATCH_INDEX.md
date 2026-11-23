@@ -5,8 +5,8 @@ Approved: **150 unique stills · ~177 still-based shots + 3 map scenes ≈ 180 o
 | Batch | Scenes | Chapters | Status |
 |---|---|---|---|
 | BATCH001 | 001–010 | 00, 01 | **COMPLETE v2: 10/10 PASS, on Drive** |
-| BATCH002 | 011–020 | 02 | v1 generated · 6 PASS / 3 FIX / 1 HOLD · all on Drive |
-| BATCH003 | 021–030 | 02, 03 | PENDING |
+| BATCH002 | 011–020 | 02 | **COMPLETE: 10/10 PASS, on Drive** |
+| BATCH003 | 021–030 | 02, 03 | In progress: 6/10 PASS (021–026); 027–030 next |
 | BATCH004 | 031–040 | 03 | PENDING |
 | BATCH005 | 041–050 | 03, 04 | PENDING |
 | BATCH006 | 051–060 | 04 | PENDING |
@@ -78,3 +78,22 @@ Approved: **150 unique stills · ~177 still-based shots + 3 map scenes ≈ 180 o
 - **Builder guards added.** `ARCH_GUARD` adds austere monolithic stone with no columns or arches to any interior or architecture shot. `CRAFT_GUARD` adds "no rotors" to any aircraft shot. The negative list was extended.
 - **Letterbox phrase replaced** with "full-bleed 16:9, no black bars". All 10 frames came out bar-free.
 - Draft face anchors are saved in `anchors/` as `*_v1_draft.jpg` until the director approves them.
+
+## QC log: turn 4 (2026-11-23)
+
+| Scene | QC | Note |
+|---|---|---|
+| SCENE012 | PASS v2 | PASS v2: edited setting to monolithic stone; face approved (CS-SHADDAM v1) |
+| SCENE015 | PASS v2 | PASS v2: monolithic hall, slit windows, distant back view |
+| SCENE016 | PASS v2 | PASS v2: restyled per director (veil, ivory/pale gold, lion shoulder clasp); face kept (CS-IRULAN v2). Minor: blurred round niches in background |
+| SCENE017 | PASS v2 | PASS v2: human ear, full blue-in-blue; face approved (CS-CHANI-B v1) |
+| SCENE021 | PASS | Back view only (director rule) |
+| SCENE022 | PASS | — |
+| SCENE023 | PASS | — |
+| SCENE024 | PASS | Back view only (director rule); throne matches SCENE002 basalt |
+| SCENE025 | PASS | — |
+| SCENE026 | PASS | — |
+
+- **Director "go" recorded as:** Irulan restyle approved; Shaddam and Chani faces approved.
+- **Rule enforcement:** the CS-PAUL-B anchor is now back-view only, and SCENE021 changed from CU to MS from behind. Before this fix, the director's young-Paul rule hadn't been applied to Batch 003 prompts. It was caught before generation.
+- **Editing preserves faces:** face-preserving edits (012, 016, 017) kept the approved faces while fixing the setting, costume or ears. Prefer editing over regenerating once a face is approved.

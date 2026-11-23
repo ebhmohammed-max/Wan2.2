@@ -25,3 +25,8 @@
 - **Costume-plus-colour combinations can evoke famous characters even when the face is original.** Here, blonde braided crown + crimson/gold + lion = a well-known TV queen. Likeness QC now checks the *styling* as well as the face.
 - **The "no black bars" wording works**: 10/10 frames are full-bleed.
 - Prompting 10 new shots per turn leaves no spare for fixes. Fix-heavy batches will roll their fixes into the start of the next turn.
+
+## 2026-11-23: turn 4
+- **Face-preserving edits work.** Passing the image and saying "keep the face exactly, change only X" fixed the setting (Shaddam), styling (Irulan) and ears plus sclera (Chani) without losing approved faces. This is the preferred fix route.
+- **Director rules must be written into the anchor itself.** A per-shot reminder isn't enough. The young-Paul back-view rule had been applied by hand in Batch 001 but not in the data, so Batch 003 contained a young-Paul close-up. It was caught before generation, and CS-PAUL-B is now a back-view-only anchor.
+- **Explicit "slit windows" plus "no arches" gives a clean brutalist hall.** Round niches can still creep into blurred backgrounds; acceptable when out of focus.

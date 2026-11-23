@@ -9,7 +9,7 @@
 | Approved hooks | H3 (cold open), H4 (re-hook ~25%), H5 (archive card) |
 | Image budget (approved) | 150 unique stills · ~177 still-based shots + 3 map scenes ≈ 180 on-screen shots · 15 batches × 10 |
 | Publish target | 12–15 Dec 2026 (Dune: Part Three opens 18 Dec 2026) |
-| Status | DIRECTOR APPROVED 2026-11-23 (text locked) — [VERIFY] page checks still open before publish |
+| Status | DIRECTOR APPROVED 2026-11-23 (text locked; faces approved: PAUL v1.2, SHADDAM v1, IRULAN v2, CHANI-B v1) — [VERIFY] page checks still open before publish |
 
 **Quote policy:** this draft contains NO direct quotations from the novels or from Frank Herbert. Everything is paraphrase. `[VERIFY]` items need a page check against a physical edition before LOCK.
 

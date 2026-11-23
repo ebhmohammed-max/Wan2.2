@@ -204,3 +204,16 @@ These anchors were rewritten *before* their first generation, after the Paul les
 | CS-CHANI-B | Slight build, dark red hair, blue-in-blue eyes, Fremen [ORIGINAL] | Fine-boned angular face, high flat cheekbones, wide-set eyes, freckle band across the nose, thin lips, pointed chin, straight auburn braid with water rings, notch scar on the right ear, pale scar along the jaw, **ordinary rounded human ears** | `anchors/REF_CS-CHANI-B_v1_draft.jpg` (has elf ears; fix by editing) |
 
 Rule: never use the word "elfin" in prompts. Image models render it as literal elf ears.
+
+## v1.4 ADDENDUM (2026-11-23): director approvals
+
+| ID | Status | Approved reference (committed) | Notes |
+|---|---|---|---|
+| CS-PAUL-C/D (v1.2) | **APPROVED** | `anchors/REF_CS-PAUL-C_v1.2.jpg`, `_profile.jpg` | Redesign after the actor-likeness issue |
+| CS-PAUL-B | **BACK VIEW ONLY** | none (no face is ever shown) | Director rule: young Paul only from behind or at a distance in DUN003. The anchor text now enforces it |
+| CS-SHADDAM | **APPROVED v1** | `anchors/REF_CS-SHADDAM_v1.jpg` | Heavy-set, jowly, red-grey beard |
+| CS-IRULAN | **APPROVED v2 (restyled)** | `anchors/REF_CS-IRULAN_v2.jpg` | Same face as v1. Restyled: long loose hair under a sheer veil, pale gold and ivory gown, small lion clasp on the left shoulder. **Never** a braided crown, crimson gown or lion pendant (too close to a famous TV queen's styling) |
+| CS-CHANI-B | **APPROVED v1** | `anchors/REF_CS-CHANI-B_v1.jpg` | Ordinary human ears, freckle band, jaw scar, fully blue eyes |
+
+Still awaiting approval when first generated: CS-EDRIC, CS-KORBA, CS-LICHNA, CS-OTHEYM, CS-BIJAZ, CS-PAUL-E, plus any new faces.
+**Workflow:** once a face is approved, pass its anchor JPEG as a reference in every later shot of that character, and prefer face-preserving edits for fixes.

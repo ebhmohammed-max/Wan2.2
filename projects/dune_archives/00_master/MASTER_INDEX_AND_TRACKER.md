@@ -84,7 +84,7 @@ Folders 10, 11, 12, 19, 21, 22, 23 and 24 are empty on purpose. They fill once p
 
 | ID | Title | Tier | Status | Topic OK | Duration OK | Image qty OK | Script | Storyboard | Images | Edit | Export | Published |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| DUN003 | Dune Messiah Explained Before Part Three | STANDARD | APPROVED (topic + 15 min + 150 imgs, 2026-11-23) | ☑ | ☑ 15 min | ☑ 150 imgs / 15 batches | v1.0 APPROVED | v1 (178 shots) | B001 ✅ 10/10 · B002 6 PASS / 3 FIX / 1 HOLD | — | — | — |
+| DUN003 | Dune Messiah Explained Before Part Three | STANDARD | APPROVED (topic + 15 min + 150 imgs, 2026-11-23) | ☑ | ☑ 15 min | ☑ 150 imgs / 15 batches | v1.0 APPROVED | v1 (178 shots) | B001 ✅ · B002 ✅ · B003 6/10 | — | — | — |
 | DUN001 | The Butlerian Jihad: The War Frank Herbert Never Wrote | EPIC | BACKUP | ☐ | ☐ | ☐ | — | — | — | — | — | — |
 
 ## E. Data counts (from `00_master/build_summary.json`)
@@ -172,3 +172,31 @@ Image progress: 16 of 150 final PASS, plus 4 pending.
 | Version | Date | Change |
 |---|---|---|
 | v1.3 | 2026-11-23 | Batch 002 v1. Likeness-hardened anchors. ARCH and CRAFT prompt guards. "No black bars" style phrase |
+
+## I. DUN003 turn 4 (2026-11-23, all 17 confirmed by Drive listing)
+
+| Folder | Drive file | Drive ID | Note |
+|---|---|---|---|
+| 19/DUN003 | B002 SCENE012_SHADDAM_DEFEATED.png v2 | `1YNZAPQRJnaC1GMF1O92OeMCH0SEd-aDk` | PASS |
+| 19/DUN003 | B002 SCENE015_WEDDING_IRULAN.png v2 | `1oOWwNWbuE5wWh655zcpJiyE1vhT0pKS0` | PASS |
+| 19/DUN003 | B002 SCENE016_IRULAN_PORTRAIT.png v2 | `1Nb-qNgJ6qRHyH4ROQZhELbPzQp2nMS_j` | PASS (restyled) |
+| 19/DUN003 | B002 SCENE017_CHANI_PORTRAIT.png v2 | `1XdakYRmtJKyF79GocikVOvYyfwElyT-_` | PASS |
+| 19/DUN003 | B003 SCENE021_YOUNG_EMPEROR_GAZE.png | `1znMds7UdPoIAsDNWgdXhiJwaLGspml81` | PASS |
+| 19/DUN003 | B003 SCENE022_BURNING_CITY_DISTANT.png | `1H5ulRsyV7_ZbpyVFV_vnIFk3D2Ah0U9l` | PASS |
+| 19/DUN003 | B003 SCENE023_TIME_PASSAGE_DUNES.png | `1-vKmOX-4SG_KTu9CdSpEgN3wDzve3IiP` | PASS |
+| 19/DUN003 | B003 SCENE024_PAUL_ASCENDS_THRONE.png | `1ncESS7iadxpp_EolVxZtqy3zLy5iAvzj` | PASS |
+| 19/DUN003 | B003 SCENE025_SIETCH_TABR_INTERIOR.png | `1DevNUqcZ7XMZbZm24njfTY-AR6e0Rdkr` | PASS |
+| 19/DUN003 | B003 SCENE026_LION_THRONE_ABANDONED.png | `1eJ7aDNK_bLHqJV-nbA7hOXNYHC8FmmMS` | PASS |
+| 19/DUN003 | DUN003_BATCH_INDEX_AND_QC v4 | `1MkD4nUQf1fKQk5RkZ5J20WsCxs710la7DJRxB16RCh0` | supersedes v3 |
+| 19/DUN003 | DUN003_ALL_BATCH_MANIFESTS_v4.json | `1csqajoJiR1OUVv7fGHb4ltEW49mhmMW8` | supersedes v3 |
+| 18 | DUN003_STORYBOARD v2 (Sheet) | `1CIEszMmArahT64RcjJwLpsXowMF5lOwdi0F7hHDGz0c` | supersedes v1 |
+| 14 | CHARACTER_CONTINUITY_SHEETS v1.4 | `1DxZTPkaqRtc-xFMU1WLKm4VbL9ZaRrJ5jvJZuJ59smM` | approvals |
+| 14 | REF_CS-SHADDAM_v1.jpg | `1RUM0z0YLkj1WaNtLxWhmmuUeWDYb7aAC` | APPROVED |
+| 14 | REF_CS-IRULAN_v2.jpg | `1huCIL59QN6mMBCOItjxBNOQtw1A9V0aE` | APPROVED |
+| 14 | REF_CS-CHANI-B_v1.jpg | `1F2hPHXIMAApk2Y8WFwlDYY_AxF7ykGO3` | APPROVED |
+
+**Image progress: 26 of 150 PASS** (Batches 001 and 002 complete; Batch 003 at 6/10).
+
+| Version | Date | Change |
+|---|---|---|
+| v1.4 | 2026-11-23 | Faces approved (Shaddam, Irulan v2, Chani). CS-PAUL-B is back-view only. Batch 002 complete |

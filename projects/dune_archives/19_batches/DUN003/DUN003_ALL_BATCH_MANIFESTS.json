@@ -213,7 +213,7 @@
   "episode": "DUN003",
   "batch": "BATCH002",
   "max_batch_size": 10,
-  "status": "GENERATED v1 — QC: 6 PASS / 3 FIX / 1 HOLD (all 10 on Drive)",
+  "status": "COMPLETE: 10/10 PASS, all on Drive",
   "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop",
   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
   "images": [
@@ -252,10 +252,10 @@
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
     "generator": "arena generate_image",
     "seed": null,
-    "drive_file_id": "1m7HmHKhwfnn_CrJUympSJonEjxa6A3Jb",
-    "qc": "FIX",
-    "qc_note": "Roman columns + Roman-style courtiers (Earth drift). Face = CS-SHADDAM draft, director approval pending. Regen with arch guard + face anchor ref",
-    "version": "v1"
+    "drive_file_id": "1YNZAPQRJnaC1GMF1O92OeMCH0SEd-aDk",
+    "qc": "PASS",
+    "qc_note": "PASS v2: edited setting to monolithic stone; face approved (CS-SHADDAM v1)",
+    "version": "v2"
    },
    {
     "scene_id": "DUN003_SCENE013",
@@ -312,10 +312,10 @@
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
     "generator": "arena generate_image",
     "seed": null,
-    "drive_file_id": "1rshr15WQnUItNtCH_ISMy_kbalHkzt7D",
-    "qc": "FIX",
-    "qc_note": "Gothic cathedral / rose window (Earth drift). Composition (far, from behind) is right; regen with arch guard",
-    "version": "v1"
+    "drive_file_id": "1oOWwNWbuE5wWh655zcpJiyE1vhT0pKS0",
+    "qc": "PASS",
+    "qc_note": "PASS v2: monolithic hall, slit windows, distant back view",
+    "version": "v2"
    },
    {
     "scene_id": "DUN003_SCENE016",
@@ -332,10 +332,10 @@
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
     "generator": "arena generate_image",
     "seed": null,
-    "drive_file_id": "10ZrlfRh7Ch8-RKAtHPlzFwYbxMY9VG2c",
-    "qc": "HOLD",
-    "qc_note": "Face original (no match found by eye), but styling (blonde braided crown + crimson/gold + lion pendant) echoes a famous TV queen. Director decision",
-    "version": "v1"
+    "drive_file_id": "1Nb-qNgJ6qRHyH4ROQZhELbPzQp2nMS_j",
+    "qc": "PASS",
+    "qc_note": "PASS v2: restyled per director (veil, ivory/pale gold, lion shoulder clasp); face kept (CS-IRULAN v2). Minor: blurred round niches in background",
+    "version": "v2"
    },
    {
     "scene_id": "DUN003_SCENE017",
@@ -352,10 +352,10 @@
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
     "generator": "arena generate_image",
     "seed": null,
-    "drive_file_id": "1LrNy7U0bhuyCxAjxiRWaQvE3OQ189JsZ",
-    "qc": "FIX",
-    "qc_note": "'elfin' produced pointed elf ears. Face = CS-CHANI-B draft (freckles, jaw scar, blue-in-blue OK). Fix ears via edit of anchors/REF_CS-CHANI-B_v1_draft.jpg",
-    "version": "v1"
+    "drive_file_id": "1XdakYRmtJKyF79GocikVOvYyfwElyT-_",
+    "qc": "PASS",
+    "qc_note": "PASS v2: human ear, full blue-in-blue; face approved (CS-CHANI-B v1)",
+    "version": "v2"
    },
    {
     "scene_id": "DUN003_SCENE018",
@@ -423,7 +423,7 @@
   "episode": "DUN003",
   "batch": "BATCH003",
   "max_batch_size": 10,
-  "status": "PENDING",
+  "status": "IN PROGRESS: 6/10 PASS on Drive (021–026); 027–030 next turn",
   "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop",
   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
   "images": [
@@ -431,19 +431,21 @@
     "scene_id": "DUN003_SCENE021",
     "file": "DUN003_BATCH003_SCENE021_YOUNG_EMPEROR_GAZE.png",
     "chapter": "02",
-    "shot_type": "CU",
-    "lens": "85mm",
+    "shot_type": "MS",
+    "lens": "50mm",
     "continuity_id": "CS-PAUL-B",
     "canon_label_of_event": "ORIGINAL FRANK HERBERT CANON",
     "visual_label": "CREATIVE RECONSTRUCTION",
     "motion_recipe": "PUSH_IN",
     "onscreen_uses": 1,
-    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. young man about seventeen with a broad angular face, heavy straight dark brows, deep-set narrow eyes, prominent aquiline nose with a slight bump, wide thin-lipped mouth, strong square jaw, close-cropped dark brown hair shaved short at the sides, sun-darkened olive skin, pale scar cutting through the left eyebrow, lean wiry build, wearing a black imperial robe, staring into the middle distance, troubled. Lighting: single motivated key light. Camera: portrait close-up, shallow depth of field, 85mm lens. Mood: dread. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
+    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. slight lean young man about seventeen SEEN FROM BEHIND, face never visible (director rule: young Paul back or distant views only), close-cropped dark brown hair shaved short at the sides, narrow shoulders, wearing a black imperial robe, over-the-shoulder view from behind as he stands at a tall window staring at a darkening horizon, troubled stillness in his posture. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: single motivated key light. Camera: medium shot, 50mm lens. Mood: dread. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
-    "generator": null,
+    "generator": "arena generate_image",
     "seed": null,
-    "drive_file_id": null,
-    "qc": "PENDING"
+    "drive_file_id": "1znMds7UdPoIAsDNWgdXhiJwaLGspml81",
+    "qc": "PASS",
+    "version": "v1",
+    "qc_note": "Back view only (director rule)"
    },
    {
     "scene_id": "DUN003_SCENE022",
@@ -458,10 +460,12 @@
     "onscreen_uses": 1,
     "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a foreign city skyline burning on the night horizon, seen from a ridge where silhouetted hooded warriors stand watching. Lighting: fire glow against night. Camera: epic wide shot, low horizon, 24mm lens. Mood: grief. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
-    "generator": null,
+    "generator": "arena generate_image",
     "seed": null,
-    "drive_file_id": null,
-    "qc": "PENDING"
+    "drive_file_id": "1H5ulRsyV7_ZbpyVFV_vnIFk3D2Ah0U9l",
+    "qc": "PASS",
+    "version": "v1",
+    "qc_note": ""
    },
    {
     "scene_id": "DUN003_SCENE023",
@@ -476,10 +480,12 @@
     "onscreen_uses": 1,
     "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. sweeping dunes with long shadows, wind streaming sand from the crests, timeless. Lighting: low raking sun. Camera: epic wide shot, low horizon, 18mm lens. Mood: melancholy. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
-    "generator": null,
+    "generator": "arena generate_image",
     "seed": null,
-    "drive_file_id": null,
-    "qc": "PENDING"
+    "drive_file_id": "1-vKmOX-4SG_KTu9CdSpEgN3wDzve3IiP",
+    "qc": "PASS",
+    "version": "v1",
+    "qc_note": ""
    },
    {
     "scene_id": "DUN003_SCENE024",
@@ -492,12 +498,14 @@
     "visual_label": "CREATIVE RECONSTRUCTION",
     "motion_recipe": "PUSH_IN",
     "onscreen_uses": 1,
-    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. young man about seventeen with a broad angular face, heavy straight dark brows, deep-set narrow eyes, prominent aquiline nose with a slight bump, wide thin-lipped mouth, strong square jaw, close-cropped dark brown hair shaved short at the sides, sun-darkened olive skin, pale scar cutting through the left eyebrow, lean wiry build, wearing a black imperial robe, climbing the steps to a vast throne, courtiers kneeling on either side. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: shaft of light from above. Camera: medium shot, 50mm lens. Mood: resolve. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
+    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. slight lean young man about seventeen SEEN FROM BEHIND, face never visible (director rule: young Paul back or distant views only), close-cropped dark brown hair shaved short at the sides, narrow shoulders, wearing a black imperial robe, seen from behind and below climbing the steps to a vast throne, courtiers kneeling on either side. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: shaft of light from above. Camera: medium shot, 50mm lens. Mood: resolve. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
-    "generator": null,
+    "generator": "arena generate_image",
     "seed": null,
-    "drive_file_id": null,
-    "qc": "PENDING"
+    "drive_file_id": "1ncESS7iadxpp_EolVxZtqy3zLy5iAvzj",
+    "qc": "PASS",
+    "version": "v1",
+    "qc_note": "Back view only (director rule); throne matches SCENE002 basalt"
    },
    {
     "scene_id": "DUN003_SCENE025",
@@ -512,10 +520,12 @@
     "onscreen_uses": 1,
     "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a Fremen sietch carved into rock, woven hangings, covered water basins, families moving between chambers. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: pools of amber glowglobe light. Camera: establishing shot, 35mm lens. Mood: warmth. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
-    "generator": null,
+    "generator": "arena generate_image",
     "seed": null,
-    "drive_file_id": null,
-    "qc": "PENDING"
+    "drive_file_id": "1DevNUqcZ7XMZbZm24njfTY-AR6e0Rdkr",
+    "qc": "PASS",
+    "version": "v1",
+    "qc_note": ""
    },
    {
     "scene_id": "DUN003_SCENE026",
@@ -530,10 +540,12 @@
     "onscreen_uses": 1,
     "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. an ornate throne of gold and pale crystal carved with lions in an abandoned imperial throne room, dust sheets over furniture. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: soft cool light through tall windows. Camera: establishing shot, 35mm lens. Mood: defeat. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
-    "generator": null,
+    "generator": "arena generate_image",
     "seed": null,
-    "drive_file_id": null,
-    "qc": "PENDING"
+    "drive_file_id": "1eJ7aDNK_bLHqJV-nbA7hOXNYHC8FmmMS",
+    "qc": "PASS",
+    "version": "v1",
+    "qc_note": ""
    },
    {
     "scene_id": "DUN003_SCENE027",
@@ -1098,7 +1110,7 @@
     "visual_label": "CREATIVE RECONSTRUCTION",
     "motion_recipe": "PUSH_IN",
     "onscreen_uses": 1,
-    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. tall regal woman in her early thirties, long narrow face with a high forehead, strong straight nose, deep-set cool grey eyes under heavy lids, thin composed lips, a small dark mole on the left cheekbone, long neck, pale-gold hair worn in a tight braided crown, faint ink stains on right fingertips, gold and scarlet court gown with a lion clasp, seated at a writing desk, writing on parchment in elegant illegible script. Lighting: warm lamp light. Camera: medium shot, 50mm lens. Mood: ambition. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
+    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. tall regal woman in her early thirties, long narrow face with a high forehead, strong straight nose, deep-set cool grey eyes under heavy lids, thin composed lips, a small dark mole on the cheekbone, long neck, long loose pale-gold hair under a sheer pale veil (never a braided crown), faint ink stains on right fingertips, pale gold and ivory silk gown with fine geometric embroidery (no crimson), small golden lion-head clasp on the left shoulder, seated at a writing desk, writing on parchment in elegant illegible script. Lighting: warm lamp light. Camera: medium shot, 50mm lens. Mood: ambition. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
     "generator": null,
     "seed": null,
@@ -1116,7 +1128,7 @@
     "visual_label": "CREATIVE RECONSTRUCTION",
     "motion_recipe": "DRIFT",
     "onscreen_uses": 1,
-    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. tall regal woman in her early thirties, long narrow face with a high forehead, strong straight nose, deep-set cool grey eyes under heavy lids, thin composed lips, a small dark mole on the left cheekbone, long neck, pale-gold hair worn in a tight braided crown, faint ink stains on right fingertips, gold and scarlet court gown with a lion clasp, watching through a carved lattice screen as a red-haired Fremen woman crosses a courtyard below. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: backlight through the lattice. Camera: portrait close-up, shallow depth of field, 85mm lens. Mood: jealousy. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
+    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. tall regal woman in her early thirties, long narrow face with a high forehead, strong straight nose, deep-set cool grey eyes under heavy lids, thin composed lips, a small dark mole on the cheekbone, long neck, long loose pale-gold hair under a sheer pale veil (never a braided crown), faint ink stains on right fingertips, pale gold and ivory silk gown with fine geometric embroidery (no crimson), small golden lion-head clasp on the left shoulder, watching through a carved lattice screen as a red-haired Fremen woman crosses a courtyard below. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: backlight through the lattice. Camera: portrait close-up, shallow depth of field, 85mm lens. Mood: jealousy. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
     "generator": null,
     "seed": null,
@@ -2446,7 +2458,7 @@
     "visual_label": "CREATIVE RECONSTRUCTION",
     "motion_recipe": "DRIFT",
     "onscreen_uses": 1,
-    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. tall regal woman in her early thirties, long narrow face with a high forehead, strong straight nose, deep-set cool grey eyes under heavy lids, thin composed lips, a small dark mole on the left cheekbone, long neck, pale-gold hair worn in a tight braided crown, faint ink stains on right fingertips, gold and scarlet court gown with a lion clasp, holding an infant in a sietch nursery, softened expression. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: warm lamp light. Camera: medium shot, 50mm lens. Mood: redemption. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
+    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. tall regal woman in her early thirties, long narrow face with a high forehead, strong straight nose, deep-set cool grey eyes under heavy lids, thin composed lips, a small dark mole on the cheekbone, long neck, long loose pale-gold hair under a sheer pale veil (never a braided crown), faint ink stains on right fingertips, pale gold and ivory silk gown with fine geometric embroidery (no crimson), small golden lion-head clasp on the left shoulder, holding an infant in a sietch nursery, softened expression. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: warm lamp light. Camera: medium shot, 50mm lens. Mood: redemption. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
     "generator": null,
     "seed": null,
