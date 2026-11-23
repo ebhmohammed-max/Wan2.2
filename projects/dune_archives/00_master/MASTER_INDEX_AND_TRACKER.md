@@ -640,6 +640,10 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
   - on-screen text and archive-card overlays, plus a CREATIVE RECONSTRUCTION corner bug;
   - then a concat and a mux with the VO master.
 - **Animatic v1:** `22_edit/DUN003/DUN003_ANIMATIC_v1_720p.mp4`, 12:11, 720p, git-ignored and on Drive. It uses slates because the 150 stills are on Drive and the sandbox can't download them. The full 1080p rough cut runs locally with the same tool; see `22_edit/DUN003/README.md`.
+- **Drive:**
+  - new folders: 21_music `1R9vyS8JkWmj44ocsTFrvjm5XdjkAVNIW` and 22_edit `1q8ObdH9yFb9Ld9gVlcwRICYYOyX4N-1T`;
+  - animatic v1 `1-xSH0X7JzFHwUljf8yFdc50-spwy2HvJ`;
+  - music cue sheet Doc `1cECIHREX6n_LKJqYCBeGRHyxeXVVTqWpFaeOBeacwTw`.
 
 | Version | Date | Change |
 |---|---|---|

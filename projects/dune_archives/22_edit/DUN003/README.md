@@ -32,3 +32,8 @@
 | Version | Date | Notes |
 |---|---|---|
 | Animatic v1 | 2026-11-23 | 720p slates with VO master v2, storyboard v4 and maps A/B/C. 12:11 |
+
+## Drive
+- Folder 22_edit: `1q8ObdH9yFb9Ld9gVlcwRICYYOyX4N-1T`
+- Animatic v1: `1-xSH0X7JzFHwUljf8yFdc50-spwy2HvJ`
+- Music cue sheet Doc (folder 21_music): `1cECIHREX6n_LKJqYCBeGRHyxeXVVTqWpFaeOBeacwTw`
