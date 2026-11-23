@@ -306,3 +306,22 @@ Used all 10 generations: 9 succeeded and 1 failed (S116, Scytale holding a knife
 | SCENE120 | PASS | Fallen figure, intact cradle, no gore |
 
 Also: updated the S097 v2 Drive description to PASS (owed since turn 13).
+
+## QC log: turn 16 (2026-11-23)
+
+Used all 10 generations; **all 10 succeeded and all PASS**. **Batch 012 complete. 128 of 150 PASS.**
+
+| Scene | QC | Note |
+|---|---|---|
+| SCENE116 | PASS | Retry with the threat implied (knife low, cradle rim only). Generated on the first try |
+| SCENE119 v2 | PASS | Single-blade crysknife. v1 rejected and never uploaded |
+| SCENE121 | PASS | Paul-D leaves the sietch; robe and bowing monks read slightly Jedi-like |
+| SCENE122 | PASS | Lone figure on the dunes at dawn |
+| SCENE123 | PASS | Footprints being erased |
+| SCENE124 | PASS | Worm sign; reads partly as a sand wave |
+| SCENE125 | PASS | Alia on the throne; blue-in-blue eyes confirmed by crop |
+| SCENE126 | PASS (**Drive pending**) | Duncan and Alia at dusk |
+| SCENE127 | PASS (**Drive pending**) | Irulan with the twins |
+| SCENE128 | PASS (**Drive pending**) | Citadel at dusk with vigil crowd |
+
+Drive rate-limited after 7 uploads. S126–S128 are committed in `pending_upload/` for the next turn. This index is not yet on Drive as v16.

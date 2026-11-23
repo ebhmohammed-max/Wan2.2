@@ -98,3 +98,9 @@
 - **"Curved double-edged blade" can give a double-ENDED knife** (S119). Write "single curved blade, hilt at one end only".
 - **"Holding a knife over a cradle with two infants" failed to generate** (S116, probably a safety refusal). Reframe so the threat is implied: blade lowered, infants out of frame or only the cradle edge visible.
 - The Duncan-B ref with "polished faceted steel, no iris, no pupil, no glow" stays reliable (S114, S115).
+
+## 2026-11-23: turn 16
+- **Implying the threat fixed the refusal** (S116): knife held low at the side, only the cradle rim visible with its contents out of frame, gaze toward the doorway.
+- **"ONE curved blade only… hilt at the other end only (not double-ended)"** fixed the crysknife (S119 v2).
+- **The Alia-B ref keeps blue-in-blue eyes without an edit**, even with two refs combined (S125, S126). Always zoom-crop the eyes to confirm.
+- **Drive limit is tighter than logged:** it failed on the 8th upload of this reply (6, then a 20 s sleep, then 2 succeeded before failure). Use at most 6 per reply, or sleep 30 s or more between rounds.

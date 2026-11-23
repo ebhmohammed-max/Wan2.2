@@ -432,6 +432,26 @@ S119 needs a remake (double-ended knife). S116 failed to generate. The S097 Driv
 
 **Image progress: 119 of 150 generated. 118 PASS, 1 FIX.** Batch 012 is at 8/10 passing.
 
+
+## U. DUN003 turn 16 (2026-11-23)
+
+| File | Drive ID | QC |
+|---|---|---|
+| B012 SCENE116_SCYTALE_KNIFE_CRADLE.png | `1327MwvP5fDM75eZLKnMpoAktofpEejn_` | PASS |
+| B012 SCENE119_CRYSKNIFE_THROWN_v2.png | `1KG06qXeJP8Od_JxSMtdwnAeDSpCAaY8a` | PASS |
+| B013 SCENE121_PAUL_LEAVES_SIETCH.png | `1U70gvRyzjozS5jaba0hFVfbQXuSSff-J` | PASS |
+| B013 SCENE122_LONE_FIGURE_DUNES.png | `13JDgIHjB0Ijy08hYN781BDM9WCFMBS_C` | PASS |
+| B013 SCENE123_FOOTPRINTS_ERASED.png | `12DtKMU9A8lalsY1adO9wPxj4H9JmcB13` | PASS |
+| B013 SCENE124_WORM_SIGN_HORIZON.png | `1BpFMyjEm_96-E49zL9pjxZzumBFk2eGW` | PASS |
+| B013 SCENE125_ALIA_ON_THRONE.png | `1kiMrBzFLQIt8cR8mBVs_I_XiTbJusAso` | PASS |
+| B013 SCENE126_DUNCAN_AND_ALIA.png | `(upload pending)` | PASS |
+| B013 SCENE127_IRULAN_WITH_TWINS.png | `(upload pending)` | PASS |
+| B013 SCENE128_CITADEL_DUSK.png | `(upload pending)` | PASS |
+
+Drive rate-limited after 7 uploads. S126–S128 are staged in `pending_upload/` (committed). Index/QC v16 is not yet on Drive.
+
+**Image progress: 128 of 150 generated, all 128 PASS. Batches 001–012 are complete.** Batch 013 is at 8/10. 22 images remain.
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
@@ -445,3 +465,4 @@ S119 needs a remake (double-ended knife). S116 failed to generate. The S097 Driv
 | v2.3 | 2026-11-23 | Paul-D approved. Batches 008 and 010 complete. 101/101 PASS. Batch 011 started |
 | v2.4 | 2026-11-23 | Batch 011 complete. 111/111 PASS. Batch 012 started. Ornithopter solved |
 | v2.5 | 2026-11-23 | S102 eye fix. Batch 012: 7 more PASS (118 total), S119 FIX, S116 failed |
+| v2.6 | 2026-11-23 | Batch 012 complete (S116 retry, S119 v2). Batch 013: 8 PASS. 128/150. 3 Drive uploads pending |
