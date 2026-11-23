@@ -131,3 +131,9 @@
   - 2 pairs of British male (narration, entertainment).
 - The director's brief: male, US accent, deep and gravelly, epic trailer style. A British male was tried at the director's request.
 - Lesson: the in-app voice range may not cover an epic trailer-style narrator. Consider an external TTS service (e.g. ElevenLabs voice library) or a human VO artist, working from a VO-ready script.
+
+## DUN003 turn 24 (2026-11-23): scratch VO recorded
+- Audition 7 (en-US masculine, use_case "characters", index 4) was the first pick, after 6 rejected pairs. The "characters" setting may be the one that reaches deeper, trailer-style voices.
+- The TTS moderation filter blocks "knife held over newborn twins", the same trigger as the image refusal. Script threats against infants indirectly.
+- TTS pace is about 177 wpm, much faster than the 135 wpm planning figure. Budget runtimes at about 170 wpm for this voice, or plan edit pauses.
+- Each section goes in its own file so that fact-check fixes only need a single re-record.

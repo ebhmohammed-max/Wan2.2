@@ -569,5 +569,6 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 | v2.11 | 2026-11-23 | All 150 on Drive. S012/S016 flags closed. Index v21 |
 | v2.12 | 2026-11-23 | Drive docs refreshed: manifests v22, continuity v1.9, learning log, tracker v2.12 |
 | v2.13 | 2026-11-23 | Narration voice audition: 6 pairs rejected, no voice chosen; next step on narration awaits the director |
+| v2.14 | 2026-11-23 | Voice-06 chosen. Scratch VO recorded for 11 of 12 sections (9 files, 9:56) in `20_voiceover/DUN003/`; section 08 blocked by moderation; pace about 177 wpm, so runtime is about 11 min |
 
 > Turn 22 note: the old manifests v11, continuity v1.4 and original tracker Doc have their Drive descriptions set to SUPERSEDED, pointing at the new IDs above. The Drive tracker v2.12 Doc is a snapshot taken before its own ID was added here.
