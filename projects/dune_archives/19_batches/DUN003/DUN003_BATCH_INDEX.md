@@ -136,3 +136,24 @@ Approved: **150 unique stills · ~177 still-based shots + 3 map scenes ≈ 180 o
 - **Batch 004 closed** (pending the director's Alia decision and the S036 flag). Batch 005 is at 3/10.
 - **Guild Navigator vs humans-only guard:** `build_episode.py` now has `human_clause()`. Navigator/tank shots (CS-EDRIC, S044/S049/S050) say "The Guild Navigator is a mutated human, not an alien; everyone else shown is fully human." In Frank Herbert canon, Navigators are humans mutated by spice (ORIGINAL FRANK HERBERT CANON). All other shots keep the strict humans-only clause.
 - **Anchor hardening before first use:** CS-MOHIAM changed from "birdlike face, piercing pale eyes" to a broad, wrinkled, heavy-lidded original face with a chin mole and cropped grey hair (avoids a generic old-crone look that could converge on a known performer). The S-shot Irulan wording was aligned to the approved IRULAN v2 (veiled, pale gold/ivory gown).
+
+## QC log: turn 7 (2026-11-23)
+
+Director said "go on". By my stated default, that approves the **CS-ALIA-B v1 face** and the **S036 figurine fix**.
+
+| Scene | QC | Note |
+|---|---|---|
+| SCENE036 v3 | PASS | Figurine-only edit: faceless hooded masculine emperor statuettes; Madonna read removed |
+| SCENE037 v2 | PASS | Alia-B face APPROVED; eye edit now fully blue-in-blue. Ref: anchors/REF_CS-ALIA-B_v1.jpg |
+| SCENE044 | PASS | Conspirators table; faces mostly hidden |
+| SCENE045 | PENDING-APPROVAL | First CS-MOHIAM v1 face (ref anchors/REF_CS-MOHIAM_v1_PENDING.jpg) |
+| SCENE046 | PASS | Minor: needle a little far from the neck; faces out of frame |
+| SCENE047 | PASS | — |
+| SCENE048 | PASS | — |
+| SCENE049 | PENDING-APPROVAL | First CS-EDRIC v1 original Navigator design (ref anchors/REF_CS-EDRIC_v1_PENDING.jpg) |
+| SCENE050 | PASS | Sclera pale blue, acceptable through glass |
+| SCENE051 | PASS | — |
+
+- **Batch 004 complete (10/10).** Batch 005 is closed pending two face approvals. Batch 006 is at 1/10.
+- **The Navigator clause worked:** Edric reads as a changed human (human face, webbed hands, finned feet), not a creature.
+- **Edits for small fixes keep working:** the figurine-only and eye-only edits changed just the target and left the rest of the frame intact.

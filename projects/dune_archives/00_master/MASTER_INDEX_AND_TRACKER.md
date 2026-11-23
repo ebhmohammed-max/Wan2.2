@@ -84,7 +84,7 @@ Folders 10, 11, 12, 19, 21, 22, 23 and 24 are empty on purpose. They fill once p
 
 | ID | Title | Tier | Status | Topic OK | Duration OK | Image qty OK | Script | Storyboard | Images | Edit | Export | Published |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| DUN003 | Dune Messiah Explained Before Part Three | STANDARD | APPROVED (topic + 15 min + 150 imgs, 2026-11-23) | ☑ | ☑ 15 min | ☑ 150 imgs / 15 batches | v1.0 APPROVED | v1 (178 shots) | B001 ✅ · B002 ✅ · B003 ✅ · B004 ✅ (Alia face pending) · B005 3/10 | — | — | — |
+| DUN003 | Dune Messiah Explained Before Part Three | STANDARD | APPROVED (topic + 15 min + 150 imgs, 2026-11-23) | ☑ | ☑ 15 min | ☑ 150 imgs / 15 batches | v1.0 APPROVED | v1 (178 shots) | B001 ✅ · B002 ✅ · B003 ✅ · B004 ✅ · B005 ✅ (Mohiam + Edric faces pending) · B006 1/10 | — | — | — |
 | DUN001 | The Butlerian Jihad: The War Frank Herbert Never Wrote | EPIC | BACKUP | ☐ | ☐ | ☐ | — | — | — | — | — | — |
 
 ## E. Data counts (from `00_master/build_summary.json`)
@@ -242,7 +242,31 @@ Image progress: 16 of 150 final PASS, plus 4 pending.
 
 **Image progress: 41 of 150 PASS, plus S036 (flagged) and S037 (Alia, pending approval) = 43 generated.** Batches 001–004 closed; Batch 005 at 3/10.
 
+
+## L. DUN003 turn 7 (2026-11-23, all 15 confirmed by Drive listing)
+
+| File | Drive ID | QC |
+|---|---|---|
+| B004 SCENE036_ICONS_MARKET_v3.png | `1Za_1scUf6p32Viu6-tXG3tAiZKtp2ZQV` | PASS (supersedes v2 flag) |
+| B004 SCENE037_ALIA_REGENT_PORTRAIT_v2.png | `1CIzidIhR1zaRaCMx5yCGfUMKFc-OZsPw` | PASS, Alia-B approved |
+| B005 SCENE044_CONSPIRATORS_TABLE.png | `1D71zDBL91gwbNdBi6aXfOTzaJJ6erfcT` | PASS |
+| B005 SCENE045_MOHIAM_PORTRAIT.png | `1C36przaidvYpyAH4Ae30HgTdicHB_QBl` | PENDING approval |
+| B005 SCENE046_GOM_JABBAR_MEMORY.png | `1HCXrUih90kF0prDdPZ6rVXC9GoPDhnK3` | PASS |
+| B005 SCENE047_BREEDING_RECORDS.png | `1SKHfq-7Qy-HcljWcM_kx_xxFnqMf5CID` | PASS |
+| B005 SCENE048_BG_SISTERS_CIRCLE.png | `1FCTi2194SiX3uyQjtjRorjPvy2RV72ya` | PASS |
+| B005 SCENE049_EDRIC_TANK.png | `14uRcmrYiAYQ_nx6YK5cEBaz3dsB7ATV4` | PENDING approval |
+| B005 SCENE050_EDRIC_EYE.png | `1kxnoKrVBGKqpwyrnKLd4BygvBwyf8JpH` | PASS |
+| B006 SCENE051_PRESCIENCE_BLIND_SPOT.png | `1rSlwzRHKEe-pJA6VwwYqo62lGCMaDEti` | PASS |
+| REF_CS-ALIA-B_v1.jpg (folder 14) | `1Xvs4SCWIFi22PyWicpXYwi_UHbEzC056` | APPROVED anchor |
+| REF_CS-MOHIAM_v1_PENDING.jpg (folder 14) | `1eelWvKz8N977sgGjgZxUgxAaBq66NB8U` | anchor, pending |
+| REF_CS-EDRIC_v1_PENDING.jpg (folder 14) | `1HJhvCYD7L3BX--pMNkVdBjVPPSv6UfYp` | anchor, pending |
+| DUN003_BATCH_INDEX_AND_QC v7 | `1MC2vozmOA2xsYfrsjlNoOYk4Y1euPUNUAm4n2zgSNZw` | supersedes v6 |
+| DUN003_ALL_BATCH_MANIFESTS_v7.json | `1t3AYf65H4R33Ec6vouSdKfi9EyyMRa2y` | supersedes v6 |
+
+**Image progress: 49 of 150 PASS, plus 2 faces pending approval (S045 Mohiam, S049 Edric) = 51 generated.** Batches 001–004 complete; Batch 005 closed pending approvals; Batch 006 at 1/10.
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
 | v1.6 | 2026-11-23 | Batch 004 closed (3 fixes done). Batch 005 started. Navigator clause. First Alia-B face pending approval |
+| v1.7 | 2026-11-23 | Alia-B approved. Batch 004 10/10. Batch 005 closed (Mohiam + Edric faces pending). Batch 006 started |

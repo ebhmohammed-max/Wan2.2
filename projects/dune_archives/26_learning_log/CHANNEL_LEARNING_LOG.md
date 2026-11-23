@@ -43,3 +43,9 @@
 - **Figurines of a "hooded robed figure" drift toward Madonna statuettes.** For religious merchandise, specify masculine, faceless, armoured or angular silhouettes and name the Earth looks to avoid.
 - **Eye-only edits fix blue-in-blue reliably** when the prompt says "irises AND whites both blue, no white sclera". New portraits still often render partly white sclera on the first pass.
 - **The venv at /home/user/.venv-dune can vanish between turns.** ImageMagick `convert` is a dependable fallback for JPEG anchors.
+
+## 2026-11-23: turn 7
+- **Describe mutated humans by what stays human.** "Human face that is subtly wrong, webbed fingers, finned feet, not a giant head, not a fish, not an alien" produced a believable Navigator. It also stayed clear of earlier film designs.
+- **Object-only edits are reliable.** Replacing only the figurines kept every person, coin and light the same. Use targeted edits before full regenerations.
+- **The second eye-edit pass reached full blue-in-blue on Alia.** Plan an eye edit after every new spice-eyed portrait.
+- **Using the spare 10th slot to start the next batch keeps the pace at about 10 accepted images per turn.**
