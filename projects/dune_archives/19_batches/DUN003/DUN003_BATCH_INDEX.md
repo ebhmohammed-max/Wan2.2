@@ -197,3 +197,22 @@ Director said "go on". By my stated default, that approves the **CS-SCYTALE v1**
 
 - **Duncan sequencing:** I generated the defining Duncan-A portrait first, then built Hayt from it as a reference. The other Hayt close-ups (S068, S070, S073, S074) are held until the director approves the face.
 - **Upload pacing:** two rounds of 5 uploads separated by a 25-second pause went through without hitting the rate limit.
+
+## QC log: turn 10 (2026-11-23)
+
+Director said "go on". Following the turn-9 precedent, that approves the **CS-DUNCAN-A v1** face (S066 now PASS; ref renamed to `anchors/REF_CS-DUNCAN-A_v1.jpg`). S067 kept as-is (no objection raised). Used all 10 generations with **no failures**.
+
+| Scene | QC | Note |
+|---|---|---|
+| SCENE064 v2 | PENDING-APPROVAL | Eye-only edit worked: clearly faceted steel eyes. This is now the source of `REF_CS-DUNCAN-B_v1_PENDING.jpg` |
+| SCENE069 v2 | PASS | Eye-only edit: Paul's eyes now read blue at medium distance |
+| SCENE062 | PASS | Veiled hooded silhouette in a rectangular doorway |
+| SCENE068 | PENDING-APPROVAL | Hayt eyes macro |
+| SCENE070 | PENDING-APPROVAL | Hayt seated; clothing reads slightly modern |
+| SCENE073 | PENDING-APPROVAL | Balcony; eyes pale silver at distance; faintly Egyptian glyphs |
+| SCENE074 | PENDING-APPROVAL | Training hall with shield shimmer |
+| SCENE076 | PASS | Tleilaxu watcher at a slit window; fully human |
+| SCENE077 | PENDING-APPROVAL | Doorway guard; lit from front rather than backlit |
+| SCENE078 | FIX | Elders' irises are blue but the whites are not; eye edit queued |
+
+All 6 PENDING-APPROVAL shots wait only on the director's sign-off of the Duncan-B (Hayt) eye design.

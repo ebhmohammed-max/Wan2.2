@@ -61,3 +61,10 @@
 - **"Faceted metallic eyes" in a reference-based edit came out as pale silver eyes.** The look needs a dedicated eye-only edit with explicit words: "polished steel, geometric facets, no iris, no pupil".
 - **Medium shots built from a face reference can drop the blue-in-blue eyes.** Repeat "eyes entirely blue including the whites" in every Paul prompt, even when using the reference.
 - **Hold dependent shots until a new face is approved.** This avoids spending the generation budget on a face that might be rejected.
+
+## 2026-11-23: turn 10
+- **Eye-only edits with explicit material words work:** "polished faceted steel, many small flat geometric facets, no iris, no pupil, no white sclera, no glow" fixed S064 in one pass. The blue-in-blue edit on S069 also worked in one pass.
+- **Chaining references** (approved face → eye-edited image as the new ref) kept Hayt consistent across 5 shots.
+- **"Old Fremen with entirely blue eyes" still rendered white sclera** (S078), even with "no white sclera" in the prompt. Plan an eye edit for every blue-eyed close or medium shot.
+- **"Plain grey tunic" tends to render as a modern T-shirt or loungewear.** Next time try "coarse woven grey tunic, high collar, wrapped belt".
+- **Two upload rounds of 6 with a 15-second pause** stayed within the rate limit.

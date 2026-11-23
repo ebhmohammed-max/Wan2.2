@@ -307,6 +307,29 @@ Image progress: 16 of 150 final PASS, plus 4 pending.
 
 **Image progress: 67 of 150 PASS, plus 2 pending approval (S064, S066) and 1 FIX (S069) = 70 generated.** Batches 001–006 complete.
 
+
+## O. DUN003 turn 10 (2026-11-23)
+
+| File | Drive ID | QC |
+|---|---|---|
+| REF_CS-DUNCAN-A_v1.jpg (renamed from _PENDING, folder 14) | `1Er1ciKGpTdyVfUycTYTRc8tz5WIbrYL2` | APPROVED anchor |
+| REF_CS-DUNCAN-B_v1_PENDING.jpg (folder 14) | `1SRDvKYsvT7RChvkkRKDiWOzlrL4koVec` | anchor, pending eye sign-off |
+| B007 SCENE062_VEILED_GIFT_DOORWAY.png | `1DLyN6VXYcMYjruWnh63dEqucmyqoeqy4` | PASS |
+| B007 SCENE064_HAYT_REVEAL_v2.png (supersedes v1_FIX `1a6_6T6SGQaXbKiJYRd5PfqB7GDnLvXlg`) | `11Bzm1aQ380FcYTryLMzw1wDOqNv2aoyZ` | pending Duncan-B |
+| B007 SCENE068_HAYT_EYES.png | `1ofhgEBh8TX5ZyM7FMHJnjEFRe1CcejFr` | pending Duncan-B |
+| B007 SCENE069_PAUL_HAYT_FACEOFF_v2.png (supersedes v1_FIX `14mmVBkiFqR0ikoCDNgjPwDBg5xFIjNUC`) | `1L_X2d66j820MalkoO_bqOIum2m0-nNzz` | PASS |
+| B007 SCENE070_HAYT_MENTAT.png | `1XDEdeEM_gEnIWjDm_PD9fK7-VlgSAXbb` | pending Duncan-B |
+| B008 SCENE073_HAYT_BALCONY.png | `18b1UQBqMD4xfn_gzcxMKdzrtYkq63iE1` | pending Duncan-B |
+| B008 SCENE074_HAYT_TRAINING.png | `1p7NpT_a7dtZ8jkURwnz--aV2o6riT96W` | pending Duncan-B |
+| B008 SCENE076_TLEILAXU_WATCHER.png | `1w7VsQ1mKc9a2BRPT0qCRzKvv-h2WVQB7` | PASS |
+| B008 SCENE077_HAYT_DOORWAY_GUARD.png | **not uploaded yet** (copy in `pending_upload/`) | pending Duncan-B |
+| B008 SCENE078_FREMEN_NAIBS_SECRET.png | **not uploaded yet** (copy in `pending_upload/`) | FIX |
+
+| DUN003_BATCH_INDEX_AND_QC_v10 (Google Doc, supersedes v7) | `1zW2YB4jsMRuMXF4f8Cg8F80YhKJAZD1G7zRpSbxVNTA` | doc |
+| DUN003_ALL_BATCH_MANIFESTS_v10.json (supersedes v7) | `1N9dX5S1wVM9cM_3p2-WMlNK3ELPLFWbW` | data |
+
+**Image progress: 78 of 150 generated. 71 PASS, 6 pending Duncan-B sign-off, 1 FIX.** Batches 001–007 generated in full; Batch 008 is at 8/10.
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
@@ -314,3 +337,4 @@ Image progress: 16 of 150 final PASS, plus 4 pending.
 | v1.7 | 2026-11-23 | Alia-B approved. Batch 004 10/10. Batch 005 closed (Mohiam + Edric faces pending). Batch 006 started |
 | v1.8 | 2026-11-23 | Mohiam + Edric approved. Batch 005 10/10. Batch 006 closed (Scytale face pending). Batch 007 started. 2 uploads deferred (rate limit) |
 | v1.9 | 2026-11-23 | Scytale approved. Batch 006 10/10. Deferred uploads done. Duncan-A + Hayt faces pending. Batch 008 started |
+| v2.0 | 2026-11-23 | Duncan-A approved. S064/S069 eye fixes. Batch 007 fully generated. Batch 008 at 8/10. Duncan-B eye design pending |

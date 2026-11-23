@@ -229,3 +229,7 @@ Still awaiting approval when first generated: CS-EDRIC, CS-KORBA, CS-LICHNA, CS-
   - Eyes of polished faceted steel, with no iris or pupil.
   - Grey tunic.
   - S064 is the source image once its eye edit is done.
+
+## v1.6 addendum (2026-11-23)
+- **CS-DUNCAN-A v1: APPROVED.** Reference: `anchors/REF_CS-DUNCAN-A_v1.jpg`.
+- **CS-DUNCAN-B v1: PENDING (eye design only).** Reference: `anchors/REF_CS-DUNCAN-B_v1_PENDING.jpg` (from S064 v2). Approved Duncan-A face with polished faceted-steel eyes (gem-cut facets, no iris, no pupil, no glow). Prompt tip: "coarse woven grey tunic, high collar" to avoid a modern T-shirt look.
