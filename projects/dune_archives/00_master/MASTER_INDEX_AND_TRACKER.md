@@ -536,6 +536,18 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 
 **All 150 of 150 PASS, all on Drive.** Open: minor flags on S036 and S067 (optional); Drive doc refresh (continuity v1.5–1.9, tracker Doc appends, manifests v11 → current); post-production (VO, music, edit, maps, 22 [VERIFY] fact checks).
 
+
+## AA. DUN003 turn 22 (2026-11-23): Drive docs refreshed
+
+| Drive folder | File | Drive ID | Note |
+|---|---|---|---|
+| 19/DUN003 | DUN003_ALL_BATCH_MANIFESTS_v22.json | `1rRnsFp9bNHeMVOe1CEwwczNYHu8Ild_x` | Final: 150/150 PASS with Drive IDs. Supersedes v11 (`1F1JazNc7kv9nFObp4IcwKmlqvSD8DlRg`) |
+| 14 | CHARACTER_CONTINUITY_SHEETS_v1.9 (Doc) | `12-55YfY6U_syLdTxwYw0BIdZQXT7jtVejApOUGK4Tts` | Supersedes v1.4 (`1DxZTPkaqRtc-xFMU1WLKm4VbL9ZaRrJ5jvJZuJ59smM`) |
+| 26 | CHANNEL_LEARNING_LOG_2026-11-23 (Doc) | `17HUoYguTBRim3ZKhmt4U7NTtaa_GVBEcVNsm8Z4pVxY` | Full learning log through the end of image production |
+| 00 | MASTER_INDEX_AND_TRACKER_v2.12 (Doc) | `1j04lE35i6awChmuHkHGNXLwKlXgKJ2zsveBgjAzxdLY` | Supersedes the original tracker Doc (`1_g6LHaepKEatM1UdjC8muELzrVbLTwYUE4ZweyyZj-0`), which was missing the turn 9–21 appends |
+
+**Drive is now in sync with the repo for all DUN003 production docs.** Next phase: post-production (narration/TTS, music, edit, maps, 22 [VERIFY] fact checks). Optional image flags: S036, S067.
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
@@ -555,3 +567,6 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 | v2.9 | 2026-11-23 | ALL 150 PASS. S147 v2, S149, S150; S050/S059/S094 flags fixed; S145 kept. 11 Drive uploads pending |
 | v2.10 | 2026-11-23 | Drive backlog 11 → 5 (S146–S150 remain) |
 | v2.11 | 2026-11-23 | All 150 on Drive. S012/S016 flags closed. Index v21 |
+| v2.12 | 2026-11-23 | Drive docs refreshed: manifests v22, continuity v1.9, learning log, tracker v2.12 |
+
+> Turn 22 note: the old manifests v11, continuity v1.4 and original tracker Doc have their Drive descriptions set to SUPERSEDED, pointing at the new IDs above. The Drive tracker v2.12 Doc is a snapshot taken before its own ID was added here.
