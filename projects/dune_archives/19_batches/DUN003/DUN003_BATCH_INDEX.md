@@ -157,3 +157,23 @@ Director said "go on". By my stated default, that approves the **CS-ALIA-B v1 fa
 - **Batch 004 complete (10/10).** Batch 005 is closed pending two face approvals. Batch 006 is at 1/10.
 - **The Navigator clause worked:** Edric reads as a changed human (human face, webbed hands, finned feet), not a creature.
 - **Edits for small fixes keep working:** the figurine-only and eye-only edits changed just the target and left the rest of the frame intact.
+
+## QC log: turn 8 (2026-11-23)
+
+Director said "go on". By my stated default, that approves the **CS-MOHIAM v1** and **CS-EDRIC v1** designs (S045 and S049 are now PASS).
+
+| Scene | QC | Note |
+|---|---|---|
+| SCENE052 | PASS | Heighliner hold; no rotors, no markings |
+| SCENE053 | PENDING-APPROVAL | First CS-SCYTALE natural Face Dancer face (ref anchors/REF_CS-SCYTALE_v1_PENDING.jpg) |
+| SCENE054 | PASS | Half-transformed face; no gore |
+| SCENE055 | PASS | Sealed brutalist city |
+| SCENE056 | PASS | Irulan v2 ref held |
+| SCENE057 | PASS | Irulan v2 ref held; minor blurred arch in background |
+| SCENE058 | PASS | Minor: vial neck slightly modern |
+| SCENE059 | PASS | Chani-B ref held; minor Earth-style hurricane lamp at left edge |
+| SCENE060 | PASS | Drive upload deferred (rate limit) |
+| SCENE061 | PASS | Drive upload deferred (rate limit) |
+
+- **Batch 005 complete (10/10).** Batch 006 is closed pending the Scytale face. Batch 007 is at 1/10.
+- **Drive rate limit hit after 13 transfers in one reply.** S060, S061, index v8 and manifests v8 will be uploaded at the start of the next turn. Their `drive_file_id` values are null until then.

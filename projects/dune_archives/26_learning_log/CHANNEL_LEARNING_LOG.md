@@ -49,3 +49,8 @@
 - **Object-only edits are reliable.** Replacing only the figurines kept every person, coin and light the same. Use targeted edits before full regenerations.
 - **The second eye-edit pass reached full blue-in-blue on Alia.** Plan an eye edit after every new spice-eyed portrait.
 - **Using the spare 10th slot to start the next batch keeps the pace at about 10 accepted images per turn.**
+
+## 2026-11-23: turn 8
+- **Drive upload rate limit:** about 13 file transfers in one reply hit Merge's limit. Keep each reply to at most 12 uploads. Upload the index and manifests first so the record is never missing, and defer images instead.
+- **Reference-image scenes held the faces** of Irulan (×2) and Chani in new settings. Every recurring character with an approved anchor should now be generated from its reference image.
+- **Props drift to Earth objects** (a hurricane lamp, a screw-neck bottle). Name sci-fi alternatives for props: "angular brass oil vessel", "faceted crystal ampoule".
