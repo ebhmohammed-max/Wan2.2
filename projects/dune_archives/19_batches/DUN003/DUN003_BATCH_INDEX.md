@@ -5,7 +5,7 @@ Approved: **150 unique stills · ~177 still-based shots + 3 map scenes ≈ 180 o
 | Batch | Scenes | Chapters | Status |
 |---|---|---|---|
 | BATCH001 | 001–010 | 00, 01 | **COMPLETE v2: 10/10 PASS, on Drive** |
-| BATCH002 | 011–020 | 02 | PENDING |
+| BATCH002 | 011–020 | 02 | v1 generated · 6 PASS / 3 FIX / 1 HOLD · all on Drive |
 | BATCH003 | 021–030 | 02, 03 | PENDING |
 | BATCH004 | 031–040 | 03 | PENDING |
 | BATCH005 | 041–050 | 03, 04 | PENDING |
@@ -57,3 +57,24 @@ Approved: **150 unique stills · ~177 still-based shots + 3 map scenes ≈ 180 o
 | REF_CS-PAUL-C_v1.2.jpg | Paul (Emperor) face, front three-quarter. Pass it as a reference for every CS-PAUL-C or -D shot |
 | REF_CS-PAUL-C_v1.2_profile.jpg | Paul profile |
 | REF_LOC_ARRAKEEN_CITADEL.jpg | Citadel / Arrakeen architecture. Pass it as a reference for every Arrakeen exterior |
+
+## QC log: BATCH002 v1 (2026-11-23, turn 3)
+
+| Scene | QC | Note |
+|---|---|---|
+| SCENE011 | PASS | Worms read slightly airborne; dust overlay in motion pass |
+| SCENE012 | FIX | Roman columns + Roman-style courtiers (Earth drift). Face = CS-SHADDAM draft, director approval pending. Regen with arch guard + face anchor ref |
+| SCENE013 | PASS | — |
+| SCENE014 | PASS | Original cylindrical heighliner design |
+| SCENE015 | FIX | Gothic cathedral / rose window (Earth drift). Composition (far, from behind) is right; regen with arch guard |
+| SCENE016 | HOLD | Face original (no match found by eye), but styling (blonde braided crown + crimson/gold + lion pendant) echoes a famous TV queen. Director decision |
+| SCENE017 | FIX | 'elfin' produced pointed elf ears. Face = CS-CHANI-B draft (freckles, jaw scar, blue-in-blue OK). Fix ears via edit of anchors/REF_CS-CHANI-B_v1_draft.jpg |
+| SCENE018 | PASS | Hawk signet matches SCENE006 |
+| SCENE019 | PASS | — |
+| SCENE020 | PASS | Wingless transports, no rotors |
+
+**Changes this turn**
+- **Faces protected against likeness before generating.** The CS-SHADDAM, CS-IRULAN and CS-CHANI-B anchors were rewritten with distinctive bone structure and markings, steering away from the film casting.
+- **Builder guards added.** `ARCH_GUARD` adds austere monolithic stone with no columns or arches to any interior or architecture shot. `CRAFT_GUARD` adds "no rotors" to any aircraft shot. The negative list was extended.
+- **Letterbox phrase replaced** with "full-bleed 16:9, no black bars". All 10 frames came out bar-free.
+- Draft face anchors are saved in `anchors/` as `*_v1_draft.jpg` until the director approves them.

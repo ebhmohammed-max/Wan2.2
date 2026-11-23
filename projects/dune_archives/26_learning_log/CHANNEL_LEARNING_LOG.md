@@ -18,3 +18,10 @@
 - **The director confirmed a likeness problem in scene 002** (the bearded emperor). The cause was the v1 anchor text itself: narrow oval face, wavy dark hair, wiry. Character anchors must be built from *distinctive* features (bone structure, nose, hairline, scars), never from soft, generic "handsome young man" traits. Paul was redesigned (CS-PAUL v1.2) and the director chose the new face from 2 options.
 - **Generated images vanish between turns** (git-ignored workspace files are not kept). Upload to Drive in the same turn, and commit about 300 KB JPEG anchor references to `19_batches/<EP>/anchors/` so face and location continuity survives across turns.
 - A Batch 001 rerun took 7 image generations. Fixes eat into the 10-per-turn limit, so batches with many faces should be budgeted at about 7 new images plus 3 spare for fixes.
+
+## 2026-11-23: Batch 002 lessons
+- **Words get taken literally.** "elfin face" produced pointed elf ears. Describe anatomy, not metaphor: "fine-boned", "pointed chin".
+- **Formal interiors drift toward Earth history**: a Roman audience hall, a Gothic wedding cathedral. Fixed at the builder level with ARCH_GUARD, which every interior prompt now gets automatically.
+- **Costume-plus-colour combinations can evoke famous characters even when the face is original.** Here, blonde braided crown + crimson/gold + lion = a well-known TV queen. Likeness QC now checks the *styling* as well as the face.
+- **The "no black bars" wording works**: 10/10 frames are full-bleed.
+- Prompting 10 new shots per turn leaves no spare for fixes. Fix-heavy batches will roll their fixes into the start of the next turn.

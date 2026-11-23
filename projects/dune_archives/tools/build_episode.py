@@ -19,10 +19,17 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "data"))
 
 STYLE = ("ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, "
-         "wide 16:9 cinematic frame composed for a 2.39:1 letterbox")
+         "full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop")
 NEGATIVE = ("text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, "
             "cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, "
-            "blurry face, gore, blood")
+            "blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, "
+            "rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears")
+ARCH_WORDS = ("hall", "chamber", "palace", "citadel", "window", "throne", "courtyard", "corridor", "temple",
+              "apartments", "balcony", "audience", "nursery", "keep")
+ARCH_GUARD = ("Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; "
+              "no classical columns, no arches, no Gothic, Roman or medieval elements")
+CRAFT_WORDS = ("ornithopter", "thopter", "transport", "frigate", "aircraft")
+CRAFT_GUARD = "Ornithopters have NO rotors: articulated dragonfly-like flapping wings"
 TEXTURE = "fine film grain, subtle atmospheric haze, tactile materials"
 BATCH_SIZE = 10
 SHOT_NAMES = {"EW": "epic wide shot, low horizon", "EST": "establishing shot", "MS": "medium shot",
@@ -42,6 +49,11 @@ def sentences(text):
 def prompt_for(shot, anchors):
     key, kind, lens, cs, body, light, mood, motion, label, n = shot
     subject = (anchors[cs] + ", " + body) if cs else body
+    low = body.lower()
+    if any(w in low for w in ARCH_WORDS):
+        subject += ". " + ARCH_GUARD
+    if any(w in low for w in CRAFT_WORDS):
+        subject += ". " + CRAFT_GUARD
     return (f"{STYLE}. {subject}. Lighting: {light}. Camera: {SHOT_NAMES[kind]}, {lens} lens. "
             f"Mood: {mood}. Texture: {TEXTURE}. Original character design, not based on any real person. "
             f"No text anywhere in the image.")

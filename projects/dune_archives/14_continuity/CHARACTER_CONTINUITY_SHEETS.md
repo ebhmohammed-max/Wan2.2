@@ -191,3 +191,16 @@ These are all ORIGINAL DESIGNS and still need director approval. The canon basis
 | CS-BIJAZ | Bijaz | Tleilaxu dwarf and living recorder | Child-sized adult, wide round face, grey-tinged skin, sly eyes |
 
 The age variants used in DUN003 are CS-PAUL-B worn as the 17-year-old emperor, CS-PAUL-C, -D and -E, and CS-DUNCAN-A and -B. Their prompt anchors are in the same module.
+
+
+## v1.3 ADDENDUM (2026-11-23): likeness-hardened anchors for Shaddam, Irulan and Chani (DIRECTOR APPROVAL PENDING)
+
+These anchors were rewritten *before* their first generation, after the Paul lesson. Each now leads with distinctive bone structure and markings and steers away from the screen casting. Canon traits are kept and labelled.
+
+| ID | Canon traits kept | New distinctive anchor (CREATIVE RECONSTRUCTION) | Draft reference |
+|---|---|---|---|
+| CS-SHADDAM | Reddish hair, aging, Corrino lion [ORIGINAL; verify hair] | Heavy-set, broad fleshy face, heavy jowls, thick hooked nose, small sharp hazel eyes, bushy grey-red brows, thinning red-grey hair combed back, short pointed red-grey beard | `anchors/REF_CS-SHADDAM_v1_draft.jpg` |
+| CS-IRULAN | Tall, blonde, Corrino gold/scarlet, writer (ink) [ORIGINAL] | Long narrow face, high forehead, strong straight nose, deep-set heavy-lidded grey eyes, thin lips, small dark mole on the cheekbone, braided crown, ink-stained fingertips. **On hold:** styling echoes a famous TV queen | `anchors/REF_CS-IRULAN_v1_draft.jpg` |
+| CS-CHANI-B | Slight build, dark red hair, blue-in-blue eyes, Fremen [ORIGINAL] | Fine-boned angular face, high flat cheekbones, wide-set eyes, freckle band across the nose, thin lips, pointed chin, straight auburn braid with water rings, notch scar on the right ear, pale scar along the jaw, **ordinary rounded human ears** | `anchors/REF_CS-CHANI-B_v1_draft.jpg` (has elf ears; fix by editing) |
+
+Rule: never use the word "elfin" in prompts. Image models render it as literal elf ears.

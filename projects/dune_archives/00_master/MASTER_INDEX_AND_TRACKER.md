@@ -84,7 +84,7 @@ Folders 10, 11, 12, 19, 21, 22, 23 and 24 are empty on purpose. They fill once p
 
 | ID | Title | Tier | Status | Topic OK | Duration OK | Image qty OK | Script | Storyboard | Images | Edit | Export | Published |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| DUN003 | Dune Messiah Explained Before Part Three | STANDARD | APPROVED (topic + 15 min + 150 imgs, 2026-11-23) | ☑ | ☑ 15 min | ☑ 150 imgs / 15 batches | v1.0 APPROVED | v1 (178 shots) | B001 ✅ 10/10 | — | — | — |
+| DUN003 | Dune Messiah Explained Before Part Three | STANDARD | APPROVED (topic + 15 min + 150 imgs, 2026-11-23) | ☑ | ☑ 15 min | ☑ 150 imgs / 15 batches | v1.0 APPROVED | v1 (178 shots) | B001 ✅ 10/10 · B002 6 PASS / 3 FIX / 1 HOLD | — | — | — |
 | DUN001 | The Butlerian Jihad: The War Frank Herbert Never Wrote | EPIC | BACKUP | ☐ | ☐ | ☐ | — | — | — | — | — | — |
 
 ## E. Data counts (from `00_master/build_summary.json`)
@@ -145,3 +145,30 @@ Scenes 002, 003, 004, 006 and 008 are held locally pending fixes. Scene 005 was 
 | Version | Date | Change |
 |---|---|---|
 | v1.2 | 2026-11-23 | Script v1.0 approved. Paul redesigned (likeness). Batch 001 complete. Anchors committed to `19_batches/DUN003/anchors/` |
+
+## H. DUN003 BATCH002 (2026-11-23, turn 3, all 16 confirmed by Drive listing)
+
+| Folder | Drive file | Drive ID | QC |
+|---|---|---|---|
+| 19/DUN003 | SCENE011_BATTLE_ARRAKEEN_STORM.png | `17ogBE1GzyrQOTaMpkNMXJ_z35R5qpT8N` | PASS |
+| 19/DUN003 | SCENE012_SHADDAM_DEFEATED_v1_FIX.png | `1m7HmHKhwfnn_CrJUympSJonEjxa6A3Jb` | FIX (Roman) |
+| 19/DUN003 | SCENE013_SPICE_THREAT.png | `1R4EF4VWXdKHnE64BVXd-bTOLtjBmm_hF` | PASS |
+| 19/DUN003 | SCENE014_GUILD_HEIGHLINER_ORBIT.png | `1OypM9twA8VCBZwH2fFlulEyBiJJ4ziH2` | PASS |
+| 19/DUN003 | SCENE015_WEDDING_IRULAN_v1_FIX.png | `1rshr15WQnUItNtCH_ISMy_kbalHkzt7D` | FIX (Gothic) |
+| 19/DUN003 | SCENE016_IRULAN_PORTRAIT_v1_HOLD.png | `10ZrlfRh7Ch8-RKAtHPlzFwYbxMY9VG2c` | HOLD (director) |
+| 19/DUN003 | SCENE017_CHANI_PORTRAIT_v1_FIX.png | `1LrNy7U0bhuyCxAjxiRWaQvE3OQ189JsZ` | FIX (elf ears) |
+| 19/DUN003 | SCENE018_PAUL_CHANI_HANDS.png | `1_dfHf5wIGaOoGMMuQzv_5ZtBw6-qZ0Tg` | PASS |
+| 19/DUN003 | SCENE019_JIHAD_VISION.png | `1Q2X9VX5dNhg3kmS79xP06FhpY1wqpFxh` | PASS |
+| 19/DUN003 | SCENE020_FREMEN_LEGION_MARCH.png | `18-DEv1ZSotexHVLbJiQ4EPqnt0O86NrT` | PASS |
+| 19/DUN003 | DUN003_BATCH_INDEX_AND_QC v3 | `1lkQIhIvx2ZsG0n1Sy3eyCrrSFu-3GmGkPJEPWfy0118` | supersedes v2 |
+| 19/DUN003 | DUN003_ALL_BATCH_MANIFESTS_v3.json | `1mzNQPgHRx3dVXx9WwjOM3aJhJlBQgUlG` | supersedes v2 |
+| 14 | CHARACTER_CONTINUITY_SHEETS v1.3 | `1jnYLVNo277CqiUr_0bCItsnvloSLaPZr0BU7Cq3LzOo` | supersedes v1.2 |
+| 14 | REF_CS-SHADDAM_v1_draft.jpg | `1gzZhplAlsHywo1uE71huNk1cRuotlf1_` | draft |
+| 14 | REF_CS-IRULAN_v1_draft.jpg | `1KRc1MpMeaObCrWX5JJRCCHszetdrI3Fn` | draft / hold |
+| 14 | REF_CS-CHANI-B_v1_draft.jpg | `1D1JovR-AqQnzPohUOQNXI79-FS6Mv_kN` | draft |
+
+Image progress: 16 of 150 final PASS, plus 4 pending.
+
+| Version | Date | Change |
+|---|---|---|
+| v1.3 | 2026-11-23 | Batch 002 v1. Likeness-hardened anchors. ARCH and CRAFT prompt guards. "No black bars" style phrase |
