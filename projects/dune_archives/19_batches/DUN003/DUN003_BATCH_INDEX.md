@@ -49,9 +49,9 @@ Approved: **150 unique stills · ~177 still-based shots + 3 map scenes ≈ 180 o
 | SCENE008 | PASS | PASS — regenerated with SCENE002 v2 + SCENE003 refs; note: small background ornithopter slightly rotor-like, mask in edit if visible |
 
 - **Paul redesigned (CS-PAUL v1.2).** The director flagged that the v1 SCENE002 face resembled a known actor. The v1 face is retired, and the director picked the new face from 2 options.
-- **Images do NOT persist between turns** (git-ignored files are wiped). Rules from now on: upload every image to Drive in the same turn it is generated, and keep small JPEG anchor references in `refs/`, which are committed.
+- **Images do NOT persist between turns** (git-ignored files are wiped). Rules from now on: upload every image to Drive in the same turn it is generated, and keep small JPEG anchor references in `anchors/`, which are committed.
 
-## Reference anchors (committed, `refs/`)
+## Reference anchors (committed, `anchors/`)
 | File | Use |
 |---|---|
 | REF_CS-PAUL-C_v1.2.jpg | Paul (Emperor) face, front three-quarter. Pass it as a reference for every CS-PAUL-C or -D shot |

@@ -144,4 +144,4 @@ Scenes 002, 003, 004, 006 and 008 are held locally pending fixes. Scene 005 was 
 
 | Version | Date | Change |
 |---|---|---|
-| v1.2 | 2026-11-23 | Script v1.0 approved. Paul redesigned (likeness). Batch 001 complete. Anchors committed to `19_batches/DUN003/refs/` |
+| v1.2 | 2026-11-23 | Script v1.0 approved. Paul redesigned (likeness). Batch 001 complete. Anchors committed to `19_batches/DUN003/anchors/` |
