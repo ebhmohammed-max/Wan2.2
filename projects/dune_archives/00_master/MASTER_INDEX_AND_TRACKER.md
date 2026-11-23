@@ -410,7 +410,7 @@ QC log v13 (Google Doc) `1ubZ3GhU1RAtB-wo3tSQHf7nncdS3e0uhMd38FYG-s4c` uploaded.
 | B011 SCENE110_PAUL_WAITING.png | `1MG2mnI7HBlz0UQ-848gsQKDvCsk9eRas` | PASS |
 | B012 SCENE111_TWINS_NEWBORN.png | `1HNuBrsgVS9hRn8tFJjxez5gxH8navf2U` | PASS |
 
-S098 is kept as-is (director, turn 14). __DOCS__
+S098 is kept as-is (director, turn 14). Index/QC v14 Doc: `1VSoakYOoYKYGUgHDak7wD7OBo3XAhdgUkwOerhesjCs`.
 
 **Image progress: 111 of 150 generated, all 111 PASS. Batches 001–011 are complete.** Batch 012 is at 1/10. 39 images remain.
 
