@@ -390,7 +390,7 @@ QC log v12 (Google Doc) `1JiJYGVnv3v1TwmUxZjO_wbiN8i3ctykDNG1vuosAEAE` uploaded.
 | B010 SCENE100_TLEILAXU_EYES_TRAY.png | `1xvCoEUHAUTh6JsejSbkeTOoF0nV9FKTV` | PASS |
 | B011 SCENE101_VISION_OVERLAY_ROOM.png | `1ohXniKCUgUfOfTd2RS_JBPkh4DIEoz22` | PASS |
 
-On Drive, the QC log is v12 and the combined batch file is v11; this turn's versions are in git.
+QC log v13 (Google Doc) `1ubZ3GhU1RAtB-wo3tSQHf7nncdS3e0uhMd38FYG-s4c` uploaded. The combined batch file on Drive is still v11; the current version is in git.
 
 **Image progress: 101 of 150 generated, all 101 PASS. Batches 001–010 are complete.** Batch 011 is at 1/10. 49 images remain (Batches 011–015).
 
