@@ -2,9 +2,9 @@
  "episode": "DUN003",
  "batch": "BATCH003",
  "max_batch_size": 10,
- "status": "IN PROGRESS: 6/10 PASS on Drive (021–026); 027–030 next turn",
+ "status": "COMPLETE: 10/10 PASS, all on Drive",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop",
- "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
+ "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
  "images": [
   {
    "scene_id": "DUN003_SCENE021",
@@ -23,8 +23,8 @@
    "seed": null,
    "drive_file_id": "1znMds7UdPoIAsDNWgdXhiJwaLGspml81",
    "qc": "PASS",
-   "version": "v1",
-   "qc_note": "Back view only (director rule)"
+   "qc_note": "Back view only (director rule)",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE022",
@@ -43,8 +43,8 @@
    "seed": null,
    "drive_file_id": "1H5ulRsyV7_ZbpyVFV_vnIFk3D2Ah0U9l",
    "qc": "PASS",
-   "version": "v1",
-   "qc_note": ""
+   "qc_note": "",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE023",
@@ -63,8 +63,8 @@
    "seed": null,
    "drive_file_id": "1-vKmOX-4SG_KTu9CdSpEgN3wDzve3IiP",
    "qc": "PASS",
-   "version": "v1",
-   "qc_note": ""
+   "qc_note": "",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE024",
@@ -83,8 +83,8 @@
    "seed": null,
    "drive_file_id": "1ncESS7iadxpp_EolVxZtqy3zLy5iAvzj",
    "qc": "PASS",
-   "version": "v1",
-   "qc_note": "Back view only (director rule); throne matches SCENE002 basalt"
+   "qc_note": "Back view only (director rule); throne matches SCENE002 basalt",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE025",
@@ -103,8 +103,8 @@
    "seed": null,
    "drive_file_id": "1DevNUqcZ7XMZbZm24njfTY-AR6e0Rdkr",
    "qc": "PASS",
-   "version": "v1",
-   "qc_note": ""
+   "qc_note": "",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE026",
@@ -123,8 +123,8 @@
    "seed": null,
    "drive_file_id": "1eJ7aDNK_bLHqJV-nbA7hOXNYHC8FmmMS",
    "qc": "PASS",
-   "version": "v1",
-   "qc_note": ""
+   "qc_note": "",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE027",
@@ -137,12 +137,14 @@
    "visual_label": "CREATIVE RECONSTRUCTION",
    "motion_recipe": "PUSH_IN",
    "onscreen_uses": 1,
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. the deep desert at noon with heat shimmer, a distant citadel silhouette on the horizon. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: hard white sun. Camera: epic wide shot, low horizon, 24mm lens. Mood: foreboding. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
-   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
-   "generator": null,
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. the deep desert at noon with heat shimmer, a distant citadel silhouette on the horizon. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: hard white sun. Camera: epic wide shot, low horizon, 24mm lens. Mood: foreboding. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "17BeewLtL-CC08u5xzK_GUp9--agnLBlI",
+   "qc": "PASS",
+   "qc_note": "Citadel faint in mirage (REF_LOC anchor used)",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE028",
@@ -155,12 +157,14 @@
    "visual_label": "CREATIVE RECONSTRUCTION",
    "motion_recipe": "PUSH_IN",
    "onscreen_uses": 2,
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. man about thirty with a broad angular face, heavy straight brow ridge, deep-set narrow eyes entirely blue including the whites, prominent aquiline nose with a slight bump from an old break, wide thin-lipped mouth, strong square jaw under a short dense dark beard, close-cropped dark brown hair shaved short at the sides, early grey streaks at the temples, weathered sun-darkened olive skin, pale scar cutting through the left eyebrow, lean wiry build, seated at a stone desk in a dim study among piles of record crystals, staring at a glowing projection of star systems. Lighting: amber glowglobe plus cool projection light. Camera: establishing shot, 35mm lens. Mood: guilt. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
-   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
-   "generator": null,
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. man about thirty with a broad angular face, heavy straight brow ridge, deep-set narrow eyes entirely blue including the whites, prominent aquiline nose with a slight bump from an old break, wide thin-lipped mouth, strong square jaw under a short dense dark beard, close-cropped dark brown hair shaved short at the sides, early grey streaks at the temples, weathered sun-darkened olive skin, pale scar cutting through the left eyebrow, lean wiry build, seated at a stone desk in a dim study among piles of record crystals, staring at a glowing projection of star systems. Lighting: amber glowglobe plus cool projection light. Camera: establishing shot, 35mm lens. Mood: guilt. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "12pqgWkBif9j-xDz7TMqHKlGur-qVsmIk",
+   "qc": "PASS",
+   "qc_note": "Paul face matches CS-PAUL-C anchor; sclera blue not clearly readable at this size",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE029",
@@ -173,12 +177,14 @@
    "visual_label": "CREATIVE RECONSTRUCTION",
    "motion_recipe": "PULL_OUT",
    "onscreen_uses": 1,
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a dead planet seen from orbit, ash-grey and cratered, thin glowing scars of old fires, a single warship silhouette in the foreground. Lighting: cold starlight. Camera: epic wide shot, low horizon, 18mm lens. Mood: dread. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
-   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
-   "generator": null,
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a dead planet seen from orbit, ash-grey and cratered, thin glowing scars of old fires, a single warship silhouette in the foreground. Lighting: cold starlight. Camera: epic wide shot, low horizon, 18mm lens. Mood: dread. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "1CaF01S1AhLEDrbpBb_sPMdFv8RQpq0yi",
+   "qc": "PASS",
+   "qc_note": "",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE030",
@@ -191,12 +197,14 @@
    "visual_label": "CREATIVE RECONSTRUCTION",
    "motion_recipe": "PAN_LR",
    "onscreen_uses": 1,
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a vast field of ash and ruined towers under a grey sky, one cloaked figure walking among the ruins for scale. Lighting: flat overcast. Camera: epic wide shot, low horizon, 24mm lens. Mood: grief. Texture: fine film grain, subtle atmospheric haze, tactile materials. Original character design, not based on any real person. No text anywhere in the image.",
-   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears",
-   "generator": null,
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a vast field of ash and ruined towers under a grey sky, one cloaked figure walking among the ruins for scale. Lighting: flat overcast. Camera: epic wide shot, low horizon, 24mm lens. Mood: grief. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "1guUesCXm6LF0-ltVo9HOtulMeY9sGdBI",
+   "qc": "PASS",
+   "qc_note": "",
+   "version": "v1"
   }
  ]
 }

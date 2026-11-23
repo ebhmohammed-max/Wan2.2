@@ -84,7 +84,7 @@ Folders 10, 11, 12, 19, 21, 22, 23 and 24 are empty on purpose. They fill once p
 
 | ID | Title | Tier | Status | Topic OK | Duration OK | Image qty OK | Script | Storyboard | Images | Edit | Export | Published |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| DUN003 | Dune Messiah Explained Before Part Three | STANDARD | APPROVED (topic + 15 min + 150 imgs, 2026-11-23) | ☑ | ☑ 15 min | ☑ 150 imgs / 15 batches | v1.0 APPROVED | v1 (178 shots) | B001 ✅ · B002 ✅ · B003 6/10 | — | — | — |
+| DUN003 | Dune Messiah Explained Before Part Three | STANDARD | APPROVED (topic + 15 min + 150 imgs, 2026-11-23) | ☑ | ☑ 15 min | ☑ 150 imgs / 15 batches | v1.0 APPROVED | v1 (178 shots) | B001 ✅ · B002 ✅ · B003 ✅ · B004 3/10 (+3 to fix) | — | — | — |
 | DUN001 | The Butlerian Jihad: The War Frank Herbert Never Wrote | EPIC | BACKUP | ☐ | ☐ | ☐ | — | — | — | — | — | — |
 
 ## E. Data counts (from `00_master/build_summary.json`)
@@ -200,3 +200,27 @@ Image progress: 16 of 150 final PASS, plus 4 pending.
 | Version | Date | Change |
 |---|---|---|
 | v1.4 | 2026-11-23 | Faces approved (Shaddam, Irulan v2, Chani). CS-PAUL-B is back-view only. Batch 002 complete |
+
+## J. DUN003 turn 5 (2026-11-23, all 13 confirmed by Drive listing)
+
+| Drive file (19/DUN003) | Drive ID | QC |
+|---|---|---|
+| B003 SCENE027_DESERT_TO_CITADEL.png | `17BeewLtL-CC08u5xzK_GUp9--agnLBlI` | PASS |
+| B003 SCENE028_PAUL_LEDGER.png | `12pqgWkBif9j-xDz7TMqHKlGur-qVsmIk` | PASS |
+| B003 SCENE029_STERILIZED_PLANET.png | `1CaF01S1AhLEDrbpBb_sPMdFv8RQpq0yi` | PASS |
+| B003 SCENE030_ASH_FIELD_SURVIVOR.png | `1guUesCXm6LF0-ltVo9HOtulMeY9sGdBI` | PASS |
+| B004 SCENE031_ANCIENT_TYRANTS_ECHO.png | `1BiUA-EZOOSgyvU74pKTZIB6GE0FC7zva` | PASS |
+| B004 SCENE032_QIZARATE_PRIESTS_v1_FIX.png | `1Y66NvVvR7wHwQJUa5FwSkF7ZW0jX2ikt` | FIX |
+| B004 SCENE033_TEMPLE_INTERIOR.png | `1SzY9pOxYgCk6wE5QbvHGYGPKjPnkdT00` | PASS |
+| B004 SCENE034_FREMEN_GOVERNOR_v1_FIX.png | `1-ZrgOtcqoFTxvxpRk3yrAMytkIKuz-cN` | FIX |
+| B004 SCENE035_WATER_FOUNTAIN_EXCESS.png | `1fv23oCcsWMuMBk2uzPLLCXESyNtLFx68` | PASS |
+| B004 SCENE036_ICONS_MARKET_v1_FAIL.png | `1Mw4XzCgY5HyQRh3UfRdQ5dNGPLYnXXx0` | FAIL (aliens) |
+| EDITSRC_B004_SCENE034_FREMEN_GOVERNOR.jpg | `1j_pPFDHOyRJD7VAbCYiLmjtfJGbqkLv6` | edit source |
+| DUN003_BATCH_INDEX_AND_QC v5 | `1raPwrY98ZNOesXjuPKzCtm_6oizeNGvXx6oeYXrKosc` | supersedes v4 |
+| DUN003_ALL_BATCH_MANIFESTS_v5.json | `1BnfnbLyCHJ54ayBfogGsvd9hoPKTsIrG` | supersedes v4 |
+
+**Image progress: 33 of 150 PASS** (Batches 001–003 complete; Batch 004 at 3/10, with 3 fixes queued).
+
+| Version | Date | Change |
+|---|---|---|
+| v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |

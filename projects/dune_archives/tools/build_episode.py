@@ -23,7 +23,8 @@ STYLE = ("ultra-realistic 3D cinematic reconstruction, photoreal, physically bas
 NEGATIVE = ("text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, "
             "cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, "
             "blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, "
-            "rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears")
+            "rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, "
+            "Buddhist monks, saffron robes, Christian or other Earth religious symbols")
 ARCH_WORDS = ("hall", "chamber", "palace", "citadel", "window", "throne", "courtyard", "corridor", "temple",
               "apartments", "balcony", "audience", "nursery", "keep")
 ARCH_GUARD = ("Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; "
@@ -55,7 +56,8 @@ def prompt_for(shot, anchors):
     if any(w in low for w in CRAFT_WORDS):
         subject += ". " + CRAFT_GUARD
     return (f"{STYLE}. {subject}. Lighting: {light}. Camera: {SHOT_NAMES[kind]}, {lens} lens. "
-            f"Mood: {mood}. Texture: {TEXTURE}. Original character design, not based on any real person. "
+            f"Mood: {mood}. Texture: {TEXTURE}. Any people shown are fully human (no aliens, no creatures). "
+            f"Original character design, not based on any real person. "
             f"No text anywhere in the image.")
 
 

@@ -6,8 +6,8 @@ Approved: **150 unique stills · ~177 still-based shots + 3 map scenes ≈ 180 o
 |---|---|---|---|
 | BATCH001 | 001–010 | 00, 01 | **COMPLETE v2: 10/10 PASS, on Drive** |
 | BATCH002 | 011–020 | 02 | **COMPLETE: 10/10 PASS, on Drive** |
-| BATCH003 | 021–030 | 02, 03 | In progress: 6/10 PASS (021–026); 027–030 next |
-| BATCH004 | 031–040 | 03 | PENDING |
+| BATCH003 | 021–030 | 02, 03 | **COMPLETE: 10/10 PASS, on Drive** |
+| BATCH004 | 031–040 | 03 | In progress: 3 PASS / 2 FIX / 1 FAIL (031–036); 037–040 pending |
 | BATCH005 | 041–050 | 03, 04 | PENDING |
 | BATCH006 | 051–060 | 04 | PENDING |
 | BATCH007 | 061–070 | 04, 05 | PENDING |
@@ -97,3 +97,23 @@ Approved: **150 unique stills · ~177 still-based shots + 3 map scenes ≈ 180 o
 - **Director "go" recorded as:** Irulan restyle approved; Shaddam and Chani faces approved.
 - **Rule enforcement:** the CS-PAUL-B anchor is now back-view only, and SCENE021 changed from CU to MS from behind. Before this fix, the director's young-Paul rule hadn't been applied to Batch 003 prompts. It was caught before generation.
 - **Editing preserves faces:** face-preserving edits (012, 016, 017) kept the approved faces while fixing the setting, costume or ears. Prefer editing over regenerating once a face is approved.
+
+## QC log: turn 5 (2026-11-23)
+
+| Scene | QC | Note |
+|---|---|---|
+| SCENE027 | PASS | Citadel faint in mirage (REF_LOC anchor used) |
+| SCENE028 | PASS | Paul face matches CS-PAUL-C anchor; sclera blue not clearly readable at this size |
+| SCENE029 | PASS | — |
+| SCENE030 | PASS | — |
+| SCENE031 | PASS | Statues in ancient-style armour = deliberate echo of historical conquerors; faces eroded |
+| SCENE032 | FIX | Read as Buddhist monks (saffron, shaven) + church thuribles = Earth-religion drift. Regen with hooded black/ochre priests |
+| SCENE033 | PASS | — |
+| SCENE034 | FIX | White sclera; edit to blue-in-blue (source anchors/EDITSRC_B004_SCENE034_FREMEN_GOVERNOR.jpg) |
+| SCENE035 | PASS | — |
+| SCENE036 | FAIL | ALIEN creatures in crowd: Dune has no aliens (canon). Regen; humans-only guard now in builder |
+
+- **New canon guard:** every prompt now states "any people shown are fully human (no aliens, no creatures)". Aliens, Buddhist monks, saffron robes and Earth religious symbols are added to the negatives.
+- **CS-ALIA-A/B hardened before first use.** The old anchor's "wide-set intense eyes" is the signature feature of the actress cast as Alia in *Part Three*. It's now a narrow heart-shaped face, small close-set deep-set eyes, an upturned nose, a lip scar and a blunt bob. Director approval is needed at first generation (SCENE037).
+- **SCENE033** said "towering columns", which contradicted ARCH_GUARD. Now "sheer monolithic walls and massive square piers".
+- **New tool `tools/rebuild_preserve.py`** rebuilds and keeps all QC'd records, batch statuses and this index automatically. It replaces the manual /tmp backup and restore.

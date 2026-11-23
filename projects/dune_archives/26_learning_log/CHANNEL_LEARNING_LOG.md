@@ -30,3 +30,9 @@
 - **Face-preserving edits work.** Passing the image and saying "keep the face exactly, change only X" fixed the setting (Shaddam), styling (Irulan) and ears plus sclera (Chani) without losing approved faces. This is the preferred fix route.
 - **Director rules must be written into the anchor itself.** A per-shot reminder isn't enough. The young-Paul back-view rule had been applied by hand in Batch 001 but not in the data, so Batch 003 contained a young-Paul close-up. It was caught before generation, and CS-PAUL-B is now a back-view-only anchor.
 - **Explicit "slit windows" plus "no arches" gives a clean brutalist hall.** Round niches can still creep into blurred backgrounds; acceptable when out of focus.
+
+## 2026-11-23: turn 5
+- **Generic "bazaar / pilgrims from many worlds" invites sci-fi aliens.** Dune has none. Every prompt now carries a humans-only clause.
+- **"Priests + censers + ochre" reads as Buddhist monks or Catholic thuribles.** Invented religions need invented visual cues: hoods, veils, black-and-ochre, angular metalwork. Name the Earth looks to avoid.
+- **Check every new face anchor against the current casting before first use** (as done for Alia). This is now a standing pre-flight step for each batch.
+- **Passing the approved anchor JPEG as a reference held Paul's face** in a new setting (SCENE028).
