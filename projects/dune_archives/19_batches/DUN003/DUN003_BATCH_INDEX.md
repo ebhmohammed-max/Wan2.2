@@ -188,7 +188,7 @@ Director said "go on". By my stated default, that approves the **CS-SCYTALE v1**
 | SCENE064 | PENDING-APPROVAL + FIX | Hayt from the Duncan-A ref; eyes need a faceted-metal edit |
 | SCENE065 | PASS | Duncan's last stand, seen from behind |
 | SCENE066 | PENDING-APPROVAL | First CS-DUNCAN-A face |
-| SCENE067 | PASS | Axlotl vats, nothing explicit |
+| SCENE067 | PASS (minor flag) | Faint arched alcoves on the left wall and ribbed pillars break the no-arches rule; crop or regenerate if the director wants |
 | SCENE069 | FIX | Paul's eyes are not blue-in-blue; eye edit queued |
 | SCENE071 | PASS | Paul-C ref held |
 | SCENE072 | PASS | Falcon-type hawk banner |
