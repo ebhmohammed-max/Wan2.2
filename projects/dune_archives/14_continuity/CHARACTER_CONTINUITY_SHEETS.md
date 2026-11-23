@@ -241,3 +241,11 @@ Still awaiting approval when first generated: CS-EDRIC, CS-KORBA, CS-LICHNA, CS-
   - **CS-LICHNA:** `anchors/REF_CS-LICHNA_v1_PENDING.jpg` (S082). Narrow freckled face, dark hair under a dun hood, blue eyes, thin jaw seam (Face Dancer hint).
   - **CS-OTHEYM:** `anchors/REF_CS-OTHEYM_v1_PENDING.jpg` (S086). Gaunt, deeply lined, wispy white beard, forehead scar. Needs an eye edit to blue-in-blue.
   - **CS-BIJAZ:** `anchors/REF_CS-BIJAZ_v1_PENDING.jpg` (S087). Adult man with dwarfism, round face, cropped dark hair, sly grin, dun robe.
+
+## v1.8 addendum (2026-11-23)
+- **APPROVED (refs in `anchors/` and Drive folder 14):**
+  - CS-KORBA v1
+  - CS-LICHNA v1
+  - CS-OTHEYM v1 (eye-edited ref)
+  - CS-BIJAZ v1 (realistic look kept)
+- **CS-PAUL-D (blind Paul) v1: PENDING (lens design only).** Reference: `anchors/REF_CS-PAUL-D_v1_PENDING.jpg` (S097 v2). Approved Paul-C face with frameless round near-black lenses on a thin band, pale burn scars at both temples, black high-collared imperial robe. Avoid modern wire-frame sunglasses.

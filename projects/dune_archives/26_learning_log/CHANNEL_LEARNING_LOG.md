@@ -74,3 +74,9 @@
 - **"Fremen in fine city robes" drifted to biblical, Greco-Roman, long-haired Hollywood looks** (S079). Specify hair covered or short, sun-darkened desert faces, and a Fremen cut.
 - **Describing dwarfism as "adult man with dwarfism, fully human, not a goblin"** gave a respectful, human result. It was so photographic that the likeness risk needs a human check.
 - **Glowglobes in exteriors** sometimes render as lamps on posts. Add "no posts, hovering freely".
+
+## 2026-11-23: turn 12
+- **"Smoked-glass lenses" alone renders as modern wire-frame sunglasses.** "Frameless round near-black lenses, no bridge, no temple arms, held by a thin band" got much closer in one edit.
+- **Fixing the S079 look** (short hair, head-cloths, desert-cut robes) **dropped the blue eyes entirely.** Every blue-eyed group shot needs a planned eye edit.
+- **"Silhouetted towers" in a city-wide shot drifted to modern glass skyscrapers** (S092). Use "blank windowless monolithic stone towers, no glass, no windows".
+- **Reference chaining continues to hold faces well:** Lichna in S081 and Bijaz in S088 both matched their refs first time.

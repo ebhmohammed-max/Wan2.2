@@ -2,7 +2,7 @@
  "episode": "DUN003",
  "batch": "BATCH010",
  "max_batch_size": 10,
- "status": "PENDING",
+ "status": "IN PROGRESS 3/10: 091 PASS; 092 FIX (regenerate); 097 Paul-D look pending approval; 094/098 held for Paul-D",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop",
  "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
  "images": [
@@ -19,10 +19,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. soldiers in a street turning away and throwing arms over their faces as white light begins. Lighting: sudden white flash. Camera: medium shot, 35mm lens. Mood: panic. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "10C3cMjkb7xYRzspPd7kS7WnKvCoGuRgI",
+   "qc": "PASS",
+   "qc_note": "Guards in dark robes recoil from white flash, hard shadows, dust. Minor: they carry long swords rather than short knives.",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE092",
@@ -37,10 +39,12 @@
    "onscreen_uses": 2,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a blinding white-violet flash erupting over the rooftops of a city district at night, silhouetted towers, a wall of dust. Lighting: overexposed flash. Camera: epic wide shot, low horizon, 24mm lens. Mood: catastrophe. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
    "drive_file_id": null,
-   "qc": "PENDING"
+   "qc": "FIX",
+   "qc_note": "White-violet flash and dust wall over flat rooftops read well, but the distant towers look like modern glass skyscrapers and the scene reads as daytime. Regenerate as night with blank monolithic towers.",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE093",
@@ -127,10 +131,13 @@
    "onscreen_uses": 2,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. man about thirty with a broad angular face, heavy straight brow ridge, prominent aquiline nose with a slight bump, wide thin-lipped mouth, strong square jaw under a short dense dark beard, close-cropped dark brown hair with early grey at the temples, weathered olive skin, eyes covered by dark smoked-glass lenses, faint healed burn scarring at the temples, calm composed expression, in a black imperial robe. Lighting: soft side light. Camera: portrait close-up, shallow depth of field, 85mm lens. Mood: eerie calm. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "162_r-mWoQVPa89hmoueyLH_gPyfSkuZ7",
+   "qc": "PENDING-APPROVAL",
+   "qc_note": "First CS-PAUL-D (blind Paul) from PAUL-C ref: face, brow scar and grey temples held; pale burn scars at temples. v2 edit replaced modern wire-frame sunglasses with frameless round near-black lenses on a thin band. Awaiting director sign-off on the lens design. Ref anchors/REF_CS-PAUL-D_v1_PENDING.jpg.",
+   "version": "v2",
+   "reference_used": "anchors/REF_CS-PAUL-C_v1.2.jpg"
   },
   {
    "scene_id": "DUN003_SCENE098",
