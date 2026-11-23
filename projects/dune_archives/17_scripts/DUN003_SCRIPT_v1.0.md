@@ -11,6 +11,8 @@
 | Publish target | 12–15 Dec 2026 (Dune: Part Three opens 18 Dec 2026) |
 | Status | DIRECTOR APPROVED 2026-11-23 (text locked; faces approved: PAUL v1.2, SHADDAM v1, IRULAN v2, CHANI-B v1) — [VERIFY] page checks still open before publish |
 
+**Revision 1.1 (2026-11-23, director approved):** ch. 08 line "And to press the point, Scytale holds a knife over the newborn twins." changed to "And to force the choice, Scytale threatens the newborn twins." The TTS moderation filter blocked the original wording. The filename stays v1.0 to keep repo paths stable.
+
 **Quote policy:** this draft contains NO direct quotations from the novels or from Frank Herbert. Everything is paraphrase. `[VERIFY]` items need a page check against a physical edition before LOCK.
 
 ---
@@ -164,7 +166,7 @@ VO: At that moment, two traps spring at once.
 
 VO: Chani's death is exactly the moment the Tleilaxu conditioning was waiting for. Hayt moves to kill Paul, but the command collides with everything Duncan Idaho was, and something breaks open. Duncan's memories come flooding back. A ghola has recovered the man he used to be.
 
-VO: Then Scytale makes his offer. The Tleilaxu can bring Chani back, as a ghola. The price is everything Paul holds. And to press the point, Scytale holds a knife over the newborn twins.
+VO: Then Scytale makes his offer. The Tleilaxu can bring Chani back, as a ghola. The price is everything Paul holds. And to force the choice, Scytale threatens the newborn twins.
 
 VO: Paul's vision ended with Chani. Now he is truly blind. And then, he sees, through the eyes of his infant son. Through Leto's eyes, Paul finds Scytale, and throws his knife.
 

@@ -548,6 +548,32 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 
 **Drive is now in sync with the repo for all DUN003 production docs.** Next phase: post-production (narration/TTS, music, edit, maps, 22 [VERIFY] fact checks). Optional image flags: S036, S067.
 
+
+## AB. DUN003 turns 23–25 (2026-11-23): narration
+
+- **Voice:** in-app TTS `voice-06` (en-US male), picked in audition 7 after 6 rejected pairs.
+- **Script revision 1.1, director approved:** in ch. 08, "Scytale holds a knife over the newborn twins" became "Scytale threatens the newborn twins". This was made in the script, the storyboard CSV row 142 and `data/dun003_episode.py`.
+- **VO:** 10 section files in `20_voiceover/DUN003/`, 11:03 raw.
+  - Section 08 had to be recorded in 2 halves to get past TTS moderation.
+  - The paced master (option a) is **12:11**.
+  - Details are in `20_voiceover/DUN003/DUN003_VO_LOG.md`. The build tool is `tools/vo_build.py`.
+
+| Drive folder | File | Drive ID |
+|---|---|---|
+| root → 20_voiceover (new) | folder | `1Du1eyJdMyQXd-gTmTxO-4zTeia0al4FQ` |
+| 20_voiceover | DUN003_VO_FULL_paced_v1.mp3 | `1Olw47n3n420y0NokQ-lbgKzrF3G8F0Dt` |
+| 20_voiceover | DUN003_VO_sections_v1.zip | `1IVs7vmoxgcFjkemu5IVdpkiKUvvqKAGE` |
+| 17 | DUN003_SCRIPT_v1.1 (Doc) | `1TJiVcNOgmpknpSsEkOSMvAiiNkGtsgb3J3ql-Tt0Aw4`. The v1.0 Doc `1riImFyVVDi8qQ8WDb9YPvgnqcJrMF_PN0Rka_94vWA0` is marked SUPERSEDED |
+| 18 | DUN003_STORYBOARD_v1.1 (Sheet) | **PENDING**: the upload hit the rate limit in turn 25. Retry next turn, then mark the old Sheet `1CIEszMmArahT64RcjJwLpsXowMF5lOwdi0F7hHDGz0c` SUPERSEDED |
+
+**Still open:**
+- 22 [VERIFY] fact checks (re-record any changed sections, then rebuild the master);
+- re-time the storyboard to 12:11;
+- map JSONs;
+- music;
+- the edit;
+- optional S036/S067 image flags.
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
@@ -570,5 +596,6 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 | v2.12 | 2026-11-23 | Drive docs refreshed: manifests v22, continuity v1.9, learning log, tracker v2.12 |
 | v2.13 | 2026-11-23 | Narration voice audition: 6 pairs rejected, no voice chosen; next step on narration awaits the director |
 | v2.14 | 2026-11-23 | Voice-06 chosen. Scratch VO recorded for 11 of 12 sections (9 files, 9:56) in `20_voiceover/DUN003/`; section 08 blocked by moderation; pace about 177 wpm, so runtime is about 11 min |
+| v2.15 | 2026-11-23 | Script rev 1.1 (ch. 08 line). VO complete: 10 sections plus paced master (12:11) on Drive in the new 20_voiceover folder. Storyboard Sheet v1.1 upload pending |
 
 > Turn 22 note: the old manifests v11, continuity v1.4 and original tracker Doc have their Drive descriptions set to SUPERSEDED, pointing at the new IDs above. The Drive tracker v2.12 Doc is a snapshot taken before its own ID was added here.

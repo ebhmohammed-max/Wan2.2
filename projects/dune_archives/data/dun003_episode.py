@@ -167,7 +167,7 @@ At that moment, two traps spring at once.
 
 Chani's death is exactly the moment the Tleilaxu conditioning was waiting for. Hayt moves to kill Paul, but the command collides with everything Duncan Idaho was, and something breaks open. Duncan's memories come flooding back. A ghola has recovered the man he used to be.
 
-Then Scytale makes his offer. The Tleilaxu can bring Chani back, as a ghola. The price is everything Paul holds. And to press the point, Scytale holds a knife over the newborn twins.
+Then Scytale makes his offer. The Tleilaxu can bring Chani back, as a ghola. The price is everything Paul holds. And to force the choice, Scytale threatens the newborn twins.
 
 Paul's vision ended with Chani. Now he is truly blind. And then, he sees, through the eyes of his infant son. Through Leto's eyes, Paul finds Scytale, and throws his knife.
 """),
