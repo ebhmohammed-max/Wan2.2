@@ -521,6 +521,21 @@ New PASS this turn (Drive pending): S147 v2, S149, S150; old-flag fixes S050 v2,
 
 v1 descriptions updated: S050 and S059 SUPERSEDED; S094 v1 ALTERNATIVE. **Waiting for Drive: S146–S150 (5).**
 
+
+## Z. DUN003 turn 21 (2026-11-23): IMAGE LIBRARY COMPLETE ON DRIVE
+
+| File | Drive ID | QC |
+|---|---|---|
+| B015 SCENE146_LETO_BOY_TEASE.png | `1KGRH026ky-IkyOZPu6tG8M6N96g8wqjL` | PASS |
+| B015 SCENE147_GOLDEN_PATH_TEASE_v2.png | `13UM0xG6ZyEsKxBhIiOqZlIxEIVB-B0MW` | PASS |
+| B015 SCENE148_SANDTROUT_HAND.png | `1g0AUyJSiYveT4Tq6WY3CPJrdzh7a2pNG` | PASS |
+| B015 SCENE149_ARCHIVE_DOOR_CLOSING.png | `1q_vS6HDpE-ltLUZPq_SWAOqcXU_4tP_9` | PASS |
+| B015 SCENE150_END_CARD_DUNES.png | `1uj1nQMKcJTPM-jb2QUPGUuCnY8P77La-` | PASS |
+
+Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn-4 flags closed.
+
+**All 150 of 150 PASS, all on Drive.** Open: minor flags on S036 and S067 (optional); Drive doc refresh (continuity v1.5–1.9, tracker Doc appends, manifests v11 → current); post-production (VO, music, edit, maps, 22 [VERIFY] fact checks).
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
@@ -539,3 +554,4 @@ v1 descriptions updated: S050 and S059 SUPERSEDED; S094 v1 ALTERNATIVE. **Waitin
 | v2.8 | 2026-11-23 | Batch 014 complete. Batch 015: 7 PASS, S147 FIX. 147/150 PASS. 11 Drive uploads pending. S145 Preacher awaiting director review |
 | v2.9 | 2026-11-23 | ALL 150 PASS. S147 v2, S149, S150; S050/S059/S094 flags fixed; S145 kept. 11 Drive uploads pending |
 | v2.10 | 2026-11-23 | Drive backlog 11 → 5 (S146–S150 remain) |
+| v2.11 | 2026-11-23 | All 150 on Drive. S012/S016 flags closed. Index v21 |

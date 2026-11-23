@@ -254,7 +254,7 @@
     "seed": null,
     "drive_file_id": "1YNZAPQRJnaC1GMF1O92OeMCH0SEd-aDk",
     "qc": "PASS",
-    "qc_note": "PASS v2: edited setting to monolithic stone; face approved (CS-SHADDAM v1)",
+    "qc_note": "PASS v2: edited setting to monolithic stone; face approved (CS-SHADDAM v1) Turn-4 director flag closed in turn 21 (approved by default via \"go on\"; v2 already resolved the issue).",
     "version": "v2"
    },
    {
@@ -334,7 +334,7 @@
     "seed": null,
     "drive_file_id": "1Nb-qNgJ6qRHyH4ROQZhELbPzQp2nMS_j",
     "qc": "PASS",
-    "qc_note": "PASS v2: restyled per director (veil, ivory/pale gold, lion shoulder clasp); face kept (CS-IRULAN v2). Minor: blurred round niches in background",
+    "qc_note": "PASS v2: restyled per director (veil, ivory/pale gold, lion shoulder clasp); face kept (CS-IRULAN v2). Minor: blurred round niches in background Turn-4 director flag closed in turn 21 (approved by default via \"go on\"; v2 already resolved the issue).",
     "version": "v2"
    },
    {
@@ -2972,7 +2972,7 @@
   "episode": "DUN003",
   "batch": "BATCH015",
   "max_batch_size": 10,
-  "status": "COMPLETE: 10/10 PASS (Drive upload pending: 146-150)",
+  "status": "COMPLETE: 10/10 PASS",
   "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop",
   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
   "images": [
@@ -3091,9 +3091,9 @@
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
     "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
     "seed": null,
-    "drive_file_id": null,
+    "drive_file_id": "1KGRH026ky-IkyOZPu6tG8M6N96g8wqjL",
     "qc": "PASS",
-    "qc_note": "Boy about nine, dark hair, strong brows, blue-in-blue eyes (crop confirmed, no white), solemn stare, golden light. One-off tease face, not an anchor. DRIVE UPLOAD PENDING: staged in pending_upload/ (6-uploads-per-reply limit).",
+    "qc_note": "Boy about nine, dark hair, strong brows, blue-in-blue eyes (crop confirmed, no white), solemn stare, golden light. One-off tease face, not an anchor.",
     "version": "v1"
    },
    {
@@ -3111,9 +3111,9 @@
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
     "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
     "seed": null,
-    "drive_file_id": null,
+    "drive_file_id": "13UM0xG6ZyEsKxBhIiOqZlIxEIVB-B0MW",
     "qc": "PASS",
-    "qc_note": "v2 remake: glowing golden line across dark dunes to ruins of blank monolithic slabs and broken towers, no arches or columns. v1 (Palmyra arches) rejected, never uploaded. DRIVE UPLOAD PENDING: staged in pending_upload/ (6-uploads-per-reply limit).",
+    "qc_note": "v2 remake: glowing golden line across dark dunes to ruins of blank monolithic slabs and broken towers, no arches or columns. v1 (Palmyra arches) rejected, never uploaded.",
     "version": "v2"
    },
    {
@@ -3131,9 +3131,9 @@
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
     "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
     "seed": null,
-    "drive_file_id": null,
+    "drive_file_id": "1g0AUyJSiYveT4Tq6WY3CPJrdzh7a2pNG",
     "qc": "PASS",
-    "qc_note": "Hand half-buried in dark sand with a slick translucent grey membrane over the back of the hand and wrist; no gore. Minor: hand reads adolescent rather than a small child's. DRIVE UPLOAD PENDING: staged in pending_upload/ (6-uploads-per-reply limit).",
+    "qc_note": "Hand half-buried in dark sand with a slick translucent grey membrane over the back of the hand and wrist; no gore. Minor: hand reads adolescent rather than a small child's.",
     "version": "v1"
    },
    {
@@ -3151,10 +3151,10 @@
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
     "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
     "seed": null,
-    "drive_file_id": null,
+    "drive_file_id": "1q_vS6HDpE-ltLUZPq_SWAOqcXU_4tP_9",
     "qc": "PASS",
     "version": "v1",
-    "qc_note": "Monolithic slab door sliding shut, a narrow vertical gap of amber light, scroll and crystal-sheet niches, dust in the beam. Minor: the small glowglobe sits close to the door and reads a little like a fixture. DRIVE UPLOAD PENDING: staged in pending_upload/ (6-uploads-per-reply limit)."
+    "qc_note": "Monolithic slab door sliding shut, a narrow vertical gap of amber light, scroll and crystal-sheet niches, dust in the beam. Minor: the small glowglobe sits close to the door and reads a little like a fixture."
    },
    {
     "scene_id": "DUN003_SCENE150",
@@ -3171,10 +3171,10 @@
     "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
     "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
     "seed": null,
-    "drive_file_id": null,
+    "drive_file_id": "1uj1nQMKcJTPM-jb2QUPGUuCnY8P77La-",
     "qc": "PASS",
     "version": "v1",
-    "qc_note": "Calm blue-hour dunes in the bottom quarter, two small moons, clean graded sky with large negative space for end-card text. Excellent. DRIVE UPLOAD PENDING: staged in pending_upload/ (6-uploads-per-reply limit)."
+    "qc_note": "Calm blue-hour dunes in the bottom quarter, two small moons, clean graded sky with large negative space for end-card text. Excellent."
    }
   ]
  }

@@ -382,3 +382,9 @@ Uploads this reply: S137–S142 = 6. **11 PASS images are waiting for Drive:** S
 ## Drive log: turn 20 (2026-11-23)
 
 Uploaded S050 v2, S059 v2, S094 v2, S143, S144 and S145 (6). Updated v1 descriptions: S050 and S059 marked SUPERSEDED; S094 v1 marked ALTERNATIVE. **5 images are still waiting for Drive:** S146–S150, in `pending_upload/`.
+
+## Drive log and flags: turn 21 (2026-11-23)
+
+- Uploaded S146, S147 v2, S148, S149 and S150. **All 150 PASS images are now on Drive** (every record has a drive_file_id).
+- **S012 and S016 turn-4 flags closed.** Their v2 images already resolved the issues: S012's setting re-edited to monolithic stone with the approved Shaddam face; S016 restyled to the director's spec. Approved by default via "go on".
+- **Older minor flags still open:** S036 v2 (some figurines resemble Earth Madonna statuettes) and S067 (faint arched alcoves and ribbed pillars). Both pass; director may want a crop or regeneration.
