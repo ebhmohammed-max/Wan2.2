@@ -270,3 +270,20 @@ Director said "go on". As stated in the turn-12 reply, that approves the **CS-PA
 | SCENE099 | PASS | Stillsuits look close to the film costume design |
 | SCENE100 | PASS | Tray of faceted steel eyes; looks like a modern jewellery box |
 | SCENE101 | PASS | Vision-overlay room; slightly Greek props |
+
+## QC log: turn 14 (2026-11-23)
+
+Director said "go on". As stated, that keeps **S098 as-is**; Paul-D shots from here on use a loose black desert robe. Used all 10 generations with **no failures**. **Batch 011 complete. 111/111 PASS.**
+
+| Scene | QC | Note |
+|---|---|---|
+| SCENE102 | PASS | Awed young guard with blue eyes |
+| SCENE103 | PASS | Paul-D on balcony, two moons, loose robe; parapet has a Greek-key pattern |
+| SCENE104 | PASS | Cracking crystal |
+| SCENE105 | PASS | Sandstorm wall |
+| SCENE106 | PASS | Chani-B ref held; pregnant, eating |
+| SCENE107 | PASS | Chani-B ref held; in pain |
+| SCENE108 | PASS | **First rotorless dragonfly ornithopter** |
+| SCENE109 | PASS | Birth chamber, modest; hooded elder looks slightly Reaper-like |
+| SCENE110 | PASS | Paul-D waiting; loose robe |
+| SCENE111 | PASS | Twin newborns |

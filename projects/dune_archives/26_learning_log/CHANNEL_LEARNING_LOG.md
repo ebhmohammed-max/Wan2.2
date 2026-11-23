@@ -86,3 +86,9 @@
 - **Black imperial robe + round dark lenses can read as Neo from The Matrix** (S098), especially when the robe renders as a long fitted coat. For Paul-D wide shots use "loose layered black desert robe with hood down, wide sleeves, not a coat".
 - **"Grey stillsuits" sometimes reproduces the ribbed 2021/2024 film costume** (S099). Consider "plain matte grey stillsuit with simple seams, original design".
 - **"Tribe members walking away" at small scale picks up modern backpacks.** Add "no backpacks, no modern gear".
+
+## 2026-11-23: turn 14
+- **Ornithopter solved:** "winged aircraft shaped like a large mechanical dragonfly, long segmented fuselage, glass cockpit, four long thin articulated insect wings folded back; NO rotors, NO propellers, NO helicopter blades, NO tail rotor" (S108). Reuse this wording verbatim.
+- **"Loose layered black desert robe with wide sleeves, hood down, not a fitted coat"** removed the Matrix read for Paul-D (S103, S110).
+- **The Chani-B ref transfers well into new poses**, including pregnancy (S106) and pain (S107).
+- **"Abstract geometric carving" can render as a Greek-key meander** (S103). Add "no meander or Greek key patterns".

@@ -394,6 +394,26 @@ QC log v13 (Google Doc) `1ubZ3GhU1RAtB-wo3tSQHf7nncdS3e0uhMd38FYG-s4c` uploaded.
 
 **Image progress: 101 of 150 generated, all 101 PASS. Batches 001–010 are complete.** Batch 011 is at 1/10. 49 images remain (Batches 011–015).
 
+
+## S. DUN003 turn 14 (2026-11-23)
+
+| File | Drive ID | QC |
+|---|---|---|
+| B011 SCENE102_FREMEN_AWE.png | `1kNXMG0-W551TCu3mM4kBkm-cEks_GDY0` | PASS |
+| B011 SCENE103_PAUL_BALCONY_MOONS.png | `1_d7lq-XtKqe8TNIBvRsD_pxs4c2FPRav` | PASS |
+| B011 SCENE104_CRACKING_CRYSTAL.png | `1Ajnh44E5CygtDMNG0mzLLmOHQX215koo` | PASS |
+| B011 SCENE105_SANDSTORM_APPROACH.png | `1Z0IMEJC9LItvZPlQH_-uLf-QBG5Dav_a` | PASS |
+| B011 SCENE106_CHANI_DESERT_MEAL.png | `1FzN0lbovgHGNnwVOivIHpCMdCQqYfcWV` | PASS |
+| B011 SCENE107_CHANI_PAIN.png | `1UjsznNtfCjm0LopY00RiZUj0_v9lXjao` | PASS |
+| B011 SCENE108_SIETCH_TABR_EXTERIOR.png | `1D5rLBz8a8-3uiTUQXE2KTM2bEQQ6wQs9` | PASS |
+| B011 SCENE109_BIRTH_CHAMBER.png | `19glZghLEo79rvV4VZacubBEzHMGre-kg` | PASS |
+| B011 SCENE110_PAUL_WAITING.png | `1MG2mnI7HBlz0UQ-848gsQKDvCsk9eRas` | PASS |
+| B012 SCENE111_TWINS_NEWBORN.png | `1HNuBrsgVS9hRn8tFJjxez5gxH8navf2U` | PASS |
+
+S098 is kept as-is (director, turn 14). __DOCS__
+
+**Image progress: 111 of 150 generated, all 111 PASS. Batches 001–011 are complete.** Batch 012 is at 1/10. 39 images remain.
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
@@ -405,3 +425,4 @@ QC log v13 (Google Doc) `1ubZ3GhU1RAtB-wo3tSQHf7nncdS3e0uhMd38FYG-s4c` uploaded.
 | v2.1 | 2026-11-23 | Duncan-B approved. Batch 007 10/10 PASS. Batch 008 fully generated. Batch 009 at 6/10. Korba/Lichna/Otheym/Bijaz faces pending |
 | v2.2 | 2026-11-23 | Korba/Lichna/Otheym/Bijaz approved. Batch 009 10/10 PASS. Batch 010 started. Paul-D (blind) look pending |
 | v2.3 | 2026-11-23 | Paul-D approved. Batches 008 and 010 complete. 101/101 PASS. Batch 011 started |
+| v2.4 | 2026-11-23 | Batch 011 complete. 111/111 PASS. Batch 012 started. Ornithopter solved |
