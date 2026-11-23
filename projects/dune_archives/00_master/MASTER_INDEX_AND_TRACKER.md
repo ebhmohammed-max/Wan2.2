@@ -618,6 +618,7 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
   - A new column `tc_in_s` holds precise cut times.
 - The chapter-window table is in `20_voiceover/DUN003/DUN003_VO_LOG.md`.
 - **Never run `build_episode.py` again for DUN003.** It would overwrite these timings.
+- **Drive:** storyboard Sheet "DUN003_STORYBOARD v4" is `1kQ6U7IvYfuqAutgONPJ8HerZsLwCA6CxQ_lmbz6B6GI` in folder 18. v3 `1ei_ibvM1Xxu9dYvr49HSIi14NEefZwI-mTNgRiUXZVA` is marked SUPERSEDED.
 
 | Version | Date | Change |
 |---|---|---|
