@@ -369,7 +369,7 @@ The KORBA, LICHNA, OTHEYM and BIJAZ `_PENDING` reference jpgs are local in `anch
 | B010 SCENE097_PAUL_BLIND_PORTRAIT_v2.png | `162_r-mWoQVPa89hmoueyLH_gPyfSkuZ7` | pending Paul-D lens design |
 | B008 SCENE079 v2 / B010 SCENE092 | not uploaded (FIX; edit sources in `anchors/EDITSRC_*`) | FIX |
 
-The QC log and combined batch file on Drive are still v11; this turn's changes are in git. `REF_CS-PAUL-D_v1_PENDING.jpg` is local only.
+QC log v12 (Google Doc) `1JiJYGVnv3v1TwmUxZjO_wbiN8i3ctykDNG1vuosAEAE` uploaded. The combined batch file on Drive is still v11; this turn's version is in git. `REF_CS-PAUL-D_v1_PENDING.jpg` is local only.
 
 **Image progress: 93 of 150 generated. 90 PASS, 2 FIX, 1 pending approval.** Batches 001–009 generated in full (008 has 1 FIX). Batch 010 is at 3/10.
 
