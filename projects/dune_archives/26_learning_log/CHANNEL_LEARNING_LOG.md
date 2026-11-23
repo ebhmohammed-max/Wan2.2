@@ -68,3 +68,9 @@
 - **"Old Fremen with entirely blue eyes" still rendered white sclera** (S078), even with "no white sclera" in the prompt. Plan an eye edit for every blue-eyed close or medium shot.
 - **"Plain grey tunic" tends to render as a modern T-shirt or loungewear.** Next time try "coarse woven grey tunic, high collar, wrapped belt".
 - **Two upload rounds of 6 with a 15-second pause** stayed within the rate limit.
+
+## 2026-11-23: turn 11
+- **Blue-in-blue fails in nearly every first-pass render**, even with "whites also blue" spelled out (S079, S080, S086). The eye-only edit with "whites completely replaced by a darker deep blue" works first time. Budget 1 edit per blue-eyed close-up.
+- **"Fremen in fine city robes" drifted to biblical, Greco-Roman, long-haired Hollywood looks** (S079). Specify hair covered or short, sun-darkened desert faces, and a Fremen cut.
+- **Describing dwarfism as "adult man with dwarfism, fully human, not a goblin"** gave a respectful, human result. It was so photographic that the likeness risk needs a human check.
+- **Glowglobes in exteriors** sometimes render as lamps on posts. Add "no posts, hovering freely".

@@ -330,6 +330,27 @@ Image progress: 16 of 150 final PASS, plus 4 pending.
 
 **Image progress: 78 of 150 generated. 71 PASS, 6 pending Duncan-B sign-off, 1 FIX.** Batches 001–007 generated in full; Batch 008 is at 8/10.
 
+
+## P. DUN003 turn 11 (2026-11-23)
+
+| File | Drive ID | QC |
+|---|---|---|
+| REF_CS-DUNCAN-B_v1.jpg (renamed from _PENDING, folder 14) | `1SRDvKYsvT7RChvkkRKDiWOzlrL4koVec` | APPROVED anchor |
+| B008 SCENE077_HAYT_DOORWAY_GUARD.png | `18WYczRHB0bX9zj_JS8piVk_1p2g-DeOL` | PASS |
+| B008 SCENE078_FREMEN_NAIBS_SECRET_v2.png | `1GyOzPpwa1QF7OTbXm-OLpzpZo_PpHUo3` | PASS |
+| B008 SCENE079_SOFT_FREMEN_CITY.png | not uploaded (FIX; local copy in `pending_upload/`) | FIX |
+| B008 SCENE080_KORBA_PRIEST_v2.png | `1ewlXE1vqF3rQ_6NlgioKNNQFboGY7-ip` | pending Korba face |
+| B009 SCENE082_LICHNA_FACE_SEAM.png | `1qyO2wbVsh8yNJwunflLeCbDDyL0vh-Kj` | pending Lichna face |
+| B009 SCENE083_ARRAKEEN_NIGHT_STREETS.png | `1gkGdwGlSeieqPoWKKP9oaHI4AKylGilX` | PASS |
+| B009 SCENE084_PAUL_NIGHT_ESCORT.png | `1wAUpwCZ0762L3TLaGwGlGRCBA-OnHM3N` | PASS |
+| B009 SCENE085_OTHEYM_HOUSE.png | `1DxjXcINXF9cv2zc2IWubm32NAdWT5545` | PASS |
+| B009 SCENE086_OTHEYM_DYING.png | `13zS1z7tapIQ0XHvDHCrgEv8KR0WqC-9R` | pending Otheym face |
+| B009 SCENE087_BIJAZ_PORTRAIT.png | `1BfiWpVHxu6Yo384uaJtWacG0cUDcCS7M` | pending Bijaz face |
+
+The KORBA, LICHNA, OTHEYM and BIJAZ `_PENDING` reference jpgs are local in `anchors/` and will be uploaded to folder 14 once approved. The QC log and combined batch file on Drive are still v10 (this turn's changes are in git).
+
+**Image progress: 86 of 150 generated. 81 PASS, 4 pending face approval, 1 FIX.** Batches 001–008 generated in full; Batch 009 is at 6/10.
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
@@ -338,3 +359,4 @@ Image progress: 16 of 150 final PASS, plus 4 pending.
 | v1.8 | 2026-11-23 | Mohiam + Edric approved. Batch 005 10/10. Batch 006 closed (Scytale face pending). Batch 007 started. 2 uploads deferred (rate limit) |
 | v1.9 | 2026-11-23 | Scytale approved. Batch 006 10/10. Deferred uploads done. Duncan-A + Hayt faces pending. Batch 008 started |
 | v2.0 | 2026-11-23 | Duncan-A approved. S064/S069 eye fixes. Batch 007 fully generated. Batch 008 at 8/10. Duncan-B eye design pending |
+| v2.1 | 2026-11-23 | Duncan-B approved. Batch 007 10/10 PASS. Batch 008 fully generated. Batch 009 at 6/10. Korba/Lichna/Otheym/Bijaz faces pending |

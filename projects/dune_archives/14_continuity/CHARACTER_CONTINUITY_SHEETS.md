@@ -233,3 +233,11 @@ Still awaiting approval when first generated: CS-EDRIC, CS-KORBA, CS-LICHNA, CS-
 ## v1.6 addendum (2026-11-23)
 - **CS-DUNCAN-A v1: APPROVED.** Reference: `anchors/REF_CS-DUNCAN-A_v1.jpg`.
 - **CS-DUNCAN-B v1: PENDING (eye design only).** Reference: `anchors/REF_CS-DUNCAN-B_v1_PENDING.jpg` (from S064 v2). Approved Duncan-A face with polished faceted-steel eyes (gem-cut facets, no iris, no pupil, no glow). Prompt tip: "coarse woven grey tunic, high collar" to avoid a modern T-shirt look.
+
+## v1.7 addendum (2026-11-23)
+- **CS-DUNCAN-B v1: APPROVED.** Reference: `anchors/REF_CS-DUNCAN-B_v1.jpg`. Use "coarse woven grey tunic, high collar" from now on.
+- **First faces for 4 original-design characters, all PENDING director approval:**
+  - **CS-KORBA:** `anchors/REF_CS-KORBA_v1_PENDING.jpg` (S080 v2). Heavy-set, shaved scalp with raised curving ritual scars, grey-flecked black beard, blue-in-blue eyes, black and rust robes over stillsuit collar.
+  - **CS-LICHNA:** `anchors/REF_CS-LICHNA_v1_PENDING.jpg` (S082). Narrow freckled face, dark hair under a dun hood, blue eyes, thin jaw seam (Face Dancer hint).
+  - **CS-OTHEYM:** `anchors/REF_CS-OTHEYM_v1_PENDING.jpg` (S086). Gaunt, deeply lined, wispy white beard, forehead scar. Needs an eye edit to blue-in-blue.
+  - **CS-BIJAZ:** `anchors/REF_CS-BIJAZ_v1_PENDING.jpg` (S087). Adult man with dwarfism, round face, cropped dark hair, sly grin, dun robe.

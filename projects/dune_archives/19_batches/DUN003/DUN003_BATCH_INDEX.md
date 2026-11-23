@@ -216,3 +216,21 @@ Director said "go on". Following the turn-9 precedent, that approves the **CS-DU
 | SCENE078 | FIX | Elders' irises are blue but the whites are not; eye edit queued |
 
 All 6 PENDING-APPROVAL shots wait only on the director's sign-off of the Duncan-B (Hayt) eye design.
+
+## QC log: turn 11 (2026-11-23)
+
+Director said "go on". Following the turn-9/10 precedent, that approves the **CS-DUNCAN-B (Hayt) faceted-steel eye design**. S064, S068, S070, S073, S074 and S077 move to PASS, and the ref is renamed `anchors/REF_CS-DUNCAN-B_v1.jpg`. Going forward Hayt prompts use "coarse woven grey tunic, high collar"; existing shots are not redone. Used all 10 generations with **no failures**.
+
+| Scene | QC | Note |
+|---|---|---|
+| SCENE078 v2 | PASS | Eye edit: elders now blue-in-blue |
+| SCENE079 | FIX | Looks biblical/Greco-Roman with Euro-Hollywood faces and white sclera; regenerate |
+| SCENE080 v2 | PENDING-APPROVAL | First **Korba** face (eye-edited) |
+| SCENE082 | PENDING-APPROVAL | First **Lichna** face, with the Face Dancer jaw seam |
+| SCENE083 | PASS | Night streets, two moons |
+| SCENE084 | PASS | Hooded escort seen from behind |
+| SCENE085 | PASS | Otheym's house |
+| SCENE086 | PENDING-APPROVAL | First **Otheym** face; eye edit to follow |
+| SCENE087 | PENDING-APPROVAL | First **Bijaz** face; director to judge likeness risk |
+
+S081 (Lichna) and S088 (Bijaz) are held until their faces are approved.

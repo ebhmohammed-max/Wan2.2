@@ -2,7 +2,7 @@
  "episode": "DUN003",
  "batch": "BATCH009",
  "max_batch_size": 10,
- "status": "PENDING",
+ "status": "IN PROGRESS 6/10: 083/084/085 PASS; 082/086/087 new faces pending approval; 081/088 held for face approval; 089/090 pending",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop",
  "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
  "images": [
@@ -37,10 +37,12 @@
    "onscreen_uses": 2,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. young Fremen woman about twenty, narrow face, dark hair under a hood, entirely blue eyes, plain desert robe, a faint unnatural seam of light along the jaw suggesting a mask beneath. Lighting: hard side light. Camera: portrait close-up, shallow depth of field, 85mm lens. Mood: eerie. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "1qyO2wbVsh8yNJwunflLeCbDDyL0vh-Kj",
+   "qc": "PENDING-APPROVAL",
+   "qc_note": "First CS-LICHNA face: narrow face, freckles, dun hood, visible thin seam along jaw (Face Dancer hint). Sclera reads pale blue-grey, acceptable. Face is somewhat model-like. Ref anchors/REF_CS-LICHNA_v1_PENDING.jpg.",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE083",
@@ -55,10 +57,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. narrow streets of a desert city at night with sparse floating glowglobes, a hooded escort moving through. Lighting: two moons and glowglobes. Camera: epic wide shot, low horizon, 24mm lens. Mood: danger. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "1gkGdwGlSeieqPoWKKP9oaHI4AKylGilX",
+   "qc": "PASS",
+   "qc_note": "Monolithic canyon streets, two moons, hooded trio. Minor: two glowglobes look like lamps on posts.",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE084",
@@ -73,10 +77,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a man in a plain hooded desert cloak walking with two guards through a dark alley. Lighting: low light. Camera: medium shot, 35mm lens. Mood: resolve. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "1wAUpwCZ0762L3TLaGwGlGRCBA-OnHM3N",
+   "qc": "PASS",
+   "qc_note": "From behind: hooded man between two armed guards in a moonlit alley. Faces hidden (no Paul likeness needed).",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE085",
@@ -91,10 +97,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a modest mud-and-stone house with a low door in a poor district, oil lamps in the window. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: warm lamp glow at night. Camera: establishing shot, 35mm lens. Mood: foreboding. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "1DxjXcINXF9cv2zc2IWubm32NAdWT5545",
+   "qc": "PASS",
+   "qc_note": "Mud-and-stone hovel, warm barred window, drifted sand, moon. No people.",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE086",
@@ -109,10 +117,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. very old emaciated Fremen veteran, deeply lined face, wispy white beard, fierce entirely blue eyes, worn robe, lying on worn cushions, trembling hands. Lighting: oil lamp light. Camera: portrait close-up, shallow depth of field, 85mm lens. Mood: pathos. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "13zS1z7tapIQ0XHvDHCrgEv8KR0WqC-9R",
+   "qc": "PENDING-APPROVAL",
+   "qc_note": "First CS-OTHEYM face: gaunt, deeply lined, wispy white beard, forehead scar, glowglobe (no oil lamp). Eyes have white sclera; eye-only edit planned once face is approved. Ref anchors/REF_CS-OTHEYM_v1_PENDING.jpg.",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE087",
@@ -127,10 +137,12 @@
    "onscreen_uses": 2,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. dwarf the size of a child, wide round face, grey-tinged skin, sly glittering eyes, plain dun robe, seated on a low stool, sly grin. Lighting: oil lamp light. Camera: medium shot, 50mm lens. Mood: sly. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "1BfiWpVHxu6Yo384uaJtWacG0cUDcCS7M",
+   "qc": "PENDING-APPROVAL",
+   "qc_note": "First CS-BIJAZ face: adult man with dwarfism, round face, sly grin, dun robe, glowglobe, fully human, respectful depiction. Grey skin tint barely visible. Very photographic realism, so likeness to a real person cannot be ruled out by eye; director to judge. Ref anchors/REF_CS-BIJAZ_v1_PENDING.jpg.",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE088",

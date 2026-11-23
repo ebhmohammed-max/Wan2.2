@@ -2,7 +2,7 @@
  "episode": "DUN003",
  "batch": "BATCH008",
  "max_batch_size": 10,
- "status": "IN PROGRESS 8/10: 071/072/075/076 PASS; 073/074/077 pending Duncan-B sign-off; 078 FIX (eye edit); 079/080 pending",
+ "status": "COMPLETE (generated 10/10): 8 PASS; S080 Korba face pending approval; S079 FIX (regenerate)",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop",
  "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
  "images": [
@@ -62,8 +62,8 @@
    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
    "drive_file_id": "18b1UQBqMD4xfn_gzcxMKdzrtYkq63iE1",
-   "qc": "PENDING-APPROVAL",
-   "qc_note": "Duncan-A ref with steel eyes; hooded emperor from behind; crowd below. Minor: eyes read pale silver at this distance; wall glyphs look faintly Egyptian (no legible text); square pillars top right. Pending Duncan-B sign-off.",
+   "qc": "PASS",
+   "qc_note": "Duncan-A ref with steel eyes; hooded emperor from behind; crowd below. Minor: eyes read pale silver at this distance; wall glyphs look faintly Egyptian (no legible text); square pillars top right. Duncan-B eye design APPROVED by director (turn 11 \"go on\").",
    "version": "v1",
    "reference_used": "anchors/REF_CS-DUNCAN-A_v1.jpg"
   },
@@ -83,10 +83,10 @@
    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
    "drive_file_id": "1p7NpT_a7dtZ8jkURwnz--aV2o6riT96W",
-   "qc": "PENDING-APPROVAL",
-   "qc_note": "Wide training hall, bluish personal-shield shimmer, flat walls with slit windows. Face small. Pending Duncan-B sign-off.",
+   "qc": "PASS",
+   "qc_note": "Wide training hall, bluish personal-shield shimmer, flat walls with slit windows. Face small. Duncan-B eye design APPROVED by director (turn 11 \"go on\").",
    "version": "v1",
-   "reference_used": "anchors/REF_CS-DUNCAN-B_v1_PENDING.jpg"
+   "reference_used": "anchors/REF_CS-DUNCAN-B_v1.jpg"
   },
   {
    "scene_id": "DUN003_SCENE075",
@@ -143,11 +143,11 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING-APPROVAL",
-   "qc_note": "Duncan-B ref held; full figure in doorway, eyes glint, knife at belt. Minor: lit from front rather than backlit; glowglobe is in the bedroom behind; long-sleeve top reads modern. Pending Duncan-B sign-off.",
+   "drive_file_id": "18WYczRHB0bX9zj_JS8piVk_1p2g-DeOL",
+   "qc": "PASS",
+   "qc_note": "Duncan-B ref held; full figure in doorway, eyes glint, knife at belt. Minor: lit from front rather than backlit; glowglobe is in the bedroom behind; long-sleeve top reads modern. Duncan-B eye design APPROVED by director (turn 11 \"go on\").",
    "version": "v1",
-   "reference_used": "anchors/REF_CS-DUNCAN-B_v1_PENDING.jpg"
+   "reference_used": "anchors/REF_CS-DUNCAN-B_v1.jpg"
   },
   {
    "scene_id": "DUN003_SCENE078",
@@ -164,10 +164,10 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "FIX",
-   "qc_note": "Three weathered Fremen elders in rock alcove, glowglobe (no oil lamp), not monks. FIX: irises blue but sclera white; eye-only edit queued from anchors/EDITSRC_B008_SCENE078_NAIB_CONSPIRACY.jpg.",
-   "version": "v1"
+   "drive_file_id": "1GyOzPpwa1QF7OTbXm-OLpzpZo_PpHUo3",
+   "qc": "PASS",
+   "qc_note": "v2 eye-only edit: all three elders now blue-in-blue. Glowglobe, rock alcove, not monks.",
+   "version": "v2"
   },
   {
    "scene_id": "DUN003_SCENE079",
@@ -182,10 +182,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. Fremen in fine city robes without stillsuits lounging by a water garden. Lighting: soft afternoon light. Camera: medium shot, 35mm lens. Mood: decay. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
    "drive_file_id": null,
-   "qc": "PENDING"
+   "qc": "FIX",
+   "qc_note": "Pool, palms, fine silk robes, goblet: the decay idea reads. FIX: long wet hair and draped robes look biblical/Greco-Roman, faces read Euro-Hollywood, and blue irises have white sclera. Regenerate with hair covered or short, sun-darkened desert faces, Fremen-cut robes.",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE080",
@@ -200,10 +202,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. heavy-set middle-aged Fremen priest with shaved head, ritual scars on scalp, ochre and black robes, entirely blue eyes, zealous stare, incense smoke drifting past. Lighting: warm side light. Camera: portrait close-up, shallow depth of field, 85mm lens. Mood: zeal. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "1ewlXE1vqF3rQ_6NlgioKNNQFboGY7-ip",
+   "qc": "PENDING-APPROVAL",
+   "qc_note": "First CS-KORBA face (v2 after eye edit): heavy-set, shaved scalp with raised ritual scarification, grey-flecked black beard, blue-in-blue eyes, black and rust robes over stillsuit collar. No monk read. Ref anchors/REF_CS-KORBA_v1_PENDING.jpg.",
+   "version": "v2"
   }
  ]
 }
