@@ -347,7 +347,7 @@ Image progress: 16 of 150 final PASS, plus 4 pending.
 | B009 SCENE086_OTHEYM_DYING.png | `13zS1z7tapIQ0XHvDHCrgEv8KR0WqC-9R` | pending Otheym face |
 | B009 SCENE087_BIJAZ_PORTRAIT.png | `1BfiWpVHxu6Yo384uaJtWacG0cUDcCS7M` | pending Bijaz face |
 
-The KORBA, LICHNA, OTHEYM and BIJAZ `_PENDING` reference jpgs are local in `anchors/` and will be uploaded to folder 14 once approved. The QC log and combined batch file on Drive are still v10 (this turn's changes are in git).
+The KORBA, LICHNA, OTHEYM and BIJAZ `_PENDING` reference jpgs are local in `anchors/` and will be uploaded to folder 14 once approved. QC log v11 (Google Doc) `1Y0yhO5cPVWm2xu-H3AePMC2Hi6QTZhdQcAs_X4vKUus` and combined batch file v11 `1F1JazNc7kv9nFObp4IcwKmlqvSD8DlRg` uploaded; they supersede v10.
 
 **Image progress: 86 of 150 generated. 81 PASS, 4 pending face approval, 1 FIX.** Batches 001–008 generated in full; Batch 009 is at 6/10.
 
