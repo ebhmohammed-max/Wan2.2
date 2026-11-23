@@ -1,0 +1,117 @@
+{
+  "_comment": "DUN003 MAP C, ch. 04, storyboard shot 56 (in 206.90 s, 5.5 s on screen; rendered 7.0 s with handles). VO: 'The first is the Sisterhood itself, in the person of the Reverend Mother Gaius Helen Mohiam.' The four powers converge on Wallach IX (Bene Gesserit Mother School). Then the plot points at Arrakis. Wallach IX, Arrakis and Tleilax are ORIGINAL names. The Guild heighliner start point and all positions are RECON. Layout v2: nodes repositioned so routes don't cross the labels.",
+  "style": "imperial",
+  "duration": 7.0,
+  "camera": {
+    "focus": [
+      0.4,
+      0.5
+    ],
+    "push": 0.1
+  },
+  "provenance": "SCHEMATIC RECONSTRUCTION — RELATIVE POSITIONS ARE ARTISTIC",
+  "nodes": [
+    {
+      "id": "wallach",
+      "label": "Wallach IX",
+      "sub": "Bene Gesserit Mother School · Mohiam",
+      "x": 0.4,
+      "y": 0.4,
+      "canon": "ORIGINAL"
+    },
+    {
+      "id": "guild",
+      "label": "Guild heighliner",
+      "sub": "Steersman Edric",
+      "x": 0.3,
+      "y": 0.15,
+      "canon": "RECON"
+    },
+    {
+      "id": "tleilax",
+      "label": "Tleilax",
+      "sub": "Face Dancer Scytale",
+      "x": 0.14,
+      "y": 0.64,
+      "canon": "ORIGINAL"
+    },
+    {
+      "id": "arrakis",
+      "label": "Arrakis",
+      "sub": "Paul's court · Princess Irulan",
+      "x": 0.45,
+      "y": 0.84,
+      "canon": "ORIGINAL"
+    }
+  ],
+  "beats": [
+    {
+      "type": "title",
+      "text": "Four powers meet",
+      "sub": "Wallach IX, in secret",
+      "start": 0.0,
+      "dur": 1.2
+    },
+    {
+      "type": "node",
+      "id": "wallach",
+      "start": 0.3,
+      "dur": 1.0
+    },
+    {
+      "type": "node",
+      "id": "guild",
+      "start": 1.2,
+      "dur": 0.6
+    },
+    {
+      "type": "node",
+      "id": "tleilax",
+      "start": 1.4,
+      "dur": 0.6
+    },
+    {
+      "type": "node",
+      "id": "arrakis",
+      "start": 1.6,
+      "dur": 0.6
+    },
+    {
+      "type": "route",
+      "path": [
+        "guild",
+        "wallach"
+      ],
+      "start": 1.8,
+      "dur": 1.4
+    },
+    {
+      "type": "route",
+      "path": [
+        "tleilax",
+        "wallach"
+      ],
+      "start": 2.0,
+      "dur": 1.4
+    },
+    {
+      "type": "route",
+      "path": [
+        "arrakis",
+        "wallach"
+      ],
+      "dashed": true,
+      "start": 2.2,
+      "dur": 1.4
+    },
+    {
+      "type": "route",
+      "path": [
+        "wallach",
+        "arrakis"
+      ],
+      "start": 4.2,
+      "dur": 2.0
+    }
+  ]
+}

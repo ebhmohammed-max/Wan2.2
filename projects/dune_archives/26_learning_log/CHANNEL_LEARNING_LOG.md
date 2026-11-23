@@ -152,3 +152,8 @@
 - No speech-recognition model can be downloaded (only pypi is reachable), so the storyboard was aligned by text position inside each section. Position is measured over speech time only, then each cut snaps to a pause. Section boundaries are exact; cuts inside a section are about ±0.5 s.
 - /tmp is wiped between turns, and so are git-ignored large files (the VO master). Every turn that needs them must recreate the venv (`pip install mutagen imageio-ffmpeg`) and rebuild the master. Both steps are deterministic and take about 10 s.
 - Write storyboard VO lines as full sentences so they can be matched against the script. Placeholder rows, "(VO continues…)", are spread evenly between their neighbours.
+
+## DUN003 turn 29 (2026-11-23): maps
+- map_animator always puts node labels to the right of the node. Any route leaving a node to the right at a shallow angle cuts through its label. Lay nodes out so routes leave left, or steeply up or down; otherwise frame-check and fix.
+- A render takes about 2 minutes per 8 s on CPU. Run renders through start_process, one at a time, and frame-check with ffmpeg `-ss`.
+- For a canon-safe jihad map, use unnamed RECON dots plus Arrakis. Herbert names no conquest order and gives no coordinates.

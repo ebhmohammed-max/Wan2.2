@@ -1,0 +1,84 @@
+{
+  "_comment": "DUN003 MAP A, ch. 02, storyboard shot 19 (in 69.12 s, 6.4 s on screen; rendered 8.0 s with handles). VO: 'Without spice, the Spacing Guild cannot navigate. Without the Guild, there is no empire.' A POWER DIAGRAM, not geography. Node positions are artistic. Canon: Dune (1965). Paul's threat to destroy the spice is his lever over the Guild and the throne. Layout v2: no dashed return route, and the Guild sits above the Empire so routes don't cross the labels.",
+  "style": "imperial",
+  "duration": 8.0,
+  "camera": {
+    "focus": [
+      0.46,
+      0.5
+    ],
+    "push": 0.06
+  },
+  "provenance": "SCHEMATIC POWER DIAGRAM — CREATIVE RECONSTRUCTION — NOT A MAP",
+  "nodes": [
+    {
+      "id": "arrakis",
+      "label": "Arrakis",
+      "sub": "only source of the spice",
+      "x": 0.24,
+      "y": 0.68,
+      "canon": "ORIGINAL"
+    },
+    {
+      "id": "guild",
+      "label": "Spacing Guild",
+      "sub": "Navigators need spice to fold space",
+      "x": 0.6,
+      "y": 0.28,
+      "canon": "ORIGINAL"
+    },
+    {
+      "id": "empire",
+      "label": "The Empire",
+      "sub": "no Guild, no travel, no empire",
+      "x": 0.64,
+      "y": 0.72,
+      "canon": "ORIGINAL"
+    }
+  ],
+  "beats": [
+    {
+      "type": "title",
+      "text": "The oldest lever",
+      "sub": "He who can destroy the spice controls it",
+      "start": 0.0,
+      "dur": 1.2
+    },
+    {
+      "type": "node",
+      "id": "arrakis",
+      "start": 0.3,
+      "dur": 0.9
+    },
+    {
+      "type": "route",
+      "path": [
+        "arrakis",
+        "guild"
+      ],
+      "start": 0.9,
+      "dur": 1.6
+    },
+    {
+      "type": "node",
+      "id": "guild",
+      "start": 2.2,
+      "dur": 0.9
+    },
+    {
+      "type": "route",
+      "path": [
+        "guild",
+        "empire"
+      ],
+      "start": 3.3,
+      "dur": 1.6
+    },
+    {
+      "type": "node",
+      "id": "empire",
+      "start": 4.6,
+      "dur": 0.9
+    }
+  ]
+}

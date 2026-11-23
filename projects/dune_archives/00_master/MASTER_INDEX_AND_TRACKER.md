@@ -620,6 +620,13 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 - **Never run `build_episode.py` again for DUN003.** It would overwrite these timings.
 - **Drive:** storyboard Sheet "DUN003_STORYBOARD v4" is `1kQ6U7IvYfuqAutgONPJ8HerZsLwCA6CxQ_lmbz6B6GI` in folder 18. v3 `1ei_ibvM1Xxu9dYvr49HSIi14NEefZwI-mTNgRiUXZVA` is marked SUPERSEDED.
 
+
+## AF. DUN003 turn 29 (2026-11-23): animated maps
+
+- 3 map scene files were authored in `templates/maps/` (A spice lever, B jihad spread, C Wallach IX). They were rendered with `tools/map_animator.py` to `19_batches/DUN003/maps/*.mp4` (1080p24, 6–8 s each, with trim handles).
+- QC PASS after the layout v2 label-collision fix. Details are in `19_batches/DUN003/maps/README.md`.
+- All 178 storyboard shots now have a visual: 150 stills plus 3 maps; the remaining shots reuse stills.
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
@@ -646,5 +653,6 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 | v2.16 | 2026-11-23 | Fact check 22/22 PASS (report in 25_sources). Script rev 1.2. Storyboard Sheet v1.1 on Drive |
 | v2.17 | 2026-11-23 | Script rev 1.3 (§03 date line plus on-screen text). VO §03 re-recorded; master v2 12:09 on Drive |
 | v2.18 | 2026-11-23 | Storyboard re-timed to the 12:09 VO (programme 12:11). New tool retime_storyboard.py. Storyboard v4 on Drive |
+| v2.19 | 2026-11-23 | 3 animated maps authored, rendered and QC PASS; on Drive |
 
 > Turn 22 note: the old manifests v11, continuity v1.4 and original tracker Doc have their Drive descriptions set to SUPERSEDED, pointing at the new IDs above. The Drive tracker v2.12 Doc is a snapshot taken before its own ID was added here.
