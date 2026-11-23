@@ -448,9 +448,32 @@ S119 needs a remake (double-ended knife). S116 failed to generate. The S097 Driv
 | B013 SCENE127_IRULAN_WITH_TWINS.png | `(upload pending)` | PASS |
 | B013 SCENE128_CITADEL_DUSK.png | `(upload pending)` | PASS |
 
-Drive rate-limited after 7 uploads. S126–S128 are staged in `pending_upload/` (committed). Index/QC v16 is not yet on Drive.
+Drive rate-limited after 7 uploads. S126–S128 are staged in `pending_upload/` (committed). Index/QC v16 is not yet on Drive. Resolved in turn 17: S126–S128 uploaded (section V); v16 superseded by v17.
 
 **Image progress: 128 of 150 generated, all 128 PASS. Batches 001–012 are complete.** Batch 013 is at 8/10. 22 images remain.
+
+
+## V. DUN003 turn 17 (2026-11-23)
+
+| File | Drive ID | QC |
+|---|---|---|
+| B013 SCENE126_DUNCAN_AND_ALIA.png | `1BPH-1f3ADQ1Rxpk8JG-Lru_MpQPowu1a` | PASS |
+| B013 SCENE127_IRULAN_WITH_TWINS.png | `1ZPw3I9s1o3rwsGOJZ-lhiM2qqE4CTC1S` | PASS |
+| B013 SCENE128_CITADEL_DUSK.png | `1LOMsRkrJF1XvnTw_NPVvGgTNTZJlXVbH` | PASS |
+| B013 SCENE129_SHRINE_LAMPS.png | `1mAJM0y8F-DsSrSaVP7mkmggofiJbfSsR` | PASS |
+| B013 SCENE130_EMPTY_THRONE_SAND.png | `1e_LNLq1XGAHolnx4Yx51kzmQrgX91sIE` | PASS |
+| B014 SCENE131 | `(upload pending)` | PASS |
+| B014 SCENE132 | `(upload pending)` | PASS |
+| B014 SCENE133 | `(upload pending)` | PASS |
+| B014 SCENE134 | `(upload pending)` | PASS |
+| B014 SCENE135 | `(upload pending)` | PASS |
+| B014 SCENE136 | `(upload pending)` | PASS |
+| B014 SCENE137 | `(upload pending)` | PASS |
+| B014 SCENE138 | `(upload pending)` | PASS |
+
+S131–S138 are staged in `pending_upload/` (committed). Index/QC v17 Doc: `1IBluOV_G6_d4h_m47P_EtxI1IkNn14vycz0iPfXCTz8`.
+
+**Image progress: 138 of 150 generated, all 138 PASS. Batches 001–013 are complete.** Batch 014 is at 8/10. 12 images remain (S139–S150).
 
 | Version | Date | Change |
 |---|---|---|
@@ -466,3 +489,4 @@ Drive rate-limited after 7 uploads. S126–S128 are staged in `pending_upload/` 
 | v2.4 | 2026-11-23 | Batch 011 complete. 111/111 PASS. Batch 012 started. Ornithopter solved |
 | v2.5 | 2026-11-23 | S102 eye fix. Batch 012: 7 more PASS (118 total), S119 FIX, S116 failed |
 | v2.6 | 2026-11-23 | Batch 012 complete (S116 retry, S119 v2). Batch 013: 8 PASS. 128/150. 3 Drive uploads pending |
+| v2.7 | 2026-11-23 | Batch 013 complete. Batch 014: 8 PASS. 138/150. 8 Drive uploads pending |

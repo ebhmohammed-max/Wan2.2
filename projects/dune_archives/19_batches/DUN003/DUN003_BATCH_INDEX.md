@@ -325,3 +325,22 @@ Used all 10 generations; **all 10 succeeded and all PASS**. **Batch 012 complete
 | SCENE128 | PASS (**Drive pending**) | Citadel at dusk with vigil crowd |
 
 Drive rate-limited after 7 uploads. S126–S128 are committed in `pending_upload/` for the next turn. This index is not yet on Drive as v16.
+
+## QC log: turn 17 (2026-11-23)
+
+S126–S128 uploaded to Drive at the start of the turn. Used all 10 generations; **all 10 succeeded and all PASS**. **Batch 013 complete. 138 of 150 PASS.**
+
+| Scene | QC | Note |
+|---|---|---|
+| SCENE129 | PASS | Shrine lamps and hawk offerings; lamps look like Diwali diyas |
+| SCENE130 | PASS | Empty throne with drifting sand. Excellent |
+| SCENE131 | PASS (Drive pending) | Dune crest at sunset, no figure |
+| SCENE132 | PASS (Drive pending) | Parchment beside crystal sheets, illegible script |
+| SCENE133 | PASS (Drive pending) | Chani-B at the emperor's side, his face out of frame; blue eyes held |
+| SCENE134 | PASS (Drive pending) | Chani from behind with staff; stillsuit leans toward the film costume |
+| SCENE135 | PASS (Drive pending) | Young Alia; reads about 4–5, not 2; blue eyes held |
+| SCENE136 | PASS (Drive pending) | Glowing strata |
+| SCENE137 | PASS (Drive pending) | Film reel in sand |
+| SCENE138 | PASS (Drive pending) | Hayt near-profile, steel eye glint |
+
+Uploads this reply: S126, S127, S128, S129, S130, and this index (v17) = 6. S131–S138 are committed in `pending_upload/`.

@@ -104,3 +104,9 @@
 - **"ONE curved blade only… hilt at the other end only (not double-ended)"** fixed the crysknife (S119 v2).
 - **The Alia-B ref keeps blue-in-blue eyes without an edit**, even with two refs combined (S125, S126). Always zoom-crop the eyes to confirm.
 - **Drive limit is tighter than logged:** it failed on the 8th upload of this reply (6, then a 20 s sleep, then 2 succeeded before failure). Use at most 6 per reply, or sleep 30 s or more between rounds.
+
+## 2026-11-23: turn 17
+- **Spreading uploads across the reply avoided the rate limit**: 3 at the start, 10 generations in between, then 3 at the end, all succeeded.
+- "Small clay dish lamps" reads as Indian diyas. Next time try "squat lidded stone oil cups" or glowglobes instead.
+- "Plain matte grey stillsuit" still drifts toward segmented film armour in back views (S134). Add "smooth one-piece suit, no armour plates, no segments".
+- "About two years old" plus an adult reference renders a 4–5-year-old (S135). Write "toddler, chubby baby cheeks, very small" if a true 2-year-old is needed.

@@ -2,7 +2,7 @@
  "episode": "DUN003",
  "batch": "BATCH013",
  "max_batch_size": 10,
- "status": "IN PROGRESS 8/10: 121-128 PASS (126-128 Drive upload pending)",
+ "status": "COMPLETE: 10/10 PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop",
  "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
  "images": [
@@ -123,9 +123,9 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
+   "drive_file_id": "1BPH-1f3ADQ1Rxpk8JG-Lru_MpQPowu1a",
    "qc": "PASS",
-   "qc_note": "Duncan-B (faceted steel eye in profile) beside Alia-B (blue-in-blue eye confirmed by crop) at a parapet; dusk city of blank monolithic towers, no skyscrapers. DRIVE UPLOAD PENDING: rate-limited in turn 16; file staged in pending_upload/.",
+   "qc_note": "Duncan-B (faceted steel eye in profile) beside Alia-B (blue-in-blue eye confirmed by crop) at a parapet; dusk city of blank monolithic towers, no skyscrapers.",
    "version": "v1",
    "reference_used": "anchors/REF_CS-DUNCAN-B_v1.jpg + anchors/REF_CS-ALIA-B_v1.jpg"
   },
@@ -144,9 +144,9 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
+   "drive_file_id": "1ZPw3I9s1o3rwsGOJZ-lhiM2qqE4CTC1S",
    "qc": "PASS",
-   "qc_note": "Matches the Irulan v2 ref: veil, loose pale-gold hair, ivory and gold gown, gold clasp; holding one twin, the other in a woven cradle; floating glowglobe. Minor: wall grooves slightly glyph-like. DRIVE UPLOAD PENDING: rate-limited in turn 16; file staged in pending_upload/.",
+   "qc_note": "Matches the Irulan v2 ref: veil, loose pale-gold hair, ivory and gold gown, gold clasp; holding one twin, the other in a woven cradle; floating glowglobe. Minor: wall grooves slightly glyph-like.",
    "version": "v1",
    "reference_used": "anchors/REF_CS-IRULAN_v2.jpg"
   },
@@ -165,9 +165,9 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
    "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
+   "drive_file_id": "1LOMsRkrJF1XvnTw_NPVvGgTNTZJlXVbH",
    "qc": "PASS",
-   "qc_note": "Matches the LOC citadel ref: monolithic stepped citadel against the cliff, slit lights, dense vigil crowd on the plaza, dusk with first stars. DRIVE UPLOAD PENDING: rate-limited in turn 16; file staged in pending_upload/.",
+   "qc_note": "Matches the LOC citadel ref: monolithic stepped citadel against the cliff, slit lights, dense vigil crowd on the plaza, dusk with first stars.",
    "version": "v1",
    "reference_used": "anchors/REF_LOC_ARRAKEEN_CITADEL.jpg"
   },
@@ -184,10 +184,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. hundreds of small oil lamps and offerings at a desert shrine. Lighting: warm flame light. Camera: macro insert shot, 50mm lens. Mood: devotion. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "1mAJM0y8F-DsSrSaVP7mkmggofiJbfSsR",
+   "qc": "PASS",
+   "qc_note": "Hundreds of small clay dish lamps with offerings (woven rings, hawk figurines) against a grooved sandstone wall. Minor: lamps resemble Diwali diyas; some hawks look owl-like.",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE130",
@@ -202,10 +204,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. an empty dark throne with sand drifting across its steps. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: shaft of light. Camera: establishing shot, 35mm lens. Mood: absence. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
-   "drive_file_id": null,
-   "qc": "PENDING"
+   "drive_file_id": "1e_LNLq1XGAHolnx4Yx51kzmQrgX91sIE",
+   "qc": "PASS",
+   "qc_note": "Empty monolithic throne atop plain steps, sand drifted across them, single shaft of light. Excellent.",
+   "version": "v1"
   }
  ]
 }

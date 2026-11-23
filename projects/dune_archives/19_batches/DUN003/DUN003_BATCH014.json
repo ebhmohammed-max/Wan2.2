@@ -2,7 +2,7 @@
  "episode": "DUN003",
  "batch": "BATCH014",
  "max_batch_size": 10,
- "status": "PENDING",
+ "status": "IN PROGRESS 8/10: 131-138 PASS (Drive upload pending for all 8)",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop",
  "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
  "images": [
@@ -19,10 +19,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a dune crest silhouetted against an enormous sunset, no figure. Lighting: golden light. Camera: epic wide shot, low horizon, 18mm lens. Mood: elegy. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
    "drive_file_id": null,
-   "qc": "PENDING"
+   "qc": "PASS",
+   "qc_note": "Dune crest silhouetted against a huge half-sunk sun, sand veil blowing off the crest; no figure. DRIVE UPLOAD PENDING: held back in turn 17 to stay within the 6-uploads-per-reply limit; file staged in pending_upload/.",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE132",
@@ -37,10 +39,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. two different ancient manuscripts laid side by side on an archive table, blurred illegible script. Lighting: split lighting, warm left, cool right. Camera: establishing shot, 35mm lens. Mood: analysis. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
    "drive_file_id": null,
-   "qc": "PENDING"
+   "qc": "PASS",
+   "qc_note": "Cracked parchment scroll (warm, left) beside a stack of crystalline sheets on rings (cool, right); script blurred and illegible. Minor: crystal sheets look a little like cellophane. DRIVE UPLOAD PENDING: held back in turn 17 to stay within the 6-uploads-per-reply limit; file staged in pending_upload/.",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE133",
@@ -55,10 +59,13 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. slight wiry Fremen woman about thirty, fine-boned angular face with high flat cheekbones, ordinary rounded human ears, wide-set eyes, a small straight nose with a band of freckles across it, thin-lipped mouth, narrow pointed chin, straight dark auburn-red hair pulled back into a single tight braid threaded with small metal water rings, small notch scar on upper right ear, faint pale scar along the right jawline, eyes entirely saturated blue including the whites (no white sclera), sun-darkened weathered skin, standing beside a robed emperor in a throne hall, her hand on his arm. Architecture: austere monolithic desert stone, massive plain slabs and abstract geometric carving; no classical columns, no arches, no Gothic, Roman or medieval elements. Lighting: warm light. Camera: medium shot, 50mm lens. Mood: loyalty. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
    "drive_file_id": null,
-   "qc": "PENDING"
+   "qc": "PASS",
+   "qc_note": "Matches the Chani-B ref: braid with water rings, freckles, blue-in-blue eyes; hand on the robed emperor, whose face is out of frame (only chin and ear edge). Minor: man's hand on her shoulder; wall grooves slightly glyph-like. DRIVE UPLOAD PENDING: held back in turn 17 to stay within the 6-uploads-per-reply limit; file staged in pending_upload/.",
+   "version": "v1",
+   "reference_used": "anchors/REF_CS-CHANI-B_v1.jpg"
   },
   {
    "scene_id": "DUN003_SCENE134",
@@ -73,10 +80,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a lone Fremen woman seen from behind standing on a dune crest, staff in hand, open desert ahead. Lighting: hard afternoon sun. Camera: epic wide shot, low horizon, 24mm lens. Mood: independence. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
    "drive_file_id": null,
-   "qc": "PENDING"
+   "qc": "PASS",
+   "qc_note": "Chani seen from behind on a dune crest, long red braid, staff, cloak in the wind. Minor: the stillsuit is segmented and armour-like, closer to the film costume than wanted (back view, wide). DRIVE UPLOAD PENDING: held back in turn 17 to stay within the 6-uploads-per-reply limit; file staged in pending_upload/.",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE135",
@@ -91,10 +100,13 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. small girl about two years old with a narrow heart-shaped face, small close-set deep-set eyes entirely saturated blue including the whites (no white sclera), low straight brows, short upturned nose, bronze-auburn hair in a short blunt bob, unnervingly adult expression, in a sietch, watching the camera. Lighting: amber light. Camera: portrait close-up, shallow depth of field, 85mm lens. Mood: eerie. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
    "drive_file_id": null,
-   "qc": "PENDING"
+   "qc": "PASS",
+   "qc_note": "Alia-B features carried to a child: bob, blue-in-blue eyes, adult stare. Minor: reads about 4–5 years old rather than 2 (book-consistent for Alia at Arrakeen); woven robe slightly Jedi-like. One-off child version, not a new anchor. DRIVE UPLOAD PENDING: held back in turn 17 to stay within the 6-uploads-per-reply limit; file staged in pending_upload/.",
+   "version": "v1",
+   "reference_used": "anchors/REF_CS-ALIA-B_v1.jpg"
   },
   {
    "scene_id": "DUN003_SCENE136",
@@ -109,10 +121,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. abstract: a desert cliff face with visible bands of strata glowing faintly, each band a different era. Lighting: volumetric light. Camera: epic wide shot, low horizon, 24mm lens. Mood: analysis. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
    "drive_file_id": null,
-   "qc": "PENDING"
+   "qc": "PASS",
+   "qc_note": "Cliff with bold glowing strata bands, shafts of light; no labels. DRIVE UPLOAD PENDING: held back in turn 17 to stay within the 6-uploads-per-reply limit; file staged in pending_upload/.",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE137",
@@ -127,10 +141,12 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. a vintage film reel half buried in sand. Lighting: warm side light. Camera: macro insert shot, 50mm lens. Mood: adaptation. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
    "drive_file_id": null,
-   "qc": "PENDING"
+   "qc": "PASS",
+   "qc_note": "Tarnished metal reel half buried in sand, film strip with blank frames curling out; no logos. DRIVE UPLOAD PENDING: held back in turn 17 to stay within the 6-uploads-per-reply limit; file staged in pending_upload/.",
+   "version": "v1"
   },
   {
    "scene_id": "DUN003_SCENE138",
@@ -145,10 +161,13 @@
    "onscreen_uses": 1,
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, no black bars, important action kept in the central band for a later 2.39:1 crop. compact muscular man about thirty, tight black curly hair, round jaw with cleft chin, olive-brown skin, faceted metallic steel-grey artificial eyes, plain grey tunic, profile silhouette, metallic eye catching light. Lighting: dark rim light. Camera: portrait close-up, shallow depth of field, 85mm lens. Mood: intrigue. Texture: fine film grain, subtle atmospheric haze, tactile materials. Any people shown are fully human (no aliens, no creatures). Original character design, not based on any real person. No text anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, Roman, Greek, Gothic, medieval architecture, rose window, battlements, rotor helicopter, propellers, elf ears, pointed ears, aliens, non-human creatures, Buddhist monks, saffron robes, Christian or other Earth religious symbols",
-   "generator": null,
+   "generator": "arena generate_image (prompt hand-tuned at generation, see QC log)",
    "seed": null,
    "drive_file_id": null,
-   "qc": "PENDING"
+   "qc": "PASS",
+   "qc_note": "Matches the Duncan-B ref: near-profile with faceted steel eye catching a glint, dark background, negative space ahead. Minor: three-quarter profile rather than strict side. DRIVE UPLOAD PENDING: held back in turn 17 to stay within the 6-uploads-per-reply limit; file staged in pending_upload/.",
+   "version": "v1",
+   "reference_used": "anchors/REF_CS-DUNCAN-B_v1.jpg"
   },
   {
    "scene_id": "DUN003_SCENE139",
