@@ -171,3 +171,20 @@ These sheets are scheduled for the Heretics and God Emperor episodes. They will 
 | Guild | Grey-robed humans; Navigators in tanks of orange spice gas |
 | Fish Speakers | White-and-ochre uniforms (ORIGINAL DESIGN); women only |
 | Honored Matres | Close-fitting leotards with capes (text); orange-flecked eyes |
+
+---
+
+## DUN003 addendum (v1.1, 2026-11-23): minor characters for *Dune Messiah*
+
+These are all ORIGINAL DESIGNS and still need director approval. The canon basis is limited to what the novels state; check the details marked `[VERIFY]`. The full prompt anchors live in `data/dun003_episode.py` → `ANCHORS`.
+
+| ID | Character | Canon basis | ORIGINAL DESIGN anchor (short) |
+|---|---|---|---|
+| CS-SHADDAM | Shaddam IV | Deposed Padishah Emperor, Corrino. Reddish hair `[VERIFY]` | Aging, thinning reddish hair, aquiline face, gold-scarlet uniform, lion clasp |
+| CS-EDRIC | Edric (Guild Steersman) | Lives in a tank of spice gas; fishlike, webbed `[VERIFY]` | Elongated humanoid, webbed fingers, finned feet, small smooth head, orange gas |
+| CS-KORBA | Korba | Former Fedaykin turned Qizarate priest; conspirator | Heavy-set, shaved scarred scalp, ochre-black robes, blue-in-blue eyes |
+| CS-LICHNA | Lichna | Otheym's daughter. In the novel she is impersonated by Scytale | Young Fremen woman, narrow face, hood, blue-in-blue eyes |
+| CS-OTHEYM | Otheym | Original Fedaykin; dying when Paul visits | Emaciated veteran, wispy white beard, fierce blue-in-blue eyes |
+| CS-BIJAZ | Bijaz | Tleilaxu dwarf and living recorder | Child-sized adult, wide round face, grey-tinged skin, sly eyes |
+
+The age variants used in DUN003 are CS-PAUL-B worn as the 17-year-old emperor, CS-PAUL-C, -D and -E, and CS-DUNCAN-A and -B. Their prompt anchors are in the same module.

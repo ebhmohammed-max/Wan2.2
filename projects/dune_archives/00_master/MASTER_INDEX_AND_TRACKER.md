@@ -84,7 +84,7 @@ Folders 10, 11, 12, 19, 21, 22, 23 and 24 are empty on purpose. They fill once p
 
 | ID | Title | Tier | Status | Topic OK | Duration OK | Image qty OK | Script | Storyboard | Images | Edit | Export | Published |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| DUN003 | Dune Messiah Explained Before Part Three | STANDARD | RECOMMENDED | ☐ | ☐ | ☐ | — | — | — | — | — | — |
+| DUN003 | Dune Messiah Explained Before Part Three | STANDARD | APPROVED (topic + 15 min + 150 imgs, 2026-11-23) | ☑ | ☑ 15 min | ☑ 150 imgs / 15 batches | v0.1 DRAFT | v1 (178 shots) | B001 v1 QC (4/10 pass) | — | — | — |
 | DUN001 | The Butlerian Jihad: The War Frank Herbert Never Wrote | EPIC | BACKUP | ☐ | ☐ | ☐ | — | — | — | — | — | — |
 
 ## E. Data counts (from `00_master/build_summary.json`)
@@ -100,3 +100,24 @@ Folders 10, 11, 12, 19, 21, 22, 23 and 24 are empty on purpose. They fill once p
 | Ecology and religion entries | 18 |
 | Topics | 213 (122 MINI / 72 STANDARD / 19 EPIC) |
 | Hooks | 1,065 |
+
+## F. DUN003 production files (v1, 2026-11-23, all confirmed by Drive listing)
+
+| Folder | Drive file | Type | Drive ID | Repo source |
+|---|---|---|---|---|
+| 14 | CHARACTER_CONTINUITY_SHEETS v1.1 (replaces v1.0) | Doc | `1p5BEnJ_eSafKVdMo4Ou1B7tbMKeN57vGVjtCZk40j6s` | `14_continuity/CHARACTER_CONTINUITY_SHEETS.md` |
+| 17 | DUN003_SCRIPT_v0.1 | Doc | `1WydXfLmlZtLKBxBlqxOiz97FS5otabGx08kB5HTKBZw` | `17_scripts/DUN003_SCRIPT_v0.1.md` |
+| 18 | DUN003_STORYBOARD | Sheet | `1JoolpWAnZ8UAIU1le2BCDCOp0NKCA9vPEYQUWc8YYT0` | `18_storyboards/DUN003_STORYBOARD.csv` |
+| 19 | DUN003_MESSIAH_EXPLAINED/ | Folder | `1RfWtt76vkKZ1h6-97ohGxx2mxDn5VbL2` | `19_batches/DUN003/` |
+| 19/DUN003 | DUN003_ALL_BATCH_MANIFESTS.json | JSON | `1MqDuNEDEfyns9e763bAyAdgUD8xX2gGi` | `19_batches/DUN003/DUN003_ALL_BATCH_MANIFESTS.json` |
+| 19/DUN003 | DUN003_BATCH_INDEX_AND_QC | Doc | `1yjR7El48JQGaYu9bPbg8DolpsgLE58l5zHjev840slY` | `19_batches/DUN003/DUN003_BATCH_INDEX.md` |
+| 19/DUN003 | DUN003_BATCH001_SCENE001_THRONE_ROOM_SHAFT.png (PASS) | PNG | `1UtqLu6LkkK00CXLu6bUDz9BTwqXveIjQ` | local only (git-ignored) |
+| 19/DUN003 | DUN003_BATCH001_SCENE007_PRESCIENCE_BRANCHES.png (PASS) | PNG | `1M6Jg55rfKxLf1_gMQZfaC41thfWTsi_q` | local only |
+| 19/DUN003 | DUN003_BATCH001_SCENE009_MANUSCRIPT_DESK.png (PASS) | PNG | `1i74X-f4FH8ku0tWryxwsplpnCT7anRAN` | local only |
+| 19/DUN003 | DUN003_BATCH001_SCENE010_ARCHIVE_VAULT.png (PASS) | PNG | `1u8vfFXX_cp-PfzsHn7Sh8xKwWH5JxF5l` | local only |
+
+Scenes 002, 003, 004, 006 and 008 are held locally pending fixes. Scene 005 was rejected for actor likeness and deleted; it was never uploaded.
+
+| Version | Date | Change |
+|---|---|---|
+| v1.1 | 2026-11-23 | DUN003 approved (topic, 15 min, 150 images in 15 batches). Script v0.1, storyboard v1, 15 manifests. Batch 001 v1 generated and QC'd (4 PASS) |
