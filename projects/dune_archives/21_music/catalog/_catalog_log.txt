@@ -1,0 +1,10 @@
+incompetech: 1443 pieces from https://incompetech.com/music/royalty-free/pieces.json; keys=['bpm', 'collection', 'description', 'feel', 'filename', 'filmmusicURL', 'genre', 'instruments', 'isrc', 'itunes', 'length', 'sheetmusic', 'title', 'uploaded', 'video']
+freepd epic: https://freepd.com/epic.php: HTTP Error 404: Not Found
+freepd scoring: https://freepd.com/scoring.php: HTTP Error 404: Not Found
+freepd horror: https://freepd.com/horror.php: HTTP Error 404: Not Found
+freepd world: https://freepd.com/world.php: HTTP Error 404: Not Found
+freepd electronic: https://freepd.com/electronic.php: HTTP Error 404: Not Found
+freepd misc: https://freepd.com/misc.php: HTTP Error 404: Not Found
+freepd upbeat: https://freepd.com/upbeat.php: HTTP Error 404: Not Found
+freepd romantic: https://freepd.com/romantic.php: HTTP Error 404: Not Found
+freepd comedy: https://freepd.com/comedy.php: HTTP Error 404: Not Found
