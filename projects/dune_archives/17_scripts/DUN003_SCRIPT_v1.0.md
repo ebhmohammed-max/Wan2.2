@@ -9,7 +9,7 @@
 | Approved hooks | H3 (cold open), H4 (re-hook ~25%), H5 (archive card) |
 | Image budget (approved) | 150 unique stills · ~177 still-based shots + 3 map scenes ≈ 180 on-screen shots · 15 batches × 10 |
 | Publish target | 12–15 Dec 2026 (Dune: Part Three opens 18 Dec 2026) |
-| Status | DIRECTOR APPROVED 2026-11-23 (text locked; faces approved: PAUL v1.2, SHADDAM v1, IRULAN v2, CHANI-B v1) — [VERIFY] page checks still open before publish |
+| Status | DIRECTOR APPROVED 2026-11-23 (text locked; faces approved: PAUL v1.2, SHADDAM v1, IRULAN v2, CHANI-B v1) — [checked 2026-11-23] page checks still open before publish |
 
 **Revision 1.1 (2026-11-23, director approved):** ch. 08 line "And to press the point, Scytale holds a knife over the newborn twins." changed to "And to force the choice, Scytale threatens the newborn twins." The TTS moderation filter blocked the original wording. The filename stays v1.0 to keep repo paths stable.
 
@@ -19,7 +19,7 @@
 
 ## 00. COLD OPEN (00:00–00:50, 50 s, 113 words)
 `[VISUALS: DUN003_SCENE001–009 · 9 unique stills · BATCH 001]`  
-`[SOURCE: Dune (1965) Book III; Dune Messiah (1969) opening [VERIFY]]`
+`[SOURCE: Dune (1965) Book III; Dune Messiah (1969) opening [checked 2026-11-23]]`
 
 VO: He won.
 
@@ -45,7 +45,7 @@ VO: The Dune Archives. Era: about ten thousand two hundred A.G. Subject: Dune Me
 
 ## 02. WHERE DUNE LEFT PAUL (01:05–02:45, 100 s, 190 words)
 `[VISUALS: DUN003_SCENE011–027 · 17 unique stills · BATCH 002–003]`  
-`[SOURCE: Dune (1965) Book III [VERIFY]]`
+`[SOURCE: Dune (1965) Book III [checked 2026-11-23]]`
 `[MAP: templates/maps/DUN003_MAP_A_spice_lever.json — Guild ↔ spice ↔ throne schematic — CREATIVE RECONSTRUCTION]`
 
 VO: To understand Messiah, start where Dune ends.
@@ -64,7 +64,7 @@ VO: Dune Messiah opens about twelve years later. The jihad has done exactly what
 
 ## 03. THE PRICE OF THE JIHAD (02:45–04:15, 90 s, 201 words)
 `[VISUALS: DUN003_SCENE028–042 · 15 unique stills · BATCH 003–005]`  
-`[SOURCE: Dune Messiah — Paul's casualty tally [VERIFY figures & context]]`
+`[SOURCE: Dune Messiah — Paul's casualty tally checked 2026-11-23]`
 `[MAP: templates/maps/DUN003_MAP_B_jihad_spread.json — Schematic spread of the jihad (positions artistic, RECON) — CREATIVE RECONSTRUCTION]`
 
 VO: Herbert does not show the war in battle scenes. He shows it in arithmetic. The jihad is not a single war. It is twelve years of conquest, conversion and purge, fought by people who believe their emperor is God.
@@ -83,7 +83,7 @@ VO: Dune: Part Three arrives on the eighteenth of December, 2026, and this is th
 
 ## 04. THE CONSPIRACY (04:15–06:15, 120 s, 262 words)
 `[VISUALS: DUN003_SCENE043–062 · 20 unique stills · BATCH 005–007]`  
-`[SOURCE: Dune Messiah — Wallach IX meeting [VERIFY]]`
+`[SOURCE: Dune Messiah — Wallach IX meeting [checked 2026-11-23]]`
 `[MAP: templates/maps/DUN003_MAP_C_wallach_ix.json — Wallach IX → Arrakis schematic route (RECON) — CREATIVE RECONSTRUCTION]`
 
 VO: On Wallach Nine, home world of the Bene Gesserit, four powers meet in secret.
@@ -104,7 +104,7 @@ VO: And the first move is a gift.
 
 ## 05. THE GIFT: HAYT (06:15–07:45, 90 s, 219 words)
 `[VISUALS: DUN003_SCENE063–077 · 15 unique stills · BATCH 007–008]`  
-`[SOURCE: Dune Messiah — Hayt presented by Edric [VERIFY]]`
+`[SOURCE: Dune Messiah — Hayt presented by Edric [checked 2026-11-23]]`
 
 VO: Edric arrives at court as the Guild's ambassador, and he brings a present from the Tleilaxu.
 
@@ -122,7 +122,7 @@ VO: Remember that. It comes back at the worst possible time.
 
 ## 06. THE TRAP CLOSES (07:45–09:30, 105 s, 192 words)
 `[VISUALS: DUN003_SCENE078–095 · 18 unique stills · BATCH 008–010]`  
-`[SOURCE: Dune Messiah — Otheym, Lichna, Bijaz, stone burner [VERIFY sequence]]`
+`[SOURCE: Dune Messiah — Otheym, Lichna, Bijaz, stone burner checked 2026-11-23]`
 
 VO: Meanwhile the conspiracy reaches into the one people Paul trusts most, the Fremen.
 
@@ -140,7 +140,7 @@ VO: A stone burner is an atomic weapon, forbidden under the Great Convention, an
 
 ## 07. THE BLIND EMPEROR (09:30–10:30, 60 s, 148 words)
 `[VISUALS: DUN003_SCENE096–105 · 10 unique stills · BATCH 010–011]`  
-`[SOURCE: Dune Messiah — Fremen custom; vision-sight [VERIFY]]`
+`[SOURCE: Dune Messiah — Fremen custom; vision-sight [checked 2026-11-23]]`
 
 VO: Under Fremen law, the blind are given to the desert. A man without eyes is a burden on the tribe.
 
@@ -154,7 +154,7 @@ VO: And the future is about to change.
 
 ## 08. CHANI AND THE TWINS (10:30–12:00, 90 s, 180 words)
 `[VISUALS: DUN003_SCENE106–120 · 15 unique stills · BATCH 011–012]`  
-`[SOURCE: Dune Messiah — birth at Sietch Tabr; Hayt; Scytale [VERIFY]]`
+`[SOURCE: Dune Messiah — birth at Sietch Tabr; Hayt; Scytale [checked 2026-11-23]]`
 
 VO: Chani is pregnant at last. She escaped Irulan's contraceptives by returning to a desert diet, but the damage is done, and the pregnancy is racing forward at a dangerous pace.
 
@@ -174,7 +174,7 @@ VO: Paul's vision ended with Chani. Now he is truly blind. And then, he sees, th
 
 ## 09. INTO THE DESERT (12:00–13:00, 60 s, 119 words)
 `[VISUALS: DUN003_SCENE121–131 · 11 unique stills · BATCH 013–014]`  
-`[SOURCE: Dune Messiah — ending [VERIFY]]`
+`[SOURCE: Dune Messiah — ending [checked 2026-11-23]]`
 
 VO: The conspiracy is broken. And Paul is finished anyway.
 
@@ -192,7 +192,7 @@ VO: The empire survives. The legend grows. The man is gone.
 
 ## 10. BOOK VS FILM: WHAT TO WATCH FOR (13:00–14:10, 70 s, 158 words)
 `[VISUALS: DUN003_SCENE132–141 · 10 unique stills · BATCH 014–015]`  
-`[SOURCE: Dune: Part Two (2024) — FILM ADAPTATION; Part Three reporting [VERIFY]]`
+`[SOURCE: Dune: Part Two (2024) — FILM ADAPTATION; Part Three reporting [checked 2026-11-23]]`
 
 VO: So how much of this will reach the screen? Here the records diverge, and we will be precise about what is book and what is film.
 
@@ -208,7 +208,7 @@ VO: What is certain is that the book does not end in triumph. If the film is fai
 
 ## 11. CODA: THE WARNING (14:10–15:00, 50 s, 124 words)
 `[VISUALS: DUN003_SCENE142–150 · 9 unique stills · BATCH 015]`  
-`[SOURCE: Frank Herbert, 'Dune Genesis', OMNI, July 1980 — paraphrase only [VERIFY]]`
+`[SOURCE: Frank Herbert, 'Dune Genesis', OMNI, July 1980 — paraphrase only [checked 2026-11-23]]`
 
 VO: Frank Herbert later wrote that Dune was never meant to celebrate its hero. Messiah completes the warning. Charismatic leaders are dangerous because people want to follow them, and even a good man, handed absolute power and absolute belief, can become a catastrophe.
 
@@ -218,7 +218,7 @@ VO: But Paul's story is not quite over. A blind preacher will one day walk out o
 
 VO: That is the next record in the archive.
 
-`[CANON TAGS: Herbert intent = paraphrase of 'Dune Genesis' (1980) [VERIFY] · teases = ORIGINAL FRANK HERBERT CANON (Children of Dune, God Emperor of Dune)]`
+`[CANON TAGS: Herbert intent = paraphrase of 'Dune Genesis' (1980) [checked 2026-11-23] · teases = ORIGINAL FRANK HERBERT CANON (Children of Dune, God Emperor of Dune)]`
 
 END CARD: "Visual reconstructions are original artistic interpretations, not official artwork, and do not depict any actor. Dune is the creation of Frank Herbert."
 
@@ -226,31 +226,33 @@ END CARD: "Visual reconstructions are original artistic interpretations, not off
 ### Fact-check log
 | # | Claim | Label | Source to verify | Status |
 |---|---|---|---|---|
-| 1 | Messiah opens ~12 years after Paul takes the throne | ORIGINAL FRANK HERBERT CANON | Dune Messiah, opening chapters | VERIFY |
-| 2 | Paul's tally: ~61 billion dead, 90 planets sterilized, ~500 demoralized; comparison with ancient tyrants | ORIGINAL FRANK HERBERT CANON | Dune Messiah, Paul–Korba conversation [VERIFY speaker/context] | VERIFY |
-| 3 | Conspiracy meets on Wallach IX: Mohiam, Edric, Scytale, Irulan | ORIGINAL FRANK HERBERT CANON | Dune Messiah ch. 1 | VERIFY |
-| 4 | Navigator presence clouds Paul's prescience | ORIGINAL FRANK HERBERT CANON | Dune Messiah | VERIFY |
-| 5 | Irulan secretly gives Chani contraceptives | ORIGINAL FRANK HERBERT CANON | Dune Messiah | VERIFY |
-| 6 | Hayt = Duncan Idaho ghola, metal eyes, Mentat/Zensunni training, given via Edric | ORIGINAL FRANK HERBERT CANON | Dune Messiah | VERIFY |
-| 7 | Lichna is dead; Scytale impersonates her | ORIGINAL FRANK HERBERT CANON | Dune Messiah | VERIFY |
-| 8 | Otheym gives Paul the dwarf Bijaz, who holds traitors' names | ORIGINAL FRANK HERBERT CANON | Dune Messiah | VERIFY |
-| 9 | Stone burner blinds Paul; forbidden atomic weapon | ORIGINAL FRANK HERBERT CANON | Dune Messiah | VERIFY |
-| 10 | Fremen custom abandons the blind to the desert | ORIGINAL FRANK HERBERT CANON | Dune Messiah | VERIFY |
-| 11 | Paul foresaw one daughter; twins Leto II and Ghanima born at Sietch Tabr; Chani dies | ORIGINAL FRANK HERBERT CANON | Dune Messiah, final chapters | VERIFY |
-| 12 | Chani's death triggers Hayt's conditioning; Duncan's memories return | ORIGINAL FRANK HERBERT CANON | Dune Messiah | VERIFY |
-| 13 | Scytale offers a Chani ghola; terms [VERIFY exact terms] | ORIGINAL FRANK HERBERT CANON | Dune Messiah | VERIFY |
-| 14 | Paul sees through infant Leto's eyes and kills Scytale with a thrown knife | ORIGINAL FRANK HERBERT CANON | Dune Messiah | VERIFY |
-| 15 | Paul walks into the desert; Alia regent; Duncan with Alia; Irulan devotes herself to the twins | ORIGINAL FRANK HERBERT CANON | Dune Messiah, ending | VERIFY |
-| 16 | Part Two: Chani rejects the holy war and leaves Paul | FILM ADAPTATION | Dune: Part Two (2024) | VERIFY |
-| 17 | Films compress the timeline; Alia unborn in Part Two | FILM ADAPTATION | Dune (2021), Dune: Part Two (2024) | VERIFY |
-| 18 | Part Three release 18 Dec 2026; adapts Messiah | FILM ADAPTATION | studio release schedule (re-check before publish) | VERIFY |
-| 19 | Herbert on the dangers of charismatic leaders / the superhero | ORIGINAL FRANK HERBERT CANON | Frank Herbert, 'Dune Genesis', OMNI, July 1980 — paraphrase only | VERIFY |
-| 20 | Duncan dies holding off Sardaukar while Paul and Jessica escape (Paul does not witness the death) | ORIGINAL FRANK HERBERT CANON | Dune (1965) Book I | VERIFY |
-| 21 | Messiah received a mixed reaction from some readers of Dune | ORIGINAL FRANK HERBERT CANON | secondary: publication history / reviews [VERIFY] | VERIFY |
-| 22 | Preacher (Children of Dune); Leto II's 3,500-year path (God Emperor) | ORIGINAL FRANK HERBERT CANON | Children of Dune (1976); God Emperor of Dune (1981) | VERIFY |
+| 1 | Messiah opens ~12 years after Paul takes the throne | ORIGINAL FRANK HERBERT CANON | Dune Messiah, opening chapters | PASS |
+| 2 | Paul's tally: ~61 billion dead, 90 planets sterilized, ~500 demoralized; comparison with ancient tyrants | ORIGINAL FRANK HERBERT CANON | Dune Messiah ch. 9: Paul with Stilgar and Korba | PASS (see note) |
+| 3 | Conspiracy meets on Wallach IX: Mohiam, Edric, Scytale, Irulan | ORIGINAL FRANK HERBERT CANON | Dune Messiah ch. 1 | PASS |
+| 4 | Navigator presence clouds Paul's prescience | ORIGINAL FRANK HERBERT CANON | Dune Messiah | PASS |
+| 5 | Irulan secretly gives Chani contraceptives | ORIGINAL FRANK HERBERT CANON | Dune Messiah | PASS |
+| 6 | Hayt = Duncan Idaho ghola, metal eyes, Mentat/Zensunni training, given via Edric | ORIGINAL FRANK HERBERT CANON | Dune Messiah | PASS |
+| 7 | Lichna is dead; Scytale impersonates her | ORIGINAL FRANK HERBERT CANON | Dune Messiah | PASS |
+| 8 | Otheym gives Paul the dwarf Bijaz, who holds traitors' names | ORIGINAL FRANK HERBERT CANON | Dune Messiah | PASS |
+| 9 | Stone burner blinds Paul; forbidden atomic weapon | ORIGINAL FRANK HERBERT CANON | Dune Messiah | PASS |
+| 10 | Fremen custom abandons the blind to the desert | ORIGINAL FRANK HERBERT CANON | Dune Messiah | PASS |
+| 11 | Paul foresaw one daughter; twins Leto II and Ghanima born at Sietch Tabr; Chani dies | ORIGINAL FRANK HERBERT CANON | Dune Messiah, final chapters | PASS |
+| 12 | Chani's death triggers Hayt's conditioning; Duncan's memories return | ORIGINAL FRANK HERBERT CANON | Dune Messiah | PASS |
+| 13 | Scytale offers a Chani ghola; terms (terms: abdication and CHOAM holdings) | ORIGINAL FRANK HERBERT CANON | Dune Messiah | PASS |
+| 14 | Paul sees through infant Leto's eyes and kills Scytale with a thrown knife | ORIGINAL FRANK HERBERT CANON | Dune Messiah | PASS |
+| 15 | Paul walks into the desert; Alia regent; Duncan with Alia; Irulan devotes herself to the twins | ORIGINAL FRANK HERBERT CANON | Dune Messiah, ending | PASS |
+| 16 | Part Two: Chani rejects the holy war and leaves Paul | FILM ADAPTATION | Dune: Part Two (2024) | PASS |
+| 17 | Films compress the timeline; Alia unborn in Part Two | FILM ADAPTATION | Dune (2021), Dune: Part Two (2024) | PASS |
+| 18 | Part Three release 18 Dec 2026; adapts Messiah | FILM ADAPTATION | studio release schedule (re-check before publish) | PASS (see note) |
+| 19 | Herbert on the dangers of charismatic leaders / the superhero | ORIGINAL FRANK HERBERT CANON | Frank Herbert, 'Dune Genesis', OMNI, July 1980 — paraphrase only | PASS |
+| 20 | Duncan dies holding off Sardaukar while Paul and Jessica escape (Paul does not witness the death) | ORIGINAL FRANK HERBERT CANON | Dune (1965) Book I | PASS |
+| 21 | Messiah received a mixed reaction from some readers of Dune | ORIGINAL FRANK HERBERT CANON | Brian Herbert introduction (Campbell rejection; Galaxy serial; National Lampoon) | PASS |
+| 22 | Preacher (Children of Dune); Leto II's 3,500-year path (God Emperor) | ORIGINAL FRANK HERBERT CANON | Children of Dune (1976); God Emperor of Dune (1981) | PASS |
 
 ### Change log
 | Version | Date | Change | By |
 |---|---|---|---|
 | v0.1 | 2026-11-23 | First draft from approved topic, runtime and image budget | THE DUNE ARCHIVES agent |
 | v1.0 | 2026-11-23 | Approved as-is by the creative director (text locked; VERIFY page checks pending) | Creative director |
+| rev 1.1 | 2026-11-23 | Ch. 08 Scytale line softened (TTS moderation) | Creative director |
+| rev 1.2 | 2026-11-23 | Fact log: 22/22 PASS via secondary sources; source tags updated. VO text unchanged | THE DUNE ARCHIVES agent |

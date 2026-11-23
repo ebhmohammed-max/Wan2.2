@@ -396,7 +396,7 @@ MAPS = [
 # Fact-check log: claim, label, source to verify.
 FACTS = [
     ("Messiah opens ~12 years after Paul takes the throne", "O", "Dune Messiah, opening chapters"),
-    ("Paul's tally: ~61 billion dead, 90 planets sterilized, ~500 demoralized; comparison with ancient tyrants", "O", "Dune Messiah, Paul–Korba conversation [VERIFY speaker/context]"),
+    ("Paul's tally: ~61 billion dead, 90 planets sterilized, ~500 demoralized; comparison with ancient tyrants", "O", "Dune Messiah ch. 9: Paul with Stilgar and Korba"),
     ("Conspiracy meets on Wallach IX: Mohiam, Edric, Scytale, Irulan", "O", "Dune Messiah ch. 1"),
     ("Navigator presence clouds Paul's prescience", "O", "Dune Messiah"),
     ("Irulan secretly gives Chani contraceptives", "O", "Dune Messiah"),

@@ -142,3 +142,8 @@
 - TTS moderation judges the whole clip. A section that combines a childbirth death, "kill", infants and a knife was blocked even with the threat line softened. **Splitting the same text into 2 clips passed.** Keep dark sections at about 700 characters or less.
 - A sandbox ffmpeg comes from pip `imageio-ffmpeg` in a venv. That allows silencedetect-based pacing: pauses of 0.42 s or longer are sentence ends, and adding +0.4 s to each plus 2.5 s between sections took 11:03 to 12:11.
 - Drive rate limit: 3 uploads in quick succession and the 4th failed. Space out large binary uploads, or keep to about 3 per reply when files are over 5 MB.
+
+## DUN003 turn 26 (2026-11-23): fact check
+- 22 of 22 claims passed against secondary sources. Writing the script as paraphrase only, from canon summaries, held up.
+- Release dates differ by region: North America 18 Dec, most international markets 16 Dec. For a global channel, say "this December" in the VO and put regional dates on screen.
+- fetch_page still fails on fandom; web_search snippets were enough. Lorefortress, supersummary, summarybook and tvtropes were useful plot cross-checks. Brian Herbert's introduction to Messiah covers the reception history.

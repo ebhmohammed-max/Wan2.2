@@ -574,6 +574,21 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 - the edit;
 - optional S036/S067 image flags.
 
+
+## AC. DUN003 turn 26 (2026-11-23): fact check and storyboard on Drive
+
+- **Storyboard Sheet v1.1:** uploaded as `1ei_ibvM1Xxu9dYvr49HSIi14NEefZwI-mTNgRiUXZVA` in folder 18. The old Sheet "DUN003_STORYBOARD v2" `1CIEszMmArahT64RcjJwLpsXowMF5lOwdi0F7hHDGz0c` is marked SUPERSEDED.
+- **Fact check:** 22 of 22 PASS, using secondary sources. The report is `25_sources/DUN003_FACT_CHECK_REPORT.md`. The script fact log and source tags are updated (script rev 1.2). **The VO text is unchanged, so no re-records are needed.**
+  - #2: the speaker is Paul, with Stilgar and Korba, in ch. 9.
+  - #18: 18 Dec is the North America date; most international markets open on 16 Dec. There is an optional §03 wording tweak, or an on-screen text fix.
+- **Remaining:**
+  - re-time the storyboard to the 12:11 VO;
+  - map JSONs;
+  - music;
+  - the edit;
+  - optional S036/S067 flags;
+  - optional §03 date wording.
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
@@ -597,5 +612,6 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 | v2.13 | 2026-11-23 | Narration voice audition: 6 pairs rejected, no voice chosen; next step on narration awaits the director |
 | v2.14 | 2026-11-23 | Voice-06 chosen. Scratch VO recorded for 11 of 12 sections (9 files, 9:56) in `20_voiceover/DUN003/`; section 08 blocked by moderation; pace about 177 wpm, so runtime is about 11 min |
 | v2.15 | 2026-11-23 | Script rev 1.1 (ch. 08 line). VO complete: 10 sections plus paced master (12:11) on Drive in the new 20_voiceover folder. Storyboard Sheet v1.1 upload pending |
+| v2.16 | 2026-11-23 | Fact check 22/22 PASS (report in 25_sources). Script rev 1.2. Storyboard Sheet v1.1 on Drive |
 
 > Turn 22 note: the old manifests v11, continuity v1.4 and original tracker Doc have their Drive descriptions set to SUPERSEDED, pointing at the new IDs above. The Drive tracker v2.12 Doc is a snapshot taken before its own ID was added here.
