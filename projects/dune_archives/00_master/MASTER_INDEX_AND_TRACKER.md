@@ -645,6 +645,29 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
   - animatic v1 `1-xSH0X7JzFHwUljf8yFdc50-spwy2HvJ`;
   - music cue sheet Doc `1cECIHREX6n_LKJqYCBeGRHyxeXVVTqWpFaeOBeacwTw`.
 
+
+## AH. DUN003 turn 31 (2026-11-23): the video is built (master v1 + music)
+
+- **Stills reached the sandbox:**
+  - A GitHub Actions runner has open internet, so it fetched all 150 PNGs from Drive. The DUN003 folder was shared by link only for the fetch, then made private again.
+  - The runner committed them as JPG q90 copies in `19_batches/DUN003/stills_jpg/` (36 MB).
+  - Tools: `tools/ci_fetch_assets.py` and `.github/workflows/dun003_assets.yml`.
+- **Music:**
+  - 11 Kevin MacLeod tracks (incompetech.com, CC BY 4.0, monetisation OK with the description credit), chosen from the 1,443-track incompetech catalogue by feel, instruments and length.
+  - Cue plan: `21_music/DUN003/DUN003_MUSIC_EDL.json`. Credits and licence log: `21_music/DUN003/DUN003_MUSIC_CREDITS.md`.
+  - The source mp3s are git-ignored.
+- **Mix:**
+  - `tools/mix_music.py`: per-cue loudness normalisation, synthesised SFX (wind, tinnitus, heartbeat) and an 8 dB VO duck, then two-pass loudnorm. Result: **-14.0 LUFS, -1.0 dBTP**.
+  - The 3 silences land at 07:20, 08:50 and 10:24.
+  - Output: `22_edit/DUN003/DUN003_MIX_v1.m4a`.
+- **Picture:**
+  - `tools/fast_motion.py` (OpenCV warp + ffmpeg vignette/grain/overlay in one pass) is about 20x faster than motion_engine. The full 1080p cut renders in 17 min on 2 CPUs.
+  - `assemble_roughcut.py` gained the `--engine` and `--abr` options.
+- **Deliverables:**
+  - **MASTER v1, Drive `1Jp5srTr7fRHaPxkAZ4zNZLMoM_kA1H1d`** (1,820,684,948 bytes, 1080p24, 12:11). Rendered by `.github/workflows/dun003_master.yml` and streamed to Drive 22_edit via a resumable session (`tools/ci_drive_upload.py`).
+  - REVIEW v1, 720p, 91 MB, Drive `109KxMbBTj32bLVpB3Vzp2YqIWj_luPbs`.
+  - Music credits Doc `1W4kRnlpyaGAJXgInQlvjP0WzvoX684SmuCCcXAc4wxU`.
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
@@ -673,5 +696,6 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 | v2.18 | 2026-11-23 | Storyboard re-timed to the 12:09 VO (programme 12:11). New tool retime_storyboard.py. Storyboard v4 on Drive |
 | v2.19 | 2026-11-23 | 3 animated maps authored, rendered and QC PASS; on Drive |
 | v2.20 | 2026-11-23 | Music cue sheet. assemble_roughcut.py. Slate animatic v1 (12:11) on Drive |
+| v2.21 | 2026-11-23 | Video built: stills via CI, Kevin MacLeod CC BY music, mix at -14 LUFS, 1080p master + 720p review on Drive |
 
 > Turn 22 note: the old manifests v11, continuity v1.4 and original tracker Doc have their Drive descriptions set to SUPERSEDED, pointing at the new IDs above. The Drive tracker v2.12 Doc is a snapshot taken before its own ID was added here.

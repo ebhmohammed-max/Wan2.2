@@ -51,15 +51,21 @@
 ## Licence log (fill in during the edit)
 | Cue | Track / artist | Library | Licence ID | Notes |
 |---|---|---|---|---|
-| M1 | | | | |
-| M2 | | | | |
-| M3 | | | | |
-| M4 | | | | |
-| M5 | | | | |
-| M6 | | | | |
-| M7 | | | | |
-| M8 | | | | |
-| M9 | | | | |
-| M10 | | | | |
-| M11 | | | | |
-| M12 | | | | |
+| M1 | Lightless Dawn / Kevin MacLeod | incompetech.com | CC BY 4.0 | see `DUN003/DUN003_MUSIC_CREDITS.md` |
+| M2 | Deliberate Thought / Kevin MacLeod | incompetech.com | CC BY 4.0 | see `DUN003/DUN003_MUSIC_CREDITS.md` |
+| M3 | Dark Times / Kevin MacLeod | incompetech.com | CC BY 4.0 | see `DUN003/DUN003_MUSIC_CREDITS.md` |
+| M4 | Long Note Two / Kevin MacLeod | incompetech.com | CC BY 4.0 | see `DUN003/DUN003_MUSIC_CREDITS.md` |
+| M5 | Mysterioso March / Kevin MacLeod | incompetech.com | CC BY 4.0 | see `DUN003/DUN003_MUSIC_CREDITS.md` |
+| M6 | Phantasm / Kevin MacLeod | incompetech.com | CC BY 4.0 | see `DUN003/DUN003_MUSIC_CREDITS.md` |
+| M7 | Interloper / Kevin MacLeod | incompetech.com | CC BY 4.0 | see `DUN003/DUN003_MUSIC_CREDITS.md` |
+| M8 | Wizardtorium / Kevin MacLeod | incompetech.com | CC BY 4.0 | see `DUN003/DUN003_MUSIC_CREDITS.md` |
+| M9 | Private Reflection (+ synthesised heartbeat) / Kevin MacLeod | incompetech.com | CC BY 4.0 | see `DUN003/DUN003_MUSIC_CREDITS.md` |
+| M10 | Night Vigil / Kevin MacLeod | incompetech.com | CC BY 4.0 | see `DUN003/DUN003_MUSIC_CREDITS.md` |
+| M11 | Unwritten Return / Kevin MacLeod | incompetech.com | CC BY 4.0 | see `DUN003/DUN003_MUSIC_CREDITS.md` |
+| M12 | Lightless Dawn (reprise from 2:50) + Deliberate Thought tail / Kevin MacLeod | incompetech.com | CC BY 4.0 | see `DUN003/DUN003_MUSIC_CREDITS.md` |
+
+## Implemented in mix v1 (2026-11-23)
+- Tracks: Kevin MacLeod, incompetech.com, CC BY 4.0. Monetisation is allowed with the description credit; see `DUN003/DUN003_MUSIC_CREDITS.md`.
+- Cue timings and source offsets are in `DUN003/DUN003_MUSIC_EDL.json`. The mixer is `tools/mix_music.py`: it ducks the music 8 dB under the VO and normalises to -14 LUFS / -1 dBTP. Final measurement: -14.0 LUFS, -1.0 dBFS peak.
+- The SFX (hall/desert wind, tinnitus ring, heartbeat) are synthesised, so they need no licence.
+- The no-Zimmer-soundalike rule is met: none of the chosen tracks use throat-singing or the Zimmer motifs.

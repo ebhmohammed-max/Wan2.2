@@ -37,3 +37,16 @@
 - Folder 22_edit: `1q8ObdH9yFb9Ld9gVlcwRICYYOyX4N-1T`
 - Animatic v1: `1-xSH0X7JzFHwUljf8yFdc50-spwy2HvJ`
 - Music cue sheet Doc (folder 21_music): `1cECIHREX6n_LKJqYCBeGRHyxeXVVTqWpFaeOBeacwTw`
+
+## v1 master (2026-11-23)
+- **The video:** 1920x1080 24p, 12:11, H.264 CRF 20 + AAC 320k. It has all 150 stills with storyboard camera moves (`tools/fast_motion.py`), the 3 animated maps, lower thirds, the archive card and the CREATIVE RECONSTRUCTION bug.
+- **Audio:** `DUN003_MIX_v1.m4a`, which is the VO + music + SFX at -14 LUFS.
+- **Rebuild (about 17 min on 2 CPUs):**
+  ```
+  python tools/assemble_roughcut.py DUN003 --vo 22_edit/DUN003/DUN003_MIX_v1.m4a \
+    --images 19_batches/DUN003/stills_jpg --out DUN003_MASTER_v1_1080p.mp4 --crf 20 --abr 320k --jobs 2
+  ```
+- **Stills:** `19_batches/DUN003/stills_jpg/`, JPG q90 copies of the Drive PNGs, fetched by CI (`tools/ci_fetch_assets.py stills`).
+- **Master on Drive:** the CI workflow `.github/workflows/dun003_master.yml` renders it on a GitHub runner and streams it into a Drive resumable-upload session.
+- **Review copy:** `DUN003_REVIEW_v1_720p.mp4` (under 100 MB, git-ignored, on Drive).
+- MASTER v1 on Drive: `1Jp5srTr7fRHaPxkAZ4zNZLMoM_kA1H1d`; REVIEW v1: `109KxMbBTj32bLVpB3Vzp2YqIWj_luPbs`; music credits Doc: `1W4kRnlpyaGAJXgInQlvjP0WzvoX684SmuCCcXAc4wxU`

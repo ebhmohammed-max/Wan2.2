@@ -161,3 +161,12 @@
 ## DUN003 turn 30 (2026-11-23): edit
 - The sandbox can't pull images back from Drive: the Drive host isn't reachable, and base64 through the tool context won't scale to 150 images. **For future episodes, keep a lightweight local copy of the stills**, e.g. 1280px JPGs in a tracked folder (about 150 × 150 KB ≈ 22 MB), so the sandbox can render the motion rough cut itself.
 - A slate animatic with the real VO still checks timing and flow, and the whole assembly pipeline. A 12-minute 720p animatic takes about 3 minutes to render.
+
+## DUN003 turn 31 (2026-11-23): final assembly
+- **The sandbox can't reach Drive, but GitHub Actions can.**
+  - Workflows on this fork run when we push to the session branch, on 4 CPUs with open internet.
+  - Use them to fetch assets (Drive via a temporary link share, music libraries) and commit compact copies back.
+  - Use them to render big masters and stream them to Drive through `initiate_resumable_upload`. That session uses the **X-Goog-Upload protocol** (PUT with X-Goog-Upload-Command / -Offset), not Content-Range.
+- **Monetisation-safe music:** the incompetech catalogue (`pieces.json`) has feel, instrument, BPM and length metadata for picking tracks without listening. FreePD's old category URLs return 404. Scott Buckley is CC BY too, but he registers Content ID, so expect claims that then have to be cleared.
+- **Speed:** per-frame PIL warping plus numpy grain ran at about 1.5 fps at 1080p. OpenCV warpAffine with the grain/vignette done in ffmpeg reaches about 18 fps per job.
+- **Size:** the ffmpeg temporal grain (noise c0s=6) pushes CRF 20 to about 20 Mbps (1.8 GB for 12 min), which is fine for a YouTube upload master. Review copies need hqdn3d plus about 860 kbps to stay under the 100 MB connector limit.
