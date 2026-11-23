@@ -1,0 +1,8 @@
+name: DUN003 asset fetch (manual)
+on:
+  workflow_dispatch:
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo placeholder
