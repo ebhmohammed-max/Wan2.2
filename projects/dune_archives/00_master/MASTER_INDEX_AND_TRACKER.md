@@ -609,6 +609,16 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 | 17 | DUN003_SCRIPT_v1.3 (Doc) | `1E8pxrvTo0_VTYIrKtowmnY6u3SaKWl1dJYiDDg2EZa4` (v1.2 is SUPERSEDED) |
 | 18 | storyboard | **Not re-uploaded.** It will go up as v4 after re-timing to the 12:09 VO, which is the next step. Drive v3 lacks the row-51 change |
 
+
+## AE. DUN003 turn 28 (2026-11-23): storyboard re-timed to the VO
+
+- `18_storyboards/DUN003_STORYBOARD.csv` is re-timed to VO master v2 with the new tool `tools/retime_storyboard.py`. The programme is now **12:11**: 12:09 of VO plus a 2 s end-card hold.
+  - Each cut is placed from where its line falls in the audio, then snapped to the nearest pause.
+  - The minimum shot length is 1.5 s. The archive card runs 15.4 s.
+  - A new column `tc_in_s` holds precise cut times.
+- The chapter-window table is in `20_voiceover/DUN003/DUN003_VO_LOG.md`.
+- **Never run `build_episode.py` again for DUN003.** It would overwrite these timings.
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
@@ -634,5 +644,6 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 | v2.15 | 2026-11-23 | Script rev 1.1 (ch. 08 line). VO complete: 10 sections plus paced master (12:11) on Drive in the new 20_voiceover folder. Storyboard Sheet v1.1 upload pending |
 | v2.16 | 2026-11-23 | Fact check 22/22 PASS (report in 25_sources). Script rev 1.2. Storyboard Sheet v1.1 on Drive |
 | v2.17 | 2026-11-23 | Script rev 1.3 (§03 date line plus on-screen text). VO §03 re-recorded; master v2 12:09 on Drive |
+| v2.18 | 2026-11-23 | Storyboard re-timed to the 12:09 VO (programme 12:11). New tool retime_storyboard.py. Storyboard v4 on Drive |
 
 > Turn 22 note: the old manifests v11, continuity v1.4 and original tracker Doc have their Drive descriptions set to SUPERSEDED, pointing at the new IDs above. The Drive tracker v2.12 Doc is a snapshot taken before its own ID was added here.

@@ -147,3 +147,8 @@
 - 22 of 22 claims passed against secondary sources. Writing the script as paraphrase only, from canon summaries, held up.
 - Release dates differ by region: North America 18 Dec, most international markets 16 Dec. For a global channel, say "this December" in the VO and put regional dates on screen.
 - fetch_page still fails on fandom; web_search snippets were enough. Lorefortress, supersummary, summarybook and tvtropes were useful plot cross-checks. Brian Herbert's introduction to Messiah covers the reception history.
+
+## DUN003 turn 28 (2026-11-23): re-timing
+- No speech-recognition model can be downloaded (only pypi is reachable), so the storyboard was aligned by text position inside each section. Position is measured over speech time only, then each cut snaps to a pause. Section boundaries are exact; cuts inside a section are about ±0.5 s.
+- /tmp is wiped between turns, and so are git-ignored large files (the VO master). Every turn that needs them must recreate the venv (`pip install mutagen imageio-ffmpeg`) and rebuild the master. Both steps are deterministic and take about 10 s.
+- Write storyboard VO lines as full sentences so they can be matched against the script. Placeholder rows, "(VO continues…)", are spread evenly between their neighbours.

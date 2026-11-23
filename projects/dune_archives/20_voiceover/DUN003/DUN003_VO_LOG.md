@@ -61,3 +61,29 @@ Options:
 - Section 03 was re-recorded, and the master rebuilt with `tools/vo_build.py full DUN003_VO_FULL_paced_v2.mp3`, giving 12:09.
 | DUN003_VO_FULL_paced_v2.mp3 (turn 27) | `1hQhP71tm8oL791VOeM-LsKrU7GmOU069`. v1 is marked SUPERSEDED |
 | DUN003_VO_sections_v2.zip (turn 27) | `1sJnG-GvZYUtoA-CfOIm-jM8HJGm5tC9T`. v1 is marked SUPERSEDED |
+
+## Turn 28: storyboard re-timed to master v2 (12:09 VO, 12:11 programme)
+Tool: `tools/retime_storyboard.py DUN003 <master> --write`. It needs the master, which is git-ignored; rebuild it first with `tools/vo_build.py full DUN003_VO_FULL_paced_v2.mp3`.
+- 178 shots. Lengths run from 1.5 to 15.4 s (archive card), mean 4.1 s. A new column `tc_in_s` gives the cut time to 0.01 s; `timecode_in` (HH:MM:SS) is floored.
+- 5 cuts were pushed later by 0.2–1.5 s to keep the 1.5 s minimum shot length: shots 2, 26, 27, 77 and 164.
+- Chapter VO windows in the master (s):
+
+| Chapter | VO in | VO out |
+|---|---|---|
+| Cold open | 0.00 | 37.09 |
+| Archive card | 37.98 | 51.54 |
+| Where Dune left Paul | 54.28 | 122.41 |
+| The price of the jihad | 125.13 | 198.82 |
+| The conspiracy | 201.71 | 303.77 |
+| The gift: Hayt | 306.60 | 379.64 |
+| The trap closes | 382.44 | 454.81 |
+| The blind emperor | 457.58 | 507.53 |
+| Chani and the twins | 510.33 | 581.39 |
+| Into the desert | 584.39 | 628.14 |
+| Book vs film | 628.98 | 684.02 |
+| Coda: the warning | 686.82 | 729.39 |
+
+- Method limits:
+  - Cuts inside a sentence are estimated from where the text falls in the audio, then snapped to the nearest pause. Expect ±0.5 s; the editor should nudge to taste.
+  - The 2 s chapter breaks recommended inside combined files (after the cold open and after "The man is gone.") are **not** in the master. Shifting later shots is an edit decision.
+- **Do not run `build_episode.py`.** It regenerates the storyboard with uniform 15:00 timings.
