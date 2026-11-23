@@ -104,7 +104,7 @@ And the man at the centre of it can see the future. That is the trap. His presci
 
 His enemies are counting on exactly that.
 
-Dune: Part Three arrives on the eighteenth of December, 2026, and this is the story it is built on. So before you see what the film does with it, here is what the book actually says.
+Dune: Part Three arrives in cinemas this December, and this is the story it is built on. So before you see what the film does with it, here is what the book actually says.
 """),
     dict(id="04", title="THE CONSPIRACY", dur=120, src="Dune Messiah — Wallach IX meeting [VERIFY]", vo="""
 On Wallach Nine, home world of the Bene Gesserit, four powers meet in secret.

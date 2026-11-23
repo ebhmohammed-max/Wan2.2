@@ -77,7 +77,9 @@ VO: And the man at the centre of it can see the future. That is the trap. His pr
 
 VO: His enemies are counting on exactly that.
 
-VO: Dune: Part Three arrives on the eighteenth of December, 2026, and this is the story it is built on. So before you see what the film does with it, here is what the book actually says.
+VO: Dune: Part Three arrives in cinemas this December, and this is the story it is built on. So before you see what the film does with it, here is what the book actually says.
+
+`[ON-SCREEN TEXT over SCENE040: "DUNE: PART THREE · IN CINEMAS 16 DEC 2026 (MOST MARKETS) · 18 DEC 2026 (NORTH AMERICA)"]`
 
 `[CANON TAG: ORIGINAL FRANK HERBERT CANON — visuals are CREATIVE RECONSTRUCTION]`
 
@@ -256,3 +258,4 @@ END CARD: "Visual reconstructions are original artistic interpretations, not off
 | v1.0 | 2026-11-23 | Approved as-is by the creative director (text locked; VERIFY page checks pending) | Creative director |
 | rev 1.1 | 2026-11-23 | Ch. 08 Scytale line softened (TTS moderation) | Creative director |
 | rev 1.2 | 2026-11-23 | Fact log: 22/22 PASS via secondary sources; source tags updated. VO text unchanged | THE DUNE ARCHIVES agent |
+| rev 1.3 | 2026-11-23 | §03 release line changed to "arrives in cinemas this December" + on-screen regional dates (fact #18) | Creative director |

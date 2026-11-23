@@ -593,6 +593,22 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
   - optional S036/S067 flags;
   - optional §03 date wording.
 
+
+## AD. DUN003 turn 27 (2026-11-23): §03 release-date fix (director: a + b)
+
+- **Script rev 1.3:**
+  - §03 VO now says "Dune: Part Three arrives in cinemas this December…".
+  - On-screen text over SCENE040: "DUNE: PART THREE · IN CINEMAS 16 DEC 2026 (MOST MARKETS) · 18 DEC 2026 (NORTH AMERICA)". This is in storyboard row 51, `onscreen_text`.
+  - The change is made in the script, the CSV and `data/dun003_episode.py`.
+- **VO:** section 03 re-recorded (69.6 s). The master was rebuilt as **v2, 12:09**.
+
+| Drive folder | File | Drive ID |
+|---|---|---|
+| 20_voiceover | DUN003_VO_FULL_paced_v2.mp3 | `1hQhP71tm8oL791VOeM-LsKrU7GmOU069` (v1 `1Olw47n3n420y0NokQ-lbgKzrF3G8F0Dt` is SUPERSEDED) |
+| 20_voiceover | DUN003_VO_sections_v2.zip | `1sJnG-GvZYUtoA-CfOIm-jM8HJGm5tC9T` (v1 `1IVs7vmoxgcFjkemu5IVdpkiKUvvqKAGE` is SUPERSEDED) |
+| 17 | DUN003_SCRIPT_v1.3 (Doc) | `1E8pxrvTo0_VTYIrKtowmnY6u3SaKWl1dJYiDDg2EZa4` (v1.2 is SUPERSEDED) |
+| 18 | storyboard | **Not re-uploaded.** It will go up as v4 after re-timing to the 12:09 VO, which is the next step. Drive v3 lacks the row-51 change |
+
 | Version | Date | Change |
 |---|---|---|
 | v1.5 | 2026-11-23 | Batch 003 complete. Humans-only guard. Alia anchor hardened. `rebuild_preserve.py` added |
@@ -617,5 +633,6 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 | v2.14 | 2026-11-23 | Voice-06 chosen. Scratch VO recorded for 11 of 12 sections (9 files, 9:56) in `20_voiceover/DUN003/`; section 08 blocked by moderation; pace about 177 wpm, so runtime is about 11 min |
 | v2.15 | 2026-11-23 | Script rev 1.1 (ch. 08 line). VO complete: 10 sections plus paced master (12:11) on Drive in the new 20_voiceover folder. Storyboard Sheet v1.1 upload pending |
 | v2.16 | 2026-11-23 | Fact check 22/22 PASS (report in 25_sources). Script rev 1.2. Storyboard Sheet v1.1 on Drive |
+| v2.17 | 2026-11-23 | Script rev 1.3 (§03 date line plus on-screen text). VO §03 re-recorded; master v2 12:09 on Drive |
 
 > Turn 22 note: the old manifests v11, continuity v1.4 and original tracker Doc have their Drive descriptions set to SUPERSEDED, pointing at the new IDs above. The Drive tracker v2.12 Doc is a snapshot taken before its own ID was added here.

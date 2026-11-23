@@ -34,3 +34,6 @@ Note on #19: the OMNI issue number varies between sources. Cite it only as "OMNI
 ## Optional wording tweaks (director's call; each needs a section re-record)
 1. **§03 release date (#18).** The VO says "Dune: Part Three arrives on the eighteenth of December, 2026". That is correct for North America, but most international viewers get it on the **16th**. Suggested: "Dune: Part Three arrives in cinemas this December". Alternatively keep the line and add on-screen text: "18 Dec (N. America) · 16 Dec (most international)". **The on-screen text needs no re-record.**
 2. No other changes are recommended.
+
+## Resolution (turn 27)
+The director chose **both a and b**. The §03 VO now says "arrives in cinemas this December" (section re-recorded). On-screen text over SCENE040 gives the regional dates: 16 Dec for most markets, 18 Dec for North America. Fact #18 is closed.

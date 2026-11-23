@@ -11,7 +11,7 @@
 |---|---|---|---|
 | DUN003_VO_00-01_cold_open_archive_card.mp3 | 00 + 01 | 48.9 s | OK |
 | DUN003_VO_02_where_dune_left_paul.mp3 | 02 | 62.8 s | OK |
-| DUN003_VO_03_price_of_the_jihad.mp3 | 03 | 71.6 s | OK |
+| DUN003_VO_03_price_of_the_jihad.mp3 | 03 | 69.6 s | OK. **Re-recorded in turn 27** for script rev 1.3 ("arrives in cinemas this December") |
 | DUN003_VO_04_the_conspiracy.mp3 | 04 | 93.3 s | OK |
 | DUN003_VO_05_the_gift_hayt.mp3 | 05 | 69.4 s | OK |
 | DUN003_VO_06_the_trap_closes.mp3 | 06 | 68.3 s | OK |
@@ -19,8 +19,8 @@
 | DUN003_VO_08_chani_and_the_twins.mp3 | 08 | 66.8 s | OK. Approved rev 1.1 line; recorded in 2 parts (`parts/08a`, `parts/08b`) and joined with a 0.55 s pause |
 | DUN003_VO_09-10_into_the_desert_book_vs_film.mp3 | 09 + 10 | 94.0 s | OK |
 | DUN003_VO_11_coda_the_warning.mp3 | 11 | 40.3 s | OK |
-| **Total, raw sections** | | **662.8 s (11:03)** | |
-| **DUN003_VO_FULL_paced_v1.mp3** | all, in order | **731.4 s (12:11)** | Paced master (option a), 128 kbps |
+| **Total, raw sections** | | **660.8 s (11:01)** | |
+| **DUN003_VO_FULL_paced_v2.mp3** | all, in order | **729.4 s (12:09)** | Paced master (option a), 128 kbps. Supersedes v1 (12:11) |
 
 ## Section 08 block
 The suspected trigger is "Scytale holds a knife over the newborn twins" (the same issue as the S116 image refusal).
@@ -53,3 +53,11 @@ Options:
 |---|---|
 | DUN003_VO_FULL_paced_v1.mp3 (git-ignored; rebuild with `tools/vo_build.py full`) | `1Olw47n3n420y0NokQ-lbgKzrF3G8F0Dt` |
 | DUN003_VO_sections_v1.zip (10 sections + this log) | `1IVs7vmoxgcFjkemu5IVdpkiKUvvqKAGE` |
+
+## Turn 27: §03 release-date fix (fact #18)
+- The director chose both a and b:
+  - VO line: "Dune: Part Three arrives in cinemas this December, and this is the story it is built on."
+  - On-screen text over SCENE040 (storyboard row 51, `onscreen_text`): "DUNE: PART THREE · IN CINEMAS 16 DEC 2026 (MOST MARKETS) · 18 DEC 2026 (NORTH AMERICA)".
+- Section 03 was re-recorded, and the master rebuilt with `tools/vo_build.py full DUN003_VO_FULL_paced_v2.mp3`, giving 12:09.
+| DUN003_VO_FULL_paced_v2.mp3 (turn 27) | `1hQhP71tm8oL791VOeM-LsKrU7GmOU069`. v1 is marked SUPERSEDED |
+| DUN003_VO_sections_v2.zip (turn 27) | `1sJnG-GvZYUtoA-CfOIm-jM8HJGm5tC9T`. v1 is marked SUPERSEDED |

@@ -42,6 +42,6 @@ else:
         s,n=stretch(f); full.extend(s)
         if k<len(files)-1: full.extend(sil(2.5))
         log.append((f,n,round(len(s)/SR,1)))
-    encode(full,'DUN003_VO_FULL_paced_v1.mp3')
+    encode(full,sys.argv[2] if len(sys.argv)>2 else 'DUN003_VO_FULL_paced.mp3')
     for l in log: print(*l)
     print('TOTAL',round(len(full)/SR,1))
