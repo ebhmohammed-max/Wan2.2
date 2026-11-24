@@ -186,7 +186,8 @@ def render(scene, out):
             sd.text((90, 70), b["text"].upper(), font=s_title, fill=tuple(int(c * a) for c in st["text"]))
             if b.get("sub"):
                 sd.text((92, 128), b["sub"], font=s_lab, fill=tuple(int(c * a) for c in st["ink"]))
-        sd.text((90, H - 52), prov, font=s_cap, fill=tuple(int(c * 0.7) for c in st["text"]))
+        if prov:  # an empty "provenance" in the scene disables the caption (DUN003 v2: no labels burned in)
+            sd.text((90, H - 52), prov, font=s_cap, fill=tuple(int(c * 0.7) for c in st["text"]))
         proc.stdin.write(np.asarray(frame).tobytes())
     proc.stdin.close()
     proc.wait()

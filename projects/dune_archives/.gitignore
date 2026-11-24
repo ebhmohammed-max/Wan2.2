@@ -1,2 +1,3 @@
 # Generated images live on Drive (19_IMAGE_GENERATION_BATCHES); keep large binaries out of git
 19_batches/*/images/
+.cache/

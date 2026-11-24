@@ -1,7 +1,7 @@
 {
   "_comment": "DUN003 MAP C, ch. 04, storyboard shot 56 (in 206.90 s, 5.5 s on screen; rendered 7.0 s with handles). VO: 'The first is the Sisterhood itself, in the person of the Reverend Mother Gaius Helen Mohiam.' The four powers converge on Wallach IX (Bene Gesserit Mother School). Then the plot points at Arrakis. Wallach IX, Arrakis and Tleilax are ORIGINAL names. The Guild heighliner start point and all positions are RECON. Layout v2: nodes repositioned so routes don't cross the labels.",
   "style": "imperial",
-  "duration": 7.0,
+  "duration": 10.5,
   "camera": {
     "focus": [
       0.4,
@@ -9,7 +9,7 @@
     ],
     "push": 0.1
   },
-  "provenance": "SCHEMATIC RECONSTRUCTION — RELATIVE POSITIONS ARE ARTISTIC",
+  "provenance": "",
   "nodes": [
     {
       "id": "wallach",

@@ -1,7 +1,7 @@
 {
   "_comment": "DUN003 MAP B, ch. 03, storyboard shot 38 (in 135.59 s, 3.4 s on screen; rendered 6.0 s with handles). It sits over the line 'twelve years of conquest, conversion and purge…'. Herbert gives no map of the jihad: every world except Arrakis is an UNNAMED RECON dot. Figures in the subtitle come from Paul's own tally (Dune Messiah ch. 9), as fact-checked. Layout v2: w3 and w8 moved so routes don't cross the Arrakis label.",
   "style": "noir",
-  "duration": 6.0,
+  "duration": 10.5,
   "camera": {
     "focus": [
       0.5,
@@ -9,7 +9,7 @@
     ],
     "push": 0.12
   },
-  "provenance": "SCHEMATIC RECONSTRUCTION — WORLDS AND POSITIONS ARE ARTISTIC",
+  "provenance": "",
   "nodes": [
     {
       "id": "arrakis",

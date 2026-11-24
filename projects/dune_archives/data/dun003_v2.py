@@ -1,6 +1,8 @@
 """DUN003 v2: storytelling cut, "Dune Messiah: The Fall of the Man Who Became a God".
 
 Single source of truth for the v2 script, the shot list and the motion graphics.
+Sections with num=None are not chapters (hook, calls to action). Graphic dur 0 = until the end of the
+section (or of the programme for END). Params ending in "_at" name words resolved to times after the event start.
 Each section is a list of LINES: (narration, [shots...], [graphics...]).
   shot    = (anchor, image_key, recipe[, focus])  - the cut lands on the first word of `anchor`
   graphic = (anchor, KIND, {params}, dur_s)       - the graphic starts on the first word of `anchor`
@@ -37,14 +39,14 @@ SECTIONS = [
   ("He is going to walk into it anyway.", [("He is going", "B004S039", "PUSH_IN")], []),
   ("This is the story of Dune Messiah. The fall of the man who became a god.",
    [("This is", "B001S003", "PULL_OUT"), ("The fall", "B015S144", "PUSH_IN")],
-   [("This is", TTL, {"kicker": "THE DUNE ARCHIVES", "title": "DUNE MESSIAH",
-                      "sub": "The Fall of the Man Who Became a God"}, 7.5)]),
+   [("This is", TTL, {"kicker": "THE MYTHIC ARCHIVES PRESENTS", "title": "DUNE MESSIAH",
+                      "sub": "The Fall of the Man Who Became a God"}, 0)]),
  ]),
 
  ("I", "The God on the Throne", "I", [
   ("Twelve years after his victory, Paul Atreides rules the known universe from a citadel of stone on the desert planet Arrakis.",
    [("Twelve years", "B003S027", "PUSH_IN"), ("Paul Atreides", "B001S002", "PUSH_IN"), ("from a citadel", "B001S003", "PUSH_IN")],
-   [("Twelve years", YR, {"year": "c. 10,208 A.G.", "sub": "Twelve years after the fall of Shaddam IV"}, 4.5),
+   [("Twelve years", YR, {"year": "c. 10,208 A.G.", "sub": "Twelve years after the fall of Shaddam IV"}, 3.6),
     ("Paul Atreides", N, {"name": "PAUL ATREIDES", "role": "Emperor of the Known Universe"}, 3.6),
     ("from a citadel", PL, {"place": "ARRAKEEN", "sub": "Arrakis · seat of the Empire"}, 4.0)]),
   ("To the Fremen of the desert, he is Muad'Dib.", [("To the Fremen", "B001S005", "PAN_LR")], []),
@@ -70,7 +72,7 @@ SECTIONS = [
 
  ("II", "Sixty-One Billion", "II", [
   ("The jihad swept out from Arrakis on Guild ships, and for twelve years, the Fremen legions marched.",
-   [("The jihad", "MAP:B", "MAP"), ("the Fremen legions", "B002S020", "PAN_LR")], []),
+   [("The jihad", "MAP:B", "MAP")], []),
   ("One night, Paul does the arithmetic of his own reign.", [("One night", "B003S028", "PUSH_IN")], []),
   ("Sixty-one billion dead.", [("Sixty", "B003S022", "PUSH_IN")],
    [("Sixty", STAT, {"value": 61_000_000_000, "label": "DEAD", "sub": ""}, 2.6)]),
@@ -96,12 +98,19 @@ SECTIONS = [
    [("Every path", "B004S039", "DRIFT"), ("And on the", "B004S040", "PUSH_IN")], []),
  ]),
 
+ ("CA", "Subscribe", None, [
+  ("Before we step into that room.", [("Before we", "B005S044", "PUSH_IN")], []),
+  ("If you love the hidden histories of Arrakis, Westeros and Middle-earth, subscribe to the Mythic Archives, and tap the bell, so you never miss a record.",
+   [("If you love", "B001S010", "PUSH_IN")],
+   [("If you love", "SUB", {"click_at": "subscribe", "bell_at": "bell"}, 0)]),
+ ]),
+
  ("III", "Four Powers in the Dark", "III", [
   ("On Wallach Nine, the cold home world of the Bene Gesserit, four enemies of Muad'Dib meet in secret.",
-   [("On Wallach", "B005S043", "PUSH_IN"), ("four enemies", "MAP:C", "MAP")],
-   [("On Wallach", PL, {"place": "WALLACH IX", "sub": "Mother School of the Bene Gesserit"}, 4.0)]),
+   [("On Wallach", "MAP:C", "MAP")],
+   []),
   ("The first is the Bene Gesserit, an ancient sisterhood that has spent generations breeding human bloodlines, searching for a messiah they could control.",
-   [("The first", "B005S048", "PUSH_IN"), ("breeding", "B005S047", "PAN_LR")], []),
+   [("The first", "B005S043", "PUSH_IN"), ("an ancient", "B005S048", "PUSH_IN"), ("breeding", "B005S047", "PAN_LR")], []),
   ("Their envoy is the Reverend Mother Gaius Helen Mohiam.", [("Their envoy", "B005S045", "PUSH_IN")],
    [("the Reverend", N, {"name": "GAIUS HELEN MOHIAM", "role": "Reverend Mother · Bene Gesserit"}, 3.6)]),
   ("Years ago, she held a poisoned needle to a boy's neck to test whether he was human. That boy was Paul.",
@@ -139,11 +148,11 @@ SECTIONS = [
    [("Duncan Idaho", N, {"name": "DUNCAN IDAHO", "role": "Swordmaster of House Atreides"}, 3.6)]),
   ("The Tleilaxu have grown a new body from his dead cells in their vats. A ghola.",
    [("The Tleilaxu", "B007S067", "PUSH_IN")],
-   [("A ghola", NOTE, {"head": "GHOLA", "body": "A living body regrown from the cells of the dead in Tleilaxu axlotl tanks."}, 5.0)]),
-  ("They call him Hayt.", [("They call", "B014S138", "PUSH_IN")],
-   [("They call", FILE, {"img": "B007S068", "focus": [0.5, 0.45], "title": "SUBJECT: HAYT", "stamp": "GHOLA",
-                         "fields": [["ORIGIN", "Duncan Idaho (deceased)"], ["MADE BY", "Bene Tleilax"],
-                                    ["EYES", "Tleilaxu metal"], ["TRAINING", "Mentat · Zensunni philosopher"]]}, 9.0)]),
+   [("A ghola", FILE, {"img": "B007S068", "focus": [0.5, 0.45], "title": "SUBJECT: HAYT", "stamp": "GHOLA",
+                       "fields": [["TYPE", "Ghola · body regrown from the dead"], ["ORIGIN", "Duncan Idaho (deceased)"],
+                                  ["MADE BY", "Bene Tleilax"], ["EYES", "Tleilaxu metal"],
+                                  ["TRAINING", "Mentat · Zensunni philosopher"]]}, 11.0)]),
+  ("They call him Hayt.", [("They call", "B014S138", "PUSH_IN")], []),
   ("He has no memory of his past life. His eyes are polished Tleilaxu metal. And he has been trained as a Mentat, a human mind that thinks like a computer.",
    [("He has no", "B014S138", "DRIFT"), ("His eyes", "B007S068", "PUSH_IN"), ("And he has", "B007S070", "PUSH_IN")], []),
   ("Paul knows a weapon when he sees one.", [("Paul knows", "B007S069", "PUSH_IN")], []),
@@ -159,7 +168,7 @@ SECTIONS = [
 
  ("V", "The Night of the Stone Burner", "V", [
   ("Even among the Fremen, there are traitors. Old naibs and priests have joined the plot.",
-   [("Even among", "B008S078", "PUSH_IN")], []),
+   [("Even among", "B008S078", "PUSH_IN"), ("Old naibs", "B008S080", "PUSH_IN", [0.5, 0.4])], []),
   ("One evening, a young Fremen woman arrives at the citadel.", [("One evening", "B009S081", "PUSH_IN")], []),
   ("Her name is Lichna, daughter of Otheym, one of Paul's old Fedaykin. Her father is dying, she says, and wants to see the emperor one last time.",
    [("Her name", "B009S081", "DRIFT", [0.5, 0.42]), ("Her father", "B009S086", "PUSH_IN")],
@@ -190,7 +199,7 @@ SECTIONS = [
    [("Paul breaks", "B010S099", "PUSH_IN"), ("He orders", "B010S100", "PUSH_IN")], []),
   ("And then, the impossible.", [("And then", "B001S001", "PUSH_IN")], []),
   ("The blind emperor walks into his court, finds every face, and answers every question, as if nothing has happened.",
-   [("The blind emperor", "B010S098", "PUSH_IN")], []),
+   [("The blind emperor", "B010S098", "PUSH_IN"), ("finds every face", "B010S098", "PULL_OUT", [0.5, 0.4])], []),
   ("He is seeing through his visions, moving through a future he has already memorized.",
    [("He is seeing", "B011S101", "PUSH_IN")], []),
   ("The Fremen call it a miracle.", [("The Fremen", "B011S102", "PUSH_IN")], []),
@@ -217,8 +226,8 @@ SECTIONS = [
 
  ("VIII", "The Tleilaxu Bargain", "VIII", [
   ("Now the hidden command awakens.", [("Now the", "B008S075", "PUSH_IN")], []),
-  ("Hayt draws a blade to kill the emperor. But the conflict inside him is too great. The ghola's mind breaks open, and Duncan Idaho remembers who he is.",
-   [("Hayt draws", "B012S114", "DRIFT", [0.5, 0.42]), ("The ghola's", "B012S115", "PUSH_IN")], []),
+  ("Hayt turns on the emperor. But the conflict inside him is too great. The ghola's mind breaks open, and Duncan Idaho remembers who he is.",
+   [("Hayt turns", "B012S114", "DRIFT", [0.5, 0.42]), ("The ghola's", "B012S115", "PUSH_IN")], []),
   ("Then Scytale makes his offer.", [("Then Scytale", "B006S054", "PUSH_IN")], []),
   ("The Tleilaxu can bring Chani back, as a ghola, just as they brought back Duncan. The price is everything Paul holds.",
    [("The Tleilaxu", "B007S067", "PUSH_IN"), ("just as", "B002S017", "DRIFT"), ("The price", "B001S006", "PUSH_IN")], []),
@@ -231,7 +240,7 @@ SECTIONS = [
 
  ("IX", "Into the Desert", "IX", [
   ("Now truly blind, with no vision left to guide him, Paul chooses the way of the Fremen.",
-   [("Now truly", "B013S121", "PUSH_IN")], []),
+   [("Now truly", "B013S121", "PUSH_IN"), ("with no vision", "B011S104", "PUSH_IN"), ("Paul chooses", "B013S121", "PUSH_IN", [0.5, 0.42])], []),
   ("He walks out into the deep desert, alone.", [("He walks", "B013S122", "PULL_OUT")], []),
   ("The wind takes his footprints.", [("The wind", "B013S123", "PUSH_IN")], []),
   ("Somewhere out there, the great worms are moving.", [("Somewhere", "B013S124", "PUSH_IN")], []),
@@ -258,13 +267,21 @@ SECTIONS = [
    [("And a boy", "B015S146", "PUSH_IN"), ("a path no one", "B015S148", "PUSH_IN"), ("A golden", "B015S147", "PULL_OUT"),
     ("three and a half", "B014S136", "PAN_LR")], []),
   ("That is the next record in the archive.", [("That is the next", "B015S149", "PUSH_IN")],
-   [("That is the next", END, {"kicker": "NEXT RECORD", "title": "CHILDREN OF DUNE", "brand": "THE DUNE ARCHIVES"}, 99)]),
+   [("That is the next", END, {"kicker": "NEXT RECORD", "title": "CHILDREN OF DUNE", "brand": "A MYTHIC ARCHIVES PRODUCTION",
+                                "q_at": "So, was", "comment_at": "comments", "like_at": "like", "sub_at": "subscribe"}, 0)]),
+ ]),
+ ("CB", "Outro", None, [
+  ("So, was Paul Atreides a hero, or the greatest tyrant in history?", [("So, was", "B015S150", "PUSH_IN")], []),
+  ("Tell us what you think in the comments.", [], []),
+  ("If this story stayed with you, give the video a like, and subscribe to the Mythic Archives.", [], []),
+  ("The archive is always open.", [], []),
  ]),
 ]
 
 # channel ident (no VO) placed in the GAP_AFTER_HOOK silence
-IDENT_SHOT = ("B001S010", "PUSH_IN", {"title": "THE DUNE ARCHIVES", "sub": "RECORD 003 · DUNE MESSIAH"})
-END_HOLD = 4.0   # end card hold after the last word
+IDENT_SHOT = ("B001S010", "PUSH_IN", {"title": "THE MYTHIC ARCHIVES", "tag": "WESTEROS  •  ARRAKIS  •  MIDDLE-EARTH",
+                                      "sub": "A MYTHIC ARCHIVES PRODUCTION  ·  RECORD 003"})
+END_HOLD = 6.0   # end card hold after the last word (YouTube end-screen room)
 
 
 def narration(section):
