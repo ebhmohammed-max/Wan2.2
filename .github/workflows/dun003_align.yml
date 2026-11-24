@@ -1,0 +1,27 @@
+name: DUN003 v2 VO word alignment
+on:
+  push:
+    branches: [arena/e01ea136-wan2-2]
+    paths: ['projects/dune_archives/22_edit/DUN003/v2/align_trigger.txt']
+permissions:
+  contents: write
+concurrency: {group: dun003-align, cancel-in-progress: false}
+jobs:
+  align:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: arena/e01ea136-wan2-2}
+      - run: pip install --quiet faster-whisper
+      - name: align
+        run: |
+          cd projects/dune_archives
+          python tools/ci_align.py 20_voiceover/DUN003/v2/raw14 20_voiceover/DUN003/v2/DUN003_v2_words.json 2>&1 | tee 22_edit/DUN003/v2/ci_align_log.txt
+      - name: commit
+        if: always()
+        run: |
+          git config user.name "dun003-ci"; git config user.email "dun003-ci@users.noreply.github.com"
+          git add -A projects/dune_archives/20_voiceover/DUN003/v2 projects/dune_archives/22_edit/DUN003/v2
+          git commit -m "ci: DUN003 v2 word alignment" || exit 0
+          for i in 1 2 3; do git pull --rebase -q origin arena/e01ea136-wan2-2 && git push origin HEAD:arena/e01ea136-wan2-2 && break; sleep 5; done
