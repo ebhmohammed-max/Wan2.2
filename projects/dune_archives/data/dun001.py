@@ -289,6 +289,7 @@ SECTIONS = [
  ("CB", "Outro", None, [
   ("So, was Vorian right to give that order at Corrin, or was Abulurd the real hero?", [("So, was", k(149), "PUSH_IN")],
    [("So, was", END, {"kicker": "WATCH NEXT", "title": "DUNE MESSIAH", "brand": "A MYTHIC ARCHIVES PRODUCTION",
+                      "sub": "Record 003  ·  now in the archive", "q": "VORIAN — OR ABULURD?",
                       "q_at": "So, was", "comment_at": "comments", "like_at": "like", "sub_at": "subscribe"}, 0)]),
   ("Tell us what you think in the comments.", [], []),
   ("If this story stayed with you, give the video a like, and subscribe to the Mythic Archives.", [], []),

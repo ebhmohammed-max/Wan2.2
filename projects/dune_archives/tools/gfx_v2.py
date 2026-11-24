@@ -613,10 +613,10 @@ def _end(e, lt, k, W, H):
         put(d, 0, 44 * k, p['kicker'], font('mont', 24 * k, 640), GOLD, tr=12 * k)
         put(d, 0, 132 * k, p['title'], font('cinzel', 78 * k, 800), IVORY, tr=3 * k)
         d.line((0, 158 * k, 160 * k, 158 * k), fill=GOLD + (230,), width=max(1, int(2 * k)))
-        put(d, 0, 200 * k, 'Record 004  ·  coming to the archive', font('corm', 34 * k, 560), DIM)
+        put(d, 0, 200 * k, p.get('sub', 'Record 004  ·  coming to the archive'), font('corm', 34 * k, 560), DIM)
         c['next'] = shadow(im, r=8 * k, op=0.9)
         im = Image.new('RGBA', (int(1100 * k), int(110 * k)), (0, 0, 0, 0))
-        put(ImageDraw.Draw(im), 0, 76 * k, 'HERO — OR TYRANT?', font('cinzel', 62 * k, 800), IVORY, tr=3 * k)
+        put(ImageDraw.Draw(im), 0, 76 * k, p.get('q', 'HERO — OR TYRANT?'), font('cinzel', 62 * k, 800), IVORY, tr=3 * k)
         c['q'] = shadow(shadow(im, r=18 * k, op=0.5, dy=0, color=GOLD_D), r=7 * k, op=0.9)
         c['cur'] = cursor(k)
     L = [(c['bg'], 0, 0, eout(lt / 0.8)),
