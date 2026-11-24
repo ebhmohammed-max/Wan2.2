@@ -85,7 +85,7 @@ Folders 10, 11, 12, 19, 21, 22, 23 and 24 are empty on purpose. They fill once p
 | ID | Title | Tier | Status | Topic OK | Duration OK | Image qty OK | Script | Storyboard | Images | Edit | Export | Published |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | DUN003 | Dune Messiah Explained Before Part Three | STANDARD | APPROVED (topic + 15 min + 150 imgs, 2026-11-23) | ☑ | ☑ 15 min | ☑ 150 imgs / 15 batches | v1.0 APPROVED | v1 (178 shots) | B001 ✅ · B002 ✅ · B003 ✅ · B004 ✅ · B005 ✅ · B006 ✅ · B007 4/10 (+Duncan pending, 1 fix) · B008 3/10 | — | — | — |
-| DUN001 | The Butlerian Jihad: The War Frank Herbert Never Wrote | EPIC | BACKUP | ☐ | ☐ | ☐ | — | — | — | — | — | — |
+| DUN001 | The Butlerian Jihad: The War Against the Thinking Machines | EPIC | IN PRODUCTION (topic + 11–12 min + 150 imgs approved 2026-11-23; voice-14; v2 format; Legends canon) | ☑ | ☑ ~11:30 | ☑ 150 imgs / 15 batches | v1.0 APPROVED · rev 1.1 (VI softened, approved) | data/dun001.py (167 cuts, 32 gfx) | B001 ✅ · B002 ✅ · B003–B015 pending | VO ✅ 13/13 (670.7 s) | — | — |
 
 ## E. Data counts (from `00_master/build_summary.json`)
 
@@ -698,5 +698,6 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 | v2.20 | 2026-11-23 | Music cue sheet. assemble_roughcut.py. Slate animatic v1 (12:11) on Drive |
 | v2.21 | 2026-11-23 | Video built: stills via CI, Kevin MacLeod CC BY music, mix at -14 LUFS, 1080p master + 720p review on Drive |
 | v2.22 | 2026-11-24 | **DUN003 v2 storytelling cut**: Hook Bible, script v2.0 (approved), voice-14 narrator, Mythic Archives ident, subscribe/like/comment CTAs, word-exact timeline (11:16, 181 shots, 42 graphics), gfx_v2 + render_v2, maps without caption. Mix −14 LUFS / −1 dBTP. **DUN003_MASTER_v2_1080p.mp4 on Drive 22_edit (`1-PtD46dhCz2KotF1V6zIigwszTGuTChJ`, 447.6 MB)** |
+| v2.23 | 2026-11-23 | **DUN001 The Butlerian Jihad in production**: script v1.0 approved (rev 1.1 Chapter VI softened for TTS, approved), voice-14 VO complete (13 takes, 670.7 s), image plan 150 shots / 15 batches + look-book, BATCH001–002 generated and QC PASS (5 + 1 portrait anchors), `data/dun001.py` shot/graphics map (167 cuts, 32 graphics, 3 maps) |
 
 > Turn 22 note: the old manifests v11, continuity v1.4 and original tracker Doc have their Drive descriptions set to SUPERSEDED, pointing at the new IDs above. The Drive tracker v2.12 Doc is a snapshot taken before its own ID was added here.
