@@ -2,7 +2,7 @@
  "episode": "DUN001",
  "batch": "BATCH005",
  "max_batch_size": 10,
- "status": "GENERATED_8_OF_10",
+ "status": "GENERATED_QC_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome.",
  "images": [
@@ -160,10 +160,10 @@
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [
     "anchors/DUN001_BATCH001_SCENE005_REF_ERASMUS.jpg",
-    "anchors/DUN001_BATCH001_SCENE006_REF_SERENA.jpg"
+    "stills_jpg/DUN001_BATCH005_SCENE043_SERENA_SLAVE.jpg"
    ],
-   "qc": "FIX",
-   "notes": "turn 49: Serena wears the blue noble dress; must be the plain grey slave shift. Regenerate."
+   "qc": "PASS",
+   "notes": "generated turn 50; png -> 1920x1080 jpg; regenerated: grey slave shift"
   },
   {
    "scene_id": "DUN001_SCENE050",
@@ -176,7 +176,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. an empty high stone balcony in white light, a cream blanket caught on the balustrade lifting in the wind. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 50; png -> 1920x1080 jpg"
   }
  ]
 }
