@@ -2,7 +2,7 @@
  "episode": "DUN001",
  "batch": "BATCH002",
  "max_batch_size": 10,
- "status": "PLANNED",
+ "status": "GENERATED_QC_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome.",
  "images": [
@@ -17,7 +17,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a colossal stone statue of a mother holding an infant, braziers of fire at its base, a vast crowd of pilgrims, dusk. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE012",
@@ -30,7 +31,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a hand chiselling deep grooves into a slab of black stone by candlelight, stone dust, the carving blurred and illegible. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE013",
@@ -43,7 +45,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a crowd in a dark plaza staring up at giant floating holographic projections of flames and a blurred figure, faces lit orange, horror. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE014",
@@ -56,7 +59,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a lone burning robot head half buried in ash on a battlefield at dusk, smoke columns, ember-orange sky, empty space above. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE015",
@@ -69,7 +73,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a gleaming serene city of the Old Empire, white towers and gardens, people lounging idly while sleek robots serve them. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE016",
@@ -82,7 +87,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. endless golden fields harvested by autonomous machines under a soft sky, no humans in sight. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE017",
@@ -95,7 +101,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. bored pale nobles reclining on cushions while a robot attendant pours wine, soft decadent light. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE018",
@@ -108,7 +115,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. twenty conspirators in dark cloaks gathered around a table of glowing schematics in a dim room, faces half lit. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE019",
@@ -123,7 +131,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Agamemnon as a human general, a hard-faced man in his forties, cropped grey-black hair, dark military greatcoat. portrait, cold command-room light, ruthless ambition. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE020",
@@ -136,7 +145,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a vast control hall where screens and machine lights turn blood-red at once, operators fleeing. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
   }
  ]
 }

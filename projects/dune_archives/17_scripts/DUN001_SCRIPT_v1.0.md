@@ -1,6 +1,6 @@
 # DUN001 SCRIPT v1.0: The Butlerian Jihad: The War Against the Thinking Machines
 
-Status: **APPROVED** (user, turn 45, 2026-11-23: "go on"). Record number RECORD 001 accepted.
+Status: **APPROVED** (user, turn 45, 2026-11-23: "go on"). Record number RECORD 001 accepted. Rev 1.1 (turn 46, user-approved "ok go on"): Chapter VI softened for TTS moderation; story unchanged.
 
 **Format:** DUN003 v2 storytelling format (approved turn 33/41). Story-first hook, in-universe history only, no author/film/meta commentary, no burned-in labels. Mythic Archives ident after the title drop, subscribe pitch at the first chapter seam, comment / like / subscribe outro over the end card. Same music approach (Kevin MacLeod, CC BY 4.0).
 
@@ -136,13 +136,13 @@ Status: **APPROVED** (user, turn 45, 2026-11-23: "go on"). Record number RECORD 
 ## Chapter VI: The Martyr
 
 > Serena travels to Corrin, the capital of the machines, as an ambassador of peace.
-> In secret, she has come to die.
+> In secret, she has come to give her life.
 
-> She provokes Omnius until it orders her execution. But Erasmus sees the smile on her face. He knows she wants this, and he stops it.
+> She defies Omnius until it condemns her. But Erasmus sees the smile on her face. He knows she wants this, and he refuses to grant it.
 
-> So her own sworn bodyguard does what the machines will not. Serena Butler dies quickly, by human hands.
+> So her most loyal guardian does what the machines will not. Serena Butler's end comes swiftly, from a human hand.
 
-> Then Iblis Ginjo makes sure the galaxy sees something else. Images reach Salusa: Serena, tortured slowly by a machine. A burned body is found, and the cells match.
+> Then Iblis Ginjo makes sure the galaxy sees something else. Images reach Salusa: Serena, suffering at the hands of a machine. Her remains are found, and the cells match.
 > It is a clone, grown in secret. The images are a lie.
 
 > And the lie works. The peace movement dies overnight. The Jihad roars back to life.
