@@ -179,3 +179,12 @@
 - **Brand CTAs that work in-story:** the subscribe pitch sits at a chapter seam ("Before we step into that room…") after the first big payoff (II), not in the hook. The outro asks one debate question first ("hero or tyrant?"), then like, then subscribe, each popping on its word.
 - **Encoding:** `-tune grain`, light temporal noise (c0s=3), preset medium, CRF 19 gives about 4 Mbps at 1080p for these stills. That is about 1/5 of the v1 size, with no visible loss.
 - `.cache/` was not git-ignored in the project and nearly got committed. It is now in the project `.gitignore`.
+
+## DUN001 turns 42–48 (2026-11-23): The Butlerian Jihad, second v2-format episode
+- **Pipeline reuse:** the v2 tools are now episode-aware through the `EP` env var (`tools/episode.py`). A new episode needs only `data/<ep>.py` (script, shots, graphics, SPECIAL_PAUSE, MAPS, `music_edl()`), one VO take per section (`20_voiceover/<EP>/raw/<SID>.mp3`), and copies of the three CI workflows. DUN003 output was checked byte-identical after the refactor (keep a baseline and compare with `cmp`).
+- **Check before rendering:** a script verifies that the data file narration matches the script markdown word for word, that every anchor is in its line, and that all 150 images are used. A word-count pacing pass (about 2.36 words/s) flags shots over 9 s or under 1.3 s before any alignment.
+- **Planning runtime:** final programme ≈ raw VO × 1.07 (DUN003 631→676 s; DUN001 671→714 s).
+- **TTS moderation (again):** execution, killed-by-guard and torture lines were blocked. A softened chapter, shown to the user before recording, passed first time. Failed calls still count against the 10 per turn.
+- **Image refs:** batch 1 holds the portrait anchors. Passing 1–2 anchors as `images` ("use the reference only for the face/design") keeps Serena, Xavier and the cymek consistent. Edited outputs come back at 1376×768, so normalise every still to 1920×1080 jpg.
+- **Graphics:** long titles need auto-fit (THE BUTLERIAN JIHAD clipped at 148 px Cinzel; fit gives 100 px). Check that name and note cards do not run into the next shot of a different subject, either by shortening `dur` or moving the cut.
+- **Maps:** `map_animator.py` gained a `machine` style, per-beat `color`, and a `flash` beat (atomic strike). Draw fading elements on the glow layer, not the base image, or they leave dark rings.
