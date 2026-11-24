@@ -1,0 +1,72 @@
+OK Lightless_Dawn 379.846531s sha256(src)=59fd69e4432c95887d626e8055113da8fb0da9a8ccac85c6b7da6a6031c4f325 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Lightless%20Dawn.mp3
+OK Deliberate_Thought 177.455986s sha256(src)=243d5543c930bf54e95868bab9da860e67ce8835e3698881fda287bc58cc343f ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Deliberate%20Thought.mp3
+OK Dark_Times 183.695986s sha256(src)=8c05efb338ee645a1f630c7d2aafbb64ac04ad1fee79c6325eafe22f3ad7f15f ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dark%20Times.mp3
+OK Long_Note_Two 462.053878s sha256(src)=53fd96b8fdcae5d2a9bb35a342cfb67344994952f76ff60ff94f56644262f93b ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Long%20Note%20Two.mp3
+OK Mysterioso_March 167.549388s sha256(src)=89a78f20e2c4e9dc0a541a85c55a84893079195513ac8d8ee2f4fe13024ed21a ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Mysterioso%20March.mp3
+OK Phantasm 219.048005s sha256(src)=f5d2256207776d572d248732b91b49b35f971f5e9708d509c5d869ff366b8ee8 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Phantasm.mp3
+OK Interloper 262.661224s sha256(src)=f979f0a000e45e7007121ee9b4292f0aa17ec661512f6517ac84d2ad1cfabecd ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Interloper.mp3
+OK Wizardtorium 207.908571s sha256(src)=fe19fd3846895309571de1bba9a5e944a2f98e8e9db4392b9455a6e1efd15dce ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Wizardtorium.mp3
+OK Private_Reflection 90.880000s sha256(src)=fc8aa81f59749ee96ea096fadb104ff74fdc18b35e2790f543bfa82f0e0cee02 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Private%20Reflection.mp3
+OK Night_Vigil 288.262290s sha256(src)=315009fda5154a093570b9f49c1d98202ab5ba4906078713380d130710ada442 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Night%20Vigil.mp3
+OK Unwritten_Return 309.054694s sha256(src)=1d8036f3d6374ab807f0b55a05f026e515ee8a41527ecbc3548007559765e70a ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Unwritten%20Return.mp3
+OK Ossuary_6_Air 250.070204s sha256(src)=bf57ba7ee56b357dbd8677b41475a2fbe01d282114bc3c64e6deea2b52717fac ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Ossuary%206%20-%20Air.mp3
+OK Crypto 204.068571s sha256(src)=f09ba8bff00baca85fcdcde3b7f5d6b34a09c2c0b44b007a9123ee42f7d1bcf2 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Crypto.mp3
+total 63952
+drwxr-xr-x 2 runner runner    4096 Nov 24 08:24 .
+drwxr-xr-x 3 runner runner    4096 Nov 24 08:23 ..
+-rw-r--r-- 1 runner runner 4082964 Nov 24 08:24 Crypto.mp3
+-rw-r--r-- 1 runner runner 3675882 Nov 24 08:23 Dark_Times.mp3
+-rw-r--r-- 1 runner runner 3754763 Nov 24 08:23 Deliberate_Thought.mp3
+-rw-r--r-- 1 runner runner 5380426 Nov 24 08:24 Interloper.mp3
+-rw-r--r-- 1 runner runner 7598437 Nov 24 08:23 Lightless_Dawn.mp3
+-rw-r--r-- 1 runner runner 9373761 Nov 24 08:24 Long_Note_Two.mp3
+-rw-r--r-- 1 runner runner 3478293 Nov 24 08:24 Mysterioso_March.mp3
+-rw-r--r-- 1 runner runner 6162131 Nov 24 08:24 Night_Vigil.mp3
+-rw-r--r-- 1 runner runner 5003014 Nov 24 08:24 Ossuary_6_Air.mp3
+-rw-r--r-- 1 runner runner 4514631 Nov 24 08:24 Phantasm.mp3
+-rw-r--r-- 1 runner runner 1945775 Nov 24 08:24 Private_Reflection.mp3
+-rw-r--r-- 1 runner runner 6182674 Nov 24 08:24 Unwritten_Return.mp3
+-rw-r--r-- 1 runner runner 4285292 Nov 24 08:24 Wizardtorium.mp3
+-rw-r--r-- 1 runner runner    5624 Nov 24 08:24 _fetch_log.txt
+IX     script   86 words, matched   86 (100%)
+X      script  103 words, matched  103 (100%)
+CTA_B  script   42 words, matched   42 (100%)
+programme 676.53 s (11:16), shots 181 (dropped short: []), graphics 42
+0:00 Prologue: He Can See the Future
+0:46 I. The God on the Throne
+2:00 II. Sixty-One Billion
+3:25 III. Four Powers in the Dark
+4:48 IV. The Gift
+5:57 V. The Night of the Stone Burner
+6:56 VI. The Blind Emperor
+7:47 VII. Chani
+8:37 VIII. The Tleilaxu Bargain
+9:22 IX. Into the Desert
+10:04 X. Beware of Heroes
+M2    Deliberate_Thought     40.95-  48.15 src@  30.0s  measured  -15.6 LUFS -> gain  -8.4 dB
+M3    Dark_Times             46.35- 121.57 src@   3.0s  measured  -22.8 LUFS -> gain  -0.2 dB
+M4    Long_Note_Two         120.37- 191.63 src@  34.0s  measured  -29.4 LUFS -> gain  +6.4 dB
+M2b   Deliberate_Thought    190.43- 206.28 src@  30.0s  measured  -16.8 LUFS -> gain  -7.2 dB
+M5    Mysterioso_March      205.08- 289.29 src@  44.0s  measured  -25.4 LUFS -> gain  +2.4 dB
+M6    Phantasm              288.29- 357.80 src@  14.0s  measured  -18.8 LUFS -> gain  -6.2 dB
+M7    Interloper            356.80- 411.88 src@  66.0s  measured  -20.2 LUFS -> gain  -1.8 dB
+M8    Wizardtorium          413.90- 468.14 src@   0.0s  measured  -36.3 LUFS -> gain +13.3 dB
+M9    Private_Reflection    504.43- 563.05 src@   0.0s  measured  -17.1 LUFS -> gain  -5.9 dB
+M10   Night_Vigil           562.05- 588.83 src@  60.0s  measured  -14.8 LUFS -> gain  -8.2 dB
+M11   Unwritten_Return      586.53- 605.28 src@  12.0s  measured  -17.1 LUFS -> gain  -6.9 dB
+M12   Lightless_Dawn        604.08- 653.95 src@ 170.0s  measured  -24.3 LUFS -> gain  +1.3 dB
+M12b  Deliberate_Thought    651.75- 676.53 src@  30.0s  measured  -17.3 LUFS -> gain  -7.7 dB
+pre-norm: I=-16.55 LUFS TP=-0.53 LRA=4.10  -> -14 LUFS / -1 dBTP
+wrote /tmp/mix_v2.wav 676.53s
+    Threshold: -24.8 LUFS
+
+  Loudness range:
+    LRA:         4.0 LU
+    Threshold: -34.8 LUFS
+    LRA low:   -17.0 LUFS
+    LRA high:  -13.0 LUFS
+
+  True peak:
+    Peak:       -1.0 dBFS
+[out#0/null @ 0x610f24271b80] video:0KiB audio:126849KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:11:16.53 bitrate=N/A speed= 310x elapsed=0:00:02.18    
