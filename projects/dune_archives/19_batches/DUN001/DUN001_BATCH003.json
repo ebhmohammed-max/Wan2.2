@@ -2,7 +2,7 @@
  "episode": "DUN001",
  "batch": "BATCH003",
  "max_batch_size": 10,
- "status": "GENERATED_9_OF_10",
+ "status": "GENERATED_QC_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome.",
  "images": [
@@ -95,8 +95,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a single machine eye of silver light blinking open inside a dark tangle of cables, the first spark of a mind. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "RETRY",
-   "notes": "generation error turn 47; retry next turn"
+   "qc": "PASS",
+   "notes": "generated turn 48; png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE027",
