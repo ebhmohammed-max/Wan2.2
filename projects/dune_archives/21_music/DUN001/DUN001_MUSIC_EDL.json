@@ -1,0 +1,200 @@
+{
+ "episode": "DUN001",
+ "timeline": "voice-14 VO, programme 714.38 s",
+ "bed_lufs": -23.0,
+ "notes": "start/end = programme seconds; offset = seconds into the source track; fade_in/fade_out in seconds; gain_db = trim after loudness normalisation; hp = high-pass Hz. Kevin MacLeod (incompetech.com), CC BY 4.0.",
+ "cues": [
+  {
+   "cue": "M1",
+   "name": "The Balcony (hook)",
+   "track": "Phantasm",
+   "start": 0.0,
+   "end": 52.15,
+   "offset": 14.0,
+   "fade_in": 0.0,
+   "fade_out": 2.5,
+   "gain_db": -2,
+   "hp": 110
+  },
+  {
+   "cue": "M2",
+   "name": "Archive (ident)",
+   "track": "Deliberate_Thought",
+   "start": 49.75,
+   "end": 56.95,
+   "offset": 30.0,
+   "fade_in": 1.2,
+   "fade_out": 2.5,
+   "gain_db": -1
+  },
+  {
+   "cue": "M3",
+   "name": "The Age of Machines",
+   "track": "Crypto",
+   "start": 55.15,
+   "end": 123.73,
+   "offset": 2.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": -1
+  },
+  {
+   "cue": "M4",
+   "name": "The Last Free Humans",
+   "track": "Dark_Times",
+   "start": 122.73,
+   "end": 184.91,
+   "offset": 3.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M2b",
+   "name": "Subscribe (archive theme)",
+   "track": "Deliberate_Thought",
+   "start": 183.71,
+   "end": 198.64,
+   "offset": 30.0,
+   "fade_in": 1.0,
+   "fade_out": 2.0,
+   "gain_db": -1
+  },
+  {
+   "cue": "M5",
+   "name": "The Child",
+   "track": "Long_Note_Two",
+   "start": 197.44,
+   "end": 224.89,
+   "offset": 34.0,
+   "fade_in": 1.5,
+   "fade_out": 0.05,
+   "gain_db": 0
+  },
+  {
+   "cue": "M5b",
+   "name": "The Spark (revolt)",
+   "track": "Interloper",
+   "start": 227.04,
+   "end": 263.48,
+   "offset": 66.0,
+   "fade_in": 0.4,
+   "fade_out": 2.5,
+   "gain_db": 1
+  },
+  {
+   "cue": "M6",
+   "name": "The Burning of Earth",
+   "track": "Lightless_Dawn",
+   "start": 262.48,
+   "end": 324.66,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M7",
+   "name": "The Holy War",
+   "track": "Wizardtorium",
+   "start": 323.66,
+   "end": 382.77,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M8",
+   "name": "The Martyr",
+   "track": "Private_Reflection",
+   "start": 381.77,
+   "end": 438.04,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 3.0,
+   "gain_db": 0
+  },
+  {
+   "cue": "M9",
+   "name": "The Traitor's Name",
+   "track": "Ossuary_6_Air",
+   "start": 437.04,
+   "end": 496.49,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M10",
+   "name": "The Great Purge",
+   "track": "Lightless_Dawn",
+   "start": 495.49,
+   "end": 557.12,
+   "offset": 170.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M11",
+   "name": "The Bridge of Hrethgir",
+   "track": "Night_Vigil",
+   "start": 556.32,
+   "end": 628.83,
+   "offset": 60.0,
+   "fade_in": 1.5,
+   "fade_out": 3.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M12",
+   "name": "Thou Shalt Not",
+   "track": "Unwritten_Return",
+   "start": 627.13,
+   "end": 692.11,
+   "offset": 12.0,
+   "fade_in": 2.0,
+   "fade_out": 3.5,
+   "gain_db": -1
+  },
+  {
+   "cue": "M12b",
+   "name": "Outro (archive theme)",
+   "track": "Deliberate_Thought",
+   "start": 689.91,
+   "end": 714.38,
+   "offset": 30.0,
+   "fade_in": 2.0,
+   "fade_out": 3.0,
+   "gain_db": -2
+  }
+ ],
+ "sfx": [
+  {
+   "type": "wind",
+   "start": 0.0,
+   "end": 20.0,
+   "level_db": -38,
+   "note": "cold air on the balcony (hook)"
+  },
+  {
+   "type": "heartbeat",
+   "start": 197.84,
+   "end": 224.94,
+   "level_db": -24,
+   "note": "pulse up to 'The child does not survive.', then silence"
+  },
+  {
+   "type": "wind",
+   "start": 308.99,
+   "end": 318.99,
+   "level_db": -34,
+   "note": "dead Earth"
+  }
+ ],
+ "silences": [
+  "224.7-227.0 after \"The child does not survive.\""
+ ]
+}

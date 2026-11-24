@@ -48,7 +48,11 @@ STYLES = {
                       text=(235, 238, 242), terr=(70, 110, 160)),
     "arrakis": dict(bg=(42, 28, 16), grid=(84, 60, 36), ink=(240, 200, 140), route=(255, 140, 60),
                     text=(250, 232, 200), terr=(170, 110, 50)),
+    "machine": dict(bg=(5, 8, 11), grid=(26, 34, 42), ink=(176, 198, 214), route=(255, 146, 64),
+                    text=(232, 234, 238), terr=(58, 78, 98)),
 }
+# Optional per-beat / per-node "color": [r, g, b] overrides the style (territory fill+outline, route, node ink).
+# Extra beat type "flash": {"type": "flash", "id": node, "start", "dur"} = atomic burst on a node.
 CANON_RING = {"ORIGINAL": 0, "EXPANDED": 1, "FILM": 2, "TV": 2, "RECON": 3}
 
 
@@ -114,11 +118,14 @@ def render(scene, out):
             if b["type"] == "territory":
                 poly = [(x * W * SS, y * H * SS) for x, y in b["polygon"]]
                 ov = Image.new("RGBA", img.size, (0, 0, 0, 0))
-                ImageDraw.Draw(ov).polygon(poly, fill=st["terr"] + (int(70 * p),),
-                                           outline=st["ink"] + (int(200 * p),))
+                tc = tuple(b.get("color", st["terr"]))
+                oc = tuple(b.get("outline", b.get("color", st["ink"])))
+                ImageDraw.Draw(ov).polygon(poly, fill=tc + (int(b.get("alpha", 70) * p),),
+                                           outline=oc + (int(200 * p),))
                 img.paste(ov, (0, 0), ov)
                 d = ImageDraw.Draw(img)
             elif b["type"] == "route":
+                rc = tuple(b.get("color", st["route"]))
                 pts = [P(nodes[k]) for k in b["path"]]
                 segs = list(zip(pts[:-1], pts[1:]))
                 lens = [math.dist(a, c) for a, c in segs]
@@ -137,35 +144,45 @@ def render(scene, out):
                                 s0, s1 = j / max(1, nd), (j + 1) / max(1, nd)
                                 q0 = (a[0] + (e[0] - a[0]) * s0, a[1] + (e[1] - a[1]) * s0)
                                 q1 = (a[0] + (e[0] - a[0]) * s1, a[1] + (e[1] - a[1]) * s1)
-                                d.line([q0, q1], fill=st["route"], width=3 * SS)
+                                d.line([q0, q1], fill=rc, width=3 * SS)
                     else:
-                        d.line([a, e], fill=st["route"], width=3 * SS)
-                    g.line([a, e], fill=st["route"], width=10 * SS)
+                        d.line([a, e], fill=rc, width=3 * SS)
+                    g.line([a, e], fill=rc, width=10 * SS)
                     head, acc = e, acc + L
                 if p < 1:
                     r = 9 * SS
                     g.ellipse((head[0] - r * 2, head[1] - r * 2, head[0] + r * 2, head[1] + r * 2), fill=(255, 230, 180))
                     d.ellipse((head[0] - r / 2, head[1] - r / 2, head[0] + r / 2, head[1] + r / 2), fill=(255, 245, 220))
+            elif b["type"] == "flash":
+                if p >= 1:      # burst finished: leave nothing behind
+                    continue
+                x, y = P(nodes[b["id"]])
+                fr = (18 + 120 * ease(p)) * SS
+                fa = 1.0 - p
+                g.ellipse((x - fr, y - fr, x + fr, y + fr), fill=tuple(int(c * fa) for c in (255, 236, 200)))
+                g.ellipse((x - fr * 0.35, y - fr * 0.35, x + fr * 0.35, y + fr * 0.35),
+                          outline=tuple(int(c * fa) for c in (255, 250, 235)), width=4 * SS)
             elif b["type"] == "node":
                 n = nodes[b["id"]]
                 x, y = P(n)
+                ink = tuple(n["color"]) if n.get("color") else st["ink"]
                 r = (10 + 6 * (1 - p)) * SS
                 ring = CANON_RING.get(n.get("canon", "RECON"), 3)
-                d.ellipse((x - r, y - r, x + r, y + r), outline=st["ink"], width=3 * SS)
+                d.ellipse((x - r, y - r, x + r, y + r), outline=ink, width=3 * SS)
                 if ring == 0:
-                    d.ellipse((x - r / 2.5, y - r / 2.5, x + r / 2.5, y + r / 2.5), fill=st["ink"])
+                    d.ellipse((x - r / 2.5, y - r / 2.5, x + r / 2.5, y + r / 2.5), fill=ink)
                 elif ring == 3:  # reconstruction: dashed look via gaps
-                    d.arc((x - r - 8 * SS, y - r - 8 * SS, x + r + 8 * SS, y + r + 8 * SS), 0, 300, fill=st["ink"], width=SS)
+                    d.arc((x - r - 8 * SS, y - r - 8 * SS, x + r + 8 * SS, y + r + 8 * SS), 0, 300, fill=ink, width=SS)
                 else:
-                    d.ellipse((x - r - 8 * SS, y - r - 8 * SS, x + r + 8 * SS, y + r + 8 * SS), outline=st["ink"], width=SS)
+                    d.ellipse((x - r - 8 * SS, y - r - 8 * SS, x + r + 8 * SS, y + r + 8 * SS), outline=ink, width=SS)
                 pulse = (t * 1.2) % 1.0
                 pr = r + 40 * SS * pulse
-                g.ellipse((x - pr, y - pr, x + pr, y + pr), outline=tuple(int(c * (1 - pulse)) for c in st["ink"]), width=2 * SS)
-                g.ellipse((x - r * 2, y - r * 2, x + r * 2, y + r * 2), fill=tuple(int(c * 0.6) for c in st["ink"]))
+                g.ellipse((x - pr, y - pr, x + pr, y + pr), outline=tuple(int(c * (1 - pulse)) for c in ink), width=2 * SS)
+                g.ellipse((x - r * 2, y - r * 2, x + r * 2, y + r * 2), fill=tuple(int(c * 0.6) for c in ink))
                 label = n["label"][: max(1, int(len(n["label"]) * min(1, p * 1.5)))]
                 d.text((x + 22 * SS, y - 14 * SS), label.upper(), font=f_lab, fill=st["text"])
                 if n.get("sub") and p > 0.6:
-                    d.text((x + 22 * SS, y + 14 * SS), n["sub"], font=f_cap, fill=st["ink"])
+                    d.text((x + 22 * SS, y + 14 * SS), n["sub"], font=f_cap, fill=ink)
         glow = glow.filter(ImageFilter.GaussianBlur(14 * SS))
         img = Image.fromarray(np.clip(np.asarray(img, np.int16) + np.asarray(glow, np.int16) * 0.9, 0, 255).astype(np.uint8))
         # slow camera push toward focus

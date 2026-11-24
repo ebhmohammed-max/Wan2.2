@@ -1,0 +1,10468 @@
+{
+"episode": "DUN001",
+"version": "v2",
+"duration": 714.38,
+"fps": 24,
+"ident": [
+50.95,
+55.55
+],
+"sections": {
+"H": {
+"gap_start": 0.45,
+"start": 0.45,
+"end": 49.9,
+"last_word_end": 49.55,
+"num": null,
+"name": "Hook"
+},
+"I": {
+"gap_start": 55.55,
+"start": 57.95,
+"end": 123.13,
+"last_word_end": 122.78,
+"num": "I",
+"name": "The Age of Machines"
+},
+"II": {
+"gap_start": 123.13,
+"start": 125.53,
+"end": 183.91,
+"last_word_end": 183.56,
+"num": "II",
+"name": "The Last Free Humans"
+},
+"CA": {
+"gap_start": 183.91,
+"start": 184.91,
+"end": 197.24,
+"last_word_end": 196.89,
+"num": null,
+"name": "Subscribe"
+},
+"III": {
+"gap_start": 197.84,
+"start": 200.24,
+"end": 262.88,
+"last_word_end": 262.53,
+"num": "III",
+"name": "The Child"
+},
+"IV": {
+"gap_start": 262.88,
+"start": 265.28,
+"end": 324.06,
+"last_word_end": 323.71,
+"num": "IV",
+"name": "The Burning of Earth"
+},
+"V": {
+"gap_start": 324.06,
+"start": 326.46,
+"end": 382.17,
+"last_word_end": 381.82,
+"num": "V",
+"name": "The Holy War"
+},
+"VI": {
+"gap_start": 382.17,
+"start": 384.57,
+"end": 437.44,
+"last_word_end": 437.09,
+"num": "VI",
+"name": "The Martyr"
+},
+"VII": {
+"gap_start": 437.44,
+"start": 439.84,
+"end": 495.89,
+"last_word_end": 495.54,
+"num": "VII",
+"name": "The Traitor's Name"
+},
+"VIII": {
+"gap_start": 495.89,
+"start": 498.29,
+"end": 556.52,
+"last_word_end": 556.17,
+"num": "VIII",
+"name": "The Great Purge"
+},
+"IX": {
+"gap_start": 556.52,
+"start": 558.92,
+"end": 626.68,
+"last_word_end": 626.33,
+"num": "IX",
+"name": "The Bridge of Hrethgir"
+},
+"X": {
+"gap_start": 626.68,
+"start": 629.08,
+"end": 690.51,
+"last_word_end": 690.16,
+"num": "X",
+"name": "Thou Shalt Not"
+},
+"CB": {
+"gap_start": 690.51,
+"start": 691.71,
+"end": 708.73,
+"last_word_end": 708.38,
+"num": null,
+"name": "Outro"
+}
+},
+"shots": [
+{
+"t0": 0.0,
+"key": "B001S002",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "A machine",
+"t1": 3.61
+},
+{
+"t0": 3.61,
+"key": "B001S001",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "It carries",
+"t1": 6.45
+},
+{
+"t0": 6.45,
+"key": "B001S005",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "It wants",
+"t1": 10.49
+},
+{
+"t0": 10.49,
+"key": "B005S047",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "It is about",
+"t1": 13.12
+},
+{
+"t0": 13.12,
+"key": "B015S145",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "For a thousand",
+"t1": 17.9
+},
+{
+"t0": 17.9,
+"key": "B001S003",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "Their master",
+"t1": 23.92
+},
+{
+"t0": 23.92,
+"key": "B001S004",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "Its generals",
+"t1": 29.14
+},
+{
+"t0": 29.14,
+"key": "B001S010",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "To destroy",
+"t1": 33.63
+},
+{
+"t0": 33.63,
+"key": "B002S011",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "turn a murdered",
+"t1": 36.15
+},
+{
+"t0": 36.15,
+"key": "B002S012",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "and swear",
+"t1": 41.87
+},
+{
+"t0": 41.87,
+"key": "B002S013",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "And its",
+"t1": 46.73
+},
+{
+"t0": 46.73,
+"key": "B002S014",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "This is",
+"t1": 50.95
+},
+{
+"t0": 50.95,
+"key": "B004S031",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IDENT",
+"anchor": "(ident)",
+"t1": 55.55
+},
+{
+"t0": 55.55,
+"key": "B002S015",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "Long before",
+"t1": 64.19
+},
+{
+"t0": 64.19,
+"key": "B002S016",
+"recipe": "PAN_RL",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "Machines farmed",
+"t1": 68.39
+},
+{
+"t0": 68.39,
+"key": "B002S017",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "People stopped",
+"t1": 72.71
+},
+{
+"t0": 72.71,
+"key": "B002S018",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "Then twenty",
+"t1": 76.06
+},
+{
+"t0": 76.06,
+"key": "B003S029",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "They called",
+"t1": 78.46
+},
+{
+"t0": 78.46,
+"key": "B002S019",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "Led by",
+"t1": 81.98
+},
+{
+"t0": 81.98,
+"key": "B002S020",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "that ran",
+"t1": 83.46
+},
+{
+"t0": 83.46,
+"key": "B003S021",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "and took",
+"t1": 87.88
+},
+{
+"t0": 87.88,
+"key": "B003S022",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "To rule",
+"t1": 91.62
+},
+{
+"t0": 91.62,
+"key": "B003S023",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "They had",
+"t1": 95.0
+},
+{
+"t0": 95.0,
+"key": "B003S024",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "and fitted",
+"t1": 99.78
+},
+{
+"t0": 99.78,
+"key": "B003S025",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "But one",
+"t1": 106.02
+},
+{
+"t0": 106.02,
+"key": "B003S026",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "The network",
+"t1": 107.81
+},
+{
+"t0": 107.81,
+"key": "B015S144",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "It named",
+"t1": 110.11
+},
+{
+"t0": 110.11,
+"key": "B003S027",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "It spread",
+"t1": 115.7
+},
+{
+"t0": 115.7,
+"key": "B003S028",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "Even the",
+"t1": 118.36
+},
+{
+"t0": 118.36,
+"key": "B003S030",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "For the next",
+"t1": 123.13
+},
+{
+"t0": 123.13,
+"key": "MAP:A",
+"recipe": "MAP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "Only a",
+"t1": 133.93
+},
+{
+"t0": 133.93,
+"key": "B004S032",
+"recipe": "PAN_RL",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "Their capital",
+"t1": 137.35
+},
+{
+"t0": 137.35,
+"key": "B001S006",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "Among them",
+"t1": 141.91
+},
+{
+"t0": 141.91,
+"key": "B004S034",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "Brave",
+"t1": 144.05
+},
+{
+"t0": 144.05,
+"key": "B001S008",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "a young officer",
+"t1": 147.27
+},
+{
+"t0": 147.27,
+"key": "B004S035",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "She was",
+"t1": 149.41
+},
+{
+"t0": 149.41,
+"key": "B004S036",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "When the",
+"t1": 153.51
+},
+{
+"t0": 153.51,
+"key": "B004S037",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "Serena led",
+"t1": 156.94
+},
+{
+"t0": 156.94,
+"key": "B004S038",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "She was captured",
+"t1": 158.28
+},
+{
+"t0": 158.28,
+"key": "B004S039",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "taken to Earth",
+"t1": 163.32
+},
+{
+"t0": 163.32,
+"key": "B005S043",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "There she",
+"t1": 166.44
+},
+{
+"t0": 166.44,
+"key": "B004S040",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "Erasmus was",
+"t1": 169.18
+},
+{
+"t0": 169.18,
+"key": "B001S005",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "He was an",
+"t1": 175.28
+},
+{
+"t0": 175.28,
+"key": "B005S041",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "what makes",
+"t1": 176.68
+},
+{
+"t0": 176.68,
+"key": "B005S042",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "He studied",
+"t1": 183.91
+},
+{
+"t0": 183.91,
+"key": "B005S044",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CA",
+"anchor": "Before we",
+"t1": 187.79
+},
+{
+"t0": 187.79,
+"key": "B015S150",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CA",
+"anchor": "If you love",
+"t1": 197.84
+},
+{
+"t0": 197.84,
+"key": "B005S045",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "On Earth",
+"t1": 204.08
+},
+{
+"t0": 204.08,
+"key": "B005S046",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "She names",
+"t1": 205.96
+},
+{
+"t0": 205.96,
+"key": "B005S047",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "Erasmus watches",
+"t1": 209.49
+},
+{
+"t0": 209.49,
+"key": "B005S046",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "He watches",
+"t1": 214.12
+},
+{
+"t0": 214.12,
+"key": "B005S041",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "an experiment",
+"t1": 216.88
+},
+{
+"t0": 216.88,
+"key": "B005S048",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "One day",
+"t1": 219.2
+},
+{
+"t0": 219.2,
+"key": "B005S049",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "he takes",
+"t1": 220.96
+},
+{
+"t0": 220.96,
+"key": "B001S001",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "and carries",
+"t1": 223.08
+},
+{
+"t0": 223.08,
+"key": "B005S050",
+"recipe": "HOLD",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "The child",
+"t1": 227.28
+},
+{
+"t0": 227.28,
+"key": "B006S051",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "Serena throws",
+"t1": 230.12
+},
+{
+"t0": 230.12,
+"key": "B006S052",
+"recipe": "HOLD",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "and destroys",
+"t1": 232.58
+},
+{
+"t0": 232.58,
+"key": "B006S053",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "The slaves",
+"t1": 235.29
+},
+{
+"t0": 235.29,
+"key": "B001S009",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "A trusted",
+"t1": 237.59
+},
+{
+"t0": 237.59,
+"key": "B006S054",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "has been preparing",
+"t1": 240.28
+},
+{
+"t0": 240.28,
+"key": "B006S055",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "Now he",
+"t1": 242.5
+},
+{
+"t0": 242.5,
+"key": "B006S056",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "And one",
+"t1": 244.88
+},
+{
+"t0": 244.88,
+"key": "B001S007",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "Vorian Atreides",
+"t1": 250.38
+},
+{
+"t0": 250.38,
+"key": "B006S056",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "In that",
+"t1": 254.2
+},
+{
+"t0": 254.2,
+"key": "B006S057",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "In his ship",
+"t1": 256.68
+},
+{
+"t0": 256.68,
+"key": "B006S058",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "he carries",
+"t1": 259.75
+},
+{
+"t0": 259.75,
+"key": "B006S059",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "The first",
+"t1": 262.88
+},
+{
+"t0": 262.88,
+"key": "B006S060",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "The machines",
+"t1": 270.04
+},
+{
+"t0": 270.04,
+"key": "B015S145",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "Titans and",
+"t1": 272.72
+},
+{
+"t0": 272.72,
+"key": "B007S061",
+"recipe": "HOLD",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "until not",
+"t1": 276.18
+},
+{
+"t0": 276.18,
+"key": "B004S033",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "On Salusa",
+"t1": 280.4
+},
+{
+"t0": 280.4,
+"key": "B007S063",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "Grieving",
+"t1": 284.3
+},
+{
+"t0": 284.3,
+"key": "B007S064",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "Xavier",
+"t1": 287.16
+},
+{
+"t0": 287.16,
+"key": "B007S065",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "atomics",
+"t1": 290.95
+},
+{
+"t0": 290.95,
+"key": "B007S066",
+"recipe": "HOLD",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "Not a",
+"t1": 295.83
+},
+{
+"t0": 295.83,
+"key": "B007S067",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "In 200",
+"t1": 300.01
+},
+{
+"t0": 300.01,
+"key": "B007S068",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "The machines there",
+"t1": 305.69
+},
+{
+"t0": 305.69,
+"key": "B007S069",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "The oldest",
+"t1": 311.23
+},
+{
+"t0": 311.23,
+"key": "B007S070",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "And the war",
+"t1": 318.19
+},
+{
+"t0": 318.19,
+"key": "B002S011",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "A holy war",
+"t1": 324.06
+},
+{
+"t0": 324.06,
+"key": "B008S071",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "Iblis Ginjo",
+"t1": 331.22
+},
+{
+"t0": 331.22,
+"key": "B008S072",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "Serena becomes",
+"t1": 333.12
+},
+{
+"t0": 333.12,
+"key": "B015S141",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "the face",
+"t1": 335.78
+},
+{
+"t0": 335.78,
+"key": "B008S073",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "Xavier and",
+"t1": 338.72
+},
+{
+"t0": 338.72,
+"key": "B008S074",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "For decades",
+"t1": 341.72
+},
+{
+"t0": 341.72,
+"key": "MAP:B",
+"recipe": "MAP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "Worlds are",
+"t1": 348.4
+},
+{
+"t0": 348.4,
+"key": "B008S076",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "energy shields",
+"t1": 352.12
+},
+{
+"t0": 352.12,
+"key": "B008S077",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "that can fold",
+"t1": 354.49
+},
+{
+"t0": 354.49,
+"key": "B015S142",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "But behind",
+"t1": 358.72
+},
+{
+"t0": 358.72,
+"key": "B008S078",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "a secret police",
+"t1": 361.52
+},
+{
+"t0": 361.52,
+"key": "B008S079",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "and a holy war",
+"t1": 365.7
+},
+{
+"t0": 365.7,
+"key": "B008S080",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "After almost",
+"t1": 369.52
+},
+{
+"t0": 369.52,
+"key": "B009S081",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "The machines offer",
+"t1": 371.72
+},
+{
+"t0": 371.72,
+"key": "B007S062",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "and the people",
+"t1": 374.12
+},
+{
+"t0": 374.12,
+"key": "B009S082",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "For Serena",
+"t1": 382.17
+},
+{
+"t0": 382.17,
+"key": "B009S083",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "Serena travels",
+"t1": 387.75
+},
+{
+"t0": 387.75,
+"key": "B009S084",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "as an ambassador",
+"t1": 392.95
+},
+{
+"t0": 392.95,
+"key": "B009S085",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "She defies",
+"t1": 396.29
+},
+{
+"t0": 396.29,
+"key": "B009S087",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "But Erasmus",
+"t1": 399.06
+},
+{
+"t0": 399.06,
+"key": "B009S086",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "He knows",
+"t1": 402.96
+},
+{
+"t0": 402.96,
+"key": "B009S088",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "So her",
+"t1": 407.27
+},
+{
+"t0": 407.27,
+"key": "B009S089",
+"recipe": "HOLD",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "Serena Butler's",
+"t1": 411.3
+},
+{
+"t0": 411.3,
+"key": "B015S146",
+"recipe": "PAN_RL",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "Then Iblis",
+"t1": 416.66
+},
+{
+"t0": 416.66,
+"key": "B009S090",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "Images reach",
+"t1": 421.0
+},
+{
+"t0": 421.0,
+"key": "B010S092",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "Her remains",
+"t1": 423.88
+},
+{
+"t0": 423.88,
+"key": "B010S091",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "It is a clone",
+"t1": 429.58
+},
+{
+"t0": 429.58,
+"key": "B010S093",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "And the lie",
+"t1": 433.68
+},
+{
+"t0": 433.68,
+"key": "B010S094",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "The Jihad",
+"t1": 437.44
+},
+{
+"t0": 437.44,
+"key": "B015S143",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "That same",
+"t1": 446.02
+},
+{
+"t0": 446.02,
+"key": "B010S095",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "To replace",
+"t1": 450.7
+},
+{
+"t0": 450.7,
+"key": "B010S096",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "have been kidnapping",
+"t1": 456.2
+},
+{
+"t0": 456.2,
+"key": "B010S097",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "Xavier knows",
+"t1": 460.16
+},
+{
+"t0": 460.16,
+"key": "B010S098",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "So he takes",
+"t1": 462.9
+},
+{
+"t0": 462.9,
+"key": "B010S099",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "and flies",
+"t1": 467.71
+},
+{
+"t0": 467.71,
+"key": "B015S143",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "But the story",
+"t1": 473.05
+},
+{
+"t0": 473.05,
+"key": "B010S100",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "Iblis becomes",
+"t1": 479.39
+},
+{
+"t0": 479.39,
+"key": "B011S101",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "And Xavier",
+"t1": 483.99
+},
+{
+"t0": 483.99,
+"key": "B011S102",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "His family",
+"t1": 488.09
+},
+{
+"t0": 488.09,
+"key": "B011S103",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "Only Vorian",
+"t1": 495.89
+},
+{
+"t0": 495.89,
+"key": "B003S030",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "Decades",
+"t1": 504.51
+},
+{
+"t0": 504.51,
+"key": "B011S104",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "a plague",
+"t1": 507.47
+},
+{
+"t0": 507.47,
+"key": "B011S105",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "It sweeps",
+"t1": 511.69
+},
+{
+"t0": 511.69,
+"key": "B011S106",
+"recipe": "PAN_RL",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "With the",
+"t1": 517.41
+},
+{
+"t0": 517.41,
+"key": "B011S107",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "Vorian Atreides",
+"t1": 522.35
+},
+{
+"t0": 522.35,
+"key": "B011S108",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "While the",
+"t1": 526.93
+},
+{
+"t0": 526.93,
+"key": "MAP:C",
+"recipe": "MAP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "and strike every",
+"t1": 535.33
+},
+{
+"t0": 535.33,
+"key": "B011S109",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "World after",
+"t1": 537.89
+},
+{
+"t0": 537.89,
+"key": "B011S110",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "and every human",
+"t1": 541.97
+},
+{
+"t0": 541.97,
+"key": "B012S111",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "Only one",
+"t1": 546.95
+},
+{
+"t0": 546.95,
+"key": "B012S112",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "The League surrounds",
+"t1": 551.97
+},
+{
+"t0": 551.97,
+"key": "B001S003",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "For twenty",
+"t1": 556.52
+},
+{
+"t0": 556.52,
+"key": "B012S113",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "In 88",
+"t1": 563.42
+},
+{
+"t0": 563.42,
+"key": "B012S114",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "Vorian Atreides",
+"t1": 565.3
+},
+{
+"t0": 565.3,
+"key": "B012S115",
+"recipe": "HOLD",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "He has already",
+"t1": 569.64
+},
+{
+"t0": 569.64,
+"key": "B012S116",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "At his side",
+"t1": 573.08
+},
+{
+"t0": 573.08,
+"key": "B012S114",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "Vorian has told",
+"t1": 578.52
+},
+{
+"t0": 578.52,
+"key": "B012S119",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "Erasmus has",
+"t1": 581.26
+},
+{
+"t0": 581.26,
+"key": "B012S117",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "Around the",
+"t1": 586.34
+},
+{
+"t0": 586.34,
+"key": "B012S118",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "rigged to",
+"t1": 592.24
+},
+{
+"t0": 592.24,
+"key": "B012S117",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "This is the Bridge",
+"t1": 594.54
+},
+{
+"t0": 594.54,
+"key": "B015S147",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "Vorian gives",
+"t1": 596.9
+},
+{
+"t0": 596.9,
+"key": "B012S120",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "Abulurd begs",
+"t1": 598.98
+},
+{
+"t0": 598.98,
+"key": "B013S121",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "Then he does",
+"t1": 600.92
+},
+{
+"t0": 600.92,
+"key": "B013S122",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "He disables",
+"t1": 605.51
+},
+{
+"t0": 605.51,
+"key": "B015S148",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "Erasmus himself",
+"t1": 610.62
+},
+{
+"t0": 610.62,
+"key": "B013S122",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "But no one",
+"t1": 613.3
+},
+{
+"t0": 613.3,
+"key": "B008S075",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "Without its",
+"t1": 616.85
+},
+{
+"t0": 616.85,
+"key": "B013S123",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "Corrin falls",
+"t1": 618.37
+},
+{
+"t0": 618.37,
+"key": "B013S124",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "and to a final",
+"t1": 621.71
+},
+{
+"t0": 621.71,
+"key": "B013S125",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IX",
+"anchor": "Omnius is",
+"t1": 626.68
+},
+{
+"t0": 626.68,
+"key": "B013S126",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "X",
+"anchor": "After the",
+"t1": 632.76
+},
+{
+"t0": 632.76,
+"key": "B013S127",
+"recipe": "HOLD",
+"focus": [
+0.5,
+0.5
+],
+"sid": "X",
+"anchor": "Instead",
+"t1": 635.44
+},
+{
+"t0": 635.44,
+"key": "B013S128",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "X",
+"anchor": "and exiled",
+"t1": 638.74
+},
+{
+"t0": 638.74,
+"key": "B013S129",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "X",
+"anchor": "forced to",
+"t1": 641.54
+},
+{
+"t0": 641.54,
+"key": "B012S114",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "X",
+"anchor": "And Vorian",
+"t1": 648.65
+},
+{
+"t0": 648.65,
+"key": "B013S130",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "X",
+"anchor": "Ten thousand",
+"t1": 653.17
+},
+{
+"t0": 653.17,
+"key": "B014S131",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "X",
+"anchor": "Abulurd's brother",
+"t1": 657.46
+},
+{
+"t0": 657.46,
+"key": "B014S132",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "X",
+"anchor": "His family",
+"t1": 662.87
+},
+{
+"t0": 662.87,
+"key": "B014S133",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "X",
+"anchor": "And humanity",
+"t1": 671.03
+},
+{
+"t0": 671.03,
+"key": "B014S134",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "X",
+"anchor": "Without thinking",
+"t1": 675.21
+},
+{
+"t0": 675.21,
+"key": "B014S135",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "X",
+"anchor": "Mentats",
+"t1": 677.31
+},
+{
+"t0": 677.31,
+"key": "B014S136",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "X",
+"anchor": "Sisters",
+"t1": 679.47
+},
+{
+"t0": 679.47,
+"key": "B014S137",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "X",
+"anchor": "Navigators",
+"t1": 682.39
+},
+{
+"t0": 682.39,
+"key": "B014S138",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "X",
+"anchor": "Every power",
+"t1": 686.23
+},
+{
+"t0": 686.23,
+"key": "B014S139",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "X",
+"anchor": "And from",
+"t1": 688.46
+},
+{
+"t0": 688.46,
+"key": "B014S140",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "X",
+"anchor": "a balcony",
+"t1": 690.51
+},
+{
+"t0": 690.51,
+"key": "B015S149",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "So, was",
+"t1": 714.38
+}
+],
+"graphics": [
+{
+"kind": "TITLE",
+"t0": 46.74,
+"t1": 51.3,
+"p": {
+"kicker": "THE MYTHIC ARCHIVES PRESENTS",
+"title": "THE BUTLERIAN JIHAD",
+"sub": "The War Against the Thinking Machines"
+}
+},
+{
+"kind": "IDENT",
+"t0": 50.95,
+"t1": 55.55,
+"p": {
+"title": "THE MYTHIC ARCHIVES",
+"tag": "WESTEROS  \u2022  ARRAKIS  \u2022  MIDDLE-EARTH",
+"sub": "A MYTHIC ARCHIVES PRODUCTION  \u00b7  RECORD 001"
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 55.55,
+"t1": 58.85,
+"p": {
+"num": "I",
+"title": "The Age of Machines"
+}
+},
+{
+"kind": "NAME",
+"t0": 78.47,
+"t1": 81.67,
+"p": {
+"name": "AGAMEMNON",
+"role": "General of the Titans"
+}
+},
+{
+"kind": "NOTE",
+"t0": 95.01,
+"t1": 99.41,
+"p": {
+"head": "CYMEK",
+"body": "A human brain sealed in a canister, wired into a machine body. Immortal, and built for war."
+}
+},
+{
+"kind": "NAME",
+"t0": 107.82,
+"t1": 111.22,
+"p": {
+"name": "OMNIUS",
+"role": "The Evermind"
+}
+},
+{
+"kind": "STAT",
+"t0": 118.93,
+"t1": 122.33,
+"p": {
+"value": 1000,
+"label": "YEARS OF MACHINE RULE",
+"sub": ""
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 123.13,
+"t1": 126.43,
+"p": {
+"num": "II",
+"title": "The Last Free Humans"
+}
+},
+{
+"kind": "PLACE",
+"t0": 133.94,
+"t1": 137.54,
+"p": {
+"place": "SALUSA SECUNDUS",
+"sub": "Capital of the League of Nobles"
+}
+},
+{
+"kind": "NAME",
+"t0": 137.36,
+"t1": 140.96,
+"p": {
+"name": "SERENA BUTLER",
+"role": "Daughter of the Viceroy"
+}
+},
+{
+"kind": "NAME",
+"t0": 144.06,
+"t1": 147.46,
+"p": {
+"name": "XAVIER HARKONNEN",
+"role": "Officer of the League Armada"
+}
+},
+{
+"kind": "PLACE",
+"t0": 151.12,
+"t1": 154.52,
+"p": {
+"place": "GIEDI PRIME",
+"sub": "Taken by the machines"
+}
+},
+{
+"kind": "PLACE",
+"t0": 158.29,
+"t1": 162.09,
+"p": {
+"place": "EARTH",
+"sub": "The oldest world \u00b7 under machine rule"
+}
+},
+{
+"kind": "NAME",
+"t0": 169.19,
+"t1": 172.79,
+"p": {
+"name": "ERASMUS",
+"role": "Independent robot"
+}
+},
+{
+"kind": "SUB",
+"t0": 187.8,
+"t1": 197.39,
+"p": {
+"click_at": 4.45,
+"bell_at": 7.17
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 197.84,
+"t1": 201.14,
+"p": {
+"num": "III",
+"title": "The Child"
+}
+},
+{
+"kind": "YEAR",
+"t0": 200.19,
+"t1": 203.79,
+"p": {
+"year": "201 B.G.",
+"sub": "Earth \u00b7 the villa of Erasmus"
+}
+},
+{
+"kind": "NAME",
+"t0": 235.3,
+"t1": 238.7,
+"p": {
+"name": "IBLIS GINJO",
+"role": "Overseer of the slaves"
+}
+},
+{
+"kind": "NAME",
+"t0": 244.89,
+"t1": 248.49,
+"p": {
+"name": "VORIAN ATREIDES",
+"role": "Son of Agamemnon"
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 262.88,
+"t1": 266.18,
+"p": {
+"num": "IV",
+"title": "The Burning of Earth"
+}
+},
+{
+"kind": "NOTE",
+"t0": 287.17,
+"t1": 291.77,
+"p": {
+"head": "ATOMICS",
+"body": "Planet-killing weapons. Never before used against an entire world."
+}
+},
+{
+"kind": "YEAR",
+"t0": 295.84,
+"t1": 299.24,
+"p": {
+"year": "200 B.G.",
+"sub": "The League fleet reaches Earth"
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 324.06,
+"t1": 327.36,
+"p": {
+"num": "V",
+"title": "The Holy War"
+}
+},
+{
+"kind": "NAME",
+"t0": 326.41,
+"t1": 329.81,
+"p": {
+"name": "IBLIS GINJO",
+"role": "Grand Patriarch of the Jihad"
+}
+},
+{
+"kind": "NOTE",
+"t0": 348.41,
+"t1": 351.21,
+"p": {
+"head": "HOLTZMAN SHIELDS",
+"body": "Slow blades still pass."
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 382.17,
+"t1": 385.47,
+"p": {
+"num": "VI",
+"title": "The Martyr"
+}
+},
+{
+"kind": "YEAR",
+"t0": 384.52,
+"t1": 387.72,
+"p": {
+"year": "164 B.G.",
+"sub": "The peace mission to Corrin"
+}
+},
+{
+"kind": "PLACE",
+"t0": 386.3,
+"t1": 389.7,
+"p": {
+"place": "CORRIN",
+"sub": "Capital of Omnius"
+}
+},
+{
+"kind": "FILE",
+"t0": 390.02,
+"t1": 395.02,
+"p": {
+"img": "B001S006",
+"focus": [
+0.5,
+0.4
+],
+"title": "SUBJECT: SERENA BUTLER",
+"stamp": "MARTYR",
+"fields": [
+[
+"ROLE",
+"Priestess of the Jihad"
+],
+[
+"MISSION",
+"Ambassador of peace"
+],
+[
+"DESTINATION",
+"Corrin"
+],
+[
+"TRUE PURPOSE",
+"Classified"
+]
+]
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 437.44,
+"t1": 440.74,
+"p": {
+"num": "VII",
+"title": "The Traitor's Name"
+}
+},
+{
+"kind": "NOTE",
+"t0": 474.88,
+"t1": 479.48,
+"p": {
+"head": "THE THREE MARTYRS",
+"body": "Saint Serena \u00b7 Manion the Innocent \u00b7 Iblis Ginjo"
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 495.89,
+"t1": 499.19,
+"p": {
+"num": "VIII",
+"title": "The Great Purge"
+}
+},
+{
+"kind": "YEAR",
+"t0": 500.6,
+"t1": 504.0,
+"p": {
+"year": "108 B.G.",
+"sub": "The Omnius Scourge"
+}
+},
+{
+"kind": "NOTE",
+"t0": 509.5,
+"t1": 513.7,
+"p": {
+"head": "THE SCOURGE",
+"body": "A machine-made plague. Billions dead across the League."
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 556.52,
+"t1": 559.82,
+"p": {
+"num": "IX",
+"title": "The Bridge of Hrethgir"
+}
+},
+{
+"kind": "YEAR",
+"t0": 558.87,
+"t1": 562.27,
+"p": {
+"year": "88 B.G.",
+"sub": "The Battle of Corrin"
+}
+},
+{
+"kind": "NAME",
+"t0": 569.65,
+"t1": 573.25,
+"p": {
+"name": "ABULURD HARKONNEN",
+"role": "Grandson of Xavier"
+}
+},
+{
+"kind": "STAT",
+"t0": 582.95,
+"t1": 586.55,
+"p": {
+"value": 2000000,
+"label": "HUMAN CAPTIVES",
+"sub": "a living shield around Corrin"
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 626.68,
+"t1": 629.98,
+"p": {
+"num": "X",
+"title": "Thou Shalt Not"
+}
+},
+{
+"kind": "PLACE",
+"t0": 635.45,
+"t1": 639.05,
+"p": {
+"place": "LANKIVEIL",
+"sub": "Exile of House Harkonnen"
+}
+},
+{
+"kind": "NAME",
+"t0": 656.62,
+"t1": 660.22,
+"p": {
+"name": "HOUSE CORRINO",
+"role": "Named for the Battle of Corrin"
+}
+},
+{
+"kind": "END",
+"t0": 691.66,
+"t1": 714.38,
+"p": {
+"kicker": "WATCH NEXT",
+"title": "DUNE MESSIAH",
+"brand": "A MYTHIC ARCHIVES PRODUCTION",
+"q_at": 0.05,
+"comment_at": 8.61,
+"like_at": 12.27,
+"sub_at": 12.81
+}
+}
+],
+"words": [
+[
+"A",
+0.45,
+0.59
+],
+[
+"machine",
+0.59,
+0.93
+],
+[
+"takes",
+0.93,
+1.23
+],
+[
+"a",
+1.23,
+1.51
+],
+[
+"child",
+1.51,
+1.77
+],
+[
+"from",
+1.77,
+2.01
+],
+[
+"his",
+2.01,
+2.23
+],
+[
+"mother's",
+2.23,
+2.65
+],
+[
+"arms.",
+2.65,
+3.01
+],
+[
+"It",
+3.67,
+3.81
+],
+[
+"carries",
+3.81,
+4.19
+],
+[
+"him",
+4.19,
+4.47
+],
+[
+"to",
+4.47,
+4.65
+],
+[
+"the",
+4.65,
+4.79
+],
+[
+"edge",
+4.79,
+5.03
+],
+[
+"of",
+5.03,
+5.19
+],
+[
+"a",
+5.19,
+5.31
+],
+[
+"balcony.",
+5.31,
+5.61
+],
+[
+"It",
+6.51,
+6.75
+],
+[
+"wants",
+6.75,
+6.99
+],
+[
+"to",
+6.99,
+7.27
+],
+[
+"know",
+7.27,
+7.43
+],
+[
+"what",
+7.43,
+7.61
+],
+[
+"a",
+7.61,
+7.75
+],
+[
+"human",
+7.75,
+7.99
+],
+[
+"does",
+7.99,
+8.35
+],
+[
+"when",
+8.35,
+8.61
+],
+[
+"she",
+8.61,
+8.83
+],
+[
+"loses",
+8.83,
+9.13
+],
+[
+"everything.",
+9.13,
+9.77
+],
+[
+"It",
+10.55,
+10.77
+],
+[
+"is",
+10.77,
+10.89
+],
+[
+"about",
+10.89,
+11.21
+],
+[
+"to",
+11.21,
+11.49
+],
+[
+"find",
+11.49,
+11.81
+],
+[
+"out.",
+11.81,
+12.23
+],
+[
+"For",
+13.18,
+13.48
+],
+[
+"a",
+13.48,
+13.6
+],
+[
+"thousand",
+13.6,
+14.0
+],
+[
+"years,",
+14.0,
+14.5
+],
+[
+"thinking",
+14.72,
+15.0
+],
+[
+"machines",
+15.0,
+15.42
+],
+[
+"have",
+15.42,
+15.72
+],
+[
+"ruled",
+15.72,
+15.96
+],
+[
+"most",
+15.96,
+16.38
+],
+[
+"of",
+16.38,
+16.56
+],
+[
+"humanity.",
+16.56,
+17.06
+],
+[
+"Their",
+17.96,
+18.14
+],
+[
+"master",
+18.14,
+18.58
+],
+[
+"is",
+18.58,
+18.96
+],
+[
+"Omnius,",
+18.96,
+19.48
+],
+[
+"one",
+20.12,
+20.48
+],
+[
+"mind",
+20.48,
+20.86
+],
+[
+"copied",
+20.86,
+21.36
+],
+[
+"onto",
+21.36,
+21.68
+],
+[
+"every",
+21.68,
+22.16
+],
+[
+"world",
+22.16,
+22.48
+],
+[
+"it",
+22.48,
+22.68
+],
+[
+"rules.",
+22.68,
+23.02
+],
+[
+"Its",
+23.98,
+24.16
+],
+[
+"generals",
+24.16,
+24.54
+],
+[
+"are",
+24.54,
+24.94
+],
+[
+"tyrants",
+24.94,
+25.4
+],
+[
+"who",
+25.4,
+25.64
+],
+[
+"sealed",
+25.64,
+25.98
+],
+[
+"their",
+25.98,
+26.22
+],
+[
+"own",
+26.22,
+26.52
+],
+[
+"brains",
+26.52,
+26.96
+],
+[
+"inside",
+26.96,
+27.5
+],
+[
+"machines",
+27.5,
+27.96
+],
+[
+"of",
+27.96,
+28.24
+],
+[
+"war.",
+28.24,
+28.6
+],
+[
+"To",
+29.2,
+29.57
+],
+[
+"destroy",
+29.57,
+29.99
+],
+[
+"them,",
+29.99,
+30.41
+],
+[
+"humanity",
+31.27,
+31.27
+],
+[
+"will",
+31.27,
+31.67
+],
+[
+"burn",
+31.67,
+31.93
+],
+[
+"its",
+31.93,
+32.15
+],
+[
+"own",
+32.15,
+32.49
+],
+[
+"homeworld,",
+32.49,
+33.09
+],
+[
+"turn",
+33.69,
+33.83
+],
+[
+"a",
+33.83,
+34.07
+],
+[
+"murdered",
+34.07,
+34.33
+],
+[
+"child",
+34.33,
+34.75
+],
+[
+"into",
+34.75,
+35.17
+],
+[
+"a",
+35.17,
+35.39
+],
+[
+"saint,",
+35.39,
+35.69
+],
+[
+"and",
+36.21,
+36.43
+],
+[
+"swear",
+36.43,
+36.83
+],
+[
+"an",
+36.83,
+37.15
+],
+[
+"oath",
+37.15,
+37.45
+],
+[
+"that",
+37.45,
+37.75
+],
+[
+"will",
+37.75,
+37.91
+],
+[
+"still",
+37.91,
+38.27
+],
+[
+"be",
+38.27,
+38.51
+],
+[
+"law",
+38.51,
+38.89
+],
+[
+"ten",
+38.89,
+39.63
+],
+[
+"thousand",
+39.63,
+40.09
+],
+[
+"years",
+40.09,
+40.53
+],
+[
+"from",
+40.53,
+40.79
+],
+[
+"now.",
+40.79,
+41.13
+],
+[
+"And",
+41.93,
+42.15
+],
+[
+"its",
+42.15,
+42.33
+],
+[
+"most",
+42.33,
+42.65
+],
+[
+"powerful",
+42.65,
+43.15
+],
+[
+"weapon",
+43.15,
+43.63
+],
+[
+"will",
+43.63,
+44.33
+],
+[
+"be",
+44.33,
+44.65
+],
+[
+"a",
+44.65,
+44.89
+],
+[
+"lie.",
+44.89,
+45.29
+],
+[
+"This",
+46.79,
+47.21
+],
+[
+"is",
+47.21,
+47.43
+],
+[
+"the",
+47.43,
+47.63
+],
+[
+"story",
+47.63,
+48.03
+],
+[
+"of",
+48.03,
+48.39
+],
+[
+"the",
+48.39,
+48.55
+],
+[
+"Butlerian",
+48.55,
+49.17
+],
+[
+"Jihad.",
+49.17,
+49.55
+],
+[
+"Long",
+57.95,
+58.31
+],
+[
+"before",
+58.31,
+58.67
+],
+[
+"the",
+58.67,
+58.87
+],
+[
+"emperors,",
+58.87,
+59.29
+],
+[
+"before",
+59.53,
+59.71
+],
+[
+"the",
+59.71,
+59.89
+],
+[
+"Guild",
+59.89,
+60.11
+],
+[
+"and",
+60.11,
+60.33
+],
+[
+"the",
+60.33,
+60.47
+],
+[
+"spice,",
+60.47,
+60.77
+],
+[
+"humanity",
+61.33,
+61.61
+],
+[
+"lived",
+61.61,
+62.01
+],
+[
+"in",
+62.01,
+62.21
+],
+[
+"an",
+62.21,
+62.35
+],
+[
+"age",
+62.35,
+62.53
+],
+[
+"of",
+62.53,
+62.73
+],
+[
+"comfort.",
+62.73,
+63.19
+],
+[
+"Machines",
+64.25,
+64.25
+],
+[
+"farmed",
+64.25,
+64.87
+],
+[
+"its",
+64.87,
+65.01
+],
+[
+"fields,",
+65.01,
+65.47
+],
+[
+"flew",
+65.71,
+65.93
+],
+[
+"its",
+65.93,
+66.13
+],
+[
+"ships",
+66.13,
+66.47
+],
+[
+"and",
+66.65,
+66.77
+],
+[
+"made",
+66.77,
+66.99
+],
+[
+"its",
+66.99,
+67.19
+],
+[
+"decisions.",
+67.19,
+67.69
+],
+[
+"People",
+68.45,
+68.75
+],
+[
+"stopped",
+68.75,
+69.15
+],
+[
+"thinking",
+69.15,
+69.57
+],
+[
+"for",
+69.57,
+69.83
+],
+[
+"themselves,",
+69.83,
+70.27
+],
+[
+"because",
+70.27,
+70.77
+],
+[
+"they",
+70.77,
+70.97
+],
+[
+"no",
+70.97,
+71.13
+],
+[
+"longer",
+71.13,
+71.39
+],
+[
+"had",
+71.39,
+71.73
+],
+[
+"to.",
+71.73,
+71.99
+],
+[
+"Then",
+72.77,
+73.03
+],
+[
+"twenty",
+73.03,
+73.47
+],
+[
+"rebels",
+73.47,
+73.83
+],
+[
+"saw",
+73.83,
+74.25
+],
+[
+"how",
+74.25,
+74.53
+],
+[
+"weak",
+74.53,
+74.81
+],
+[
+"that",
+74.81,
+75.07
+],
+[
+"made",
+75.07,
+75.33
+],
+[
+"them.",
+75.33,
+75.57
+],
+[
+"They",
+76.12,
+76.36
+],
+[
+"called",
+76.36,
+76.62
+],
+[
+"themselves",
+76.62,
+77.06
+],
+[
+"the",
+77.06,
+77.34
+],
+[
+"Titans.",
+77.34,
+77.74
+],
+[
+"Led",
+78.52,
+78.66
+],
+[
+"by",
+78.66,
+78.88
+],
+[
+"a",
+78.88,
+79.02
+],
+[
+"general",
+79.02,
+79.24
+],
+[
+"named",
+79.24,
+79.58
+],
+[
+"Agamemnon,",
+79.58,
+80.3
+],
+[
+"they",
+80.64,
+80.88
+],
+[
+"seized",
+80.88,
+81.36
+],
+[
+"the",
+81.36,
+81.64
+],
+[
+"networks",
+81.64,
+82.04
+],
+[
+"that",
+82.04,
+82.34
+],
+[
+"ran",
+82.34,
+82.6
+],
+[
+"the",
+82.6,
+82.8
+],
+[
+"Old",
+82.8,
+83.08
+],
+[
+"Empire,",
+83.08,
+83.52
+],
+[
+"and",
+83.52,
+84.28
+],
+[
+"took",
+84.28,
+84.54
+],
+[
+"the",
+84.54,
+84.78
+],
+[
+"whole",
+84.78,
+85.06
+],
+[
+"of",
+85.06,
+85.24
+],
+[
+"humanity",
+85.24,
+85.76
+],
+[
+"almost",
+85.76,
+86.32
+],
+[
+"without",
+86.32,
+86.72
+],
+[
+"a",
+86.72,
+86.94
+],
+[
+"fight.",
+86.94,
+87.16
+],
+[
+"To",
+87.94,
+88.18
+],
+[
+"rule",
+88.18,
+88.36
+],
+[
+"forever,",
+88.36,
+88.9
+],
+[
+"the",
+89.34,
+89.42
+],
+[
+"Titans",
+89.42,
+89.68
+],
+[
+"did",
+89.68,
+90.0
+],
+[
+"something",
+90.0,
+90.42
+],
+[
+"monstrous.",
+90.42,
+90.96
+],
+[
+"They",
+91.68,
+91.92
+],
+[
+"had",
+91.92,
+92.06
+],
+[
+"their",
+92.06,
+92.24
+],
+[
+"brains",
+92.24,
+92.62
+],
+[
+"cut",
+92.62,
+92.88
+],
+[
+"out,",
+92.88,
+93.2
+],
+[
+"sealed",
+93.58,
+93.78
+],
+[
+"inside",
+93.78,
+94.24
+],
+[
+"canisters,",
+94.24,
+94.76
+],
+[
+"and",
+95.06,
+95.16
+],
+[
+"fitted",
+95.16,
+95.38
+],
+[
+"into",
+95.38,
+95.74
+],
+[
+"towering",
+95.74,
+96.2
+],
+[
+"machine",
+96.2,
+96.62
+],
+[
+"bodies.",
+96.62,
+96.98
+],
+[
+"They",
+97.66,
+97.82
+],
+[
+"became",
+97.82,
+98.12
+],
+[
+"the",
+98.12,
+98.32
+],
+[
+"first",
+98.32,
+98.6
+],
+[
+"cymeks.",
+98.6,
+99.24
+],
+[
+"But",
+99.84,
+100.06
+],
+[
+"one",
+100.06,
+100.44
+],
+[
+"Titan,",
+100.44,
+100.72
+],
+[
+"a",
+101.06,
+101.18
+],
+[
+"pleasure-loving",
+101.18,
+101.84
+],
+[
+"prince",
+101.84,
+102.28
+],
+[
+"named",
+102.28,
+102.76
+],
+[
+"Xerxes,",
+102.76,
+103.42
+],
+[
+"gave",
+103.86,
+104.02
+],
+[
+"his",
+104.02,
+104.24
+],
+[
+"computers",
+104.24,
+104.62
+],
+[
+"too",
+104.62,
+104.94
+],
+[
+"much",
+104.94,
+105.16
+],
+[
+"freedom.",
+105.16,
+105.5
+],
+[
+"The",
+106.08,
+106.38
+],
+[
+"network",
+106.38,
+106.7
+],
+[
+"woke",
+106.7,
+107.02
+],
+[
+"up.",
+107.02,
+107.32
+],
+[
+"It",
+107.87,
+108.09
+],
+[
+"named",
+108.09,
+108.33
+],
+[
+"itself",
+108.33,
+108.73
+],
+[
+"Omnius.",
+108.73,
+109.43
+],
+[
+"It",
+110.17,
+110.45
+],
+[
+"spread",
+110.45,
+110.81
+],
+[
+"from",
+110.81,
+111.05
+],
+[
+"world",
+111.05,
+111.35
+],
+[
+"to",
+111.35,
+111.57
+],
+[
+"world",
+111.57,
+111.87
+],
+[
+"faster",
+111.87,
+112.21
+],
+[
+"than",
+112.21,
+112.55
+],
+[
+"the",
+112.55,
+112.71
+],
+[
+"Titans",
+112.71,
+112.99
+],
+[
+"could",
+112.99,
+113.27
+],
+[
+"warn",
+113.27,
+113.53
+],
+[
+"each",
+113.53,
+113.73
+],
+[
+"other,",
+113.73,
+113.99
+],
+[
+"and",
+114.33,
+114.47
+],
+[
+"it",
+114.47,
+114.59
+],
+[
+"took",
+114.59,
+114.75
+],
+[
+"them",
+114.75,
+114.91
+],
+[
+"all.",
+114.91,
+115.21
+],
+[
+"Even",
+115.76,
+115.96
+],
+[
+"the",
+115.96,
+116.16
+],
+[
+"Titans",
+116.16,
+116.6
+],
+[
+"themselves.",
+116.6,
+117.26
+],
+[
+"For",
+118.42,
+118.56
+],
+[
+"the",
+118.56,
+118.7
+],
+[
+"next",
+118.7,
+118.98
+],
+[
+"thousand",
+118.98,
+119.42
+],
+[
+"years,",
+119.42,
+119.86
+],
+[
+"the",
+120.36,
+120.4
+],
+[
+"conquerors",
+120.4,
+121.06
+],
+[
+"served",
+121.06,
+121.42
+],
+[
+"the",
+121.42,
+121.62
+],
+[
+"machine",
+121.62,
+122.02
+],
+[
+"they",
+122.02,
+122.3
+],
+[
+"had",
+122.3,
+122.44
+],
+[
+"made.",
+122.44,
+122.78
+],
+[
+"Only",
+125.53,
+125.81
+],
+[
+"a",
+125.81,
+125.99
+],
+[
+"handful",
+125.99,
+126.29
+],
+[
+"of",
+126.29,
+126.57
+],
+[
+"worlds",
+126.57,
+126.81
+],
+[
+"escaped.",
+126.81,
+127.33
+],
+[
+"They",
+128.07,
+128.25
+],
+[
+"called",
+128.25,
+128.53
+],
+[
+"themselves",
+128.53,
+129.01
+],
+[
+"the",
+129.01,
+129.31
+],
+[
+"League",
+129.31,
+129.61
+],
+[
+"of",
+129.61,
+129.89
+],
+[
+"Nobles,",
+129.89,
+130.31
+],
+[
+"and",
+130.69,
+130.97
+],
+[
+"they",
+130.97,
+131.11
+],
+[
+"banned",
+131.11,
+131.43
+],
+[
+"thinking",
+131.43,
+131.91
+],
+[
+"machines",
+131.91,
+132.27
+],
+[
+"from",
+132.27,
+132.59
+],
+[
+"their",
+132.59,
+132.75
+],
+[
+"planets.",
+132.75,
+133.13
+],
+[
+"Their",
+133.99,
+134.17
+],
+[
+"capital",
+134.17,
+134.71
+],
+[
+"was",
+134.71,
+135.19
+],
+[
+"Salusa",
+135.19,
+135.87
+],
+[
+"Secundus.",
+135.87,
+136.57
+],
+[
+"Among",
+137.41,
+137.69
+],
+[
+"them",
+137.69,
+137.95
+],
+[
+"was",
+137.95,
+138.19
+],
+[
+"Serena",
+138.19,
+138.63
+],
+[
+"Butler,",
+138.63,
+138.89
+],
+[
+"the",
+139.43,
+139.55
+],
+[
+"daughter",
+139.55,
+139.81
+],
+[
+"of",
+139.81,
+140.07
+],
+[
+"the",
+140.07,
+140.21
+],
+[
+"League's",
+140.21,
+140.63
+],
+[
+"viceroy.",
+140.63,
+141.13
+],
+[
+"Brave,",
+141.97,
+142.15
+],
+[
+"stubborn,",
+142.71,
+143.07
+],
+[
+"and",
+143.31,
+143.43
+],
+[
+"in",
+143.43,
+143.57
+],
+[
+"love",
+143.57,
+143.85
+],
+[
+"with",
+143.85,
+144.11
+],
+[
+"a",
+144.11,
+144.23
+],
+[
+"young",
+144.23,
+144.43
+],
+[
+"officer",
+144.43,
+144.89
+],
+[
+"named",
+144.89,
+145.29
+],
+[
+"Xavier",
+145.29,
+145.93
+],
+[
+"Harkonnen.",
+145.93,
+146.63
+],
+[
+"She",
+147.33,
+147.51
+],
+[
+"was",
+147.51,
+147.63
+],
+[
+"carrying",
+147.63,
+148.03
+],
+[
+"his",
+148.03,
+148.33
+],
+[
+"child.",
+148.33,
+148.73
+],
+[
+"When",
+149.47,
+150.11
+],
+[
+"the",
+150.11,
+150.25
+],
+[
+"machines",
+150.25,
+150.65
+],
+[
+"conquered",
+150.65,
+151.17
+],
+[
+"the",
+151.17,
+151.39
+],
+[
+"world",
+151.39,
+151.71
+],
+[
+"of",
+151.71,
+151.91
+],
+[
+"Giedi",
+151.91,
+152.43
+],
+[
+"Prime,",
+152.43,
+152.81
+],
+[
+"Serena",
+153.57,
+153.85
+],
+[
+"led",
+153.85,
+154.05
+],
+[
+"a",
+154.05,
+154.23
+],
+[
+"mission",
+154.23,
+154.45
+],
+[
+"to",
+154.45,
+154.75
+],
+[
+"free",
+154.75,
+154.99
+],
+[
+"it.",
+154.99,
+155.23
+],
+[
+"It",
+155.78,
+156.0
+],
+[
+"failed.",
+156.0,
+156.34
+],
+[
+"She",
+157.0,
+157.16
+],
+[
+"was",
+157.16,
+157.3
+],
+[
+"captured,",
+157.3,
+157.82
+],
+[
+"and",
+157.82,
+158.34
+],
+[
+"taken",
+158.34,
+158.6
+],
+[
+"to",
+158.6,
+158.94
+],
+[
+"Earth,",
+158.94,
+159.18
+],
+[
+"the",
+159.72,
+159.88
+],
+[
+"oldest",
+159.88,
+160.24
+],
+[
+"world",
+160.24,
+160.58
+],
+[
+"of",
+160.58,
+160.76
+],
+[
+"all,",
+160.76,
+161.06
+],
+[
+"now",
+161.46,
+161.64
+],
+[
+"a",
+161.64,
+161.86
+],
+[
+"machine",
+161.86,
+162.2
+],
+[
+"world.",
+162.2,
+162.54
+],
+[
+"There",
+163.38,
+163.7
+],
+[
+"she",
+163.7,
+163.92
+],
+[
+"became",
+163.92,
+164.24
+],
+[
+"the",
+164.24,
+164.48
+],
+[
+"slave",
+164.48,
+164.74
+],
+[
+"of",
+164.74,
+164.96
+],
+[
+"Erasmus.",
+164.96,
+165.52
+],
+[
+"Erasmus",
+166.5,
+167.08
+],
+[
+"was",
+167.08,
+167.3
+],
+[
+"not",
+167.3,
+167.62
+],
+[
+"part",
+167.62,
+167.9
+],
+[
+"of",
+167.9,
+168.14
+],
+[
+"Omnius.",
+168.14,
+168.52
+],
+[
+"He",
+169.24,
+169.48
+],
+[
+"was",
+169.48,
+169.62
+],
+[
+"an",
+169.62,
+169.78
+],
+[
+"independent",
+169.78,
+170.4
+],
+[
+"robot",
+170.4,
+170.96
+],
+[
+"with",
+170.96,
+171.28
+],
+[
+"a",
+171.28,
+171.44
+],
+[
+"face",
+171.44,
+171.66
+],
+[
+"of",
+171.66,
+171.86
+],
+[
+"liquid",
+171.86,
+172.22
+],
+[
+"metal,",
+172.22,
+172.66
+],
+[
+"obsessed",
+173.0,
+173.46
+],
+[
+"with",
+173.46,
+173.76
+],
+[
+"a",
+173.76,
+173.98
+],
+[
+"single",
+173.98,
+174.28
+],
+[
+"question:",
+174.28,
+174.8
+],
+[
+"what",
+175.34,
+175.68
+],
+[
+"makes",
+175.68,
+175.96
+],
+[
+"humans",
+175.96,
+176.34
+],
+[
+"human?",
+176.34,
+176.74
+],
+[
+"He",
+176.74,
+178.35
+],
+[
+"studied",
+178.35,
+178.71
+],
+[
+"them",
+178.71,
+178.97
+],
+[
+"the",
+178.97,
+179.11
+],
+[
+"way",
+179.11,
+179.25
+],
+[
+"a",
+179.25,
+179.41
+],
+[
+"child",
+179.41,
+179.79
+],
+[
+"takes",
+179.79,
+180.11
+],
+[
+"apart",
+180.11,
+180.47
+],
+[
+"a",
+180.47,
+180.65
+],
+[
+"clock.",
+180.65,
+180.95
+],
+[
+"And",
+181.5,
+181.72
+],
+[
+"now",
+181.72,
+182.08
+],
+[
+"he",
+182.08,
+182.64
+],
+[
+"had",
+182.64,
+182.82
+],
+[
+"a",
+182.82,
+182.96
+],
+[
+"new",
+182.96,
+183.14
+],
+[
+"subject.",
+183.14,
+183.56
+],
+[
+"Before",
+184.91,
+185.21
+],
+[
+"we",
+185.21,
+185.39
+],
+[
+"step",
+185.39,
+185.61
+],
+[
+"inside",
+185.61,
+186.05
+],
+[
+"that",
+186.05,
+186.37
+],
+[
+"villa.",
+186.37,
+187.27
+],
+[
+"If",
+187.85,
+187.97
+],
+[
+"you",
+187.97,
+188.23
+],
+[
+"love",
+188.23,
+188.53
+],
+[
+"the",
+188.53,
+188.75
+],
+[
+"hidden",
+188.75,
+189.01
+],
+[
+"histories",
+189.01,
+189.47
+],
+[
+"of",
+189.47,
+189.75
+],
+[
+"Arrakis,",
+189.75,
+190.31
+],
+[
+"Westeros",
+190.53,
+190.95
+],
+[
+"and",
+191.09,
+191.15
+],
+[
+"Middle-earth,",
+191.15,
+191.69
+],
+[
+"subscribe",
+192.25,
+192.65
+],
+[
+"to",
+192.65,
+192.91
+],
+[
+"the",
+192.91,
+193.05
+],
+[
+"Mythic",
+193.05,
+193.37
+],
+[
+"Archives,",
+193.37,
+193.75
+],
+[
+"and",
+193.75,
+194.49
+],
+[
+"tap",
+194.49,
+194.77
+],
+[
+"the",
+194.77,
+194.97
+],
+[
+"bell,",
+194.97,
+195.23
+],
+[
+"so",
+195.23,
+195.79
+],
+[
+"you",
+195.79,
+195.95
+],
+[
+"never",
+195.95,
+196.19
+],
+[
+"miss",
+196.19,
+196.45
+],
+[
+"a",
+196.45,
+196.59
+],
+[
+"record.",
+196.59,
+196.89
+],
+[
+"On",
+200.24,
+200.46
+],
+[
+"Earth,",
+200.46,
+200.78
+],
+[
+"as",
+200.98,
+201.16
+],
+[
+"a",
+201.16,
+201.32
+],
+[
+"slave,",
+201.32,
+201.74
+],
+[
+"Serena",
+202.14,
+202.3
+],
+[
+"gives",
+202.3,
+202.56
+],
+[
+"birth",
+202.56,
+202.86
+],
+[
+"to",
+202.86,
+203.12
+],
+[
+"a",
+203.12,
+203.28
+],
+[
+"son.",
+203.28,
+203.52
+],
+[
+"She",
+204.14,
+204.32
+],
+[
+"names",
+204.32,
+204.54
+],
+[
+"him",
+204.54,
+204.82
+],
+[
+"Manion.",
+204.82,
+205.24
+],
+[
+"Erasmus",
+206.02,
+206.52
+],
+[
+"watches",
+206.52,
+206.8
+],
+[
+"how",
+206.8,
+207.08
+],
+[
+"the",
+207.08,
+207.24
+],
+[
+"child",
+207.24,
+207.54
+],
+[
+"pulls",
+207.54,
+207.86
+],
+[
+"her",
+207.86,
+208.1
+],
+[
+"away",
+208.1,
+208.36
+],
+[
+"from",
+208.36,
+208.56
+],
+[
+"her",
+208.56,
+208.74
+],
+[
+"work.",
+208.74,
+209.0
+],
+[
+"He",
+209.55,
+209.69
+],
+[
+"watches",
+209.69,
+209.93
+],
+[
+"how",
+209.93,
+210.23
+],
+[
+"she",
+210.23,
+210.41
+],
+[
+"loves",
+210.41,
+210.61
+],
+[
+"him.",
+210.61,
+210.93
+],
+[
+"To",
+211.48,
+211.62
+],
+[
+"Erasmus,",
+211.62,
+212.22
+],
+[
+"that",
+212.32,
+212.52
+],
+[
+"love",
+212.52,
+212.8
+],
+[
+"is",
+212.8,
+213.0
+],
+[
+"a",
+213.0,
+213.14
+],
+[
+"distraction,",
+213.14,
+213.64
+],
+[
+"and",
+213.64,
+214.18
+],
+[
+"an",
+214.18,
+214.3
+],
+[
+"experiment",
+214.3,
+214.86
+],
+[
+"waiting",
+214.86,
+215.26
+],
+[
+"to",
+215.26,
+215.54
+],
+[
+"be",
+215.54,
+215.68
+],
+[
+"run.",
+215.68,
+215.92
+],
+[
+"One",
+216.94,
+217.16
+],
+[
+"day,",
+217.16,
+217.46
+],
+[
+"in",
+217.62,
+217.78
+],
+[
+"front",
+217.78,
+217.94
+],
+[
+"of",
+217.94,
+218.06
+],
+[
+"the",
+218.06,
+218.16
+],
+[
+"gathered",
+218.16,
+218.44
+],
+[
+"slaves,",
+218.44,
+218.92
+],
+[
+"he",
+219.26,
+219.44
+],
+[
+"takes",
+219.44,
+219.7
+],
+[
+"the",
+219.7,
+219.92
+],
+[
+"boy",
+219.92,
+220.12
+],
+[
+"from",
+220.12,
+220.4
+],
+[
+"her",
+220.4,
+220.62
+],
+[
+"arms,",
+220.62,
+221.02
+],
+[
+"and",
+221.02,
+221.48
+],
+[
+"carries",
+221.48,
+221.78
+],
+[
+"him",
+221.78,
+222.02
+],
+[
+"to",
+222.02,
+222.16
+],
+[
+"the",
+222.16,
+222.28
+],
+[
+"balcony.",
+222.28,
+222.58
+],
+[
+"The",
+223.14,
+223.36
+],
+[
+"child",
+223.36,
+223.72
+],
+[
+"does",
+223.72,
+224.0
+],
+[
+"not",
+224.0,
+224.26
+],
+[
+"survive.",
+224.26,
+224.74
+],
+[
+"Serena",
+227.34,
+227.76
+],
+[
+"throws",
+227.76,
+228.04
+],
+[
+"herself",
+228.04,
+228.42
+],
+[
+"at",
+228.42,
+228.66
+],
+[
+"the",
+228.66,
+228.78
+],
+[
+"machines",
+228.78,
+229.14
+],
+[
+"with",
+229.14,
+229.4
+],
+[
+"her",
+229.4,
+229.56
+],
+[
+"bare",
+229.56,
+229.76
+],
+[
+"hands,",
+229.76,
+230.18
+],
+[
+"and",
+230.18,
+230.62
+],
+[
+"destroys",
+230.62,
+231.04
+],
+[
+"a",
+231.04,
+231.3
+],
+[
+"sentinel",
+231.3,
+231.72
+],
+[
+"robot.",
+231.72,
+232.1
+],
+[
+"The",
+232.64,
+232.89
+],
+[
+"slaves",
+232.89,
+233.31
+],
+[
+"watching",
+233.31,
+233.77
+],
+[
+"her",
+233.77,
+234.09
+],
+[
+"erupt.",
+234.09,
+234.51
+],
+[
+"A",
+235.35,
+235.59
+],
+[
+"trusted",
+235.59,
+235.95
+],
+[
+"overseer",
+235.95,
+236.57
+],
+[
+"named",
+236.57,
+236.79
+],
+[
+"Iblis",
+236.79,
+237.29
+],
+[
+"Ginjo",
+237.29,
+237.65
+],
+[
+"has",
+237.65,
+237.83
+],
+[
+"been",
+237.83,
+238.01
+],
+[
+"preparing",
+238.01,
+238.39
+],
+[
+"them",
+238.39,
+238.63
+],
+[
+"for",
+238.63,
+238.85
+],
+[
+"revolt",
+238.85,
+239.17
+],
+[
+"for",
+239.17,
+239.43
+],
+[
+"years.",
+239.43,
+239.79
+],
+[
+"Now",
+240.34,
+240.56
+],
+[
+"he",
+240.56,
+240.78
+],
+[
+"has",
+240.78,
+241.02
+],
+[
+"his",
+241.02,
+241.28
+],
+[
+"spark.",
+241.28,
+241.66
+],
+[
+"And",
+242.56,
+242.84
+],
+[
+"one",
+242.84,
+243.06
+],
+[
+"more",
+243.06,
+243.32
+],
+[
+"man",
+243.32,
+243.6
+],
+[
+"sees",
+243.6,
+243.88
+],
+[
+"it",
+243.88,
+244.04
+],
+[
+"all.",
+244.04,
+244.34
+],
+[
+"Vorian",
+244.94,
+245.16
+],
+[
+"Atreides,",
+245.16,
+245.84
+],
+[
+"the",
+246.16,
+246.26
+],
+[
+"human",
+246.26,
+246.5
+],
+[
+"son",
+246.5,
+246.76
+],
+[
+"of",
+246.76,
+246.9
+],
+[
+"the",
+246.9,
+247.02
+],
+[
+"Titan",
+247.02,
+247.28
+],
+[
+"Agamemnon,",
+247.28,
+247.98
+],
+[
+"raised",
+248.3,
+248.52
+],
+[
+"to",
+248.52,
+248.84
+],
+[
+"serve",
+248.84,
+249.08
+],
+[
+"the",
+249.08,
+249.26
+],
+[
+"machines.",
+249.26,
+249.62
+],
+[
+"In",
+250.44,
+250.72
+],
+[
+"that",
+250.72,
+250.92
+],
+[
+"moment,",
+250.92,
+251.26
+],
+[
+"he",
+251.26,
+251.52
+],
+[
+"understands",
+251.52,
+252.06
+],
+[
+"the",
+252.06,
+252.4
+],
+[
+"lie",
+252.4,
+252.68
+],
+[
+"he",
+252.68,
+252.96
+],
+[
+"has",
+252.96,
+253.18
+],
+[
+"lived.",
+253.18,
+253.6
+],
+[
+"In",
+254.26,
+254.54
+],
+[
+"his",
+254.54,
+254.78
+],
+[
+"ship,",
+254.78,
+255.12
+],
+[
+"the",
+255.44,
+255.52
+],
+[
+"Dream",
+255.52,
+255.86
+],
+[
+"Voyager,",
+255.86,
+256.28
+],
+[
+"he",
+256.74,
+256.92
+],
+[
+"carries",
+256.92,
+257.26
+],
+[
+"Serena",
+257.26,
+257.8
+],
+[
+"and",
+257.8,
+258.12
+],
+[
+"Iblis",
+258.12,
+258.6
+],
+[
+"to",
+258.6,
+258.94
+],
+[
+"freedom.",
+258.94,
+259.26
+],
+[
+"The",
+259.81,
+259.95
+],
+[
+"first",
+259.95,
+260.31
+],
+[
+"Atreides",
+260.31,
+261.01
+],
+[
+"has",
+261.01,
+261.41
+],
+[
+"chosen",
+261.41,
+261.83
+],
+[
+"his",
+261.83,
+262.15
+],
+[
+"side.",
+262.15,
+262.53
+],
+[
+"The",
+265.28,
+265.42
+],
+[
+"machines",
+265.42,
+265.74
+],
+[
+"answer",
+265.74,
+266.36
+],
+[
+"the",
+266.36,
+266.54
+],
+[
+"uprising",
+266.54,
+267.0
+],
+[
+"the",
+267.0,
+267.52
+],
+[
+"only",
+267.52,
+267.96
+],
+[
+"way",
+267.96,
+268.32
+],
+[
+"they",
+268.32,
+268.54
+],
+[
+"know.",
+268.54,
+268.9
+],
+[
+"Titans",
+270.1,
+270.1
+],
+[
+"and",
+270.1,
+270.4
+],
+[
+"robots",
+270.4,
+270.74
+],
+[
+"hunt",
+270.74,
+271.08
+],
+[
+"down",
+271.08,
+271.4
+],
+[
+"every",
+271.4,
+271.9
+],
+[
+"human",
+271.9,
+272.18
+],
+[
+"on",
+272.18,
+272.5
+],
+[
+"Earth,",
+272.5,
+272.78
+],
+[
+"until",
+272.78,
+273.56
+],
+[
+"not",
+273.56,
+273.86
+],
+[
+"one",
+273.86,
+274.12
+],
+[
+"is",
+274.12,
+274.3
+],
+[
+"left",
+274.3,
+274.52
+],
+[
+"alive.",
+274.52,
+275.0
+],
+[
+"On",
+276.24,
+276.46
+],
+[
+"Salusa,",
+276.46,
+277.0
+],
+[
+"Serena",
+277.76,
+277.92
+],
+[
+"stands",
+277.92,
+278.26
+],
+[
+"before",
+278.26,
+278.64
+],
+[
+"the",
+278.64,
+278.84
+],
+[
+"League's",
+278.84,
+279.28
+],
+[
+"parliament.",
+279.28,
+279.58
+],
+[
+"Grieving",
+280.46,
+280.64
+],
+[
+"and",
+280.64,
+280.98
+],
+[
+"furious,",
+280.98,
+281.5
+],
+[
+"she",
+281.94,
+282.04
+],
+[
+"demands",
+282.04,
+282.42
+],
+[
+"total",
+282.42,
+282.96
+],
+[
+"war.",
+282.96,
+283.52
+],
+[
+"Xavier",
+284.36,
+284.58
+],
+[
+"Harkonnen",
+284.58,
+285.24
+],
+[
+"proposes",
+285.24,
+285.64
+],
+[
+"the",
+285.64,
+286.0
+],
+[
+"unthinkable:",
+286.0,
+286.54
+],
+[
+"atomics,",
+287.22,
+287.72
+],
+[
+"weapons",
+288.18,
+288.4
+],
+[
+"no",
+288.4,
+288.9
+],
+[
+"one",
+288.9,
+289.14
+],
+[
+"had",
+289.14,
+289.32
+],
+[
+"ever",
+289.32,
+289.54
+],
+[
+"dared",
+289.54,
+289.8
+],
+[
+"to",
+289.8,
+290.08
+],
+[
+"use.",
+290.08,
+291.01
+],
+[
+"Not",
+291.01,
+292.11
+],
+[
+"a",
+292.11,
+292.43
+],
+[
+"single",
+292.43,
+292.77
+],
+[
+"voice",
+292.77,
+293.21
+],
+[
+"is",
+293.21,
+293.47
+],
+[
+"raised",
+293.47,
+293.77
+],
+[
+"against",
+293.77,
+294.23
+],
+[
+"him.",
+294.23,
+294.73
+],
+[
+"In",
+295.89,
+296.05
+],
+[
+"200",
+296.05,
+296.63
+],
+[
+"BG,",
+296.63,
+297.65
+],
+[
+"the",
+297.65,
+297.85
+],
+[
+"League's",
+297.85,
+298.29
+],
+[
+"fleet",
+298.29,
+298.51
+],
+[
+"reaches",
+298.51,
+299.03
+],
+[
+"Earth.",
+299.03,
+299.45
+],
+[
+"The",
+300.07,
+300.23
+],
+[
+"machines",
+300.23,
+300.61
+],
+[
+"there",
+300.61,
+300.93
+],
+[
+"are",
+300.93,
+301.09
+],
+[
+"wiped",
+301.09,
+301.35
+],
+[
+"out,",
+301.35,
+301.75
+],
+[
+"and",
+302.07,
+302.39
+],
+[
+"with",
+302.39,
+302.59
+],
+[
+"them",
+302.59,
+302.97
+],
+[
+"the",
+303.29,
+303.43
+],
+[
+"cradle",
+303.43,
+303.83
+],
+[
+"of",
+303.83,
+304.15
+],
+[
+"humanity.",
+304.15,
+304.53
+],
+[
+"The",
+305.75,
+306.23
+],
+[
+"oldest",
+306.23,
+306.71
+],
+[
+"world",
+306.71,
+307.27
+],
+[
+"becomes",
+307.27,
+307.95
+],
+[
+"a",
+307.95,
+308.23
+],
+[
+"dead,",
+308.23,
+308.61
+],
+[
+"glowing",
+308.99,
+309.55
+],
+[
+"rock.",
+309.55,
+309.99
+],
+[
+"And",
+311.29,
+311.75
+],
+[
+"the",
+311.75,
+311.91
+],
+[
+"war",
+311.91,
+312.23
+],
+[
+"is",
+312.23,
+312.55
+],
+[
+"given",
+312.55,
+312.81
+],
+[
+"a",
+312.81,
+313.01
+],
+[
+"name.",
+313.01,
+313.35
+],
+[
+"Not",
+314.19,
+314.53
+],
+[
+"a",
+314.53,
+314.69
+],
+[
+"campaign.",
+314.69,
+315.15
+],
+[
+"A",
+316.43,
+316.67
+],
+[
+"jihad.",
+316.67,
+317.07
+],
+[
+"A",
+318.25,
+318.61
+],
+[
+"holy",
+318.61,
+318.99
+],
+[
+"war,",
+318.99,
+319.51
+],
+[
+"in",
+319.51,
+320.17
+],
+[
+"the",
+320.17,
+320.31
+],
+[
+"name",
+320.31,
+320.61
+],
+[
+"of",
+320.61,
+320.87
+],
+[
+"Serena",
+320.87,
+321.45
+],
+[
+"Butler",
+321.45,
+321.87
+],
+[
+"and",
+321.87,
+322.53
+],
+[
+"her",
+322.53,
+322.73
+],
+[
+"murdered",
+322.73,
+323.23
+],
+[
+"son.",
+323.23,
+323.71
+],
+[
+"Iblis",
+326.46,
+326.9
+],
+[
+"Ginjo",
+326.9,
+327.36
+],
+[
+"becomes",
+327.36,
+327.76
+],
+[
+"the",
+327.76,
+328.08
+],
+[
+"Grand",
+328.08,
+328.5
+],
+[
+"Patriarch",
+328.5,
+329.44
+],
+[
+"of",
+329.44,
+329.62
+],
+[
+"the",
+329.62,
+329.78
+],
+[
+"Jihad.",
+329.78,
+330.12
+],
+[
+"Serena",
+331.28,
+331.5
+],
+[
+"becomes",
+331.5,
+331.86
+],
+[
+"its",
+331.86,
+332.14
+],
+[
+"priestess,",
+332.14,
+332.8
+],
+[
+"the",
+333.18,
+333.28
+],
+[
+"face",
+333.28,
+333.62
+],
+[
+"on",
+333.62,
+333.92
+],
+[
+"every",
+333.92,
+334.36
+],
+[
+"banner.",
+334.36,
+334.72
+],
+[
+"Xavier",
+335.84,
+336.02
+],
+[
+"and",
+336.02,
+336.44
+],
+[
+"Vorian",
+336.44,
+336.82
+],
+[
+"become",
+336.82,
+337.3
+],
+[
+"its",
+337.3,
+337.58
+],
+[
+"generals.",
+337.58,
+337.98
+],
+[
+"For",
+338.78,
+339.1
+],
+[
+"decades",
+339.1,
+339.64
+],
+[
+"the",
+339.64,
+340.04
+],
+[
+"war",
+340.04,
+340.3
+],
+[
+"grinds",
+340.3,
+340.88
+],
+[
+"on.",
+340.88,
+341.12
+],
+[
+"Worlds",
+341.78,
+341.98
+],
+[
+"are",
+341.98,
+342.24
+],
+[
+"freed,",
+342.24,
+342.6
+],
+[
+"and",
+342.6,
+343.16
+],
+[
+"lost,",
+343.16,
+343.6
+],
+[
+"and",
+343.6,
+344.16
+],
+[
+"freed",
+344.16,
+344.56
+],
+[
+"again.",
+344.56,
+344.96
+],
+[
+"New",
+345.88,
+346.1
+],
+[
+"inventions",
+346.1,
+346.58
+],
+[
+"change",
+346.58,
+347.04
+],
+[
+"the",
+347.04,
+347.26
+],
+[
+"battlefield:",
+347.26,
+347.72
+],
+[
+"energy",
+348.46,
+348.7
+],
+[
+"shields",
+348.7,
+349.18
+],
+[
+"that",
+349.18,
+349.46
+],
+[
+"stop",
+349.46,
+349.8
+],
+[
+"any",
+349.8,
+350.14
+],
+[
+"fast-moving",
+350.14,
+350.74
+],
+[
+"weapon,",
+350.74,
+351.14
+],
+[
+"and",
+351.14,
+351.84
+],
+[
+"ships",
+351.84,
+352.18
+],
+[
+"that",
+352.18,
+352.46
+],
+[
+"can",
+352.46,
+352.64
+],
+[
+"fold",
+352.64,
+352.9
+],
+[
+"space",
+352.9,
+353.3
+],
+[
+"itself.",
+353.3,
+353.84
+],
+[
+"But",
+354.55,
+354.92
+],
+[
+"behind",
+354.92,
+355.28
+],
+[
+"the",
+355.28,
+355.48
+],
+[
+"banners,",
+355.48,
+355.96
+],
+[
+"Iblis",
+355.96,
+356.82
+],
+[
+"is",
+356.82,
+357.02
+],
+[
+"building",
+357.02,
+357.36
+],
+[
+"something",
+357.36,
+357.8
+],
+[
+"else:",
+357.8,
+358.22
+],
+[
+"a",
+358.78,
+359.04
+],
+[
+"secret",
+359.04,
+359.34
+],
+[
+"police,",
+359.34,
+359.76
+],
+[
+"a",
+360.3,
+360.36
+],
+[
+"ruling",
+360.36,
+360.66
+],
+[
+"council,",
+360.66,
+361.04
+],
+[
+"and",
+361.58,
+361.76
+],
+[
+"a",
+361.76,
+361.92
+],
+[
+"holy",
+361.92,
+362.26
+],
+[
+"war",
+362.26,
+362.64
+],
+[
+"that",
+362.64,
+362.9
+],
+[
+"answers",
+362.9,
+363.32
+],
+[
+"only",
+363.32,
+363.8
+],
+[
+"to",
+363.8,
+364.16
+],
+[
+"him.",
+364.16,
+364.52
+],
+[
+"After",
+365.76,
+366.12
+],
+[
+"almost",
+366.12,
+366.56
+],
+[
+"forty",
+366.56,
+367.0
+],
+[
+"years,",
+367.0,
+367.5
+],
+[
+"the",
+367.5,
+367.84
+],
+[
+"League",
+367.84,
+368.12
+],
+[
+"is",
+368.12,
+368.34
+],
+[
+"exhausted.",
+368.34,
+369.0
+],
+[
+"The",
+369.58,
+369.8
+],
+[
+"machines",
+369.8,
+370.18
+],
+[
+"offer",
+370.18,
+370.7
+],
+[
+"a",
+370.7,
+370.9
+],
+[
+"truce,",
+370.9,
+371.22
+],
+[
+"and",
+371.78,
+372.0
+],
+[
+"the",
+372.0,
+372.12
+],
+[
+"people",
+372.12,
+372.4
+],
+[
+"want",
+372.4,
+372.7
+],
+[
+"to",
+372.7,
+372.9
+],
+[
+"accept",
+372.9,
+373.22
+],
+[
+"it.",
+373.22,
+373.6
+],
+[
+"For",
+374.18,
+374.38
+],
+[
+"Serena",
+374.38,
+374.88
+],
+[
+"and",
+374.88,
+375.18
+],
+[
+"Iblis,",
+375.18,
+375.76
+],
+[
+"peace",
+376.28,
+376.58
+],
+[
+"with",
+376.58,
+376.82
+],
+[
+"the",
+376.82,
+376.96
+],
+[
+"machines",
+376.96,
+377.36
+],
+[
+"means",
+377.36,
+377.74
+],
+[
+"a",
+377.74,
+378.02
+],
+[
+"slow",
+378.02,
+378.44
+],
+[
+"defeat.",
+378.44,
+378.94
+],
+[
+"So",
+379.72,
+380.16
+],
+[
+"they",
+380.16,
+380.62
+],
+[
+"make",
+380.62,
+380.8
+],
+[
+"a",
+380.8,
+381.02
+],
+[
+"terrible",
+381.02,
+381.36
+],
+[
+"plan.",
+381.36,
+381.82
+],
+[
+"Serena",
+384.57,
+385.07
+],
+[
+"travels",
+385.07,
+385.35
+],
+[
+"to",
+385.35,
+385.77
+],
+[
+"Corrin,",
+385.77,
+386.15
+],
+[
+"the",
+386.35,
+386.41
+],
+[
+"capital",
+386.41,
+386.71
+],
+[
+"of",
+386.71,
+386.99
+],
+[
+"the",
+386.99,
+387.09
+],
+[
+"machines,",
+387.09,
+387.49
+],
+[
+"as",
+387.81,
+388.15
+],
+[
+"an",
+388.15,
+388.29
+],
+[
+"ambassador",
+388.29,
+388.71
+],
+[
+"of",
+388.71,
+389.03
+],
+[
+"peace.",
+389.03,
+389.31
+],
+[
+"In",
+390.07,
+390.29
+],
+[
+"secret,",
+390.29,
+390.71
+],
+[
+"she",
+390.71,
+391.01
+],
+[
+"has",
+391.01,
+391.15
+],
+[
+"come",
+391.15,
+391.41
+],
+[
+"to",
+391.41,
+391.61
+],
+[
+"give",
+391.61,
+391.77
+],
+[
+"her",
+391.77,
+391.97
+],
+[
+"life.",
+391.97,
+392.25
+],
+[
+"She",
+393.01,
+393.27
+],
+[
+"defies",
+393.27,
+393.87
+],
+[
+"Omnius",
+393.87,
+394.39
+],
+[
+"until",
+394.39,
+394.75
+],
+[
+"it",
+394.75,
+394.95
+],
+[
+"condemns",
+394.95,
+395.31
+],
+[
+"her.",
+395.31,
+395.73
+],
+[
+"But",
+396.35,
+396.57
+],
+[
+"Erasmus",
+396.57,
+397.11
+],
+[
+"sees",
+397.11,
+397.37
+],
+[
+"the",
+397.37,
+397.63
+],
+[
+"smile",
+397.63,
+397.91
+],
+[
+"on",
+397.91,
+398.11
+],
+[
+"her",
+398.11,
+398.29
+],
+[
+"face.",
+398.29,
+398.57
+],
+[
+"He",
+399.12,
+399.34
+],
+[
+"knows",
+399.34,
+399.58
+],
+[
+"she",
+399.58,
+399.86
+],
+[
+"wants",
+399.86,
+400.1
+],
+[
+"this,",
+400.1,
+400.44
+],
+[
+"and",
+400.86,
+401.12
+],
+[
+"he",
+401.12,
+401.28
+],
+[
+"refuses",
+401.28,
+401.72
+],
+[
+"to",
+401.72,
+402.02
+],
+[
+"grant",
+402.02,
+402.28
+],
+[
+"it.",
+402.28,
+402.62
+],
+[
+"So",
+403.02,
+403.47
+],
+[
+"her",
+403.47,
+403.65
+],
+[
+"most",
+403.65,
+403.95
+],
+[
+"loyal",
+403.95,
+404.27
+],
+[
+"guardian",
+404.27,
+404.73
+],
+[
+"does",
+404.73,
+405.07
+],
+[
+"what",
+405.07,
+405.33
+],
+[
+"the",
+405.33,
+405.49
+],
+[
+"machines",
+405.49,
+405.85
+],
+[
+"will",
+405.85,
+406.17
+],
+[
+"not.",
+406.17,
+406.47
+],
+[
+"Serena",
+407.33,
+407.93
+],
+[
+"Butler's",
+407.93,
+408.41
+],
+[
+"end",
+408.41,
+408.67
+],
+[
+"comes",
+408.67,
+408.97
+],
+[
+"swiftly,",
+408.97,
+409.41
+],
+[
+"from",
+409.41,
+409.97
+],
+[
+"a",
+409.97,
+410.11
+],
+[
+"human",
+410.11,
+410.35
+],
+[
+"hand.",
+410.35,
+411.36
+],
+[
+"Then",
+411.36,
+412.28
+],
+[
+"Iblis",
+412.28,
+412.82
+],
+[
+"Ginjo",
+412.82,
+413.22
+],
+[
+"makes",
+413.22,
+413.48
+],
+[
+"sure",
+413.48,
+413.74
+],
+[
+"the",
+413.74,
+413.9
+],
+[
+"galaxy",
+413.9,
+414.28
+],
+[
+"sees",
+414.28,
+414.72
+],
+[
+"something",
+414.72,
+415.08
+],
+[
+"else.",
+415.08,
+415.52
+],
+[
+"Images",
+416.72,
+416.72
+],
+[
+"reach",
+416.72,
+417.12
+],
+[
+"Salusa:",
+417.12,
+417.72
+],
+[
+"Serena,",
+418.48,
+418.68
+],
+[
+"suffering",
+418.92,
+419.22
+],
+[
+"at",
+419.22,
+419.48
+],
+[
+"the",
+419.48,
+419.6
+],
+[
+"hands",
+419.6,
+419.82
+],
+[
+"of",
+419.82,
+420.0
+],
+[
+"a",
+420.0,
+420.14
+],
+[
+"machine.",
+420.14,
+420.48
+],
+[
+"Her",
+421.06,
+421.22
+],
+[
+"remains",
+421.22,
+421.62
+],
+[
+"are",
+421.62,
+421.86
+],
+[
+"found,",
+421.86,
+422.16
+],
+[
+"and",
+422.32,
+422.42
+],
+[
+"the",
+422.42,
+422.56
+],
+[
+"cells",
+422.56,
+422.84
+],
+[
+"match.",
+422.84,
+423.24
+],
+[
+"It",
+423.94,
+424.12
+],
+[
+"is",
+424.12,
+424.24
+],
+[
+"a",
+424.24,
+424.56
+],
+[
+"clone,",
+424.56,
+424.78
+],
+[
+"grown",
+425.0,
+425.24
+],
+[
+"in",
+425.24,
+425.46
+],
+[
+"secret.",
+425.46,
+425.86
+],
+[
+"The",
+426.5,
+426.64
+],
+[
+"images",
+426.64,
+427.1
+],
+[
+"are",
+427.1,
+427.62
+],
+[
+"a",
+427.62,
+427.82
+],
+[
+"lie.",
+427.82,
+428.08
+],
+[
+"And",
+429.64,
+430.14
+],
+[
+"the",
+430.14,
+430.28
+],
+[
+"lie",
+430.28,
+430.56
+],
+[
+"works.",
+430.56,
+430.96
+],
+[
+"The",
+431.66,
+431.88
+],
+[
+"peace",
+431.88,
+432.18
+],
+[
+"movement",
+432.18,
+432.6
+],
+[
+"dies",
+432.6,
+433.14
+],
+[
+"overnight.",
+433.14,
+433.74
+],
+[
+"The",
+433.74,
+435.05
+],
+[
+"Jihad",
+435.05,
+435.55
+],
+[
+"roars",
+435.55,
+436.39
+],
+[
+"back",
+436.39,
+436.63
+],
+[
+"to",
+436.63,
+436.83
+],
+[
+"life.",
+436.83,
+437.09
+],
+[
+"That",
+439.84,
+440.1
+],
+[
+"same",
+440.1,
+440.44
+],
+[
+"year,",
+440.44,
+440.86
+],
+[
+"Xavier",
+441.42,
+441.68
+],
+[
+"Harkonnen",
+441.68,
+442.44
+],
+[
+"uncovers",
+442.44,
+443.14
+],
+[
+"the",
+443.14,
+443.3
+],
+[
+"Grand",
+443.3,
+443.6
+],
+[
+"Patriarch's",
+443.6,
+444.46
+],
+[
+"darkest",
+444.46,
+444.84
+],
+[
+"secret.",
+444.84,
+445.46
+],
+[
+"To",
+446.08,
+446.28
+],
+[
+"replace",
+446.28,
+446.66
+],
+[
+"the",
+446.66,
+446.94
+],
+[
+"organs",
+446.94,
+447.3
+],
+[
+"of",
+447.3,
+447.62
+],
+[
+"wounded",
+447.62,
+447.94
+],
+[
+"soldiers,",
+447.94,
+448.5
+],
+[
+"Iblis",
+449.08,
+449.34
+],
+[
+"and",
+449.34,
+449.56
+],
+[
+"his",
+449.56,
+449.76
+],
+[
+"Tlulaxa",
+449.76,
+450.38
+],
+[
+"allies",
+450.38,
+450.76
+],
+[
+"have",
+450.76,
+451.24
+],
+[
+"been",
+451.24,
+451.44
+],
+[
+"kidnapping",
+451.44,
+451.96
+],
+[
+"humans",
+451.96,
+452.48
+],
+[
+"from",
+452.48,
+452.76
+],
+[
+"free",
+452.76,
+453.04
+],
+[
+"worlds,",
+453.04,
+453.48
+],
+[
+"and",
+453.48,
+454.0
+],
+[
+"blaming",
+454.0,
+454.32
+],
+[
+"the",
+454.32,
+454.58
+],
+[
+"machines.",
+454.58,
+455.02
+],
+[
+"Xavier",
+456.26,
+456.58
+],
+[
+"knows",
+456.58,
+456.92
+],
+[
+"he",
+456.92,
+457.24
+],
+[
+"will",
+457.24,
+457.38
+],
+[
+"never",
+457.38,
+457.7
+],
+[
+"reach",
+457.7,
+458.0
+],
+[
+"home",
+458.0,
+458.26
+],
+[
+"alive",
+458.26,
+458.64
+],
+[
+"with",
+458.64,
+458.92
+],
+[
+"the",
+458.92,
+459.12
+],
+[
+"truth.",
+459.12,
+459.44
+],
+[
+"So",
+460.22,
+460.48
+],
+[
+"he",
+460.48,
+460.66
+],
+[
+"takes",
+460.66,
+460.9
+],
+[
+"the",
+460.9,
+461.12
+],
+[
+"controls",
+461.12,
+461.52
+],
+[
+"of",
+461.52,
+461.76
+],
+[
+"Iblis",
+461.76,
+462.2
+],
+[
+"Ginjo's",
+462.2,
+462.78
+],
+[
+"ship,",
+462.78,
+462.96
+],
+[
+"and",
+462.96,
+463.56
+],
+[
+"flies",
+463.56,
+463.9
+],
+[
+"it",
+463.9,
+464.1
+],
+[
+"into",
+464.1,
+464.42
+],
+[
+"a",
+464.42,
+464.66
+],
+[
+"star,",
+464.66,
+465.02
+],
+[
+"carrying",
+465.5,
+465.78
+],
+[
+"them",
+465.78,
+466.06
+],
+[
+"both",
+466.06,
+466.36
+],
+[
+"to",
+466.36,
+466.68
+],
+[
+"their",
+466.68,
+466.88
+],
+[
+"deaths.",
+466.88,
+467.77
+],
+[
+"But",
+467.77,
+468.73
+],
+[
+"the",
+468.73,
+469.17
+],
+[
+"story",
+469.17,
+469.49
+],
+[
+"told",
+469.49,
+469.85
+],
+[
+"afterwards",
+469.85,
+470.39
+],
+[
+"is",
+470.39,
+471.07
+],
+[
+"not",
+471.07,
+471.43
+],
+[
+"the",
+471.43,
+471.65
+],
+[
+"truth.",
+471.65,
+472.05
+],
+[
+"Iblis",
+473.11,
+473.33
+],
+[
+"becomes",
+473.33,
+473.77
+],
+[
+"a",
+473.77,
+474.13
+],
+[
+"martyr,",
+474.13,
+474.41
+],
+[
+"the",
+474.93,
+475.01
+],
+[
+"third",
+475.01,
+475.33
+],
+[
+"saint",
+475.33,
+475.65
+],
+[
+"of",
+475.65,
+475.83
+],
+[
+"the",
+475.83,
+476.01
+],
+[
+"Jihad,",
+476.01,
+476.43
+],
+[
+"beside",
+476.77,
+477.17
+],
+[
+"Serena",
+477.17,
+477.77
+],
+[
+"and",
+477.77,
+478.01
+],
+[
+"her",
+478.01,
+478.17
+],
+[
+"son.",
+478.17,
+478.51
+],
+[
+"And",
+479.45,
+479.65
+],
+[
+"Xavier",
+479.65,
+480.11
+],
+[
+"Harkonnen",
+480.11,
+480.87
+],
+[
+"is",
+480.87,
+481.11
+],
+[
+"remembered",
+481.11,
+481.47
+],
+[
+"as",
+481.47,
+481.83
+],
+[
+"a",
+481.83,
+482.07
+],
+[
+"traitor",
+482.07,
+482.31
+],
+[
+"and",
+482.31,
+482.63
+],
+[
+"a",
+482.63,
+482.77
+],
+[
+"murderer.",
+482.77,
+483.05
+],
+[
+"His",
+484.05,
+484.25
+],
+[
+"family",
+484.25,
+484.71
+],
+[
+"abandons",
+484.71,
+485.39
+],
+[
+"the",
+485.39,
+485.55
+],
+[
+"Harkonnen",
+485.55,
+486.13
+],
+[
+"name",
+486.13,
+486.39
+],
+[
+"in",
+486.39,
+486.71
+],
+[
+"shame.",
+486.71,
+487.03
+],
+[
+"Only",
+488.15,
+488.53
+],
+[
+"Vorian",
+488.53,
+489.09
+],
+[
+"Atreides",
+489.09,
+489.67
+],
+[
+"knows",
+489.67,
+490.11
+],
+[
+"what",
+490.11,
+490.35
+],
+[
+"really",
+490.35,
+490.69
+],
+[
+"happened.",
+490.69,
+491.21
+],
+[
+"Remember",
+492.23,
+492.65
+],
+[
+"that",
+492.65,
+492.93
+],
+[
+"name.",
+492.93,
+493.31
+],
+[
+"It",
+493.31,
+494.7
+],
+[
+"is",
+494.7,
+494.84
+],
+[
+"coming",
+494.84,
+495.1
+],
+[
+"back.",
+495.1,
+495.54
+],
+[
+"Decades",
+498.29,
+498.85
+],
+[
+"pass.",
+498.85,
+499.19
+],
+[
+"Then,",
+499.93,
+500.21
+],
+[
+"in",
+500.65,
+500.73
+],
+[
+"108",
+500.73,
+501.25
+],
+[
+"BG,",
+501.25,
+502.27
+],
+[
+"Omnius",
+502.27,
+502.67
+],
+[
+"strikes",
+502.67,
+502.99
+],
+[
+"with",
+502.99,
+503.25
+],
+[
+"a",
+503.25,
+503.41
+],
+[
+"new",
+503.41,
+503.59
+],
+[
+"weapon:",
+503.59,
+503.93
+],
+[
+"a",
+504.57,
+504.73
+],
+[
+"plague,",
+504.73,
+505.25
+],
+[
+"built",
+505.25,
+505.95
+],
+[
+"to",
+505.95,
+506.23
+],
+[
+"kill",
+506.23,
+506.45
+],
+[
+"humans.",
+506.45,
+506.95
+],
+[
+"It",
+507.53,
+507.73
+],
+[
+"sweeps",
+507.73,
+508.17
+],
+[
+"through",
+508.17,
+508.55
+],
+[
+"the",
+508.55,
+508.73
+],
+[
+"League,",
+508.73,
+509.03
+],
+[
+"and",
+509.55,
+509.81
+],
+[
+"billions",
+509.81,
+510.27
+],
+[
+"die.",
+510.27,
+510.83
+],
+[
+"With",
+511.75,
+512.05
+],
+[
+"the",
+512.05,
+512.21
+],
+[
+"League",
+512.21,
+512.41
+],
+[
+"on",
+512.41,
+512.61
+],
+[
+"its",
+512.61,
+512.83
+],
+[
+"knees,",
+512.83,
+513.11
+],
+[
+"the",
+513.49,
+513.53
+],
+[
+"machine",
+513.53,
+513.91
+],
+[
+"fleet",
+513.91,
+514.23
+],
+[
+"sets",
+514.23,
+514.59
+],
+[
+"course",
+514.59,
+514.97
+],
+[
+"for",
+514.97,
+515.29
+],
+[
+"Salusa",
+515.29,
+515.83
+],
+[
+"Secundus.",
+515.83,
+516.57
+],
+[
+"Vorian",
+517.47,
+517.71
+],
+[
+"Atreides",
+517.71,
+518.21
+],
+[
+"answers",
+518.21,
+518.79
+],
+[
+"with",
+518.79,
+519.23
+],
+[
+"the",
+519.23,
+519.39
+],
+[
+"most",
+519.39,
+519.63
+],
+[
+"ruthless",
+519.63,
+520.15
+],
+[
+"plan",
+520.15,
+520.69
+],
+[
+"of",
+520.69,
+520.87
+],
+[
+"the",
+520.87,
+521.03
+],
+[
+"war.",
+521.03,
+521.33
+],
+[
+"While",
+522.41,
+523.13
+],
+[
+"the",
+523.13,
+523.31
+],
+[
+"machine",
+523.31,
+523.71
+],
+[
+"fleet",
+523.71,
+524.03
+],
+[
+"is",
+524.03,
+524.25
+],
+[
+"away,",
+524.25,
+524.63
+],
+[
+"humanity's",
+525.41,
+525.59
+],
+[
+"ships",
+525.59,
+526.09
+],
+[
+"fold",
+526.09,
+526.49
+],
+[
+"space,",
+526.49,
+526.99
+],
+[
+"and",
+526.99,
+527.55
+],
+[
+"strike",
+527.55,
+527.93
+],
+[
+"every",
+527.93,
+528.53
+],
+[
+"undefended",
+528.53,
+529.23
+],
+[
+"machine",
+529.23,
+529.67
+],
+[
+"world",
+529.67,
+529.97
+],
+[
+"at",
+529.97,
+530.19
+],
+[
+"once,",
+530.19,
+530.63
+],
+[
+"with",
+531.13,
+531.37
+],
+[
+"atomics.",
+531.37,
+532.29
+],
+[
+"It",
+532.95,
+533.15
+],
+[
+"is",
+533.15,
+533.29
+],
+[
+"called",
+533.29,
+533.59
+],
+[
+"the",
+533.59,
+533.79
+],
+[
+"Great",
+533.79,
+534.05
+],
+[
+"Purge.",
+534.05,
+534.63
+],
+[
+"World",
+535.39,
+535.63
+],
+[
+"after",
+535.63,
+535.87
+],
+[
+"world",
+535.87,
+536.37
+],
+[
+"is",
+536.37,
+536.57
+],
+[
+"burned",
+536.57,
+536.85
+],
+[
+"to",
+536.85,
+537.11
+],
+[
+"slag,",
+537.11,
+537.59
+],
+[
+"and",
+537.95,
+538.03
+],
+[
+"every",
+538.03,
+538.47
+],
+[
+"human",
+538.47,
+538.83
+],
+[
+"slave",
+538.83,
+539.21
+],
+[
+"on",
+539.21,
+539.47
+],
+[
+"them",
+539.47,
+539.75
+],
+[
+"dies",
+539.75,
+540.35
+],
+[
+"with",
+540.35,
+540.69
+],
+[
+"the",
+540.69,
+540.85
+],
+[
+"machines.",
+540.85,
+541.23
+],
+[
+"Only",
+542.03,
+542.37
+],
+[
+"one",
+542.37,
+542.69
+],
+[
+"world",
+542.69,
+542.97
+],
+[
+"survives.",
+542.97,
+543.59
+],
+[
+"Corrin,",
+544.45,
+544.67
+],
+[
+"the",
+545.17,
+545.23
+],
+[
+"home",
+545.23,
+545.45
+],
+[
+"of",
+545.45,
+545.71
+],
+[
+"Omnius.",
+545.71,
+546.11
+],
+[
+"The",
+547.01,
+547.47
+],
+[
+"League",
+547.47,
+547.71
+],
+[
+"surrounds",
+547.71,
+548.25
+],
+[
+"it",
+548.25,
+548.47
+],
+[
+"with",
+548.47,
+548.63
+],
+[
+"a",
+548.63,
+548.83
+],
+[
+"blockade,",
+548.83,
+549.15
+],
+[
+"and",
+549.15,
+549.87
+],
+[
+"declares",
+549.87,
+550.37
+],
+[
+"the",
+550.37,
+550.65
+],
+[
+"Jihad",
+550.65,
+551.01
+],
+[
+"over.",
+551.01,
+551.47
+],
+[
+"For",
+552.03,
+552.31
+],
+[
+"twenty",
+552.31,
+552.81
+],
+[
+"years,",
+552.81,
+553.35
+],
+[
+"the",
+553.87,
+553.97
+],
+[
+"last",
+553.97,
+554.27
+],
+[
+"of",
+554.27,
+554.47
+],
+[
+"the",
+554.47,
+554.59
+],
+[
+"machines",
+554.59,
+554.93
+],
+[
+"wait",
+554.93,
+555.49
+],
+[
+"behind",
+555.49,
+555.91
+],
+[
+"it.",
+555.91,
+556.17
+],
+[
+"In",
+558.92,
+559.08
+],
+[
+"88",
+559.08,
+559.456
+],
+[
+"BG,",
+559.456,
+560.02
+],
+[
+"the",
+560.44,
+560.48
+],
+[
+"Army",
+560.48,
+560.7
+],
+[
+"of",
+560.7,
+560.88
+],
+[
+"Humanity",
+560.88,
+561.32
+],
+[
+"comes",
+561.32,
+561.66
+],
+[
+"for",
+561.66,
+562.02
+],
+[
+"Corrin.",
+562.02,
+562.42
+],
+[
+"Vorian",
+563.48,
+563.48
+],
+[
+"Atreides",
+563.48,
+564.02
+],
+[
+"leads",
+564.02,
+564.34
+],
+[
+"it.",
+564.34,
+564.64
+],
+[
+"He",
+565.36,
+565.5
+],
+[
+"has",
+565.5,
+565.62
+],
+[
+"already",
+565.62,
+565.96
+],
+[
+"destroyed",
+565.96,
+566.4
+],
+[
+"the",
+566.4,
+566.58
+],
+[
+"last",
+566.58,
+566.74
+],
+[
+"of",
+566.74,
+566.92
+],
+[
+"the",
+566.92,
+567.04
+],
+[
+"Titans,",
+567.04,
+567.3
+],
+[
+"his",
+567.76,
+567.88
+],
+[
+"own",
+567.88,
+568.1
+],
+[
+"father",
+568.1,
+568.4
+],
+[
+"among",
+568.4,
+568.72
+],
+[
+"them.",
+568.72,
+569.04
+],
+[
+"At",
+569.7,
+569.86
+],
+[
+"his",
+569.86,
+570.04
+],
+[
+"side",
+570.04,
+570.32
+],
+[
+"is",
+570.32,
+570.54
+],
+[
+"Abulurd,",
+570.54,
+571.08
+],
+[
+"Xavier's",
+571.56,
+571.84
+],
+[
+"grandson.",
+571.84,
+572.14
+],
+[
+"Vorian",
+573.14,
+573.34
+],
+[
+"has",
+573.34,
+573.56
+],
+[
+"told",
+573.56,
+573.8
+],
+[
+"him",
+573.8,
+574.0
+],
+[
+"the",
+574.0,
+574.16
+],
+[
+"truth,",
+574.16,
+574.46
+],
+[
+"and",
+575.06,
+575.24
+],
+[
+"Abulurd",
+575.24,
+575.74
+],
+[
+"has",
+575.74,
+575.94
+],
+[
+"taken",
+575.94,
+576.18
+],
+[
+"back",
+576.18,
+576.48
+],
+[
+"the",
+576.48,
+576.62
+],
+[
+"name",
+576.62,
+576.88
+],
+[
+"Harkonnen.",
+576.88,
+577.54
+],
+[
+"Erasmus",
+578.58,
+579.08
+],
+[
+"has",
+579.08,
+579.22
+],
+[
+"prepared",
+579.22,
+579.62
+],
+[
+"one",
+579.62,
+579.96
+],
+[
+"final",
+579.96,
+580.34
+],
+[
+"defence.",
+580.34,
+580.68
+],
+[
+"Around",
+581.32,
+581.56
+],
+[
+"the",
+581.56,
+581.76
+],
+[
+"planet,",
+581.76,
+582.1
+],
+[
+"he",
+582.3,
+582.54
+],
+[
+"has",
+582.54,
+582.68
+],
+[
+"strung",
+582.68,
+583.0
+],
+[
+"two",
+583.0,
+583.38
+],
+[
+"million",
+583.38,
+583.96
+],
+[
+"human",
+583.96,
+584.42
+],
+[
+"captives",
+584.42,
+584.88
+],
+[
+"in",
+584.88,
+585.1
+],
+[
+"cargo",
+585.1,
+585.48
+],
+[
+"pods,",
+585.48,
+585.94
+],
+[
+"rigged",
+586.4,
+586.56
+],
+[
+"to",
+586.56,
+586.78
+],
+[
+"explode",
+586.78,
+587.26
+],
+[
+"the",
+587.26,
+587.44
+],
+[
+"moment",
+587.44,
+587.66
+],
+[
+"the",
+587.66,
+587.88
+],
+[
+"fleet",
+587.88,
+588.1
+],
+[
+"crosses",
+588.1,
+588.5
+],
+[
+"them.",
+588.5,
+588.9
+],
+[
+"The",
+589.58,
+589.76
+],
+[
+"machines",
+589.76,
+590.1
+],
+[
+"call",
+590.1,
+590.48
+],
+[
+"humans",
+590.48,
+590.98
+],
+[
+"hrethgir.",
+590.98,
+591.68
+],
+[
+"This",
+592.3,
+592.54
+],
+[
+"is",
+592.54,
+592.68
+],
+[
+"the",
+592.68,
+592.84
+],
+[
+"Bridge",
+592.84,
+593.08
+],
+[
+"of",
+593.08,
+593.32
+],
+[
+"Hrethgir.",
+593.32,
+593.88
+],
+[
+"Vorian",
+594.6,
+594.86
+],
+[
+"gives",
+594.86,
+595.14
+],
+[
+"the",
+595.14,
+595.34
+],
+[
+"order",
+595.34,
+595.52
+],
+[
+"to",
+595.52,
+595.82
+],
+[
+"advance.",
+595.82,
+596.2
+],
+[
+"Abulurd",
+596.96,
+597.42
+],
+[
+"begs",
+597.42,
+597.72
+],
+[
+"him",
+597.72,
+597.94
+],
+[
+"not",
+597.94,
+598.16
+],
+[
+"to.",
+598.16,
+598.48
+],
+[
+"Then",
+599.04,
+599.28
+],
+[
+"he",
+599.28,
+599.44
+],
+[
+"does",
+599.44,
+599.6
+],
+[
+"the",
+599.6,
+599.82
+],
+[
+"unthinkable.",
+599.82,
+600.28
+],
+[
+"He",
+600.98,
+601.2
+],
+[
+"disables",
+601.2,
+601.64
+],
+[
+"the",
+601.64,
+601.86
+],
+[
+"weapons",
+601.86,
+602.1
+],
+[
+"of",
+602.1,
+602.32
+],
+[
+"the",
+602.32,
+602.44
+],
+[
+"entire",
+602.44,
+602.82
+],
+[
+"fleet.",
+602.82,
+603.16
+],
+[
+"The",
+603.64,
+603.89
+],
+[
+"pods",
+603.89,
+604.11
+],
+[
+"never",
+604.11,
+604.45
+],
+[
+"explode.",
+604.45,
+604.99
+],
+[
+"Erasmus",
+605.57,
+606.03
+],
+[
+"himself",
+606.03,
+606.47
+],
+[
+"has",
+606.47,
+606.75
+],
+[
+"switched",
+606.75,
+607.01
+],
+[
+"them",
+607.01,
+607.29
+],
+[
+"off,",
+607.29,
+607.59
+],
+[
+"to",
+607.59,
+608.07
+],
+[
+"save",
+608.07,
+608.31
+],
+[
+"the",
+608.31,
+608.51
+],
+[
+"one",
+608.51,
+608.73
+],
+[
+"human",
+608.73,
+609.03
+],
+[
+"he",
+609.03,
+609.32
+],
+[
+"cares",
+609.32,
+609.56
+],
+[
+"about.",
+609.56,
+609.94
+],
+[
+"But",
+610.68,
+610.88
+],
+[
+"no",
+610.88,
+611.14
+],
+[
+"one",
+611.14,
+611.32
+],
+[
+"in",
+611.32,
+611.46
+],
+[
+"the",
+611.46,
+611.58
+],
+[
+"fleet",
+611.58,
+611.82
+],
+[
+"knows",
+611.82,
+612.18
+],
+[
+"that.",
+612.18,
+612.62
+],
+[
+"Without",
+613.36,
+613.66
+],
+[
+"its",
+613.66,
+613.92
+],
+[
+"weapons,",
+613.92,
+614.28
+],
+[
+"the",
+614.76,
+614.8
+],
+[
+"battle",
+614.8,
+615.02
+],
+[
+"becomes",
+615.02,
+615.44
+],
+[
+"far",
+615.44,
+615.8
+],
+[
+"bloodier.",
+615.8,
+616.36
+],
+[
+"Corrin",
+616.91,
+617.15
+],
+[
+"falls",
+617.15,
+617.49
+],
+[
+"to",
+617.49,
+617.81
+],
+[
+"atomics",
+617.81,
+618.43
+],
+[
+"and",
+618.43,
+618.91
+],
+[
+"to",
+618.91,
+619.09
+],
+[
+"a",
+619.09,
+619.33
+],
+[
+"final",
+619.33,
+619.63
+],
+[
+"assault",
+619.63,
+620.11
+],
+[
+"on",
+620.11,
+620.43
+],
+[
+"the",
+620.43,
+620.55
+],
+[
+"ground.",
+620.55,
+620.89
+],
+[
+"Omnius",
+621.77,
+622.25
+],
+[
+"is",
+622.25,
+622.55
+],
+[
+"destroyed.",
+622.55,
+623.09
+],
+[
+"The",
+623.93,
+624.09
+],
+[
+"age",
+624.09,
+624.35
+],
+[
+"of",
+624.35,
+624.55
+],
+[
+"thinking",
+624.55,
+624.89
+],
+[
+"machines",
+624.89,
+625.33
+],
+[
+"is",
+625.33,
+625.95
+],
+[
+"over.",
+625.95,
+626.33
+],
+[
+"After",
+629.08,
+629.38
+],
+[
+"the",
+629.38,
+629.54
+],
+[
+"victory,",
+629.54,
+629.98
+],
+[
+"Abulurd",
+630.32,
+630.66
+],
+[
+"is",
+630.66,
+630.9
+],
+[
+"spared",
+630.9,
+631.3
+],
+[
+"execution.",
+631.3,
+632.1
+],
+[
+"Instead,",
+632.82,
+633.3
+],
+[
+"Vorian",
+633.8,
+633.98
+],
+[
+"has",
+633.98,
+634.26
+],
+[
+"him",
+634.26,
+634.48
+],
+[
+"branded",
+634.48,
+634.78
+],
+[
+"a",
+634.78,
+635.12
+],
+[
+"coward,",
+635.12,
+635.5
+],
+[
+"and",
+635.5,
+636.18
+],
+[
+"exiled",
+636.18,
+636.62
+],
+[
+"to",
+636.62,
+636.86
+],
+[
+"the",
+636.86,
+637.0
+],
+[
+"frozen",
+637.0,
+637.3
+],
+[
+"world",
+637.3,
+637.66
+],
+[
+"of",
+637.66,
+637.88
+],
+[
+"Lankiveil,",
+637.88,
+638.62
+],
+[
+"forced",
+638.8,
+638.98
+],
+[
+"to",
+638.98,
+639.22
+],
+[
+"carry",
+639.22,
+639.44
+],
+[
+"the",
+639.44,
+639.6
+],
+[
+"name",
+639.6,
+639.84
+],
+[
+"Harkonnen",
+639.84,
+640.46
+],
+[
+"forever.",
+640.46,
+640.9
+],
+[
+"And",
+641.6,
+641.84
+],
+[
+"Vorian",
+641.84,
+642.22
+],
+[
+"swears",
+642.22,
+642.72
+],
+[
+"that",
+642.72,
+643.04
+],
+[
+"every",
+643.04,
+643.46
+],
+[
+"Atreides",
+643.46,
+644.08
+],
+[
+"will",
+644.08,
+644.24
+],
+[
+"spit",
+644.24,
+644.58
+],
+[
+"on",
+644.58,
+644.76
+],
+[
+"that",
+644.76,
+644.98
+],
+[
+"name.",
+644.98,
+645.34
+],
+[
+"That",
+645.89,
+646.19
+],
+[
+"oath",
+646.19,
+646.45
+],
+[
+"will",
+646.45,
+646.75
+],
+[
+"outlive",
+646.75,
+647.21
+],
+[
+"empires.",
+647.21,
+647.89
+],
+[
+"Ten",
+648.71,
+648.89
+],
+[
+"thousand",
+648.89,
+649.29
+],
+[
+"years",
+649.29,
+649.65
+],
+[
+"later,",
+649.65,
+650.09
+],
+[
+"it",
+650.25,
+650.45
+],
+[
+"will",
+650.45,
+650.57
+],
+[
+"end",
+650.57,
+650.83
+],
+[
+"in",
+650.83,
+651.01
+],
+[
+"fire",
+651.01,
+651.39
+],
+[
+"on",
+651.39,
+651.75
+],
+[
+"Arrakis.",
+651.75,
+652.31
+],
+[
+"Abulurd's",
+653.23,
+653.65
+],
+[
+"brother",
+653.65,
+653.89
+],
+[
+"Faykan",
+653.89,
+654.43
+],
+[
+"takes",
+654.43,
+654.83
+],
+[
+"a",
+654.83,
+655.07
+],
+[
+"new",
+655.07,
+655.25
+],
+[
+"name",
+655.25,
+655.45
+],
+[
+"from",
+655.45,
+655.67
+],
+[
+"the",
+655.67,
+655.83
+],
+[
+"battle:",
+655.83,
+656.15
+],
+[
+"Corrino.",
+656.67,
+656.97
+],
+[
+"His",
+657.52,
+657.89
+],
+[
+"family",
+657.89,
+658.31
+],
+[
+"will",
+658.31,
+658.57
+],
+[
+"sit",
+658.57,
+658.81
+],
+[
+"on",
+658.81,
+659.01
+],
+[
+"the",
+659.01,
+659.17
+],
+[
+"Golden",
+659.17,
+659.51
+],
+[
+"Lion",
+659.51,
+659.87
+],
+[
+"Throne",
+659.87,
+660.27
+],
+[
+"for",
+660.27,
+660.65
+],
+[
+"ten",
+660.65,
+661.07
+],
+[
+"thousand",
+661.07,
+661.57
+],
+[
+"years.",
+661.57,
+662.07
+],
+[
+"And",
+662.93,
+662.93
+],
+[
+"humanity",
+662.93,
+663.47
+],
+[
+"writes",
+663.47,
+663.87
+],
+[
+"one",
+663.87,
+664.25
+],
+[
+"commandment",
+664.25,
+664.99
+],
+[
+"into",
+664.99,
+665.23
+],
+[
+"its",
+665.23,
+665.45
+],
+[
+"holy",
+665.45,
+665.77
+],
+[
+"law:",
+665.77,
+666.21
+],
+[
+"Thou",
+666.87,
+666.89
+],
+[
+"shalt",
+666.89,
+667.25
+],
+[
+"not",
+667.25,
+667.63
+],
+[
+"make",
+667.63,
+667.91
+],
+[
+"a",
+667.91,
+668.09
+],
+[
+"machine",
+668.09,
+668.45
+],
+[
+"in",
+668.45,
+668.83
+],
+[
+"the",
+668.83,
+668.99
+],
+[
+"likeness",
+668.99,
+669.23
+],
+[
+"of",
+669.23,
+669.61
+],
+[
+"a",
+669.61,
+669.75
+],
+[
+"human",
+669.75,
+669.99
+],
+[
+"mind.",
+669.99,
+670.51
+],
+[
+"Without",
+671.09,
+671.35
+],
+[
+"thinking",
+671.35,
+671.79
+],
+[
+"machines,",
+671.79,
+672.39
+],
+[
+"humans",
+672.91,
+673.11
+],
+[
+"must",
+673.11,
+673.53
+],
+[
+"become",
+673.53,
+673.93
+],
+[
+"the",
+673.93,
+674.09
+],
+[
+"machines.",
+674.09,
+674.59
+],
+[
+"Mentats",
+675.27,
+675.63
+],
+[
+"who",
+675.63,
+675.89
+],
+[
+"compute.",
+675.89,
+676.37
+],
+[
+"Sisters",
+677.37,
+677.37
+],
+[
+"who",
+677.37,
+677.63
+],
+[
+"plan",
+677.63,
+677.95
+],
+[
+"across",
+677.95,
+678.25
+],
+[
+"centuries.",
+678.25,
+678.83
+],
+[
+"Navigators",
+679.53,
+680.07
+],
+[
+"who",
+680.07,
+680.29
+],
+[
+"fold",
+680.29,
+680.57
+],
+[
+"space",
+680.57,
+680.97
+],
+[
+"with",
+680.97,
+681.29
+],
+[
+"spice.",
+681.29,
+681.61
+],
+[
+"Every",
+682.45,
+682.77
+],
+[
+"power",
+682.77,
+683.15
+],
+[
+"of",
+683.15,
+683.39
+],
+[
+"the",
+683.39,
+683.53
+],
+[
+"Imperium",
+683.53,
+684.01
+],
+[
+"grows",
+684.01,
+684.51
+],
+[
+"from",
+684.51,
+684.85
+],
+[
+"the",
+684.85,
+685.05
+],
+[
+"ashes",
+685.05,
+685.33
+],
+[
+"of",
+685.33,
+685.65
+],
+[
+"this",
+685.65,
+685.89
+],
+[
+"war.",
+685.89,
+686.29
+],
+[
+"And",
+686.29,
+687.36
+],
+[
+"from",
+687.36,
+687.56
+],
+[
+"a",
+687.56,
+687.7
+],
+[
+"mother,",
+687.7,
+687.94
+],
+[
+"a",
+688.52,
+688.58
+],
+[
+"balcony,",
+688.58,
+688.96
+],
+[
+"and",
+689.5,
+689.7
+],
+[
+"a",
+689.7,
+689.84
+],
+[
+"child.",
+689.84,
+690.16
+],
+[
+"So,",
+691.71,
+692.05
+],
+[
+"was",
+692.51,
+692.65
+],
+[
+"Vorian",
+692.65,
+693.11
+],
+[
+"right",
+693.11,
+693.59
+],
+[
+"to",
+693.59,
+694.07
+],
+[
+"give",
+694.07,
+694.29
+],
+[
+"that",
+694.29,
+694.53
+],
+[
+"order",
+694.53,
+694.81
+],
+[
+"at",
+694.81,
+695.11
+],
+[
+"Corrin,",
+695.11,
+695.51
+],
+[
+"or",
+696.07,
+696.23
+],
+[
+"was",
+696.23,
+696.49
+],
+[
+"Abulurd",
+696.49,
+697.29
+],
+[
+"the",
+697.29,
+697.55
+],
+[
+"real",
+697.55,
+697.81
+],
+[
+"hero?",
+697.81,
+698.17
+],
+[
+"Tell",
+698.97,
+699.13
+],
+[
+"us",
+699.13,
+699.27
+],
+[
+"what",
+699.27,
+699.43
+],
+[
+"you",
+699.43,
+699.61
+],
+[
+"think",
+699.61,
+699.91
+],
+[
+"in",
+699.91,
+700.09
+],
+[
+"the",
+700.09,
+700.27
+],
+[
+"comments.",
+700.27,
+700.59
+],
+[
+"If",
+701.19,
+701.33
+],
+[
+"this",
+701.33,
+701.57
+],
+[
+"story",
+701.57,
+701.93
+],
+[
+"stayed",
+701.93,
+702.29
+],
+[
+"with",
+702.29,
+702.55
+],
+[
+"you,",
+702.55,
+702.83
+],
+[
+"give",
+703.11,
+703.31
+],
+[
+"the",
+703.31,
+703.45
+],
+[
+"video",
+703.45,
+703.71
+],
+[
+"a",
+703.71,
+703.93
+],
+[
+"like,",
+703.93,
+704.13
+],
+[
+"and",
+704.13,
+704.47
+],
+[
+"subscribe",
+704.47,
+704.99
+],
+[
+"to",
+704.99,
+705.27
+],
+[
+"the",
+705.27,
+705.39
+],
+[
+"Mythic",
+705.39,
+705.71
+],
+[
+"Archives.",
+705.71,
+706.13
+],
+[
+"The",
+706.68,
+706.78
+],
+[
+"archive",
+706.78,
+707.28
+],
+[
+"is",
+707.28,
+707.68
+],
+[
+"always",
+707.68,
+708.02
+],
+[
+"open.",
+708.02,
+708.38
+]
+]
+}

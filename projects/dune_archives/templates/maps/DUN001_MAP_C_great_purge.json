@@ -1,0 +1,509 @@
+{
+ "_comment": "DUN001 MAP C, ch. VIII, 'and strike every undefended machine world at once, with atomics. It is called the Great Purge.' (~7 s on screen). Schematic; machine worlds are unnamed RECON dots, Corrin survives. Canon: Legends of Dune (108 B.G., foldspace atomic strikes). No caption.",
+ "style": "machine",
+ "duration": 10.0,
+ "camera": {
+  "focus": [
+   0.45,
+   0.5
+  ],
+  "push": 0.08
+ },
+ "provenance": "",
+ "nodes": [
+  {
+   "id": "salusa",
+   "label": "Salusa Secundus",
+   "x": 0.78,
+   "y": 0.5,
+   "canon": "EXPANDED",
+   "sub": "the League",
+   "color": [
+    236,
+    146,
+    64
+   ]
+  },
+  {
+   "id": "fleet",
+   "label": "",
+   "x": 0.62,
+   "y": 0.5,
+   "canon": "RECON",
+   "color": [
+    120,
+    168,
+    206
+   ]
+  },
+  {
+   "id": "corrin",
+   "label": "Corrin",
+   "x": 0.1,
+   "y": 0.28,
+   "canon": "EXPANDED",
+   "sub": "the last machine world",
+   "color": [
+    120,
+    168,
+    206
+   ]
+  },
+  {
+   "id": "m1",
+   "label": "",
+   "x": 0.2,
+   "y": 0.2,
+   "canon": "RECON",
+   "color": [
+    120,
+    168,
+    206
+   ]
+  },
+  {
+   "id": "m2",
+   "label": "",
+   "x": 0.36,
+   "y": 0.12,
+   "canon": "RECON",
+   "color": [
+    120,
+    168,
+    206
+   ]
+  },
+  {
+   "id": "m3",
+   "label": "",
+   "x": 0.12,
+   "y": 0.5,
+   "canon": "RECON",
+   "color": [
+    120,
+    168,
+    206
+   ]
+  },
+  {
+   "id": "m4",
+   "label": "",
+   "x": 0.3,
+   "y": 0.42,
+   "canon": "RECON",
+   "color": [
+    120,
+    168,
+    206
+   ]
+  },
+  {
+   "id": "m5",
+   "label": "",
+   "x": 0.46,
+   "y": 0.3,
+   "canon": "RECON",
+   "color": [
+    120,
+    168,
+    206
+   ]
+  },
+  {
+   "id": "m6",
+   "label": "",
+   "x": 0.22,
+   "y": 0.78,
+   "canon": "RECON",
+   "color": [
+    120,
+    168,
+    206
+   ]
+  },
+  {
+   "id": "m7",
+   "label": "",
+   "x": 0.42,
+   "y": 0.66,
+   "canon": "RECON",
+   "color": [
+    120,
+    168,
+    206
+   ]
+  },
+  {
+   "id": "m8",
+   "label": "",
+   "x": 0.56,
+   "y": 0.86,
+   "canon": "RECON",
+   "color": [
+    120,
+    168,
+    206
+   ]
+  }
+ ],
+ "beats": [
+  {
+   "type": "title",
+   "text": "The Great Purge",
+   "sub": "108 B.G. · atomics through folded space",
+   "start": 0.0,
+   "dur": 1.0
+  },
+  {
+   "type": "territory",
+   "polygon": [
+    [
+     0.02,
+     0.04
+    ],
+    [
+     0.62,
+     0.04
+    ],
+    [
+     0.64,
+     0.96
+    ],
+    [
+     0.02,
+     0.96
+    ]
+   ],
+   "color": [
+    40,
+    66,
+    92
+   ],
+   "outline": [
+    120,
+    168,
+    206
+   ],
+   "alpha": 85,
+   "start": 0.1,
+   "dur": 1.0
+  },
+  {
+   "type": "node",
+   "id": "salusa",
+   "start": 0.2,
+   "dur": 0.7
+  },
+  {
+   "type": "node",
+   "id": "corrin",
+   "start": 0.4,
+   "dur": 0.7
+  },
+  {
+   "type": "node",
+   "id": "m1",
+   "start": 0.5,
+   "dur": 0.5
+  },
+  {
+   "type": "node",
+   "id": "m2",
+   "start": 0.58,
+   "dur": 0.5
+  },
+  {
+   "type": "node",
+   "id": "m3",
+   "start": 0.66,
+   "dur": 0.5
+  },
+  {
+   "type": "node",
+   "id": "m4",
+   "start": 0.74,
+   "dur": 0.5
+  },
+  {
+   "type": "node",
+   "id": "m5",
+   "start": 0.8200000000000001,
+   "dur": 0.5
+  },
+  {
+   "type": "node",
+   "id": "m6",
+   "start": 0.9,
+   "dur": 0.5
+  },
+  {
+   "type": "node",
+   "id": "m7",
+   "start": 0.98,
+   "dur": 0.5
+  },
+  {
+   "type": "node",
+   "id": "m8",
+   "start": 1.06,
+   "dur": 0.5
+  },
+  {
+   "type": "route",
+   "path": [
+    "m4",
+    "fleet"
+   ],
+   "color": [
+    120,
+    168,
+    206
+   ],
+   "start": 1.0,
+   "dur": 1.2,
+   "dashed": true
+  },
+  {
+   "type": "route",
+   "path": [
+    "salusa",
+    "m1"
+   ],
+   "color": [
+    236,
+    146,
+    64
+   ],
+   "start": 2.2,
+   "dur": 0.6,
+   "dashed": true
+  },
+  {
+   "type": "route",
+   "path": [
+    "salusa",
+    "m2"
+   ],
+   "color": [
+    236,
+    146,
+    64
+   ],
+   "start": 2.45,
+   "dur": 0.6,
+   "dashed": true
+  },
+  {
+   "type": "route",
+   "path": [
+    "salusa",
+    "m3"
+   ],
+   "color": [
+    236,
+    146,
+    64
+   ],
+   "start": 2.7,
+   "dur": 0.6,
+   "dashed": true
+  },
+  {
+   "type": "route",
+   "path": [
+    "salusa",
+    "m4"
+   ],
+   "color": [
+    236,
+    146,
+    64
+   ],
+   "start": 2.95,
+   "dur": 0.6,
+   "dashed": true
+  },
+  {
+   "type": "route",
+   "path": [
+    "salusa",
+    "m5"
+   ],
+   "color": [
+    236,
+    146,
+    64
+   ],
+   "start": 3.2,
+   "dur": 0.6,
+   "dashed": true
+  },
+  {
+   "type": "route",
+   "path": [
+    "salusa",
+    "m6"
+   ],
+   "color": [
+    236,
+    146,
+    64
+   ],
+   "start": 3.45,
+   "dur": 0.6,
+   "dashed": true
+  },
+  {
+   "type": "route",
+   "path": [
+    "salusa",
+    "m7"
+   ],
+   "color": [
+    236,
+    146,
+    64
+   ],
+   "start": 3.7,
+   "dur": 0.6,
+   "dashed": true
+  },
+  {
+   "type": "route",
+   "path": [
+    "salusa",
+    "m8"
+   ],
+   "color": [
+    236,
+    146,
+    64
+   ],
+   "start": 3.95,
+   "dur": 0.6,
+   "dashed": true
+  },
+  {
+   "type": "flash",
+   "id": "m1",
+   "start": 2.8,
+   "dur": 1.6
+  },
+  {
+   "type": "flash",
+   "id": "m2",
+   "start": 3.05,
+   "dur": 1.6
+  },
+  {
+   "type": "flash",
+   "id": "m3",
+   "start": 3.3,
+   "dur": 1.6
+  },
+  {
+   "type": "flash",
+   "id": "m4",
+   "start": 3.55,
+   "dur": 1.6
+  },
+  {
+   "type": "flash",
+   "id": "m5",
+   "start": 3.8,
+   "dur": 1.6
+  },
+  {
+   "type": "flash",
+   "id": "m6",
+   "start": 4.05,
+   "dur": 1.6
+  },
+  {
+   "type": "flash",
+   "id": "m7",
+   "start": 4.3,
+   "dur": 1.6
+  },
+  {
+   "type": "flash",
+   "id": "m8",
+   "start": 4.55,
+   "dur": 1.6
+  },
+  {
+   "type": "territory",
+   "polygon": [
+    [
+     0.02,
+     0.04
+    ],
+    [
+     0.62,
+     0.04
+    ],
+    [
+     0.64,
+     0.96
+    ],
+    [
+     0.02,
+     0.96
+    ]
+   ],
+   "color": [
+    70,
+    30,
+    12
+   ],
+   "outline": [
+    180,
+    90,
+    40
+   ],
+   "alpha": 80,
+   "start": 5.4,
+   "dur": 1.6
+  },
+  {
+   "type": "territory",
+   "polygon": [
+    [
+     0.03,
+     0.16
+    ],
+    [
+     0.2,
+     0.16
+    ],
+    [
+     0.2,
+     0.4
+    ],
+    [
+     0.03,
+     0.4
+    ]
+   ],
+   "color": [
+    40,
+    66,
+    92
+   ],
+   "outline": [
+    120,
+    168,
+    206
+   ],
+   "alpha": 120,
+   "start": 6.6,
+   "dur": 0.8
+  },
+  {
+   "type": "node",
+   "id": "corrin",
+   "start": 6.9,
+   "dur": 0.6
+  }
+ ]
+}

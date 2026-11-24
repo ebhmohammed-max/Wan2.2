@@ -1,0 +1,321 @@
+{
+ "_comment": "DUN001 MAP B, ch. V, 'Worlds are freed, and lost, and freed again. New inventions change the battlefield…' (~5.5 s on screen). Schematic front line of the Jihad (Legends of Dune); unnamed worlds are RECON dots. No caption.",
+ "style": "machine",
+ "duration": 8.5,
+ "camera": {
+  "focus": [
+   0.5,
+   0.5
+  ],
+  "push": 0.1
+ },
+ "provenance": "",
+ "nodes": [
+  {
+   "id": "salusa",
+   "label": "Salusa Secundus",
+   "x": 0.8,
+   "y": 0.5,
+   "canon": "EXPANDED",
+   "sub": "the League",
+   "color": [
+    236,
+    146,
+    64
+   ]
+  },
+  {
+   "id": "earth",
+   "label": "Earth",
+   "x": 0.5,
+   "y": 0.78,
+   "canon": "EXPANDED",
+   "sub": "burned, 200 B.G.",
+   "color": [
+    150,
+    150,
+    150
+   ]
+  },
+  {
+   "id": "corrin",
+   "label": "Corrin",
+   "x": 0.14,
+   "y": 0.42,
+   "canon": "EXPANDED",
+   "sub": "Omnius",
+   "color": [
+    120,
+    168,
+    206
+   ]
+  },
+  {
+   "id": "f1",
+   "label": "",
+   "x": 0.52,
+   "y": 0.24,
+   "canon": "RECON"
+  },
+  {
+   "id": "f2",
+   "label": "",
+   "x": 0.44,
+   "y": 0.46,
+   "canon": "RECON"
+  },
+  {
+   "id": "f3",
+   "label": "",
+   "x": 0.58,
+   "y": 0.6,
+   "canon": "RECON"
+  },
+  {
+   "id": "f4",
+   "label": "",
+   "x": 0.36,
+   "y": 0.7,
+   "canon": "RECON"
+  }
+ ],
+ "beats": [
+  {
+   "type": "title",
+   "text": "The Holy War",
+   "sub": "Decades of war along a shifting front",
+   "start": 0.0,
+   "dur": 1.0
+  },
+  {
+   "type": "territory",
+   "polygon": [
+    [
+     0.02,
+     0.06
+    ],
+    [
+     0.5,
+     0.06
+    ],
+    [
+     0.4,
+     0.94
+    ],
+    [
+     0.02,
+     0.94
+    ]
+   ],
+   "color": [
+    40,
+    66,
+    92
+   ],
+   "outline": [
+    120,
+    168,
+    206
+   ],
+   "alpha": 80,
+   "start": 0.1,
+   "dur": 1.0
+  },
+  {
+   "type": "territory",
+   "polygon": [
+    [
+     0.66,
+     0.06
+    ],
+    [
+     0.98,
+     0.06
+    ],
+    [
+     0.98,
+     0.94
+    ],
+    [
+     0.62,
+     0.94
+    ]
+   ],
+   "color": [
+    120,
+    64,
+    24
+   ],
+   "outline": [
+    236,
+    146,
+    64
+   ],
+   "alpha": 80,
+   "start": 0.1,
+   "dur": 1.0
+  },
+  {
+   "type": "node",
+   "id": "salusa",
+   "start": 0.3,
+   "dur": 0.7
+  },
+  {
+   "type": "node",
+   "id": "corrin",
+   "start": 0.4,
+   "dur": 0.7
+  },
+  {
+   "type": "node",
+   "id": "earth",
+   "start": 0.6,
+   "dur": 0.7
+  },
+  {
+   "type": "node",
+   "id": "f1",
+   "start": 0.9,
+   "dur": 0.6
+  },
+  {
+   "type": "node",
+   "id": "f2",
+   "start": 1.05,
+   "dur": 0.6
+  },
+  {
+   "type": "node",
+   "id": "f3",
+   "start": 1.2,
+   "dur": 0.6
+  },
+  {
+   "type": "node",
+   "id": "f4",
+   "start": 1.35,
+   "dur": 0.6
+  },
+  {
+   "type": "route",
+   "path": [
+    "salusa",
+    "f1"
+   ],
+   "color": [
+    236,
+    146,
+    64
+   ],
+   "start": 1.2,
+   "dur": 0.8
+  },
+  {
+   "type": "route",
+   "path": [
+    "salusa",
+    "f3"
+   ],
+   "color": [
+    236,
+    146,
+    64
+   ],
+   "start": 1.4,
+   "dur": 0.8
+  },
+  {
+   "type": "route",
+   "path": [
+    "corrin",
+    "f2"
+   ],
+   "color": [
+    120,
+    168,
+    206
+   ],
+   "start": 2.2,
+   "dur": 0.8
+  },
+  {
+   "type": "route",
+   "path": [
+    "corrin",
+    "f4"
+   ],
+   "color": [
+    120,
+    168,
+    206
+   ],
+   "start": 2.4,
+   "dur": 0.8
+  },
+  {
+   "type": "route",
+   "path": [
+    "f3",
+    "f2"
+   ],
+   "color": [
+    236,
+    146,
+    64
+   ],
+   "start": 3.2,
+   "dur": 0.7,
+   "dashed": true
+  },
+  {
+   "type": "route",
+   "path": [
+    "f1",
+    "f2"
+   ],
+   "color": [
+    120,
+    168,
+    206
+   ],
+   "start": 3.6,
+   "dur": 0.7,
+   "dashed": true
+  },
+  {
+   "type": "territory",
+   "polygon": [
+    [
+     0.5,
+     0.06
+    ],
+    [
+     0.66,
+     0.06
+    ],
+    [
+     0.62,
+     0.94
+    ],
+    [
+     0.4,
+     0.94
+    ]
+   ],
+   "color": [
+    90,
+    60,
+    40
+   ],
+   "outline": [
+    200,
+    160,
+    120
+   ],
+   "alpha": 60,
+   "start": 4.2,
+   "dur": 1.2
+  }
+ ]
+}

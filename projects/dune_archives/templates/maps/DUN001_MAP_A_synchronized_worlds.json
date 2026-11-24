@@ -1,0 +1,400 @@
+{
+ "_comment": "DUN001 MAP A, ch. II, 'Only a handful of worlds escaped. They called themselves the League of Nobles…' (~9 s on screen). A POWER DIAGRAM, not geography: positions are artistic. Canon: Legends of Dune (Synchronized Worlds of Omnius vs the League of Nobles). Steel = machine space, ember = free humans. No caption burned in.",
+ "style": "machine",
+ "duration": 11.0,
+ "camera": {
+  "focus": [
+   0.62,
+   0.5
+  ],
+  "push": 0.07
+ },
+ "provenance": "",
+ "nodes": [
+  {
+   "id": "corrin",
+   "label": "Corrin",
+   "x": 0.22,
+   "y": 0.36,
+   "canon": "EXPANDED",
+   "sub": "seat of Omnius",
+   "color": [
+    120,
+    168,
+    206
+   ]
+  },
+  {
+   "id": "earth",
+   "label": "Earth",
+   "x": 0.36,
+   "y": 0.68,
+   "canon": "EXPANDED",
+   "sub": "the oldest world · machine-ruled",
+   "color": [
+    120,
+    168,
+    206
+   ]
+  },
+  {
+   "id": "m1",
+   "label": "",
+   "x": 0.12,
+   "y": 0.62,
+   "canon": "RECON",
+   "color": [
+    120,
+    168,
+    206
+   ]
+  },
+  {
+   "id": "m2",
+   "label": "",
+   "x": 0.3,
+   "y": 0.18,
+   "canon": "RECON",
+   "color": [
+    120,
+    168,
+    206
+   ]
+  },
+  {
+   "id": "m3",
+   "label": "",
+   "x": 0.46,
+   "y": 0.3,
+   "canon": "RECON",
+   "color": [
+    120,
+    168,
+    206
+   ]
+  },
+  {
+   "id": "m4",
+   "label": "",
+   "x": 0.18,
+   "y": 0.84,
+   "canon": "RECON",
+   "color": [
+    120,
+    168,
+    206
+   ]
+  },
+  {
+   "id": "m5",
+   "label": "",
+   "x": 0.5,
+   "y": 0.86,
+   "canon": "RECON",
+   "color": [
+    120,
+    168,
+    206
+   ]
+  },
+  {
+   "id": "salusa",
+   "label": "Salusa Secundus",
+   "x": 0.74,
+   "y": 0.44,
+   "canon": "EXPANDED",
+   "sub": "capital of the League",
+   "color": [
+    236,
+    146,
+    64
+   ]
+  },
+  {
+   "id": "giedi",
+   "label": "Giedi Prime",
+   "x": 0.68,
+   "y": 0.72,
+   "canon": "EXPANDED",
+   "sub": "League world",
+   "color": [
+    236,
+    146,
+    64
+   ]
+  },
+  {
+   "id": "l1",
+   "label": "",
+   "x": 0.86,
+   "y": 0.26,
+   "canon": "RECON",
+   "color": [
+    236,
+    146,
+    64
+   ]
+  },
+  {
+   "id": "l2",
+   "label": "",
+   "x": 0.88,
+   "y": 0.66,
+   "canon": "RECON",
+   "color": [
+    236,
+    146,
+    64
+   ]
+  }
+ ],
+ "beats": [
+  {
+   "type": "title",
+   "text": "A Galaxy of Machines",
+   "sub": "The Synchronized Worlds · the League of Nobles",
+   "start": 0.0,
+   "dur": 1.0
+  },
+  {
+   "type": "territory",
+   "polygon": [
+    [
+     0.04,
+     0.08
+    ],
+    [
+     0.58,
+     0.06
+    ],
+    [
+     0.6,
+     0.5
+    ],
+    [
+     0.56,
+     0.94
+    ],
+    [
+     0.04,
+     0.94
+    ]
+   ],
+   "color": [
+    40,
+    66,
+    92
+   ],
+   "outline": [
+    120,
+    168,
+    206
+   ],
+   "alpha": 90,
+   "start": 0.2,
+   "dur": 1.6
+  },
+  {
+   "type": "node",
+   "id": "corrin",
+   "start": 0.6,
+   "dur": 0.8
+  },
+  {
+   "type": "node",
+   "id": "earth",
+   "start": 1.0,
+   "dur": 0.8
+  },
+  {
+   "type": "node",
+   "id": "m1",
+   "start": 1.2,
+   "dur": 0.6
+  },
+  {
+   "type": "node",
+   "id": "m2",
+   "start": 1.3499999999999999,
+   "dur": 0.6
+  },
+  {
+   "type": "node",
+   "id": "m3",
+   "start": 1.5,
+   "dur": 0.6
+  },
+  {
+   "type": "node",
+   "id": "m4",
+   "start": 1.65,
+   "dur": 0.6
+  },
+  {
+   "type": "node",
+   "id": "m5",
+   "start": 1.7999999999999998,
+   "dur": 0.6
+  },
+  {
+   "type": "route",
+   "path": [
+    "corrin",
+    "m2"
+   ],
+   "color": [
+    120,
+    168,
+    206
+   ],
+   "start": 1.6,
+   "dur": 0.8
+  },
+  {
+   "type": "route",
+   "path": [
+    "corrin",
+    "m3"
+   ],
+   "color": [
+    120,
+    168,
+    206
+   ],
+   "start": 1.8,
+   "dur": 0.8
+  },
+  {
+   "type": "route",
+   "path": [
+    "corrin",
+    "m1"
+   ],
+   "color": [
+    120,
+    168,
+    206
+   ],
+   "start": 2.0,
+   "dur": 0.8
+  },
+  {
+   "type": "route",
+   "path": [
+    "corrin",
+    "earth"
+   ],
+   "color": [
+    120,
+    168,
+    206
+   ],
+   "start": 2.2,
+   "dur": 0.8
+  },
+  {
+   "type": "territory",
+   "polygon": [
+    [
+     0.64,
+     0.2
+    ],
+    [
+     0.94,
+     0.16
+    ],
+    [
+     0.96,
+     0.8
+    ],
+    [
+     0.62,
+     0.86
+    ],
+    [
+     0.6,
+     0.5
+    ]
+   ],
+   "color": [
+    120,
+    64,
+    24
+   ],
+   "outline": [
+    236,
+    146,
+    64
+   ],
+   "alpha": 90,
+   "start": 3.6,
+   "dur": 1.4
+  },
+  {
+   "type": "node",
+   "id": "salusa",
+   "start": 4.2,
+   "dur": 0.9
+  },
+  {
+   "type": "node",
+   "id": "giedi",
+   "start": 4.8,
+   "dur": 0.8
+  },
+  {
+   "type": "node",
+   "id": "l1",
+   "start": 5.0,
+   "dur": 0.6
+  },
+  {
+   "type": "node",
+   "id": "l2",
+   "start": 5.2,
+   "dur": 0.6
+  },
+  {
+   "type": "route",
+   "path": [
+    "salusa",
+    "l1"
+   ],
+   "color": [
+    236,
+    146,
+    64
+   ],
+   "start": 5.4,
+   "dur": 0.7
+  },
+  {
+   "type": "route",
+   "path": [
+    "salusa",
+    "giedi"
+   ],
+   "color": [
+    236,
+    146,
+    64
+   ],
+   "start": 5.6,
+   "dur": 0.7
+  },
+  {
+   "type": "route",
+   "path": [
+    "salusa",
+    "l2"
+   ],
+   "color": [
+    236,
+    146,
+    64
+   ],
+   "start": 5.8,
+   "dur": 0.7
+  }
+ ]
+}
