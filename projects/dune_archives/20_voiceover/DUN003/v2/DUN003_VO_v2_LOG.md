@@ -1,20 +1,23 @@
 # DUN003 v2 VO log: storytelling cut
 
-- **Narrator:** voice-09, picked by the user in audition battle 09. Rejected: voice-06 (v1 narrator), voice-07 (auto-assigned) and voice-08 ("neither").
-- **Script:** `17_scripts/DUN003_SCRIPT_v2.0.md`, approved; source data `data/dun003_v2.py`.
-- **Loudness:** all takes −19.4 LUFS integrated (raw).
+- **Narrator:** **voice-14**, picked by the user in battle 14 (conversational, the "most human" request).
+  - Rejected: voice-06 (v1), 07, 08, 09, 10, 11, 12 and 13.
+- **Script:** `17_scripts/DUN003_SCRIPT_v2.0.md`, approved; data `data/dun003_v2.py`.
+- **Wording change, pending user confirmation:** line VIII.2 "Hayt draws a blade to kill the emperor." was replaced by **"Hayt turns on the emperor."** The original sentence was blocked by the TTS content filter.
+- **Format:** raw takes are 24 kHz mono, 32 kbps MP3, as returned by the TTS. They are upsampled to 48 kHz in the mix.
 
 | Clip | Sections | Duration |
 |---|---|---|
-| raw09/H.mp3 | Hook | 41.76 s |
-| raw09/I.mp3 | I The God on the Throne | 62.23 s |
-| raw09/II.mp3 | II Sixty-One Billion | 57.98 s |
-| raw09/III.mp3 | III Four Powers in the Dark | 75.78 s |
-| raw09/IV.mp3 | IV The Gift | 63.66 s |
-| raw09/V.mp3 | V The Night of the Stone Burner | 54.09 s |
-| raw09/VI_VII.mp3 | VI The Blind Emperor + VII Chani (split at the paragraph pause) | 77.18 s |
-| raw09/VIIIa.mp3 | VIII part 1 | **MISSING**: blocked by the TTS content filter twice (trigger: "Hayt draws a blade to kill the emperor") |
-| raw09/VIIIb.mp3 | VIII part 2 ("And to force the choice…") | 16.70 s |
-| raw09/IX_X.mp3 | IX Into the Desert + X Beware of Heroes (split at the paragraph pause) | 68.10 s |
+| raw14/H_I.mp3 | Hook + I The God on the Throne (split at the paragraph pause) | 111.21 s |
+| raw14/II.mp3 | II Sixty-One Billion | 66.49 s |
+| raw14/III.mp3 | III Four Powers in the Dark | 80.74 s |
+| raw14/IV.mp3 | IV The Gift | 65.26 s |
+| raw14/V.mp3 | V The Night of the Stone Burner | 56.40 s |
+| raw14/VI.mp3 | VI The Blind Emperor | 48.12 s |
+| raw14/VII.mp3 | VII Chani | 45.07 s |
+| raw14/VIII.mp3 | VIII The Tleilaxu Bargain | 42.68 s |
+| raw14/IX.mp3 | IX Into the Desert | 38.22 s |
+| raw14/X.mp3 | X Beware of Heroes | 45.50 s |
 
-**Pacing:** about 152 wpm raw. Sentence pauses are lengthened in the edit to bring it to roughly 140 wpm (pauses-in-edit, approved in turn 25).
+- **Total narration:** 579.7 s.
+- **Listening preview:** `DUN003_VO_v2_PREVIEW.mp3`, 10:18, with 1.8 s gaps, loudnorm −16 LUFS. It contains no music.
