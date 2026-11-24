@@ -1,144 +1,155 @@
 {
- "episode": "DUN001",
- "batch": "BATCH007",
- "max_batch_size": 10,
- "status": "PLANNED",
- "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
- "palette": "Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome.",
- "images": [
-  {
-   "scene_id": "DUN001_SCENE061",
-   "key": "B007S061",
-   "file": "DUN001_BATCH007_SCENE061_EARTH_SILENT.png",
-   "chapter": "IV",
-   "shot_type": "EW",
-   "cast": [],
-   "motion_recipe": "HOLD",
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a deserted square on Earth, scattered belongings in the ash, a single robot standing guard, grey light. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
-   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
-  },
-  {
-   "scene_id": "DUN001_SCENE062",
-   "key": "B007S062",
-   "file": "DUN001_BATCH007_SCENE062_PARLIAMENT_HALL.png",
-   "chapter": "IV",
-   "shot_type": "EW",
-   "cast": [],
-   "motion_recipe": "PULL_OUT",
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the vast circular League parliament chamber packed with delegates in tiers, tense, warm stone and glass, no columns. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
-   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
-  },
-  {
-   "scene_id": "DUN001_SCENE063",
-   "key": "B007S063",
-   "file": "DUN001_BATCH007_SCENE063_SERENA_SPEECH.png",
-   "chapter": "IV",
-   "shot_type": "MS",
-   "cast": [
-    "SERENA"
-   ],
-   "motion_recipe": "PUSH_IN",
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Serena Butler, a woman in her early twenties, oval face, high cheekbones, long amber-brown hair, striking grey-violet eyes, fierce and intelligent expression. at a speaker's podium in the parliament, grieving and furious, fist raised, delegates behind. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
-   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
-  },
-  {
-   "scene_id": "DUN001_SCENE064",
-   "key": "B007S064",
-   "file": "DUN001_BATCH007_SCENE064_XAVIER_PROPOSES.png",
-   "chapter": "IV",
-   "shot_type": "MS",
-   "cast": [
-    "XAVIER"
-   ],
-   "motion_recipe": "PUSH_IN",
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Xavier Harkonnen, a man in his early twenties, close-cropped dark brown hair, square jaw, serious grey eyes, League officer uniform of slate grey with silver piping. standing to address the parliament, grim and certain, delegates turning to look. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
-   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
-  },
-  {
-   "scene_id": "DUN001_SCENE065",
-   "key": "B007S065",
-   "file": "DUN001_BATCH007_SCENE065_ATOMICS_VAULT.png",
-   "chapter": "IV",
-   "shot_type": "INS",
-   "cast": [],
-   "motion_recipe": "PUSH_IN",
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. sealed atomic warheads in a dark armoury vault, red warning lights, frost on the casings. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
-   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
-  },
-  {
-   "scene_id": "DUN001_SCENE066",
-   "key": "B007S066",
-   "file": "DUN001_BATCH007_SCENE066_VOTE_SILENT.png",
-   "chapter": "IV",
-   "shot_type": "EW",
-   "cast": [],
-   "motion_recipe": "HOLD",
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the parliament chamber in total silence, every delegate seated, not a single hand raised. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
-   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
-  },
-  {
-   "scene_id": "DUN001_SCENE067",
-   "key": "B007S067",
-   "file": "DUN001_BATCH007_SCENE067_LEAGUE_FLEET.png",
-   "chapter": "IV",
-   "shot_type": "EW",
-   "cast": [],
-   "motion_recipe": "PULL_OUT",
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a great fleet of dark angular human warships forming up in orbit above a blue world. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
-   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
-  },
-  {
-   "scene_id": "DUN001_SCENE068",
-   "key": "B007S068",
-   "file": "DUN001_BATCH007_SCENE068_ATOMIC_FLASH_EARTH.png",
-   "chapter": "IV",
-   "shot_type": "EW",
-   "cast": [],
-   "motion_recipe": "PUSH_IN",
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a blinding white atomic flash rising over a machine city on Earth, shockwave rolling across the land. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
-   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
-  },
-  {
-   "scene_id": "DUN001_SCENE069",
-   "key": "B007S069",
-   "file": "DUN001_BATCH007_SCENE069_DEAD_EARTH.png",
-   "chapter": "IV",
-   "shot_type": "EW",
-   "cast": [],
-   "motion_recipe": "PULL_OUT",
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Earth from orbit transformed into a dead scorched grey sphere with faint glowing scars, no oceans of light. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
-   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
-  },
-  {
-   "scene_id": "DUN001_SCENE070",
-   "key": "B007S070",
-   "file": "DUN001_BATCH007_SCENE070_JIHAD_BANNERS.png",
-   "chapter": "IV",
-   "shot_type": "EW",
-   "cast": [],
-   "motion_recipe": "TILT_UP",
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. huge ember-orange banners unfurling over a cheering crowd in a plaza on Salusa, smoke and torchlight, blurred illegible designs. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
-   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
-  }
- ]
+  "episode": "DUN001",
+  "batch": "BATCH007",
+  "max_batch_size": 10,
+  "status": "GENERATED_7_OF_10",
+  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
+  "palette": "Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome.",
+  "images": [
+    {
+      "scene_id": "DUN001_SCENE061",
+      "key": "B007S061",
+      "file": "DUN001_BATCH007_SCENE061_EARTH_SILENT.png",
+      "chapter": "IV",
+      "shot_type": "EW",
+      "cast": [],
+      "motion_recipe": "HOLD",
+      "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a deserted square on Earth, scattered belongings in the ash, a single robot standing guard, grey light. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+      "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+      "refs": [],
+      "qc": "PASS",
+      "notes": "generated turn 51; png -> 1920x1080 jpg"
+    },
+    {
+      "scene_id": "DUN001_SCENE062",
+      "key": "B007S062",
+      "file": "DUN001_BATCH007_SCENE062_PARLIAMENT_HALL.png",
+      "chapter": "IV",
+      "shot_type": "EW",
+      "cast": [],
+      "motion_recipe": "PULL_OUT",
+      "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the vast circular League parliament chamber packed with delegates in tiers, tense, warm stone and glass, no columns. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+      "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+      "refs": [],
+      "qc": "PASS",
+      "notes": "generated turn 51; png -> 1920x1080 jpg"
+    },
+    {
+      "scene_id": "DUN001_SCENE063",
+      "key": "B007S063",
+      "file": "DUN001_BATCH007_SCENE063_SERENA_SPEECH.png",
+      "chapter": "IV",
+      "shot_type": "MS",
+      "cast": [
+        "SERENA"
+      ],
+      "motion_recipe": "PUSH_IN",
+      "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Serena Butler, a woman in her early twenties, oval face, high cheekbones, long amber-brown hair, striking grey-violet eyes, fierce and intelligent expression. at a speaker's podium in the parliament, grieving and furious, fist raised, delegates behind. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+      "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+      "refs": [
+        "anchors/DUN001_BATCH001_SCENE006_REF_SERENA.jpg"
+      ],
+      "qc": "PASS",
+      "notes": "turn 51: Serena anchor ref, charcoal mourning gown; png -> 1920x1080 jpg"
+    },
+    {
+      "scene_id": "DUN001_SCENE064",
+      "key": "B007S064",
+      "file": "DUN001_BATCH007_SCENE064_XAVIER_PROPOSES.png",
+      "chapter": "IV",
+      "shot_type": "MS",
+      "cast": [
+        "XAVIER"
+      ],
+      "motion_recipe": "PUSH_IN",
+      "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Xavier Harkonnen, a man in his early twenties, close-cropped dark brown hair, square jaw, serious grey eyes, League officer uniform of slate grey with silver piping. standing to address the parliament, grim and certain, delegates turning to look. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+      "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+      "refs": [
+        "anchors/DUN001_BATCH001_SCENE008_REF_XAVIER.jpg"
+      ],
+      "qc": "PASS",
+      "notes": "turn 51: Xavier anchor ref; png -> 1920x1080 jpg"
+    },
+    {
+      "scene_id": "DUN001_SCENE065",
+      "key": "B007S065",
+      "file": "DUN001_BATCH007_SCENE065_ATOMICS_VAULT.png",
+      "chapter": "IV",
+      "shot_type": "INS",
+      "cast": [],
+      "motion_recipe": "PUSH_IN",
+      "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. sealed atomic warheads in a dark armoury vault, red warning lights, frost on the casings. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+      "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+      "refs": [],
+      "qc": "PASS",
+      "notes": "generated turn 51; png -> 1920x1080 jpg"
+    },
+    {
+      "scene_id": "DUN001_SCENE066",
+      "key": "B007S066",
+      "file": "DUN001_BATCH007_SCENE066_VOTE_SILENT.png",
+      "chapter": "IV",
+      "shot_type": "EW",
+      "cast": [],
+      "motion_recipe": "HOLD",
+      "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the parliament chamber in total silence, every delegate seated, not a single hand raised. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+      "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+      "refs": [],
+      "qc": "PASS",
+      "notes": "generated turn 51; png -> 1920x1080 jpg"
+    },
+    {
+      "scene_id": "DUN001_SCENE067",
+      "key": "B007S067",
+      "file": "DUN001_BATCH007_SCENE067_LEAGUE_FLEET.png",
+      "chapter": "IV",
+      "shot_type": "EW",
+      "cast": [],
+      "motion_recipe": "PULL_OUT",
+      "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a great fleet of dark angular human warships forming up in orbit above a blue world. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+      "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+      "refs": [],
+      "qc": "PASS",
+      "notes": "generated turn 51; png -> 1920x1080 jpg"
+    },
+    {
+      "scene_id": "DUN001_SCENE068",
+      "key": "B007S068",
+      "file": "DUN001_BATCH007_SCENE068_ATOMIC_FLASH_EARTH.png",
+      "chapter": "IV",
+      "shot_type": "EW",
+      "cast": [],
+      "motion_recipe": "PUSH_IN",
+      "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a blinding white atomic flash rising over a machine city on Earth, shockwave rolling across the land. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+      "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+      "refs": [],
+      "qc": "PENDING"
+    },
+    {
+      "scene_id": "DUN001_SCENE069",
+      "key": "B007S069",
+      "file": "DUN001_BATCH007_SCENE069_DEAD_EARTH.png",
+      "chapter": "IV",
+      "shot_type": "EW",
+      "cast": [],
+      "motion_recipe": "PULL_OUT",
+      "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Earth from orbit transformed into a dead scorched grey sphere with faint glowing scars, no oceans of light. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+      "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+      "refs": [],
+      "qc": "PENDING"
+    },
+    {
+      "scene_id": "DUN001_SCENE070",
+      "key": "B007S070",
+      "file": "DUN001_BATCH007_SCENE070_JIHAD_BANNERS.png",
+      "chapter": "IV",
+      "shot_type": "EW",
+      "cast": [],
+      "motion_recipe": "TILT_UP",
+      "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. huge ember-orange banners unfurling over a cheering crowd in a plaza on Salusa, smoke and torchlight, blurred illegible designs. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+      "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+      "refs": [],
+      "qc": "PENDING"
+    }
+  ]
 }
