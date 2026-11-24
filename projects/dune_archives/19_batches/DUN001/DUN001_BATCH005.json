@@ -2,7 +2,7 @@
  "episode": "DUN001",
  "batch": "BATCH005",
  "max_batch_size": 10,
- "status": "PLANNED",
+ "status": "GENERATED_8_OF_10",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome.",
  "images": [
@@ -18,8 +18,11 @@
    "motion_recipe": "PUSH_IN",
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Erasmus, a tall elegant humanoid robot with a smooth oval face of liquid mirror-like flowmetal and no features except a faint rippling expression, platinum-silver body, wearing ornate deep crimson and gold brocade robes. examining a terrified human slave held still by robots in a white laboratory, head tilted with curiosity, no gore. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
+   "refs": [
+    "anchors/DUN001_BATCH001_SCENE005_REF_ERASMUS.jpg"
+   ],
+   "qc": "PASS",
+   "notes": "generated turn 49; png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE042",
@@ -33,8 +36,11 @@
    "motion_recipe": "DRIFT",
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Erasmus, a tall elegant humanoid robot with a smooth oval face of liquid mirror-like flowmetal and no features except a faint rippling expression, platinum-silver body, wearing ornate deep crimson and gold brocade robes. painting at an easel in a sunlit studio, copying a masterpiece, uncanny calm. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
+   "refs": [
+    "anchors/DUN001_BATCH001_SCENE005_REF_ERASMUS.jpg"
+   ],
+   "qc": "PASS",
+   "notes": "generated turn 49; png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE043",
@@ -48,8 +54,11 @@
    "motion_recipe": "PUSH_IN",
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Serena Butler, a woman in her early twenties, oval face, high cheekbones, long amber-brown hair, striking grey-violet eyes, fierce and intelligent expression. in a plain grey slave shift scrubbing a marble floor in the villa, glancing up with hatred. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
+   "refs": [
+    "anchors/DUN001_BATCH001_SCENE006_REF_SERENA.jpg"
+   ],
+   "qc": "PASS",
+   "notes": "generated turn 49; png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE044",
@@ -62,7 +71,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. tall bronze doors of the villa slowly opening onto darkness, a single shaft of light. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 49; png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE045",
@@ -77,8 +87,11 @@
    "motion_recipe": "DRIFT",
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Serena Butler, a woman in her early twenties, oval face, high cheekbones, long amber-brown hair, striking grey-violet eyes, fierce and intelligent expression, a swaddled infant a few months old wrapped in a plain cream blanket. exhausted, holding her newborn son in a bare slave quarters room, soft window light, fierce love. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
+   "refs": [
+    "anchors/DUN001_BATCH001_SCENE006_REF_SERENA.jpg"
+   ],
+   "qc": "PASS",
+   "notes": "generated turn 49; png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE046",
@@ -93,8 +106,11 @@
    "motion_recipe": "DRIFT",
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Serena Butler, a woman in her early twenties, oval face, high cheekbones, long amber-brown hair, striking grey-violet eyes, fierce and intelligent expression, a swaddled infant a few months old wrapped in a plain cream blanket. cradling the infant close and whispering to him, tears of joy. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
+   "refs": [
+    "anchors/DUN001_BATCH001_SCENE006_REF_SERENA.jpg"
+   ],
+   "qc": "PASS",
+   "notes": "generated turn 49; png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE047",
@@ -108,8 +124,11 @@
    "motion_recipe": "PUSH_IN",
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Erasmus, a tall elegant humanoid robot with a smooth oval face of liquid mirror-like flowmetal and no features except a faint rippling expression, platinum-silver body, wearing ornate deep crimson and gold brocade robes. watching from a shadowed doorway, his flowmetal face reflecting a mother and child across the room. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
+   "refs": [
+    "anchors/DUN001_BATCH001_SCENE005_REF_ERASMUS.jpg"
+   ],
+   "qc": "PASS",
+   "notes": "generated turn 49; png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE048",
@@ -122,7 +141,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a courtyard of the villa filled with silent human slaves in grey, ordered to watch, robots at the edges. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 49; png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE049",
@@ -138,8 +158,12 @@
    "motion_recipe": "PUSH_IN",
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Erasmus, a tall elegant humanoid robot with a smooth oval face of liquid mirror-like flowmetal and no features except a faint rippling expression, platinum-silver body, wearing ornate deep crimson and gold brocade robes, Serena Butler, a woman in her early twenties, oval face, high cheekbones, long amber-brown hair, striking grey-violet eyes, fierce and intelligent expression, a swaddled infant a few months old wrapped in a plain cream blanket. the robot lifting the swaddled infant from the mother's arms as robot hands hold her back, terrible calm. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
+   "refs": [
+    "anchors/DUN001_BATCH001_SCENE005_REF_ERASMUS.jpg",
+    "anchors/DUN001_BATCH001_SCENE006_REF_SERENA.jpg"
+   ],
+   "qc": "FIX",
+   "notes": "turn 49: Serena wears the blue noble dress; must be the plain grey slave shift. Regenerate."
   },
   {
    "scene_id": "DUN001_SCENE050",
