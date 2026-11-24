@@ -624,10 +624,7 @@ def _end(e, lt, k, W, H):
     x = 110 * k
     for kind, t_on in (('like', p['like_at']), ('comment', p['comment_at']), ('sub', p['sub_at'])):
         q = lt - t_on
-        if kind == 'sub':
-            w = 250 * k
-        else:
-            w = 230 * k
+        w = {'sub': 250, 'like': 190, 'comment': 270}[kind] * k
         if q >= 0:
             s = eback(q / 0.45)
             if kind == 'sub':

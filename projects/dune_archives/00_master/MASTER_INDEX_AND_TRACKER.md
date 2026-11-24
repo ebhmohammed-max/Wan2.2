@@ -697,5 +697,6 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 | v2.19 | 2026-11-23 | 3 animated maps authored, rendered and QC PASS; on Drive |
 | v2.20 | 2026-11-23 | Music cue sheet. assemble_roughcut.py. Slate animatic v1 (12:11) on Drive |
 | v2.21 | 2026-11-23 | Video built: stills via CI, Kevin MacLeod CC BY music, mix at -14 LUFS, 1080p master + 720p review on Drive |
+| v2.22 | 2026-11-24 | **DUN003 v2 storytelling cut**: Hook Bible, script v2.0 (approved), voice-14 narrator, Mythic Archives ident, subscribe/like/comment CTAs, word-exact timeline (11:16, 181 shots, 42 graphics), gfx_v2 + render_v2, maps without caption. Mix −14 LUFS / −1 dBTP. **DUN003_MASTER_v2_1080p.mp4 on Drive 22_edit (`1-PtD46dhCz2KotF1V6zIigwszTGuTChJ`, 447.6 MB)** |
 
 > Turn 22 note: the old manifests v11, continuity v1.4 and original tracker Doc have their Drive descriptions set to SUPERSEDED, pointing at the new IDs above. The Drive tracker v2.12 Doc is a snapshot taken before its own ID was added here.
