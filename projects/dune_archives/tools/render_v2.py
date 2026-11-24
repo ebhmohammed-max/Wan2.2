@@ -131,7 +131,7 @@ def render_seg(i):
     if out.exists() and out.stat().st_size > 1000:
         return str(out)
     cmd = [FF, '-y', '-v', 'error', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-s', f'{W}x{H}', '-r', str(FPS), '-i', '-',
-           '-vf', 'format=yuv420p,noise=c0s=5:c0f=t', '-c:v', 'libx264', '-preset', 'veryfast', '-crf', str(S['crf']),
+           '-vf', 'format=yuv420p,noise=c0s=3:c0f=t', '-c:v', 'libx264', '-preset', 'medium', '-tune', 'grain', '-x264-params', 'vbv-maxrate=16000:vbv-bufsize=24000', '-crf', str(S['crf']),
            '-pix_fmt', 'yuv420p', '-an', '-video_track_timescale', '12288', str(out) + '.tmp.mp4']
     p = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     for j, fr in enumerate(frames_for(shot, f1 - f0)):
