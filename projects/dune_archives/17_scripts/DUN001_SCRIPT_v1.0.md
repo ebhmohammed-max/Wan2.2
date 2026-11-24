@@ -30,10 +30,10 @@ Status: **DRAFT, awaiting approval** (2026-11-24)
 ## H: Hook (Five Beats; archetype 3 "The Object" combined with 4 "The Last Moment First")
 
 > A machine takes a child from his mother's arms.
-> It carries him to a balcony high above the ground. It wants to know what a human does when she loses everything.
+> It carries him to the edge of a balcony. It wants to know what a human does when she loses everything.
 > It is about to find out.
 
-> For a thousand years, thinking machines have ruled most of humanity. They have never lost a war.
+> For a thousand years, thinking machines have ruled most of humanity.
 > Their master is Omnius, one mind copied onto every world it rules. Its generals are tyrants who sealed their own brains inside machines of war.
 
 > To destroy them, humanity will burn its own homeworld, turn a murdered child into a saint, and swear an oath that will still be law ten thousand years from now.
