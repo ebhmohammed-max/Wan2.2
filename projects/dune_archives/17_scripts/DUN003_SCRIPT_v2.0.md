@@ -1,16 +1,19 @@
 # DUN003 v2 SCRIPT: Dune Messiah: The Fall of the Man Who Became a God
 
-Status: **DRAFT, awaiting approval**. This is a storytelling cut built on the Hook Bible (`15_hooks/DUNE_ARCHIVES_HOOK_BIBLE.md`).
+Status: **APPROVED** (turn 39), updated turn 41 with the Mythic Archives branding and the subscribe / like / comment calls to action.
+
+A storytelling cut built on the Hook Bible (`15_hooks/DUNE_ARCHIVES_HOOK_BIBLE.md`). Narrator: voice-14. A Mythic Archives production (@TheRealMythicArchives).
 
 **Changes from v1:**
 - Rewrote the cold open as a story-first hook, using archetype 1 ("The God Who Can See His Doom") combined with archetype 6 ("The Gift").
 - Removed every cinema, release and "book vs film" reference, along with the archive card and author commentary.
 - Told the story as in-universe history, in present tense, with a re-hook at every chapter seam.
 - No disclaimer or label is burned into the video.
+- Turn 41: "The Mythic Archives presents" title kicker and channel ident; a subscribe pitch (CA) after chapter II with an animated subscribe button and bell; an outro (CB) asking for comments, likes and subscriptions, over the end card. VIII now reads "Hayt turns on the emperor."
 
-Every shot cuts on the word it illustrates (**[cut → still]**), and every graphic appears on its word (**{GFX}**). Generated from `data/dun003_v2.py`.
+Every shot cuts on the word it illustrates (**[cut → still]**), and every graphic appears on its word (**{GFX}**). Generated from `data/dun003_v2.py` by `tools/v2_script_md.py`.
 
-## HOOK: Hook  (106 words, ≈45 s)
+## H: Hook  (106 words, ≈45 s)
 
 > He can see the future.
   [cut on "He can" → Paul Emperor Portrait]
@@ -48,7 +51,9 @@ Every shot cuts on the word it illustrates (**[cut → still]**), and every grap
 > This is the story of Dune Messiah. The fall of the man who became a god.
   [cut on "This is" → Citadel Exterior Dawn] [cut on "The fall" → Cracked Statue] {TITLE: DUNE MESSIAH}
 
-## Chapter I: The God on the Throne  (168 words, ≈72 s)
+*Channel ident: THE MYTHIC ARCHIVES · WESTEROS • ARRAKIS • MIDDLE-EARTH · A MYTHIC ARCHIVES PRODUCTION · RECORD 003*
+
+## Chapter I: The God on the Throne  (168 words, ≈71 s)
 
 > Twelve years after his victory, Paul Atreides rules the known universe from a citadel of stone on the desert planet Arrakis.
   [cut on "Twelve years" → Desert To Citadel] [cut on "Paul Atreides" → Paul Emperor Portrait] [cut on "from a citadel" → Citadel Exterior Dawn] {YEAR: c. 10,208 A.G.} {NAME: PAUL ATREIDES} {PLACE: ARRAKEEN}
@@ -66,7 +71,7 @@ Every shot cuts on the word it illustrates (**[cut → still]**), and every grap
   [cut on "His power" → Spice Threat] {NOTE: MELANGE · THE SPICE}
 
 > The Spacing Guild cannot fold space without it. The great houses cannot live without it. And Paul has shown that he can destroy it.
-  [cut on "The Spacing" → animated map A]
+  [cut on "The Spacing" → Map A: The Oldest Lever]
 
 > To seal his victory, he married the Princess Irulan, daughter of the emperor he overthrew.
   [cut on "To seal" → Wedding Irulan] [cut on "the Princess" → Irulan Portrait] [cut on "daughter of" → Shaddam Defeated] {NAME: PRINCESS IRULAN}
@@ -92,7 +97,7 @@ Every shot cuts on the word it illustrates (**[cut → still]**), and every grap
 ## Chapter II: Sixty-One Billion  (157 words, ≈67 s)
 
 > The jihad swept out from Arrakis on Guild ships, and for twelve years, the Fremen legions marched.
-  [cut on "The jihad" → animated map B] [cut on "the Fremen legions" → Fremen Legion March]
+  [cut on "The jihad" → Map B: The Jihad]
 
 > One night, Paul does the arithmetic of his own reign.
   [cut on "One night" → Paul Ledger]
@@ -133,13 +138,21 @@ Every shot cuts on the word it illustrates (**[cut → still]**), and every grap
 > Every path he can see leads somewhere terrible. And on the narrowest of them, someone is already waiting.
   [cut on "Every path" → Narrow Path Canyon] [cut on "And on the" → Shadow Watchers]
 
+## CA: Subscribe  (32 words, ≈14 s)
+
+> Before we step into that room.
+  [cut on "Before we" → Conspirators Table]
+
+> If you love the hidden histories of Arrakis, Westeros and Middle-earth, subscribe to the Mythic Archives, and tap the bell, so you never miss a record.
+  [cut on "If you love" → Archive Vault] {SUB: animated subscribe button + bell}
+
 ## Chapter III: Four Powers in the Dark  (201 words, ≈86 s)
 
 > On Wallach Nine, the cold home world of the Bene Gesserit, four enemies of Muad'Dib meet in secret.
-  [cut on "On Wallach" → Wallach Ix Exterior] [cut on "four enemies" → animated map C] {PLACE: WALLACH IX}
+  [cut on "On Wallach" → Map C: Wallach IX]
 
 > The first is the Bene Gesserit, an ancient sisterhood that has spent generations breeding human bloodlines, searching for a messiah they could control.
-  [cut on "The first" → Bg Sisters Circle] [cut on "breeding" → Breeding Records]
+  [cut on "The first" → Wallach Ix Exterior] [cut on "an ancient" → Bg Sisters Circle] [cut on "breeding" → Breeding Records]
 
 > Their envoy is the Reverend Mother Gaius Helen Mohiam.
   [cut on "Their envoy" → Mohiam Portrait] {NAME: GAIUS HELEN MOHIAM}
@@ -171,7 +184,7 @@ Every shot cuts on the word it illustrates (**[cut → still]**), and every grap
 > So they will not attack the emperor. They will break the man.
   [cut on "So they" → Cracked Statue]
 
-## Chapter IV: The Gift  (168 words, ≈72 s)
+## Chapter IV: The Gift  (168 words, ≈71 s)
 
 > The conspirators come to Arrakeen bearing a gift for the emperor.
   [cut on "The conspirators" → Edric Audience]
@@ -183,10 +196,10 @@ Every shot cuts on the word it illustrates (**[cut → still]**), and every grap
   [cut on "Duncan Idaho" → Duncan Swordmaster] [cut on "Killed years" → Duncan Last Stand] {NAME: DUNCAN IDAHO}
 
 > The Tleilaxu have grown a new body from his dead cells in their vats. A ghola.
-  [cut on "The Tleilaxu" → Axlotl Vats] {NOTE: GHOLA}
+  [cut on "The Tleilaxu" → Axlotl Vats] {FILE: SUBJECT: HAYT}
 
 > They call him Hayt.
-  [cut on "They call" → Hayt Profile] {FILE: SUBJECT: HAYT}
+  [cut on "They call" → Hayt Profile]
 
 > He has no memory of his past life. His eyes are polished Tleilaxu metal. And he has been trained as a Mentat, a human mind that thinks like a computer.
   [cut on "He has no" → Hayt Profile] [cut on "His eyes" → Hayt Eyes] [cut on "And he has" → Hayt Mentat]
@@ -206,10 +219,10 @@ Every shot cuts on the word it illustrates (**[cut → still]**), and every grap
 > And remember this. If the Tleilaxu can bring back one dead man, they can bring back another.
   [cut on "And remember" → Tleilaxu Watcher] [cut on "they can bring" → Hourglass Sand]
 
-## Chapter V: The Night of the Stone Burner  (135 words, ≈58 s)
+## Chapter V: The Night of the Stone Burner  (135 words, ≈57 s)
 
 > Even among the Fremen, there are traitors. Old naibs and priests have joined the plot.
-  [cut on "Even among" → Fremen Naibs Secret]
+  [cut on "Even among" → Fremen Naibs Secret] [cut on "Old naibs" → Korba Priest]
 
 > One evening, a young Fremen woman arrives at the citadel.
   [cut on "One evening" → Lichna Arrival]
@@ -256,7 +269,7 @@ Every shot cuts on the word it illustrates (**[cut → still]**), and every grap
   [cut on "And then" → Throne Room Shaft]
 
 > The blind emperor walks into his court, finds every face, and answers every question, as if nothing has happened.
-  [cut on "The blind emperor" → Paul Walks Court]
+  [cut on "The blind emperor" → Paul Walks Court] [cut on "finds every face" → Paul Walks Court]
 
 > He is seeing through his visions, moving through a future he has already memorized.
   [cut on "He is seeing" → Vision Overlay Room]
@@ -293,13 +306,13 @@ Every shot cuts on the word it illustrates (**[cut → still]**), and every grap
 > Paul's grief is total. And in that moment, his vision breaks. In every vision, he had seen only a daughter. He had never seen his son.
   [cut on "Paul's grief" → Paul Grief] [cut on "his vision breaks" → Cracking Crystal] [cut on "He had never" → Leto Infant Eyes]
 
-## Chapter VIII: The Tleilaxu Bargain  (95 words, ≈41 s)
+## Chapter VIII: The Tleilaxu Bargain  (92 words, ≈39 s)
 
 > Now the hidden command awakens.
   [cut on "Now the" → Hidden Conditioning]
 
-> Hayt draws a blade to kill the emperor. But the conflict inside him is too great. The ghola's mind breaks open, and Duncan Idaho remembers who he is.
-  [cut on "Hayt draws" → Hayt Triggered] [cut on "The ghola's" → Duncan Awakens]
+> Hayt turns on the emperor. But the conflict inside him is too great. The ghola's mind breaks open, and Duncan Idaho remembers who he is.
+  [cut on "Hayt turns" → Hayt Triggered] [cut on "The ghola's" → Duncan Awakens]
 
 > Then Scytale makes his offer.
   [cut on "Then Scytale" → Scytale Morph]
@@ -322,7 +335,7 @@ Every shot cuts on the word it illustrates (**[cut → still]**), and every grap
 ## Chapter IX: Into the Desert  (86 words, ≈37 s)
 
 > Now truly blind, with no vision left to guide him, Paul chooses the way of the Fremen.
-  [cut on "Now truly" → Paul Leaves Sietch]
+  [cut on "Now truly" → Paul Leaves Sietch] [cut on "with no vision" → Cracking Crystal] [cut on "Paul chooses" → Paul Leaves Sietch]
 
 > He walks out into the deep desert, alone.
   [cut on "He walks" → Lone Figure Dunes]
@@ -369,7 +382,18 @@ Every shot cuts on the word it illustrates (**[cut → still]**), and every grap
   [cut on "And a boy" → Leto Boy Tease] [cut on "a path no one" → Sandtrout Hand] [cut on "A golden" → Golden Path Tease] [cut on "three and a half" → Timeline Strata]
 
 > That is the next record in the archive.
-  [cut on "That is the next" → Archive Door Closing] {END: CHILDREN OF DUNE}
+  [cut on "That is the next" → Archive Door Closing] {END: like · comment · subscribe · next: CHILDREN OF DUNE}
+
+## CB: Outro  (42 words, ≈18 s)
+
+> So, was Paul Atreides a hero, or the greatest tyrant in history?
+  [cut on "So, was" → End Card Dunes]
+
+> Tell us what you think in the comments.
+
+> If this story stayed with you, give the video a like, and subscribe to the Mythic Archives.
+
+> The archive is always open.
 
 
-**Total: 1409 words, about 10:05 of narration. With the hook ident, chapter cards and end card, the runtime is about 11 min.**
+**Total: 1480 words. Programme runtime 11:16.53 (181 shots, 42 graphics), from the voice-14 timeline.**

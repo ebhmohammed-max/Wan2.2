@@ -170,3 +170,12 @@
 - **Monetisation-safe music:** the incompetech catalogue (`pieces.json`) has feel, instrument, BPM and length metadata for picking tracks without listening. FreePD's old category URLs return 404. Scott Buckley is CC BY too, but he registers Content ID, so expect claims that then have to be cleared.
 - **Speed:** per-frame PIL warping plus numpy grain ran at about 1.5 fps at 1080p. OpenCV warpAffine with the grain/vignette done in ffmpeg reaches about 18 fps per job.
 - **Size:** the ffmpeg temporal grain (noise c0s=6) pushes CRF 20 to about 20 Mbps (1.8 GB for 12 min), which is fine for a YouTube upload master. Review copies need hqdn3d plus about 860 kbps to stay under the 100 MB connector limit.
+
+## DUN003 turns 33–41 (2026-11-23): v2 storytelling cut
+- **Narrator search:** eight voices were rejected before voice-14 (the user wants "the most human" sound). Audition with real script lines, and try a different gender early instead of iterating within one.
+- **TTS moderation** blocks explicit lines such as "Hayt draws a blade to kill the emperor" every time. "Hayt turns on the emperor" passes. Long multi-chapter clips also trip it, so record one chapter per clip.
+- **Word-exact edit:** whisper (on CI, Python 3.11; PyAV breaks on 3.14) gives word timestamps. difflib matching of script words to whisper words, with glueing for split names (Muad 'Dib), gave a 100% match. Cuts land 0.06 s before the anchor word. `tools/v2_timeline.py` builds the timeline, SRT, chapters and re-timed music EDL in under 2 s, so script tweaks are cheap.
+- **Graphics as code:** `tools/gfx_v2.py` draws every graphic kind with PIL on the global timeline (so graphics run across cuts). Material Symbols subset to 7 icons (about 2.5 KB per font, via fontTools instancer + subsetter) gives crisp YouTube-style like / bell / comment icons with no image assets.
+- **Brand CTAs that work in-story:** the subscribe pitch sits at a chapter seam ("Before we step into that room…") after the first big payoff (II), not in the hook. The outro asks one debate question first ("hero or tyrant?"), then like, then subscribe, each popping on its word.
+- **Encoding:** `-tune grain`, light temporal noise (c0s=3), preset medium, CRF 19 gives about 4 Mbps at 1080p for these stills. That is about 1/5 of the v1 size, with no visible loss.
+- `.cache/` was not git-ignored in the project and nearly got committed. It is now in the project `.gitignore`.
