@@ -2,7 +2,7 @@
   "episode": "DUN001",
   "batch": "BATCH012",
   "max_batch_size": 10,
-  "status": "GENERATED_QC_PASS_1_FIX",
+  "status": "GENERATED_QC_PASS",
   "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
   "palette": "Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome.",
   "images": [
@@ -144,8 +144,8 @@
       "refs": [
         "anchors/DUN001_BATCH001_SCENE005_REF_ERASMUS.jpg"
       ],
-      "qc": "FIX",
-      "notes": "turn 57: Erasmus head reads as helmet with dark visor, off-anchor; redo with face visible, smooth mirror oval. jpg kept as placeholder"
+      "qc": "PASS",
+      "notes": "turn 58: redo - smooth mirror oval face reflecting red sky, no visor; QC pass"
     },
     {
       "scene_id": "DUN001_SCENE120",
