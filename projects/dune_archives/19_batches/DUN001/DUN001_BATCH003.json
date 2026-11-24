@@ -2,7 +2,7 @@
  "episode": "DUN001",
  "batch": "BATCH003",
  "max_batch_size": 10,
- "status": "PLANNED",
+ "status": "GENERATED_9_OF_10",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome.",
  "images": [
@@ -19,7 +19,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. angular silver-grey combat robots with mirrored sensor faces. ranks of robots marching unopposed through a city square while citizens kneel, banners falling. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 47; 1672x941 png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE022",
@@ -32,7 +33,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a sterile surgical theatre, robotic arms lowering a glowing transparent brain canister, the patient hidden under sheets, clinical blue light, no gore. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 47; 1672x941 png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE023",
@@ -45,7 +47,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a transparent cylinder of glowing blue fluid containing a living human brain, fine electrodes, reflections. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 47; 1672x941 png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE024",
@@ -59,8 +62,11 @@
    "motion_recipe": "TILT_UP",
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a towering cymek war machine: a transparent canister of glowing blue fluid holding a living human brain, mounted in the armoured core of a massive multi-legged walking machine of black and bronze steel. the first cymek rising from a cradle of scaffolding in a vast hangar, sparks, tiny technicians below. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
+   "refs": [
+    "stills_jpg/DUN001_BATCH001_SCENE004_CYMEK_WAR.jpg"
+   ],
+   "qc": "PASS",
+   "notes": "generated turn 47; 1672x941 png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE025",
@@ -75,7 +81,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Xerxes, a small stooped nobleman with a narrow sallow face and heavy jewelled robes, lounging. in a decadent palace of silk and gold, robot servants and glowing consoles all around him. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 47; 1672x941 png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE026",
@@ -88,7 +95,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a single machine eye of silver light blinking open inside a dark tangle of cables, the first spark of a mind. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "RETRY",
+   "notes": "generation error turn 47; retry next turn"
   },
   {
    "scene_id": "DUN001_SCENE027",
@@ -101,7 +109,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a field of planets in deep space linked by threads of silver light spreading outward like frost. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: high overhead view. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 47; 1672x941 png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE028",
@@ -115,8 +124,11 @@
    "motion_recipe": "PULL_OUT",
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a towering cymek war machine: a transparent canister of glowing blue fluid holding a living human brain, mounted in the armoured core of a massive multi-legged walking machine of black and bronze steel. several cymek machines standing motionless before a towering wall of silver watcheyes, diminished, cold light. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-   "refs": [],
-   "qc": "PENDING"
+   "refs": [
+    "stills_jpg/DUN001_BATCH001_SCENE004_CYMEK_WAR.jpg"
+   ],
+   "qc": "PASS",
+   "notes": "generated turn 47; 1672x941 png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE029",
@@ -129,7 +141,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a colossal monument of a cymek machine carved from dark stone on a machine world, human slaves hauling blocks below. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 47; 1672x941 png -> 1920x1080 jpg"
   },
   {
    "scene_id": "DUN001_SCENE030",
@@ -142,7 +155,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a machine world city of black geometric towers and silver light, no vegetation, cold perfect order. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
    "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "notes": "generated turn 47; 1672x941 png -> 1920x1080 jpg"
   }
  ]
 }
