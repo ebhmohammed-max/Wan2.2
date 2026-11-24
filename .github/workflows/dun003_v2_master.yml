@@ -58,4 +58,4 @@ jobs:
           git config user.name "dun003-ci"; git config user.email "dun003-ci@users.noreply.github.com"
           git add -A projects/dune_archives/22_edit/DUN003/v2
           git commit -m "ci: DUN003 v2 master render + Drive upload log" || exit 0
-          for i in 1 2 3; do git pull --rebase -q origin arena/e01ea136-wan2-2 && git push origin HEAD:arena/e01ea136-wan2-2 && break; sleep 5; done
+          ok=0; for i in 1 2 3; do git pull --rebase --autostash -q origin arena/e01ea136-wan2-2 && git push origin HEAD:arena/e01ea136-wan2-2 && { ok=1; break; }; sleep 5; done; test $ok = 1
