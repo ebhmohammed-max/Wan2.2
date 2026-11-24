@@ -7,7 +7,9 @@ Output: {"<clip stem>": [[word, start_s, end_s, prob], ...], ...}
 Script-to-transcript matching happens later (tools/v2_timeline.py), so transcription errors on
 proper nouns only cost that one word's anchor, never the whole alignment.
 """
-import glob, json, os, sys, time
+import glob, json, os, subprocess, sys, time
+import numpy as np
+import imageio_ffmpeg
 from faster_whisper import WhisperModel
 
 PROMPT = ("Muad'Dib, Paul Atreides, Arrakis, Arrakeen, Fremen, Irulan, Chani, Qizarate, Korba, Fedaykin, "
@@ -20,7 +22,10 @@ model = WhisperModel(os.environ.get('WHISPER_MODEL', 'small.en'), device='cpu', 
 res = {}
 for f in sorted(glob.glob(os.path.join(src, '*.mp3'))):
     t0 = time.time()
-    segs, _ = model.transcribe(f, language='en', word_timestamps=True, beam_size=5, initial_prompt=PROMPT,
+    pcm = subprocess.run([imageio_ffmpeg.get_ffmpeg_exe(), '-v', 'error', '-i', f, '-ac', '1', '-ar', '16000', '-f', 'f32le', '-'],
+                         capture_output=True, check=True).stdout
+    audio = np.frombuffer(pcm, np.float32).copy()
+    segs, _ = model.transcribe(audio, language='en', word_timestamps=True, beam_size=5, initial_prompt=PROMPT,
                                vad_filter=False, condition_on_previous_text=True)
     words = [[w.word.strip(), round(w.start, 3), round(w.end, 3), round(w.probability, 3)]
              for s in segs for w in s.words]
