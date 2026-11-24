@@ -1,15 +1,13 @@
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-Traceback (most recent call last):
-  File "/home/runner/work/Wan2.2/Wan2.2/projects/dune_archives/tools/ci_align.py", line 23, in <module>
-    segs, _ = model.transcribe(f, language='en', word_timestamps=True, beam_size=5, initial_prompt=PROMPT,
-              ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-                               vad_filter=False, condition_on_previous_text=True)
-                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/.local/lib/python3.14/site-packages/faster_whisper/transcribe.py", line 876, in transcribe
-    audio = decode_audio(audio, sampling_rate=sampling_rate)
-  File "/home/runner/.local/lib/python3.14/site-packages/faster_whisper/audio.py", line 46, in decode_audio
-    with av.open(input_file, mode="r", metadata_errors="ignore") as container:
-         ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "av/container/core.py", line 479, in av.container.core.open
-    def open(
-TypeError: open() got an unexpected keyword argument 'metadata_errors'
+CTA_A.mp3 34 words 2.6 s
+CTA_B.mp3 42 words 2.8 s
+H_I.mp3 276 words 19.5 s
+II.mp3 158 words 11.0 s
+III.mp3 203 words 13.3 s
+IV.mp3 168 words 11.9 s
+IX.mp3 86 words 6.5 s
+V.mp3 136 words 10.3 s
+VI.mp3 99 words 7.0 s
+VII.mp3 92 words 6.8 s
+VIII.mp3 92 words 6.7 s
+X.mp3 105 words 6.7 s
