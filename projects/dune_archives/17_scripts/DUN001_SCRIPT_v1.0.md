@@ -1,6 +1,6 @@
 # DUN001 SCRIPT v1.0: The Butlerian Jihad: The War Against the Thinking Machines
 
-Status: **DRAFT, awaiting approval** (2026-11-24)
+Status: **APPROVED** (user, turn 45, 2026-11-23: "go on"). Record number RECORD 001 accepted.
 
 **Format:** DUN003 v2 storytelling format (approved turn 33/41). Story-first hook, in-universe history only, no author/film/meta commentary, no burned-in labels. Mythic Archives ident after the title drop, subscribe pitch at the first chapter seam, comment / like / subscribe outro over the end card. Same music approach (Kevin MacLeod, CC BY 4.0).
 

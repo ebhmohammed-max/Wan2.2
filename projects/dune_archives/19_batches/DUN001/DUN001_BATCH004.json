@@ -1,0 +1,152 @@
+{
+ "episode": "DUN001",
+ "batch": "BATCH004",
+ "max_batch_size": 10,
+ "status": "PLANNED",
+ "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
+ "palette": "Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome.",
+ "images": [
+  {
+   "scene_id": "DUN001_SCENE031",
+   "key": "B004S031",
+   "file": "DUN001_BATCH004_SCENE031_LEAGUE_WORLDS.png",
+   "chapter": "II",
+   "shot_type": "OH",
+   "cast": [],
+   "motion_recipe": "PULL_OUT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a scatter of warm blue-green planets at the dark edge of a galaxy, a few faint ships between them. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: high overhead view. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "DUN001_SCENE032",
+   "key": "B004S032",
+   "file": "DUN001_BATCH004_SCENE032_ZIMIA_SALUSA.png",
+   "chapter": "II",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PAN_RL",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the city of Zimia on Salusa Secundus, terraced white stone government buildings, green hills, warm sun, human crowds. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "DUN001_SCENE033",
+   "key": "B004S033",
+   "file": "DUN001_BATCH004_SCENE033_LEAGUE_PARLIAMENT_EXT.png",
+   "chapter": "II",
+   "shot_type": "EST",
+   "cast": [],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a grand modern parliament building of white stone and glass on a hill, banners in deep blue, citizens on the steps. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "DUN001_SCENE034",
+   "key": "B004S034",
+   "file": "DUN001_BATCH004_SCENE034_SERENA_XAVIER_GARDEN.png",
+   "chapter": "II",
+   "shot_type": "MS",
+   "cast": [
+    "SERENA",
+    "XAVIER"
+   ],
+   "motion_recipe": "DRIFT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Serena Butler, a woman in her early twenties, oval face, high cheekbones, long amber-brown hair, striking grey-violet eyes, fierce and intelligent expression, Xavier Harkonnen, a man in his early twenties, close-cropped dark brown hair, square jaw, serious grey eyes, League officer uniform of slate grey with silver piping. the couple walking close together through a sunlit garden, her hand on his arm, tender. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "DUN001_SCENE035",
+   "key": "B004S035",
+   "file": "DUN001_BATCH004_SCENE035_SERENA_PREGNANT.png",
+   "chapter": "II",
+   "shot_type": "MS",
+   "cast": [
+    "SERENA"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Serena Butler, a woman in her early twenties, oval face, high cheekbones, long amber-brown hair, striking grey-violet eyes, fierce and intelligent expression. standing at a window, one hand resting on her slightly rounded belly, determined gaze toward the sky. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "DUN001_SCENE036",
+   "key": "B004S036",
+   "file": "DUN001_BATCH004_SCENE036_GIEDI_PRIME_FALLS.png",
+   "chapter": "II",
+   "shot_type": "EW",
+   "cast": [
+    "ROBOTS"
+   ],
+   "motion_recipe": "PULL_OUT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. angular silver-grey combat robots with mirrored sensor faces. an industrial human world under attack, robot dropships descending through orange smog, refineries burning. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "DUN001_SCENE037",
+   "key": "B004S037",
+   "file": "DUN001_BATCH004_SCENE037_SERENA_MISSION.png",
+   "chapter": "II",
+   "shot_type": "MS",
+   "cast": [
+    "SERENA"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Serena Butler, a woman in her early twenties, oval face, high cheekbones, long amber-brown hair, striking grey-violet eyes, fierce and intelligent expression. in a dark flight suit at the head of a small band of volunteers boarding a ship at night, resolute. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "DUN001_SCENE038",
+   "key": "B004S038",
+   "file": "DUN001_BATCH004_SCENE038_SERENA_CAPTURED.png",
+   "chapter": "II",
+   "shot_type": "MS",
+   "cast": [
+    "SERENA",
+    "ROBOTS"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Serena Butler, a woman in her early twenties, oval face, high cheekbones, long amber-brown hair, striking grey-violet eyes, fierce and intelligent expression, angular silver-grey combat robots with mirrored sensor faces. kneeling in smoking rubble, surrounded by robots, her face streaked with ash, defiant. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "DUN001_SCENE039",
+   "key": "B004S039",
+   "file": "DUN001_BATCH004_SCENE039_EARTH_MACHINE_WORLD.png",
+   "chapter": "II",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PULL_OUT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. old Earth under machine rule, blue oceans but cities replaced by black geometric machine structures, from low orbit. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "DUN001_SCENE040",
+   "key": "B004S040",
+   "file": "DUN001_BATCH004_SCENE040_ERASMUS_VILLA.png",
+   "chapter": "II",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PAN_LR",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a vast luxurious villa on Earth, terraced gardens, fountains and greenhouses, human slaves tending it, a high balcony on the main house. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  }
+ ]
+}

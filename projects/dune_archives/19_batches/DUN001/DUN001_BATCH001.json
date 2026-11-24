@@ -1,0 +1,170 @@
+{
+ "episode": "DUN001",
+ "batch": "BATCH001",
+ "max_batch_size": 10,
+ "status": "GENERATED_QC_PASS",
+ "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
+ "palette": "Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome.",
+ "images": [
+  {
+   "scene_id": "DUN001_SCENE001",
+   "key": "B001S001",
+   "file": "DUN001_BATCH001_SCENE001_BALCONY_ERASMUS_INFANT.png",
+   "chapter": "H",
+   "shot_type": "MS",
+   "cast": [
+    "ERASMUS",
+    "BABY"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Erasmus, a tall elegant humanoid robot with a smooth oval face of liquid mirror-like flowmetal and no features except a faint rippling expression, platinum-silver body, wearing ornate deep crimson and gold brocade robes, a swaddled infant a few months old wrapped in a plain cream blanket. seen from behind, the robot stands at a stone balustrade high above a lush walled garden, cradling the infant, a pale white sky beyond, eerie stillness. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
+  },
+  {
+   "scene_id": "DUN001_SCENE002",
+   "key": "B001S002",
+   "file": "DUN001_BATCH001_SCENE002_SERENA_ANGUISH.png",
+   "chapter": "H",
+   "shot_type": "CU",
+   "cast": [
+    "SERENA"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Serena Butler, a woman in her early twenties, oval face, high cheekbones, long amber-brown hair, striking grey-violet eyes, fierce and intelligent expression. her face contorted in anguish and fury, reaching forward, silver robot hands gripping her shoulders from behind, tears, plain grey slave shift, villa interior behind. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
+  },
+  {
+   "scene_id": "DUN001_SCENE003",
+   "key": "B001S003",
+   "file": "DUN001_BATCH001_SCENE003_OMNIUS_CORE.png",
+   "chapter": "H",
+   "shot_type": "EW",
+   "cast": [
+    "OMNIUS"
+   ],
+   "motion_recipe": "PULL_OUT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the evermind Omnius, shown as a vast glowing core of liquid silver light deep inside a machine city, surrounded by thousands of floating silver sphere-shaped watcheyes. a cathedral-scale machine chamber without arches or columns, tiny human slaves on a walkway for scale. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
+  },
+  {
+   "scene_id": "DUN001_SCENE004",
+   "key": "B001S004",
+   "file": "DUN001_BATCH001_SCENE004_CYMEK_WAR.png",
+   "chapter": "H",
+   "shot_type": "EW",
+   "cast": [
+    "CYMEK"
+   ],
+   "motion_recipe": "TILT_UP",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a towering cymek war machine: a transparent canister of glowing blue fluid holding a living human brain, mounted in the armoured core of a massive multi-legged walking machine of black and bronze steel. striding through a burning human city at night, low angle, embers and smoke, fleeing people tiny at its feet. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
+  },
+  {
+   "scene_id": "DUN001_SCENE005",
+   "key": "B001S005",
+   "file": "DUN001_BATCH001_SCENE005_REF_ERASMUS.png",
+   "chapter": "II",
+   "shot_type": "CU",
+   "cast": [
+    "ERASMUS"
+   ],
+   "motion_recipe": "DRIFT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Erasmus, a tall elegant humanoid robot with a smooth oval face of liquid mirror-like flowmetal and no features except a faint rippling expression, platinum-silver body, wearing ornate deep crimson and gold brocade robes. portrait in a luxurious villa interior with paintings and sculptures, cold window light, the flowmetal face reflecting the room, unsettling curiosity. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
+  },
+  {
+   "scene_id": "DUN001_SCENE006",
+   "key": "B001S006",
+   "file": "DUN001_BATCH001_SCENE006_REF_SERENA.png",
+   "chapter": "II",
+   "shot_type": "CU",
+   "cast": [
+    "SERENA"
+   ],
+   "motion_recipe": "DRIFT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Serena Butler, a woman in her early twenties, oval face, high cheekbones, long amber-brown hair, striking grey-violet eyes, fierce and intelligent expression. portrait on Salusa Secundus, elegant deep blue and white League noble dress, soft daylight, hopeful defiance. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
+  },
+  {
+   "scene_id": "DUN001_SCENE007",
+   "key": "B001S007",
+   "file": "DUN001_BATCH001_SCENE007_REF_VORIAN.png",
+   "chapter": "III",
+   "shot_type": "CU",
+   "cast": [
+    "VORIAN",
+    "VORIAN_TRUSTEE"
+   ],
+   "motion_recipe": "DRIFT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Vorian Atreides, a lean man who looks about thirty, black hair, sharp aquiline features, watchful dark grey eyes, black machine-trustee uniform with fine silver trim. portrait aboard a sleek starship bridge, cold instrument light, conflicted expression. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
+  },
+  {
+   "scene_id": "DUN001_SCENE008",
+   "key": "B001S008",
+   "file": "DUN001_BATCH001_SCENE008_REF_XAVIER.png",
+   "chapter": "II",
+   "shot_type": "CU",
+   "cast": [
+    "XAVIER"
+   ],
+   "motion_recipe": "DRIFT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Xavier Harkonnen, a man in his early twenties, close-cropped dark brown hair, square jaw, serious grey eyes, League officer uniform of slate grey with silver piping. portrait on a military landing field at dawn, wind, smoke in the distance, steadfast expression. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
+  },
+  {
+   "scene_id": "DUN001_SCENE009",
+   "key": "B001S009",
+   "file": "DUN001_BATCH001_SCENE009_REF_IBLIS.png",
+   "chapter": "III",
+   "shot_type": "CU",
+   "cast": [
+    "IBLIS"
+   ],
+   "motion_recipe": "DRIFT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Iblis Ginjo, a broad-shouldered charismatic man in his thirties, thick black hair, dark persuasive eyes, coarse grey overseer's tunic. portrait in a dim slave work yard, torchlight on his face, a knowing half-smile, calculating eyes. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
+  },
+  {
+   "scene_id": "DUN001_SCENE010",
+   "key": "B001S010",
+   "file": "DUN001_BATCH001_SCENE010_EARTH_ATOMIC_ORBIT.png",
+   "chapter": "H",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PULL_OUT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. planet Earth seen from orbit as multiple white atomic flashes bloom across its night side, a fleet of dark angular warships silhouetted in the foreground. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PASS",
+   "notes": "generated turn 46; 1672x941 png -> 1920x1080 jpg"
+  }
+ ]
+}

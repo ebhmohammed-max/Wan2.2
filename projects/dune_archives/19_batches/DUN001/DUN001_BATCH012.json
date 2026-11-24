@@ -1,0 +1,153 @@
+{
+ "episode": "DUN001",
+ "batch": "BATCH012",
+ "max_batch_size": 10,
+ "status": "PLANNED",
+ "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
+ "palette": "Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome.",
+ "images": [
+  {
+   "scene_id": "DUN001_SCENE111",
+   "key": "B012S111",
+   "file": "DUN001_BATCH012_SCENE111_CORRIN_SURVIVES.png",
+   "chapter": "VIII",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PULL_OUT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the machine world Corrin alone and intact under its red sun, a ring of human warships surrounding it at a distance. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "DUN001_SCENE112",
+   "key": "B012S112",
+   "file": "DUN001_BATCH012_SCENE112_BLOCKADE.png",
+   "chapter": "VIII",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PAN_LR",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a long line of human picket ships holding position in the dark, years of vigil, frost on hulls. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "DUN001_SCENE113",
+   "key": "B012S113",
+   "file": "DUN001_BATCH012_SCENE113_VENGEANCE_FLEET.png",
+   "chapter": "IX",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a vast human fleet advancing on Corrin, the red giant sun behind the planet. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "DUN001_SCENE114",
+   "key": "B012S114",
+   "file": "DUN001_BATCH012_SCENE114_VORIAN_OLDER.png",
+   "chapter": "IX",
+   "shot_type": "CU",
+   "cast": [
+    "VORIAN",
+    "VORIAN_CMDR"
+   ],
+   "motion_recipe": "DRIFT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Vorian Atreides, a lean man who looks about thirty, black hair, sharp aquiline features, watchful dark grey eyes, dark green and black Jihad commander's coat. on a warship bridge, a few grey hairs, harder and colder than before, red sunlight. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "DUN001_SCENE115",
+   "key": "B012S115",
+   "file": "DUN001_BATCH012_SCENE115_CYMEK_FALLEN.png",
+   "chapter": "IX",
+   "shot_type": "EST",
+   "cast": [
+    "CYMEK"
+   ],
+   "motion_recipe": "HOLD",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a towering cymek war machine: a transparent canister of glowing blue fluid holding a living human brain, mounted in the armoured core of a massive multi-legged walking machine of black and bronze steel. a wrecked cymek lying in ice and smoke, its brain canister dark and cracked, a lone figure walking away. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "DUN001_SCENE116",
+   "key": "B012S116",
+   "file": "DUN001_BATCH012_SCENE116_ABULURD_PORTRAIT.png",
+   "chapter": "IX",
+   "shot_type": "CU",
+   "cast": [
+    "ABULURD"
+   ],
+   "motion_recipe": "DRIFT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Abulurd Harkonnen, a man in his early thirties, sandy-blond hair, earnest pale blue eyes, dark green officer uniform with silver trim. on a warship bridge, earnest and troubled, red light. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "DUN001_SCENE117",
+   "key": "B012S117",
+   "file": "DUN001_BATCH012_SCENE117_BRIDGE_PODS.png",
+   "chapter": "IX",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PULL_OUT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. an enormous ring of thousands of small cargo pods strung in orbit around Corrin, glinting in red light. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "DUN001_SCENE118",
+   "key": "B012S118",
+   "file": "DUN001_BATCH012_SCENE118_POD_CAPTIVES.png",
+   "chapter": "IX",
+   "shot_type": "MS",
+   "cast": [],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. inside a cramped cargo pod, frightened human captives pressed together, a small window showing the fleet. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "DUN001_SCENE119",
+   "key": "B012S119",
+   "file": "DUN001_BATCH012_SCENE119_ERASMUS_CORRIN.png",
+   "chapter": "IX",
+   "shot_type": "MS",
+   "cast": [
+    "ERASMUS"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Erasmus, a tall elegant humanoid robot with a smooth oval face of liquid mirror-like flowmetal and no features except a faint rippling expression, platinum-silver body, wearing ornate deep crimson and gold brocade robes. watching the approaching fleet on screens in a dark machine tower, red light on his flowmetal face. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "DUN001_SCENE120",
+   "key": "B012S120",
+   "file": "DUN001_BATCH012_SCENE120_ORDER_ARGUMENT.png",
+   "chapter": "IX",
+   "shot_type": "MS",
+   "cast": [
+    "VORIAN",
+    "VORIAN_CMDR",
+    "ABULURD"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Vorian Atreides, a lean man who looks about thirty, black hair, sharp aquiline features, watchful dark grey eyes, dark green and black Jihad commander's coat, Abulurd Harkonnen, a man in his early thirties, sandy-blond hair, earnest pale blue eyes, dark green officer uniform with silver trim. confronting each other on the warship bridge, Abulurd pleading, Vorian unmoved. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
+   "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
+   "refs": [],
+   "qc": "PENDING"
+  }
+ ]
+}
