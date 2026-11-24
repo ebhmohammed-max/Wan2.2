@@ -2,7 +2,7 @@
   "episode": "DUN001",
   "batch": "BATCH010",
   "max_batch_size": 10,
-  "status": "GENERATED_QC_PASS_1_FIX",
+  "status": "GENERATED_QC_PASS",
   "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
   "palette": "Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome.",
   "images": [
@@ -122,11 +122,11 @@
       "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Xavier Harkonnen in his late fifties, grey temples, lined square face, serious grey eyes, slate-grey Jihad general's uniform with silver piping, Iblis Ginjo as Grand Patriarch, heavier and older, thick black hair greying, heavy crimson-and-black robes with a chain of office. in a small ship cabin, Xavier at the controls, Iblis behind him realising, a bright star filling the window. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
       "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
       "refs": [
-        "anchors/DUN001_BATCH001_SCENE008_REF_XAVIER.jpg",
+        "stills_jpg/DUN001_BATCH010_SCENE097_XAVIER_DISCOVERS.jpg",
         "stills_jpg/DUN001_BATCH008_SCENE071_IBLIS_PATRIARCH.jpg"
       ],
-      "qc": "FIX",
-      "notes": "turn 55: Iblis OK but Xavier reads ~40, not late fifties (mismatch vs S097); redo with S097 as Xavier ref. jpg kept as placeholder"
+      "qc": "PASS",
+      "notes": "turn 56: redo with S097 as Xavier ref - aged correctly; QC pass"
     },
     {
       "scene_id": "DUN001_SCENE099",

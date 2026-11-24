@@ -2,7 +2,7 @@
   "episode": "DUN001",
   "batch": "BATCH011",
   "max_batch_size": 10,
-  "status": "GENERATED_5_OF_10",
+  "status": "GENERATED_QC_PASS",
   "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
   "palette": "Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome.",
   "images": [
@@ -94,7 +94,8 @@
       "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. an immense fleet of black angular machine ships moving through space in perfect formation. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
       "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
       "refs": [],
-      "qc": "PENDING"
+      "qc": "PASS",
+      "notes": "generated turn 56; png -> 1920x1080 jpg"
     },
     {
       "scene_id": "DUN001_SCENE107",
@@ -109,8 +110,11 @@
       "motion_recipe": "PUSH_IN",
       "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Vorian Atreides, a lean man who looks about thirty, black hair, sharp aquiline features, watchful dark grey eyes, dark green and black Jihad commander's coat. leaning over a holographic star chart marked with dozens of targets, war council around him. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
       "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
-      "refs": [],
-      "qc": "PENDING"
+      "refs": [
+        "stills_jpg/DUN001_BATCH008_SCENE073_GENERALS.jpg"
+      ],
+      "qc": "PASS",
+      "notes": "generated turn 56; png -> 1920x1080 jpg"
     },
     {
       "scene_id": "DUN001_SCENE108",
@@ -123,7 +127,8 @@
       "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. dozens of human warships emerging from ripples of folded space above a machine world. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
       "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
       "refs": [],
-      "qc": "PENDING"
+      "qc": "PASS",
+      "notes": "generated turn 56; png -> 1920x1080 jpg"
     },
     {
       "scene_id": "DUN001_SCENE109",
@@ -136,7 +141,8 @@
       "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a machine world engulfed in chains of white atomic flashes, seen from orbit. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
       "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
       "refs": [],
-      "qc": "PENDING"
+      "qc": "PASS",
+      "notes": "generated turn 56; png -> 1920x1080 jpg"
     },
     {
       "scene_id": "DUN001_SCENE110",
@@ -149,7 +155,8 @@
       "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the surface of a burned machine world, molten black slag and twisted towers, glowing cracks. Butlerian Jihad era palette: cold steel, ash grey and ember orange; firelight against cold machine light; smoke and cracked chrome. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Original character design, not based on any real person. No text, letters, logos or symbols anywhere in the image.",
       "negative": "text, letters, words, watermark, logo, signature, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, cyberpunk, extra fingers, deformed hands, blurry face, gore, blood, classical columns, arches, Roman, Greek, Gothic, medieval architecture, Terminator, chrome skeleton robot, religious symbols, crosses",
       "refs": [],
-      "qc": "PENDING"
+      "qc": "PASS",
+      "notes": "generated turn 56; png -> 1920x1080 jpg"
     }
   ]
 }
