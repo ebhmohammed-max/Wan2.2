@@ -15,6 +15,13 @@ from faster_whisper import WhisperModel
 PROMPT = ("Muad'Dib, Paul Atreides, Arrakis, Arrakeen, Fremen, Irulan, Chani, Qizarate, Korba, Fedaykin, "
           "Wallach Nine, Bene Gesserit, Mohiam, Edric, Scytale, Bene Tleilax, Tleilaxu, Hayt, Mentat, ghola, "
           "Lichna, Otheym, Bijaz, Shai-Hulud, Sietch Tabr, Leto, Ghanima, Alia, crysknife, Mythic Archives.")
+PROMPTS = {  # proper-noun hints per episode (EP env var; default DUN003 = PROMPT above)
+    'DUN001': ("Butlerian Jihad, Omnius, Erasmus, Agamemnon, Xerxes, Titans, cymeks, Serena Butler, Manion, "
+               "Xavier Harkonnen, Iblis Ginjo, Vorian Atreides, Dream Voyager, Salusa Secundus, Giedi Prime, "
+               "Corrin, Tlulaxa, hrethgir, Hrethgir, Abulurd, Faykan, Corrino, Lankiveil, Mentats, Arrakis, "
+               "Golden Lion Throne, Mythic Archives."),
+}
+PROMPT = PROMPTS.get(os.environ.get('EP', 'DUN003').upper(), PROMPT)
 
 src, out = sys.argv[1], sys.argv[2]
 model = WhisperModel(os.environ.get('WHISPER_MODEL', 'small.en'), device='cpu', compute_type='int8',

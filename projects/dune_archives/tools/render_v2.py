@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""DUN003 v2 renderer: timeline + stills + maps + motion graphics -> master MP4.
+"""v2 renderer (any episode; EP env var, default DUN003): timeline + stills + maps + motion graphics -> master MP4.
 
   python tools/render_v2.py --audio MIX.m4a --out OUT.mp4 [--res 1920x1080] [--jobs 4] [--crf 19]
                             [--workdir /tmp/r2] [--abr 320k] [--range 0-60]
@@ -26,9 +26,9 @@ import imageio_ffmpeg  # noqa: E402
 FF = imageio_ffmpeg.get_ffmpeg_exe()
 FPS = 24
 OVER = 1.22
-TL = json.load(open(ROOT / '22_edit/DUN003/v2/DUN003_v2_timeline.json'))
-MAPS = {'MAP:A': 'DUN003_MAP_A_spice_lever.mp4', 'MAP:B': 'DUN003_MAP_B_jihad_spread.mp4',
-        'MAP:C': 'DUN003_MAP_C_wallach_ix.mp4'}
+E = G.E
+TL = json.load(open(E.TIMELINE))
+MAPS = E.MAPS
 S = {}  # per-process state
 
 
@@ -103,7 +103,7 @@ def finish(frame, tg):
 def frames_for(shot, n):
     W, H = S['W'], S['H']
     if shot['key'].startswith('MAP'):
-        p = subprocess.Popen([FF, '-v', 'error', '-i', str(ROOT / '19_batches/DUN003/maps' / MAPS[shot['key']]),
+        p = subprocess.Popen([FF, '-v', 'error', '-i', str(E.MAPDIR / MAPS[shot['key']]),
                               '-vf', f'scale={W}:{H}:flags=lanczos', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-'],
                              stdout=subprocess.PIPE)
         last = None
@@ -150,7 +150,7 @@ def still(t, outdir):
     j = round(t * FPS) - f0
     if shot['key'].startswith('MAP'):
         buf = subprocess.run([FF, '-v', 'error', '-ss', f'{j / FPS:.3f}', '-i',
-                              str(ROOT / '19_batches/DUN003/maps' / MAPS[shot['key']]), '-frames:v', '1', '-vf',
+                              str(E.MAPDIR / MAPS[shot['key']]), '-frames:v', '1', '-vf',
                               f'scale={W}:{H}', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-'], capture_output=True).stdout
         fr = np.frombuffer(buf, np.uint8).reshape(H, W, 3).copy() if len(buf) == W * H * 3 else np.zeros((H, W, 3), np.uint8)
     else:

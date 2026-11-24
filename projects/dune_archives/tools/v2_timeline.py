@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""DUN003 v2 timeline builder: word timestamps -> programme VO, shots, graphics, music EDL, SRT, chapters.
+"""v2 timeline builder (any episode; EP env var, default DUN003): word timestamps -> programme VO, shots, graphics, music EDL, SRT, chapters.
 
   python tools/v2_timeline.py [--wav OUT.wav]
 
@@ -21,15 +21,15 @@ import numpy as np
 import imageio_ffmpeg
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-sys.path.insert(0, str(ROOT / 'data'))
-import dun003_v2 as D  # noqa: E402
+sys.path.insert(0, str(ROOT / 'tools'))
+import episode as E  # noqa: E402  (EP env var selects the episode; default DUN003)
+D = E.D
 
 FF = imageio_ffmpeg.get_ffmpeg_exe()
 SR = 48000
-VO = ROOT / '20_voiceover/DUN003/v2'
-OUT = ROOT / '22_edit/DUN003/v2'
-CLIPS = [('H_I', ['H', 'I']), ('II', ['II']), ('CTA_A', ['CA']), ('III', ['III']), ('IV', ['IV']), ('V', ['V']),
-         ('VI', ['VI']), ('VII', ['VII']), ('VIII', ['VIII']), ('IX', ['IX']), ('X', ['X']), ('CTA_B', ['CB'])]
+VO = E.VO
+OUT = E.OUT
+CLIPS = E.CLIPS
 LEAD = 0.45          # music before the first word
 CH_GAP = 2.4         # silence before a chapter's first word (chapter card)
 CH_CARD = 3.3        # chapter card on screen
@@ -43,6 +43,7 @@ SPECIAL_PAUSE = {    # sentence ending -> pause after it (s)
     'light.': 1.7, 'paul survives.': 0.95, 'and chani dies.': 3.3, 'the man is gone.': 2.6,
     'scytale falls.': 0.9, 'twins.': 0.6, 'they will break the man.': 0.8, 'is already waiting.': 0.8,
 }
+SPECIAL_PAUSE = getattr(D, 'SPECIAL_PAUSE', SPECIAL_PAUSE)
 
 
 def norm(w):
@@ -130,12 +131,12 @@ def find_anchor(tokens, anchor):
 
 
 def build(wav_out=None):
-    words = json.load(open(VO / 'DUN003_v2_words.json'))
+    words = json.load(open(E.WORDS))
     secs = {s[0]: s for s in D.SECTIONS}
     report = []
     seg_audio = {}   # section id -> (np audio, [token dicts with local times])
     for clip, sids in CLIPS:
-        x = decode(VO / 'raw14' / f'{clip}.mp3')
+        x = decode(E.RAW / f'{clip}.mp3')
         toks = []  # (sid, line_idx, tok_idx, token)
         for sid in sids:
             for li, line in enumerate(secs[sid][3]):
@@ -309,49 +310,55 @@ def build(wav_out=None):
                 g['t0'] = round(b, 3)
     gfx = [g for g in gfx if g['t1'] - g['t0'] > 0.8]
 
-    # ---- music EDL v2 (v1 cues, levels and offsets; new times)
     S = sec_info
-    light = phrase_after('Light.', S['V']['start'])
-    chani = phrase_end('And Chani dies.')
-    gone = phrase_end('The man is gone.')
-    behind = phrase_after('Behind him', S['IX']['start'])
-    E1 = json.load(open(ROOT / '21_music/DUN003/DUN003_MUSIC_EDL.json'))
-    v1 = {c['cue']: c for c in E1['cues']}
+    if hasattr(D, 'music_edl'):   # episode-specific cue sheet
+        edl = D.music_edl(sec_info, total, ident, phrase_after, phrase_end)
+        E.EDL.parent.mkdir(parents=True, exist_ok=True)
+        E.EDL.write_text(json.dumps(edl, indent=1))
+    else:
+        # ---- music EDL v2 (v1 cues, levels and offsets; new times)
+        S = sec_info
+        light = phrase_after('Light.', S['V']['start'])
+        chani = phrase_end('And Chani dies.')
+        gone = phrase_end('The man is gone.')
+        behind = phrase_after('Behind him', S['IX']['start'])
+        E1 = json.load(open(ROOT / '21_music/DUN003/DUN003_MUSIC_EDL.json'))
+        v1 = {c['cue']: c for c in E1['cues']}
 
-    def cue(cid, name, start, end, src=None, **over):
-        c = dict(v1[src or cid])
-        c.update(cue=cid, name=name, start=round(start, 2), end=round(end, 2), **over)
-        return c
-    cues = [
-        cue('M1', 'Throne of Ash (hook)', 0.0, ident[0] + 1.2),
-        cue('M2', 'Ident', ident[0] - 1.2, S['I']['gap_start'] + 1.4),
-        cue('M3', 'The God on the Throne', S['I']['gap_start'] - 0.4, S['II']['gap_start'] + 0.6),
-        cue('M4', 'Arithmetic', S['II']['gap_start'] - 0.6, S['CA']['gap_start'] + 1.0),
-        cue('M2b', 'Subscribe (archive theme)', S['CA']['gap_start'] - 0.2, S['III']['gap_start'] + 0.8, src='M2',
-            fade_in=1.0, fade_out=2.0),
-        cue('M5', 'Four Powers', S['III']['gap_start'] - 0.4, S['IV']['gap_start'] + 0.6),
-        cue('M6', 'Ghola', S['IV']['gap_start'] - 0.4, S['V']['gap_start'] + 0.6),
-        cue('M7', 'Stone Burner (hard cut on "Light.")', S['V']['gap_start'] - 0.4, light),
-        cue('M8', 'Borrowed Sight', S['VI']['gap_start'] - 3.0, S['VII']['gap_start'] + 0.4),
-        cue('M9', 'Twins (grief)', chani + 3.0, S['IX']['gap_start'] + 0.8),
-        cue('M10', 'Shai-Hulud', S['IX']['gap_start'] - 0.2, gone + 4.0),
-        cue('M11', 'The empire goes on', behind - 0.9, S['X']['gap_start'] + 0.6, fade_in=1.2),
-        cue('M12', 'Beware of Heroes', S['X']['gap_start'] - 0.6, S['CB']['gap_start'] + 1.6),
-        cue('M12b', 'Outro (archive theme)', S['CB']['gap_start'] - 0.6, total, fade_in=2.0, fade_out=3.0),
-    ]
-    edl = dict(episode='DUN003', timeline=f'v2 storytelling cut, voice-14 VO, programme {total} s',
-               bed_lufs=E1['bed_lufs'], notes=E1['notes'] + '. v2: same tracks, offsets, gains and fades as v1, re-timed.',
-               cues=cues,
-               sfx=[dict(type='wind', start=0.0, end=21.0, level_db=-36, note='low wind in a vast hall (hook)'),
-                    dict(type='tinnitus', start=round(light, 2), end=round(light + 16.0, 2), level_db=-30,
-                         note='stone burner blindness, hard cut from M7'),
-                    dict(type='heartbeat', start=S['VII']['gap_start'], end=round(chani + 0.2, 2), level_db=-24,
-                         note="pulse up to 'And Chani dies.', then silence"),
-                    dict(type='wind', start=S['IX']['gap_start'], end=round(gone + 4.0, 2), level_db=-34,
-                         note='open desert wind under Shai-Hulud')],
-               silences=[f'{light:.1f} hard cut to tinnitus', f'{chani:.1f}-{chani + 3.0:.1f} after "And Chani dies."',
-                         f'{gone:.1f}-{gone + 4.0:.1f} final chord rings out on "The man is gone."'])
-    (ROOT / '21_music/DUN003/DUN003_MUSIC_EDL_v2.json').write_text(json.dumps(edl, indent=1))
+        def cue(cid, name, start, end, src=None, **over):
+            c = dict(v1[src or cid])
+            c.update(cue=cid, name=name, start=round(start, 2), end=round(end, 2), **over)
+            return c
+        cues = [
+            cue('M1', 'Throne of Ash (hook)', 0.0, ident[0] + 1.2),
+            cue('M2', 'Ident', ident[0] - 1.2, S['I']['gap_start'] + 1.4),
+            cue('M3', 'The God on the Throne', S['I']['gap_start'] - 0.4, S['II']['gap_start'] + 0.6),
+            cue('M4', 'Arithmetic', S['II']['gap_start'] - 0.6, S['CA']['gap_start'] + 1.0),
+            cue('M2b', 'Subscribe (archive theme)', S['CA']['gap_start'] - 0.2, S['III']['gap_start'] + 0.8, src='M2',
+                fade_in=1.0, fade_out=2.0),
+            cue('M5', 'Four Powers', S['III']['gap_start'] - 0.4, S['IV']['gap_start'] + 0.6),
+            cue('M6', 'Ghola', S['IV']['gap_start'] - 0.4, S['V']['gap_start'] + 0.6),
+            cue('M7', 'Stone Burner (hard cut on "Light.")', S['V']['gap_start'] - 0.4, light),
+            cue('M8', 'Borrowed Sight', S['VI']['gap_start'] - 3.0, S['VII']['gap_start'] + 0.4),
+            cue('M9', 'Twins (grief)', chani + 3.0, S['IX']['gap_start'] + 0.8),
+            cue('M10', 'Shai-Hulud', S['IX']['gap_start'] - 0.2, gone + 4.0),
+            cue('M11', 'The empire goes on', behind - 0.9, S['X']['gap_start'] + 0.6, fade_in=1.2),
+            cue('M12', 'Beware of Heroes', S['X']['gap_start'] - 0.6, S['CB']['gap_start'] + 1.6),
+            cue('M12b', 'Outro (archive theme)', S['CB']['gap_start'] - 0.6, total, fade_in=2.0, fade_out=3.0),
+        ]
+        edl = dict(episode='DUN003', timeline=f'v2 storytelling cut, voice-14 VO, programme {total} s',
+                   bed_lufs=E1['bed_lufs'], notes=E1['notes'] + '. v2: same tracks, offsets, gains and fades as v1, re-timed.',
+                   cues=cues,
+                   sfx=[dict(type='wind', start=0.0, end=21.0, level_db=-36, note='low wind in a vast hall (hook)'),
+                        dict(type='tinnitus', start=round(light, 2), end=round(light + 16.0, 2), level_db=-30,
+                             note='stone burner blindness, hard cut from M7'),
+                        dict(type='heartbeat', start=S['VII']['gap_start'], end=round(chani + 0.2, 2), level_db=-24,
+                             note="pulse up to 'And Chani dies.', then silence"),
+                        dict(type='wind', start=S['IX']['gap_start'], end=round(gone + 4.0, 2), level_db=-34,
+                             note='open desert wind under Shai-Hulud')],
+                   silences=[f'{light:.1f} hard cut to tinnitus', f'{chani:.1f}-{chani + 3.0:.1f} after "And Chani dies."',
+                             f'{gone:.1f}-{gone + 4.0:.1f} final chord rings out on "The man is gone."'])
+        E.EDL.write_text(json.dumps(edl, indent=1))
 
     # ---- SRT
     def ts(x):
@@ -376,19 +383,19 @@ def build(wav_out=None):
                     txt = ' '.join(words_[:k + 1]) + '\n' + ' '.join(words_[k + 1:]); break
         lines.append(f"{n}\n{ts(c[0]['s'])} --> {ts(c[-1]['e'] + 0.15)}\n{txt}\n")
     OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / 'DUN003_v2.srt').write_text('\n'.join(lines))
+    (OUT / f'{E.TAG}.srt').write_text('\n'.join(lines))
     # ---- chapters
     def mmss(x):
         return f'{int(x // 60)}:{int(x % 60):02d}'
-    ch = ['0:00 Prologue: He Can See the Future']
+    ch = [getattr(D, 'PROLOGUE', '0:00 Prologue: He Can See the Future')]
     for sid in order:
         if secs[sid][2]:
             ch.append(f"{mmss(S[sid]['gap_start'])} {secs[sid][2]}. {secs[sid][1]}")
-    (OUT / 'DUN003_v2_chapters.txt').write_text('\n'.join(ch) + '\n')
+    (OUT / f'{E.TAG}_chapters.txt').write_text('\n'.join(ch) + '\n')
 
-    tl = dict(episode='DUN003', version='v2', duration=total, fps=24, ident=ident, sections=sec_info,
+    tl = dict(episode=E.EP, version=getattr(D, 'VERSION', 'v2'), duration=total, fps=24, ident=ident, sections=sec_info,
               shots=shots, graphics=gfx, words=[[w['w'], w['s'], w['e']] for w in prog_words])
-    (OUT / 'DUN003_v2_timeline.json').write_text(json.dumps(tl, indent=0))
+    E.TIMELINE.write_text(json.dumps(tl, indent=0))
 
     if wav_out:
         N = int(round(total * SR))

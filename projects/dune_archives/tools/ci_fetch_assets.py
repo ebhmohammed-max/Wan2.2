@@ -7,8 +7,8 @@ Jobs (pick with argv):
            as JPG q90 (long edge <= 1920) in 19_batches/DUN003/stills_jpg/
   catalog  build compact catalogues of free, monetisation-safe music libraries
            (incompetech = Kevin MacLeod, CC BY 4.0; FreePD = CC0) into 21_music/catalog/
-  music    download the tracks listed in 21_music/DUN003/music_fetch_list.json into
-           21_music/DUN003/tracks/ (re-encoded to 192k stereo mp3), with a sha256 + source log
+  music    download the tracks listed in 21_music/<EP>/music_fetch_list.json into
+           21_music/<EP>/tracks/ (EP env var, default DUN003) (re-encoded to 192k stereo mp3), with a sha256 + source log
 """
 import hashlib, io, json, os, re, sys, time, urllib.parse, urllib.request
 
@@ -101,8 +101,9 @@ def catalog():
 
 def music():
     import subprocess
-    lst = json.load(open(os.path.join(ROOT, "21_music/DUN003/music_fetch_list.json")))
-    out = os.path.join(ROOT, "21_music/DUN003/tracks")
+    ep = os.environ.get("EP", "DUN003").upper()   # episode folder under 21_music/
+    lst = json.load(open(os.path.join(ROOT, f"21_music/{ep}/music_fetch_list.json")))
+    out = os.path.join(ROOT, f"21_music/{ep}/tracks")
     os.makedirs(out, exist_ok=True)
     log = []
     for e in lst:

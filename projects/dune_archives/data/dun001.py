@@ -59,7 +59,7 @@ SECTIONS = [
   ("They had their brains cut out, sealed inside canisters, and fitted into towering machine bodies.",
    [("They had", k(23), "PUSH_IN"), ("and fitted", k(24), "TILT_UP")], []),
   ("They became the first cymeks.", [],
-   [("They became", NOTE, {"head": "CYMEK", "body": "A human brain sealed in a canister, wired into a machine body. Immortal, and built for war."}, 5.0)]),
+   [("They became", NOTE, {"head": "CYMEK", "body": "A human brain sealed in a canister, wired into a machine body. Immortal, and built for war."}, 3.4)]),
   ("But one Titan, a pleasure-loving prince named Xerxes, gave his computers too much freedom.",
    [("But one", k(25), "DRIFT")], []),
   ("The network woke up.", [("The network", k(26), "PUSH_IN")], []),
@@ -309,3 +309,60 @@ MAPS = {'MAP:A': 'DUN001_MAP_A_synchronized_worlds.mp4',
 
 def narration(section):
     return " ".join(l[0] for l in section[3])
+
+
+PROLOGUE = '0:00 Prologue: The Balcony'
+
+# sentence ending -> minimum pause after it (s); beats the default documentary pause
+SPECIAL_PAUSE = {
+    'it is about to find out.': 0.95, 'machines of war.': 0.6, 'will be a lie.': 0.85,
+    'the child does not survive.': 2.6, 'has chosen his side.': 0.8, 'a dead, glowing rock.': 1.3,
+    'a terrible plan.': 0.9, 'the images are a lie.': 0.8, 'roars back to life.': 0.8,
+    'it is coming back.': 0.9, 'dies with the machines.': 0.8, 'machines is over.': 1.1,
+    'end in fire on arrakis.': 0.8, 'and a child.': 1.2,
+}
+
+
+def music_edl(S, total, ident, phrase_after, phrase_end):
+    """DUN001 cue sheet: Kevin MacLeod (incompetech, CC BY 4.0), same library and loudness approach as DUN003.
+    S = section info (gap_start/start/end/last_word_end per section id), times in programme seconds."""
+    child = phrase_end('The child does not survive.')
+    rock = phrase_end('a dead, glowing rock.')
+    over = phrase_end('The age of thinking machines is over.')
+
+    def cue(cid, name, track, start, end, offset, fade_in=1.5, fade_out=2.5, gain_db=0, **kw):
+        return dict(cue=cid, name=name, track=track, start=round(start, 2), end=round(end, 2), offset=offset,
+                    fade_in=fade_in, fade_out=fade_out, gain_db=gain_db, **kw)
+    cues = [
+        cue('M1', 'The Balcony (hook)', 'Phantasm', 0.0, ident[0] + 1.2, 14.0, fade_in=0.0, gain_db=-2, hp=110),
+        cue('M2', 'Archive (ident)', 'Deliberate_Thought', ident[0] - 1.2, S['I']['gap_start'] + 1.4, 30.0,
+            fade_in=1.2, gain_db=-1),
+        cue('M3', 'The Age of Machines', 'Crypto', S['I']['gap_start'] - 0.4, S['II']['gap_start'] + 0.6, 2.0, gain_db=-1),
+        cue('M4', 'The Last Free Humans', 'Dark_Times', S['II']['gap_start'] - 0.4, S['CA']['gap_start'] + 1.0, 3.0),
+        cue('M2b', 'Subscribe (archive theme)', 'Deliberate_Thought', S['CA']['gap_start'] - 0.2,
+            S['III']['gap_start'] + 0.8, 30.0, fade_in=1.0, fade_out=2.0, gain_db=-1),
+        cue('M5', 'The Child', 'Long_Note_Two', S['III']['gap_start'] - 0.4, child + 0.15, 34.0, fade_out=0.05),
+        cue('M5b', 'The Spark (revolt)', 'Interloper', child + 2.3, S['IV']['gap_start'] + 0.6, 66.0, fade_in=0.4, gain_db=1),
+        cue('M6', 'The Burning of Earth', 'Lightless_Dawn', S['IV']['gap_start'] - 0.4, S['V']['gap_start'] + 0.6, 0.0),
+        cue('M7', 'The Holy War', 'Wizardtorium', S['V']['gap_start'] - 0.4, S['VI']['gap_start'] + 0.6, 0.0),
+        cue('M8', 'The Martyr', 'Private_Reflection', S['VI']['gap_start'] - 0.4, S['VII']['gap_start'] + 0.6, 0.0,
+            fade_out=3.0),
+        cue('M9', "The Traitor's Name", 'Ossuary_6_Air', S['VII']['gap_start'] - 0.4, S['VIII']['gap_start'] + 0.6, 0.0),
+        cue('M10', 'The Great Purge', 'Lightless_Dawn', S['VIII']['gap_start'] - 0.4, S['IX']['gap_start'] + 0.6, 170.0),
+        cue('M11', 'The Bridge of Hrethgir', 'Night_Vigil', S['IX']['gap_start'] - 0.2, over + 2.5, 60.0, fade_out=3.5),
+        cue('M12', 'Thou Shalt Not', 'Unwritten_Return', over + 0.8, S['CB']['gap_start'] + 1.6, 12.0, fade_in=2.0,
+            fade_out=3.5, gain_db=-1),
+        cue('M12b', 'Outro (archive theme)', 'Deliberate_Thought', S['CB']['gap_start'] - 0.6, total, 30.0,
+            fade_in=2.0, fade_out=3.0, gain_db=-2),
+    ]
+    return dict(episode='DUN001', timeline=f'voice-14 VO, programme {total} s', bed_lufs=-23.0,
+                notes='start/end = programme seconds; offset = seconds into the source track; fade_in/fade_out in '
+                      'seconds; gain_db = trim after loudness normalisation; hp = high-pass Hz. Kevin MacLeod '
+                      '(incompetech.com), CC BY 4.0.',
+                cues=cues,
+                sfx=[dict(type='wind', start=0.0, end=20.0, level_db=-38, note='cold air on the balcony (hook)'),
+                     dict(type='heartbeat', start=S['III']['gap_start'], end=round(child + 0.2, 2), level_db=-24,
+                          note="pulse up to 'The child does not survive.', then silence"),
+                     dict(type='wind', start=round(rock - 1.0, 2), end=round(rock + 9.0, 2), level_db=-34,
+                          note='dead Earth')],
+                silences=[f'{child:.1f}-{child + 2.3:.1f} after "The child does not survive."'])

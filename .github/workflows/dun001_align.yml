@@ -1,0 +1,33 @@
+name: DUN001 VO word alignment
+# Trigger: bump projects/dune_archives/22_edit/DUN001/align_trigger.txt
+on:
+  push:
+    branches: [arena/e01ea136-wan2-2]
+    paths: ['projects/dune_archives/22_edit/DUN001/align_trigger.txt']
+permissions:
+  contents: write
+concurrency: {group: dun001-align, cancel-in-progress: false}
+jobs:
+  align:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    defaults:
+      run: {shell: 'bash -eo pipefail {0}'}
+    env: {EP: DUN001}
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: arena/e01ea136-wan2-2}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: pip install --quiet faster-whisper imageio-ffmpeg numpy
+      - name: align
+        run: |
+          cd projects/dune_archives
+          python tools/ci_align.py 20_voiceover/DUN001/raw 20_voiceover/DUN001/DUN001_words.json 2>&1 | tee 22_edit/DUN001/ci_align_log.txt
+      - name: commit
+        if: always()
+        run: |
+          git config user.name "dun001-ci"; git config user.email "dun001-ci@users.noreply.github.com"
+          git add -A projects/dune_archives/20_voiceover/DUN001 projects/dune_archives/22_edit/DUN001
+          git commit -m "ci: DUN001 word alignment" || exit 0
+          ok=0; for i in 1 2 3; do git pull --rebase --autostash -q origin arena/e01ea136-wan2-2 && git push origin HEAD:arena/e01ea136-wan2-2 && { ok=1; break; }; sleep 5; done; test $ok = 1

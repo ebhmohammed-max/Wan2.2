@@ -1,4 +1,4 @@
-"""Motion-graphics layer for DUN003 v2 (transparent, drawn with PIL in 1080p design units).
+"""Motion-graphics layer for the v2 pipeline (any episode; EP env var, default DUN003) (transparent, drawn with PIL in 1080p design units).
 
 layers(event, lt, k) -> list of (RGBA PIL image, x, y, opacity) for an event at local time lt (s).
 k = output height / 1080. Static parts are cached per event (event['_c']); only animated parts are
@@ -6,14 +6,16 @@ redrawn per frame. Kinds: NAME PLACE YEAR NOTE STAT CHAPTER TITLE IDENT DOSSIER 
 No disclaimers or labels are drawn here: the publisher adds those at upload.
 Fonts (templates/fonts, OFL/Apache): Cinzel, Montserrat, Cormorant Garamond Italic, Material Symbols subset.
 """
-import functools, glob, math, pathlib, textwrap
+import functools, glob, math, pathlib, sys, textwrap
 
 import numpy as np
 from PIL import Image, ImageChops, ImageDraw, ImageFilter, ImageFont
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 FD = ROOT / 'templates/fonts'
-STILLS = ROOT / '19_batches/DUN003/stills_jpg'
+sys.path.insert(0, str(ROOT / 'tools'))
+import episode as E  # noqa: E402
+STILLS = E.STILLS
 LOGO = ROOT / 'templates/brand/mythic_archives_logo.png'
 
 GOLD = (228, 192, 122)
@@ -136,7 +138,7 @@ def flat(W, H, a):
 
 def still_path(key):
     b, s = int(key[1:4]), int(key[5:8])
-    hits = glob.glob(str(STILLS / f'DUN003_BATCH{b:03d}_SCENE{s:03d}_*'))
+    hits = glob.glob(str(STILLS / f'{E.EP}_BATCH{b:03d}_SCENE{s:03d}_*'))
     return hits[0]
 
 
@@ -335,10 +337,14 @@ def _title(e, lt, k, W, H):
         c['sub'] = shadow(im, r=7 * k, op=0.95)
         c['bg'] = band(W, H, 545 * k, 260 * k, 150, k)
         c['tt'] = {}
+        # auto-fit: shrink the title until it fits 1720 px at the widest tracking (long titles, e.g. DUN001)
+        c['fs'] = 148
+        while c['fs'] > 60 and tw(p['title'], font('cinzel', c['fs'] * k, 900), 24 * k) > 1720 * k:
+            c['fs'] -= 4
     tr = (8 + 16 * ease(lt / dur)) * k
     key = round(tr * 3)
     if key not in c['tt']:
-        f = font('cinzel', 148 * k, 900)
+        f = font('cinzel', c['fs'] * k, 900)
         nw = int(tw(p['title'], f, tr) + 100 * k)
         im = Image.new('RGBA', (nw, int(200 * k)), (0, 0, 0, 0))
         d = ImageDraw.Draw(im)
