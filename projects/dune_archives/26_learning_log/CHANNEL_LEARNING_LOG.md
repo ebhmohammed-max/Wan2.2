@@ -188,3 +188,13 @@
 - **Image refs:** batch 1 holds the portrait anchors. Passing 1–2 anchors as `images` ("use the reference only for the face/design") keeps Serena, Xavier and the cymek consistent. Edited outputs come back at 1376×768, so normalise every still to 1920×1080 jpg.
 - **Graphics:** long titles need auto-fit (THE BUTLERIAN JIHAD clipped at 148 px Cinzel; fit gives 100 px). Check that name and note cards do not run into the next shot of a different subject, either by shortening `dur` or moving the cut.
 - **Maps:** `map_animator.py` gained a `machine` style, per-beat `color`, and a `flash` beat (atomic strike). Draw fading elements on the glow layer, not the base image, or they leave dark rings.
+
+## DUN001 turns 49–60 (2026-11-24): stills 41–150 and the master render
+- **Wardrobe drift follows the anchor.** A portrait anchor carries its costume, so Serena kept her blue noble dress in slave-era shots. For era changes, use the latest in-era still as the reference (S043 slave, S072 priestess, S086 older) and state the wardrobe with a NOT clause.
+- **Ageing a character:** pass the most recent aged still, not the young anchor. With the young anchor, S098 Xavier came out about 40 next to a late-fifties S097. Using S097 as the reference fixed it first time.
+- **Introduce a new character in wave 1, use them in wave 2.** Within one turn, generate the new portrait (S116 Abulurd) in the first parallel batch, then pass it as the reference for that character's shots in a second batch.
+- **Image moderation** blocks a mob + improvised weapons + destruction in one prompt ("slaves surging forward with tools and torches… robots toppling"). "Workers rising up together… robots stepping back" passes. "Dragging a man from his home" becomes "escort … toward a waiting vehicle".
+- **QC catches worth checking every batch:** 20th-century props in the far future (a 1950s sedan → say "wheel-less hover-transport, NOT a car"); hand gestures in close-ups (a "halt" became an OK sign → "palm flat, fingers together"); helmet/visor drift on Erasmus (→ "NO helmet, NO visor, smooth featureless oval").
+- **Baked-in letterbox:** some 1376×768 outputs have about 90 px black bars. Detect them by uniform black rows (mean < 4 and std < 3, so dark night skies are not cropped), crop, then refit to 1920×1080.
+- **Contact-sheet caching:** re-reading the same /tmp path returned the previous turn's image. Use a unique file name per QC sheet.
+- **Hard-coded copy in templates:** the end card still had DUN003's subline and question ("Record 004 · coming to the archive", "HERO — OR TYRANT?"). Copy on every graphic must come from the episode data. Always QC-render the end card before the master.
