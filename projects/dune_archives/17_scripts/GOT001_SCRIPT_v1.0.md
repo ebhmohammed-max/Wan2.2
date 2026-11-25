@@ -1,6 +1,7 @@
-# GOT001 SCRIPT v0.1: The Night King: Who Was He Really?
+# GOT001 SCRIPT v1.0: The Night King: Who Was He Really?
 
-Status: **DRAFT, awaiting director approval** (written 2026-11-24).
+Status: **APPROVED** (director, 2026-11-24: "go on"). Rev 1.0 includes fact-check fixes: Nightfort wording, Black Gate location, Coldhands' spells line (now his own words via Sam, plus Leaf's "They killed him long ago").
+**End card (director, 2026-11-24):** WATCH NEXT · **BEFORE THE FIRST MEN** · *The Ancient World of Westeros*.
 - Topic chosen by the director: "The Night King: Who Was He Really?" It replaces "The Others" draft, which is now `GOT_CANDIDATE_THE_OTHERS_v0.1.md`.
 
 **Canon:** books first, then GRRM's words, then articles; the show only where labelled (`worlds/westeros/WESTEROS_CANON_POLICY.md`).
@@ -14,7 +15,7 @@ Status: **DRAFT, awaiting director approval** (written 2026-11-24).
 
 **Defaults, changeable** (the director hasn't answered these yet):
 - Ident reads **WESTEROS · RECORD 001**.
-- End card "Watch next" points to **THE BUTLERIAN JIHAD**.
+- End card "Watch next": **BEFORE THE FIRST MEN: The Ancient World of Westeros** (director, 2026-11-24).
 
 **Visual rules:** `worlds/westeros/WESTEROS_BOOK_LOOKS.md`.
 - **The book Night's King** is a living man: a First Men warrior in the black of the Watch, with a cold, proud face and Stark-grey eyes. He's shown by firelight and shadow, never as a monster.
@@ -51,7 +52,7 @@ Status: **DRAFT, awaiting director approval** (written 2026-11-24).
 
 ## Prologue: The Castle of Ghosts
 
-> High on the Wall stands the largest castle the Night's Watch ever built, and the first to be abandoned. They call it the Nightfort.
+> On the Wall stands the oldest castle of the Night's Watch, and the largest. They call it the Nightfort.
 > Its towers are broken. Its halls are full of rats and dust. For two hundred years, no brother has lived there.
 
 > When young Bran Stark shelters inside its walls, he remembers the stories his old nurse told him about this place.
@@ -115,7 +116,7 @@ Status: **DRAFT, awaiting director approval** (written 2026-11-24).
 
 ## Chapter V: The Black Gate
 
-> The Nightfort still has one secret. Deep below its kitchens, at the bottom of an old well, there is a door.
+> The Nightfort still has one secret. In its kitchens there is an old well, and at the bottom of the well, there is a door.
 > The Watch calls it the Black Gate. But it isn't black at all. It is pale white weirwood, glowing like milk and moonlight, and it has a face.
 
 > When Bran's party reaches it, the face opens its eyes. "Who are you?" it asks.
@@ -129,7 +130,7 @@ Status: **DRAFT, awaiting director approval** (written 2026-11-24).
 > Then, in 2014, the show gave the name to someone new.
 > In the fourth season, a White Walker rides through the snow carrying a baby to an altar of ice. A crown of icy horns rises from his head. He touches the child's cheek, and its eyes turn blue. HBO's official guide briefly named him the Night's King, then quietly removed the name.
 
-> The show's version became its great villain. At Hardhome, he lifts his arms and the slaughtered rise to join him. Beyond the Wall, he brings down one of Daenerys's dragons and raises it as his own.
+> The show's version became its great villain. At Hardhome, he lifts his arms and the dead rise to join him. Beyond the Wall, he brings down one of Daenerys's dragons and raises it as his own.
 
 > In the sixth season, the show reveals his origin. Long ago, the children of the forest bound a man of the First Men to a weirwood tree and drove a blade of dragonglass into his heart. He became the first White Walker.
 
@@ -143,7 +144,7 @@ Status: **DRAFT, awaiting director approval** (written 2026-11-24).
 
 > In other words, the Night's King of the books is a legend, like the trickster who stole Casterly Rock and the builder of the Wall. He may never even have existed.
 
-> Notice the name. Martin writes Night's King, with an S, as a title. The show dropped it, and made it a name.
+> Notice the name, too. Martin prefers Night's King, with an S, like a title. The show dropped the S.
 > And the books have no Night King at all. No one in the novels knows who leads the Others, or whether anyone does. No one knows where they came from. The children of the forest creating them is the show's idea, not Martin's.
 
 ## Chapter VIII: The Ranger with Cold Hands
@@ -151,14 +152,15 @@ Status: **DRAFT, awaiting director approval** (written 2026-11-24).
 > But Martin's books are full of legends that turn out to be real.
 > In the last published novel, a strange rider guides Bran north. He wears the black of the Night's Watch, rides a great elk, and hides his face behind a scarf. His hands are black, and cold as iron.
 
-> The children of the forest say the old spells woven into the Wall stop him from crossing it, because he is dead.
-> And beyond the Wall, the wildlings have been searching for something. "We opened half a hundred graves," the wildling girl Ygritte cries, "and never found the Horn of Joramun." The horn of the very king who brought down the Night's King.
+> He cannot cross the Wall. "There are spells woven into it," he says, "old ones, and strong." The children of the forest put it more simply: "They killed him long ago."
 > Readers call him Coldhands. Some believe he is a forgotten brother of the Watch. A few wonder if he is something older.
 
-> Martin has not said. *The Winds of Winter*, the book that should bring the Long Night, is still unpublished, fifteen years after the last.
+> And beyond the Wall, the wildlings have been searching for something. "We opened half a hundred graves," the wildling girl Ygritte cries, "and never found the Horn of Joramun." The horn of the very king who brought down the Night's King.
+
+> Martin has explained none of it. The Winds of Winter, the book that should bring the Long Night, is still unpublished, fifteen years after the last.
 > So for now, the Night's King remains what Old Nan made him. A man by day. A legend by night. And a Stark, perhaps, whose name was Brandon.
 
-*{END: like · comment · subscribe · watch next}*
+*{END: WATCH NEXT · BEFORE THE FIRST MEN · The Ancient World of Westeros · "TRAITOR — OR PROPHET?" · like · comment · subscribe}*
 
 ## CB: Outro
 
@@ -171,7 +173,7 @@ Status: **DRAFT, awaiting director approval** (written 2026-11-24).
 
 | Claim | Tier / source |
 |---|---|
-| Nightfort: largest castle on the Wall, first abandoned, about 200 years empty | `[B:ASOS Bran IV]` ◻ |
+| Nightfort: oldest and largest castle on the Wall; "We left the Nightfort two hundred years ago" (Benjen) | `[B:ASOS Bran IV]` ✅ |
 | "It was here that Night's King had reigned, before his name was wiped from the memory of man"; Rat Cook ("prince-and-bacon pie"); seventy-nine sentinels sealed in the ice, facing north | `[B:ASOS Bran IV]` ✅ quoted |
 | Long Night lasted a generation; Wall about 700 ft; Watch vows "take no wife, hold no lands, father no children" | `[B:AGOT Bran IV]`, `[B:AGOT Jon VI]` ◻ |
 | Thirteenth Lord Commander; "warrior who knew no fear… for all men must know fear" | `[B:ASOS Bran IV]` ✅ |
@@ -179,7 +181,7 @@ Status: **DRAFT, awaiting director approval** (written 2026-11-24).
 | The Others have milk-pale skin and burning blue eyes, so the queen resembles them (an inference, worded as such in the VO) | `[B:AGOT Prologue]` ✅ |
 | "The Stark of Winterfell and Joramun of the wildlings had joined to free the Watch from bondage"; "sacrificing to the Others"; records destroyed, name forbidden | `[B:ASOS Bran IV]` ✅ |
 | "King of Winter" as the Stark title in that era | `[B:ASOS]`/`[W]` ◻ (the source names "the Stark of Winterfell"; "King of Winter" is the period title) |
-| Joramun blew the Horn of Winter and woke giants from the earth (wildling legend) | `[B:ASOS Jon]` (Ygritte/Mance) ◻ |
+| Joramun "blew the Horn of Winter and woke giants from the earth" | `[B:ASOS Jon III]` ✅ quoted |
 | About 8,000 years ago (the Wall is about 8,000 years old; the 13th Lord Commander came soon after) | `[B]`, `[W]` ◻ |
 | Old Nan's list (Bolton, Magnar of Skagos, Umber, Flint, Norrey, Woodfoot of Bear Island), "He was a Stark… Mayhaps his name was Brandon", the nose pinch, "only a man by light of day… night was his to rule" | `[B:ASOS Bran IV]` ✅ quoted |
 | Black Gate: under the Nightfort, at the bottom of a well; white weirwood "like milk and moonlight", with a face; "Who are you?"; Sam's oath; "Then pass"; the mouth opens | `[B:ASOS Bran IV]` ✅ quoted (location "below the kitchens" ◻) |
@@ -193,7 +195,8 @@ Status: **DRAFT, awaiting director approval** (written 2026-11-24).
 | Ygritte: "We opened half a hundred graves… and never found the Horn of Joramun" | `[B:ASOS Jon]` ✅ quoted (r/asoiaf citation; chapter ◻) |
 | Oathkeeper: the touch turns the baby's eyes blue | `[S]` ✅ |
 | No leader of the Others in the books; their origin unknown in the books | `[B]` ✅ (by absence; consistent with the prior-research sources) |
-| Coldhands: black of the Watch, great elk, face hidden by a scarf, hands black and cold; can't pass the Wall's wards because he is dead | `[B:ADWD Bran I–II]` ◻ (cold hands ✅ in prior research; the wards line ◻) |
+| Coldhands: black of the Watch, great elk, face hidden by a scarf, hands black and cold | `[B:ADWD Bran I]` ◻ |
+| "The Wall is more than just ice and stone… There are spells woven into it… old ones, and strong. He cannot pass beyond the Wall." (Sam relaying Coldhands); Leaf: "They killed him long ago." | `[B:ASOS Bran IV]`, `[B:ADWD Bran II]` ✅ quoted |
 | *The Winds of Winter* unpublished as of Nov 2026, 15 years after ADWD (2011) | IBTimes 1 Nov 2026 ✅ |
 
 **Show-only list (for the director):**
