@@ -93,7 +93,7 @@ SECTIONS = [
 
  ("CA", "Subscribe", None, [
   ("Before we find out who brought him down, and what they found when they did: if you want Westeros the way Martin wrote it, subscribe to the Mythic Archives.",
-   [("Before we", k(51), "PAN_LR")], [("if you want", "SUB", {"click_at": "subscribe"}, 0)]),
+   [("Before we", k(51), "PAN_LR"), ("if you want", k(146), "PULL_OUT")], [("if you want", "SUB", {"click_at": "subscribe"}, 0)]),
  ]),
 
  ("III", "Two Kings Against One", "III", [
@@ -188,7 +188,7 @@ SECTIONS = [
 
  ("VII", "Martin's Answer", "VII", [
   ("When fans asked Martin whether the show's Night King and the book's Night's King were the same person, he gave a careful answer.",
-   [("When fans", k(112), "PUSH_IN")], []),
+   [("When fans", k(112), "PUSH_IN"), ("were the same", k(15), "PUSH_IN")], []),
   ("\"As for the Night's King, the form I prefer, in the books he is a legendary figure, akin to Lann the Clever and Brandon the Builder, and no more likely to have survived to the present day than they have.\"",
    [("\"As for", k(113), "PAN_LR"), ("akin to", k(114), "PUSH_IN"), ("and Brandon", k(30), "PAN_RL"), ("and no more", k(115), "DRIFT")],
    [("\"As for", NOTE, {"head": "GEORGE R. R. MARTIN",

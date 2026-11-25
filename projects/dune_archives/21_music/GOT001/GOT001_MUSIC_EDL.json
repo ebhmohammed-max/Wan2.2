@@ -1,0 +1,162 @@
+{
+ "episode": "GOT001",
+ "timeline": "voice-14 VO, programme 635.852 s",
+ "bed_lufs": -23.0,
+ "notes": "start/end = programme seconds; offset = seconds into the source track. Kevin MacLeod (incompetech.com), CC BY 4.0.",
+ "cues": [
+  {
+   "cue": "M1",
+   "name": "King of the Dead (hook)",
+   "track": "Phantasm",
+   "start": 0.0,
+   "end": 44.17,
+   "offset": 14.0,
+   "fade_in": 0.0,
+   "fade_out": 2.5,
+   "gain_db": -2,
+   "hp": 110
+  },
+  {
+   "cue": "M2",
+   "name": "Archive (ident)",
+   "track": "Deliberate_Thought",
+   "start": 41.77,
+   "end": 49.57,
+   "offset": 30.0,
+   "fade_in": 1.2,
+   "fade_out": 2.5,
+   "gain_db": -1
+  },
+  {
+   "cue": "M3",
+   "name": "Castle of Ghosts",
+   "track": "Ossuary_6_Air",
+   "start": 47.17,
+   "end": 95.18,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M4",
+   "name": "The Thirteenth Lord Commander",
+   "track": "Lightless_Dawn",
+   "start": 94.18,
+   "end": 152.41,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M5",
+   "name": "The Corpse Queen",
+   "track": "Long_Note_Two",
+   "start": 151.41,
+   "end": 212.64,
+   "offset": 34.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M2b",
+   "name": "Subscribe (archive theme)",
+   "track": "Deliberate_Thought",
+   "start": 211.44,
+   "end": 223.51,
+   "offset": 30.0,
+   "fade_in": 1.0,
+   "fade_out": 2.0,
+   "gain_db": -1
+  },
+  {
+   "cue": "M6",
+   "name": "Two Kings Against One",
+   "track": "Dark_Times",
+   "start": 222.31,
+   "end": 278.37,
+   "offset": 3.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M7",
+   "name": "A Stark of Winterfell",
+   "track": "Private_Reflection",
+   "start": 277.37,
+   "end": 346.58,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M8",
+   "name": "The Black Gate",
+   "track": "Night_Vigil",
+   "start": 345.58,
+   "end": 406.83,
+   "offset": 60.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M9",
+   "name": "The King of the Dead",
+   "track": "Crypto",
+   "start": 405.83,
+   "end": 470.14,
+   "offset": 2.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": -1
+  },
+  {
+   "cue": "M10",
+   "name": "Martin's Answer",
+   "track": "Lightless_Dawn",
+   "start": 469.14,
+   "end": 528.46,
+   "offset": 170.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M11",
+   "name": "The Ranger with Cold Hands",
+   "track": "Unwritten_Return",
+   "start": 527.46,
+   "end": 610.38,
+   "offset": 12.0,
+   "fade_in": 1.5,
+   "fade_out": 3.5,
+   "gain_db": -1
+  },
+  {
+   "cue": "M12",
+   "name": "Outro (archive theme)",
+   "track": "Deliberate_Thought",
+   "start": 608.18,
+   "end": 635.85,
+   "offset": 30.0,
+   "fade_in": 2.0,
+   "fade_out": 3.0,
+   "gain_db": -2
+  }
+ ],
+ "sfx": [
+  {
+   "type": "wind",
+   "start": 0.0,
+   "end": 20.0,
+   "level_db": -38,
+   "note": "cold wind under the hook"
+  }
+ ],
+ "silences": []
+}
