@@ -1,0 +1,163 @@
+{
+ "episode": "GOT001",
+ "batch": "BATCH007",
+ "max_batch_size": 10,
+ "status": "PLANNED",
+ "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
+ "palette": "Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice.",
+ "images": [
+  {
+   "scene_id": "GOT001_SCENE061",
+   "key": "B007S061",
+   "file": "GOT001_BATCH007_SCENE061_RELIEF_CHISELLED.png",
+   "chapter": "III",
+   "shot_type": "INS",
+   "cast": [],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a mason's hammer and chisel scraping away a carved stone relief of a cloaked warrior on a castle wall, stone chips flying. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE062",
+   "key": "B007S062",
+   "file": "GOT001_BATCH007_SCENE062_NIGHTFORT_RUIN_TODAY.png",
+   "chapter": "III",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PULL_OUT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the Nightfort today, a vast silent ruin at the foot of the Wall under heavy grey skies, eight thousand years of snow. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [
+    "B001S009"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE063",
+   "key": "B007S063",
+   "file": "GOT001_BATCH007_SCENE063_OLD_NAN_CU.png",
+   "chapter": "IV",
+   "shot_type": "CU",
+   "cast": [
+    "OLD_NAN"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Old Nan, an extremely old woman, tiny and bent, deeply wrinkled face, pale filmy eyes, a few wisps of white hair under a plain linen cap, grey wool shawl, knitting needles in her hands, close-up by firelight, her filmy eyes glinting with mischief, needles paused. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [
+    "B001S003"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE064",
+   "key": "B007S064",
+   "file": "GOT001_BATCH007_SCENE064_YOUNG_BRAN_BED.png",
+   "chapter": "IV",
+   "shot_type": "MS",
+   "cast": [
+    "YOUNG_BRAN"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Bran Stark aged seven, thick auburn hair, blue eyes, small and eager, tucked under heavy furs in a small stone bedchamber of Winterfell, listening wide-eyed to a story, candlelight. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE065",
+   "key": "B007S065",
+   "file": "GOT001_BATCH007_SCENE065_BANNERS_HALL.png",
+   "chapter": "IV",
+   "shot_type": "EST",
+   "cast": [],
+   "motion_recipe": "PAN_LR",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the great hall of Winterfell hung with many banners of northern houses: a grey direwolf on white, a black bull, a giant breaking chains, a bear, a stag-like moose, no lettering. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE066",
+   "key": "B007S066",
+   "file": "GOT001_BATCH007_SCENE066_SKAGOS.png",
+   "chapter": "IV",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PAN_RL",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a wild dark mountainous island rising from a grey stormy northern sea, sea mist, no buildings. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE067",
+   "key": "B007S067",
+   "file": "GOT001_BATCH007_SCENE067_BEAR_ISLAND.png",
+   "chapter": "IV",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PAN_LR",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a forested rocky island in a cold grey sea, a black bear on the pebble shore, pines. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE068",
+   "key": "B007S068",
+   "file": "GOT001_BATCH007_SCENE068_NAN_LEANS_IN.png",
+   "chapter": "IV",
+   "shot_type": "CU",
+   "cast": [
+    "OLD_NAN"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Old Nan, an extremely old woman, tiny and bent, deeply wrinkled face, pale filmy eyes, a few wisps of white hair under a plain linen cap, grey wool shawl, knitting needles in her hands, leaning in close, voice lowered, firelight from below making her face mysterious, a knowing smile. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [
+    "B001S003"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE069",
+   "key": "B007S069",
+   "file": "GOT001_BATCH007_SCENE069_TWO_BROTHERS.png",
+   "chapter": "IV",
+   "shot_type": "MS",
+   "cast": [
+    "KING_OF_WINTER",
+    "NIGHTS_KING"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the Stark King of Winter in the Age of Heroes, a tall stern man with a long solemn face, dark hair, grey eyes and a short dark beard, a grey direwolf pelt over his shoulders, bronze scale and furs, wearing an open circlet of bronze surmounted by nine black iron spikes shaped like longswords; the Night's King, thirteenth Lord Commander of the Night's Watch, a First Men warrior of about thirty-five, long solemn northern face, dark brown hair to the shoulders, short dark beard, grey eyes, proud and utterly fearless expression, all in black: roughspun wool, black boiled leather, heavy black fur cloak, a bronze-hilted bronze longsword, two brothers of the bronze age face to face in falling snow, one crowned and wolf-pelted, the other in the black of the Watch, the same long face, grief and defiance. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [
+    "B001S008",
+    "B001S001"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE070",
+   "key": "B007S070",
+   "file": "GOT001_BATCH007_SCENE070_NAN_PINCHES_NOSE.png",
+   "chapter": "IV",
+   "shot_type": "MS",
+   "cast": [
+    "OLD_NAN",
+    "YOUNG_BRAN"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Old Nan, an extremely old woman, tiny and bent, deeply wrinkled face, pale filmy eyes, a few wisps of white hair under a plain linen cap, grey wool shawl, knitting needles in her hands; Bran Stark aged seven, thick auburn hair, blue eyes, small and eager, the old woman playfully pinching the little boy's nose by the fire, he giggles, warm and tender. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [
+    "B001S003"
+   ],
+   "qc": "PENDING"
+  }
+ ]
+}

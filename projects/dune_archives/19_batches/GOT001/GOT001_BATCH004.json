@@ -1,0 +1,167 @@
+{
+ "episode": "GOT001",
+ "batch": "BATCH004",
+ "max_batch_size": 10,
+ "status": "PLANNED",
+ "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
+ "palette": "Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice.",
+ "images": [
+  {
+   "scene_id": "GOT001_SCENE031",
+   "key": "B004S031",
+   "file": "GOT001_BATCH004_SCENE031_CHILDREN_WEIRWOODS.png",
+   "chapter": "I",
+   "shot_type": "MS",
+   "cast": [
+    "CHILD_FOREST"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a child of the forest: a small slender being the size of a child, dark brown skin dappled with paler spots like a fawn, large ears, huge golden eyes with slit pupils like a cat, hands with three fingers and a thumb and small black claws, clothing of bark and leaves, three children of the forest standing among bone-white weirwood trees with red leaves, solemn, watching, dappled light. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE032",
+   "key": "B004S032",
+   "file": "GOT001_BATCH004_SCENE032_FIRST_OATH.png",
+   "chapter": "I",
+   "shot_type": "EST",
+   "cast": [],
+   "motion_recipe": "PULL_OUT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. at grey dawn a group of bronze-age men in plain black furs kneeling before a grove of white weirwoods with carved faces, taking a solemn vow, breath fog. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE033",
+   "key": "B004S033",
+   "file": "GOT001_BATCH004_SCENE033_BROTHERS_PATROL.png",
+   "chapter": "I",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PAN_LR",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a line of black-cloaked brothers of the Night's Watch walking along the top of the Wall of ice in wind and snow, the haunted forest dark far below to the north. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE034",
+   "key": "B004S034",
+   "file": "GOT001_BATCH004_SCENE034_NK_LORD_COMMANDER.png",
+   "chapter": "I",
+   "shot_type": "MS",
+   "cast": [
+    "NIGHTS_KING"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the Night's King, thirteenth Lord Commander of the Night's Watch, a First Men warrior of about thirty-five, long solemn northern face, dark brown hair to the shoulders, short dark beard, grey eyes, proud and utterly fearless expression, all in black: roughspun wool, black boiled leather, heavy black fur cloak, a bronze-hilted bronze longsword, standing before rows of brothers in black in the snowy courtyard of the Nightfort, newly chosen leader, proud, bronze sword at his hip, torches. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [
+    "B001S001"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE035",
+   "key": "B004S035",
+   "file": "GOT001_BATCH004_SCENE035_NK_EYES.png",
+   "chapter": "I",
+   "shot_type": "INS",
+   "cast": [
+    "NIGHTS_KING"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the Night's King, thirteenth Lord Commander of the Night's Watch, a First Men warrior of about thirty-five, long solemn northern face, dark brown hair to the shoulders, short dark beard, grey eyes, proud and utterly fearless expression, all in black: roughspun wool, black boiled leather, heavy black fur cloak, a bronze-hilted bronze longsword, extreme close-up of his fearless grey eyes, frost on his eyelashes and beard, reflected moonlight. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [
+    "B001S001"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE036",
+   "key": "B004S036",
+   "file": "GOT001_BATCH004_SCENE036_LONE_SENTRY.png",
+   "chapter": "I",
+   "shot_type": "MS",
+   "cast": [],
+   "motion_recipe": "DRIFT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a lone young brother of the Night's Watch on top of the Wall at night holding a torch, peering nervously north into the black forest below, wind tearing at his cloak. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE037",
+   "key": "B004S037",
+   "file": "GOT001_BATCH004_SCENE037_NK_AT_EDGE.png",
+   "chapter": "I",
+   "shot_type": "MS",
+   "cast": [
+    "NIGHTS_KING"
+   ],
+   "motion_recipe": "TILT_UP",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the Night's King, thirteenth Lord Commander of the Night's Watch, a First Men warrior of about thirty-five, long solemn northern face, dark brown hair to the shoulders, short dark beard, grey eyes, proud and utterly fearless expression, all in black: roughspun wool, black boiled leather, heavy black fur cloak, a bronze-hilted bronze longsword, standing at the very edge of the Wall at night, looking down into the dark forest far below with calm fascination, not afraid. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [
+    "B001S001"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE038",
+   "key": "B004S038",
+   "file": "GOT001_BATCH004_SCENE038_NK_OVERSHOULDER_HER.png",
+   "chapter": "II",
+   "shot_type": "MS",
+   "cast": [
+    "NIGHTS_KING"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the Night's King, thirteenth Lord Commander of the Night's Watch, a First Men warrior of about thirty-five, long solemn northern face, dark brown hair to the shoulders, short dark beard, grey eyes, proud and utterly fearless expression, all in black: roughspun wool, black boiled leather, heavy black fur cloak, a bronze-hilted bronze longsword, over-the-shoulder view from behind him on the Wall, far below a pale woman with long silver-white hair stands alone in the moonlit snow at the forest edge, looking up. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [
+    "B001S001",
+    "B001S002"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE039",
+   "key": "B004S039",
+   "file": "GOT001_BATCH004_SCENE039_QUEEN_FULL_FIGURE.png",
+   "chapter": "II",
+   "shot_type": "EST",
+   "cast": [
+    "CORPSE_QUEEN"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the corpse queen, an ageless woman of unearthly beauty, skin white as the moon with a faint blue chill, luminous eyes like blue stars, long straight silver-white hair, high-necked flowing robes of frost-pale grey with white fur at the collar, fully covered, no jewellery, serene and unsettling, standing alone in deep snow at the edge of the haunted forest at night, full figure, frost-pale robes flowing, the Wall a pale glow in the far distance. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [
+    "B001S002"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE040",
+   "key": "B004S040",
+   "file": "GOT001_BATCH004_SCENE040_NK_RIDES_FOREST.png",
+   "chapter": "II",
+   "shot_type": "EST",
+   "cast": [
+    "NIGHTS_KING"
+   ],
+   "motion_recipe": "PAN_LR",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the Night's King, thirteenth Lord Commander of the Night's Watch, a First Men warrior of about thirty-five, long solemn northern face, dark brown hair to the shoulders, short dark beard, grey eyes, proud and utterly fearless expression, all in black: roughspun wool, black boiled leather, heavy black fur cloak, a bronze-hilted bronze longsword, riding hard on a dark horse through the snowbound haunted forest at night, snow flying, black trees, a pale shape glimpsed ahead between the trunks. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [
+    "B001S001"
+   ],
+   "qc": "PENDING"
+  }
+ ]
+}

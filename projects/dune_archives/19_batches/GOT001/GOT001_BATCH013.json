@@ -1,0 +1,170 @@
+{
+ "episode": "GOT001",
+ "batch": "BATCH013",
+ "max_batch_size": 10,
+ "status": "PLANNED",
+ "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
+ "palette": "Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice.",
+ "images": [
+  {
+   "scene_id": "GOT001_SCENE121",
+   "key": "B013S121",
+   "file": "GOT001_BATCH013_SCENE121_LAND_OF_ALWAYS_WINTER.png",
+   "chapter": "VII",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PAN_LR",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the far north beyond everything: endless white ice wastes under a green and blue aurora, jagged ice mountains, no life. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE122",
+   "key": "B013S122",
+   "file": "GOT001_BATCH013_SCENE122_CHILDREN_ROOT_CAVE.png",
+   "chapter": "VII",
+   "shot_type": "EST",
+   "cast": [
+    "CHILD_FOREST"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a child of the forest: a small slender being the size of a child, dark brown skin dappled with paler spots like a fawn, large ears, huge golden eyes with slit pupils like a cat, hands with three fingers and a thumb and small black claws, clothing of bark and leaves, children of the forest in a vast cave woven through with pale weirwood roots, small fires, bones and roots, watching silently. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [
+    "B004S031"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE123",
+   "key": "B013S123",
+   "file": "GOT001_BATCH013_SCENE123_DRAGON_EGGS.png",
+   "chapter": "VIII",
+   "shot_type": "INS",
+   "cast": [],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. three dragon eggs resting in glowing embers: one black with scarlet ripples, one deep green flecked with bronze, one pale cream streaked with gold, scales like stone. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE124",
+   "key": "B013S124",
+   "file": "GOT001_BATCH013_SCENE124_COLDHANDS_LEADS.png",
+   "chapter": "VIII",
+   "shot_type": "EST",
+   "cast": [
+    "COLDHANDS",
+    "HODOR",
+    "BRAN",
+    "MEERA",
+    "JOJEN",
+    "SUMMER"
+   ],
+   "motion_recipe": "PAN_LR",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Coldhands, a rider in the black of the Night's Watch, face hidden behind a black wool scarf so only shadowed eyes show, hands black and bloodless, riding a huge grey elk with broad antlers; Hodor, a gentle simple giant of a stableman nearly seven feet tall, shaggy brown hair and beard, plain brown wool; Bran Stark, a boy of about ten, thick auburn hair, blue eyes, thoughtful face, grey wool and a brown fur cloak; his legs are crippled, so he rides in a wicker basket; Meera Reed, a lean young woman of sixteen, brown hair, green eyes, worn green-brown leathers, a three-pronged frog spear and a net; Jojen Reed, a small solemn boy of thirteen, green eyes, green-brown clothes; Summer, a huge silver-grey direwolf with golden eyes, the hooded rider on the great elk leading the small party through deep snow among huge trees, Hodor carrying Bran in his basket. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [
+    "B001S006",
+    "B001S004"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE125",
+   "key": "B013S125",
+   "file": "GOT001_BATCH013_SCENE125_COLDHANDS_HANDS.png",
+   "chapter": "VIII",
+   "shot_type": "INS",
+   "cast": [
+    "COLDHANDS"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Coldhands, a rider in the black of the Night's Watch, face hidden behind a black wool scarf so only shadowed eyes show, hands black and bloodless, riding a huge grey elk with broad antlers, close-up of black bloodless hands gripping leather reins, frost on the knuckles, the elk's fur. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [
+    "B001S006"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE126",
+   "key": "B013S126",
+   "file": "GOT001_BATCH013_SCENE126_COLDHANDS_AT_WALL.png",
+   "chapter": "VIII",
+   "shot_type": "EST",
+   "cast": [
+    "COLDHANDS"
+   ],
+   "motion_recipe": "TILT_UP",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Coldhands, a rider in the black of the Night's Watch, face hidden behind a black wool scarf so only shadowed eyes show, hands black and bloodless, riding a huge grey elk with broad antlers, the rider on the elk halted before the colossal Wall at night, a tiny figure against the ice, unable to go further. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [
+    "B001S006"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE127",
+   "key": "B013S127",
+   "file": "GOT001_BATCH013_SCENE127_WALL_DEEP_LIGHT.png",
+   "chapter": "VIII",
+   "shot_type": "INS",
+   "cast": [],
+   "motion_recipe": "DRIFT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. deep inside the ancient ice of the Wall, a faint pale-blue light glowing like veins, old and mysterious, no symbols. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE128",
+   "key": "B013S128",
+   "file": "GOT001_BATCH013_SCENE128_LEAF_CU.png",
+   "chapter": "VIII",
+   "shot_type": "CU",
+   "cast": [
+    "CHILD_FOREST"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a child of the forest: a small slender being the size of a child, dark brown skin dappled with paler spots like a fawn, large ears, huge golden eyes with slit pupils like a cat, hands with three fingers and a thumb and small black claws, clothing of bark and leaves, close-up of a female child of the forest with a cloak of leaves and hair of brown and gold, large golden cat-slit eyes, solemn, firelight in a root cave. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [
+    "B004S031"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE129",
+   "key": "B013S129",
+   "file": "GOT001_BATCH013_SCENE129_COLDHANDS_SCARF_EYES.png",
+   "chapter": "VIII",
+   "shot_type": "CU",
+   "cast": [
+    "COLDHANDS"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Coldhands, a rider in the black of the Night's Watch, face hidden behind a black wool scarf so only shadowed eyes show, hands black and bloodless, riding a huge grey elk with broad antlers, close-up of the black scarf and hood, only the shadowed eyes visible, frost on the wool. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [
+    "B001S006"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT001_SCENE130",
+   "key": "B013S130",
+   "file": "GOT001_BATCH013_SCENE130_GHOST_RANGER.png",
+   "chapter": "VIII",
+   "shot_type": "MS",
+   "cast": [],
+   "motion_recipe": "DRIFT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a hooded black-cloaked ranger of the Night's Watch standing among white weirwoods in mist, face unseen, timeless. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  }
+ ]
+}

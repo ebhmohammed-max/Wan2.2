@@ -198,3 +198,10 @@
 - **Baked-in letterbox:** some 1376×768 outputs have about 90 px black bars. Detect them by uniform black rows (mean < 4 and std < 3, so dark night skies are not cropped), crop, then refit to 1920×1080.
 - **Contact-sheet caching:** re-reading the same /tmp path returned the previous turn's image. Use a unique file name per QC sheet.
 - **Hard-coded copy in templates:** the end card still had DUN003's subline and question ("Record 004 · coming to the archive", "HERO — OR TYRANT?"). Copy on every graphic must come from the episode data. Always QC-render the end card before the master.
+
+## GOT001 turns 62–65 (2026-11-24): first Westeros episode
+- **Book-first canon in practice:** a fact-check pass against book quotes before VO caught three slips: the Nightfort is the largest castle as well as the oldest, the Black Gate well is in the kitchens, and Coldhands' line is about spells woven into the Wall. Fix these in the script, never after recording.
+- **Show material in a book-first channel:** label it once with a NOTE card at the top of the show chapter, and keep the show's Night King to silhouettes and the back of his head. No HBO make-up and no actor likeness. Image prompts for book characters carry "NOT the HBO TV design, original faces".
+- **Age words are not enough:** "young man of about sixteen" gave a 12–13-year-old Sam. "YOUNG MAN of seventeen with fully adult proportions, about six feet tall … NOT a child" fixed it first time. State adult proportions explicitly for teenage book characters.
+- **Voice-14 pace differs by script:** GOT001 reads at 2.69 words/s against 2.36 for DUN001 (shorter sentences, more dialogue), so 1,561 words gives about 10:00 of VO, not 11. Estimate runtime from words ÷ 2.6 for dialogue-heavy scripts.
+- **Data-file check before images:** writing `data/<ep>.py` before most stills exist lets the anchor and coverage check run early (149/150 shots placed), so later batches generate exactly the shots the edit needs.
