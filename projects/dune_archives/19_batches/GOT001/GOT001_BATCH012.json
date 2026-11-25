@@ -2,7 +2,7 @@
  "episode": "GOT001",
  "batch": "BATCH012",
  "max_batch_size": 10,
- "status": "GENERATED_9_PASS_1_FIX",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice.",
  "images": [
@@ -145,8 +145,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. an Other, as described in the books: tall, gaunt and hard as old bones, flesh pale as milk, eyes deep burning blue, thin armour that ripples and changes colour with every movement like moonlight on water, a slender sword of pale translucent crystal glowing faint blue; elegant and inhuman, NOT a corpse, close-up portrait, gaunt milk-pale face, deep burning blue eyes, frost in the air, the crystal blade a faint line of light. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
    "refs": [],
-   "qc": "FIX",
-   "qc_note": "FIX turn 77: craggy, heavily wrinkled grey skin reads as the HBO White Walker; book Others are smooth, ageless, milk-pale, hard as old bone, beautiful in a cold inhuman way. Redo with ref S044, \"smooth flawless skin like polished bone, no wrinkles\"."
+   "qc": "PASS",
+   "qc_note": "REDONE turn 78: smooth ageless milk-pale book Other, no wrinkles; original face at full-size crop"
   }
  ]
 }

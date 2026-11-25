@@ -2,7 +2,7 @@
  "episode": "GOT001",
  "batch": "BATCH014",
  "max_batch_size": 10,
- "status": "PLANNED",
+ "status": "GENERATED_4_PASS_6_PENDING",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice.",
  "images": [
@@ -21,7 +21,7 @@
    "refs": [
     "B001S006"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT001_SCENE132",
@@ -34,7 +34,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. wildlings in furs digging with torches and picks into a blue glacier high in the mountains, snow blowing. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT001_SCENE133",
@@ -47,7 +47,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. dozens of ancient stone cairns broken open across a snowy mountainside, stones scattered, no bodies visible. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT001_SCENE134",
@@ -62,7 +62,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Ygritte, a young wildling woman with thick wild red hair, a freckled face and pug nose, furs and a horn-and-weirwood bow, on top of the Wall in the wind, frustrated tears on her cheeks, looking north. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "qc_note": "PASS: book Ygritte (round freckled face, wild red hair, furs, horn-and-weirwood bow) on top of the Wall after the climb (ASOS Jon); not the actress at full-size crop"
   },
   {
    "scene_id": "GOT001_SCENE135",
