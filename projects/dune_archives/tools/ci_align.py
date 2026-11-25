@@ -20,6 +20,11 @@ PROMPTS = {  # proper-noun hints per episode (EP env var; default DUN003 = PROMP
                "Xavier Harkonnen, Iblis Ginjo, Vorian Atreides, Dream Voyager, Salusa Secundus, Giedi Prime, "
                "Corrin, Tlulaxa, hrethgir, Hrethgir, Abulurd, Faykan, Corrino, Lankiveil, Mentats, Arrakis, "
                "Golden Lion Throne, Mythic Archives."),
+    'GOT001': ("Night's King, Night King, Nightfort, Night's Watch, Old Nan, Bran Stark, Brandon the Builder, "
+               "Brandon the Shipwright, Brandon the Burner, Joramun, King-beyond-the-Wall, Winterfell, Magnar, Skagos, "
+               "Umber, Flint, Norrey, Woodfoot, Bolton, Samwell Tarly, weirwood, Hardhome, Daenerys, Arya Stark, "
+               "Valyrian steel, dragonglass, Lann the Clever, Casterly Rock, Coldhands, Ygritte, Others, White Walker, "
+               "HBO, George R. R. Martin, The Winds of Winter, Westeros, Mythic Archives."),
 }
 PROMPT = PROMPTS.get(os.environ.get('EP', 'DUN003').upper(), PROMPT)
 
