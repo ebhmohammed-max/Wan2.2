@@ -2,7 +2,7 @@
  "episode": "GOT001",
  "batch": "BATCH009",
  "max_batch_size": 10,
- "status": "GENERATED_7_PASS_1_FIX_2_PENDING",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice.",
  "images": [
@@ -111,8 +111,8 @@
     "B001S010",
     "B001S005"
    ],
-   "qc": "FIX",
-   "qc_note": "FIX turn 73: Hodor not towering (book: nearly seven feet; must stand head and shoulders above Sam); Meera face too generic and possibly show-like (give distinctive features); Jojen has auburn hair like Bran (make dark brown, solemn, older-looking eyes). Redo with refs S004 + S010 + S005, low camera angle for scale."
+   "qc": "PASS",
+   "qc_note": "REDONE turn 74: Hodor towers with Bran high in the basket, Meera has a braid, net and frog spear, Jojen dark-haired and pale, Summer present (book). Minor: the door mouth is already open (fine for the \"Who are you?\" beat)"
   },
   {
    "scene_id": "GOT001_SCENE088",
@@ -142,7 +142,7 @@
    "refs": [
     "B001S010"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT001_SCENE090",
@@ -160,7 +160,7 @@
     "B001S005",
     "B001S010"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   }
  ]
 }
