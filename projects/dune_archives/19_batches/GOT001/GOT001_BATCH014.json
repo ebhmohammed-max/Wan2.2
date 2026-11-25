@@ -2,7 +2,7 @@
  "episode": "GOT001",
  "batch": "BATCH014",
  "max_batch_size": 10,
- "status": "GENERATED_9_PASS_1_FIX",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice.",
  "images": [
@@ -155,8 +155,8 @@
     "B001S001",
     "B001S002"
    ],
-   "qc": "FIX",
-   "qc_note": "FIX turn 79: queen in profile with silver braids reads as Daenerys / a famous actress; faces shown despite \"from behind\". Redo: both seen strictly from behind, faces NOT visible, queen hair loose and frost-crusted (no braids crown), ref S002 for robes only."
+   "qc": "PASS",
+   "qc_note": "REDONE turn 80: strictly from behind, no faces; queen hair loose and frost-crusted"
   }
  ]
 }
