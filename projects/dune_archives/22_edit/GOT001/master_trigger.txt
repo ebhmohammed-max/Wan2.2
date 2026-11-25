@@ -1,1 +1,1 @@
-master GOT001 v1 2026-11-25T11:51:38Z stills 150/150, mix -14 LUFS, end card QC ok
+master GOT001 v1 retry 2026-11-25T12:06:22Z (QC grab fix: t<=625)
