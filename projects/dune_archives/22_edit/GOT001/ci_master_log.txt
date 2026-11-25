@@ -1,0 +1,71 @@
+OK Lightless_Dawn 379.846531s sha256(src)=59fd69e4432c95887d626e8055113da8fb0da9a8ccac85c6b7da6a6031c4f325 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Lightless%20Dawn.mp3
+OK Deliberate_Thought 177.455986s sha256(src)=243d5543c930bf54e95868bab9da860e67ce8835e3698881fda287bc58cc343f ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Deliberate%20Thought.mp3
+OK Dark_Times 183.695986s sha256(src)=8c05efb338ee645a1f630c7d2aafbb64ac04ad1fee79c6325eafe22f3ad7f15f ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dark%20Times.mp3
+OK Long_Note_Two 462.053878s sha256(src)=53fd96b8fdcae5d2a9bb35a342cfb67344994952f76ff60ff94f56644262f93b ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Long%20Note%20Two.mp3
+OK Phantasm 219.048005s sha256(src)=f5d2256207776d572d248732b91b49b35f971f5e9708d509c5d869ff366b8ee8 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Phantasm.mp3
+OK Private_Reflection 90.880000s sha256(src)=fc8aa81f59749ee96ea096fadb104ff74fdc18b35e2790f543bfa82f0e0cee02 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Private%20Reflection.mp3
+OK Night_Vigil 288.262290s sha256(src)=315009fda5154a093570b9f49c1d98202ab5ba4906078713380d130710ada442 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Night%20Vigil.mp3
+OK Unwritten_Return 309.054694s sha256(src)=1d8036f3d6374ab807f0b55a05f026e515ee8a41527ecbc3548007559765e70a ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Unwritten%20Return.mp3
+OK Ossuary_6_Air 250.070204s sha256(src)=bf57ba7ee56b357dbd8677b41475a2fbe01d282114bc3c64e6deea2b52717fac ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Ossuary%206%20-%20Air.mp3
+OK Crypto 204.068571s sha256(src)=f09ba8bff00baca85fcdcde3b7f5d6b34a09c2c0b44b007a9123ee42f7d1bcf2 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Crypto.mp3
+total 51104
+drwxr-xr-x 2 runner runner    4096 Nov 25 11:53 .
+drwxr-xr-x 3 runner runner    4096 Nov 25 11:52 ..
+-rw-r--r-- 1 runner runner 4082964 Nov 25 11:53 Crypto.mp3
+-rw-r--r-- 1 runner runner 3675882 Nov 25 11:53 Dark_Times.mp3
+-rw-r--r-- 1 runner runner 3754763 Nov 25 11:53 Deliberate_Thought.mp3
+-rw-r--r-- 1 runner runner 7598437 Nov 25 11:52 Lightless_Dawn.mp3
+-rw-r--r-- 1 runner runner 9373761 Nov 25 11:53 Long_Note_Two.mp3
+-rw-r--r-- 1 runner runner 6162131 Nov 25 11:53 Night_Vigil.mp3
+-rw-r--r-- 1 runner runner 5003014 Nov 25 11:53 Ossuary_6_Air.mp3
+-rw-r--r-- 1 runner runner 4514631 Nov 25 11:53 Phantasm.mp3
+-rw-r--r-- 1 runner runner 1945775 Nov 25 11:53 Private_Reflection.mp3
+-rw-r--r-- 1 runner runner 6182674 Nov 25 11:53 Unwritten_Return.mp3
+-rw-r--r-- 1 runner runner    2167 Nov 25 11:53 _fetch_log.txt
+V      script  156 words, matched  156 (100%)
+VI     script  170 words, matched  170 (100%)
+VII    script  156 words, matched  156 (100%)
+VIII   script  199 words, matched  199 (100%)
+CB     script   57 words, matched   57 (100%)
+programme 635.85 s (10:35), shots 160 (dropped short: []), graphics 29
+0:00 Prologue: The Castle of Ghosts
+1:34 I. The Thirteenth Lord Commander
+2:31 II. The Corpse Queen
+3:42 III. Two Kings Against One
+4:37 IV. A Stark of Winterfell
+5:45 V. The Black Gate
+6:46 VI. The King of the Dead
+7:49 VII. Martin's Answer
+8:47 VIII. The Ranger with Cold Hands
+M1    Phantasm                0.00-  44.17 src@  14.0s  measured  -18.8 LUFS -> gain  -6.2 dB
+M2    Deliberate_Thought     41.77-  49.57 src@  30.0s  measured  -15.6 LUFS -> gain  -8.4 dB
+M3    Ossuary_6_Air          47.17-  95.18 src@   0.0s  measured  -30.5 LUFS -> gain  +7.5 dB
+M4    Lightless_Dawn         94.18- 152.41 src@   0.0s  measured  -27.4 LUFS -> gain  +4.4 dB
+M5    Long_Note_Two         151.41- 212.64 src@  34.0s  measured  -28.9 LUFS -> gain  +5.9 dB
+M2b   Deliberate_Thought    211.44- 223.51 src@  30.0s  measured  -16.3 LUFS -> gain  -7.7 dB
+M6    Dark_Times            222.31- 278.37 src@   3.0s  measured  -22.1 LUFS -> gain  -0.9 dB
+M7    Private_Reflection    277.37- 346.58 src@   0.0s  measured  -17.1 LUFS -> gain  -5.9 dB
+M8    Night_Vigil           345.58- 406.83 src@  60.0s  measured  -13.5 LUFS -> gain  -9.5 dB
+M9    Crypto                405.83- 470.14 src@   2.0s  measured  -17.9 LUFS -> gain  -6.1 dB
+M10   Lightless_Dawn        469.14- 528.46 src@ 170.0s  measured  -24.0 LUFS -> gain  +1.0 dB
+M11   Unwritten_Return      527.46- 610.38 src@  12.0s  measured  -18.1 LUFS -> gain  -5.9 dB
+M12   Deliberate_Thought    608.18- 635.85 src@  30.0s  measured  -17.5 LUFS -> gain  -7.5 dB
+pre-norm: I=-16.52 LUFS TP=-1.01 LRA=3.80  -> -14 LUFS / -1 dBTP
+wrote /tmp/mix.wav 635.85s
+wrote /tmp/GOT001_MASTER_1080p.mp4 shots 160 duration 635.83
+-rw-r--r-- 1 runner runner 470089759 Nov 25 12:05 /tmp/GOT001_MASTER_1080p.mp4
+  Duration: 00:10:35.83, start: 0.000000, bitrate: 5914 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080, 5614 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 295 kb/s (default)
+    Threshold: -24.7 LUFS
+
+  Loudness range:
+    LRA:         3.7 LU
+    Threshold: -34.7 LUFS
+    LRA low:   -16.7 LUFS
+    LRA high:  -13.0 LUFS
+
+  True peak:
+    Peak:       -0.9 dBFS
+[out#0/null @ 0x57f6f64ccb80] video:0KiB audio:119219KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:10:35.83 bitrate=N/A speed= 290x elapsed=0:00:02.18    
