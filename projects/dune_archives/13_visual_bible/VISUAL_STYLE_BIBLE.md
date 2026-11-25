@@ -113,7 +113,7 @@ extra fingers, deformed hands, blurry face, gore
 
 ## 8. QC checklist (per image)
 
-- [ ] Face matches the continuity sheet and resembles no actor.
+- [ ] Face matches the continuity sheet and resembles no actor. **Mandatory for every visible face, in every world (Dune films, HBO's GoT and HotD, the LotR and Hobbit films).** Check at full size: "would a fan name an actor?" If yes or maybe, FIX. See `worlds/westeros/WESTEROS_CANON_POLICY.md` §4b.
 - [ ] Wardrobe, palette and heraldry match the era and house.
 - [ ] Scale reference is present in wide shots.
 - [ ] No text, watermark or logo.

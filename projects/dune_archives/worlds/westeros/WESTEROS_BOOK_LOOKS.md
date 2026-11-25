@@ -1,4 +1,4 @@
-# WESTEROS — Book-Accurate Looks (characters, creatures, objects, places) · v1.0 · 2026-11-24
+# WESTEROS — Book-Accurate Looks (characters, creatures, objects, places) · v1.1 · 2026-11-25
 
 Purpose: the image-prompt source of truth. **Books first** (see `WESTEROS_CANON_POLICY.md`).
 
@@ -22,7 +22,7 @@ Ages are at the start of *A Game of Thrones* unless stated. **Show differences**
 | **Jon Snow** (14) | ◻ Stark look: lean, long face, dark brown hair, grey eyes so dark they look almost black. Later carries *Longclaw*. | Not the curly-haired adult of the show. He is a teenager. |
 | **Sansa** (11) | ◻ Tully auburn hair, blue eyes, considered beautiful. As "Alayne Stone" in the Vale: hair dyed dark brown. | — |
 | **Arya** (9) | ◻ Stark look: long horse-like face ("Arya Horseface"), brown hair, grey eyes, thin. Sword *Needle* (a slim bravo's blade). | Much younger than the show. |
-| **Bran** (7) / **Rickon** (3) | ◻ Tully look. | — |
+| **Bran** (7; 9 in ASOS) / **Rickon** (3) | ◻ Tully look: thick auburn-red hair, deep blue eyes. Bran is slight; after the fall he rides in a wicker basket on Hodor's back. | Show Bran has a brown mop; keep him auburn. |
 
 ### House Lannister
 
@@ -56,14 +56,18 @@ Ages are at the start of *A Game of Thrones* unless stated. **Show differences**
 | **Davos Seaworth** | ◻ Stannis shortened the fingers of his left hand by the last joint. Davos kept the finger bones in a pouch around his neck, which was lost at the Blackwater. | — |
 | **Petyr Baelish** | ◻ Slight, grey-green eyes, a small pointed beard, dark hair touched with grey, and a mockingbird pin. | — |
 | **Varys** | ◻ Bald, plump, powdered, smelling of lavender, in soft silks. | — |
-| **Samwell Tarly** | ◻ Very fat, pink-faced, kind. | — |
+| **Samwell Tarly** (17) | ◻ Enormously fat, a soft pink moon face with several chins, soft hands, kind and frightened eyes. Channel design: clean-shaven, fair sandy hair. | Avoid the show's dark-haired, stubbled look. |
 | **Theon / Reek** | ◻ Theon is lean, dark and smirking. As Reek (ADWD) he looks starved and aged, with white hair, broken or missing teeth, and missing fingers and toes (show the hands only in non-graphic framing). | — |
 | **Daario Naharis** | ◻ A three-pronged beard dyed blue, a gold-painted mustache, a gold tooth, and dyed blue curls. | Nothing like the show. |
 | **Missandei** (10) | ◻ A child of Naath with golden eyes. | Not the adult of the show. |
 | **Euron Greyjoy** | ◻ An eyepatch, one "smiling" blue eye, and lips stained blue from shade-of-the-evening. | Nothing like the show. |
 | **Oberyn Martell** | ◻ Lean, sharp-featured, black hair streaked with silver, a widow's peak. | — |
 | **Bloodraven / the three-eyed crow** | ◻ An albino who is nearly a skeleton. One red eye; the other socket is empty, and a weirwood root grows through it. He sits enthroned in roots. | — |
-| **Hodor** | ◻ Close to seven feet tall, simple and gentle. | — |
+| **Hodor** | ◻ Close to seven feet tall, simple and gentle; he towers over everyone. Carries Bran in a wicker basket. | Make him a giant, not just tall. |
+| **Meera Reed** (16) | ◻ Slender, brown hair, green eyes; frog spear (trident), net and a long knife. | — |
+| **Jojen Reed** (13) | ◻ Small and grave; moss-green eyes; dressed all in green. Has greendreams. | — |
+| **Ygritte** | ◻ Red hair "kissed by fire", a round peasant face, pug nose, slightly crooked teeth, pale blue eyes. Not conventionally beautiful. | Avoid the show's look; use these features. |
+| **The Night's King** (legend) | ◻ No physical description in the books. Channel design (GOT001): about 40, gaunt, iron-grey-streaked hair in a braid, a close grey-shot beard, a scar through one eyebrow, pale grey eyes, black bearskin, bronze sword. | Never the show's Night King (show-only, silhouette only). Must not drift to the Jon Snow type. |
 
 ## 2. Creatures
 

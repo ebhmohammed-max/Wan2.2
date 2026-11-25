@@ -16,7 +16,7 @@ STYLE = ('ultra-realistic 3D cinematic reconstruction, photoreal, physically bas
          'full-bleed wide 16:9 cinematic frame, important action in the central band.')
 PALETTE = ('Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, '
            'moonlight on ice.')
-NO_TEXT = ('Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. '
+NO_TEXT = ('Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. '
            'No text, letters, runes, logos or symbols anywhere in the image.')
 NEGATIVE = ('text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, '
             'illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, '
@@ -26,19 +26,14 @@ CAMERA = {'EW': 'epic wide shot, low horizon, 24mm lens', 'EST': 'establishing s
           'INS': 'macro insert, 100mm lens', 'OH': 'high overhead view'}
 
 CAST = {
-    'NIGHTS_KING': ('the Night\'s King, thirteenth Lord Commander of the Night\'s Watch, a First Men warrior of about '
-                    'thirty-five, long solemn northern face, dark brown hair to the shoulders, short dark beard, grey eyes, '
-                    'proud and utterly fearless expression, all in black: roughspun wool, black boiled leather, heavy black '
-                    'fur cloak, a bronze-hilted bronze longsword'),
+    'NIGHTS_KING': ("the Night's King, thirteenth Lord Commander of the Night's Watch, a First Men warrior of about forty, a gaunt hard weathered face with hollow cheeks, high cheekbones and a long straight nose, pale grey eyes, iron-grey streaked dark hair pulled back tight into a single warrior's braid, a close-cropped grey-shot beard, a thin hard mouth, frost-reddened skin, an old pale scar through one eyebrow, utterly fearless expression, all in black: roughspun wool, black boiled leather, a heavy black bearskin cloak, a bronze-hilted bronze longsword"),
     'CORPSE_QUEEN': ('the corpse queen, an ageless woman of unearthly beauty, skin white as the moon with a faint blue chill, '
                      'luminous eyes like blue stars, long straight silver-white hair, high-necked flowing robes of frost-pale '
                      'grey with white fur at the collar, fully covered, no jewellery, serene and unsettling'),
     'OLD_NAN': ('Old Nan, an extremely old woman, tiny and bent, deeply wrinkled face, pale filmy eyes, a few wisps of white '
                 'hair under a plain linen cap, grey wool shawl, knitting needles in her hands'),
-    'BRAN': ('Bran Stark, a boy of about ten, thick auburn hair, blue eyes, thoughtful face, grey wool and a brown fur cloak; '
-             'his legs are crippled, so he rides in a wicker basket'),
-    'SAM': ('Samwell Tarly, a very heavy young man of about sixteen, round soft pink face, beardless, kind frightened eyes, '
-            'Night\'s Watch blacks of worn wool and a black cloak'),
+    'BRAN': ('Bran Stark as in the books, a slight boy of nine with thick AUBURN-RED Tully hair and deep blue Tully eyes, a thoughtful freckled face, grey wool and a brown fur cloak; his legs are crippled, so he rides in a wicker basket'),
+    'SAM': ("Samwell Tarly as in the books, a YOUNG MAN of seventeen with fully adult proportions, enormously fat, a round soft PINK moon face with several chins, clean-shaven smooth skin, fine fair sandy-blond hair, small pale eyes, soft plump hands, kind and frightened, Night's Watch blacks of worn wool straining over his belly and a black cloak, NOT a child"),
     'COLDHANDS': ('Coldhands, a rider in the black of the Night\'s Watch, face hidden behind a black wool scarf so only shadowed '
                   'eyes show, hands black and bloodless, riding a huge grey elk with broad antlers'),
     'JORAMUN': ('Joramun, King-beyond-the-Wall in the Age of Heroes, a huge wildling chieftain with a wild grey-streaked beard, '
@@ -47,7 +42,7 @@ CAST = {
     'KING_OF_WINTER': ('the Stark King of Winter in the Age of Heroes, a tall stern man with a long solemn face, dark hair, grey '
                        'eyes and a short dark beard, a grey direwolf pelt over his shoulders, bronze scale and furs, wearing '
                        'an open circlet of bronze surmounted by nine black iron spikes shaped like longswords'),
-    'HODOR': 'Hodor, a gentle simple giant of a stableman nearly seven feet tall, shaggy brown hair and beard, plain brown wool',
+    'HODOR': ('Hodor, a gentle simple-minded GIANT of a stableman nearly seven feet tall, towering head and shoulders over everyone, huge and broad, a slack amiable face with a bushy brown beard and shaggy brown hair, plain brown wool'),
     'MEERA': 'Meera Reed, a lean young woman of sixteen, brown hair, green eyes, worn green-brown leathers, a three-pronged frog spear and a net',
     'JOJEN': 'Jojen Reed, a small solemn boy of thirteen, green eyes, green-brown clothes',
     'SUMMER': 'Summer, a huge silver-grey direwolf with golden eyes',
@@ -60,7 +55,7 @@ CAST = {
     'SHOW_NK': ('a tall gaunt figure seen ONLY as a dark silhouette, a ring of small icy horns forming a crown on his bald '
                 'head, no face visible'),
     'GIANT': 'a giant as in the books: ten to twelve feet tall, covered in thick shaggy hair, massive shoulders, broad flat face',
-    'YGRITTE': 'Ygritte, a young wildling woman with thick wild red hair, a freckled face and pug nose, furs and a horn-and-weirwood bow',
+    'YGRITTE': ("Ygritte as in the books, a wildling spearwife of about eighteen with thick wild red hair 'kissed by fire', a round peasant face, a pug nose, slightly crooked teeth, freckles and pale blue eyes, furs and a horn-and-weirwood bow"),
     'YOUNG_BRAN': 'Bran Stark aged seven, thick auburn hair, blue eyes, small and eager',
     'UNCLE_BRANDON': 'Brandon Stark, a handsome wild young northern lord of twenty, long face, dark hair, grey eyes, fierce grin',
 }

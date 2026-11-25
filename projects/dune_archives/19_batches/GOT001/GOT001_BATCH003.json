@@ -2,7 +2,7 @@
  "episode": "GOT001",
  "batch": "BATCH003",
  "max_batch_size": 10,
- "status": "GENERATED_7_PASS_2_FIX_1_PENDING",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice.",
  "images": [
@@ -17,8 +17,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a vast abandoned feasting hall of the Nightfort, long rotted tables, dust and cobwebs, snow blown in through a collapsed roof, rats scurrying in a shaft of pale light. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
    "refs": [],
-   "qc": "FIX",
-   "qc_note": "FIX: a black-cloaked figure stands in the hall; the Nightfort has been empty for 200 years. Redo with no people, rats more visible."
+   "qc": "PASS",
+   "qc_note": "REDONE: empty hall, rats visible"
   },
   {
    "scene_id": "GOT001_SCENE022",
@@ -47,13 +47,13 @@
     "SUMMER"
    ],
    "motion_recipe": "PAN_LR",
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Hodor, a gentle simple giant of a stableman nearly seven feet tall, shaggy brown hair and beard, plain brown wool; Bran Stark, a boy of about ten, thick auburn hair, blue eyes, thoughtful face, grey wool and a brown fur cloak; his legs are crippled, so he rides in a wicker basket; Meera Reed, a lean young woman of sixteen, brown hair, green eyes, worn green-brown leathers, a three-pronged frog spear and a net; Jojen Reed, a small solemn boy of thirteen, green eyes, green-brown clothes; Summer, a huge silver-grey direwolf with golden eyes, the small party entering the ruined Nightfort at dusk through deep snow, Hodor carrying Bran in a wicker basket on his back, Summer padding ahead. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Hodor, a gentle simple-minded GIANT of a stableman nearly seven feet tall, towering head and shoulders over everyone, huge and broad, a slack amiable face with a bushy brown beard and shaggy brown hair, plain brown wool; Bran Stark as in the books, a slight boy of nine with thick AUBURN-RED Tully hair and deep blue Tully eyes, a thoughtful freckled face, grey wool and a brown fur cloak; his legs are crippled, so he rides in a wicker basket; Meera Reed, a lean young woman of sixteen, brown hair, green eyes, worn green-brown leathers, a three-pronged frog spear and a net; Jojen Reed, a small solemn boy of thirteen, green eyes, green-brown clothes; Summer, a huge silver-grey direwolf with golden eyes, the small party entering the ruined Nightfort at dusk through deep snow, Hodor carrying Bran in a wicker basket on his back, Summer padding ahead. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
    "refs": [
     "B001S004"
    ],
    "qc": "PASS",
-   "qc_note": "PASS (minor: Hodor could read taller; book says nearly seven feet)"
+   "qc_note": "turn 67 likeness audit: REDONE from the new Bran anchor; Hodor now towers over the party"
   },
   {
    "scene_id": "GOT001_SCENE024",
@@ -91,13 +91,13 @@
     "NIGHTS_KING"
    ],
    "motion_recipe": "PUSH_IN",
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the Night's King, thirteenth Lord Commander of the Night's Watch, a First Men warrior of about thirty-five, long solemn northern face, dark brown hair to the shoulders, short dark beard, grey eyes, proud and utterly fearless expression, all in black: roughspun wool, black boiled leather, heavy black fur cloak, a bronze-hilted bronze longsword, seated on a high carved wooden seat in the great hall of the Nightfort in its days of glory, hall lit by cold blue light and few torches, sworn brothers standing in shadow, menace. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the Night's King, thirteenth Lord Commander of the Night's Watch, a First Men warrior of about forty, a gaunt hard weathered face with hollow cheeks, high cheekbones and a long straight nose, pale grey eyes, iron-grey streaked dark hair pulled back tight into a single warrior's braid, a close-cropped grey-shot beard, a thin hard mouth, frost-reddened skin, an old pale scar through one eyebrow, utterly fearless expression, all in black: roughspun wool, black boiled leather, a heavy black bearskin cloak, a bronze-hilted bronze longsword, seated on a high carved wooden seat in the great hall of the Nightfort in its days of glory, hall lit by cold blue light and few torches, sworn brothers standing in shadow, menace. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
    "refs": [
     "B001S001"
    ],
-   "qc": "FIX",
-   "qc_note": "FIX: face reads as the HBO Jon Snow actor (actor likeness) and drifts from the S001 anchor. Redo: keep the S001 face (longer, gaunter, older, about 35, grey eyes, shorter hair), not a young Jon-Snow type; consider no ref plus a strong text description."
+   "qc": "PASS",
+   "qc_note": "turn 67 likeness audit: REDONE from the new S001 anchor; old version read as the HBO Jon Snow actor"
   },
   {
    "scene_id": "GOT001_SCENE027",
@@ -149,12 +149,13 @@
     "GIANT"
    ],
    "motion_recipe": "PAN_RL",
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the Stark King of Winter in the Age of Heroes, a tall stern man with a long solemn face, dark hair, grey eyes and a short dark beard, a grey direwolf pelt over his shoulders, bronze scale and furs, wearing an open circlet of bronze surmounted by nine black iron spikes shaped like longswords; a giant as in the books: ten to twelve feet tall, covered in thick shaggy hair, massive shoulders, broad flat face, the first Stark king of the bronze age, the builder, directing work at the foot of the rising Wall while giants haul enormous blocks of ice with ropes. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the Stark King of Winter in the Age of Heroes, a tall stern man with a long solemn face, dark hair, grey eyes and a short dark beard, a grey direwolf pelt over his shoulders, bronze scale and furs, wearing an open circlet of bronze surmounted by nine black iron spikes shaped like longswords; a giant as in the books: ten to twelve feet tall, covered in thick shaggy hair, massive shoulders, broad flat face, the first Stark king of the bronze age, the builder, directing work at the foot of the rising Wall while giants haul enormous blocks of ice with ropes. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
    "refs": [
     "B001S008"
    ],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "qc_note": "PASS: Brandon the Builder as an older white-streaked founder, distinct from the King of Winter"
   }
  ]
 }
