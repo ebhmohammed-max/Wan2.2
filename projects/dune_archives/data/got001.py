@@ -188,16 +188,16 @@ SECTIONS = [
 
  ("VII", "The Legend in the Books", "VII", [
   ("So are the show's Night King and the book's Night's King the same person?",
-   [("So are", k(111), "HOLD"), ("and the book's", k(15), "PUSH_IN")], []),
+   [("So are", k(112), "PUSH_IN"), ("and the book's", k(15), "PUSH_IN")], []),
   ("In the books, the answer is no.", [("In the books", k(113), "PAN_LR")], []),
   ("There, the Night's King is a legendary figure, like Lann the Clever and Brandon the Builder, and no more likely to have survived to the present day than they have.",
-   [("There, the", k(117), "DRIFT"), ("like Lann", k(114), "PUSH_IN"), ("and Brandon", k(30), "PAN_RL"), ("and no more", k(115), "DRIFT")],
+   [("There, the", k(1), "DRIFT"), ("like Lann", k(114), "PUSH_IN"), ("and Brandon", k(30), "PAN_RL"), ("and no more", k(115), "DRIFT")],
    [("There, the", NOTE, {"head": "IN THE BOOKS",
                           "body": "A figure of legend, like Lann the Clever and Brandon the Builder \u2014 "
                                   "no more likely to have survived to the present day than they have."}, 11.5)]),
   ("A legend, like the trickster who stole Casterly Rock, and the builder of the Wall.",
    [("A legend, like", k(116), "PULL_OUT"), ("and the builder", k(29), "PULL_OUT")], []),
-  ("He may never even have existed.", [("He may", k(112), "DRIFT")], []),
+  ("He may never even have existed.", [("He may", k(117), "DRIFT")], []),
   ("Notice the name, too.", [("Notice", k(118), "PUSH_IN")], []),
   ("The books call him Night's King, with an S, like a title.", [("The books call", k(34), "PUSH_IN")],
    [("The books call", NOTE, {"head": "NIGHT'S KING", "body": "The books' spelling: a title, like King in the North. The show's spelling: Night King."}, 5.6)]),

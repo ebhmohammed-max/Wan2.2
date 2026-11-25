@@ -1,106 +1,106 @@
 {
 "episode": "GOT001",
 "version": "v2",
-"duration": 635.852,
+"duration": 624.99,
 "fps": 24,
 "ident": [
-42.97,
-47.57
+35.32,
+39.92
 ],
 "sections": {
 "H": {
 "gap_start": 0.45,
 "start": 0.45,
-"end": 41.92,
-"last_word_end": 41.57,
+"end": 34.27,
+"last_word_end": 33.92,
 "num": null,
 "name": "Hook"
 },
 "P": {
-"gap_start": 47.57,
-"start": 47.57,
-"end": 94.58,
-"last_word_end": 94.23,
+"gap_start": 39.92,
+"start": 39.92,
+"end": 86.95,
+"last_word_end": 86.6,
 "num": null,
 "name": "Prologue: The Castle of Ghosts"
 },
 "I": {
-"gap_start": 94.58,
-"start": 96.98,
-"end": 151.81,
-"last_word_end": 151.47,
+"gap_start": 86.95,
+"start": 89.35,
+"end": 144.18,
+"last_word_end": 143.84,
 "num": "I",
 "name": "The Thirteenth Lord Commander"
 },
 "II": {
-"gap_start": 151.81,
-"start": 154.21,
-"end": 211.64,
-"last_word_end": 211.29,
+"gap_start": 144.18,
+"start": 146.58,
+"end": 204.01,
+"last_word_end": 203.66,
 "num": "II",
 "name": "The Corpse Queen"
 },
 "CA": {
-"gap_start": 211.64,
-"start": 212.64,
-"end": 222.11,
-"last_word_end": 221.76,
+"gap_start": 204.01,
+"start": 205.01,
+"end": 214.06,
+"last_word_end": 213.71,
 "num": null,
 "name": "Subscribe"
 },
 "III": {
-"gap_start": 222.71,
-"start": 225.11,
-"end": 277.77,
-"last_word_end": 277.42,
+"gap_start": 214.66,
+"start": 217.06,
+"end": 269.72,
+"last_word_end": 269.37,
 "num": "III",
 "name": "Two Kings Against One"
 },
 "IV": {
-"gap_start": 277.77,
-"start": 280.17,
-"end": 345.98,
-"last_word_end": 345.63,
+"gap_start": 269.72,
+"start": 272.12,
+"end": 337.91,
+"last_word_end": 337.56,
 "num": "IV",
 "name": "A Stark of Winterfell"
 },
 "V": {
-"gap_start": 345.98,
-"start": 348.38,
-"end": 406.23,
-"last_word_end": 405.88,
+"gap_start": 337.91,
+"start": 340.31,
+"end": 398.22,
+"last_word_end": 397.87,
 "num": "V",
 "name": "The Black Gate"
 },
 "VI": {
-"gap_start": 406.23,
-"start": 408.63,
-"end": 469.54,
-"last_word_end": 469.19,
+"gap_start": 398.22,
+"start": 400.62,
+"end": 461.51,
+"last_word_end": 461.16,
 "num": "VI",
 "name": "The King of the Dead"
 },
 "VII": {
-"gap_start": 469.54,
-"start": 471.94,
-"end": 527.862,
-"last_word_end": 527.55,
+"gap_start": 461.51,
+"start": 463.91,
+"end": 517.99,
+"last_word_end": 517.64,
 "num": "VII",
-"name": "Martin's Answer"
+"name": "The Legend in the Books"
 },
 "VIII": {
-"gap_start": 527.862,
-"start": 530.262,
-"end": 608.782,
-"last_word_end": 608.432,
+"gap_start": 517.99,
+"start": 520.39,
+"end": 597.92,
+"last_word_end": 597.57,
 "num": "VIII",
 "name": "The Ranger with Cold Hands"
 },
 "CB": {
-"gap_start": 608.782,
-"start": 609.982,
-"end": 630.202,
-"last_word_end": 629.852,
+"gap_start": 597.92,
+"start": 599.12,
+"end": 619.34,
+"last_word_end": 618.99,
 "num": null,
 "name": "Outro"
 }
@@ -116,10 +116,10 @@
 ],
 "sid": "H",
 "anchor": "On television",
-"t1": 3.87
+"t1": 3.78
 },
 {
-"t0": 3.87,
+"t0": 3.78,
 "key": "B002S012",
 "recipe": "PUSH_IN",
 "focus": [
@@ -128,10 +128,10 @@
 ],
 "sid": "H",
 "anchor": "A crown",
-"t1": 6.79
+"t1": 6.46
 },
 {
-"t0": 6.79,
+"t0": 6.46,
 "key": "B002S013",
 "recipe": "TILT_UP",
 "focus": [
@@ -140,10 +140,10 @@
 ],
 "sid": "H",
 "anchor": "He raises",
-"t1": 9.63
+"t1": 9.3
 },
 {
-"t0": 9.63,
+"t0": 9.3,
 "key": "B002S014",
 "recipe": "PULL_OUT",
 "focus": [
@@ -152,10 +152,10 @@
 ],
 "sid": "H",
 "anchor": "and when",
-"t1": 14.93
+"t1": 13.6
 },
 {
-"t0": 14.93,
+"t0": 13.6,
 "key": "B002S015",
 "recipe": "PUSH_IN",
 "focus": [
@@ -163,11 +163,11 @@
 0.5
 ],
 "sid": "H",
-"anchor": "But George",
-"t1": 20.57
+"anchor": "But the books",
+"t1": 17.24
 },
 {
-"t0": 20.57,
+"t0": 17.24,
 "key": "B001S001",
 "recipe": "PUSH_IN",
 "focus": [
@@ -176,10 +176,10 @@
 ],
 "sid": "H",
 "anchor": "In the books",
-"t1": 24.37
+"t1": 20.3
 },
 {
-"t0": 24.37,
+"t0": 20.3,
 "key": "B002S016",
 "recipe": "PUSH_IN",
 "focus": [
@@ -188,10 +188,10 @@
 ],
 "sid": "H",
 "anchor": "A brother",
-"t1": 28.09
+"t1": 23.52
 },
 {
-"t0": 28.09,
+"t0": 23.52,
 "key": "B001S002",
 "recipe": "PUSH_IN",
 "focus": [
@@ -200,10 +200,10 @@
 ],
 "sid": "H",
 "anchor": "whose skin",
-"t1": 34.99
+"t1": 28.94
 },
 {
-"t0": 34.99,
+"t0": 28.94,
 "key": "B002S017",
 "recipe": "PUSH_IN",
 "focus": [
@@ -212,10 +212,10 @@
 ],
 "sid": "H",
 "anchor": "When it",
-"t1": 39.91
+"t1": 32.66
 },
 {
-"t0": 39.91,
+"t0": 32.66,
 "key": "B002S018",
 "recipe": "DRIFT",
 "focus": [
@@ -224,10 +224,10 @@
 ],
 "sid": "H",
 "anchor": "So who",
-"t1": 42.97
+"t1": 35.32
 },
 {
-"t0": 42.97,
+"t0": 35.32,
 "key": "B015S141",
 "recipe": "PUSH_IN",
 "focus": [
@@ -236,10 +236,10 @@
 ],
 "sid": "IDENT",
 "anchor": "(ident)",
-"t1": 47.57
+"t1": 39.92
 },
 {
-"t0": 47.57,
+"t0": 39.92,
 "key": "B001S009",
 "recipe": "PULL_OUT",
 "focus": [
@@ -248,10 +248,10 @@
 ],
 "sid": "P",
 "anchor": "On the Wall",
-"t1": 52.95
+"t1": 45.28
 },
 {
-"t0": 52.95,
+"t0": 45.28,
 "key": "B002S019",
 "recipe": "PUSH_IN",
 "focus": [
@@ -260,10 +260,10 @@
 ],
 "sid": "P",
 "anchor": "They call",
-"t1": 55.32
+"t1": 47.69
 },
 {
-"t0": 55.32,
+"t0": 47.69,
 "key": "B002S020",
 "recipe": "TILT_UP",
 "focus": [
@@ -272,10 +272,10 @@
 ],
 "sid": "P",
 "anchor": "Its towers",
-"t1": 57.14
+"t1": 49.49
 },
 {
-"t0": 57.14,
+"t0": 49.49,
 "key": "B003S021",
 "recipe": "PAN_LR",
 "focus": [
@@ -284,10 +284,10 @@
 ],
 "sid": "P",
 "anchor": "Its halls",
-"t1": 60.34
+"t1": 52.71
 },
 {
-"t0": 60.34,
+"t0": 52.71,
 "key": "B003S022",
 "recipe": "PULL_OUT",
 "focus": [
@@ -296,10 +296,10 @@
 ],
 "sid": "P",
 "anchor": "For two",
-"t1": 64.29
+"t1": 56.66
 },
 {
-"t0": 64.29,
+"t0": 56.66,
 "key": "B003S023",
 "recipe": "PAN_LR",
 "focus": [
@@ -308,10 +308,10 @@
 ],
 "sid": "P",
 "anchor": "When young",
-"t1": 67.47
+"t1": 59.82
 },
 {
-"t0": 67.47,
+"t0": 59.82,
 "key": "B001S004",
 "recipe": "PUSH_IN",
 "focus": [
@@ -320,10 +320,10 @@
 ],
 "sid": "P",
 "anchor": "he remembers",
-"t1": 71.99
+"t1": 64.38
 },
 {
-"t0": 71.99,
+"t0": 64.38,
 "key": "B003S024",
 "recipe": "PUSH_IN",
 "focus": [
@@ -332,10 +332,10 @@
 ],
 "sid": "P",
 "anchor": "Here, the Rat",
-"t1": 77.85
+"t1": 70.22
 },
 {
-"t0": 77.85,
+"t0": 70.22,
 "key": "B003S025",
 "recipe": "TILT_UP",
 "focus": [
@@ -344,10 +344,10 @@
 ],
 "sid": "P",
 "anchor": "Here, the seventy-nine",
-"t1": 82.91
+"t1": 75.32
 },
 {
-"t0": 82.91,
+"t0": 75.32,
 "key": "B015S143",
 "recipe": "PUSH_IN",
 "focus": [
@@ -356,10 +356,10 @@
 ],
 "sid": "P",
 "anchor": "and still",
-"t1": 86.69
+"t1": 79.04
 },
 {
-"t0": 86.69,
+"t0": 79.04,
 "key": "B003S026",
 "recipe": "PUSH_IN",
 "focus": [
@@ -368,10 +368,10 @@
 ],
 "sid": "P",
 "anchor": "And here",
-"t1": 90.87
+"t1": 83.24
 },
 {
-"t0": 90.87,
+"t0": 83.24,
 "key": "B003S027",
 "recipe": "PULL_OUT",
 "focus": [
@@ -380,10 +380,10 @@
 ],
 "sid": "P",
 "anchor": "until his",
-"t1": 94.58
+"t1": 86.95
 },
 {
-"t0": 94.58,
+"t0": 86.95,
 "key": "B003S028",
 "recipe": "PAN_LR",
 "focus": [
@@ -392,10 +392,10 @@
 ],
 "sid": "I",
 "anchor": "The story",
-"t1": 102.58
+"t1": 94.97
 },
 {
-"t0": 102.58,
+"t0": 94.97,
 "key": "B003S029",
 "recipe": "PULL_OUT",
 "focus": [
@@ -404,10 +404,10 @@
 ],
 "sid": "I",
 "anchor": "When the darkness",
-"t1": 108.52
+"t1": 100.89
 },
 {
-"t0": 108.52,
+"t0": 100.89,
 "key": "B003S030",
 "recipe": "PAN_RL",
 "focus": [
@@ -416,10 +416,10 @@
 ],
 "sid": "I",
 "anchor": "Legend says",
-"t1": 114.26
+"t1": 106.63
 },
 {
-"t0": 114.26,
+"t0": 106.63,
 "key": "B004S031",
 "recipe": "PUSH_IN",
 "focus": [
@@ -428,10 +428,10 @@
 ],
 "sid": "I",
 "anchor": "and the children",
-"t1": 116.51
+"t1": 108.88
 },
 {
-"t0": 116.51,
+"t0": 108.88,
 "key": "B004S032",
 "recipe": "PULL_OUT",
 "focus": [
@@ -440,10 +440,10 @@
 ],
 "sid": "I",
 "anchor": "And they",
-"t1": 119.89
+"t1": 112.26
 },
 {
-"t0": 119.89,
+"t0": 112.26,
 "key": "B004S033",
 "recipe": "PAN_LR",
 "focus": [
@@ -452,10 +452,10 @@
 ],
 "sid": "I",
 "anchor": "The Night's Watch:",
-"t1": 128.43
+"t1": 120.8
 },
 {
-"t0": 128.43,
+"t0": 120.8,
 "key": "B004S034",
 "recipe": "PUSH_IN",
 "focus": [
@@ -464,10 +464,10 @@
 ],
 "sid": "I",
 "anchor": "The Night's King",
-"t1": 132.41
+"t1": 124.78
 },
 {
-"t0": 132.41,
+"t0": 124.78,
 "key": "B001S003",
 "recipe": "PUSH_IN",
 "focus": [
@@ -476,10 +476,10 @@
 ],
 "sid": "I",
 "anchor": "Old Nan",
-"t1": 135.89
+"t1": 128.28
 },
 {
-"t0": 135.89,
+"t0": 128.28,
 "key": "B004S035",
 "recipe": "PUSH_IN",
 "focus": [
@@ -488,10 +488,10 @@
 ],
 "sid": "I",
 "anchor": "\"And that",
-"t1": 141.95
+"t1": 134.32
 },
 {
-"t0": 141.95,
+"t0": 134.32,
 "key": "B004S036",
 "recipe": "DRIFT",
 "focus": [
@@ -500,10 +500,10 @@
 ],
 "sid": "I",
 "anchor": "Fear is",
-"t1": 146.55
+"t1": 138.92
 },
 {
-"t0": 146.55,
+"t0": 138.92,
 "key": "B004S037",
 "recipe": "TILT_UP",
 "focus": [
@@ -512,10 +512,10 @@
 ],
 "sid": "I",
 "anchor": "A man who",
-"t1": 151.81
+"t1": 144.18
 },
 {
-"t0": 151.81,
+"t0": 144.18,
 "key": "B004S038",
 "recipe": "PUSH_IN",
 "focus": [
@@ -524,10 +524,10 @@
 ],
 "sid": "II",
 "anchor": "One night",
-"t1": 157.51
+"t1": 149.88
 },
 {
-"t0": 157.51,
+"t0": 149.88,
 "key": "B004S039",
 "recipe": "PUSH_IN",
 "focus": [
@@ -536,10 +536,10 @@
 ],
 "sid": "II",
 "anchor": "A woman",
-"t1": 160.52
+"t1": 152.89
 },
 {
-"t0": 160.52,
+"t0": 152.89,
 "key": "B015S147",
 "recipe": "PUSH_IN",
 "focus": [
@@ -548,10 +548,10 @@
 ],
 "sid": "II",
 "anchor": "eyes like",
-"t1": 162.78
+"t1": 155.17
 },
 {
-"t0": 162.78,
+"t0": 155.17,
 "key": "B004S040",
 "recipe": "PAN_LR",
 "focus": [
@@ -560,10 +560,10 @@
 ],
 "sid": "II",
 "anchor": "Fearing nothing",
-"t1": 164.96
+"t1": 157.33
 },
 {
-"t0": 164.96,
+"t0": 157.33,
 "key": "B005S041",
 "recipe": "PUSH_IN",
 "focus": [
@@ -572,10 +572,10 @@
 ],
 "sid": "II",
 "anchor": "and caught",
-"t1": 170.12
+"t1": 162.49
 },
 {
-"t0": 170.12,
+"t0": 162.49,
 "key": "B005S042",
 "recipe": "PUSH_IN",
 "focus": [
@@ -584,10 +584,10 @@
 ],
 "sid": "II",
 "anchor": "And with",
-"t1": 175.1
+"t1": 167.47
 },
 {
-"t0": 175.1,
+"t0": 167.47,
 "key": "B005S043",
 "recipe": "DRIFT",
 "focus": [
@@ -596,10 +596,10 @@
 ],
 "sid": "II",
 "anchor": "The books",
-"t1": 177.86
+"t1": 170.23
 },
 {
-"t0": 177.86,
+"t0": 170.23,
 "key": "B005S044",
 "recipe": "PAN_RL",
 "focus": [
@@ -608,10 +608,10 @@
 ],
 "sid": "II",
 "anchor": "But skin",
-"t1": 183.4
+"t1": 175.77
 },
 {
-"t0": 183.4,
+"t0": 175.77,
 "key": "B005S045",
 "recipe": "PUSH_IN",
 "focus": [
@@ -620,10 +620,10 @@
 ],
 "sid": "II",
 "anchor": "And the tales",
-"t1": 187.3
+"t1": 179.67
 },
 {
-"t0": 187.3,
+"t0": 179.67,
 "key": "B005S046",
 "recipe": "PUSH_IN",
 "focus": [
@@ -632,10 +632,10 @@
 ],
 "sid": "II",
 "anchor": "He brought",
-"t1": 190.38
+"t1": 182.75
 },
 {
-"t0": 190.38,
+"t0": 182.75,
 "key": "B005S047",
 "recipe": "PULL_OUT",
 "focus": [
@@ -644,10 +644,10 @@
 ],
 "sid": "II",
 "anchor": "and proclaimed",
-"t1": 195.18
+"t1": 187.63
 },
 {
-"t0": 195.18,
+"t0": 187.63,
 "key": "B005S048",
 "recipe": "DRIFT",
 "focus": [
@@ -656,10 +656,10 @@
 ],
 "sid": "II",
 "anchor": "With strange",
-"t1": 200.04
+"t1": 192.39
 },
 {
-"t0": 200.04,
+"t0": 192.39,
 "key": "B005S049",
 "recipe": "PUSH_IN",
 "focus": [
@@ -668,10 +668,10 @@
 ],
 "sid": "II",
 "anchor": "The men",
-"t1": 204.44
+"t1": 196.81
 },
 {
-"t0": 204.44,
+"t0": 196.81,
 "key": "B005S050",
 "recipe": "PULL_OUT",
 "focus": [
@@ -680,10 +680,10 @@
 ],
 "sid": "II",
 "anchor": "For thirteen",
-"t1": 211.64
+"t1": 204.01
 },
 {
-"t0": 211.64,
+"t0": 204.01,
 "key": "B006S051",
 "recipe": "PAN_LR",
 "focus": [
@@ -692,10 +692,10 @@
 ],
 "sid": "CA",
 "anchor": "Before we",
-"t1": 216.98
+"t1": 209.75
 },
 {
-"t0": 216.98,
+"t0": 209.75,
 "key": "B015S146",
 "recipe": "PULL_OUT",
 "focus": [
@@ -704,10 +704,10 @@
 ],
 "sid": "CA",
 "anchor": "if you want",
-"t1": 222.71
+"t1": 214.66
 },
 {
-"t0": 222.71,
+"t0": 214.66,
 "key": "B006S052",
 "recipe": "PULL_OUT",
 "focus": [
@@ -716,10 +716,10 @@
 ],
 "sid": "III",
 "anchor": "His fall",
-"t1": 229.13
+"t1": 221.12
 },
 {
-"t0": 229.13,
+"t0": 221.12,
 "key": "B006S053",
 "recipe": "PUSH_IN",
 "focus": [
@@ -728,10 +728,10 @@
 ],
 "sid": "III",
 "anchor": "an alliance",
-"t1": 231.87
+"t1": 223.82
 },
 {
-"t0": 231.87,
+"t0": 223.82,
 "key": "B001S008",
 "recipe": "PUSH_IN",
 "focus": [
@@ -740,10 +740,10 @@
 ],
 "sid": "III",
 "anchor": "The King",
-"t1": 234.31
+"t1": 226.22
 },
 {
-"t0": 234.31,
+"t0": 226.22,
 "key": "B001S007",
 "recipe": "TILT_UP",
 "focus": [
@@ -752,10 +752,10 @@
 ],
 "sid": "III",
 "anchor": "and Joramun",
-"t1": 240.43
+"t1": 232.38
 },
 {
-"t0": 240.43,
+"t0": 232.38,
 "key": "B006S054",
 "recipe": "TILT_UP",
 "focus": [
@@ -764,10 +764,10 @@
 ],
 "sid": "III",
 "anchor": "and woke",
-"t1": 243.27
+"t1": 235.2
 },
 {
-"t0": 243.27,
+"t0": 235.2,
 "key": "B006S055",
 "recipe": "PUSH_IN",
 "focus": [
@@ -776,10 +776,10 @@
 ],
 "sid": "III",
 "anchor": "A Stark",
-"t1": 245.85
+"t1": 237.84
 },
 {
-"t0": 245.85,
+"t0": 237.84,
 "key": "B015S148",
 "recipe": "PAN_RL",
 "focus": [
@@ -788,10 +788,10 @@
 ],
 "sid": "III",
 "anchor": "Men who",
-"t1": 248.61
+"t1": 240.58
 },
 {
-"t0": 248.61,
+"t0": 240.58,
 "key": "B006S056",
 "recipe": "PAN_RL",
 "focus": [
@@ -800,10 +800,10 @@
 ],
 "sid": "III",
 "anchor": "now marching",
-"t1": 251.99
+"t1": 243.94
 },
 {
-"t0": 251.99,
+"t0": 243.94,
 "key": "B006S057",
 "recipe": "PUSH_IN",
 "focus": [
@@ -812,10 +812,10 @@
 ],
 "sid": "III",
 "anchor": "They broke",
-"t1": 257.13
+"t1": 249.02
 },
 {
-"t0": 257.13,
+"t0": 249.02,
 "key": "B006S058",
 "recipe": "PUSH_IN",
 "focus": [
@@ -824,10 +824,10 @@
 ],
 "sid": "III",
 "anchor": "Then they",
-"t1": 260.95
+"t1": 252.9
 },
 {
-"t0": 260.95,
+"t0": 252.9,
 "key": "B006S059",
 "recipe": "DRIFT",
 "focus": [
@@ -836,10 +836,10 @@
 ],
 "sid": "III",
 "anchor": "He had",
-"t1": 264.01
+"t1": 255.96
 },
 {
-"t0": 264.01,
+"t0": 255.96,
 "key": "B006S060",
 "recipe": "PUSH_IN",
 "focus": [
@@ -848,10 +848,10 @@
 ],
 "sid": "III",
 "anchor": "So every",
-"t1": 267.2
+"t1": 259.13
 },
 {
-"t0": 267.2,
+"t0": 259.13,
 "key": "B007S061",
 "recipe": "PUSH_IN",
 "focus": [
@@ -860,10 +860,10 @@
 ],
 "sid": "III",
 "anchor": "His deeds",
-"t1": 270.1
+"t1": 262.05
 },
 {
-"t0": 270.1,
+"t0": 262.05,
 "key": "B002S017",
 "recipe": "PUSH_IN",
 "focus": [
@@ -872,10 +872,10 @@
 ],
 "sid": "III",
 "anchor": "Even his",
-"t1": 272.4
+"t1": 264.35
 },
 {
-"t0": 272.4,
+"t0": 264.35,
 "key": "B007S062",
 "recipe": "PULL_OUT",
 "focus": [
@@ -884,10 +884,10 @@
 ],
 "sid": "III",
 "anchor": "That is why",
-"t1": 277.77
+"t1": 269.72
 },
 {
-"t0": 277.77,
+"t0": 269.72,
 "key": "B007S063",
 "recipe": "PUSH_IN",
 "focus": [
@@ -896,10 +896,10 @@
 ],
 "sid": "IV",
 "anchor": "But Old",
-"t1": 282.37
+"t1": 274.32
 },
 {
-"t0": 282.37,
+"t0": 274.32,
 "key": "B007S064",
 "recipe": "PUSH_IN",
 "focus": [
@@ -908,10 +908,10 @@
 ],
 "sid": "IV",
 "anchor": "She always",
-"t1": 285.49
+"t1": 277.46
 },
 {
-"t0": 285.49,
+"t0": 277.46,
 "key": "B007S065",
 "recipe": "PAN_LR",
 "focus": [
@@ -920,10 +920,10 @@
 ],
 "sid": "IV",
 "anchor": "\"Some say",
-"t1": 287.31
+"t1": 279.26
 },
 {
-"t0": 287.31,
+"t0": 279.26,
 "key": "B007S066",
 "recipe": "PAN_RL",
 "focus": [
@@ -932,10 +932,10 @@
 ],
 "sid": "IV",
 "anchor": "Some say a",
-"t1": 292.43
+"t1": 284.38
 },
 {
-"t0": 292.43,
+"t0": 284.38,
 "key": "B007S067",
 "recipe": "PAN_LR",
 "focus": [
@@ -944,10 +944,10 @@
 ],
 "sid": "IV",
 "anchor": "Some would",
-"t1": 297.59
+"t1": 289.54
 },
 {
-"t0": 297.59,
+"t0": 289.54,
 "key": "B007S068",
 "recipe": "PUSH_IN",
 "focus": [
@@ -956,10 +956,10 @@
 ],
 "sid": "IV",
 "anchor": "\"He never",
-"t1": 299.74
+"t1": 291.69
 },
 {
-"t0": 299.74,
+"t0": 291.69,
 "key": "B007S069",
 "recipe": "PUSH_IN",
 "focus": [
@@ -968,10 +968,10 @@
 ],
 "sid": "IV",
 "anchor": "\"He was a Stark, the",
-"t1": 304.08
+"t1": 296.03
 },
 {
-"t0": 304.08,
+"t0": 296.03,
 "key": "B007S070",
 "recipe": "PUSH_IN",
 "focus": [
@@ -980,10 +980,10 @@
 ],
 "sid": "IV",
 "anchor": "Then she",
-"t1": 306.4
+"t1": 298.35
 },
 {
-"t0": 306.4,
+"t0": 298.35,
 "key": "B008S071",
 "recipe": "PULL_OUT",
 "focus": [
@@ -992,10 +992,10 @@
 ],
 "sid": "IV",
 "anchor": "\"He was a Stark of",
-"t1": 309.69
+"t1": 301.64
 },
 {
-"t0": 309.69,
+"t0": 301.64,
 "key": "B008S072",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1004,10 +1004,10 @@
 ],
 "sid": "IV",
 "anchor": "Mayhaps",
-"t1": 312.25
+"t1": 304.2
 },
 {
-"t0": 312.25,
+"t0": 304.2,
 "key": "B008S073",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1016,10 +1016,10 @@
 ],
 "sid": "IV",
 "anchor": "She said",
-"t1": 315.29
+"t1": 307.26
 },
 {
-"t0": 315.29,
+"t0": 307.26,
 "key": "B008S074",
 "recipe": "DRIFT",
 "focus": [
@@ -1028,10 +1028,10 @@
 ],
 "sid": "IV",
 "anchor": "\"Night's King",
-"t1": 318.4
+"t1": 310.35
 },
 {
-"t0": 318.4,
+"t0": 310.35,
 "key": "B008S075",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1040,10 +1040,10 @@
 ],
 "sid": "IV",
 "anchor": "But the night",
-"t1": 321.48
+"t1": 313.43
 },
 {
-"t0": 321.48,
+"t0": 313.43,
 "key": "B008S076",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1052,10 +1052,10 @@
 ],
 "sid": "IV",
 "anchor": "It is not",
-"t1": 323.68
+"t1": 315.63
 },
 {
-"t0": 323.68,
+"t0": 315.63,
 "key": "B015S149",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1064,10 +1064,10 @@
 ],
 "sid": "IV",
 "anchor": "House Stark",
-"t1": 326.11
+"t1": 318.06
 },
 {
-"t0": 326.11,
+"t0": 318.06,
 "key": "B003S030",
 "recipe": "PAN_RL",
 "focus": [
@@ -1076,10 +1076,10 @@
 ],
 "sid": "IV",
 "anchor": "Brandon the Builder.",
-"t1": 327.71
+"t1": 319.7
 },
 {
-"t0": 327.71,
+"t0": 319.7,
 "key": "B008S077",
 "recipe": "PULL_OUT",
 "focus": [
@@ -1088,10 +1088,10 @@
 ],
 "sid": "IV",
 "anchor": "Brandon the Shipwright",
-"t1": 331.17
+"t1": 323.14
 },
 {
-"t0": 331.17,
+"t0": 323.14,
 "key": "B008S078",
 "recipe": "PAN_LR",
 "focus": [
@@ -1100,10 +1100,10 @@
 ],
 "sid": "IV",
 "anchor": "Brandon the Burner.",
-"t1": 332.7
+"t1": 324.65
 },
 {
-"t0": 332.7,
+"t0": 324.65,
 "key": "B008S079",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1112,10 +1112,10 @@
 ],
 "sid": "IV",
 "anchor": "Bran's own",
-"t1": 335.5
+"t1": 327.45
 },
 {
-"t0": 335.5,
+"t0": 327.45,
 "key": "B008S080",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1124,10 +1124,10 @@
 ],
 "sid": "IV",
 "anchor": "A Stark brother",
-"t1": 339.38
+"t1": 331.7
 },
 {
-"t0": 339.38,
+"t0": 331.7,
 "key": "B009S081",
 "recipe": "TILT_UP",
 "focus": [
@@ -1136,10 +1136,10 @@
 ],
 "sid": "IV",
 "anchor": "The family",
-"t1": 345.98
+"t1": 337.91
 },
 {
-"t0": 345.98,
+"t0": 337.91,
 "key": "B009S082",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1148,10 +1148,10 @@
 ],
 "sid": "V",
 "anchor": "The Nightfort",
-"t1": 351.12
+"t1": 343.05
 },
 {
-"t0": 351.12,
+"t0": 343.05,
 "key": "B009S083",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1160,10 +1160,10 @@
 ],
 "sid": "V",
 "anchor": "In its",
-"t1": 355.0
+"t1": 346.93
 },
 {
-"t0": 355.0,
+"t0": 346.93,
 "key": "B009S084",
 "recipe": "PULL_OUT",
 "focus": [
@@ -1172,10 +1172,10 @@
 ],
 "sid": "V",
 "anchor": "there is a door",
-"t1": 356.9
+"t1": 348.83
 },
 {
-"t0": 356.9,
+"t0": 348.83,
 "key": "B001S010",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1184,10 +1184,10 @@
 ],
 "sid": "V",
 "anchor": "The Watch",
-"t1": 359.76
+"t1": 351.69
 },
 {
-"t0": 359.76,
+"t0": 351.69,
 "key": "B009S085",
 "recipe": "DRIFT",
 "focus": [
@@ -1196,10 +1196,10 @@
 ],
 "sid": "V",
 "anchor": "But it",
-"t1": 361.64
+"t1": 353.55
 },
 {
-"t0": 361.64,
+"t0": 353.55,
 "key": "B015S144",
 "recipe": "TILT_UP",
 "focus": [
@@ -1208,10 +1208,10 @@
 ],
 "sid": "V",
 "anchor": "It is pale",
-"t1": 365.65
+"t1": 357.6
 },
 {
-"t0": 365.65,
+"t0": 357.6,
 "key": "B009S086",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1220,10 +1220,10 @@
 ],
 "sid": "V",
 "anchor": "and it has",
-"t1": 367.63
+"t1": 359.56
 },
 {
-"t0": 367.63,
+"t0": 359.56,
 "key": "B009S087",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1232,10 +1232,10 @@
 ],
 "sid": "V",
 "anchor": "When Bran's",
-"t1": 369.45
+"t1": 361.4
 },
 {
-"t0": 369.45,
+"t0": 361.4,
 "key": "B009S088",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1244,10 +1244,10 @@
 ],
 "sid": "V",
 "anchor": "the face",
-"t1": 371.61
+"t1": 363.56
 },
 {
-"t0": 371.61,
+"t0": 363.56,
 "key": "B009S089",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1256,10 +1256,10 @@
 ],
 "sid": "V",
 "anchor": "\"Who are",
-"t1": 374.06
+"t1": 366.03
 },
 {
-"t0": 374.06,
+"t0": 366.03,
 "key": "B001S005",
 "recipe": "DRIFT",
 "focus": [
@@ -1268,10 +1268,10 @@
 ],
 "sid": "V",
 "anchor": "A brother",
-"t1": 376.66
+"t1": 368.63
 },
 {
-"t0": 376.66,
+"t0": 368.63,
 "key": "B009S090",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1280,10 +1280,10 @@
 ],
 "sid": "V",
 "anchor": "answers",
-"t1": 379.62
+"t1": 371.59
 },
 {
-"t0": 379.62,
+"t0": 371.59,
 "key": "B010S091",
 "recipe": "TILT_UP",
 "focus": [
@@ -1292,10 +1292,10 @@
 ],
 "sid": "V",
 "anchor": "\"I am the sword",
-"t1": 381.71
+"t1": 373.68
 },
 {
-"t0": 381.71,
+"t0": 373.68,
 "key": "B010S092",
 "recipe": "DRIFT",
 "focus": [
@@ -1304,10 +1304,10 @@
 ],
 "sid": "V",
 "anchor": "I am the watcher",
-"t1": 383.6
+"t1": 375.57
 },
 {
-"t0": 383.6,
+"t0": 375.57,
 "key": "B010S093",
 "recipe": "PULL_OUT",
 "focus": [
@@ -1316,10 +1316,10 @@
 ],
 "sid": "V",
 "anchor": "I am the shield",
-"t1": 386.76
+"t1": 378.75
 },
 {
-"t0": 386.76,
+"t0": 378.75,
 "key": "B010S094",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1328,10 +1328,10 @@
 ],
 "sid": "V",
 "anchor": "\"Then pass",
-"t1": 391.24
+"t1": 383.23
 },
 {
-"t0": 391.24,
+"t0": 383.23,
 "key": "B010S095",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1340,10 +1340,10 @@
 ],
 "sid": "V",
 "anchor": "and they walk",
-"t1": 395.2
+"t1": 387.19
 },
 {
-"t0": 395.2,
+"t0": 387.19,
 "key": "B010S096",
 "recipe": "DRIFT",
 "focus": [
@@ -1352,10 +1352,10 @@
 ],
 "sid": "V",
 "anchor": "A secret",
-"t1": 401.48
+"t1": 393.47
 },
 {
-"t0": 401.48,
+"t0": 393.47,
 "key": "B010S097",
 "recipe": "HOLD",
 "focus": [
@@ -1364,10 +1364,10 @@
 ],
 "sid": "V",
 "anchor": "The books",
-"t1": 404.12
+"t1": 396.11
 },
 {
-"t0": 404.12,
+"t0": 396.11,
 "key": "B010S098",
 "recipe": "PULL_OUT",
 "focus": [
@@ -1376,10 +1376,10 @@
 ],
 "sid": "V",
 "anchor": "But it is",
-"t1": 406.23
+"t1": 398.22
 },
 {
-"t0": 406.23,
+"t0": 398.22,
 "key": "B010S099",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1388,10 +1388,10 @@
 ],
 "sid": "VI",
 "anchor": "Then, in",
-"t1": 412.87
+"t1": 404.86
 },
 {
-"t0": 412.87,
+"t0": 404.86,
 "key": "B010S100",
 "recipe": "PAN_LR",
 "focus": [
@@ -1400,10 +1400,10 @@
 ],
 "sid": "VI",
 "anchor": "In the fourth",
-"t1": 417.13
+"t1": 409.12
 },
 {
-"t0": 417.13,
+"t0": 409.12,
 "key": "B011S101",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1412,10 +1412,10 @@
 ],
 "sid": "VI",
 "anchor": "to an altar",
-"t1": 419.01
+"t1": 411.0
 },
 {
-"t0": 419.01,
+"t0": 411.0,
 "key": "B002S012",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1424,10 +1424,10 @@
 ],
 "sid": "VI",
 "anchor": "A crown",
-"t1": 422.46
+"t1": 414.34
 },
 {
-"t0": 422.46,
+"t0": 414.34,
 "key": "B011S102",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1436,10 +1436,10 @@
 ],
 "sid": "VI",
 "anchor": "He touches",
-"t1": 426.78
+"t1": 418.75
 },
 {
-"t0": 426.78,
+"t0": 418.75,
 "key": "B015S145",
 "recipe": "PAN_LR",
 "focus": [
@@ -1448,10 +1448,10 @@
 ],
 "sid": "VI",
 "anchor": "HBO's",
-"t1": 430.64
+"t1": 422.59
 },
 {
-"t0": 430.64,
+"t0": 422.59,
 "key": "B011S103",
 "recipe": "HOLD",
 "focus": [
@@ -1460,10 +1460,10 @@
 ],
 "sid": "VI",
 "anchor": "then quietly",
-"t1": 432.81
+"t1": 424.78
 },
 {
-"t0": 432.81,
+"t0": 424.78,
 "key": "B002S011",
 "recipe": "PULL_OUT",
 "focus": [
@@ -1472,10 +1472,10 @@
 ],
 "sid": "VI",
 "anchor": "The show's",
-"t1": 435.61
+"t1": 427.58
 },
 {
-"t0": 435.61,
+"t0": 427.58,
 "key": "B011S104",
 "recipe": "TILT_UP",
 "focus": [
@@ -1484,10 +1484,10 @@
 ],
 "sid": "VI",
 "anchor": "At Hardhome",
-"t1": 437.79
+"t1": 429.76
 },
 {
-"t0": 437.79,
+"t0": 429.76,
 "key": "B015S142",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1496,10 +1496,10 @@
 ],
 "sid": "VI",
 "anchor": "and the dead",
-"t1": 440.09
+"t1": 432.06
 },
 {
-"t0": 440.09,
+"t0": 432.06,
 "key": "B011S105",
 "recipe": "PAN_RL",
 "focus": [
@@ -1508,10 +1508,10 @@
 ],
 "sid": "VI",
 "anchor": "Beyond the",
-"t1": 445.43
+"t1": 437.4
 },
 {
-"t0": 445.43,
+"t0": 437.4,
 "key": "B011S106",
 "recipe": "PULL_OUT",
 "focus": [
@@ -1520,10 +1520,10 @@
 ],
 "sid": "VI",
 "anchor": "In the sixth",
-"t1": 448.71
+"t1": 440.66
 },
 {
-"t0": 448.71,
+"t0": 440.66,
 "key": "B011S107",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1532,10 +1532,10 @@
 ],
 "sid": "VI",
 "anchor": "Long ago",
-"t1": 456.53
+"t1": 448.5
 },
 {
-"t0": 456.53,
+"t0": 448.5,
 "key": "B011S108",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1544,10 +1544,10 @@
 ],
 "sid": "VI",
 "anchor": "He became",
-"t1": 458.92
+"t1": 450.89
 },
 {
-"t0": 458.92,
+"t0": 450.89,
 "key": "B011S109",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1556,10 +1556,10 @@
 ],
 "sid": "VI",
 "anchor": "At Winterfell",
-"t1": 465.14
+"t1": 457.13
 },
 {
-"t0": 465.14,
+"t0": 457.13,
 "key": "B011S110",
 "recipe": "PULL_OUT",
 "focus": [
@@ -1568,10 +1568,10 @@
 ],
 "sid": "VI",
 "anchor": "and his entire",
-"t1": 467.81
+"t1": 459.78
 },
 {
-"t0": 467.81,
+"t0": 459.78,
 "key": "B012S111",
 "recipe": "HOLD",
 "focus": [
@@ -1580,10 +1580,10 @@
 ],
 "sid": "VI",
 "anchor": "None of",
-"t1": 469.54
+"t1": 461.51
 },
 {
-"t0": 469.54,
+"t0": 461.51,
 "key": "B012S112",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1591,11 +1591,11 @@
 0.5
 ],
 "sid": "VII",
-"anchor": "When fans",
-"t1": 476.02
+"anchor": "So are",
+"t1": 465.59
 },
 {
-"t0": 476.02,
+"t0": 465.59,
 "key": "B002S015",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1603,11 +1603,11 @@
 0.5
 ],
 "sid": "VII",
-"anchor": "were the same",
-"t1": 480.22
+"anchor": "and the book's",
+"t1": 468.91
 },
 {
-"t0": 480.22,
+"t0": 468.91,
 "key": "B012S113",
 "recipe": "PAN_LR",
 "focus": [
@@ -1615,11 +1615,23 @@
 0.5
 ],
 "sid": "VII",
-"anchor": "\"As for",
-"t1": 485.88
+"anchor": "In the books",
+"t1": 472.17
 },
 {
-"t0": 485.88,
+"t0": 472.17,
+"key": "B001S001",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "There, the",
+"t1": 476.17
+},
+{
+"t0": 476.17,
 "key": "B012S114",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1627,11 +1639,11 @@
 0.5
 ],
 "sid": "VII",
-"anchor": "akin to",
-"t1": 487.2
+"anchor": "like Lann",
+"t1": 477.33
 },
 {
-"t0": 487.2,
+"t0": 477.33,
 "key": "B003S030",
 "recipe": "PAN_RL",
 "focus": [
@@ -1640,10 +1652,10 @@
 ],
 "sid": "VII",
 "anchor": "and Brandon",
-"t1": 489.12
+"t1": 479.27
 },
 {
-"t0": 489.12,
+"t0": 479.27,
 "key": "B012S115",
 "recipe": "DRIFT",
 "focus": [
@@ -1652,10 +1664,10 @@
 ],
 "sid": "VII",
 "anchor": "and no more",
-"t1": 493.5
+"t1": 483.2
 },
 {
-"t0": 493.5,
+"t0": 483.2,
 "key": "B012S116",
 "recipe": "PULL_OUT",
 "focus": [
@@ -1663,11 +1675,11 @@
 0.5
 ],
 "sid": "VII",
-"anchor": "In other",
-"t1": 498.88
+"anchor": "A legend, like",
+"t1": 486.8
 },
 {
-"t0": 498.88,
+"t0": 486.8,
 "key": "B003S029",
 "recipe": "PULL_OUT",
 "focus": [
@@ -1676,10 +1688,10 @@
 ],
 "sid": "VII",
 "anchor": "and the builder",
-"t1": 500.54
+"t1": 489.94
 },
 {
-"t0": 500.54,
+"t0": 489.94,
 "key": "B012S117",
 "recipe": "DRIFT",
 "focus": [
@@ -1688,10 +1700,10 @@
 ],
 "sid": "VII",
 "anchor": "He may",
-"t1": 502.96
+"t1": 492.74
 },
 {
-"t0": 502.96,
+"t0": 492.74,
 "key": "B012S118",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1700,10 +1712,10 @@
 ],
 "sid": "VII",
 "anchor": "Notice",
-"t1": 505.48
+"t1": 494.62
 },
 {
-"t0": 505.48,
+"t0": 494.62,
 "key": "B004S034",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1711,11 +1723,11 @@
 0.5
 ],
 "sid": "VII",
-"anchor": "Martin prefers",
-"t1": 511.84
+"anchor": "The books call",
+"t1": 500.9
 },
 {
-"t0": 511.84,
+"t0": 500.9,
 "key": "B012S119",
 "recipe": "PULL_OUT",
 "focus": [
@@ -1724,10 +1736,10 @@
 ],
 "sid": "VII",
 "anchor": "And the books",
-"t1": 515.03
+"t1": 504.68
 },
 {
-"t0": 515.03,
+"t0": 504.68,
 "key": "B012S120",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1736,10 +1748,10 @@
 ],
 "sid": "VII",
 "anchor": "No one in",
-"t1": 520.11
+"t1": 509.9
 },
 {
-"t0": 520.11,
+"t0": 509.9,
 "key": "B013S121",
 "recipe": "PAN_LR",
 "focus": [
@@ -1748,10 +1760,10 @@
 ],
 "sid": "VII",
 "anchor": "No one knows",
-"t1": 522.57
+"t1": 512.26
 },
 {
-"t0": 522.57,
+"t0": 512.26,
 "key": "B013S122",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1760,10 +1772,10 @@
 ],
 "sid": "VII",
 "anchor": "The children",
-"t1": 527.862
+"t1": 517.99
 },
 {
-"t0": 527.862,
+"t0": 517.99,
 "key": "B013S123",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1771,11 +1783,11 @@
 0.5
 ],
 "sid": "VIII",
-"anchor": "But Martin's",
-"t1": 534.282
+"anchor": "But the books",
+"t1": 524.79
 },
 {
-"t0": 534.282,
+"t0": 524.79,
 "key": "B013S124",
 "recipe": "PAN_LR",
 "focus": [
@@ -1784,10 +1796,10 @@
 ],
 "sid": "VIII",
 "anchor": "In the last",
-"t1": 538.462
+"t1": 529.19
 },
 {
-"t0": 538.462,
+"t0": 529.19,
 "key": "B001S006",
 "recipe": "PAN_LR",
 "focus": [
@@ -1796,10 +1808,10 @@
 ],
 "sid": "VIII",
 "anchor": "He wears",
-"t1": 544.622
+"t1": 536.13
 },
 {
-"t0": 544.622,
+"t0": 536.13,
 "key": "B013S125",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1808,10 +1820,10 @@
 ],
 "sid": "VIII",
 "anchor": "His hands",
-"t1": 547.742
+"t1": 539.25
 },
 {
-"t0": 547.742,
+"t0": 539.25,
 "key": "B013S126",
 "recipe": "TILT_UP",
 "focus": [
@@ -1820,10 +1832,10 @@
 ],
 "sid": "VIII",
 "anchor": "He cannot",
-"t1": 549.942
+"t1": 541.43
 },
 {
-"t0": 549.942,
+"t0": 541.43,
 "key": "B013S127",
 "recipe": "DRIFT",
 "focus": [
@@ -1832,10 +1844,10 @@
 ],
 "sid": "VIII",
 "anchor": "\"There are",
-"t1": 554.742
+"t1": 546.21
 },
 {
-"t0": 554.742,
+"t0": 546.21,
 "key": "B013S128",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1844,10 +1856,10 @@
 ],
 "sid": "VIII",
 "anchor": "The children",
-"t1": 560.382
+"t1": 552.25
 },
 {
-"t0": 560.382,
+"t0": 552.25,
 "key": "B013S129",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1856,10 +1868,10 @@
 ],
 "sid": "VIII",
 "anchor": "Readers",
-"t1": 562.562
+"t1": 554.33
 },
 {
-"t0": 562.562,
+"t0": 554.33,
 "key": "B013S130",
 "recipe": "DRIFT",
 "focus": [
@@ -1868,10 +1880,10 @@
 ],
 "sid": "VIII",
 "anchor": "Some believe",
-"t1": 565.862
+"t1": 557.67
 },
 {
-"t0": 565.862,
+"t0": 557.67,
 "key": "B014S131",
 "recipe": "PULL_OUT",
 "focus": [
@@ -1880,10 +1892,10 @@
 ],
 "sid": "VIII",
 "anchor": "A few",
-"t1": 568.722
+"t1": 560.45
 },
 {
-"t0": 568.722,
+"t0": 560.45,
 "key": "B014S132",
 "recipe": "PAN_RL",
 "focus": [
@@ -1892,10 +1904,10 @@
 ],
 "sid": "VIII",
 "anchor": "And beyond",
-"t1": 573.162
+"t1": 564.53
 },
 {
-"t0": 573.162,
+"t0": 564.53,
 "key": "B014S133",
 "recipe": "PULL_OUT",
 "focus": [
@@ -1904,10 +1916,10 @@
 ],
 "sid": "VIII",
 "anchor": "\"We opened",
-"t1": 575.542
+"t1": 566.67
 },
 {
-"t0": 575.542,
+"t0": 566.67,
 "key": "B014S134",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1916,10 +1928,10 @@
 ],
 "sid": "VIII",
 "anchor": "the wildling",
-"t1": 580.772
+"t1": 571.51
 },
 {
-"t0": 580.772,
+"t0": 571.51,
 "key": "B001S007",
 "recipe": "TILT_UP",
 "focus": [
@@ -1928,10 +1940,10 @@
 ],
 "sid": "VIII",
 "anchor": "The horn",
-"t1": 585.372
+"t1": 575.0
 },
 {
-"t0": 585.372,
+"t0": 575.0,
 "key": "B014S135",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1939,11 +1951,11 @@
 0.5
 ],
 "sid": "VIII",
-"anchor": "Martin has",
-"t1": 587.332
+"anchor": "The books explain",
+"t1": 577.82
 },
 {
-"t0": 587.332,
+"t0": 577.82,
 "key": "B014S136",
 "recipe": "PUSH_IN",
 "focus": [
@@ -1952,10 +1964,10 @@
 ],
 "sid": "VIII",
 "anchor": "The Winds",
-"t1": 595.842
+"t1": 586.35
 },
 {
-"t0": 595.842,
+"t0": 586.35,
 "key": "B014S137",
 "recipe": "DRIFT",
 "focus": [
@@ -1964,10 +1976,10 @@
 ],
 "sid": "VIII",
 "anchor": "So for now",
-"t1": 600.362
+"t1": 590.88
 },
 {
-"t0": 600.362,
+"t0": 590.88,
 "key": "B008S074",
 "recipe": "DRIFT",
 "focus": [
@@ -1976,10 +1988,10 @@
 ],
 "sid": "VIII",
 "anchor": "A man by",
-"t1": 602.372
+"t1": 592.47
 },
 {
-"t0": 602.372,
+"t0": 592.47,
 "key": "B014S138",
 "recipe": "TILT_UP",
 "focus": [
@@ -1988,10 +2000,10 @@
 ],
 "sid": "VIII",
 "anchor": "A legend",
-"t1": 604.332
+"t1": 594.09
 },
 {
-"t0": 604.332,
+"t0": 594.09,
 "key": "B014S139",
 "recipe": "PUSH_IN",
 "focus": [
@@ -2000,10 +2012,10 @@
 ],
 "sid": "VIII",
 "anchor": "And a Stark",
-"t1": 608.782
+"t1": 597.92
 },
 {
-"t0": 608.782,
+"t0": 597.92,
 "key": "B014S140",
 "recipe": "PUSH_IN",
 "focus": [
@@ -2012,10 +2024,10 @@
 ],
 "sid": "CB",
 "anchor": "So, was",
-"t1": 627.992
+"t1": 617.13
 },
 {
-"t0": 627.992,
+"t0": 617.13,
 "key": "B015S150",
 "recipe": "PULL_OUT",
 "focus": [
@@ -2024,14 +2036,14 @@
 ],
 "sid": "CB",
 "anchor": "The archive",
-"t1": 635.852
+"t1": 624.99
 }
 ],
 "graphics": [
 {
 "kind": "TITLE",
-"t0": 39.92,
-"t1": 43.32,
+"t0": 32.67,
+"t1": 35.67,
 "p": {
 "kicker": "THE MYTHIC ARCHIVES PRESENTS",
 "title": "THE NIGHT KING",
@@ -2040,8 +2052,8 @@
 },
 {
 "kind": "IDENT",
-"t0": 42.97,
-"t1": 47.57,
+"t0": 35.32,
+"t1": 39.92,
 "p": {
 "title": "THE MYTHIC ARCHIVES",
 "tag": "WESTEROS  \u2022  ARRAKIS  \u2022  MIDDLE-EARTH",
@@ -2050,8 +2062,8 @@
 },
 {
 "kind": "PLACE",
-"t0": 47.52,
-"t1": 51.52,
+"t0": 39.87,
+"t1": 43.87,
 "p": {
 "place": "THE NIGHTFORT",
 "sub": "The Wall \u00b7 abandoned two hundred years"
@@ -2059,8 +2071,8 @@
 },
 {
 "kind": "NAME",
-"t0": 64.3,
-"t1": 67.7,
+"t0": 56.67,
+"t1": 60.07,
 "p": {
 "name": "BRAN STARK",
 "role": "Heir of Winterfell"
@@ -2068,8 +2080,8 @@
 },
 {
 "kind": "CHAPTER",
-"t0": 94.58,
-"t1": 97.88,
+"t0": 86.95,
+"t1": 90.25,
 "p": {
 "num": "I",
 "title": "The Thirteenth Lord Commander"
@@ -2077,8 +2089,8 @@
 },
 {
 "kind": "STAT",
-"t0": 105.91,
-"t1": 109.31,
+"t0": 98.28,
+"t1": 101.68,
 "p": {
 "value": 700,
 "label": "FEET OF ICE",
@@ -2087,8 +2099,8 @@
 },
 {
 "kind": "NAME",
-"t0": 108.53,
-"t1": 112.13,
+"t0": 100.9,
+"t1": 104.5,
 "p": {
 "name": "BRANDON THE BUILDER",
 "role": "First King of Winter \u00b7 legend"
@@ -2096,8 +2108,8 @@
 },
 {
 "kind": "NAME",
-"t0": 129.96,
-"t1": 132.37,
+"t0": 122.35,
+"t1": 124.74,
 "p": {
 "name": "THE NIGHT'S KING",
 "role": "13th Lord Commander of the Night's Watch"
@@ -2105,8 +2117,8 @@
 },
 {
 "kind": "NAME",
-"t0": 132.42,
-"t1": 135.62,
+"t0": 124.79,
+"t1": 127.99,
 "p": {
 "name": "OLD NAN",
 "role": "Storyteller of Winterfell"
@@ -2114,8 +2126,8 @@
 },
 {
 "kind": "CHAPTER",
-"t0": 151.81,
-"t1": 155.11,
+"t0": 144.18,
+"t1": 147.48,
 "p": {
 "num": "II",
 "title": "The Corpse Queen"
@@ -2123,8 +2135,8 @@
 },
 {
 "kind": "NAME",
-"t0": 185.57,
-"t1": 189.17,
+"t0": 177.96,
+"t1": 181.56,
 "p": {
 "name": "THE CORPSE QUEEN",
 "role": "Skin white as the moon \u00b7 eyes like blue stars"
@@ -2132,8 +2144,8 @@
 },
 {
 "kind": "STAT",
-"t0": 206.34,
-"t1": 209.74,
+"t0": 198.71,
+"t1": 202.11,
 "p": {
 "value": 13,
 "label": "YEARS OF THE NIGHT'S KING",
@@ -2142,16 +2154,16 @@
 },
 {
 "kind": "SUB",
-"t0": 216.99,
-"t1": 222.26,
+"t0": 209.76,
+"t1": 214.21,
 "p": {
-"click_at": 3.01
+"click_at": 2.73
 }
 },
 {
 "kind": "CHAPTER",
-"t0": 222.71,
-"t1": 226.01,
+"t0": 214.66,
+"t1": 217.96,
 "p": {
 "num": "III",
 "title": "Two Kings Against One"
@@ -2159,8 +2171,8 @@
 },
 {
 "kind": "NAME",
-"t0": 231.88,
-"t1": 234.27,
+"t0": 223.83,
+"t1": 226.18,
 "p": {
 "name": "THE KING OF WINTER",
 "role": "House Stark of Winterfell"
@@ -2168,8 +2180,8 @@
 },
 {
 "kind": "NAME",
-"t0": 234.32,
-"t1": 237.72,
+"t0": 226.23,
+"t1": 229.63,
 "p": {
 "name": "JORAMUN",
 "role": "King-beyond-the-Wall"
@@ -2177,8 +2189,8 @@
 },
 {
 "kind": "STAT",
-"t0": 273.55,
-"t1": 276.95,
+"t0": 265.5,
+"t1": 268.9,
 "p": {
 "value": 8000,
 "label": "YEARS OF SILENCE",
@@ -2187,8 +2199,8 @@
 },
 {
 "kind": "CHAPTER",
-"t0": 277.77,
-"t1": 281.07,
+"t0": 269.72,
+"t1": 273.02,
 "p": {
 "num": "IV",
 "title": "A Stark of Winterfell"
@@ -2196,8 +2208,8 @@
 },
 {
 "kind": "CHAPTER",
-"t0": 345.98,
-"t1": 349.28,
+"t0": 337.91,
+"t1": 341.21,
 "p": {
 "num": "V",
 "title": "The Black Gate"
@@ -2205,8 +2217,8 @@
 },
 {
 "kind": "PLACE",
-"t0": 356.91,
-"t1": 360.51,
+"t0": 348.84,
+"t1": 352.44,
 "p": {
 "place": "THE BLACK GATE",
 "sub": "Beneath the Nightfort"
@@ -2214,8 +2226,8 @@
 },
 {
 "kind": "NAME",
-"t0": 375.75,
-"t1": 378.95,
+"t0": 367.72,
+"t1": 370.92,
 "p": {
 "name": "SAMWELL TARLY",
 "role": "Brother of the Night's Watch"
@@ -2223,8 +2235,8 @@
 },
 {
 "kind": "CHAPTER",
-"t0": 406.23,
-"t1": 409.53,
+"t0": 398.22,
+"t1": 401.52,
 "p": {
 "num": "VI",
 "title": "The King of the Dead"
@@ -2232,8 +2244,8 @@
 },
 {
 "kind": "NOTE",
-"t0": 408.58,
-"t1": 413.18,
+"t0": 400.57,
+"t1": 405.17,
 "p": {
 "head": "THE SHOW",
 "body": "Everything in this chapter appears only in the HBO series, not in the books."
@@ -2241,35 +2253,35 @@
 },
 {
 "kind": "CHAPTER",
-"t0": 469.54,
-"t1": 472.84,
+"t0": 461.51,
+"t1": 464.81,
 "p": {
 "num": "VII",
-"title": "Martin's Answer"
+"title": "The Legend in the Books"
 }
 },
 {
 "kind": "NOTE",
-"t0": 480.23,
-"t1": 492.73,
+"t0": 472.18,
+"t1": 483.68,
 "p": {
-"head": "GEORGE R. R. MARTIN",
-"body": "\u201cIn the books he is a legendary figure, akin to Lann the Clever and Brandon the Builder, and no more likely to have survived to the present day than they have.\u201d"
+"head": "IN THE BOOKS",
+"body": "A figure of legend, like Lann the Clever and Brandon the Builder \u2014 no more likely to have survived to the present day than they have."
 }
 },
 {
 "kind": "NOTE",
-"t0": 505.49,
-"t1": 511.09,
+"t0": 494.63,
+"t1": 500.23,
 "p": {
 "head": "NIGHT'S KING",
-"body": "Martin's spelling: a title, like King in the North. The show's spelling: Night King."
+"body": "The books' spelling: a title, like King in the North. The show's spelling: Night King."
 }
 },
 {
 "kind": "CHAPTER",
-"t0": 527.862,
-"t1": 531.162,
+"t0": 517.99,
+"t1": 521.29,
 "p": {
 "num": "VIII",
 "title": "The Ranger with Cold Hands"
@@ -2277,8 +2289,8 @@
 },
 {
 "kind": "NAME",
-"t0": 560.392,
-"t1": 563.592,
+"t0": 552.26,
+"t1": 555.46,
 "p": {
 "name": "COLDHANDS",
 "role": "A Dance with Dragons"
@@ -2286,8 +2298,8 @@
 },
 {
 "kind": "END",
-"t0": 609.932,
-"t1": 635.852,
+"t0": 599.07,
+"t1": 624.99,
 "p": {
 "kicker": "WATCH NEXT",
 "title": "BEFORE THE FIRST MEN",
@@ -2295,8 +2307,8 @@
 "sub": "The Ancient World of Westeros  \u00b7  coming to the archive",
 "q": "TRAITOR \u2014 OR PROPHET?",
 "q_at": 0.05,
-"comment_at": 11.07,
-"like_at": 15.05,
+"comment_at": 11.09,
+"like_at": 15.03,
 "sub_at": 15.65
 }
 }
@@ -2305,7817 +2317,7722 @@
 [
 "On",
 0.45,
-0.63
+0.65
 ],
 [
 "television,",
-0.63,
-1.17
+0.65,
+1.11
 ],
 [
 "he",
-1.85,
-1.99
+1.81,
+1.89
 ],
 [
 "is",
-1.99,
-2.17
+1.89,
+2.09
 ],
 [
 "the",
-2.17,
-2.39
+2.09,
+2.29
 ],
 [
 "king",
-2.39,
-2.61
+2.29,
+2.57
 ],
 [
 "of",
-2.61,
-2.81
+2.57,
+2.83
 ],
 [
 "the",
-2.81,
+2.83,
 2.95
 ],
 [
 "dead.",
 2.95,
-3.25
+3.29
 ],
 [
 "A",
-3.93,
-4.17
+3.84,
+4.02
 ],
 [
 "crown",
-4.17,
-4.51
+4.02,
+4.26
 ],
 [
 "of",
-4.51,
-4.73
+4.26,
+4.46
 ],
 [
 "ice",
-4.73,
-4.99
+4.46,
+4.72
 ],
 [
 "grows",
-4.99,
-5.31
+4.72,
+5.04
 ],
 [
 "from",
-5.31,
-5.63
+5.04,
+5.34
 ],
 [
 "his",
-5.63,
-5.79
+5.34,
+5.52
 ],
 [
 "skull.",
-5.79,
-6.19
+5.52,
+5.9
 ],
 [
 "He",
-6.85,
-7.03
+6.52,
+6.74
 ],
 [
 "raises",
-7.03,
-7.45
+6.74,
+7.1
 ],
 [
 "armies",
-7.45,
-7.93
+7.1,
+7.52
 ],
 [
 "with",
-7.93,
-8.23
+7.52,
+7.8
 ],
 [
 "a",
-8.23,
-8.39
+7.8,
+7.96
 ],
 [
 "lift",
-8.39,
-8.63
+7.96,
+8.18
 ],
 [
 "of",
-8.63,
-8.81
+8.18,
+8.38
 ],
 [
 "his",
-8.81,
-8.95
+8.38,
+8.52
 ],
 [
 "arms,",
-8.95,
-9.35
+8.52,
+8.9
 ],
 [
 "and",
-9.69,
-9.89
+9.36,
+9.54
 ],
 [
 "when",
-9.89,
-10.03
+9.54,
+9.68
 ],
 [
 "he",
-10.03,
-10.23
+9.68,
+9.86
 ],
 [
 "finally",
-10.23,
-10.63
+9.86,
+10.14
 ],
 [
 "falls,",
-10.63,
-11.19
+10.14,
+10.66
 ],
 [
 "every",
-11.71,
-12.01
+11.28,
+11.32
 ],
 [
 "dead",
-12.01,
-12.35
+11.32,
+11.56
 ],
 [
 "thing",
-12.35,
-12.69
+11.56,
+11.78
 ],
 [
 "in",
-12.69,
-12.87
+11.78,
+11.92
 ],
 [
 "the",
-12.87,
-13.01
+11.92,
+12.02
 ],
 [
 "world",
-13.01,
-13.35
+12.02,
+12.24
 ],
 [
 "falls",
-13.35,
-13.77
+12.24,
+12.56
 ],
 [
 "with",
-13.77,
-14.09
+12.56,
+12.84
 ],
 [
 "him.",
-14.09,
-14.41
+12.84,
+13.1
 ],
 [
 "But",
-14.99,
-15.25
+13.66,
+13.92
 ],
 [
-"George",
-15.25,
-15.67
-],
-[
-"R.",
-15.67,
-15.93
-],
-[
-"R.",
-16.07,
-16.07
-],
-[
-"Martin's",
-17.03,
-17.23
+"the",
+13.92,
+14.16
 ],
 [
 "books",
-17.23,
-17.47
+14.16,
+14.52
 ],
 [
 "tell",
-17.47,
-18.03
+14.52,
+15.04
 ],
 [
 "a",
-18.03,
-18.23
+15.04,
+15.2
 ],
 [
 "very",
-18.23,
-18.57
+15.2,
+15.5
 ],
 [
 "different",
-18.57,
-18.99
+15.5,
+15.82
 ],
 [
 "story.",
-18.99,
-19.47
+15.82,
+16.36
 ],
 [
 "In",
-20.63,
-20.85
+17.3,
+17.54
 ],
 [
 "the",
-20.85,
-20.99
+17.54,
+17.68
 ],
 [
 "books,",
-20.99,
-21.33
+17.68,
+18.0
 ],
 [
 "the",
-21.73,
-21.93
+18.28,
+18.44
 ],
 [
 "Night's",
-21.93,
-22.43
+18.44,
+18.82
 ],
 [
 "King",
-22.43,
-22.57
+18.82,
+18.96
 ],
 [
 "was",
-22.57,
-22.83
+18.96,
+19.22
 ],
 [
 "a",
-22.83,
-23.01
+19.22,
+19.38
 ],
 [
 "man.",
-23.01,
-23.39
+19.38,
+19.68
 ],
 [
 "A",
-24.43,
-24.65
+20.36,
+20.54
 ],
 [
 "brother",
-24.65,
-24.93
+20.54,
+20.76
 ],
 [
 "of",
-24.93,
-25.23
+20.76,
+21.06
 ],
 [
 "the",
-25.23,
-25.39
+21.06,
+21.2
 ],
 [
 "Night's",
-25.39,
-25.77
+21.2,
+21.64
 ],
 [
 "Watch,",
-25.77,
-26.01
+21.64,
+21.86
 ],
 [
 "who",
-26.63,
-26.81
+22.26,
+22.38
 ],
 [
 "fell",
-26.81,
-27.05
+22.38,
+22.62
 ],
 [
 "in",
-27.05,
-27.29
+22.62,
+22.82
 ],
 [
 "love",
-27.29,
-27.55
+22.82,
+23.0
 ],
 [
 "with",
-27.55,
-27.73
+23.0,
+23.2
 ],
 [
 "a",
-27.73,
-27.89
+23.2,
+23.36
 ],
 [
 "woman",
-27.89,
-28.15
+23.36,
+23.58
 ],
 [
 "whose",
-28.15,
-28.41
+23.58,
+23.88
 ],
 [
 "skin",
-28.41,
-28.83
+23.88,
+24.32
 ],
 [
 "was",
-28.83,
-29.07
+24.32,
+24.56
 ],
 [
 "white",
-29.07,
-29.43
+24.56,
+24.86
 ],
 [
 "as",
-29.43,
-29.73
+24.86,
+25.08
 ],
 [
 "the",
-29.73,
-29.91
+25.08,
+25.26
 ],
 [
 "moon,",
-29.91,
-30.21
+25.26,
+25.58
 ],
 [
 "and",
-30.21,
-31.09
+25.58,
+26.22
 ],
 [
 "whose",
-31.09,
-31.29
+26.22,
+26.42
 ],
 [
 "eyes",
-31.29,
-31.79
+26.42,
+26.84
 ],
 [
 "were",
-31.79,
-32.19
+26.84,
+27.12
 ],
 [
 "like",
-32.19,
-32.39
+27.12,
+27.32
 ],
 [
 "blue",
-32.39,
-32.73
+27.32,
+27.68
 ],
 [
 "stars.",
-32.73,
-33.29
+27.68,
+28.28
 ],
 [
 "When",
-35.05,
-35.37
+29.0,
+29.26
 ],
 [
 "it",
-35.37,
-35.49
+29.26,
+29.38
 ],
 [
 "was",
-35.49,
-35.65
+29.38,
+29.52
 ],
 [
 "over,",
-35.65,
-36.19
+29.52,
+29.88
 ],
 [
 "his",
-36.71,
-36.83
+30.2,
+30.3
 ],
 [
 "name",
-36.83,
-37.17
+30.3,
+30.6
 ],
 [
 "was",
-37.17,
-37.45
+30.6,
+30.82
 ],
 [
 "erased",
-37.45,
-37.83
+30.82,
+31.22
 ],
 [
 "from",
-37.83,
-38.15
+31.22,
+31.58
 ],
 [
 "history.",
-38.15,
-38.57
+31.58,
+32.04
 ],
 [
 "So",
-39.97,
-40.41
+32.72,
+32.94
 ],
 [
 "who",
-40.41,
-40.69
+32.94,
+33.18
 ],
 [
 "was",
-40.69,
-40.95
+33.18,
+33.44
 ],
 [
 "he",
-40.95,
-41.21
+33.44,
+33.68
 ],
 [
 "really?",
-41.21,
-41.57
+33.7,
+33.92
 ],
 [
 "On",
-47.57,
-47.81
+39.92,
+40.16
 ],
 [
 "the",
-47.81,
-47.99
+40.16,
+40.34
 ],
 [
 "Wall",
-47.99,
-48.35
+40.34,
+40.7
 ],
 [
 "stands",
-48.35,
-48.73
+40.7,
+41.08
 ],
 [
 "the",
-48.73,
-49.09
+41.08,
+41.44
 ],
 [
 "oldest",
-49.09,
-49.55
+41.44,
+41.9
 ],
 [
 "castle",
-49.55,
-49.97
+41.9,
+42.32
 ],
 [
 "of",
-49.97,
-50.27
+42.32,
+42.62
 ],
 [
 "the",
-50.27,
-50.43
+42.62,
+42.78
 ],
 [
 "Night's",
-50.43,
-50.85
+42.78,
+43.2
 ],
 [
 "Watch,",
-50.85,
-51.07
+43.2,
+43.4
 ],
 [
 "and",
-51.61,
-51.93
+44.0,
+44.28
 ],
 [
 "the",
-51.93,
-52.09
+44.28,
+44.44
 ],
 [
 "largest.",
-52.09,
-52.47
+44.44,
+44.82
 ],
 [
 "They",
-53.01,
-53.26
+45.34,
+45.61
 ],
 [
 "call",
-53.26,
-53.5
+45.61,
+45.89
 ],
 [
 "it",
-53.5,
-53.76
+45.89,
+46.13
 ],
 [
 "the",
-53.76,
-54.02
+46.13,
+46.39
 ],
 [
 "Nightfort.",
-54.02,
-54.56
+46.39,
+46.93
 ],
 [
 "Its",
-55.38,
-55.58
+47.75,
+47.95
 ],
 [
 "towers",
-55.58,
-55.98
+47.95,
+48.35
 ],
 [
 "are",
-55.98,
-56.28
+48.35,
+48.65
 ],
 [
 "broken.",
-56.28,
-56.62
+48.65,
+48.99
 ],
 [
 "Its",
-57.2,
-57.34
+49.55,
+49.71
 ],
 [
 "halls",
-57.34,
-57.74
+49.71,
+50.11
 ],
 [
 "are",
-57.74,
-58.12
+50.11,
+50.49
 ],
 [
 "full",
-58.12,
-58.48
+50.49,
+50.85
 ],
 [
 "of",
-58.48,
-58.82
+50.85,
+51.17
 ],
 [
 "rats",
-58.82,
-59.18
+51.17,
+51.55
 ],
 [
 "and",
-59.18,
-59.52
+51.55,
+51.89
 ],
 [
 "dust.",
-59.52,
-59.86
+51.89,
+52.23
 ],
 [
 "For",
-60.4,
-60.61
+52.77,
+52.98
 ],
 [
 "two",
-60.61,
-60.85
+52.98,
+53.22
 ],
 [
 "hundred",
-60.85,
-61.17
+53.22,
+53.54
 ],
 [
 "years,",
-61.17,
-61.61
+53.54,
+53.98
 ],
 [
 "no",
-61.91,
-62.25
+54.3,
+54.62
 ],
 [
 "brother",
-62.25,
-62.55
+54.62,
+54.94
 ],
 [
 "has",
-62.55,
-62.89
+54.94,
+55.26
 ],
 [
 "lived",
-62.89,
-63.13
+55.26,
+55.5
 ],
 [
 "there.",
-63.13,
-63.47
+55.5,
+55.84
 ],
 [
 "When",
-64.35,
-64.51
+56.72,
+56.88
 ],
 [
 "young",
-64.51,
-64.79
+56.88,
+57.16
 ],
 [
 "Bran",
-64.79,
-65.13
+57.16,
+57.5
 ],
 [
 "Stark",
-65.13,
-65.59
+57.5,
+57.96
 ],
 [
 "shelters",
-65.59,
-65.91
+57.96,
+58.28
 ],
 [
 "inside",
-65.91,
-66.51
+58.28,
+58.88
 ],
 [
 "its",
-66.51,
-66.75
+58.88,
+59.12
 ],
 [
 "walls,",
-66.75,
-67.05
+59.12,
+59.42
 ],
 [
 "he",
-67.53,
-67.75
+59.88,
+60.12
 ],
 [
 "remembers",
-67.75,
-68.17
+60.12,
+60.54
 ],
 [
 "the",
-68.17,
-68.53
+60.54,
+60.9
 ],
 [
 "stories",
-68.53,
-68.87
+60.9,
+61.24
 ],
 [
 "his",
-68.87,
-69.15
+61.24,
+61.52
 ],
 [
 "old",
-69.15,
-69.49
+61.52,
+61.86
 ],
 [
 "nurse",
-69.49,
-69.83
+61.86,
+62.2
 ],
 [
 "told",
-69.83,
-70.15
+62.2,
+62.52
 ],
 [
 "him",
-70.15,
-70.37
+62.52,
+62.74
 ],
 [
 "about",
-70.37,
-70.59
+62.74,
+62.96
 ],
 [
 "this",
-70.59,
-70.83
+62.96,
+63.2
 ],
 [
 "place.",
-70.83,
-71.17
+63.2,
+63.54
 ],
 [
 "Here,",
-72.05,
-72.41
+64.44,
+64.78
 ],
 [
 "the",
-72.97,
-73.19
+65.34,
+65.56
 ],
 [
 "Rat",
-73.19,
-73.51
+65.56,
+65.88
 ],
 [
 "Cook",
-73.51,
-73.91
+65.88,
+66.26
 ],
 [
 "served",
-73.91,
-74.49
+66.26,
+66.86
 ],
 [
 "a",
-74.49,
-74.75
+66.86,
+67.12
 ],
 [
 "king",
-74.75,
-75.05
+67.12,
+67.42
 ],
 [
 "a",
-75.05,
-75.29
+67.42,
+67.68
 ],
 [
 "pie",
-75.29,
-75.61
+67.68,
+67.98
 ],
 [
 "made",
-75.61,
-75.93
+67.98,
+68.3
 ],
 [
 "from",
-75.93,
-76.19
+68.3,
+68.56
 ],
 [
 "the",
-76.19,
-76.33
+68.56,
+68.7
 ],
 [
 "king's",
-76.33,
-76.71
+68.7,
+69.08
 ],
 [
 "own",
-76.71,
-76.83
+69.08,
+69.2
 ],
 [
 "son.",
-76.83,
-77.21
+69.2,
+69.58
 ],
 [
 "Here,",
-77.91,
-78.33
+70.28,
+70.68
 ],
 [
 "the",
-78.83,
-78.91
+71.2,
+71.28
 ],
 [
 "seventy-nine",
-78.91,
-79.65
+71.28,
+72.02
 ],
 [
 "sentinels",
-79.65,
-80.29
+72.02,
+72.66
 ],
 [
 "were",
-80.29,
-80.53
+72.66,
+72.9
 ],
 [
 "sealed",
-80.53,
-80.95
+72.9,
+73.32
 ],
 [
 "into",
-80.95,
-81.27
+73.32,
+73.64
 ],
 [
 "the",
-81.27,
-81.47
+73.64,
+73.84
 ],
 [
 "ice",
-81.47,
-81.73
+73.84,
+74.1
 ],
 [
 "for",
-81.73,
-82.03
+74.1,
+74.4
 ],
 [
 "deserting,",
-82.03,
-82.69
+74.4,
+75.06
 ],
 [
 "and",
-82.97,
-83.33
+75.38,
+75.7
 ],
 [
 "still",
-83.33,
-83.75
+75.7,
+76.12
 ],
 [
 "stand",
-83.75,
-84.19
+76.12,
+76.56
 ],
 [
 "watch,",
-84.19,
-84.65
+76.56,
+77.02
 ],
 [
 "facing",
-85.05,
-85.39
+77.42,
+77.76
 ],
 [
 "north.",
-85.39,
-85.79
+77.76,
+78.16
 ],
 [
 "And",
-86.75,
-86.91
+79.1,
+79.28
 ],
 [
 "here,",
-86.91,
-87.37
+79.28,
+79.74
 ],
 [
 "before",
-87.75,
-88.01
+80.1,
+80.38
 ],
 [
 "all",
-88.01,
-88.33
+80.38,
+80.7
 ],
 [
 "of",
-88.33,
-88.47
+80.7,
+80.84
 ],
 [
 "them,",
-88.47,
-88.73
+80.84,
+81.1
 ],
 [
 "Night's",
-89.25,
-89.59
+81.62,
+81.96
 ],
 [
 "King",
-89.59,
-89.79
+81.96,
+82.16
 ],
 [
 "had",
-89.79,
-90.11
+82.16,
+82.48
 ],
 [
 "reigned,",
-90.11,
-90.67
+82.48,
+83.04
 ],
 [
 "until",
-90.93,
-91.33
+83.3,
+83.7
 ],
 [
 "his",
-91.33,
-91.59
+83.7,
+83.96
 ],
 [
 "name",
-91.59,
-92.01
+83.96,
+84.38
 ],
 [
 "was",
-92.01,
-92.39
+84.38,
+84.76
 ],
 [
 "wiped",
-92.39,
-92.79
+84.76,
+85.16
 ],
 [
 "from",
-92.79,
-93.15
+85.16,
+85.52
 ],
 [
 "the",
-93.15,
-93.31
+85.52,
+85.68
 ],
 [
 "memory",
-93.31,
-93.59
+85.68,
+85.98
 ],
 [
 "of",
-93.59,
-93.87
+85.98,
+86.26
 ],
 [
 "man.",
-93.87,
-94.23
+86.26,
+86.6
 ],
 [
 "The",
-96.98,
-97.12
+89.35,
+89.49
 ],
 [
 "story",
-97.12,
-97.4
+89.49,
+89.77
 ],
 [
 "begins",
-97.4,
-97.82
+89.77,
+90.19
 ],
 [
 "at",
-97.82,
-98.12
+90.19,
+90.49
 ],
 [
 "the",
-98.12,
-98.28
+90.49,
+90.65
 ],
 [
 "end",
-98.28,
-98.52
+90.65,
+90.89
 ],
 [
 "of",
-98.52,
-98.68
+90.89,
+91.05
 ],
 [
 "the",
-98.68,
-98.82
+91.05,
+91.19
 ],
 [
 "Long",
-98.82,
-99.08
+91.19,
+91.45
 ],
 [
 "Night,",
-99.08,
-99.4
+91.45,
+91.77
 ],
 [
 "a",
-99.78,
-99.9
+92.15,
+92.27
 ],
 [
 "winter",
-99.9,
-100.26
+92.27,
+92.61
 ],
 [
 "that",
-100.26,
-100.64
+92.61,
+93.03
 ],
 [
 "lasted",
-100.64,
-100.98
+93.03,
+93.35
 ],
 [
 "a",
-100.98,
-101.24
+93.35,
+93.61
 ],
 [
 "generation.",
-101.24,
-101.7
+93.61,
+94.07
 ],
 [
 "When",
-102.64,
-102.84
+95.03,
+95.21
 ],
 [
 "the",
-102.84,
-103.0
+95.21,
+95.37
 ],
 [
 "darkness",
-103.0,
-103.38
+95.37,
+95.75
 ],
 [
 "finally",
-103.38,
-103.86
+95.75,
+96.21
 ],
 [
 "broke,",
-103.86,
-104.28
+96.21,
+96.65
 ],
 [
 "men",
-104.72,
-104.8
+97.09,
+97.17
 ],
 [
 "raised",
-104.8,
-105.16
+97.17,
+97.53
 ],
 [
 "a",
-105.16,
-105.32
+97.53,
+97.71
 ],
 [
 "Wall",
-105.32,
-105.56
+97.71,
+97.93
 ],
 [
 "of",
-105.56,
-105.74
+97.93,
+98.13
 ],
 [
 "ice",
-105.74,
-105.96
+98.13,
+98.33
 ],
 [
 "seven",
-105.96,
-106.42
+98.33,
+98.79
 ],
 [
 "hundred",
-106.42,
-106.96
+98.79,
+99.33
 ],
 [
 "feet",
-106.96,
-107.3
+99.33,
+99.67
 ],
 [
 "high.",
-107.3,
-107.72
+99.67,
+100.09
 ],
 [
 "Legend",
-108.58,
-108.72
+100.95,
+101.09
 ],
 [
 "says",
-108.72,
-109.14
+101.09,
+101.51
 ],
 [
 "it",
-109.14,
-109.32
+101.51,
+101.69
 ],
 [
 "was",
-109.32,
-109.46
+101.69,
+101.83
 ],
 [
 "built",
-109.46,
-109.8
+101.83,
+102.17
 ],
 [
 "by",
-109.8,
-110.1
+102.17,
+102.47
 ],
 [
 "Brandon",
-110.1,
-110.6
+102.47,
+102.97
 ],
 [
 "the",
-110.6,
-110.86
+102.97,
+103.25
 ],
 [
 "Builder,",
-110.86,
-111.14
+103.25,
+103.51
 ],
 [
 "the",
-111.58,
-111.66
+103.95,
+104.03
 ],
 [
 "first",
-111.66,
-112.06
+104.03,
+104.43
 ],
 [
 "Stark",
-112.06,
-112.5
+104.43,
+104.89
 ],
 [
 "king,",
-112.5,
-112.94
+104.89,
+105.31
 ],
 [
 "with",
-113.24,
-113.46
+105.61,
+105.83
 ],
 [
 "the",
-113.46,
-113.58
+105.83,
+105.95
 ],
 [
 "help",
-113.58,
-113.74
+105.95,
+106.11
 ],
 [
 "of",
-113.74,
-114.08
+106.11,
+106.45
 ],
 [
 "giants",
-114.08,
-114.32
+106.45,
+106.69
 ],
 [
 "and",
-114.32,
-114.84
+106.69,
+107.21
 ],
 [
 "the",
-114.84,
-115.0
+107.21,
+107.37
 ],
 [
 "children",
-115.0,
-115.28
+107.37,
+107.65
 ],
 [
 "of",
-115.28,
-115.56
+107.65,
+107.93
 ],
 [
 "the",
-115.56,
-115.74
+107.93,
+108.11
 ],
 [
 "forest.",
-115.74,
-116.02
+108.11,
+108.39
 ],
 [
 "And",
-116.57,
-116.89
+108.94,
+109.26
 ],
 [
 "they",
-116.89,
-117.03
+109.26,
+109.4
 ],
 [
 "founded",
-117.03,
-117.31
+109.4,
+109.68
 ],
 [
 "a",
-117.31,
-117.57
+109.68,
+109.92
 ],
 [
 "brotherhood",
-117.57,
-118.15
+109.92,
+110.52
 ],
 [
 "to",
-118.15,
-118.49
+110.52,
+110.86
 ],
 [
 "guard",
-118.49,
-118.73
+110.86,
+111.1
 ],
 [
 "it.",
-118.73,
-119.19
+111.1,
+111.56
 ],
 [
 "The",
-119.95,
-120.23
+112.32,
+112.6
 ],
 [
 "Night's",
-120.23,
-120.77
+112.6,
+113.14
 ],
 [
 "Watch:",
-120.77,
-121.17
+113.14,
+113.54
 ],
 [
 "men",
-121.75,
-121.91
+114.12,
+114.28
 ],
 [
 "who",
-121.91,
-122.17
+114.28,
+114.54
 ],
 [
 "took",
-122.17,
-122.35
+114.54,
+114.72
 ],
 [
 "no",
-122.35,
-122.69
+114.72,
+115.04
 ],
 [
 "wives,",
-122.69,
-123.13
+115.04,
+115.5
 ],
 [
 "held",
-123.53,
-123.71
+115.9,
+116.08
 ],
 [
 "no",
-123.71,
-123.97
+116.08,
+116.34
 ],
 [
 "lands,",
-123.97,
-124.35
+116.34,
+116.72
 ],
 [
 "and",
-124.91,
-125.11
+117.28,
+117.48
 ],
 [
 "fathered",
-125.11,
-125.65
+117.48,
+118.02
 ],
 [
 "no",
-125.65,
-126.21
+118.02,
+118.58
 ],
 [
 "children.",
-126.21,
-126.79
+118.58,
+119.16
 ],
 [
 "The",
-128.49,
-128.87
+120.86,
+121.24
 ],
 [
 "Night's",
-128.87,
-129.39
+121.24,
+121.76
 ],
 [
 "King",
-129.39,
-129.55
+121.76,
+121.92
 ],
 [
 "was",
-129.55,
-129.79
+121.92,
+122.16
 ],
 [
 "the",
-129.79,
-130.01
+122.16,
+122.4
 ],
 [
 "thirteenth",
-130.01,
-130.57
+122.4,
+122.94
 ],
 [
 "man",
-130.57,
-130.89
+122.94,
+123.26
 ],
 [
 "to",
-130.89,
-131.13
+123.26,
+123.5
 ],
 [
 "lead",
-131.13,
-131.33
+123.5,
+123.7
 ],
 [
 "them.",
-131.33,
-131.71
+123.7,
+124.08
 ],
 [
 "Old",
-132.47,
-132.69
+124.84,
+125.06
 ],
 [
 "Nan",
-132.69,
-132.93
+125.06,
+125.3
 ],
 [
 "said",
-132.93,
-133.21
+125.3,
+125.58
 ],
 [
 "he",
-133.21,
-133.39
+125.58,
+125.76
 ],
 [
 "was",
-133.39,
-133.51
+125.76,
+125.88
 ],
 [
 "a",
-133.51,
-133.77
+125.88,
+126.14
 ],
 [
 "warrior",
-133.77,
-134.03
+126.14,
+126.4
 ],
 [
 "who",
-134.03,
-134.35
+126.4,
+126.72
 ],
 [
 "knew",
-134.35,
-134.61
+126.72,
+126.98
 ],
 [
 "no",
-134.61,
-134.89
+126.98,
+127.26
 ],
 [
 "fear.",
-134.89,
-135.33
+127.26,
+127.7
 ],
 [
 "\"And",
-135.95,
-136.23
+128.34,
+128.6
 ],
 [
 "that",
-136.23,
-136.43
+128.6,
+128.8
 ],
 [
 "was",
-136.43,
-136.63
+128.8,
+129.0
 ],
 [
 "the",
-136.63,
-136.81
+129.0,
+129.18
 ],
 [
 "fault",
-136.81,
-137.01
+129.18,
+129.38
 ],
 [
 "in",
-137.01,
-137.27
+129.38,
+129.64
 ],
 [
 "him,\"",
-137.27,
-137.63
+129.64,
+130.0
 ],
 [
 "she",
-137.75,
-137.97
+130.12,
+130.34
 ],
 [
 "would",
-137.97,
-138.11
+130.34,
+130.48
 ],
 [
 "add,",
-138.11,
-138.39
+130.48,
+130.76
 ],
 [
 "\"for",
-138.61,
-138.79
+130.98,
+131.16
 ],
 [
 "all",
-138.79,
-139.09
+131.16,
+131.46
 ],
 [
 "men",
-139.09,
-139.43
+131.46,
+131.8
 ],
 [
 "must",
-139.43,
-139.73
+131.8,
+132.1
 ],
 [
 "know",
-139.73,
-140.09
+132.1,
+132.46
 ],
 [
 "fear.\"",
-140.09,
-140.53
+132.46,
+132.9
 ],
 [
 "Fear",
-142.01,
-142.27
+134.38,
+134.66
 ],
 [
 "is",
-142.27,
-142.59
+134.66,
+134.96
 ],
 [
 "what",
-142.59,
-142.79
+134.96,
+135.16
 ],
 [
 "keeps",
-142.79,
-143.01
+135.16,
+135.4
 ],
 [
 "a",
-143.01,
-143.25
+135.4,
+135.62
 ],
 [
 "man",
-143.25,
-143.45
+135.62,
+135.82
 ],
 [
 "on",
-143.45,
-143.79
+135.82,
+136.16
 ],
 [
 "top",
-143.79,
-144.09
+136.16,
+136.46
 ],
 [
 "of",
-144.09,
-144.31
+136.46,
+136.68
 ],
 [
 "the",
-144.31,
-144.39
+136.68,
+136.76
 ],
 [
 "Wall,",
-144.39,
-144.77
+136.76,
+137.14
 ],
 [
 "watching",
-145.15,
-145.35
+137.52,
+137.72
 ],
 [
 "the",
-145.35,
-145.59
+137.72,
+137.96
 ],
 [
 "dark.",
-145.59,
-145.87
+137.96,
+138.24
 ],
 [
 "A",
-146.61,
-146.85
+138.98,
+139.2
 ],
 [
 "man",
-146.85,
-147.07
+139.2,
+139.46
 ],
 [
 "who",
-147.07,
-147.29
+139.46,
+139.66
 ],
 [
 "fears",
-147.29,
-147.67
+139.66,
+140.04
 ],
 [
 "nothing",
-147.67,
-148.25
+140.04,
+140.62
 ],
 [
 "might",
-148.25,
-148.69
+140.62,
+141.06
 ],
 [
 "look",
-148.69,
-148.95
+141.06,
+141.32
 ],
 [
 "at",
-148.95,
-149.13
+141.32,
+141.5
 ],
 [
 "the",
-149.13,
-149.25
+141.5,
+141.62
 ],
 [
 "dark",
-149.25,
-149.53
+141.62,
+141.9
 ],
 [
 "and",
-149.53,
-150.03
+141.9,
+142.4
 ],
 [
 "want",
-150.03,
-150.33
+142.4,
+142.7
 ],
 [
 "to",
-150.33,
-150.59
+142.7,
+142.96
 ],
 [
 "walk",
-150.59,
-150.85
+142.96,
+143.22
 ],
 [
 "into",
-150.85,
-151.17
+143.22,
+143.54
 ],
 [
 "it.",
-151.17,
-151.47
+143.54,
+143.84
 ],
 [
 "One",
-154.21,
-154.51
+146.58,
+146.88
 ],
 [
 "night,",
-154.51,
-154.87
+146.88,
+147.24
 ],
 [
 "from",
-155.15,
-155.33
+147.52,
+147.7
 ],
 [
 "the",
-155.33,
-155.49
+147.7,
+147.86
 ],
 [
 "top",
-155.49,
-155.69
+147.86,
+148.06
 ],
 [
 "of",
-155.69,
-155.83
+148.06,
+148.2
 ],
 [
 "the",
-155.83,
-155.93
+148.2,
+148.3
 ],
 [
 "Wall,",
-155.93,
-156.23
+148.3,
+148.6
 ],
 [
 "he",
-156.45,
-156.57
+148.82,
+148.94
 ],
 [
 "saw",
-156.57,
-156.85
+148.94,
+149.22
 ],
 [
 "her.",
-156.85,
-157.15
+149.22,
+149.52
 ],
 [
 "A",
-157.57,
-157.94
+149.94,
+150.31
 ],
 [
 "woman",
-157.94,
-158.12
+150.31,
+150.49
 ],
 [
 "with",
-158.12,
-158.42
+150.49,
+150.79
 ],
 [
 "skin",
-158.42,
-158.84
+150.79,
+151.21
 ],
 [
 "as",
-158.84,
-159.14
+151.21,
+151.51
 ],
 [
 "white",
-159.14,
-159.44
+151.51,
+151.81
 ],
 [
 "as",
-159.44,
-159.62
+151.81,
+151.99
 ],
 [
 "the",
-159.62,
-159.8
+151.99,
+152.15
 ],
 [
 "moon",
-159.8,
-160.14
+152.15,
+152.51
 ],
 [
 "and",
-160.14,
-160.58
+152.51,
+152.95
 ],
 [
 "eyes",
-160.58,
-161.1
+152.95,
+153.45
 ],
 [
 "like",
-161.1,
-161.4
+153.45,
+153.77
 ],
 [
 "blue",
-161.4,
-161.68
+153.77,
+154.05
 ],
 [
 "stars.",
-161.68,
-162.2
+154.05,
+154.55
 ],
 [
 "Fearing",
-162.84,
-163.2
+155.23,
+155.57
 ],
 [
 "nothing,",
-163.2,
-163.56
+155.57,
+155.93
 ],
 [
 "he",
-164.18,
-164.36
+156.55,
+156.73
 ],
 [
 "chased",
-164.36,
-164.7
+156.73,
+157.07
 ],
 [
 "her,",
-164.7,
-165.02
+157.07,
+157.39
 ],
 [
 "and",
-165.02,
-165.4
+157.39,
+157.77
 ],
 [
 "caught",
-165.4,
-165.72
+157.77,
+158.09
 ],
 [
 "her,",
-165.72,
-166.02
+158.09,
+158.39
 ],
 [
 "and",
-166.02,
-166.24
+158.39,
+158.61
 ],
 [
 "loved",
-166.24,
-166.48
+158.61,
+158.85
 ],
 [
 "her,",
-166.48,
-166.92
+158.85,
+159.31
 ],
 [
 "though",
-167.18,
-167.46
+159.57,
+159.83
 ],
 [
 "her",
-167.46,
-167.66
+159.83,
+160.03
 ],
 [
 "skin",
-167.66,
-168.06
+160.03,
+160.43
 ],
 [
 "was",
-168.06,
-168.3
+160.43,
+160.67
 ],
 [
 "cold",
-168.3,
-168.74
+160.67,
+161.11
 ],
 [
 "as",
-168.74,
-169.02
+161.11,
+161.39
 ],
 [
 "ice.",
-169.02,
-169.34
+161.39,
+161.71
 ],
 [
 "And",
-170.18,
-170.44
+162.55,
+162.81
 ],
 [
 "with",
-170.44,
-170.62
+162.81,
+162.99
 ],
 [
 "his",
-170.62,
-170.84
+162.99,
+163.21
 ],
 [
 "love,",
-170.84,
-171.24
+163.21,
+163.61
 ],
 [
 "Old",
-171.78,
-171.88
+164.15,
+164.25
 ],
 [
 "Nan",
-171.88,
-172.16
+164.25,
+164.53
 ],
 [
 "said,",
-172.16,
-172.58
+164.53,
+164.95
 ],
 [
 "he",
-172.98,
-173.22
+165.39,
+165.59
 ],
 [
 "gave",
-173.22,
-173.42
+165.59,
+165.81
 ],
 [
 "her",
-173.42,
-173.66
+165.81,
+166.03
 ],
 [
 "his",
-173.66,
-173.86
+166.03,
+166.23
 ],
 [
 "soul.",
-173.86,
-174.26
+166.23,
+166.63
 ],
 [
 "The",
-175.16,
-175.46
+167.53,
+167.83
 ],
 [
 "books",
-175.46,
-175.72
+167.83,
+168.09
 ],
 [
 "never",
-175.72,
-176.18
+168.09,
+168.55
 ],
 [
 "say",
-176.18,
-176.5
+168.55,
+168.87
 ],
 [
 "what",
-176.5,
-176.72
+168.87,
+169.09
 ],
 [
 "she",
-176.72,
-176.94
+169.09,
+169.31
 ],
 [
 "was.",
-176.94,
-177.32
+169.31,
+169.67
 ],
 [
 "But",
-177.92,
-178.14
+170.29,
+170.49
 ],
 [
 "skin",
-178.14,
-178.52
+170.49,
+170.89
 ],
 [
 "like",
-178.52,
-178.78
+170.89,
+171.17
 ],
 [
 "that",
-178.78,
-179.12
+171.17,
+171.49
 ],
 [
 "and",
-179.12,
-179.4
+171.49,
+171.77
 ],
 [
 "eyes",
-179.4,
-179.76
+171.77,
+172.13
 ],
 [
 "like",
-179.76,
-180.08
+172.13,
+172.45
 ],
 [
 "blue",
-180.08,
-180.34
+172.45,
+172.71
 ],
 [
 "stars",
-180.34,
-180.9
+172.71,
+173.27
 ],
 [
 "are",
-180.9,
-181.4
+173.27,
+173.77
 ],
 [
 "what",
-181.4,
-181.66
+173.77,
+174.03
 ],
 [
 "the",
-181.66,
-181.88
+174.03,
+174.25
 ],
 [
 "Others",
-181.88,
-182.24
+174.25,
+174.59
 ],
 [
 "look",
-182.24,
-182.5
+174.59,
+174.87
 ],
 [
 "like.",
-182.5,
-182.88
+174.87,
+175.25
 ],
 [
 "And",
-183.46,
-183.72
+175.83,
+176.09
 ],
 [
 "the",
-183.72,
-183.88
+176.09,
+176.25
 ],
 [
 "tales",
-183.88,
-184.4
+176.25,
+176.77
 ],
 [
 "call",
-184.4,
-185.1
+176.77,
+177.47
 ],
 [
 "her",
-185.1,
-185.36
+177.47,
+177.75
 ],
 [
 "the",
-185.36,
-185.62
+177.75,
+178.01
 ],
 [
 "corpse",
-185.62,
-185.94
+178.01,
+178.29
 ],
 [
 "queen.",
-185.94,
-186.36
+178.29,
+178.73
 ],
 [
 "He",
-187.36,
-187.64
+179.73,
+180.01
 ],
 [
 "brought",
-187.64,
-187.92
+180.01,
+180.29
 ],
 [
 "her",
-187.92,
-188.18
+180.29,
+180.55
 ],
 [
 "back",
-188.18,
-188.5
+180.55,
+180.87
 ],
 [
 "through",
-188.5,
-189.06
+180.87,
+181.43
 ],
 [
 "the",
-189.06,
-189.3
+181.43,
+181.67
 ],
 [
 "Wall",
-189.3,
-189.56
+181.67,
+181.93
 ],
 [
 "to",
-189.56,
-189.8
+181.93,
+182.17
 ],
 [
 "the",
-189.8,
-189.96
+182.17,
+182.33
 ],
 [
 "Nightfort,",
-189.96,
-190.44
+182.33,
+182.81
 ],
 [
 "and",
-190.44,
-191.12
+182.81,
+183.49
 ],
 [
 "proclaimed",
-191.12,
-191.7
+183.49,
+184.07
 ],
 [
 "her",
-191.7,
-192.06
+184.07,
+184.43
 ],
 [
 "a",
-192.06,
-192.26
+184.43,
+184.63
 ],
 [
 "queen,",
-192.26,
-192.6
+184.63,
+184.97
 ],
 [
 "and",
-192.6,
-193.2
+184.97,
+185.57
 ],
 [
 "himself",
-193.2,
-193.64
+185.57,
+186.01
 ],
 [
 "her",
-193.64,
-193.92
+186.01,
+186.31
 ],
 [
 "king.",
-193.92,
-194.24
+186.31,
+186.61
 ],
 [
 "With",
-195.24,
-195.58
+187.69,
+187.93
 ],
 [
 "strange",
-195.58,
-196.14
+187.93,
+188.51
 ],
 [
 "sorceries,",
-196.14,
-196.9
+188.51,
+189.27
 ],
 [
 "he",
-197.22,
-197.26
+189.59,
+189.63
 ],
 [
 "bound",
-197.26,
-197.62
+189.63,
+189.99
 ],
 [
 "his",
-197.62,
-197.9
+189.99,
+190.27
 ],
 [
 "sworn",
-197.9,
-198.26
+190.27,
+190.63
 ],
 [
 "brothers",
-198.26,
-198.66
+190.63,
+191.03
 ],
 [
 "to",
-198.66,
-198.94
+191.03,
+191.31
 ],
 [
 "his",
-198.94,
-199.12
+191.31,
+191.49
 ],
 [
 "will.",
-199.12,
-199.38
+191.49,
+191.75
 ],
 [
 "The",
-200.1,
-200.28
+192.45,
+192.65
 ],
 [
 "men",
-200.28,
-200.5
+192.65,
+192.87
 ],
 [
 "who",
-200.5,
-200.74
+192.87,
+193.11
 ],
 [
 "swore",
-200.74,
-200.98
+193.11,
+193.35
 ],
 [
 "to",
-200.98,
-201.24
+193.35,
+193.61
 ],
 [
 "guard",
-201.24,
-201.5
+193.61,
+193.87
 ],
 [
 "the",
-201.5,
-201.74
+193.87,
+194.11
 ],
 [
 "realms",
-201.74,
-202.0
+194.11,
+194.37
 ],
 [
 "of",
-202.0,
-202.26
+194.37,
+194.63
 ],
 [
 "men",
-202.26,
-202.58
+194.63,
+194.95
 ],
 [
 "now",
-202.58,
-203.08
+194.95,
+195.45
 ],
 [
 "served",
-203.08,
-203.5
+195.45,
+195.87
 ],
 [
 "a",
-203.5,
-203.7
+195.87,
+196.07
 ],
 [
 "king",
-203.7,
-203.88
+196.07,
+196.25
 ],
 [
 "of",
-203.88,
-204.12
+196.25,
+196.49
 ],
 [
 "the",
-204.12,
-204.3
+196.49,
+196.67
 ],
 [
 "night.",
-204.3,
-204.5
+196.67,
+196.87
 ],
 [
 "For",
-204.5,
-206.39
+196.87,
+198.76
 ],
 [
 "thirteen",
-206.39,
-207.11
+198.76,
+199.48
 ],
 [
 "years,",
-207.11,
-207.77
+199.48,
+200.14
 ],
 [
 "Night's",
-208.41,
-208.71
+200.78,
+201.08
 ],
 [
 "King",
-208.71,
-208.91
+201.08,
+201.28
 ],
 [
 "and",
-208.91,
-209.29
+201.28,
+201.66
 ],
 [
 "his",
-209.29,
-209.53
+201.66,
+201.9
 ],
 [
 "corpse",
-209.53,
-209.87
+201.9,
+202.24
 ],
 [
 "queen",
-209.87,
-210.31
+202.24,
+202.68
 ],
 [
 "ruled",
-210.31,
-210.77
+202.68,
+203.14
 ],
 [
 "the",
-210.77,
-210.99
+203.14,
+203.36
 ],
 [
 "Wall.",
-210.99,
-211.29
+203.36,
+203.66
 ],
 [
 "Before",
-212.64,
-212.98
+205.01,
+205.37
 ],
 [
 "we",
-212.98,
-213.22
+205.37,
+205.55
 ],
 [
 "find",
-213.22,
-213.48
+205.55,
+205.77
 ],
 [
 "out",
-213.48,
-213.7
+205.77,
+205.95
 ],
 [
 "who",
-213.7,
-214.04
+205.95,
+206.33
 ],
 [
 "brought",
-214.04,
-214.28
+206.33,
+206.63
 ],
 [
 "him",
-214.28,
-214.48
+206.63,
+206.85
 ],
 [
 "down,",
-214.48,
-214.84
+206.85,
+207.17
 ],
 [
 "and",
-215.24,
-215.34
+207.71,
+207.85
 ],
 [
 "what",
-215.34,
-215.52
+207.85,
+208.01
 ],
 [
 "they",
-215.52,
-215.72
+208.01,
+208.19
 ],
 [
 "found",
-215.72,
-216.08
+208.19,
+208.53
 ],
 [
 "when",
-216.08,
-216.3
+208.53,
+208.77
 ],
 [
 "they",
-216.3,
-216.5
+208.77,
+208.97
 ],
 [
 "did:",
-216.5,
-216.78
+208.97,
+209.31
 ],
 [
 "if",
-217.04,
-217.18
+209.81,
+210.05
 ],
 [
 "you",
-217.18,
-217.36
+210.05,
+210.19
 ],
 [
 "want",
-217.36,
-217.6
+210.19,
+210.45
 ],
 [
 "Westeros",
-217.6,
-218.28
+210.45,
+211.01
 ],
 [
 "the",
-218.54,
-218.6
+211.01,
+211.15
 ],
 [
 "way",
-218.6,
-218.78
+211.15,
+211.31
 ],
 [
-"Martin",
-218.78,
-219.12
+"it",
+211.31,
+211.41
 ],
 [
-"wrote",
-219.12,
-219.38
+"is",
+211.41,
+211.55
 ],
 [
-"it,",
-219.38,
-219.66
+"in",
+211.55,
+211.65
+],
+[
+"the",
+211.65,
+211.75
+],
+[
+"books,",
+211.75,
+212.03
 ],
 [
 "subscribe",
-220.0,
-220.5
+212.49,
+212.83
 ],
 [
 "to",
-220.5,
-220.9
+212.83,
+213.05
 ],
 [
 "the",
-220.9,
-221.02
+213.05,
+213.15
 ],
 [
 "Mythic",
-221.02,
-221.34
+213.15,
+213.41
 ],
 [
 "Archives.",
-221.34,
-221.76
+213.41,
+213.71
 ],
 [
 "His",
-225.11,
-225.33
+217.06,
+217.28
 ],
 [
 "fall",
-225.33,
-225.77
+217.28,
+217.72
 ],
 [
 "took",
-225.77,
-226.05
+217.72,
+218.0
 ],
 [
 "something",
-226.05,
-226.51
+218.0,
+218.46
 ],
 [
 "the",
-226.51,
-226.79
+218.46,
+218.74
 ],
 [
 "North",
-226.79,
-227.07
+218.74,
+219.02
 ],
 [
 "had",
-227.07,
-227.37
+219.02,
+219.32
 ],
 [
 "never",
-227.37,
-227.79
+219.32,
+219.74
 ],
 [
 "seen",
-227.79,
-228.15
+219.74,
+220.1
 ],
 [
 "before:",
-228.15,
-228.69
+220.1,
+220.66
 ],
 [
 "an",
-229.19,
-229.37
+221.18,
+221.32
 ],
 [
 "alliance",
-229.37,
-229.83
+221.32,
+221.78
 ],
 [
 "between",
-229.83,
-230.43
+221.78,
+222.38
 ],
 [
 "enemies.",
-230.43,
-230.97
+222.38,
+222.92
 ],
 [
 "The",
-231.93,
-232.09
+223.88,
+224.04
 ],
 [
 "King",
-232.09,
-232.29
+224.04,
+224.24
 ],
 [
 "of",
-232.29,
-232.47
+224.24,
+224.42
 ],
 [
 "Winter",
-232.47,
-232.81
+224.42,
+224.76
 ],
 [
 "in",
-232.81,
-233.09
+224.76,
+225.04
 ],
 [
 "Winterfell,",
-233.09,
-233.67
+225.04,
+225.62
 ],
 [
 "and",
-234.37,
-234.43
+226.28,
+226.38
 ],
 [
 "Joramun,",
-234.43,
-234.95
+226.38,
+226.92
 ],
 [
 "King-beyond-the-Wall,",
-235.25,
-236.21
+227.2,
+228.16
 ],
 [
 "the",
-236.85,
-236.93
+228.8,
+228.88
 ],
 [
 "wildling",
-236.93,
-237.55
+228.88,
+229.5
 ],
 [
 "who,",
-237.55,
-237.85
+229.5,
+229.8
 ],
 [
 "legends",
-238.03,
-238.25
+229.98,
+230.2
 ],
 [
 "say,",
-238.25,
-238.79
+230.2,
+230.74
 ],
 [
 "blew",
-239.29,
-239.53
+231.22,
+231.48
 ],
 [
 "the",
-239.53,
-239.81
+231.48,
+231.76
 ],
 [
 "Horn",
-239.81,
-239.97
+231.76,
+231.92
 ],
 [
 "of",
-239.97,
-240.15
+231.92,
+232.1
 ],
 [
 "Winter",
-240.15,
-240.49
+232.1,
+232.44
 ],
 [
 "and",
-240.49,
-240.87
+232.44,
+232.82
 ],
 [
 "woke",
-240.87,
-241.19
+232.82,
+233.14
 ],
 [
 "giants",
-241.19,
-241.85
+233.14,
+233.8
 ],
 [
 "from",
-241.85,
-242.17
+233.8,
+234.12
 ],
 [
 "the",
-242.17,
-242.37
+234.12,
+234.32
 ],
 [
 "earth.",
-242.37,
-242.65
+234.32,
+234.6
 ],
 [
 "A",
-243.33,
-243.49
+235.26,
+235.42
 ],
 [
 "Stark",
-243.49,
-243.87
+235.42,
+235.82
 ],
 [
 "and",
-243.87,
-244.33
+235.82,
+236.28
 ],
 [
 "a",
-244.33,
-244.45
+236.28,
+236.4
 ],
 [
 "wildling.",
-244.45,
-245.13
+236.4,
+237.08
 ],
 [
 "Men",
-245.91,
-246.13
+237.9,
+238.08
 ],
 [
 "who",
-246.13,
-246.39
+238.08,
+238.34
 ],
 [
 "had",
-246.39,
-246.53
+238.34,
+238.48
 ],
 [
 "fought",
-246.53,
-246.79
+238.48,
+238.74
 ],
 [
 "each",
-246.79,
-247.03
+238.74,
+239.0
 ],
 [
 "other",
-247.03,
-247.17
+239.0,
+239.12
 ],
 [
 "for",
-247.17,
-247.45
+239.12,
+239.4
 ],
 [
 "generations,",
-247.45,
-248.15
+239.4,
+240.1
 ],
 [
 "now",
-248.67,
-248.95
+240.64,
+240.9
 ],
 [
 "marching",
-248.95,
-249.33
+240.9,
+241.28
 ],
 [
 "together",
-249.33,
-249.81
+241.28,
+241.76
 ],
 [
 "against",
-249.81,
-250.21
+241.76,
+242.16
 ],
 [
 "the",
-250.21,
-250.53
+242.16,
+242.48
 ],
 [
 "Watch",
-250.53,
-250.75
+242.48,
+242.7
 ],
 [
 "itself.",
-250.75,
-251.23
+242.7,
+243.18
 ],
 [
 "They",
-252.05,
-252.37
+244.0,
+244.32
 ],
 [
 "broke",
-252.37,
-252.81
+244.32,
+244.76
 ],
 [
 "the",
-252.81,
-253.09
+244.76,
+245.04
 ],
 [
 "Night's",
-253.09,
-253.45
+245.04,
+245.42
 ],
 [
 "King,",
-253.45,
-253.67
+245.42,
+245.62
 ],
 [
 "and",
-253.67,
-254.03
+245.62,
+245.98
 ],
 [
 "freed",
-254.03,
-254.37
+245.98,
+246.32
 ],
 [
 "his",
-254.37,
-254.63
+246.32,
+246.58
 ],
 [
 "brothers",
-254.63,
-254.95
+246.58,
+246.9
 ],
 [
 "from",
-254.95,
-255.29
+246.9,
+247.24
 ],
 [
 "their",
-255.29,
-255.51
+247.24,
+247.46
 ],
 [
 "bondage.",
-255.51,
-255.91
+247.46,
+247.86
 ],
 [
 "Then",
-257.19,
-257.41
+249.08,
+249.36
 ],
 [
 "they",
-257.41,
-257.61
+249.36,
+249.56
 ],
 [
 "discovered",
-257.61,
-258.05
+249.56,
+250.0
 ],
 [
 "what",
-258.05,
-258.47
+250.0,
+250.42
 ],
 [
 "he",
-258.47,
-258.65
+250.42,
+250.6
 ],
 [
 "had",
-258.65,
-258.73
+250.6,
+250.68
 ],
 [
 "been",
-258.73,
-258.91
+250.68,
+250.84
 ],
 [
 "doing",
-258.91,
-259.23
+250.84,
+251.18
 ],
 [
 "all",
-259.23,
-259.69
+251.18,
+251.64
 ],
 [
 "those",
-259.69,
-260.01
+251.64,
+251.96
 ],
 [
 "years.",
-260.01,
-260.39
+251.96,
+252.34
 ],
 [
 "He",
-261.01,
-261.21
+252.96,
+253.16
 ],
 [
 "had",
-261.21,
-261.33
+253.16,
+253.28
 ],
 [
 "been",
-261.33,
-261.51
+253.28,
+253.46
 ],
 [
 "making",
-261.51,
-261.83
+253.46,
+253.78
 ],
 [
 "sacrifices",
-261.83,
-262.63
+253.78,
+254.58
 ],
 [
 "to",
-262.63,
-263.07
+254.58,
+255.02
 ],
 [
 "the",
-263.07,
-263.23
+255.02,
+255.18
 ],
 [
 "Others.",
-263.23,
-263.53
+255.18,
+255.48
 ],
 [
 "So",
-264.07,
-264.36
+256.02,
+256.31
 ],
 [
 "every",
-264.36,
-264.88
+256.31,
+256.83
 ],
 [
 "record",
-264.88,
-265.2
+256.83,
+257.15
 ],
 [
 "of",
-265.2,
-265.4
+257.15,
+257.35
 ],
 [
 "him",
-265.4,
-265.6
+257.35,
+257.57
 ],
 [
 "was",
-265.6,
-265.86
+257.57,
+257.81
 ],
 [
 "destroyed.",
-265.86,
-266.44
+257.81,
+258.39
 ],
 [
 "His",
-267.26,
-267.44
+259.19,
+259.39
 ],
 [
 "deeds",
-267.44,
-267.88
+259.39,
+259.83
 ],
 [
 "were",
-267.88,
-268.24
+259.83,
+260.19
 ],
 [
 "struck",
-268.24,
-268.6
+260.19,
+260.55
 ],
 [
 "from",
-268.6,
-268.86
+260.55,
+260.81
 ],
 [
 "the",
-268.86,
-269.06
+260.81,
+261.01
 ],
 [
 "histories.",
-269.06,
-269.46
+261.01,
+261.41
 ],
 [
 "Even",
-270.16,
-270.36
+262.11,
+262.31
 ],
 [
 "his",
-270.36,
-270.62
+262.31,
+262.57
 ],
 [
 "name",
-270.62,
-270.98
+262.57,
+262.93
 ],
 [
 "was",
-270.98,
-271.28
+262.93,
+263.23
 ],
 [
 "forbidden.",
-271.28,
-271.66
+263.23,
+263.61
 ],
 [
 "That",
-272.46,
-272.8
+264.41,
+264.75
 ],
 [
 "is",
-272.8,
-272.94
+264.75,
+264.89
 ],
 [
 "why,",
-272.94,
-273.32
+264.89,
+265.27
 ],
 [
 "eight",
-273.6,
-273.74
+265.55,
+265.69
 ],
 [
 "thousand",
-273.74,
-274.16
+265.69,
+266.11
 ],
 [
 "years",
-274.16,
-274.52
+266.11,
+266.47
 ],
 [
 "later,",
-274.52,
-274.92
+266.47,
+266.87
 ],
 [
 "nobody",
-275.28,
-275.46
+267.23,
+267.41
 ],
 [
 "in",
-275.46,
-275.76
+267.41,
+267.71
 ],
 [
 "Westeros",
-275.76,
-276.28
+267.71,
+268.23
 ],
 [
 "knows",
-276.28,
-276.54
+268.23,
+268.49
 ],
 [
 "what",
-276.54,
-276.8
+268.49,
+268.75
 ],
 [
 "he",
-276.8,
-276.96
+268.75,
+268.91
 ],
 [
 "was",
-276.96,
-277.12
+268.91,
+269.07
 ],
 [
 "called.",
-277.12,
-277.42
+269.07,
+269.37
 ],
 [
 "But",
-280.17,
-280.35
+272.12,
+272.3
 ],
 [
 "Old",
-280.35,
-280.63
+272.3,
+272.58
 ],
 [
 "Nan",
-280.63,
-280.97
+272.58,
+272.92
 ],
 [
 "had",
-280.97,
-281.29
+272.92,
+273.24
 ],
 [
 "an",
-281.29,
-281.45
+273.24,
+273.4
 ],
 [
 "idea.",
-281.45,
-281.85
+273.4,
+273.8
 ],
 [
 "She",
-282.43,
-282.65
+274.38,
+274.6
 ],
 [
 "always",
-282.65,
-283.09
+274.6,
+275.02
 ],
 [
 "ended",
-283.09,
-283.51
+275.02,
+275.46
 ],
 [
 "the",
-283.51,
-283.73
+275.46,
+275.68
 ],
 [
 "story",
-283.73,
-283.99
+275.68,
+275.94
 ],
 [
 "the",
-283.99,
-284.19
+275.94,
+276.14
 ],
 [
 "same",
-284.19,
-284.47
+276.14,
+276.42
 ],
 [
 "way.",
-284.47,
-284.81
+276.42,
+276.76
 ],
 [
 "\"Some",
-285.55,
-285.81
+277.52,
+277.76
 ],
 [
 "say",
-285.81,
-286.07
+277.76,
+278.02
 ],
 [
 "he",
-286.07,
-286.25
+278.02,
+278.2
 ],
 [
 "was",
-286.25,
-286.39
+278.2,
+278.34
 ],
 [
 "a",
-286.39,
-286.55
+278.34,
+278.5
 ],
 [
 "Bolton.",
-286.55,
-286.81
+278.5,
+278.76
 ],
 [
 "Some",
-287.37,
-287.55
+279.32,
+279.5
 ],
 [
 "say",
-287.55,
-287.77
+279.5,
+279.72
 ],
 [
 "a",
-287.77,
-287.93
+279.72,
+279.88
 ],
 [
 "Magnar",
-287.93,
-288.37
+279.88,
+280.32
 ],
 [
 "out",
-288.37,
-288.57
+280.32,
+280.52
 ],
 [
 "of",
-288.57,
-288.75
+280.52,
+280.7
 ],
 [
 "Skagos,",
-288.75,
-289.17
+280.7,
+281.12
 ],
 [
 "some",
-289.77,
-289.83
+281.72,
+281.78
 ],
 [
 "say",
-289.83,
-290.15
+281.78,
+282.1
 ],
 [
 "Umber,",
-290.15,
-290.61
+282.1,
+282.56
 ],
 [
 "Flint,",
-290.99,
-291.07
+282.94,
+283.02
 ],
 [
 "or",
-291.33,
-291.45
+283.28,
+283.4
 ],
 [
 "Norrey.",
-291.45,
-291.91
+283.4,
+283.86
 ],
 [
 "Some",
-292.49,
-292.73
+284.44,
+284.68
 ],
 [
 "would",
-292.73,
-292.89
+284.68,
+284.84
 ],
 [
 "have",
-292.89,
-293.01
+284.84,
+284.96
 ],
 [
 "you",
-293.01,
-293.19
+284.96,
+285.14
 ],
 [
 "think",
-293.19,
-293.55
+285.14,
+285.5
 ],
 [
 "he",
-293.55,
-293.79
+285.5,
+285.74
 ],
 [
 "was",
-293.79,
-293.93
+285.74,
+285.88
 ],
 [
 "a",
-293.93,
-294.15
+285.88,
+286.1
 ],
 [
 "Woodfoot,",
-294.15,
-294.61
+286.1,
+286.56
 ],
 [
 "from",
-294.61,
-295.13
+286.56,
+287.08
 ],
 [
 "them",
-295.13,
-295.43
+287.08,
+287.38
 ],
 [
 "who",
-295.43,
-295.69
+287.38,
+287.64
 ],
 [
 "ruled",
-295.69,
-295.99
+287.64,
+287.94
 ],
 [
 "Bear",
-295.99,
-296.25
+287.94,
+288.2
 ],
 [
 "Island.\"",
-296.25,
-296.63
+288.2,
+288.58
 ],
 [
 "\"He",
-297.65,
-297.97
+289.6,
+289.92
 ],
 [
 "never",
-297.97,
-298.21
+289.92,
+290.16
 ],
 [
 "was,\"",
-298.21,
-298.61
+290.16,
+290.56
 ],
 [
 "she",
-298.75,
-298.95
+290.72,
+290.9
 ],
 [
 "said.",
-298.95,
-299.25
+290.9,
+291.2
 ],
 [
 "\"He",
-299.8,
-300.04
+291.75,
+291.99
 ],
 [
 "was",
-300.04,
-300.18
+291.99,
+292.13
 ],
 [
 "a",
-300.18,
-300.52
+292.13,
+292.47
 ],
 [
 "Stark,",
-300.52,
-300.66
+292.47,
+292.61
 ],
 [
 "the",
-301.08,
-301.3
+293.03,
+293.25
 ],
 [
 "brother",
-301.3,
-301.58
+293.25,
+293.53
 ],
 [
 "of",
-301.58,
-301.9
+293.53,
+293.85
 ],
 [
 "the",
-301.9,
-302.04
+293.85,
+293.99
 ],
 [
 "man",
-302.04,
-302.26
+293.99,
+294.21
 ],
 [
 "who",
-302.26,
-302.48
+294.21,
+294.41
 ],
 [
 "brought",
-302.48,
-302.64
+294.41,
+294.59
 ],
 [
 "him",
-302.64,
-302.86
+294.59,
+294.81
 ],
 [
 "down.\"",
-302.86,
-303.18
+294.81,
+295.13
 ],
 [
 "Then",
-304.14,
-304.38
+296.09,
+296.33
 ],
 [
 "she",
-304.38,
-304.6
+296.33,
+296.55
 ],
 [
 "pinched",
-304.6,
-304.98
+296.55,
+296.93
 ],
 [
 "little",
-304.98,
-305.16
+296.93,
+297.11
 ],
 [
 "Bran's",
-305.16,
-305.62
+297.11,
+297.57
 ],
 [
 "nose.",
-305.62,
-305.86
+297.57,
+297.81
 ],
 [
 "\"He",
-306.46,
-306.7
+298.41,
+298.65
 ],
 [
 "was",
-306.7,
-306.84
+298.65,
+298.79
 ],
 [
 "a",
-306.84,
-307.02
+298.79,
+298.97
 ],
 [
 "Stark",
-307.02,
-307.3
+298.97,
+299.25
 ],
 [
 "of",
-307.3,
-307.5
+299.25,
+299.45
 ],
 [
 "Winterfell,",
-307.5,
-308.08
+299.45,
+300.03
 ],
 [
 "and",
-308.28,
-308.4
+300.21,
+300.35
 ],
 [
 "who",
-308.4,
-308.64
+300.35,
+300.59
 ],
 [
 "can",
-308.64,
-308.84
+300.59,
+300.79
 ],
 [
 "say?",
-308.84,
-309.2
+300.79,
+301.15
 ],
 [
 "Mayhaps",
-309.75,
-310.13
+301.7,
+302.1
 ],
 [
 "his",
-310.13,
-310.37
+302.1,
+302.32
 ],
 [
 "name",
-310.37,
-310.61
+302.32,
+302.56
 ],
 [
 "was",
-310.61,
-310.87
+302.56,
+302.82
 ],
 [
 "Brandon.\"",
-310.87,
-311.31
+302.82,
+303.26
 ],
 [
 "She",
-312.31,
-312.69
+304.26,
+304.64
 ],
 [
 "said",
-312.69,
-312.89
+304.64,
+304.84
 ],
 [
 "one",
-312.89,
-313.11
+304.84,
+305.06
 ],
 [
 "more",
-313.11,
-313.29
+305.06,
+305.24
 ],
 [
 "thing,",
-313.29,
-313.55
+305.24,
+305.5
 ],
 [
 "which",
-313.65,
-313.85
+305.5,
+305.8
 ],
 [
 "Bran",
-313.85,
-314.07
+305.8,
+306.02
 ],
 [
 "never",
-314.07,
-314.35
+306.02,
+306.3
 ],
 [
 "forgot.",
-314.35,
-314.79
+306.3,
+306.74
 ],
 [
 "\"Night's",
-315.35,
-315.73
+307.32,
+307.66
 ],
 [
 "King",
-315.73,
-315.89
+307.66,
+307.82
 ],
 [
 "was",
-315.89,
-316.11
+307.82,
+308.06
 ],
 [
 "only",
-316.11,
-316.45
+308.06,
+308.4
 ],
 [
 "a",
-316.45,
-316.63
+308.4,
+308.58
 ],
 [
 "man",
-316.63,
-316.85
+308.58,
+308.8
 ],
 [
 "by",
-316.85,
-317.15
+308.8,
+309.1
 ],
 [
 "light",
-317.15,
-317.41
+309.1,
+309.36
 ],
 [
 "of",
-317.41,
-317.59
+309.36,
+309.56
 ],
 [
 "day.",
-317.59,
-317.91
+309.56,
+309.86
 ],
 [
 "But",
-318.46,
-318.7
+310.41,
+310.65
 ],
 [
 "the",
-318.7,
-318.9
+310.65,
+310.85
 ],
 [
 "night",
-318.9,
-319.18
+310.85,
+311.13
 ],
 [
 "was",
-319.18,
-319.62
+311.13,
+311.57
 ],
 [
 "his",
-319.62,
-319.92
+311.57,
+311.87
 ],
 [
 "to",
-319.92,
-320.28
+311.87,
+312.23
 ],
 [
 "rule.\"",
-320.28,
-320.64
+312.23,
+312.57
 ],
 [
 "It",
-321.54,
-321.8
+313.49,
+313.75
 ],
 [
 "is",
-321.8,
-321.94
+313.75,
+313.87
 ],
 [
 "not",
-321.94,
-322.14
+313.87,
+314.09
 ],
 [
 "a",
-322.14,
-322.3
+314.09,
+314.25
 ],
 [
 "strange",
-322.3,
-322.68
+314.25,
+314.61
 ],
 [
 "guess.",
-322.68,
-323.08
+314.61,
+315.03
 ],
 [
 "House",
-323.74,
-323.84
+315.69,
+315.79
 ],
 [
 "Stark",
-323.84,
-324.2
+315.79,
+316.15
 ],
 [
 "has",
-324.2,
-324.44
+316.15,
+316.39
 ],
 [
 "always",
-324.44,
-324.84
+316.39,
+316.79
 ],
 [
 "loved",
-324.84,
-325.16
+316.79,
+317.11
 ],
 [
 "the",
-325.16,
-325.36
+317.11,
+317.31
 ],
 [
 "name.",
-325.36,
-325.62
+317.31,
+317.57
 ],
 [
 "Brandon",
-326.17,
-326.55
+318.12,
+318.5
 ],
 [
 "the",
-326.55,
-326.79
+318.5,
+318.72
 ],
 [
 "Builder.",
-326.79,
-327.05
+318.72,
+319.02
 ],
 [
 "Brandon",
-327.77,
-327.97
+319.76,
+319.92
 ],
 [
 "the",
-327.97,
-328.25
+319.92,
+320.2
 ],
 [
 "Shipwright,",
-328.25,
-328.71
+320.2,
+320.66
 ],
 [
 "who",
-328.97,
-329.05
+320.92,
+321.0
 ],
 [
 "sailed",
-329.05,
-329.35
+321.0,
+321.3
 ],
 [
 "west",
-329.35,
-329.65
+321.3,
+321.6
 ],
 [
 "and",
-329.65,
-329.91
+321.6,
+321.86
 ],
 [
 "never",
-329.91,
-330.09
+321.86,
+322.04
 ],
 [
 "returned.",
-330.09,
-330.59
+322.04,
+322.54
 ],
 [
 "Brandon",
-331.23,
-331.51
+323.2,
+323.46
 ],
 [
 "the",
-331.51,
-331.81
+323.46,
+323.76
 ],
 [
 "Burner.",
-331.81,
-332.76
+323.76,
+324.71
 ],
 [
 "Bran's",
-332.76,
-333.66
+324.71,
+325.61
 ],
 [
 "own",
-333.66,
-333.94
+325.61,
+325.89
 ],
 [
 "uncle",
-333.94,
-334.38
+325.89,
+326.33
 ],
 [
 "Brandon.",
-334.38,
-334.84
+326.33,
+326.79
 ],
 [
 "A",
-335.56,
-335.68
+327.51,
+327.65
 ],
 [
 "Stark",
-335.68,
-336.1
+327.65,
+328.05
 ],
 [
 "brother",
-336.1,
-336.58
+328.05,
+328.53
 ],
 [
 "bringing",
-336.58,
-337.24
+328.53,
+329.19
 ],
 [
 "down",
-337.24,
-337.82
+329.19,
+329.77
 ],
 [
 "a",
-337.82,
-338.28
+329.77,
+330.23
 ],
 [
 "Stark",
-338.28,
-338.72
+330.23,
+330.67
 ],
 [
 "brother.",
-338.72,
-339.26
+330.67,
+331.21
 ],
 [
 "The",
-339.44,
-340.15
+331.76,
+332.08
 ],
 [
 "family",
-340.15,
-340.49
+332.08,
+332.4
 ],
 [
 "whose",
-340.49,
-340.87
+332.4,
+332.8
 ],
 [
 "words",
-340.87,
-341.29
+332.8,
+333.22
 ],
 [
 "are",
-341.29,
-341.57
+333.22,
+333.5
 ],
 [
 "\"Winter",
-341.57,
-341.85
+333.5,
+333.78
 ],
 [
 "is",
-341.85,
-342.17
+333.78,
+334.1
 ],
 [
 "coming\"",
-342.17,
-342.57
+334.1,
+334.5
 ],
 [
 "may",
-342.57,
-343.21
+334.5,
+335.14
 ],
 [
 "have",
-343.21,
-343.39
+335.14,
+335.32
 ],
 [
 "given",
-343.39,
-343.67
+335.32,
+335.62
 ],
 [
 "the",
-343.67,
-343.89
+335.62,
+335.82
 ],
 [
 "Others",
-343.89,
-344.19
+335.82,
+336.12
 ],
 [
 "their",
-344.19,
-344.51
+336.12,
+336.44
 ],
 [
 "greatest",
-344.51,
-345.05
+336.44,
+336.98
 ],
 [
 "ally.",
-345.05,
-345.63
+336.98,
+337.56
 ],
 [
 "The",
-348.38,
-348.54
+340.31,
+340.45
 ],
 [
 "Nightfort",
-348.54,
-349.0
+340.45,
+340.93
 ],
 [
 "still",
-349.0,
-349.4
+340.93,
+341.33
 ],
 [
 "has",
-349.4,
-349.68
+341.33,
+341.61
 ],
 [
 "one",
-349.68,
-350.04
+341.61,
+341.97
 ],
 [
 "secret.",
-350.04,
-350.54
+341.97,
+342.47
 ],
 [
 "In",
-351.18,
-351.5
+343.11,
+343.43
 ],
 [
 "its",
-351.5,
-351.7
+343.43,
+343.61
 ],
 [
 "kitchens",
-351.7,
-352.08
+343.61,
+344.01
 ],
 [
 "there",
-352.08,
-352.42
+344.01,
+344.35
 ],
 [
 "is",
-352.42,
-352.56
+344.35,
+344.49
 ],
 [
 "an",
-352.56,
-352.72
+344.49,
+344.65
 ],
 [
 "old",
-352.72,
-353.1
+344.65,
+345.03
 ],
 [
 "well,",
-353.1,
-353.38
+345.03,
+345.31
 ],
 [
 "and",
-353.94,
-354.04
+345.83,
+345.97
 ],
 [
 "at",
-354.04,
-354.16
+345.97,
+346.09
 ],
 [
 "the",
-354.16,
-354.3
+346.09,
+346.23
 ],
 [
 "bottom",
-354.3,
-354.52
+346.23,
+346.45
 ],
 [
 "of",
-354.52,
-354.68
+346.45,
+346.63
 ],
 [
 "the",
-354.68,
-354.84
+346.63,
+346.77
 ],
 [
 "well,",
-354.84,
-355.06
+346.77,
+346.99
 ],
 [
 "there",
-355.06,
-355.54
+346.99,
+347.47
 ],
 [
 "is",
-355.54,
-355.68
+347.47,
+347.61
 ],
 [
 "a",
-355.68,
-355.86
+347.61,
+347.79
 ],
 [
 "door.",
-355.86,
-356.14
+347.79,
+348.07
 ],
 [
 "The",
-356.96,
-357.14
+348.89,
+349.05
 ],
 [
 "Watch",
-357.14,
-357.4
+349.05,
+349.33
 ],
 [
 "calls",
-357.4,
-357.7
+349.33,
+349.63
 ],
 [
 "it",
-357.7,
-357.94
+349.63,
+349.85
 ],
 [
 "the",
-357.94,
-358.14
+349.85,
+350.07
 ],
 [
 "Black",
-358.14,
-358.48
+350.07,
+350.41
 ],
 [
 "Gate.",
-358.48,
-358.84
+350.41,
+350.77
 ],
 [
 "But",
-359.82,
-360.1
+351.75,
+352.03
 ],
 [
 "it",
-360.1,
-360.22
+352.03,
+352.15
 ],
 [
 "isn't",
-360.22,
-360.54
+352.15,
+352.47
 ],
 [
 "black",
-360.54,
-360.76
+352.47,
+352.69
 ],
 [
 "at",
-360.76,
-360.92
+352.69,
+352.85
 ],
 [
 "all.",
-360.92,
-361.22
+352.85,
+353.15
 ],
 [
 "It",
-361.7,
-361.93
+353.61,
+353.88
 ],
 [
 "is",
-361.93,
-362.15
+353.88,
+354.1
 ],
 [
 "pale",
-362.15,
-362.47
+354.1,
+354.42
 ],
 [
 "white",
-362.47,
-362.85
+354.42,
+354.78
 ],
 [
 "weirwood,",
-362.85,
-363.49
+354.78,
+355.44
 ],
 [
 "glowing",
-363.79,
-364.05
+355.8,
+356.0
 ],
 [
 "like",
-364.05,
-364.37
+356.0,
+356.32
 ],
 [
 "milk",
-364.37,
-364.69
+356.32,
+356.64
 ],
 [
 "and",
-364.69,
-364.93
+356.64,
+356.88
 ],
 [
 "moonlight,",
-364.93,
-365.43
+356.88,
+357.38
 ],
 [
 "and",
-365.71,
-366.03
+357.66,
+357.98
 ],
 [
 "it",
-366.03,
-366.13
+357.98,
+358.08
 ],
 [
 "has",
-366.13,
-366.29
+358.08,
+358.24
 ],
 [
 "a",
-366.29,
-366.47
+358.24,
+358.42
 ],
 [
 "face.",
-366.47,
-366.77
+358.42,
+358.72
 ],
 [
 "When",
-367.69,
-367.89
+359.62,
+359.84
 ],
 [
 "Bran's",
-367.89,
-368.31
+359.84,
+360.26
 ],
 [
 "party",
-368.31,
-368.59
+360.26,
+360.52
 ],
 [
 "reaches",
-368.59,
-368.93
+360.52,
+360.86
 ],
 [
 "it,",
-368.93,
-369.25
+360.86,
+361.2
 ],
 [
 "the",
-369.51,
-369.63
+361.46,
+361.58
 ],
 [
 "face",
-369.63,
-369.89
+361.58,
+361.86
 ],
 [
 "opens",
-369.89,
-370.29
+361.86,
+362.26
 ],
 [
 "its",
-370.29,
-370.51
+362.26,
+362.46
 ],
 [
 "eyes.",
-370.51,
-370.91
+362.46,
+362.86
 ],
 [
 "\"Who",
-371.67,
-371.93
+363.62,
+363.88
 ],
 [
 "are",
-371.93,
-372.15
+363.88,
+364.1
 ],
 [
 "you?\"",
-372.15,
-372.45
+364.1,
+364.42
 ],
 [
 "it",
-373.0,
-373.1
+364.97,
+365.07
 ],
 [
 "asks.",
-373.1,
-373.46
+365.07,
+365.43
 ],
 [
 "A",
-374.12,
-374.36
+366.09,
+366.33
 ],
 [
 "brother",
-374.36,
-374.58
+366.33,
+366.55
 ],
 [
 "of",
-374.58,
-374.82
+366.55,
+366.79
 ],
 [
 "the",
-374.82,
-374.96
+366.79,
+366.93
 ],
 [
 "Watch,",
-374.96,
-375.3
+366.93,
+367.27
 ],
 [
 "Samwell",
-375.8,
-376.2
+367.77,
+368.15
 ],
 [
 "Tarly,",
-376.2,
-376.72
+368.15,
+368.69
 ],
 [
 "answers",
-376.72,
-377.4
+368.69,
+369.37
 ],
 [
 "with",
-377.4,
-377.7
+369.37,
+369.67
 ],
 [
 "the",
-377.7,
-377.88
+369.67,
+369.85
 ],
 [
 "words",
-377.88,
-378.14
+369.85,
+370.11
 ],
 [
 "of",
-378.14,
-378.36
+370.11,
+370.33
 ],
 [
 "his",
-378.36,
-378.52
+370.33,
+370.49
 ],
 [
 "oath.",
-378.52,
-378.88
+370.49,
+370.85
 ],
 [
 "\"I",
-379.68,
-380.02
+371.65,
+371.99
 ],
 [
 "am",
-380.02,
-380.14
+371.99,
+372.11
 ],
 [
 "the",
-380.14,
-380.32
+372.11,
+372.29
 ],
 [
 "sword",
-380.32,
-380.56
+372.29,
+372.53
 ],
 [
 "in",
-380.56,
-380.74
+372.53,
+372.71
 ],
 [
 "the",
-380.74,
-380.86
+372.71,
+372.83
 ],
 [
 "darkness.",
-380.86,
-381.22
+372.83,
+373.19
 ],
 [
 "I",
-381.77,
-381.85
+373.74,
+373.82
 ],
 [
 "am",
-381.85,
-381.97
+373.82,
+373.94
 ],
 [
 "the",
-381.97,
-382.13
+373.94,
+374.1
 ],
 [
 "watcher",
-382.13,
-382.53
+374.1,
+374.48
 ],
 [
 "on",
-382.53,
-382.67
+374.48,
+374.64
 ],
 [
 "the",
-382.67,
-382.81
+374.64,
+374.78
 ],
 [
 "walls.",
-382.81,
-383.11
+374.78,
+375.08
 ],
 [
 "I",
-383.66,
-383.76
+375.63,
+375.75
 ],
 [
 "am",
-383.76,
-383.88
+375.75,
+375.87
 ],
 [
 "the",
-383.88,
-384.1
+375.87,
+376.09
 ],
 [
 "shield",
-384.1,
-384.36
+376.09,
+376.35
 ],
 [
 "that",
-384.36,
-384.74
+376.35,
+376.73
 ],
 [
 "guards",
-384.74,
-385.04
+376.73,
+377.03
 ],
 [
 "the",
-385.04,
-385.34
+377.03,
+377.33
 ],
 [
 "realms",
-385.34,
-385.54
+377.33,
+377.53
 ],
 [
 "of",
-385.54,
-385.82
+377.53,
+377.81
 ],
 [
 "men.\"",
-385.82,
-386.1
+377.81,
+378.09
 ],
 [
 "\"Then",
-386.82,
-387.14
+378.81,
+379.13
 ],
 [
 "pass,\"",
-387.14,
-387.6
+379.13,
+379.59
 ],
 [
 "the",
-387.92,
-388.08
+379.91,
+380.07
 ],
 [
 "door",
-388.08,
-388.28
+380.07,
+380.27
 ],
 [
 "says.",
-388.28,
-388.6
+380.27,
+380.59
 ],
 [
 "Its",
-389.42,
-389.66
+381.39,
+381.65
 ],
 [
 "mouth",
-389.66,
-389.94
+381.65,
+381.93
 ],
 [
 "opens",
-389.94,
-390.4
+381.93,
+382.39
 ],
 [
 "wide,",
-390.4,
-390.86
+382.39,
+382.83
 ],
 [
 "and",
-391.3,
-391.52
+383.29,
+383.51
 ],
 [
 "they",
-391.52,
-391.64
+383.51,
+383.63
 ],
 [
 "walk",
-391.64,
-391.88
+383.63,
+383.87
 ],
 [
 "through,",
-391.88,
-392.26
+383.87,
+384.27
 ],
 [
 "under",
-392.48,
-392.74
+384.47,
+384.73
 ],
 [
 "the",
-392.74,
-392.9
+384.73,
+384.89
 ],
 [
 "Wall,",
-392.9,
-393.22
+384.89,
+385.21
 ],
 [
 "into",
-393.56,
-393.7
+385.55,
+385.69
 ],
 [
 "the",
-393.7,
-393.92
+385.69,
+385.91
 ],
 [
 "North.",
-393.92,
-394.16
+385.91,
+386.15
 ],
 [
 "A",
-395.26,
-395.6
+387.25,
+387.59
 ],
 [
 "secret",
-395.6,
-395.92
+387.59,
+387.91
 ],
 [
 "door",
-395.92,
-396.2
+387.91,
+388.19
 ],
 [
 "through",
-396.2,
-396.5
+388.19,
+388.49
 ],
 [
 "the",
-396.5,
-396.68
+388.49,
+388.67
 ],
 [
 "Wall,",
-396.68,
-397.02
+388.67,
+388.99
 ],
 [
 "in",
-397.3,
-397.42
+389.29,
+389.41
 ],
 [
 "the",
-397.42,
-397.62
+389.41,
+389.61
 ],
 [
 "castle",
-397.62,
-397.94
+389.61,
+389.93
 ],
 [
 "where",
-397.94,
-398.28
+389.93,
+390.27
 ],
 [
 "a",
-398.28,
-398.42
+390.27,
+390.41
 ],
 [
 "Lord",
-398.42,
-398.6
+390.41,
+390.61
 ],
 [
 "Commander",
-398.6,
-399.0
+390.61,
+390.99
 ],
 [
 "once",
-399.0,
-399.44
+390.99,
+391.43
 ],
 [
 "let",
-399.44,
-399.68
+391.43,
+391.67
 ],
 [
 "the",
-399.68,
-399.86
+391.67,
+391.85
 ],
 [
 "cold",
-399.86,
-400.14
+391.85,
+392.13
 ],
 [
 "inside.",
-400.14,
-400.7
+392.13,
+392.69
 ],
 [
 "The",
-401.54,
-401.86
+393.53,
+393.85
 ],
 [
 "books",
-401.86,
-402.1
+393.85,
+394.09
 ],
 [
 "never",
-402.1,
-402.54
+394.09,
+394.53
 ],
 [
 "connect",
-402.54,
+394.53,
+394.93
+],
+[
+"the",
+394.93,
+395.13
+],
+[
+"two.",
+395.13,
+395.37
+],
+[
+"But",
+396.17,
+396.45
+],
+[
+"it",
+396.45,
+396.57
+],
+[
+"is",
+396.57,
+396.71
+],
+[
+"hard",
+396.71,
+397.07
+],
+[
+"not",
+397.07,
+397.37
+],
+[
+"to",
+397.37,
+397.57
+],
+[
+"wonder.",
+397.57,
+397.87
+],
+[
+"Then,",
+400.62,
+400.88
+],
+[
+"in",
+400.98,
+401.12
+],
+[
+"2014,",
+401.12,
+401.7
+],
+[
+"the",
+402.42,
+402.52
+],
+[
+"show",
+402.52,
+402.72
+],
+[
+"gave",
+402.72,
 402.94
 ],
 [
 "the",
 402.94,
-403.14
-],
-[
-"two.",
-403.14,
-403.38
-],
-[
-"But",
-404.18,
-404.46
-],
-[
-"it",
-404.46,
-404.58
-],
-[
-"is",
-404.58,
-404.72
-],
-[
-"hard",
-404.72,
-405.08
-],
-[
-"not",
-405.08,
-405.38
-],
-[
-"to",
-405.38,
-405.58
-],
-[
-"wonder.",
-405.58,
-405.88
-],
-[
-"Then,",
-408.63,
-408.89
-],
-[
-"in",
-408.99,
-409.13
-],
-[
-"2014,",
-409.13,
-409.75
-],
-[
-"the",
-410.41,
-410.53
-],
-[
-"show",
-410.53,
-410.73
-],
-[
-"gave",
-410.73,
-410.95
-],
-[
-"the",
-410.95,
-411.17
+403.16
 ],
 [
 "name",
-411.17,
-411.37
+403.16,
+403.36
 ],
 [
 "to",
-411.37,
-411.61
+403.36,
+403.6
 ],
 [
 "someone",
-411.61,
-411.93
+403.6,
+403.92
 ],
 [
 "new.",
-411.93,
-412.27
+403.92,
+404.26
 ],
 [
 "In",
-412.93,
-413.05
+404.92,
+405.04
 ],
 [
 "the",
-413.05,
-413.19
+405.04,
+405.18
 ],
 [
 "fourth",
-413.19,
-413.43
+405.18,
+405.42
 ],
 [
 "season,",
-413.43,
-413.93
+405.42,
+405.92
 ],
 [
 "a",
-414.29,
-414.39
+406.28,
+406.38
 ],
 [
 "White",
-414.39,
-414.61
+406.38,
+406.6
 ],
 [
 "Walker",
-414.61,
-414.99
+406.6,
+406.98
 ],
 [
 "rides",
-414.99,
-415.45
+406.98,
+407.44
 ],
 [
 "through",
-415.45,
-415.71
+407.44,
+407.7
 ],
 [
 "the",
-415.71,
-415.87
+407.7,
+407.86
 ],
 [
 "snow",
-415.87,
-416.23
+407.86,
+408.22
 ],
 [
 "carrying",
-416.23,
-416.69
+408.22,
+408.68
 ],
 [
 "a",
-416.69,
-416.93
+408.68,
+408.92
 ],
 [
 "baby",
-416.93,
-417.19
+408.92,
+409.18
 ],
 [
 "to",
-417.19,
-417.43
+409.18,
+409.42
 ],
 [
 "an",
-417.43,
-417.57
+409.42,
+409.56
 ],
 [
 "altar",
-417.57,
-417.87
+409.56,
+409.86
 ],
 [
 "of",
-417.87,
-418.17
+409.86,
+410.16
 ],
 [
 "ice.",
-418.17,
-418.41
+410.16,
+410.4
 ],
 [
 "A",
-419.07,
-419.25
+411.06,
+411.24
 ],
 [
 "crown",
-419.25,
-419.65
+411.24,
+411.62
 ],
 [
 "of",
-419.65,
-419.97
+411.62,
+411.94
 ],
 [
 "icy",
-419.97,
-420.31
+411.94,
+412.3
 ],
 [
 "horns",
-420.31,
-420.75
+412.3,
+412.74
 ],
 [
 "rises",
-420.75,
-421.21
+412.74,
+413.2
 ],
 [
 "from",
-421.21,
-421.51
+413.2,
+413.5
 ],
 [
 "his",
-421.51,
-421.67
+413.5,
+413.66
 ],
 [
 "head.",
-421.67,
-421.97
+413.66,
+413.96
 ],
 [
 "He",
-422.52,
-422.74
+414.4,
+414.69
 ],
 [
 "touches",
-422.74,
-423.04
+414.69,
+415.01
 ],
 [
 "the",
-423.04,
-423.34
+415.01,
+415.29
 ],
 [
 "child's",
-423.34,
-423.78
+415.29,
+415.75
 ],
 [
 "cheek,",
-423.78,
-424.06
+415.75,
+416.03
 ],
 [
 "and",
-424.38,
-424.48
+416.35,
+416.45
 ],
 [
 "its",
-424.48,
-424.64
+416.45,
+416.61
 ],
 [
 "eyes",
-424.64,
-424.94
+416.61,
+416.91
 ],
 [
 "turn",
-424.94,
-425.3
+416.91,
+417.27
 ],
 [
 "blue.",
-425.3,
-425.72
+417.27,
+417.69
 ],
 [
 "HBO's",
-426.84,
-427.44
+418.81,
+419.41
 ],
 [
 "official",
-427.44,
-427.7
+419.41,
+419.67
 ],
 [
 "guide",
-427.7,
-428.12
+419.67,
+420.07
 ],
 [
 "briefly",
-428.12,
-428.58
+420.07,
+420.55
 ],
 [
 "named",
-428.58,
-429.02
+420.55,
+420.99
 ],
 [
 "him",
-429.02,
-429.24
+420.99,
+421.21
 ],
 [
 "the",
-429.24,
-429.52
+421.21,
+421.49
 ],
 [
 "Night's",
-429.52,
-429.98
+421.49,
+421.95
 ],
 [
 "King,",
-429.98,
-430.22
+421.95,
+422.19
 ],
 [
 "then",
-430.7,
-430.98
+422.65,
+422.95
 ],
 [
 "quietly",
-430.98,
-431.4
+422.95,
+423.37
 ],
 [
 "removed",
-431.4,
-431.88
+423.37,
+423.85
 ],
 [
 "the",
-431.88,
-432.1
+423.85,
+424.07
 ],
 [
 "name.",
-432.1,
-432.32
+424.07,
+424.29
 ],
 [
 "The",
-432.87,
-433.07
+424.84,
+425.04
 ],
 [
 "show's",
-433.07,
-433.43
+425.04,
+425.38
 ],
 [
 "version",
-433.43,
-433.79
+425.38,
+425.76
 ],
 [
 "became",
-433.79,
-434.17
+425.76,
+426.14
 ],
 [
 "its",
-434.17,
-434.39
+426.14,
+426.36
 ],
 [
 "great",
-434.39,
-434.67
+426.36,
+426.64
 ],
 [
 "villain.",
-434.67,
-435.05
+426.64,
+427.02
 ],
 [
 "At",
-435.67,
-435.93
+427.64,
+427.9
 ],
 [
 "Hardhome,",
-435.93,
-436.53
+427.9,
+428.5
 ],
 [
 "he",
-436.99,
-437.03
+428.92,
+429.0
 ],
 [
 "lifts",
-437.03,
-437.31
+429.0,
+429.26
 ],
 [
 "his",
-437.31,
-437.57
+429.26,
+429.54
 ],
 [
 "arms",
-437.57,
-437.85
+429.54,
+429.82
 ],
 [
 "and",
-437.85,
-438.11
+429.82,
+430.08
 ],
 [
 "the",
-438.11,
-438.23
+430.08,
+430.2
 ],
 [
 "dead",
-438.23,
-438.45
+430.2,
+430.42
 ],
 [
 "rise",
-438.45,
-438.73
+430.42,
+430.7
 ],
 [
 "to",
-438.73,
-438.99
+430.7,
+430.96
 ],
 [
 "join",
-438.99,
-439.23
+430.96,
+431.2
 ],
 [
 "him.",
-439.23,
-439.53
+431.2,
+431.5
 ],
 [
 "Beyond",
-440.15,
-440.49
+432.12,
+432.46
 ],
 [
 "the",
-440.49,
-440.69
+432.46,
+432.66
 ],
 [
 "Wall,",
-440.69,
-440.97
+432.66,
+432.94
 ],
 [
 "he",
-441.23,
-441.35
+433.16,
+433.32
 ],
 [
 "brings",
-441.35,
-441.59
+433.32,
+433.56
 ],
 [
 "down",
-441.59,
-441.85
+433.56,
+433.82
 ],
 [
 "one",
-441.85,
-442.03
+433.82,
+434.0
 ],
 [
 "of",
-442.03,
-442.21
+434.0,
+434.2
 ],
 [
 "Daenerys's",
-442.21,
-442.77
+434.2,
+434.54
 ],
 [
 "dragons",
-442.77,
-443.09
+434.72,
+435.04
 ],
 [
 "and",
-443.09,
-443.53
+435.04,
+435.52
 ],
 [
 "raises",
-443.53,
-443.87
+435.52,
+435.84
 ],
 [
 "it",
-443.87,
-444.09
+435.84,
+436.06
 ],
 [
 "as",
-444.09,
-444.23
+436.06,
+436.2
 ],
 [
 "his",
-444.23,
-444.37
+436.2,
+436.34
 ],
 [
 "own.",
-444.37,
-444.67
+436.34,
+436.66
 ],
 [
 "In",
-445.49,
-445.65
+437.46,
+437.62
 ],
 [
 "the",
-445.65,
-445.81
+437.62,
+437.78
 ],
 [
 "sixth",
-445.81,
-446.05
+437.78,
+438.02
 ],
 [
 "season,",
-446.05,
-446.39
+438.02,
+438.36
 ],
 [
 "the",
-446.61,
-446.65
+438.58,
+438.62
 ],
 [
 "show",
-446.65,
-446.85
+438.62,
+438.8
 ],
 [
 "reveals",
-446.85,
-447.23
+438.8,
+439.22
 ],
 [
 "his",
-447.23,
-447.51
+439.22,
+439.48
 ],
 [
 "origin.",
-447.51,
-447.89
+439.48,
+439.86
 ],
 [
 "Long",
-448.77,
-448.93
+440.72,
+440.9
 ],
 [
 "ago,",
-448.93,
-449.27
+440.9,
+441.22
 ],
 [
 "the",
-449.41,
-449.49
+441.36,
+441.46
 ],
 [
 "children",
-449.49,
-449.71
+441.46,
+441.68
 ],
 [
 "of",
-449.71,
-449.93
+441.68,
+441.9
 ],
 [
 "the",
-449.93,
-450.11
+441.9,
+442.08
 ],
 [
 "forest",
-450.11,
-450.43
+442.08,
+442.4
 ],
 [
 "bound",
-450.43,
-450.83
+442.4,
+442.8
 ],
 [
 "a",
-450.83,
-451.05
+442.8,
+443.02
 ],
 [
 "man",
-451.05,
-451.27
+443.02,
+443.24
 ],
 [
 "of",
-451.27,
-451.49
+443.24,
+443.46
 ],
 [
 "the",
-451.49,
-451.63
+443.46,
+443.6
 ],
 [
 "First",
-451.63,
-451.87
+443.6,
+443.84
 ],
 [
 "Men",
-451.87,
-452.15
+443.84,
+444.12
 ],
 [
 "to",
-452.15,
-452.37
+444.12,
+444.34
 ],
 [
 "a",
-452.37,
-452.53
+444.34,
+444.5
 ],
 [
 "weirwood",
-452.53,
-452.89
+444.5,
+444.84
 ],
 [
 "tree",
-452.89,
-453.17
+444.84,
+445.14
 ],
 [
 "and",
-453.17,
-453.61
+445.14,
+445.58
 ],
 [
 "drove",
-453.61,
-453.89
+445.58,
+445.86
 ],
 [
 "a",
-453.89,
-454.13
+445.86,
+446.12
 ],
 [
 "blade",
-454.13,
-454.39
+446.12,
+446.36
 ],
 [
 "of",
-454.39,
-454.61
+446.36,
+446.58
 ],
 [
 "dragonglass",
-454.61,
-455.27
+446.58,
+447.24
 ],
 [
 "into",
-455.27,
-455.57
+447.24,
+447.54
 ],
 [
 "his",
-455.57,
-455.79
+447.54,
+447.74
 ],
 [
 "heart.",
-455.79,
-456.07
+447.74,
+448.04
 ],
 [
 "He",
-456.59,
-456.82
+448.56,
+448.79
 ],
 [
 "became",
-456.82,
-457.12
+448.79,
+449.09
 ],
 [
 "the",
-457.12,
-457.34
+449.09,
+449.31
 ],
 [
 "first",
-457.34,
-457.64
+449.31,
+449.61
 ],
 [
 "White",
-457.64,
-457.88
+449.61,
+449.85
 ],
 [
 "Walker.",
-457.88,
-458.2
+449.85,
+450.17
 ],
 [
 "At",
-458.98,
-459.54
+450.95,
+451.51
 ],
 [
 "Winterfell,",
-459.54,
-460.1
+451.51,
+452.07
 ],
 [
 "in",
-460.34,
-460.36
+452.31,
+452.33
 ],
 [
 "the",
-460.36,
-460.5
+452.33,
+452.47
 ],
 [
 "final",
-460.5,
-460.76
+452.47,
+452.75
 ],
 [
 "season,",
-460.76,
-461.3
+452.75,
+453.27
 ],
 [
 "Arya",
-461.98,
-462.2
+453.93,
+454.17
 ],
 [
 "Stark",
-462.2,
-462.48
+454.17,
+454.45
 ],
 [
 "kills",
-462.48,
-462.9
+454.45,
+454.89
 ],
 [
 "him",
-462.9,
-463.2
+454.89,
+455.17
 ],
 [
 "with",
-463.2,
-463.38
+455.17,
+455.35
 ],
 [
 "a",
-463.38,
-463.52
+455.35,
+455.49
 ],
 [
 "Valyrian",
-463.52,
-464.04
+455.49,
+456.01
 ],
 [
 "steel",
-464.04,
-464.36
+456.01,
+456.33
 ],
 [
 "dagger,",
-464.36,
-464.82
+456.33,
+456.79
 ],
 [
 "and",
-465.2,
-465.3
+457.19,
+457.27
 ],
 [
 "his",
-465.3,
-465.46
+457.27,
+457.43
 ],
 [
 "entire",
-465.46,
-465.92
+457.43,
+457.89
 ],
 [
 "army",
-465.92,
-466.38
+457.89,
+458.35
 ],
 [
 "falls",
-466.38,
-466.78
+458.35,
+458.73
 ],
 [
 "with",
-466.78,
-467.04
+458.73,
+459.01
 ],
 [
 "him.",
-467.04,
-467.32
+459.01,
+459.29
 ],
 [
 "None",
-467.87,
-467.95
+459.84,
+459.92
 ],
 [
 "of",
-467.95,
-468.11
+459.92,
+460.08
 ],
 [
 "that",
-468.11,
-468.31
+460.08,
+460.28
 ],
 [
 "happens",
-468.31,
-468.65
+460.28,
+460.62
 ],
 [
 "in",
-468.65,
-468.89
+460.62,
+460.86
 ],
 [
 "the",
-468.89,
-468.97
+460.86,
+460.94
 ],
 [
 "books.",
-468.97,
-469.19
+460.94,
+461.16
 ],
 [
-"When",
-471.94,
-472.14
+"So",
+463.91,
+464.19
 ],
 [
-"fans",
-472.14,
-472.52
-],
-[
-"asked",
-472.52,
-472.92
-],
-[
-"Martin",
-472.92,
-473.26
-],
-[
-"whether",
-473.26,
-473.62
+"are",
+464.19,
+464.43
 ],
 [
 "the",
-473.62,
-473.92
+464.43,
+464.65
 ],
 [
 "show's",
-473.92,
-474.3
+464.65,
+464.97
 ],
 [
 "Night",
-474.3,
-474.4
+464.97,
+465.31
 ],
 [
 "King",
-474.4,
-474.72
+465.31,
+465.65
 ],
 [
 "and",
-474.72,
-475.04
+465.65,
+466.13
 ],
 [
 "the",
-475.04,
-475.2
+466.13,
+466.27
 ],
 [
 "book's",
-475.2,
-475.6
+466.27,
+466.51
 ],
 [
 "Night's",
-475.6,
-475.9
+466.51,
+467.01
 ],
 [
 "King",
-475.9,
-476.08
-],
-[
-"were",
-476.08,
-476.28
+467.01,
+467.17
 ],
 [
 "the",
-476.28,
-476.46
+467.17,
+467.39
 ],
 [
 "same",
-476.46,
-476.76
+467.39,
+467.67
 ],
 [
-"person,",
-476.76,
-477.2
-],
-[
-"he",
-477.72,
-477.96
-],
-[
-"gave",
-477.96,
-478.12
-],
-[
-"a",
-478.12,
-478.34
-],
-[
-"careful",
-478.34,
-478.78
-],
-[
-"answer.",
-478.78,
-479.32
-],
-[
-"\"As",
-480.28,
-480.52
-],
-[
-"for",
-480.52,
-480.68
-],
-[
-"the",
-480.68,
-480.82
-],
-[
-"Night's",
-480.82,
-481.16
-],
-[
-"King,",
-481.16,
-481.46
-],
-[
-"the",
-481.76,
-481.88
-],
-[
-"form",
-481.88,
-482.12
-],
-[
-"I",
-482.12,
-482.34
-],
-[
-"prefer,",
-482.34,
-482.74
-],
-[
-"in",
-483.24,
-483.36
-],
-[
-"the",
-483.36,
-483.52
-],
-[
-"books",
-483.52,
-483.78
-],
-[
-"he",
-483.78,
-484.06
-],
-[
-"is",
-484.06,
-484.24
-],
-[
-"a",
-484.24,
-484.48
-],
-[
-"legendary",
-484.48,
-484.92
-],
-[
-"figure,",
-484.92,
-485.56
-],
-[
-"akin",
-485.94,
-486.18
-],
-[
-"to",
-486.18,
-486.44
-],
-[
-"Lann",
-486.44,
-486.76
-],
-[
-"the",
-486.76,
-486.98
-],
-[
-"Clever",
-486.98,
-487.26
-],
-[
-"and",
-487.26,
-487.88
-],
-[
-"Brandon",
-487.88,
-488.18
-],
-[
-"the",
-488.18,
-488.42
-],
-[
-"Builder,",
-488.42,
-488.68
-],
-[
-"and",
-489.18,
-489.38
-],
-[
-"no",
-489.38,
-489.6
-],
-[
-"more",
-489.6,
-489.82
-],
-[
-"likely",
-489.82,
-490.1
-],
-[
-"to",
-490.1,
-490.36
-],
-[
-"have",
-490.36,
-490.46
-],
-[
-"survived",
-490.46,
-490.88
-],
-[
-"to",
-490.88,
-491.1
-],
-[
-"the",
-491.1,
-491.24
-],
-[
-"present",
-491.24,
-491.5
-],
-[
-"day",
-491.5,
-491.84
-],
-[
-"than",
-491.84,
-492.1
-],
-[
-"they",
-492.1,
-492.3
-],
-[
-"have.\"",
-492.3,
-492.7
+"person?",
+467.67,
+467.97
 ],
 [
 "In",
-493.56,
-493.9
-],
-[
-"other",
-493.9,
-494.06
-],
-[
-"words,",
-494.06,
-494.3
+468.97,
+469.29
 ],
 [
 "the",
-494.42,
-494.5
+469.29,
+469.43
 ],
 [
-"Night's",
-494.5,
-494.86
-],
-[
-"King",
-494.86,
-494.98
-],
-[
-"of",
-494.98,
-495.12
+"books,",
+469.43,
+469.69
 ],
 [
 "the",
-495.12,
-495.3
+469.97,
+469.99
 ],
 [
-"books",
-495.3,
-495.54
+"answer",
+469.99,
+470.29
 ],
 [
 "is",
-495.54,
-495.84
+470.29,
+470.65
+],
+[
+"no.",
+470.65,
+471.03
+],
+[
+"There,",
+472.23,
+472.63
+],
+[
+"the",
+473.27,
+473.33
+],
+[
+"Night's",
+473.33,
+473.71
+],
+[
+"King",
+473.71,
+473.93
+],
+[
+"is",
+473.93,
+474.25
 ],
 [
 "a",
-495.84,
-496.08
+474.25,
+474.51
 ],
 [
-"legend,",
-496.08,
-496.44
+"legendary",
+474.51,
+475.01
+],
+[
+"figure,",
+475.01,
+475.71
 ],
 [
 "like",
-496.44,
-496.88
+476.23,
+476.49
+],
+[
+"Lann",
+476.49,
+476.87
 ],
 [
 "the",
-496.88,
-497.14
+476.87,
+477.15
 ],
 [
-"trickster",
-497.14,
-497.54
-],
-[
-"who",
-497.54,
-497.76
-],
-[
-"stole",
-497.76,
-498.12
-],
-[
-"Casterly",
-498.12,
-498.72
-],
-[
-"Rock",
-498.72,
-498.94
+"Clever",
+477.15,
+477.39
 ],
 [
 "and",
-498.94,
-499.14
+477.39,
+477.93
+],
+[
+"Brandon",
+477.93,
+478.29
 ],
 [
 "the",
-499.14,
-499.26
+478.29,
+478.51
+],
+[
+"Builder,",
+478.51,
+478.77
+],
+[
+"and",
+479.33,
+479.51
+],
+[
+"no",
+479.51,
+479.77
+],
+[
+"more",
+479.77,
+479.97
+],
+[
+"likely",
+479.97,
+480.29
+],
+[
+"to",
+480.29,
+480.57
+],
+[
+"have",
+480.57,
+480.71
+],
+[
+"survived",
+480.71,
+481.09
+],
+[
+"to",
+481.09,
+481.31
+],
+[
+"the",
+481.31,
+481.45
+],
+[
+"present",
+481.45,
+481.71
+],
+[
+"day",
+481.71,
+482.01
+],
+[
+"than",
+482.01,
+482.17
+],
+[
+"they",
+482.17,
+482.35
+],
+[
+"have.",
+482.35,
+482.71
+],
+[
+"A",
+483.26,
+483.48
+],
+[
+"legend,",
+483.48,
+483.84
+],
+[
+"like",
+484.42,
+484.64
+],
+[
+"the",
+484.64,
+484.86
+],
+[
+"trickster",
+484.86,
+485.38
+],
+[
+"who",
+485.38,
+485.66
+],
+[
+"stole",
+485.66,
+486.0
+],
+[
+"Casterly",
+486.0,
+486.62
+],
+[
+"Rock,",
+486.62,
+486.86
+],
+[
+"and",
+486.86,
+487.62
+],
+[
+"the",
+487.62,
+487.78
 ],
 [
 "builder",
-499.26,
-499.46
+487.78,
+488.02
 ],
 [
 "of",
-499.46,
-499.66
+488.02,
+488.26
 ],
 [
 "the",
-499.66,
-499.78
+488.26,
+488.46
 ],
 [
 "Wall.",
-499.78,
-500.04
+488.46,
+488.76
 ],
 [
 "He",
-500.6,
-500.9
+490.0,
+490.6
 ],
 [
 "may",
-500.9,
-501.1
+490.6,
+490.78
 ],
 [
 "never",
-501.1,
-501.44
+490.78,
+491.12
 ],
 [
 "even",
-501.44,
+491.12,
+491.42
+],
+[
+"have",
+491.42,
+491.62
+],
+[
+"existed.",
+491.62,
+492.16
+],
+[
+"Notice",
+492.8,
+493.14
+],
+[
+"the",
+493.14,
+493.38
+],
+[
+"name,",
+493.38,
+493.6
+],
+[
+"too.",
+493.76,
+493.96
+],
+[
+"The",
+494.68,
+494.88
+],
+[
+"books",
+494.88,
+495.12
+],
+[
+"call",
+495.12,
+495.4
+],
+[
+"him",
+495.4,
+495.6
+],
+[
+"Night's",
+495.6,
+496.0
+],
+[
+"King,",
+496.0,
+496.22
+],
+[
+"with",
+496.22,
+496.68
+],
+[
+"an",
+496.68,
+496.84
+],
+[
+"S,",
+496.84,
+497.14
+],
+[
+"like",
+497.52,
+497.7
+],
+[
+"a",
+497.7,
+497.84
+],
+[
+"title.",
+497.84,
+498.18
+],
+[
+"The",
+498.88,
+499.04
+],
+[
+"show",
+499.04,
+499.24
+],
+[
+"dropped",
+499.24,
+499.48
+],
+[
+"the",
+499.48,
+499.74
+],
+[
+"S.",
+499.74,
+500.02
+],
+[
+"And",
+500.96,
+501.26
+],
+[
+"the",
+501.26,
+501.4
+],
+[
+"books",
+501.4,
 501.66
 ],
 [
 "have",
 501.66,
-501.8
-],
-[
-"existed.",
-501.8,
-502.3
-],
-[
-"Notice",
-503.02,
-503.36
-],
-[
-"the",
-503.36,
-503.58
-],
-[
-"name,",
-503.58,
-503.88
-],
-[
-"too.",
-504.34,
-504.44
-],
-[
-"Martin",
-505.54,
-505.72
-],
-[
-"prefers",
-505.72,
-506.26
-],
-[
-"Night's",
-506.26,
-507.08
-],
-[
-"King,",
-507.08,
-507.3
-],
-[
-"with",
-507.3,
-508.06
-],
-[
-"an",
-508.06,
-508.22
-],
-[
-"S,",
-508.22,
-508.58
-],
-[
-"like",
-508.94,
-509.14
-],
-[
-"a",
-509.14,
-509.28
-],
-[
-"title.",
-509.28,
-509.62
-],
-[
-"The",
-510.2,
-510.36
-],
-[
-"show",
-510.36,
-510.58
-],
-[
-"dropped",
-510.58,
-510.98
-],
-[
-"the",
-510.98,
-511.26
-],
-[
-"S.",
-511.26,
-511.5
-],
-[
-"And",
-511.9,
-512.41
-],
-[
-"the",
-512.41,
-512.53
-],
-[
-"books",
-512.53,
-512.77
-],
-[
-"have",
-512.77,
-513.03
+501.96
 ],
 [
 "no",
-513.03,
-513.41
+501.96,
+502.42
 ],
 [
 "Night",
-513.41,
-513.67
+502.42,
+502.74
 ],
 [
 "King",
-513.67,
-513.89
+502.74,
+503.08
 ],
 [
 "at",
-513.89,
-514.05
+503.08,
+503.42
 ],
 [
 "all.",
-514.05,
-514.37
+503.42,
+503.78
 ],
 [
 "No",
-515.09,
-515.37
+504.74,
+505.06
 ],
 [
 "one",
-515.37,
-515.55
+505.06,
+505.26
 ],
 [
 "in",
-515.55,
-515.67
+505.26,
+505.42
 ],
 [
 "the",
-515.67,
-515.81
+505.42,
+505.62
 ],
 [
 "novels",
-515.81,
-516.07
+505.62,
+505.96
 ],
 [
 "knows",
-516.07,
-516.39
+505.96,
+506.36
 ],
 [
 "who",
-516.39,
-517.05
+506.36,
+506.78
 ],
 [
 "leads",
-517.05,
-517.41
+506.78,
+507.12
 ],
 [
 "the",
-517.41,
-517.65
+507.12,
+507.38
 ],
 [
 "Others,",
-517.65,
-517.95
+507.38,
+507.66
 ],
 [
 "or",
-517.95,
-518.55
+507.66,
+508.16
 ],
 [
 "whether",
-518.55,
-518.77
+508.16,
+508.42
 ],
 [
 "anyone",
-518.77,
-519.19
+508.42,
+508.86
 ],
 [
 "does.",
-519.19,
-519.61
+508.86,
+509.22
 ],
 [
 "No",
-520.17,
-520.47
+509.96,
+510.24
 ],
 [
 "one",
-520.47,
-520.67
+510.24,
+510.42
 ],
 [
 "knows",
-520.67,
-520.97
+510.42,
+510.68
 ],
 [
 "where",
-520.97,
-521.21
+510.68,
+510.94
 ],
 [
 "they",
-521.21,
-521.39
+510.94,
+511.14
 ],
 [
 "came",
-521.39,
-521.63
+511.14,
+511.42
 ],
 [
 "from.",
-521.63,
-521.93
+511.42,
+511.72
 ],
 [
 "The",
-522.63,
-522.93
+512.32,
+512.54
 ],
 [
 "children",
-522.93,
-523.25
+512.54,
+512.8
 ],
 [
 "of",
-523.25,
-523.55
+512.8,
+513.1
 ],
 [
 "the",
-523.55,
-523.69
+513.1,
+513.28
 ],
 [
 "forest",
-523.69,
-524.03
+513.28,
+513.66
 ],
 [
 "creating",
-524.03,
-524.59
+513.66,
+514.22
 ],
 [
 "them",
-524.59,
-524.91
+514.22,
+514.68
 ],
 [
 "is",
-524.91,
-525.41
+514.68,
+515.32
 ],
 [
 "the",
-525.41,
-525.65
+515.32,
+515.56
 ],
 [
 "show's",
-525.65,
-526.03
+515.56,
+516.0
 ],
 [
 "idea,",
-526.03,
-526.39
+516.0,
+516.4
 ],
 [
 "not",
-526.69,
-526.93
+516.88,
+517.16
 ],
 [
-"Martin's.",
-526.93,
-527.55
+"the",
+517.16,
+517.4
+],
+[
+"books'.",
+517.4,
+517.64
 ],
 [
 "But",
-530.262,
-530.422
+520.39,
+520.55
 ],
 [
-"Martin's",
-530.422,
-530.882
+"the",
+520.55,
+520.69
 ],
 [
 "books",
-530.882,
-531.062
+520.69,
+521.01
 ],
 [
 "are",
-531.062,
-531.282
+521.01,
+521.33
 ],
 [
 "full",
-531.282,
-531.562
+521.33,
+521.65
 ],
 [
 "of",
-531.562,
-531.802
+521.65,
+521.89
 ],
 [
 "legends",
-531.802,
-532.102
+521.89,
+522.25
 ],
 [
 "that",
-532.102,
-532.442
+522.25,
+522.59
 ],
 [
 "turn",
-532.442,
-532.682
+522.59,
+522.89
 ],
 [
 "out",
-532.682,
-532.902
+522.89,
+523.13
 ],
 [
 "to",
-532.902,
-533.022
+523.13,
+523.29
 ],
 [
 "be",
-533.022,
-533.202
+523.29,
+523.49
 ],
 [
 "real.",
-533.202,
-533.482
+523.49,
+523.79
 ],
 [
 "In",
-534.342,
-534.442
+524.85,
+524.93
 ],
 [
 "the",
-534.442,
-534.562
+524.93,
+525.03
 ],
 [
 "last",
-534.562,
-534.842
+525.03,
+525.35
 ],
 [
 "published",
-534.842,
-535.182
+525.35,
+525.79
 ],
 [
 "novel,",
-535.182,
-535.562
+525.79,
+526.23
 ],
 [
 "a",
-535.762,
-535.842
+526.49,
+526.57
 ],
 [
 "strange",
-535.842,
-536.302
+526.57,
+527.07
 ],
 [
 "rider",
-536.302,
-536.742
+527.07,
+527.51
 ],
 [
 "guides",
-536.742,
-537.202
+527.51,
+527.97
 ],
 [
 "Bran",
-537.202,
-537.522
+527.97,
+528.29
 ],
 [
 "north.",
-537.522,
-537.882
+528.29,
+528.67
 ],
 [
 "He",
-538.522,
-538.702
+529.25,
+529.47
 ],
 [
 "wears",
-538.702,
-538.962
+529.47,
+529.75
 ],
 [
 "the",
-538.962,
-539.222
+529.75,
+530.03
 ],
 [
 "black",
-539.222,
-539.482
+530.03,
+530.25
 ],
 [
 "of",
-539.482,
-539.662
+530.25,
+530.43
 ],
 [
 "the",
-539.662,
-539.782
+530.43,
+530.55
 ],
 [
 "Night's",
-539.782,
-540.162
+530.55,
+530.91
 ],
 [
 "Watch,",
-540.162,
-540.382
+530.91,
+531.13
 ],
 [
 "rides",
-540.902,
-541.142
+531.87,
+532.01
 ],
 [
 "a",
-541.142,
-541.302
+532.01,
+532.23
 ],
 [
 "great",
-541.302,
-541.542
+532.23,
+532.49
 ],
 [
 "elk,",
-541.542,
-541.942
+532.49,
+532.87
 ],
 [
 "and",
-542.202,
-542.322
+533.13,
+533.27
 ],
 [
 "hides",
-542.322,
-542.582
+533.27,
+533.63
 ],
 [
 "his",
-542.582,
-542.862
+533.63,
+533.91
 ],
 [
 "face",
-542.862,
-543.082
+533.91,
+534.17
 ],
 [
 "behind",
-543.082,
-543.422
+534.17,
+534.57
 ],
 [
 "a",
-543.422,
-543.602
+534.57,
+534.77
 ],
 [
 "scarf.",
-543.602,
-543.902
+534.77,
+535.13
 ],
 [
 "His",
-544.682,
-544.842
+536.19,
+536.39
 ],
 [
 "hands",
-544.842,
-545.162
+536.39,
+536.77
 ],
 [
 "are",
-545.162,
-545.402
+536.77,
+536.99
 ],
 [
 "black,",
-545.402,
-545.762
+536.99,
+537.33
 ],
 [
 "and",
-545.762,
-546.302
+537.33,
+537.83
 ],
 [
 "cold",
-546.302,
-546.642
+537.83,
+538.15
 ],
 [
 "as",
-546.642,
-546.902
+538.15,
+538.41
 ],
 [
 "iron.",
-546.902,
-547.242
+538.41,
+538.75
 ],
 [
 "He",
-547.802,
-548.002
+539.31,
+539.47
 ],
 [
 "cannot",
-548.002,
-548.442
+539.47,
+539.77
 ],
 [
 "cross",
-548.442,
-548.782
+539.77,
+540.15
 ],
 [
 "the",
-548.782,
-549.042
+540.15,
+540.41
 ],
 [
 "Wall.",
-549.042,
-549.342
+540.41,
+540.73
 ],
 [
 "\"There",
-550.002,
-550.202
+541.49,
+541.69
 ],
 [
 "are",
-550.202,
-550.402
+541.69,
+541.89
 ],
 [
 "spells",
-550.402,
-550.882
+541.89,
+542.31
 ],
 [
 "woven",
-550.882,
-551.262
+542.31,
+542.63
 ],
 [
 "into",
-551.262,
-551.662
+542.63,
+543.07
 ],
 [
 "it,\"",
-551.662,
-551.902
+543.07,
+543.31
 ],
 [
 "he",
-551.922,
-552.022
+543.33,
+543.43
 ],
 [
 "says,",
-552.022,
-552.302
+543.43,
+543.73
 ],
 [
 "\"old",
-552.582,
-552.742
+544.23,
+544.53
 ],
 [
 "ones,",
-552.742,
-553.102
+544.53,
+544.87
 ],
 [
 "and",
-553.102,
-553.502
+544.87,
+545.17
 ],
 [
 "strong.\"",
-553.502,
-553.982
+545.17,
+545.65
 ],
 [
 "The",
-554.802,
-555.102
+546.27,
+546.83
 ],
 [
 "children",
-555.102,
-555.402
+546.83,
+547.11
 ],
 [
 "of",
-555.402,
-555.642
+547.11,
+547.35
 ],
 [
 "the",
-555.642,
-555.802
+547.35,
+547.49
 ],
 [
 "forest",
-555.802,
-556.162
+547.49,
+547.85
 ],
 [
 "put",
-556.162,
-556.462
+547.85,
+548.11
 ],
 [
 "it",
-556.462,
-556.602
+548.11,
+548.23
 ],
 [
 "more",
-556.602,
-556.782
+548.23,
+548.39
 ],
 [
 "simply:",
-556.782,
-557.302
+548.39,
+548.89
 ],
 [
 "\"They",
-557.842,
-558.102
+549.53,
+549.77
 ],
 [
 "killed",
-558.102,
-558.442
+549.77,
+550.07
 ],
 [
 "him",
-558.442,
-558.702
+550.07,
+550.37
 ],
 [
 "long",
-558.702,
-558.902
+550.37,
+550.69
 ],
 [
 "ago.\"",
-558.902,
-559.302
+550.69,
+551.13
 ],
 [
 "Readers",
-560.442,
-560.442
+552.31,
+552.31
 ],
 [
 "call",
-560.442,
-560.762
+552.31,
+552.67
 ],
 [
 "him",
-560.762,
-561.062
+552.67,
+552.91
 ],
 [
 "Coldhands.",
-561.062,
-561.782
+552.91,
+553.63
 ],
 [
 "Some",
-562.622,
-562.822
+554.39,
+554.51
 ],
 [
 "believe",
-562.822,
-563.202
+554.51,
+554.89
 ],
 [
 "he",
-563.202,
-563.462
+554.89,
+555.15
 ],
 [
 "is",
-563.462,
-563.582
+555.15,
+555.27
 ],
 [
 "a",
-563.582,
-563.722
+555.27,
+555.39
 ],
 [
 "forgotten",
-563.722,
-564.162
+555.39,
+555.83
 ],
 [
 "brother",
-564.162,
-564.482
+555.83,
+556.15
 ],
 [
 "of",
-564.482,
-564.802
+556.15,
+556.43
 ],
 [
 "the",
-564.802,
-564.942
+556.43,
+556.59
 ],
 [
 "Watch.",
-564.942,
-565.242
+556.59,
+556.89
 ],
 [
 "A",
-565.922,
-566.042
+557.73,
+557.87
 ],
 [
 "few",
-566.042,
-566.302
+557.87,
+558.09
 ],
 [
 "wonder",
-566.302,
-566.702
+558.09,
+558.47
 ],
 [
 "if",
-566.702,
-567.022
+558.47,
+558.69
 ],
 [
 "he",
-567.022,
-567.162
+558.69,
+558.81
 ],
 [
 "is",
-567.162,
-567.302
+558.81,
+558.95
 ],
 [
 "something",
-567.302,
-567.622
+558.95,
+559.27
 ],
 [
 "older.",
-567.622,
-568.062
+559.27,
+559.71
 ],
 [
 "And",
-568.782,
-569.062
+560.51,
+560.77
 ],
 [
 "beyond",
-569.062,
-569.382
+560.77,
+561.13
 ],
 [
 "the",
-569.382,
-569.622
+561.13,
+561.37
 ],
 [
 "Wall,",
-569.622,
-569.922
+561.37,
+561.65
 ],
 [
 "the",
-570.442,
-570.502
+561.89,
+561.95
 ],
 [
 "wildlings",
-570.502,
-571.082
+561.95,
+562.51
 ],
 [
 "have",
-571.082,
-571.322
+562.51,
+562.77
 ],
 [
 "been",
-571.322,
-571.502
+562.77,
+562.95
 ],
 [
 "searching",
-571.502,
-571.842
+562.95,
+563.29
 ],
 [
 "for",
-571.842,
-572.142
+563.29,
+563.59
 ],
 [
 "something.",
-572.142,
-572.542
+563.59,
+563.99
 ],
 [
 "\"We",
-573.222,
-573.522
+564.59,
+564.87
 ],
 [
 "opened",
-573.522,
-574.002
+564.87,
+565.17
 ],
 [
 "half",
-574.002,
-574.302
+565.17,
+565.47
 ],
 [
 "a",
-574.302,
-574.482
+565.47,
+565.61
 ],
 [
 "hundred",
-574.482,
-574.782
+565.61,
+565.89
 ],
 [
 "graves,\"",
-574.782,
-575.282
+565.89,
+566.29
 ],
 [
 "the",
-575.602,
-575.782
+566.73,
+566.93
 ],
 [
 "wildling",
-575.782,
-576.242
+566.93,
+567.41
 ],
 [
 "girl",
-576.242,
-576.502
+567.41,
+567.67
 ],
 [
 "Ygritte",
-576.502,
-577.202
+567.67,
+568.17
 ],
 [
 "cries,",
-577.202,
-577.442
+568.17,
+568.53
 ],
 [
 "\"and",
-577.962,
-578.282
+569.05,
+569.31
 ],
 [
 "never",
-578.282,
-578.562
+569.31,
+569.59
 ],
 [
 "found",
-578.562,
-578.942
+569.59,
+569.89
 ],
 [
 "the",
-578.942,
-579.202
+569.89,
+570.09
 ],
 [
 "Horn",
-579.202,
-579.422
+570.09,
+570.29
 ],
 [
 "of",
-579.422,
-579.742
+570.29,
+570.53
 ],
 [
 "Joramun.\"",
-579.742,
-580.282
+570.53,
+571.03
 ],
 [
 "The",
-580.832,
-581.152
+571.57,
+571.74
 ],
 [
 "horn",
-581.152,
-581.492
+571.74,
+571.96
 ],
 [
 "of",
-581.492,
-581.832
+571.96,
+572.14
 ],
 [
 "the",
-581.832,
-582.012
+572.14,
+572.28
 ],
 [
 "very",
-582.012,
-582.272
+572.28,
+572.52
 ],
 [
 "king",
-582.272,
-582.632
+572.52,
+572.9
 ],
 [
 "who",
-582.632,
-582.932
+572.9,
+573.2
 ],
 [
 "brought",
-582.932,
-583.152
+573.2,
+573.38
 ],
 [
 "down",
-583.152,
-583.532
+573.38,
+573.66
 ],
 [
 "the",
-583.532,
-583.712
+573.66,
+573.84
 ],
 [
 "Night's",
-583.712,
-584.052
+573.84,
+574.2
 ],
 [
 "King.",
-584.052,
-584.312
+574.2,
+574.4
 ],
 [
-"Martin",
-585.432,
-585.812
+"The",
+575.06,
+575.38
 ],
 [
-"has",
-585.812,
-586.032
+"books",
+575.38,
+575.7
 ],
 [
-"explained",
-586.032,
-586.472
+"explain",
+575.7,
+576.38
 ],
 [
 "none",
-586.472,
-586.752
+576.38,
+576.78
 ],
 [
 "of",
-586.752,
-586.872
+576.78,
+576.94
 ],
 [
-"it.",
-586.872,
-587.132
+"it,",
+576.94,
+577.28
+],
+[
+"yet.",
+577.56,
+577.88
 ],
 [
 "The",
-587.392,
-587.902
+577.88,
+579.13
 ],
 [
 "Winds",
-587.902,
-588.102
+579.13,
+579.35
 ],
 [
 "of",
-588.102,
-588.362
+579.35,
+579.61
 ],
 [
 "Winter,",
-588.362,
-588.722
+579.61,
+580.01
 ],
 [
 "the",
-589.062,
-589.222
+580.43,
+580.57
 ],
 [
 "book",
-589.222,
-589.402
+580.57,
+580.77
 ],
 [
 "that",
-589.402,
-589.682
+580.77,
+580.99
 ],
 [
 "should",
-589.682,
-589.922
+580.99,
+581.19
 ],
 [
 "bring",
-589.922,
-590.182
+581.19,
+581.43
 ],
 [
 "the",
-590.182,
-590.402
+581.43,
+581.61
 ],
 [
 "Long",
-590.402,
-590.662
+581.61,
+581.83
 ],
 [
 "Night,",
-590.662,
-591.002
+581.83,
+582.13
 ],
 [
 "is",
-591.322,
-591.742
+582.35,
+582.49
 ],
 [
 "still",
-591.742,
-592.182
+582.49,
+582.93
 ],
 [
 "unpublished,",
-592.182,
-592.942
+582.93,
+583.63
 ],
 [
 "fifteen",
-593.402,
-593.622
+584.07,
+584.35
 ],
 [
 "years",
-593.622,
-594.162
+584.35,
+584.71
 ],
 [
 "after",
-594.162,
-594.622
+584.71,
+585.03
 ],
 [
 "the",
-594.622,
-594.802
+585.03,
+585.23
 ],
 [
 "last.",
-594.802,
-595.082
+585.23,
+585.55
 ],
 [
 "So",
-595.902,
-596.182
+586.41,
+586.67
 ],
 [
 "for",
-596.182,
-596.362
+586.67,
+586.87
 ],
 [
 "now,",
-596.362,
-596.722
+586.87,
+587.25
 ],
 [
 "the",
-597.082,
-597.162
+587.61,
+587.67
 ],
 [
 "Night's",
-597.162,
-597.622
+587.67,
+588.11
 ],
 [
 "King",
-597.622,
-597.742
+588.11,
+588.37
 ],
 [
 "remains",
-597.742,
-598.242
+588.37,
+588.91
 ],
 [
 "what",
-598.242,
-598.602
+588.91,
+589.25
 ],
 [
 "Old",
-598.602,
-598.942
+589.25,
+589.55
 ],
 [
 "Nan",
-598.942,
-599.282
+589.55,
+589.85
 ],
 [
 "made",
-599.282,
-599.602
+589.85,
+590.13
 ],
 [
 "him.",
-599.602,
-599.982
+590.13,
+590.39
 ],
 [
 "A",
-600.422,
-600.792
+590.94,
+591.1
 ],
 [
 "man",
-600.792,
-601.112
+591.1,
+591.36
 ],
 [
 "by",
-601.112,
-601.452
+591.36,
+591.64
 ],
 [
 "day.",
-601.452,
-601.772
+591.64,
+591.98
 ],
 [
 "A",
-602.432,
-602.632
+592.53,
+592.61
 ],
 [
 "legend",
-602.632,
-602.952
+592.61,
+592.87
 ],
 [
 "by",
-602.952,
-603.392
+592.87,
+593.27
 ],
 [
 "night.",
-603.392,
-603.712
+593.27,
+593.57
 ],
 [
 "And",
-604.392,
-604.652
+594.15,
+594.47
 ],
 [
 "a",
-604.652,
-604.852
+594.47,
+594.69
 ],
 [
 "Stark,",
-604.852,
-605.212
+594.69,
+595.07
 ],
 [
 "perhaps,",
-605.512,
-605.912
+595.37,
+595.71
 ],
 [
 "whose",
-606.572,
-606.712
+596.35,
+596.47
 ],
 [
 "name",
-606.712,
-607.092
+596.47,
+596.83
 ],
 [
 "was",
-607.092,
-608.052
+596.83,
+597.15
 ],
 [
 "Brandon.",
-608.052,
-608.432
+597.15,
+597.57
 ],
 [
 "So,",
-609.982,
-610.402
+599.12,
+599.54
 ],
 [
 "was",
-610.402,
-611.122
+600.06,
+600.26
 ],
 [
 "the",
-611.122,
-611.382
+600.26,
+600.52
 ],
 [
 "Night's",
-611.382,
-611.802
+600.52,
+600.96
 ],
 [
 "King",
-611.802,
-611.982
+600.96,
+601.12
 ],
 [
 "a",
-611.982,
-612.322
+601.12,
+601.46
 ],
 [
 "traitor",
-612.322,
-612.702
+601.46,
+601.84
 ],
 [
 "who",
-612.702,
-613.062
+601.84,
+602.2
 ],
 [
 "gave",
-613.062,
-613.262
+602.2,
+602.4
 ],
 [
 "his",
-613.262,
-613.502
+602.4,
+602.64
 ],
 [
 "soul",
-613.502,
-613.842
+602.64,
+602.98
 ],
 [
 "to",
-613.842,
-614.122
+602.98,
+603.26
 ],
 [
 "the",
-614.122,
-614.282
+603.26,
+603.42
 ],
 [
 "enemy,",
-614.282,
-614.622
+603.42,
+603.76
 ],
 [
 "or",
-615.302,
-615.462
+604.42,
+604.6
 ],
 [
 "a",
-615.462,
-615.642
+604.6,
+604.78
 ],
 [
 "man",
-615.642,
-615.862
+604.78,
+605.0
 ],
 [
 "who",
-615.862,
-616.102
+605.0,
+605.24
 ],
 [
 "saw",
-616.102,
-616.362
+605.24,
+605.5
 ],
 [
 "the",
-616.362,
-616.602
+605.5,
+605.72
 ],
 [
 "truth",
-616.602,
-616.862
+605.72,
+606.0
 ],
 [
 "about",
-616.862,
-617.162
+606.0,
+606.3
 ],
 [
 "the",
-617.162,
-617.362
+606.3,
+606.5
 ],
 [
 "Others",
-617.362,
-617.642
+606.5,
+606.78
 ],
 [
 "before",
-617.642,
-618.102
+606.78,
+607.26
 ],
 [
 "anyone",
-618.102,
-618.562
+607.26,
+607.7
 ],
 [
 "else?",
-618.562,
-618.882
+607.7,
+608.02
 ],
 [
 "Tell",
-619.862,
-620.042
+609.0,
+609.18
 ],
 [
 "us",
-620.042,
-620.202
+609.18,
+609.34
 ],
 [
 "what",
-620.202,
-620.382
+609.34,
+609.5
 ],
 [
 "you",
-620.382,
-620.522
+609.5,
+609.66
 ],
 [
 "think",
-620.522,
-620.722
+609.66,
+609.86
 ],
 [
 "in",
-620.722,
-620.862
+609.86,
+610.0
 ],
 [
 "the",
-620.862,
-621.002
+610.0,
+610.16
 ],
 [
 "comments.",
-621.002,
-621.322
+610.16,
+610.46
 ],
 [
 "If",
-622.022,
-622.162
+611.14,
+611.3
 ],
 [
 "this",
-622.162,
-622.382
+611.3,
+611.52
 ],
 [
 "story",
-622.382,
-622.702
+611.52,
+611.84
 ],
 [
 "stayed",
-622.702,
-623.082
+611.84,
+612.22
 ],
 [
 "with",
-623.082,
-623.342
+612.22,
+612.48
 ],
 [
 "you,",
-623.342,
-623.642
+612.48,
+612.78
 ],
 [
 "give",
-624.002,
-624.202
+613.16,
+613.34
 ],
 [
 "the",
-624.202,
-624.422
+613.34,
+613.56
 ],
 [
 "video",
-624.422,
-624.722
+613.56,
+613.86
 ],
 [
 "a",
-624.722,
-624.982
+613.86,
+614.1
 ],
 [
 "like,",
-624.982,
-625.242
+614.1,
+614.38
 ],
 [
 "and",
-625.242,
-625.582
+614.38,
+614.72
 ],
 [
 "subscribe",
-625.582,
-626.162
+614.72,
+615.3
 ],
 [
 "to",
-626.162,
-626.502
+615.3,
+615.64
 ],
 [
 "the",
-626.502,
-626.642
+615.64,
+615.78
 ],
 [
 "Mythic",
-626.642,
-627.062
+615.78,
+616.2
 ],
 [
 "Archives.",
-627.062,
-627.502
+616.2,
+616.64
 ],
 [
 "The",
-628.052,
-628.212
+617.19,
+617.33
 ],
 [
 "archive",
-628.212,
-628.692
+617.33,
+617.83
 ],
 [
 "is",
-628.692,
-628.932
+617.83,
+618.07
 ],
 [
 "always",
-628.932,
-629.452
+618.07,
+618.59
 ],
 [
 "open.",
-629.452,
-629.852
+618.59,
+618.99
 ]
 ]
 }

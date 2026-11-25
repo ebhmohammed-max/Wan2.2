@@ -46,7 +46,7 @@ jobs:
           FF=$(python -c "import imageio_ffmpeg;print(imageio_ffmpeg.get_ffmpeg_exe())")
           $FF -hide_banner -i /tmp/GOT001_MASTER_1080p.mp4 2>&1 | grep -E "Duration|Stream" | tee -a $L || true
           $FF -hide_banner -nostats -i /tmp/GOT001_MASTER_1080p.mp4 -vn -af ebur128=peak=true -f null - 2>&1 | tail -12 | tee -a $L
-          for t in 30 54 125 400 520 625; do $FF -v error -y -ss $t -i /tmp/GOT001_MASTER_1080p.mp4 -frames:v 1 -vf scale=640:-1 22_edit/GOT001/ci_qc_$t.jpg || true; done
+          for t in 30 54 125 400 478 610; do $FF -v error -y -ss $t -i /tmp/GOT001_MASTER_1080p.mp4 -frames:v 1 -vf scale=640:-1 22_edit/GOT001/ci_qc_$t.jpg || true; done
       - name: upload to Drive
         run: |
           cd projects/dune_archives
