@@ -9,19 +9,19 @@ OK Unwritten_Return 309.054694s sha256(src)=1d8036f3d6374ab807f0b55a05f026e515ee
 OK Ossuary_6_Air 250.070204s sha256(src)=bf57ba7ee56b357dbd8677b41475a2fbe01d282114bc3c64e6deea2b52717fac ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Ossuary%206%20-%20Air.mp3
 OK Crypto 204.068571s sha256(src)=f09ba8bff00baca85fcdcde3b7f5d6b34a09c2c0b44b007a9123ee42f7d1bcf2 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Crypto.mp3
 total 51104
-drwxr-xr-x 2 runner runner    4096 Nov 25 11:53 .
-drwxr-xr-x 3 runner runner    4096 Nov 25 11:52 ..
--rw-r--r-- 1 runner runner 4082964 Nov 25 11:53 Crypto.mp3
--rw-r--r-- 1 runner runner 3675882 Nov 25 11:53 Dark_Times.mp3
--rw-r--r-- 1 runner runner 3754763 Nov 25 11:53 Deliberate_Thought.mp3
--rw-r--r-- 1 runner runner 7598437 Nov 25 11:52 Lightless_Dawn.mp3
--rw-r--r-- 1 runner runner 9373761 Nov 25 11:53 Long_Note_Two.mp3
--rw-r--r-- 1 runner runner 6162131 Nov 25 11:53 Night_Vigil.mp3
--rw-r--r-- 1 runner runner 5003014 Nov 25 11:53 Ossuary_6_Air.mp3
--rw-r--r-- 1 runner runner 4514631 Nov 25 11:53 Phantasm.mp3
--rw-r--r-- 1 runner runner 1945775 Nov 25 11:53 Private_Reflection.mp3
--rw-r--r-- 1 runner runner 6182674 Nov 25 11:53 Unwritten_Return.mp3
--rw-r--r-- 1 runner runner    2167 Nov 25 11:53 _fetch_log.txt
+drwxr-xr-x 2 runner runner    4096 Nov 25 12:08 .
+drwxr-xr-x 3 runner runner    4096 Nov 25 12:07 ..
+-rw-r--r-- 1 runner runner 4082964 Nov 25 12:08 Crypto.mp3
+-rw-r--r-- 1 runner runner 3675882 Nov 25 12:07 Dark_Times.mp3
+-rw-r--r-- 1 runner runner 3754763 Nov 25 12:07 Deliberate_Thought.mp3
+-rw-r--r-- 1 runner runner 7598437 Nov 25 12:07 Lightless_Dawn.mp3
+-rw-r--r-- 1 runner runner 9373761 Nov 25 12:07 Long_Note_Two.mp3
+-rw-r--r-- 1 runner runner 6162131 Nov 25 12:07 Night_Vigil.mp3
+-rw-r--r-- 1 runner runner 5003014 Nov 25 12:08 Ossuary_6_Air.mp3
+-rw-r--r-- 1 runner runner 4514631 Nov 25 12:07 Phantasm.mp3
+-rw-r--r-- 1 runner runner 1945775 Nov 25 12:07 Private_Reflection.mp3
+-rw-r--r-- 1 runner runner 6182674 Nov 25 12:08 Unwritten_Return.mp3
+-rw-r--r-- 1 runner runner    2167 Nov 25 12:08 _fetch_log.txt
 V      script  156 words, matched  156 (100%)
 VI     script  170 words, matched  170 (100%)
 VII    script  156 words, matched  156 (100%)
@@ -53,9 +53,9 @@ M12   Deliberate_Thought    608.18- 635.85 src@  30.0s  measured  -17.5 LUFS -> 
 pre-norm: I=-16.52 LUFS TP=-1.01 LRA=3.80  -> -14 LUFS / -1 dBTP
 wrote /tmp/mix.wav 635.85s
 wrote /tmp/GOT001_MASTER_1080p.mp4 shots 160 duration 635.83
--rw-r--r-- 1 runner runner 470089759 Nov 25 12:05 /tmp/GOT001_MASTER_1080p.mp4
-  Duration: 00:10:35.83, start: 0.000000, bitrate: 5914 kb/s
-  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080, 5614 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+-rw-r--r-- 1 runner runner 470038514 Nov 25 12:24 /tmp/GOT001_MASTER_1080p.mp4
+  Duration: 00:10:35.83, start: 0.000000, bitrate: 5913 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080, 5613 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
   Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 295 kb/s (default)
     Threshold: -24.7 LUFS
 
@@ -67,5 +67,8 @@ wrote /tmp/GOT001_MASTER_1080p.mp4 shots 160 duration 635.83
 
   True peak:
     Peak:       -0.9 dBFS
-[out#0/null @ 0x57f6f64ccb80] video:0KiB audio:119219KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
-size=N/A time=00:10:35.83 bitrate=N/A speed= 290x elapsed=0:00:02.18    
+[out#0/null @ 0x5ff0cbf8bb80] video:0KiB audio:119219KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:10:35.83 bitrate=N/A speed= 228x elapsed=0:00:02.78    
+query: HTTP 200 status=active received=0
+209715200/470038514
+419430400/470038514
