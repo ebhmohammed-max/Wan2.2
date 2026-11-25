@@ -2,7 +2,7 @@
  "episode": "GOT001",
  "batch": "BATCH007",
  "max_batch_size": 10,
- "status": "GENERATED_8_PASS_2_PENDING",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice.",
  "images": [
@@ -140,7 +140,7 @@
     "B001S008",
     "B001S001"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT001_SCENE070",
@@ -158,7 +158,7 @@
    "refs": [
     "B001S003"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   }
  ]
 }
