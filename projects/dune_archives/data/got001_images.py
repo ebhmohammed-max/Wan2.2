@@ -232,7 +232,7 @@ SHOTS = [
  (109, 'GODSWOOD_LEAP', 'VI', 'EST', ['SHOW_NK'], 'PUSH_IN', 'a snowy godswood at night before a weirwood tree, a small agile cloaked figure leaping toward the tall crowned silhouette with a short dagger raised, frozen in mid-air, dramatic, no blood', []),
  (110, 'ARMY_SHATTERS', 'VI', 'EW', [], 'PULL_OUT', 'across a dawn battlefield beneath castle walls, countless dark figures crumbling into glittering ice shards and snow at once, no gore', []),
  (111, 'CLOSED_BOOK_SNOW', 'VI', 'INS', [], 'HOLD', 'a closed thick leather-bound book lying in fresh snow, snowflakes settling on its cover, no lettering', []),
- # VII: Martin's answer
+ # VII: The legend in the books
  (112, 'WRITERS_DESK', 'VII', 'MS', [], 'PUSH_IN', 'a cluttered writer\'s study at night with no person present: an old desktop computer glowing, stacks of manuscript pages, small painted knight figurines and a toy castle on the shelves, lamp light, nothing legible', []),
  (113, 'LEGEND_TAPESTRY', 'VII', 'MS', [], 'PAN_LR', 'an ancient faded woven tapestry on a stone wall depicting heroes of legend: a crowned king, a wall of ice and a fox-like trickster, no lettering', []),
  (114, 'LANN_THE_CLEVER', 'VII', 'MS', [], 'PUSH_IN', 'a golden-haired grinning young trickster in a dark cloak slipping through a narrow sea cave beneath an enormous cliff, torch in hand, mischievous', []),
