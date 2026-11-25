@@ -2,7 +2,7 @@
  "episode": "GOT001",
  "batch": "BATCH012",
  "max_batch_size": 10,
- "status": "GENERATED_5_PASS_2_FIX_3_PENDING",
+ "status": "GENERATED_9_PASS_1_FIX",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice.",
  "images": [
@@ -56,8 +56,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a golden-haired grinning young trickster in a dark cloak slipping through a narrow sea cave beneath an enormous cliff, torch in hand, mischievous. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
    "refs": [],
-   "qc": "FIX",
-   "qc_note": "FIX turn 76: pretty long-haired blond youth drifts toward a famous-actor look (full-size crop). Redo with invented features: thin fox-narrow face, crooked broken nose, chipped front tooth in the grin, heavy freckles, sandy-gold hair cropped short and messy, older (~30), sly squint; face partly turned/lit from below by torch."
+   "qc": "PASS",
+   "qc_note": "REDONE turn 77: characterful invented face (broken nose, freckles, older, short sandy hair); no likeness at full-size crop"
   },
   {
    "scene_id": "GOT001_SCENE115",
@@ -83,8 +83,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a colossal rock rising from the sea like a crouching lion, a fortress carved into it, sunset light on the ocean. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
    "refs": [],
-   "qc": "FIX",
-   "qc_note": "FIX turn 76: literal sculpted lion head is not book-accurate; Casterly Rock is a natural mountain whose silhouette only suggests a crouching lion, with halls/windows cut into it. Redo: natural rock mass, no carved animal features."
+   "qc": "PASS",
+   "qc_note": "REDONE turn 77: natural rock mass with halls cut into it, no carved lion"
   },
   {
    "scene_id": "GOT001_SCENE117",
@@ -114,7 +114,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a black raven perched on a stone ledge with a small sealed parchment tied to its leg, candlelight, no writing. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT001_SCENE119",
@@ -129,7 +129,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. an Other, as described in the books: tall, gaunt and hard as old bones, flesh pale as milk, eyes deep burning blue, thin armour that ripples and changes colour with every movement like moonlight on water, a slender sword of pale translucent crystal glowing faint blue; elegant and inhuman, NOT a corpse, several of them standing in a loose circle in a frozen forest at night with no leader among them, armour rippling in shifting colours. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "qc_note": "PASS: matches the S044 Others design; equal figures, no leader (book)"
   },
   {
    "scene_id": "GOT001_SCENE120",
@@ -144,7 +145,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. an Other, as described in the books: tall, gaunt and hard as old bones, flesh pale as milk, eyes deep burning blue, thin armour that ripples and changes colour with every movement like moonlight on water, a slender sword of pale translucent crystal glowing faint blue; elegant and inhuman, NOT a corpse, close-up portrait, gaunt milk-pale face, deep burning blue eyes, frost in the air, the crystal blade a faint line of light. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "FIX",
+   "qc_note": "FIX turn 77: craggy, heavily wrinkled grey skin reads as the HBO White Walker; book Others are smooth, ageless, milk-pale, hard as old bone, beautiful in a cold inhuman way. Redo with ref S044, \"smooth flawless skin like polished bone, no wrinkles\"."
   }
  ]
 }
