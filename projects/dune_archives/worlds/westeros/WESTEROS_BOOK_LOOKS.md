@@ -67,6 +67,7 @@ Ages are at the start of *A Game of Thrones* unless stated. **Show differences**
 | **Meera Reed** (16) | ◻ Slender, brown hair, green eyes; frog spear (trident), net and a long knife. | — |
 | **Jojen Reed** (13) | ◻ Small and grave; moss-green eyes; dressed all in green. Has greendreams. | — |
 | **Ygritte** | ◻ Red hair "kissed by fire", a round peasant face, pug nose, slightly crooked teeth, pale blue eyes. Not conventionally beautiful. | Avoid the show's look; use these features. |
+| **The corpse queen** (legend) | ◻ Books: "skin as white as the moon and eyes like blue stars". Channel design (GOT001): ageless, looks barely twenty, narrow heart-shaped face, wide-set star-blue eyes, frost crystals on the cheekbones, silver-white hair with frosted braids, frost-pale robes with a white fur collar. | Avoid the generic film ice-queen face (it drifted toward a famous actress). |
 | **The Night's King** (legend) | ◻ No physical description in the books. Channel design (GOT001): about 40, gaunt, iron-grey-streaked hair in a braid, a close grey-shot beard, a scar through one eyebrow, pale grey eyes, black bearskin, bronze sword. | Never the show's Night King (show-only, silhouette only). Must not drift to the Jon Snow type. |
 
 ## 2. Creatures

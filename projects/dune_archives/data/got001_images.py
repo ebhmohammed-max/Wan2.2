@@ -27,9 +27,11 @@ CAMERA = {'EW': 'epic wide shot, low horizon, 24mm lens', 'EST': 'establishing s
 
 CAST = {
     'NIGHTS_KING': ("the Night's King, thirteenth Lord Commander of the Night's Watch, a First Men warrior of about forty, a gaunt hard weathered face with hollow cheeks, high cheekbones and a long straight nose, pale grey eyes, iron-grey streaked dark hair pulled back tight into a single warrior's braid, a close-cropped grey-shot beard, a thin hard mouth, frost-reddened skin, an old pale scar through one eyebrow, utterly fearless expression, all in black: roughspun wool, black boiled leather, a heavy black bearskin cloak, a bronze-hilted bronze longsword"),
-    'CORPSE_QUEEN': ('the corpse queen, an ageless woman of unearthly beauty, skin white as the moon with a faint blue chill, '
-                     'luminous eyes like blue stars, long straight silver-white hair, high-necked flowing robes of frost-pale '
-                     'grey with white fur at the collar, fully covered, no jewellery, serene and unsettling'),
+    'CORPSE_QUEEN': ('the corpse queen, an ageless otherworldly woman who looks barely twenty, skin white as the moon with a '
+                     'faint blue chill and a dusting of tiny frost crystals across her cheekbones, a narrow heart-shaped face with a '
+                     'small sharp chin, very large wide-set luminous eyes like blue stars, faint silver brows, long silver-white hair '
+                     'falling straight with a few fine frosted braids, high-necked flowing robes of frost-pale grey with white fur at '
+                     'the collar, fully covered, no jewellery, serene, inhuman and unsettling'),
     'OLD_NAN': ('Old Nan, an extremely old woman, tiny and bent, deeply wrinkled face, pale filmy eyes, a few wisps of white '
                 'hair under a plain linen cap, grey wool shawl, knitting needles in her hands'),
     'BRAN': ('Bran Stark as in the books, a slight boy of nine with thick AUBURN-RED Tully hair and deep blue Tully eyes, a thoughtful freckled face, grey wool and a brown fur cloak; his legs are crippled, so he rides in a wicker basket'),

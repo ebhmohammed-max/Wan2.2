@@ -2,7 +2,7 @@
  "episode": "GOT001",
  "batch": "BATCH005",
  "max_batch_size": 10,
- "status": "GENERATED_9_PASS_1_FIX",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice.",
  "images": [
@@ -79,13 +79,13 @@
     "CORPSE_QUEEN"
    ],
    "motion_recipe": "PUSH_IN",
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the corpse queen, an ageless woman of unearthly beauty, skin white as the moon with a faint blue chill, luminous eyes like blue stars, long straight silver-white hair, high-necked flowing robes of frost-pale grey with white fur at the collar, fully covered, no jewellery, serene and unsettling, profile close-up by cold moonlight, frost on her lashes, beautiful and unsettling, faint blue glow of her eyes. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design, original faces not resembling any actor. No text, letters, runes, logos or symbols anywhere in the image.",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the corpse queen, an ageless otherworldly woman who looks barely twenty, skin white as the moon with a faint blue chill and a dusting of tiny frost crystals across her cheekbones, a narrow heart-shaped face with a small sharp chin, very large wide-set luminous eyes like blue stars, faint silver brows, long silver-white hair falling straight with a few fine frosted braids, high-necked flowing robes of frost-pale grey with white fur at the collar, fully covered, no jewellery, serene, inhuman and unsettling, profile close-up by cold moonlight, frost on her lashes, beautiful and unsettling, faint blue glow of her eyes. Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, plate armour in Age of Heroes scenes, horned helmets, Night King make-up, extra fingers, deformed hands",
    "refs": [
     "B001S002"
    ],
-   "qc": "FIX",
-   "qc_note": "FIX (likeness, turn 69): the profile could read as a well-known Hollywood actress. Redesign the S002 anchor to be more distinctive (younger, ageless, narrower face, sharper chin, high arched brows), then redo S045 and S039."
+   "qc": "PASS",
+   "qc_note": "REDONE from the new S002 anchor; glowing star-blue eyes"
   },
   {
    "scene_id": "GOT001_SCENE046",
