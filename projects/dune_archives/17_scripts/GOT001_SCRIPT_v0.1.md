@@ -1,24 +1,25 @@
-# GOT001 SCRIPT v0.1: The Others: Westeros as Martin Wrote It
+# GOT001 SCRIPT v0.1: The Night King: Who Was He Really?
 
 Status: **DRAFT, awaiting director approval** (written 2026-11-24).
+- Topic chosen by the director: "The Night King: Who Was He Really?" It replaces "The Others" draft, which is now `GOT_CANDIDATE_THE_OTHERS_v0.1.md`.
 
-**Director decisions (2026-11-24):**
-- Mythic Archives v2 format.
-- First Westeros topic: "The Others".
-- Canon: **books first**, then GRRM's words, then articles; the show only where labelled (`worlds/westeros/WESTEROS_CANON_POLICY.md`).
-- LotR later: Tolkien's books first.
+**Canon:** books first, then GRRM's words, then articles; the show only where labelled (`worlds/westeros/WESTEROS_CANON_POLICY.md`).
+- This episode is built on a comparison: **the book legend of the Night's King** against **the show's Night King**.
+- So Martin and HBO are named openly in narration, and every show-only fact is labelled as such.
+- Fan theories are framed as theories, never as fact.
 
-**Format:** same as DUN001: story-first hook, 11–12 min, 150 stills, voice-14, chapters, maps, a subscribe pitch at the first chapter seam, and a debate question then like / subscribe over the end card.
-- **Difference from DUN:** this episode is built on the book-vs-show contrast. It names Martin and the show openly (Chapter VII and short labelled lines), because that is its hook.
+**Format:** Mythic Archives v2, as for DUN001: story-first hook, 11–12 min, 150 stills, voice-14, chapters, a subscribe pitch at the first chapter seam, and a debate question then like / subscribe over the end card.
 
-**Target:** about 1,580 spoken words, so about 11:50 of programme at the DUN001 pace (1,584 spoken words → 11:54).
+**Target:** about 1,580 spoken words, about 11:50 at the DUN001 pace (1,584 spoken words → 11:54).
 
-**On-screen record number (proposal):** WESTEROS · RECORD 001. The DUN episodes keep their own numbering. See open question 1.
+**Defaults, changeable** (the director hasn't answered these yet):
+- Ident reads **WESTEROS · RECORD 001**.
+- End card "Watch next" points to **THE BUTLERIAN JIHAD**.
 
-**Visual rule:** every face, creature and object follows `worlds/westeros/WESTEROS_BOOK_LOOKS.md`:
-- the Others in color-shifting armor with crystal swords;
-- wights with black hands and blue eyes;
-- no Night King design, no actor likenesses, no gore.
+**Visual rules:** `worlds/westeros/WESTEROS_BOOK_LOOKS.md`.
+- **The book Night's King** is a living man: a First Men warrior in the black of the Watch, with a cold, proud face and Stark-grey eyes. He's shown by firelight and shadow, never as a monster.
+- **The corpse queen:** skin white as the moon, eyes like blue stars. Beautiful and unsettling, never sexualised, fully robed.
+- **The show's Night King** is shown only as a silhouette or from behind, with an icy crown of horns in shadow. No recreation of the HBO make-up, no actor likeness.
 
 ---
 
@@ -26,194 +27,191 @@ Status: **DRAFT, awaiting director approval** (written 2026-11-24).
 
 | Hook line | Paid off in |
 |---|---|
-| Armor that changes color with every step | Prologue + VII |
-| A sword so thin it vanishes edge-on | Prologue |
-| He gets back up | Prologue (Waymar rises) |
-| Every lord in Westeros calls them a children's story | II Gone Eight Thousand Years |
-| A fat, frightened boy kills one | V Sam the Slayer |
-| Not the monsters you saw on TV | VII What the Show Changed |
-| The war still has not come | VIII Winter Is Coming |
+| A crown of ice, an army of the dead | VI The King of the Dead |
+| A man who loved a woman with eyes like blue stars | II The Corpse Queen |
+| His name was erased from history | III Two Kings Against One |
+| "Mayhaps his name was Brandon" | IV A Stark of Winterfell |
+| Martin's answer | VII Martin's Answer |
+| Is he still out there? | VIII The Ranger with Cold Hands |
 
 ---
 
 ## H: Hook
 
-> Beyond the Wall, in a forest of black trees and falling snow, a young knight draws his sword against something that should not exist.
-> It is tall and thin, pale as milk. Its armor changes color with every step, white as snow, then black as shadow. Its sword is a sliver of blue crystal, so thin it almost vanishes when turned edge-on.
+> On television, he is the king of the dead. A crown of ice grows from his skull. He raises armies with a lift of his arms, and when he finally falls, every dead thing in the world falls with him.
 
-> When the knight's steel meets that crystal, his sword shatters like glass.
-> The creatures laugh. When it is over, the knight lies still in the snow.
-> And then, he gets back up.
+> But George R. R. Martin's books tell a very different story.
+> In the books, the Night's King was a man. A brother of the Night's Watch, who fell in love with a woman whose skin was white as the moon, and whose eyes were like blue stars.
+> When it was over, his name was erased from history.
 
-> For eight thousand years, Westeros has called them a children's story.
-> This is the story of the Others, the way George R. R. Martin wrote them. Not the monsters you saw on television.
+> So who was he really?
 
-*{TITLE: THE OTHERS · Westeros as Martin Wrote It · kicker "THE MYTHIC ARCHIVES PRESENTS"}*
+*{TITLE: THE NIGHT KING · Who Was He Really? · kicker "THE MYTHIC ARCHIVES PRESENTS"}*
 *Channel ident: THE MYTHIC ARCHIVES · WESTEROS • ARRAKIS • MIDDLE-EARTH · A MYTHIC ARCHIVES PRODUCTION · WESTEROS · RECORD 001*
 
-## Prologue: The Haunted Forest
+## Prologue: The Castle of Ghosts
 
-> Three men of the Night's Watch ride north of the Wall: Ser Waymar Royce, an eighteen-year-old lord's son in a cloak of sable; Gared, a veteran who lost both ears to the cold; and Will, a former poacher.
+> High on the Wall stands the largest castle the Night's Watch ever built, and the first to be abandoned. They call it the Nightfort.
+> Its towers are broken. Its halls are full of rats and dust. For two hundred years, no brother has lived there.
 
-> Will has seen dead wildlings lying in the snow. When they reach the place, the bodies are gone.
-> The air turns bitterly cold. From a tree, Will watches the Others come out of the dark, making no sound.
+> When young Bran Stark shelters inside its walls, he remembers the stories his old nurse told him about this place.
+> Here, the Rat Cook served a king a pie made from the king's own son. Here, the seventy-nine sentinels were sealed into the ice for deserting, and still stand watch, facing north.
 
-> One speaks to Ser Waymar in a language no man knows. Its voice is like the cracking of ice on a winter lake.
-> Waymar fights bravely, until his sword breaks apart. The Others close in, laughing, sharp as icicles.
+> And here, before all of them, Night's King had reigned, until his name was wiped from the memory of man.
 
-> When Will climbs down, the knight is standing over him. One of Waymar's eyes is gone. The other burns blue.
-> Only Gared escapes south. Days later, he pays with his life for deserting the Watch. No one asks what he was running from.
+## Chapter I: The Thirteenth Lord Commander
 
-## Chapter I: Old Nan's Tale
+> The story begins at the end of the Long Night, a winter that lasted a generation.
+> When the darkness finally broke, men raised a Wall of ice seven hundred feet high. Legend says it was built by Brandon the Builder, the first Stark king, with the help of giants and the children of the forest.
+> And they founded a brotherhood to guard it. The Night's Watch: men who took no wives, held no lands, and fathered no children.
 
-> In Winterfell, Old Nan tells the Stark children the North's oldest story.
-> Once, she says, there was a winter that lasted a generation, and children grew up without ever seeing the sun.
+> The Night's King was the thirteenth man to lead them.
+> Old Nan said he was a warrior who knew no fear. "And that was the fault in him," she would add, "for all men must know fear."
 
-> "In that darkness, the Others came for the first time. They were cold things, dead things, that hated iron and fire and the touch of the sun, and every creature with hot blood in its veins."
-> They rode pale dead horses, leading hosts of the slain, and all the swords of men could not stop them.
+> Fear is what keeps a man on top of the Wall, watching the dark. A man who fears nothing might look at the dark and want to walk into it.
 
-> Then one man, the last hero, set out to find the children of the forest and their ancient magic.
-> One by one his friends died, then his horse, then his dog. His sword froze so hard it snapped. And the Others followed his trail with packs of pale white spiders as big as hounds.
+## Chapter II: The Corpse Queen
 
-> Old Nan never finishes the story. The old accounts add only this: the last hero fought with a blade of dragonsteel. The darkness broke. And at the edge of the world, men raised a wall of ice seven hundred feet high.
+> One night, from the top of the Wall, he saw her. A woman with skin as white as the moon and eyes like blue stars.
+> Fearing nothing, he chased her, and caught her, and loved her, though her skin was cold as ice. And with his love, Old Nan said, he gave her his soul.
 
-## Chapter II: Gone Eight Thousand Years
+> The books never say what she was. But skin like that and eyes like blue stars are what the Others look like. And the tales call her the corpse queen.
 
-> For eight thousand years, the black-cloaked brothers of the Night's Watch have guarded the Wall, sworn to be "the shield that guards the realms of men."
-> But the Watch has forgotten what it guards against. It hunts wildlings now, and fills its ranks with thieves and exiles. In the south, "Others take you" is just a curse men snarl over dice.
+> He brought her back through the Wall to the Nightfort, and proclaimed her a queen, and himself her king.
+> With strange sorceries, he bound his sworn brothers to his will. The men who swore to guard the realms of men now served a king of the night.
 
-> Even in Winterfell, Robb Stark laughs at the idea.
-> "The Others are as dead as the children of the forest, gone eight thousand years. Maester Luwin will tell you they never lived at all."
-
-> Far beyond the Wall, a wildling named Craster has many wives and daughters, but no sons. When a son is born, Craster carries him into the woods alone. The Watch shelters under his roof, and does not ask why.
+> For thirteen years, Night's King and his corpse queen ruled the Wall.
 
 ## CA: Subscribe
 
-> Before the dead walk into Castle Black: if you want Westeros the way Martin wrote it, subscribe to the Mythic Archives.
+> Before we find out who brought him down, and what they found when they did: if you want Westeros the way Martin wrote it, subscribe to the Mythic Archives.
 
-## Chapter III: The Dead Walk
+## Chapter III: Two Kings Against One
 
-> Benjen Stark, First Ranger of the Night's Watch, rides north and does not come back.
-> Months later, in the woods just north of the Wall, Jon Snow's white direwolf, Ghost, finds two of Benjen's men. They are carried back to Castle Black. They do not smell of death. Their eyes are a bright, unnatural blue.
+> His fall took something the North had never seen before: an alliance between enemies.
+> The King of Winter in Winterfell, and Joramun, King-beyond-the-Wall, the wildling who, legends say, blew the Horn of Winter and woke giants from the earth.
 
-> That night, Benjen's nephew Jon wakes to find Ghost clawing at his door.
+> A Stark and a wildling. Men who had fought each other for generations, now marching together against the Watch itself.
+> They broke the Night's King, and freed his brothers from their bondage.
 
-> In the Lord Commander's tower, one of the dead men is moving, black-handed and blue-eyed, and a sword does not stop it.
-> Jon grabs a burning lamp and throws it. The dead man goes up in flames. Jon's hand is badly burned, but the Lord Commander is alive.
+> Then they discovered what he had been doing all those years. He had been making sacrifices to the Others.
+> So every record of him was destroyed. His deeds were struck from the histories. Even his name was forbidden.
 
-> Lord Commander Mormont gives Jon his family's Valyrian steel sword, Longclaw, its pommel recarved as a wolf's head with garnet eyes. And the Watch learns a lesson: burn the dead.
+> That is why, eight thousand years later, nobody in Westeros knows what he was called.
 
-## Chapter IV: Three Blasts
+## Chapter IV: A Stark of Winterfell
 
-> Mormont leads three hundred brothers north, and they camp in an ancient ring fort called the Fist of the First Men.
-> There, Jon finds a buried cache of black dragonglass, wrapped in an old ranger's cloak. He gives a dagger of it to his friend Samwell Tarly, the most frightened brother at the Wall.
-> Then the snow starts falling, and does not stop.
+> But Old Nan had an idea. She always ended the story the same way.
+> "Some say he was a Bolton. Some say a Magnar out of Skagos, some say Umber, Flint, or Norrey. Some would have you think he was a Woodfoot, from them who ruled Bear Island."
 
-> A horn sounds from the dark. Once. Twice. Three times.
-> One blast means rangers returning. Two means wildlings. Sam stands shaking in the snow. "They never blow three," he whispers. "Not for hundreds and thousands of years."
+> "He never was," she said. "He was a Stark, the brother of the man who brought him down."
+> Then she pinched little Bran's nose. "He was a Stark of Winterfell, and who can say? Mayhaps his name was Brandon."
 
-> Three long blasts mean Others.
-> Out of the storm, the dead climb the hill. Fire holds them back for a while. Not long enough.
+> She said one more thing, which Bran never forgot.
+> "Night's King was only a man by light of day. But the night was his to rule."
 
-## Chapter V: Sam the Slayer
+> It is not a strange guess. House Stark has always loved the name. Brandon the Builder. Brandon the Shipwright, who sailed west and never returned. Brandon the Burner. Bran's own uncle Brandon.
+> A Stark brother bringing down a Stark brother. The family whose words are "Winter is coming" may have given the Others their greatest ally.
 
-> About fifty brothers escape through the haunted forest. Sam is too exhausted to walk, so a huge, kind ranger named Small Paul carries him.
-> Then the cold arrives.
+## Chapter V: The Black Gate
 
-> An Other rides out of the trees on a dead horse. It strikes down Small Paul with one blow of its crystal sword.
-> Sam, who has never won a fight in his life, pulls out the black dagger and stabs.
+> The Nightfort still has one secret. Deep below its kitchens, at the bottom of an old well, there is a door.
+> The Watch calls it the Black Gate. But it isn't black at all. It is pale white weirwood, glowing like milk and moonlight, and it has a face.
 
-> There is a sound like ice cracking beneath a man's foot. Pale blue blood hisses and steams around the blade.
-> The Other's armor runs down its legs like water. Its flesh dissolves into white mist. Beneath it are bones like milk glass, and they melt too.
-> In twenty heartbeats, only the dagger is left in the snow, steaming as if it were alive.
+> When Bran's party reaches it, the face opens its eyes. "Who are you?" it asks.
+> A brother of the Watch, Samwell Tarly, answers with the words of his oath. "I am the sword in the darkness. I am the watcher on the walls. I am the shield that guards the realms of men."
 
-> The brothers call him Sam the Slayer, half as a joke. Sam only says,
-> "It was the dragonglass that slew it. Not me. The dragonglass."
+> "Then pass," the door says. Its mouth opens wide, and they walk through, under the Wall, into the North.
+> A secret door through the Wall, in the castle where a Lord Commander once let the cold inside. The books never connect the two. But it is hard not to wonder.
 
-## Chapter VI: The Night's King
+## Chapter VI: The King of the Dead
 
-> Old Nan has one more story, the one she tells with her voice lowered.
-> Long ago, the thirteenth Lord Commander of the Night's Watch was a warrior who knew no fear. "And that was the fault in him," she says, "for all men must know fear."
+> Then, in 2014, the show gave the name to someone new.
+> In the fourth season, a White Walker rides through the snow carrying a baby to an altar of ice. A crown of icy horns rises from his head. He touches the child's cheek, and its eyes turn blue. HBO's official guide briefly named him the Night's King, then quietly removed the name.
 
-> From the top of the Wall he saw a woman with skin as white as the moon and eyes like blue stars. He chased her, and caught her, and loved her, though her skin was cold as ice. And with her, he gave away his soul.
+> The show's version became its great villain. At Hardhome, he lifts his arms and the slaughtered rise to join him. Beyond the Wall, he brings down one of Daenerys's dragons and raises it as his own.
 
-> He brought her back to the Nightfort and proclaimed her a queen, and himself her king. With strange sorceries he bound his sworn brothers to his will. For thirteen years they ruled.
-> Then the Stark of Winterfell and Joramun, the King-beyond-the-Wall, joined forces and broke him. When they discovered he had been offering sacrifices to the Others, every record of him was destroyed, and his name was forbidden.
+> In the sixth season, the show reveals his origin. Long ago, the children of the forest bound a man of the First Men to a weirwood tree and drove a blade of dragonglass into his heart. He became the first White Walker.
 
-> "He was a Stark," Old Nan says, "the brother of the man who brought him down. Mayhaps his name was Brandon."
-> In the books, the Night's King is a man and a legend. He is not a horned general of the dead.
+> At Winterfell, in the final season, Arya Stark kills him with a Valyrian steel dagger, and his entire army falls with him.
+> None of that happens in the books.
 
-## Chapter VII: What the Show Changed
+## Chapter VII: Martin's Answer
 
-> In the show, the White Walkers never speak, and when the Night King falls, they all fall with him.
-> In the books there is no Night King. The Others speak. They laugh. They let a young knight duel them before they close in.
+> When fans asked Martin whether the show's Night King and the book's Night's King were the same person, he gave a careful answer.
+> "As for the Night's King, the form I prefer, in the books he is a legendary figure, akin to Lann the Clever and Brandon the Builder, and no more likely to have survived to the present day than they have."
 
-> Martin has described them in his own words. "The Others are not dead. They are strange, beautiful," he said, like the fairy folk of old legend, "made of ice. A different sort of life. Inhuman, elegant, dangerous."
+> In other words, the Night's King of the books is a legend, like the trickster who stole Casterly Rock and the builder of the Wall. He may never even have existed.
 
-> The show says the children of the forest created them as a weapon against men. The books say no such thing. No one in the novels knows where the Others came from, or what they want.
+> Notice the name. Martin writes Night's King, with an S, as a title. The show dropped it, and made it a name.
+> And the books have no Night King at all. No one in the novels knows who leads the Others, or whether anyone does. No one knows where they came from. The children of the forest creating them is the show's idea, not Martin's.
 
-> Even their weaknesses are only half known. Fire dismays them. Dragonglass destroys them. The old tales speak of dragonsteel.
-> Asked whether Valyrian steel could kill an Other, Martin gave a one-line answer: the Night's Watch would like to know as well.
+## Chapter VIII: The Ranger with Cold Hands
 
-## Chapter VIII: Winter Is Coming
+> But Martin's books are full of legends that turn out to be real.
+> In the last published novel, a strange rider guides Bran north. He wears the black of the Night's Watch, rides a great elk, and hides his face behind a scarf. His hands are black, and cold as iron.
 
-> In the last published book, Jon Snow is Lord Commander, and against his own brothers' will he lets thousands of wildlings through the Wall. Every living person left outside is one more soldier for the dead.
-> Beyond the Wall, a ranger with cold black hands guides Bran Stark to a cave beneath a weirwood.
+> The children of the forest say the old spells woven into the Wall stop him from crossing it, because he is dead.
+> And beyond the Wall, the wildlings have been searching for something. "We opened half a hundred graves," the wildling girl Ygritte cries, "and never found the Horn of Joramun." The horn of the very king who brought down the Night's King.
+> Readers call him Coldhands. Some believe he is a forgotten brother of the Watch. A few wonder if he is something older.
 
-> At Hardhome on the coast, desperate letters reach Castle Black. Dead things in the woods. Dead things in the water.
-> And the words of House Stark sound less like a motto than a warning: winter is coming.
+> Martin has not said. *The Winds of Winter*, the book that should bring the Long Night, is still unpublished, fifteen years after the last.
+> So for now, the Night's King remains what Old Nan made him. A man by day. A legend by night. And a Stark, perhaps, whose name was Brandon.
 
-> The book that should bring that winter, *The Winds of Winter*, is still unpublished, fifteen years after the last one.
-> The Long Night has not fallen yet. The Others are still waiting in the snow, exactly where Martin left them.
-
-*{END: like · comment · subscribe · next record}*
+*{END: like · comment · subscribe · watch next}*
 
 ## CB: Outro
 
-> So, what are the Others? Mindless monsters bringing endless winter, or an ancient people with reasons of their own?
+> So, was the Night's King a traitor who gave his soul to the enemy, or a man who saw the truth about the Others before anyone else?
 > Tell us what you think in the comments. If this story stayed with you, give the video a like, and subscribe to the Mythic Archives. The archive is always open.
 
 ---
 
-## Fact sheet (every claim traced to a tier; see the canon policy)
+## Fact sheet (claim → tier; ✅ = confirmed against a quoted passage or primary statement this session, ◻ = verify against the chapter before VO)
 
 | Claim | Tier / source |
 |---|---|
-| Three rangers: Waymar Royce (18, sable cloak), Gared (lost his ears to frostbite), Will (former poacher) track wildlings; the bodies vanish | `[B:AGOT Prologue]` |
-| Others: tall, gaunt, milk-pale; armor changes color as they move; crystal sword nearly invisible edge-on; voice "like the cracking of ice on a winter lake"; "laughter sharp as icicles"; make no sound | `[B:AGOT Prologue]` ✅ quoted |
-| Waymar's sword shatters; he rises with one burning blue eye | `[B:AGOT Prologue]` ✅ |
-| A deserter of the Watch is executed by Eddard Stark (the survivor of the prologue) | `[B:AGOT Bran I]` ◻ verify that the deserter is identified as Gared (the AWOIAF chapter summary does) |
-| Old Nan: the Long Night lasted a generation; "In that darkness, the Others came for the first time… cold things, dead things, that hated iron and fire…"; pale dead horses, hosts of the slain | `[B:AGOT Bran IV]` ✅ quoted |
-| The last hero: friends, horse and dog die; sword freezes and snaps; "pale white spiders big as hounds" | `[B:AGOT Bran IV]` ✅ |
-| Dragonsteel account of the last hero | `[B:AFFC Prologue]` (Sam) ✅ |
-| The Wall: about 700 ft high, 300 miles long, about 8,000 years old | `[B:AGOT]`, `[W]` ◻ |
-| Night's Watch oath line "the shield that guards the realms of men" | `[B:AGOT Jon VI]` ◻ |
-| "Others take…" used as a curse | `[B]` passim ◻ |
-| Robb: "The Others are as dead as the children of the forest, gone eight thousand years. Maester Luwin will tell you they never lived at all." | `[B:AGOT Bran VI]` ✅ quoted (speaker ◻ confirm Robb) |
-| Craster has no sons; he takes newborn sons into the woods; the Watch shelters there | `[B:ACOK Jon III]`, `[B:ASOS]` ◻ |
-| Benjen goes missing; Othor and Jafer Flowers found; no smell, blood not pooled (Sam's observation); blue eyes, black hands; Othor's wight attacks Mormont; Jon and Ghost, fire, burned hand; Longclaw with a new wolf's-head pommel | `[B:AGOT Jon VI–VIII]` ◻ (wight: black hands, blue eyes ✅) |
-| Great Ranging of about 300; Fist of the First Men; Jon finds the dragonglass cache wrapped in a ranger's cloak | `[B:ACOK Jon]` ◻ |
-| Horn signals; Sam: "They never blow three. Not for hundreds and thousands of years." "three long blasts means Others" | `[B:ASOS Samwell I]` ✅ quoted |
-| Attack on the Fist by wights (including a dead bear); about 50 survivors | `[B:ASOS Samwell I]` ◻ (the bear ◻) |
-| Small Paul carries Sam; an Other on a dead horse kills him; dragonglass; "cracking of ice beneath one's foot"; pale blue blood; armor running; white mist; bones like milkglass; twenty heartbeats; dagger steaming | `[B:ASOS Samwell I]` ✅ |
-| "It was the dragonglass that slew it…"; "Sam the Slayer" | `[B:ASOS Samwell II]` ✅ |
-| Night's King: 13th Lord Commander; "for all men must know fear"; skin white as the moon, eyes like blue stars; Nightfort; 13 years; Stark plus Joramun; sacrificing to the Others; records destroyed; "Mayhaps his name was Brandon" | `[B:ASOS Bran IV]` ✅ quoted |
-| GRRM: "The Others are not dead. They are strange, beautiful… the Sidhe made of ice… a different sort of life… inhuman, elegant, dangerous." | `[G: So Spake Martin]` ✅ (VO paraphrases "Sidhe" as "fairy folk of old legend") |
-| GRRM on Valyrian steel: "the Night's Watch would like to know as well" | `[G]` ✅ (AWOIAF "Others") |
-| Show: White Walkers silent, Night King, killed by Arya, all fall; created by the children of the forest | `[S]` show-only |
-| ADWD: Jon lets the wildlings through; Coldhands guides Bran; Hardhome letters "dead things in the woods / in the water" | `[B:ADWD]` ◻ (letter wording ◻) |
-| *The Winds of Winter* unpublished as of November 2026, 15 years after ADWD (2011) | IBTimes 1 Nov 2026; Bantam statement ✅ |
+| Nightfort: largest castle on the Wall, first abandoned, about 200 years empty | `[B:ASOS Bran IV]` ◻ |
+| "It was here that Night's King had reigned, before his name was wiped from the memory of man"; Rat Cook ("prince-and-bacon pie"); seventy-nine sentinels sealed in the ice, facing north | `[B:ASOS Bran IV]` ✅ quoted |
+| Long Night lasted a generation; Wall about 700 ft; Watch vows "take no wife, hold no lands, father no children" | `[B:AGOT Bran IV]`, `[B:AGOT Jon VI]` ◻ |
+| Thirteenth Lord Commander; "warrior who knew no fear… for all men must know fear" | `[B:ASOS Bran IV]` ✅ |
+| Woman "skin as white as the moon and eyes like blue stars"; chased, caught, loved; cold as ice; "gave his soul"; Nightfort; queen and king; "strange sorceries… bound his Sworn Brothers"; thirteen years; "corpse queen" | `[B:ASOS Bran IV]` ✅ quoted (VO softens the intimate line to "with his love… he gave her his soul") |
+| The Others have milk-pale skin and burning blue eyes, so the queen resembles them (an inference, worded as such in the VO) | `[B:AGOT Prologue]` ✅ |
+| "The Stark of Winterfell and Joramun of the wildlings had joined to free the Watch from bondage"; "sacrificing to the Others"; records destroyed, name forbidden | `[B:ASOS Bran IV]` ✅ |
+| "King of Winter" as the Stark title in that era | `[B:ASOS]`/`[W]` ◻ (the source names "the Stark of Winterfell"; "King of Winter" is the period title) |
+| Joramun blew the Horn of Winter and woke giants from the earth (wildling legend) | `[B:ASOS Jon]` (Ygritte/Mance) ◻ |
+| About 8,000 years ago (the Wall is about 8,000 years old; the 13th Lord Commander came soon after) | `[B]`, `[W]` ◻ |
+| Old Nan's list (Bolton, Magnar of Skagos, Umber, Flint, Norrey, Woodfoot of Bear Island), "He was a Stark… Mayhaps his name was Brandon", the nose pinch, "only a man by light of day… night was his to rule" | `[B:ASOS Bran IV]` ✅ quoted |
+| Black Gate: under the Nightfort, at the bottom of a well; white weirwood "like milk and moonlight", with a face; "Who are you?"; Sam's oath; "Then pass"; the mouth opens | `[B:ASOS Bran IV]` ✅ quoted (location "below the kitchens" ◻) |
+| The White Walker with the icy crown in S4E4 "Oathkeeper" (2014), carrying Craster's son to an ice altar; the HBO viewer's guide named him "Night's King", then removed it | `[S]` ✅ (ComicBook.com 28 Apr 2014; IGN) |
+| "Hardhome" (S5E8) raises the dead; "Beyond the Wall" (S7E6) kills and raises Viserion | `[S]` ✅ |
+| "The Door" (S6E5): the children bind a First Man to a weirwood and drive dragonglass into his heart; the first White Walker | `[S]` ✅ (Vox 2019; production storyboard) |
+| S8E3 "The Long Night": Arya kills him with a Valyrian steel dagger; the army collapses | `[S]` ✅ |
+| GRRM: "As for the Night's King (the form I prefer), in the books he is a legendary figure, akin to Lann the Clever and Brandon the Builder, and no more likely to have survived to the present day than they have." | `[G]` ✅ (answer to the Game of Thrones Wiki, 2015) |
+| Lann the Clever took Casterly Rock by trickery; Brandon the Builder raised the Wall with giants and the children (legend) | `[B:AGOT Bran]`/`[W]` ◻ |
+| Brandons of House Stark: the Shipwright (sailed west), the Burner, Bran's uncle Brandon | `[B:AGOT]` ◻ |
+| Ygritte: "We opened half a hundred graves… and never found the Horn of Joramun" | `[B:ASOS Jon]` ✅ quoted (r/asoiaf citation; chapter ◻) |
+| Oathkeeper: the touch turns the baby's eyes blue | `[S]` ✅ |
+| No leader of the Others in the books; their origin unknown in the books | `[B]` ✅ (by absence; consistent with the prior-research sources) |
+| Coldhands: black of the Watch, great elk, face hidden by a scarf, hands black and cold; can't pass the Wall's wards because he is dead | `[B:ADWD Bran I–II]` ◻ (cold hands ✅ in prior research; the wards line ◻) |
+| *The Winds of Winter* unpublished as of Nov 2026, 15 years after ADWD (2011) | IBTimes 1 Nov 2026 ✅ |
 
-**Show-only list (for the director):** the Night King, Walkers created by the children, silent Walkers, the Arya kill, one kill collapsing the whole army. None of this is in the books.
+**Show-only list (for the director):**
+- the crowned Night King as a living character;
+- the children creating him;
+- the Viserion kill and raising;
+- Arya's kill and the collapse of the army.
+
+**Theory list (framed as theories in the VO):**
+- the Black Gate linked to the Night's King (VO: "the books never connect the two");
+- Coldhands' identity (VO: "Some believe… a few wonder…").
 
 **Kept out on purpose:**
-- **Theories:** Azor Ahai, Jon's parentage, whether Coldhands is the Night's King.
-- **Lady Stoneheart.** Wildlings' stories that their women had children by the Others (the Craster line already carries that weight).
+- the fan theory that Bran is or becomes the Night King;
+- R+L=J;
+- Danny Flint (sexual violence);
+- explicit detail of the queen.
 
-**TTS/moderation notes:**
-- No gore. Waymar's death is "when it is over"; Small Paul is "strikes down"; Craster is implication only.
-- If a line is blocked I'll propose a softer version before recording, as on DUN001.
-
-## Open questions for the director
-1. **Record number:** "WESTEROS · RECORD 001" (per-world numbering, recommended) or a channel-wide number?
-2. **End card "Watch next":** point to DUN001 *The Butlerian Jihad* (the latest upload) or hold it until GOT002 exists?
+**TTS/moderation:**
+- The Rat Cook line is the riskiest (cannibalism of a child). It's worded indirectly; if it's blocked, the fallback is "Here, the Rat Cook took a terrible revenge on a king."
+- "Slaughtered rise" falls back to "the dead rise".
