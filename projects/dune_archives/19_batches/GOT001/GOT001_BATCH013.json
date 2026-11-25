@@ -2,7 +2,7 @@
  "episode": "GOT001",
  "batch": "BATCH013",
  "max_batch_size": 10,
- "status": "GENERATED_9_PASS_1_FIX",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Far North palette: glacier blue, charcoal black, bone white and torch amber; breath fog, drifting snow, moonlight on ice.",
  "images": [
@@ -105,8 +105,8 @@
    "refs": [
     "B001S006"
    ],
-   "qc": "FIX",
-   "qc_note": "FIX turn 78: Wall ice rendered smeared and painterly (oil-paint artefacts at full size); redo photoreal, ref S006 + S051 Wall"
+   "qc": "PASS",
+   "qc_note": "REDONE turn 79: photoreal Wall, rider small before it"
   },
   {
    "scene_id": "GOT001_SCENE127",
