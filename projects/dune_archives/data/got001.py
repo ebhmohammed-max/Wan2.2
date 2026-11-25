@@ -28,7 +28,7 @@ SECTIONS = [
   ("A crown of ice grows from his skull.", [("A crown", k(12), "PUSH_IN")], []),
   ("He raises armies with a lift of his arms, and when he finally falls, every dead thing in the world falls with him.",
    [("He raises", k(13), "TILT_UP"), ("and when", k(14), "PULL_OUT")], []),
-  ("But George R. R. Martin's books tell a very different story.", [("But George", k(15), "PUSH_IN")], []),
+  ("But the books tell a very different story.", [("But the books", k(15), "PUSH_IN")], []),
   ("In the books, the Night's King was a man.", [("In the books", k(1), "PUSH_IN")], []),
   ("A brother of the Night's Watch, who fell in love with a woman whose skin was white as the moon, and whose eyes were like blue stars.",
    [("A brother", k(16), "PUSH_IN"), ("whose skin", k(2), "PUSH_IN")], []),
@@ -92,7 +92,7 @@ SECTIONS = [
  ]),
 
  ("CA", "Subscribe", None, [
-  ("Before we find out who brought him down, and what they found when they did: if you want Westeros the way Martin wrote it, subscribe to the Mythic Archives.",
+  ("Before we find out who brought him down, and what they found when they did: if you want Westeros the way it is in the books, subscribe to the Mythic Archives.",
    [("Before we", k(51), "PAN_LR"), ("if you want", k(146), "PULL_OUT")], [("if you want", "SUB", {"click_at": "subscribe"}, 0)]),
  ]),
 
@@ -186,29 +186,30 @@ SECTIONS = [
   ("None of that happens in the books.", [("None of", k(111), "HOLD")], []),
  ]),
 
- ("VII", "Martin's Answer", "VII", [
-  ("When fans asked Martin whether the show's Night King and the book's Night's King were the same person, he gave a careful answer.",
-   [("When fans", k(112), "PUSH_IN"), ("were the same", k(15), "PUSH_IN")], []),
-  ("\"As for the Night's King, the form I prefer, in the books he is a legendary figure, akin to Lann the Clever and Brandon the Builder, and no more likely to have survived to the present day than they have.\"",
-   [("\"As for", k(113), "PAN_LR"), ("akin to", k(114), "PUSH_IN"), ("and Brandon", k(30), "PAN_RL"), ("and no more", k(115), "DRIFT")],
-   [("\"As for", NOTE, {"head": "GEORGE R. R. MARTIN",
-                        "body": "\u201cIn the books he is a legendary figure, akin to Lann the Clever and Brandon the Builder, "
-                                "and no more likely to have survived to the present day than they have.\u201d"}, 12.5)]),
-  ("In other words, the Night's King of the books is a legend, like the trickster who stole Casterly Rock and the builder of the Wall.",
-   [("In other", k(116), "PULL_OUT"), ("and the builder", k(29), "PULL_OUT")], []),
-  ("He may never even have existed.", [("He may", k(117), "DRIFT")], []),
+ ("VII", "The Legend in the Books", "VII", [
+  ("So are the show's Night King and the book's Night's King the same person?",
+   [("So are", k(111), "HOLD"), ("and the book's", k(15), "PUSH_IN")], []),
+  ("In the books, the answer is no.", [("In the books", k(113), "PAN_LR")], []),
+  ("There, the Night's King is a legendary figure, like Lann the Clever and Brandon the Builder, and no more likely to have survived to the present day than they have.",
+   [("There, the", k(117), "DRIFT"), ("like Lann", k(114), "PUSH_IN"), ("and Brandon", k(30), "PAN_RL"), ("and no more", k(115), "DRIFT")],
+   [("There, the", NOTE, {"head": "IN THE BOOKS",
+                          "body": "A figure of legend, like Lann the Clever and Brandon the Builder \u2014 "
+                                  "no more likely to have survived to the present day than they have."}, 11.5)]),
+  ("A legend, like the trickster who stole Casterly Rock, and the builder of the Wall.",
+   [("A legend, like", k(116), "PULL_OUT"), ("and the builder", k(29), "PULL_OUT")], []),
+  ("He may never even have existed.", [("He may", k(112), "DRIFT")], []),
   ("Notice the name, too.", [("Notice", k(118), "PUSH_IN")], []),
-  ("Martin prefers Night's King, with an S, like a title.", [("Martin prefers", k(34), "PUSH_IN")],
-   [("Martin prefers", NOTE, {"head": "NIGHT'S KING", "body": "Martin's spelling: a title, like King in the North. The show's spelling: Night King."}, 5.6)]),
+  ("The books call him Night's King, with an S, like a title.", [("The books call", k(34), "PUSH_IN")],
+   [("The books call", NOTE, {"head": "NIGHT'S KING", "body": "The books' spelling: a title, like King in the North. The show's spelling: Night King."}, 5.6)]),
   ("The show dropped the S.", [], []),
   ("And the books have no Night King at all.", [("And the books", k(119), "PULL_OUT")], []),
   ("No one in the novels knows who leads the Others, or whether anyone does.", [("No one in", k(120), "PUSH_IN")], []),
   ("No one knows where they came from.", [("No one knows", k(121), "PAN_LR")], []),
-  ("The children of the forest creating them is the show's idea, not Martin's.", [("The children", k(122), "PUSH_IN")], []),
+  ("The children of the forest creating them is the show's idea, not the books'.", [("The children", k(122), "PUSH_IN")], []),
  ]),
 
  ("VIII", "The Ranger with Cold Hands", "VIII", [
-  ("But Martin's books are full of legends that turn out to be real.", [("But Martin's", k(123), "PUSH_IN")], []),
+  ("But the books are full of legends that turn out to be real.", [("But the books", k(123), "PUSH_IN")], []),
   ("In the last published novel, a strange rider guides Bran north.", [("In the last", k(124), "PAN_LR")], []),
   ("He wears the black of the Night's Watch, rides a great elk, and hides his face behind a scarf.", [("He wears", k(6), "PAN_LR")], []),
   ("His hands are black, and cold as iron.", [("His hands", k(125), "PUSH_IN")], []),
@@ -223,7 +224,7 @@ SECTIONS = [
   ("\"We opened half a hundred graves,\" the wildling girl Ygritte cries, \"and never found the Horn of Joramun.\"",
    [("\"We opened", k(133), "PULL_OUT"), ("the wildling", k(134), "PUSH_IN")], []),
   ("The horn of the very king who brought down the Night's King.", [("The horn", k(7), "TILT_UP")], []),
-  ("Martin has explained none of it.", [("Martin has", k(135), "PUSH_IN")], []),
+  ("The books explain none of it, yet.", [("The books explain", k(135), "PUSH_IN")], []),
   ("The Winds of Winter, the book that should bring the Long Night, is still unpublished, fifteen years after the last.",
    [("The Winds", k(136), "PUSH_IN")], []),
   ("So for now, the Night's King remains what Old Nan made him.", [("So for now", k(137), "DRIFT")], []),
@@ -260,7 +261,7 @@ SPECIAL_PAUSE = {
     'so who was he really?': 0.9, 'from the memory of man.': 1.0, 'and want to walk into it.': 0.9,
     'he gave her his soul.': 0.9, 'ruled the wall.': 1.0, 'what he was called.': 1.0,
     'mayhaps his name was brandon."': 1.0, 'their greatest ally.': 1.0, 'hard not to wonder.': 1.0,
-    'none of that happens in the books.': 1.1, 'not martin\'s.': 1.0, 'whose name was brandon.': 1.4,
+    'none of that happens in the books.': 1.1, 'not the books\'.': 1.0, 'whose name was brandon.': 1.4,
 }
 
 
@@ -282,7 +283,7 @@ def music_edl(S, total, ident, phrase_after, phrase_end):
         cue('M7', 'A Stark of Winterfell', 'Private_Reflection', S['IV']['gap_start'] - 0.4, S['V']['gap_start'] + 0.6, 0.0),
         cue('M8', 'The Black Gate', 'Night_Vigil', S['V']['gap_start'] - 0.4, S['VI']['gap_start'] + 0.6, 60.0),
         cue('M9', 'The King of the Dead', 'Crypto', S['VI']['gap_start'] - 0.4, S['VII']['gap_start'] + 0.6, 2.0, gain_db=-1),
-        cue('M10', "Martin's Answer", 'Lightless_Dawn', S['VII']['gap_start'] - 0.4, S['VIII']['gap_start'] + 0.6, 170.0),
+        cue('M10', "The Legend in the Books", 'Lightless_Dawn', S['VII']['gap_start'] - 0.4, S['VIII']['gap_start'] + 0.6, 170.0),
         cue('M11', 'The Ranger with Cold Hands', 'Unwritten_Return', S['VIII']['gap_start'] - 0.4, S['CB']['gap_start'] + 1.6,
             12.0, fade_out=3.5, gain_db=-1),
         cue('M12', 'Outro (archive theme)', 'Deliberate_Thought', S['CB']['gap_start'] - 0.6, total, 30.0,

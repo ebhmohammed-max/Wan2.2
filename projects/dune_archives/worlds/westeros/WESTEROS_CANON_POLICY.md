@@ -65,5 +65,12 @@
 
 GOT001 casualties fixed in turn 67: S001 (Night's King anchor redesigned), S004, S005, S023, S026.
 
+## 4c. Narration never names the author (v1.2, director's order, 2026-11-25)
+
+- **Do not say "George R. R. Martin", "Martin" or "GRRM" in narration, on graphics, in chapter titles or in YouTube copy.** Book facts are simply **"in the books"** ("the books call him…", "the books explain none of it").
+- An author statement from an interview (e.g. the 2015 "legendary figure" answer) may be used only as the books' position, paraphrased and unquoted: "In the books, the Night's King is a legendary figure…". Never present it as a quote.
+- Fact sheets may still cite the source internally (`[G]` tier). This rule covers what the audience sees and hears.
+- The show (HBO / "the show") is still named openly, and show-only facts stay labelled.
+
 ## 5. Practical consequence for production
 The visual identity of a Westeros episode comes from **book descriptions**, not the show: the hulking Iron Throne, the Others in their shifting armor, Tyrion's mismatched eyes and ruined nose, the Hound's missing ear, the two-legged dragons. These differences are a selling point: *"This is Westeros the way Martin wrote it."*
