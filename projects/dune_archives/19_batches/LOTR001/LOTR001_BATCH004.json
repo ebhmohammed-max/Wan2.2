@@ -2,7 +2,7 @@
  "episode": "LOTR001",
  "batch": "BATCH004",
  "max_batch_size": 10,
- "status": "GENERATED_7_PASS_3_PENDING",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist.",
  "images": [
@@ -136,7 +136,7 @@
    "refs": [
     "B001S001"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "LOTR001_SCENE039",
@@ -149,7 +149,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. macro of a perfect faceted clear gem with a single fine dark crack running through its heart, forge-light. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "LOTR001_SCENE040",
@@ -164,7 +164,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Melkor, the mightiest Vala turned dark: a colossal majestic figure wreathed in shadow and cold fire, eyes like burning coals, face hidden in darkness, a colossal dark figure striding across a young unfinished world, mountains smoking at his feet. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   }
  ]
 }

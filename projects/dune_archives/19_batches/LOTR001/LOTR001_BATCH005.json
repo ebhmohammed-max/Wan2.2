@@ -2,7 +2,7 @@
  "episode": "LOTR001",
  "batch": "BATCH005",
  "max_batch_size": 10,
- "status": "PLANNED",
+ "status": "GENERATED_5_PASS_2_REDO_3_PENDING",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist.",
  "images": [
@@ -21,7 +21,7 @@
    "refs": [
     "B004S040"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "LOTR001_SCENE042",
@@ -34,7 +34,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a gentle young world of green valleys and growing forests under the light of two great lamps on towering pillars of stone, shining figures tending the land slowly. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "LOTR001_SCENE043",
@@ -51,7 +51,8 @@
    "refs": [
     "B001S001"
    ],
-   "qc": "PENDING"
+   "qc": "REDO",
+   "qc_note": "gothic arched window behind him: redo with plain stone forge wall, NO arches"
   },
   {
    "scene_id": "LOTR001_SCENE044",
@@ -64,7 +65,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a mighty fortress of black stone rising out of the ground in a single moment, rock heaving upward, fire and smoke, in the frozen north. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "LOTR001_SCENE045",
@@ -81,7 +82,8 @@
    "refs": [
     "B001S001"
    ],
-   "qc": "PENDING"
+   "qc": "REDO",
+   "qc_note": "ghostly half-figure artifact at frame left: redo with a single figure only"
   },
   {
    "scene_id": "LOTR001_SCENE046",
@@ -94,7 +96,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. endless perfect rows of identical newly forged black blades cooling in a vast dark armoury, red light, ruthless order. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "LOTR001_SCENE047",
@@ -113,7 +115,7 @@
     "B004S040",
     "B001S001"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "LOTR001_SCENE048",
