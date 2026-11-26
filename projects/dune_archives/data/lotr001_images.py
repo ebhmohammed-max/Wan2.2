@@ -55,8 +55,10 @@ CAST = {
     'SAURON_WOLF': 'Sauron in the form of a werewolf: a colossal grey-black wolf, the greatest ever seen, eyes like red embers',
     'CELEBRIMBOR': ('Celebrimbor, lord of the elven-smiths of Eregion: a young-looking elf lord with long straight black hair, sharp '
                     'clever features, bright grey eyes, a thin silver circlet, a dark blue tunic, soot on his hands'),
-    'ELROND': ('Elrond, an elf-lord whose face is ageless, neither old nor young: long dark hair, deep grey eyes, a smooth calm face, a '
-               'silver circlet, robes of grey and deep green; NOT resembling any film actor'),
+    'ELROND': ('Elrond as in the books, an elf-lord whose face is ageless, neither old nor young: a broad smooth brow with a FULL hairline, '
+               'long straight hair dark as the shadows of twilight worn loose with two thin braids, deep grey eyes, strong dark brows, a calm '
+               'square-jawed face, a PLAIN narrow band of silver on his head (no filigree, no V-shape), robes of deep blue-grey; NOT receding '
+               'hair, NOT resembling Hugo Weaving or any film actor'),
     'FRODO': ('Frodo Baggins as in the books: a hobbit about three and a half feet tall who looks thirty, a cleft chin, thick curly dark '
               'brown hair, hazel-brown eyes, a fair-skinned clever face, a green waistcoat, large bare feet with curly brown hair'),
     'SAM': ('Sam Gamgee as in the books: a sturdy hobbit with a round brown face, curly brown hair, brown eyes, plain brown clothes, '
