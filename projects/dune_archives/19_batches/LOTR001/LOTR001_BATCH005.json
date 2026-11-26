@@ -2,7 +2,7 @@
  "episode": "LOTR001",
  "batch": "BATCH005",
  "max_batch_size": 10,
- "status": "GENERATED_5_PASS_2_REDO_3_PENDING",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist.",
  "images": [
@@ -51,8 +51,8 @@
    "refs": [
     "B001S001"
    ],
-   "qc": "REDO",
-   "qc_note": "gothic arched window behind him: redo with plain stone forge wall, NO arches"
+   "qc": "PASS",
+   "qc_note": "redo: plain rock wall, no arches: PASS"
   },
   {
    "scene_id": "LOTR001_SCENE044",
@@ -82,8 +82,8 @@
    "refs": [
     "B001S001"
    ],
-   "qc": "REDO",
-   "qc_note": "ghostly half-figure artifact at frame left: redo with a single figure only"
+   "qc": "PASS",
+   "qc_note": "redo: single figure: PASS"
   },
   {
    "scene_id": "LOTR001_SCENE046",
@@ -132,7 +132,7 @@
    "refs": [
     "B001S001"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "LOTR001_SCENE049",
@@ -147,7 +147,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Morgoth, the Dark Lord: a towering king in black armour on an iron throne, wearing an iron crown set with three brilliant white jewels blazing with light, face in deep shadow, on an iron throne in a cavernous hall, face lost in shadow. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "LOTR001_SCENE050",
@@ -160,7 +160,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. grey elves gathered close around a small fire beneath great beech trees at night, speaking low, faces anxious, a dark mountain far away. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   }
  ]
 }
