@@ -38,7 +38,7 @@ else:
     OUT = ROOT / '22_edit' / EP
     TAG = EP
     EDL = ROOT / '21_music' / EP / f'{EP}_MUSIC_EDL.json'
-    CLIPS = [(s[0], [s[0]]) for s in D.SECTIONS]
+    CLIPS = getattr(D, 'CLIPS', None) or [(s[0], [s[0]]) for s in D.SECTIONS]
     MAPS = D.MAPS
 
 STILLS = ROOT / '19_batches' / EP / 'stills_jpg'
