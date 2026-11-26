@@ -2,7 +2,7 @@
  "episode": "LOTR001",
  "batch": "BATCH002",
  "max_batch_size": 10,
- "status": "GENERATED_7_PASS_2_REDO_1_PENDING",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist.",
  "images": [
@@ -117,7 +117,8 @@
    "refs": [
     "B001S007"
    ],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "qc_note": "faces small and generic; Elrond ref S007: PASS"
   },
   {
    "scene_id": "LOTR001_SCENE019",
@@ -132,8 +133,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Sam Gamgee as in the books: a sturdy hobbit with a round brown face, curly brown hair, brown eyes, plain brown clothes, large bare hairy feet, seen FROM BEHIND, crouched out of sight behind a low stone wall and potted shrubs on an autumn terrace, only the back of his curly head and his shoulders visible as he peeks toward a distant gathering, his face NOT visible, golden leaves falling. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
    "refs": [],
-   "qc": "REDO",
-   "qc_note": "face drifted toward the film Sam: reframe from behind"
+   "qc": "PASS",
+   "qc_note": "redo 2026-11-25: reframed from behind / over the shoulder, no face: PASS"
   },
   {
    "scene_id": "LOTR001_SCENE020",
@@ -148,8 +149,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Frodo Baggins as in the books: a hobbit about three and a half feet tall who looks thirty, a cleft chin, thick curly dark brown hair, hazel-brown eyes, a fair-skinned clever face, a green waistcoat, large bare feet with curly brown hair, over-the-shoulder shot from BEHIND the hobbit (back of his curly head and shoulder in soft focus, face NOT visible) as he holds up a small plain gold ring between finger and thumb in sharp focus; beyond, a seated council of tall elves, dwarves and men in heavy soft focus, their faces blurred and unrecognisable; morning light. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
    "refs": [],
-   "qc": "REDO",
-   "qc_note": "film-cast drift: Frodo ~Elijah Wood, film Gandalf, Legolas, Aragorn; reframe over the shoulder, council blurred"
+   "qc": "PASS",
+   "qc_note": "redo 2026-11-25: reframed from behind / over the shoulder, no face: PASS"
   }
  ]
 }
