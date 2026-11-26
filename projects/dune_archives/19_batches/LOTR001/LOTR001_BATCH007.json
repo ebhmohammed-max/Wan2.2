@@ -2,7 +2,7 @@
  "episode": "LOTR001",
  "batch": "BATCH007",
  "max_batch_size": 10,
- "status": "GENERATED_3_PASS_1_REDO_6_PENDING",
+ "status": "GENERATED_9_PASS_1_REDO",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist.",
  "images": [
@@ -68,8 +68,8 @@
     "B001S003",
     "B007S063"
    ],
-   "qc": "REDO",
-   "qc_note": "pointed arches in the hall behind the throne: redo in a rough rock-hewn tower chamber, NO arches"
+   "qc": "PASS",
+   "qc_note": "redo: rock-hewn chamber, no arches: PASS"
   },
   {
    "scene_id": "LOTR001_SCENE065",
@@ -86,7 +86,7 @@
    "refs": [
     "B007S063"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "LOTR001_SCENE066",
@@ -99,7 +99,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a small band of hooded figures in crude ugly orc disguises creeping along a mountain path below a dark tower, dusk. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "LOTR001_SCENE067",
@@ -112,7 +112,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. great wolves with glowing eyes encircling the hooded band on a dark road, a tall shadow watching from above. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "LOTR001_SCENE068",
@@ -129,7 +129,7 @@
    "refs": [
     "B001S005"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "LOTR001_SCENE069",
@@ -141,10 +141,11 @@
     "BEREN"
    ],
    "motion_recipe": "PUSH_IN",
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Beren, a mortal man of about twenty-five: lean and rugged, dark hair, grey eyes, a short beard, worn leather and a grey cloak, portrait in torchlight, defiant, a captive. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Beren, a mortal man of about twenty-five with an invented face: lean and young, dark hair cropped SHORT and rough, keen grey eyes, clean-shaven with light stubble, a crooked once-broken nose and a small scar on one cheekbone, worn leather and a grey cloak; NOT long hair, NOT a full beard, NOT resembling Aragorn or Viggo Mortensen, portrait in torchlight, defiant, a captive. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "REDO",
+   "qc_note": "long wet dark hair + beard reads as film Aragorn: redo with short cropped hair, stubble, broken nose, scar"
   },
   {
    "scene_id": "LOTR001_SCENE070",
@@ -163,7 +164,7 @@
     "B001S005",
     "B001S003"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   }
  ]
 }

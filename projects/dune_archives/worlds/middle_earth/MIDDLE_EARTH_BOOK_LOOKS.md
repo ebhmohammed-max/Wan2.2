@@ -39,3 +39,4 @@ Book descriptions first. Where the books are silent, the design is our own and m
 
 - **Hobbits and the Fellowship drift hard toward the film cast** (Frodo → Elijah Wood, Sam → Sean Astin, Gandalf → Ian McKellen, Legolas, Aragorn). Frame them **from behind, over the shoulder, as hands or props, or small in a wide shot**, never as a frontal face. Group shots: faces distant or in soft focus.
 - Elrond: a plain silver band (the book's circlet), full hairline, never the film's receding hairline and filigree V-circlet.
+- Beren (2026-11-26): long dark hair + beard drifts to film Aragorn. Use short cropped dark hair, stubble, a crooked broken nose and a cheek scar.

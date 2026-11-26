@@ -50,7 +50,9 @@ CAST = {
                 'fully covered, ethereal, never sexualised'),
     'FINROD': ('Finrod Felagund, King of Nargothrond: a tall elf-king with long golden hair, a noble kind face, grey eyes, a fine gold '
                'crown, a grey cloak over silver mail'),
-    'BEREN': 'Beren, a mortal man of about twenty-five: lean and rugged, dark hair, grey eyes, a short beard, worn leather and a grey cloak',
+    'BEREN': ('Beren, a mortal man of about twenty-five with an invented face: lean and young, dark hair cropped SHORT and rough, keen grey eyes, '
+              'clean-shaven with light stubble, a crooked once-broken nose and a small scar on one cheekbone, worn leather and a grey cloak; '
+              'NOT long hair, NOT a full beard, NOT resembling Aragorn or Viggo Mortensen'),
     'HUAN': 'Huan, the great wolfhound of Valinor: a huge pale-grey hound the size of a pony, a long noble head, deep intelligent eyes',
     'SAURON_WOLF': 'Sauron in the form of a werewolf: a colossal grey-black wolf, the greatest ever seen, eyes like red embers',
     'CELEBRIMBOR': ('Celebrimbor, lord of the elven-smiths of Eregion: a young-looking elf lord with long straight black hair, sharp '
