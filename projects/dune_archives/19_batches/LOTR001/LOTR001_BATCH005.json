@@ -1,0 +1,164 @@
+{
+ "episode": "LOTR001",
+ "batch": "BATCH005",
+ "max_batch_size": 10,
+ "status": "PLANNED",
+ "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
+ "palette": "Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist.",
+ "images": [
+  {
+   "scene_id": "LOTR001_SCENE041",
+   "key": "B005S041",
+   "file": "LOTR001_BATCH005_SCENE041_MELKOR_HURLS_FIRE.png",
+   "chapter": "II",
+   "shot_type": "EW",
+   "cast": [
+    "MELKOR"
+   ],
+   "motion_recipe": "PULL_OUT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Melkor, the mightiest Vala turned dark: a colossal majestic figure wreathed in shadow and cold fire, eyes like burning coals, face hidden in darkness, hurling fire into the earth, volcanoes erupting, the land breaking under his will, seen from behind. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [
+    "B004S040"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE042",
+   "key": "B005S042",
+   "file": "LOTR001_BATCH005_SCENE042_VALAR_GARDEN.png",
+   "chapter": "II",
+   "shot_type": "EST",
+   "cast": [],
+   "motion_recipe": "DRIFT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a gentle young world of green valleys and growing forests under the light of two great lamps on towering pillars of stone, shining figures tending the land slowly. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE043",
+   "key": "B005S043",
+   "file": "LOTR001_BATCH005_SCENE043_MAIRON_IMPATIENT.png",
+   "chapter": "II",
+   "shot_type": "CU",
+   "cast": [
+    "MAIRON"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Mairon, a Maia spirit in bodily form as a smith of Aule: a tall, graceful, ageless man who looks about thirty, a fine-boned oval face with a straight narrow nose, high calm brow and a precise, thoughtful mouth, clean-shaven, warm amber-gold eyes with a faint inner light, long dark copper-red hair tied back neatly at the nape, pale linen robes under a dark leather smith's apron, a faint golden glow on his skin, close portrait, impatient and frustrated, looking away into distance, jaw set. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [
+    "B001S001"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE044",
+   "key": "B005S044",
+   "file": "LOTR001_BATCH005_SCENE044_FORTRESS_RISES.png",
+   "chapter": "II",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "TILT_UP",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a mighty fortress of black stone rising out of the ground in a single moment, rock heaving upward, fire and smoke, in the frozen north. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE045",
+   "key": "B005S045",
+   "file": "LOTR001_BATCH005_SCENE045_MAIRON_GAZES_FIRE.png",
+   "chapter": "II",
+   "shot_type": "MS",
+   "cast": [
+    "MAIRON"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Mairon, a Maia spirit in bodily form as a smith of Aule: a tall, graceful, ageless man who looks about thirty, a fine-boned oval face with a straight narrow nose, high calm brow and a precise, thoughtful mouth, clean-shaven, warm amber-gold eyes with a faint inner light, long dark copper-red hair tied back neatly at the nape, pale linen robes under a dark leather smith's apron, a faint golden glow on his skin, standing on a cliff at night gazing at a distant dark fire on the northern horizon, fascinated, face lit faintly red. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [
+    "B001S001"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE046",
+   "key": "B005S046",
+   "file": "LOTR001_BATCH005_SCENE046_FORGED_BLADES_ROWS.png",
+   "chapter": "II",
+   "shot_type": "EST",
+   "cast": [],
+   "motion_recipe": "PAN_LR",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. endless perfect rows of identical newly forged black blades cooling in a vast dark armoury, red light, ruthless order. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE047",
+   "key": "B005S047",
+   "file": "LOTR001_BATCH005_SCENE047_MELKOR_WHISPERS.png",
+   "chapter": "II",
+   "shot_type": "MS",
+   "cast": [
+    "MELKOR",
+    "MAIRON"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Melkor, the mightiest Vala turned dark: a colossal majestic figure wreathed in shadow and cold fire, eyes like burning coals, face hidden in darkness; Mairon, a Maia spirit in bodily form as a smith of Aule: a tall, graceful, ageless man who looks about thirty, a fine-boned oval face with a straight narrow nose, high calm brow and a precise, thoughtful mouth, clean-shaven, warm amber-gold eyes with a faint inner light, long dark copper-red hair tied back neatly at the nape, pale linen robes under a dark leather smith's apron, a faint golden glow on his skin, a vast shadow with burning eyes leaning down over a shining smaller figure, whispering, darkness creeping over the golden light. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [
+    "B004S040",
+    "B001S001"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE048",
+   "key": "B005S048",
+   "file": "LOTR001_BATCH005_SCENE048_MAIRON_KNEELS_DARK.png",
+   "chapter": "II",
+   "shot_type": "EST",
+   "cast": [
+    "MAIRON"
+   ],
+   "motion_recipe": "PULL_OUT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Mairon, a Maia spirit in bodily form as a smith of Aule: a tall, graceful, ageless man who looks about thirty, a fine-boned oval face with a straight narrow nose, high calm brow and a precise, thoughtful mouth, clean-shaven, warm amber-gold eyes with a faint inner light, long dark copper-red hair tied back neatly at the nape, pale linen robes under a dark leather smith's apron, a faint golden glow on his skin, kneeling before an enormous dark throne in a cavern, his golden light dimming, head bowed, seen from the side. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [
+    "B001S001"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE049",
+   "key": "B005S049",
+   "file": "LOTR001_BATCH005_SCENE049_MORGOTH_IRON_CROWN.png",
+   "chapter": "II",
+   "shot_type": "MS",
+   "cast": [
+    "MORGOTH"
+   ],
+   "motion_recipe": "TILT_UP",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Morgoth, the Dark Lord: a towering king in black armour on an iron throne, wearing an iron crown set with three brilliant white jewels blazing with light, face in deep shadow, on an iron throne in a cavernous hall, face lost in shadow. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE050",
+   "key": "B005S050",
+   "file": "LOTR001_BATCH005_SCENE050_SINDAR_FIRESIDE.png",
+   "chapter": "II",
+   "shot_type": "EST",
+   "cast": [],
+   "motion_recipe": "DRIFT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. grey elves gathered close around a small fire beneath great beech trees at night, speaking low, faces anxious, a dark mountain far away. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  }
+ ]
+}

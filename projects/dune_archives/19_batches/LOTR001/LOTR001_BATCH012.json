@@ -1,0 +1,158 @@
+{
+ "episode": "LOTR001",
+ "batch": "BATCH012",
+ "max_batch_size": 10,
+ "status": "PLANNED",
+ "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
+ "palette": "Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist.",
+ "images": [
+  {
+   "scene_id": "LOTR001_SCENE111",
+   "key": "B012S111",
+   "file": "LOTR001_BATCH012_SCENE111_POWER_POURS.png",
+   "chapter": "VI",
+   "shot_type": "INS",
+   "cast": [
+    "SAURON_DARK"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the Dark Lord in the Third Age: a man of more than human stature (but not a giant) in black iron armour, face never visible, wrapped in shadow and heat haze, a black hand with ONLY FOUR FINGERS, a dark hand above a glowing ring, streams of fiery light pouring from the hand into the ring. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [
+    "B001S010"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE112",
+   "key": "B012S112",
+   "file": "LOTR001_BATCH012_SCENE112_RING_ON_FINGER.png",
+   "chapter": "VI",
+   "shot_type": "INS",
+   "cast": [],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a plain gold ring sliding onto a long finger in red volcanic light. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE113",
+   "key": "B012S113",
+   "file": "LOTR001_BATCH012_SCENE113_CELEBRIMBOR_SENSES.png",
+   "chapter": "VI",
+   "shot_type": "CU",
+   "cast": [
+    "CELEBRIMBOR"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Celebrimbor, lord of the elven-smiths of Eregion: a young-looking elf lord with long straight black hair, sharp clever features, bright grey eyes, a thin silver circlet, a dark blue tunic, soot on his hands, close portrait, suddenly freezing in horror, a ring glowing on his finger. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [
+    "B001S006"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE114",
+   "key": "B012S114",
+   "file": "LOTR001_BATCH012_SCENE114_ELVES_ALARM.png",
+   "chapter": "VI",
+   "shot_type": "EST",
+   "cast": [],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. elven smiths in a workshop all looking up at once in alarm and fear, tools dropped, forge-light. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE115",
+   "key": "B012S115",
+   "file": "LOTR001_BATCH012_SCENE115_RINGS_REMOVED.png",
+   "chapter": "VI",
+   "shot_type": "INS",
+   "cast": [],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. an elven hand pulling a glowing ring off a finger in anger and fear. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE116",
+   "key": "B012S116",
+   "file": "LOTR001_BATCH012_SCENE116_THREE_RINGS.png",
+   "chapter": "VI",
+   "shot_type": "INS",
+   "cast": [],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. three elven rings on dark cloth: one of gold with a red stone, one of white metal with a white gem, one of gold with a great blue stone, softly glowing. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE117",
+   "key": "B012S117",
+   "file": "LOTR001_BATCH012_SCENE117_EREGION_BURNING.png",
+   "chapter": "VI",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PULL_OUT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the elven city of smiths burning at night far away, smoke against the mountains, no figures visible. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE118",
+   "key": "B012S118",
+   "file": "LOTR001_BATCH012_SCENE118_CELEBRIMBOR_DEFIANT.png",
+   "chapter": "VI",
+   "shot_type": "CU",
+   "cast": [
+    "CELEBRIMBOR"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Celebrimbor, lord of the elven-smiths of Eregion: a young-looking elf lord with long straight black hair, sharp clever features, bright grey eyes, a thin silver circlet, a dark blue tunic, soot on his hands, close portrait in chains in a dark place, exhausted, defiant, silent, no blood. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [
+    "B001S006"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE119",
+   "key": "B012S119",
+   "file": "LOTR001_BATCH012_SCENE119_HALBRAND_SILHOUETTE.png",
+   "chapter": "VI",
+   "shot_type": "EST",
+   "cast": [
+    "HALBRAND"
+   ],
+   "motion_recipe": "DRIFT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a man seen ONLY as a dark silhouette from behind, ragged cloak, no face visible, on a small raft on a vast grey ocean at dusk. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE120",
+   "key": "B012S120",
+   "file": "LOTR001_BATCH012_SCENE120_ANNATAR_MASK.png",
+   "chapter": "VI",
+   "shot_type": "CU",
+   "cast": [
+    "ANNATAR"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Annatar, the Lord of Gifts: a noble, regal, ageless man who looks about forty, a fine-boned oval face with a straight narrow nose and faint lines at the eyes, clean-shaven, warm amber eyes, long dark copper-red hair with two thin braids at the temples, a slender golden circlet, rich robes of gold and ivory, an open, generous gesture; NOT blond, close portrait, the warm smile fading into something cold, half his face in shadow. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [
+    "B001S002"
+   ],
+   "qc": "PENDING"
+  }
+ ]
+}

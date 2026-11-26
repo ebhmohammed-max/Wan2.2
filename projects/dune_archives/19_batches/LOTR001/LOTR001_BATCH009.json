@@ -1,0 +1,167 @@
+{
+ "episode": "LOTR001",
+ "batch": "BATCH009",
+ "max_batch_size": 10,
+ "status": "PLANNED",
+ "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
+ "palette": "Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist.",
+ "images": [
+  {
+   "scene_id": "LOTR001_SCENE081",
+   "key": "B009S081",
+   "file": "LOTR001_BATCH009_SCENE081_WOLVES_ON_BRIDGE.png",
+   "chapter": "IV",
+   "shot_type": "EST",
+   "cast": [],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. huge wolves loping across a long stone bridge in moonlight toward the viewer, mist. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE082",
+   "key": "B009S082",
+   "file": "LOTR001_BATCH009_SCENE082_HUAN_ON_BRIDGE.png",
+   "chapter": "IV",
+   "shot_type": "EST",
+   "cast": [
+    "HUAN"
+   ],
+   "motion_recipe": "PULL_OUT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Huan, the great wolfhound of Valinor: a huge pale-grey hound the size of a pony, a long noble head, deep intelligent eyes, standing alone and victorious in the middle of a moonlit stone bridge, the shadows of wolves gone, calm and silent, no gore. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [
+    "B001S008"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE083",
+   "key": "B009S083",
+   "file": "LOTR001_BATCH009_SCENE083_SAURON_WEREWOLF.png",
+   "chapter": "IV",
+   "shot_type": "EW",
+   "cast": [
+    "SAURON_WOLF"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Sauron in the form of a werewolf: a colossal grey-black wolf, the greatest ever seen, eyes like red embers, stalking onto the far end of the bridge under the moon, enormous, terrifying. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE084",
+   "key": "B009S084",
+   "file": "LOTR001_BATCH009_SCENE084_LUTHIEN_CLOAK.png",
+   "chapter": "IV",
+   "shot_type": "MS",
+   "cast": [
+    "LUTHIEN"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Luthien, an elf-maiden of unearthly beauty: a gentle oval face, luminous grey eyes like the starlit evening, very long hair dark as the shadows of twilight, a gown blue as the unclouded heaven, a dark mantle sewn with small golden flowers, fully covered, ethereal, never sexualised, sweeping a fold of her dark cloak through the air before a giant wolf's eyes, the wolf staggering, moonlight. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [
+    "B001S004",
+    "B009S083"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE085",
+   "key": "B009S085",
+   "file": "LOTR001_BATCH009_SCENE085_HUAN_LEAPS.png",
+   "chapter": "IV",
+   "shot_type": "EST",
+   "cast": [
+    "HUAN",
+    "SAURON_WOLF"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Huan, the great wolfhound of Valinor: a huge pale-grey hound the size of a pony, a long noble head, deep intelligent eyes; Sauron in the form of a werewolf: a colossal grey-black wolf, the greatest ever seen, eyes like red embers, the great hound leaping at the colossal wolf on the bridge, frozen in mid-air, moonlight, dramatic, no blood. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [
+    "B001S008",
+    "B009S083"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE086",
+   "key": "B009S086",
+   "file": "LOTR001_BATCH009_SCENE086_SERPENT_SHAPE.png",
+   "chapter": "IV",
+   "shot_type": "EST",
+   "cast": [
+    "HUAN"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Huan, the great wolfhound of Valinor: a huge pale-grey hound the size of a pony, a long noble head, deep intelligent eyes, the hound holding fast as the shadowy beast in its grip twists into the coils of a huge black serpent, smoke, moonlight, no blood. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [
+    "B001S008"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE087",
+   "key": "B009S087",
+   "file": "LOTR001_BATCH009_SCENE087_SAURON_YIELDS.png",
+   "chapter": "IV",
+   "shot_type": "EST",
+   "cast": [
+    "SAURON_FA",
+    "LUTHIEN"
+   ],
+   "motion_recipe": "PULL_OUT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Sauron in the First Age, the same man as Mairon grown cold: tall and lean, the same fine-boned oval face with a straight narrow nose, now pale and severe, clean-shaven, eyes burning red-gold, long dark copper-red hair worn loose, black and deep crimson robes, an iron circlet on his brow, beautiful and terrible; Luthien, an elf-maiden of unearthly beauty: a gentle oval face, luminous grey eyes like the starlit evening, very long hair dark as the shadows of twilight, a gown blue as the unclouded heaven, a dark mantle sewn with small golden flowers, fully covered, ethereal, never sexualised, the sorcerer on his knees on the bridge in his own shape, head bowed in surrender before the elf-maiden, the great hound standing over him. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [
+    "B001S003",
+    "B001S004"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE088",
+   "key": "B009S088",
+   "file": "LOTR001_BATCH009_SCENE088_VAMPIRE_MOON.png",
+   "chapter": "IV",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PAN_LR",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a vast bat-winged shadow like a dark cloud flying across a full moon above a black pine forest. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE089",
+   "key": "B009S089",
+   "file": "LOTR001_BATCH009_SCENE089_HOSTS_OF_VALINOR.png",
+   "chapter": "V",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PULL_OUT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a shining host in white and gold armour marching from white ships on a dark shore under a stormy sky, great eagles overhead, a holy army. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "LOTR001_SCENE090",
+   "key": "B009S090",
+   "file": "LOTR001_BATCH009_SCENE090_THANGORODRIM_BROKEN.png",
+   "chapter": "V",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PULL_OUT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. three colossal black volcanic peaks collapsing and breaking apart, a vast dark fortress in ruins, light breaking through the storm clouds. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  }
+ ]
+}
