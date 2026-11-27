@@ -2,7 +2,7 @@
  "episode": "GOT002",
  "batch": "BATCH006",
  "max_batch_size": 10,
- "status": "PLANNED",
+ "status": "GENERATED_9_PASS_S060_PENDING",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves.",
  "images": [
@@ -17,7 +17,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. an enormous ribcage of ancient brown bones half buried in a dug-out earth barrow, black obsidian arrowheads lodged between the ribs, lantern light, NO people. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE052",
@@ -30,7 +30,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a high aerial view of a vast continent covered in endless forests, rivers and mountains, no fields, no roads, no smoke, clouds below. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE053",
@@ -43,7 +43,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the sun rising in the east over a long land bridge between two seas, a thin line of tiny distant figures and horses approaching across it. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE054",
@@ -56,7 +56,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a long high ridge of rocky land joining two continents, dry hills and scrub, sea on both sides, warm southern light, NO people. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE055",
@@ -73,7 +73,7 @@
    "refs": [
     "B001S005"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE056",
@@ -86,7 +86,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. two old maesters in grey robes with chain collars of many metals arguing quietly over unrolled blank scrolls in a candlelit stone library, invented faces. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE057",
@@ -99,7 +99,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. crumbling ancient scrolls and a maester's chain collar of many different metals lying on an old oak desk by candlelight, NO writing visible. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE058",
@@ -112,7 +112,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a leaf-shaped bronze sword lying across a great round shield of thick hardened leather with a bronze boss, firelight. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE059",
@@ -129,7 +129,7 @@
    "refs": [
     "B001S001"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE060",

@@ -734,5 +734,6 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 | v2.55 | 2026-11-27 | GOT002 BATCH003 (S021–S030: broken tower, Luwin lesson, book drawing, valley/bay/glade with no people, children overlook, Bran at window, Luwin shakes head, beyond the Wall) **10/10 PASS** — 30/150. |
 | v2.56 | 2026-11-27 | GOT002 BATCH004 (S031–S040: candle gutters, child by standing stone, dappled skin, ears profile, cat eyes, clawed 3+thumb hand ✔ verified, no-metal tools, cave, crannog, tree village) **10/10 PASS** — 40/150. |
 | v2.57 | 2026-11-27 | GOT002 BATCH005 (S041–S050: wood dancers hunt, obsidian, knapping, uncarved grove, carving the face, greenseer trance, vision through trees, giant in mist, giant on mammoth, child/giant standoff) **9 PASS, 1 REDO (S046: five digits)** — 49/150. |
+| v2.58 | 2026-11-27 | GOT002 BATCH006 S051–S059 **9/9 PASS** (giant grave, primeval continent, sunrise over the bridge, Arm of Dorne, First Men crossing, maesters disagree, scrolls, bronze & leather, children see horses). S046 redo 1 failed again (5 digits) → redo 2 next turn with hands out of frame. 58/150. |
 
 > Turn 22 note: the old manifests v11, continuity v1.4 and original tracker Doc have their Drive descriptions set to SUPERSEDED, pointing at the new IDs above. The Drive tracker v2.12 Doc is a snapshot taken before its own ID was added here.
