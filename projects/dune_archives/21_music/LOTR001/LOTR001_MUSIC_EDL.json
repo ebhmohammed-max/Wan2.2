@@ -1,0 +1,154 @@
+{
+ "episode": "LOTR001",
+ "timeline": "voice-14 VO, programme 726.24 s",
+ "bed_lufs": -23.0,
+ "notes": "start/end = programme seconds; offset = seconds into the source track. Kevin MacLeod (incompetech.com), CC BY 4.0.",
+ "cues": [
+  {
+   "cue": "M1",
+   "name": "The Eye (hook)",
+   "track": "Oppressive_Gloom",
+   "start": 0.0,
+   "end": 32.52,
+   "offset": 0.0,
+   "fade_in": 0.0,
+   "fade_out": 2.5,
+   "gain_db": -2,
+   "hp": 110
+  },
+  {
+   "cue": "M2",
+   "name": "Archive (ident)",
+   "track": "Deliberate_Thought",
+   "start": 30.12,
+   "end": 37.92,
+   "offset": 30.0,
+   "fade_in": 1.2,
+   "fade_out": 2.5,
+   "gain_db": -1
+  },
+  {
+   "cue": "M3",
+   "name": "The Council of Elrond",
+   "track": "Teller_of_the_Tales",
+   "start": 35.52,
+   "end": 85.86,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M4",
+   "name": "The Smith's Apprentice",
+   "track": "Virtutes_Instrumenti",
+   "start": 84.86,
+   "end": 147.11,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M5",
+   "name": "The Admirable and the Abhorred",
+   "track": "Angevin",
+   "start": 146.11,
+   "end": 209.06,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M2b",
+   "name": "Subscribe (archive theme)",
+   "track": "Deliberate_Thought",
+   "start": 207.86,
+   "end": 221.91,
+   "offset": 30.0,
+   "fade_in": 1.0,
+   "fade_out": 2.0,
+   "gain_db": -1
+  },
+  {
+   "cue": "M6",
+   "name": "The Isle of Werewolves",
+   "track": "Lost_Frontier",
+   "start": 220.71,
+   "end": 304.27,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M7",
+   "name": "L\u00fathien and the Hound",
+   "track": "Despair_and_Triumph",
+   "start": 303.27,
+   "end": 373.91,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M8",
+   "name": "The Door Back",
+   "track": "Sovereign",
+   "start": 372.91,
+   "end": 436.34,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M9",
+   "name": "The Lord of Gifts",
+   "track": "Lord_of_the_Land",
+   "start": 435.34,
+   "end": 533.42,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M10",
+   "name": "The Drowning of N\u00famenor",
+   "track": "Crusade",
+   "start": 532.42,
+   "end": 606.27,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": -1
+  },
+  {
+   "cue": "M11",
+   "name": "Four Fingers on the Black Hand",
+   "track": "The_Pyre",
+   "start": 605.27,
+   "end": 684.11,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 3.5,
+   "gain_db": -1
+  },
+  {
+   "cue": "M12",
+   "name": "Outro (archive theme)",
+   "track": "Deliberate_Thought",
+   "start": 681.91,
+   "end": 726.24,
+   "offset": 30.0,
+   "fade_in": 2.0,
+   "fade_out": 3.0,
+   "gain_db": -2
+  }
+ ],
+ "sfx": [],
+ "silences": []
+}

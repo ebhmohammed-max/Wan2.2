@@ -1,0 +1,62 @@
+name: LOTR001 master (music fetch + VO + mix + render + Drive upload)
+# Trigger: bump projects/dune_archives/22_edit/LOTR001/master_trigger.txt
+# Drive: one-time resumable session URI in 22_edit/LOTR001/.ci_upload_session (removed after use)
+on:
+  push:
+    branches: [arena/e01ea136-wan2-2]
+    paths: ['projects/dune_archives/22_edit/LOTR001/master_trigger.txt']
+permissions:
+  contents: write
+concurrency: {group: lotr001-master, cancel-in-progress: false}
+jobs:
+  master:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    env: {EP: LOTR001}
+    defaults:
+      run: {shell: 'bash -eo pipefail {0}'}
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: arena/e01ea136-wan2-2}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: pip install --quiet opencv-python-headless numpy pillow imageio-ffmpeg
+      - name: fetch music (Kevin MacLeod, CC BY 4.0)
+        run: |
+          cd projects/dune_archives
+          L=22_edit/LOTR001/ci_master_log.txt; : > $L
+          which ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+          python tools/ci_fetch_assets.py music 2>&1 | tail -20 | tee -a $L
+          ls -la 21_music/LOTR001/tracks | tee -a $L
+      - name: VO + mix
+        run: |
+          cd projects/dune_archives
+          L=22_edit/LOTR001/ci_master_log.txt
+          python tools/v2_timeline.py --wav /tmp/vo.wav 2>&1 | tail -15 | tee -a $L
+          python tools/mix_music.py 21_music/LOTR001/LOTR001_MUSIC_EDL.json /tmp/vo.wav /tmp/mix.wav --dur $(python -c "import json;print(json.load(open('22_edit/LOTR001/LOTR001_timeline.json'))['duration'])") 2>&1 | tail -15 | tee -a $L
+          FF=$(python -c "import imageio_ffmpeg;print(imageio_ffmpeg.get_ffmpeg_exe())")
+          $FF -y -v error -i /tmp/mix.wav -c:a aac -b:a 192k 22_edit/LOTR001/LOTR001_MIX.m4a
+      - name: render 1080p master
+        run: |
+          cd projects/dune_archives
+          L=22_edit/LOTR001/ci_master_log.txt
+          python tools/render_v2.py --audio /tmp/mix.wav --out /tmp/LOTR001_MASTER_1080p.mp4 \
+            --res 1920x1080 --crf 19 --abr 320k --workdir /tmp/r1 --jobs 4 2>&1 | tail -8 | tee -a $L
+          ls -la /tmp/LOTR001_MASTER_1080p.mp4 | tee -a $L
+          FF=$(python -c "import imageio_ffmpeg;print(imageio_ffmpeg.get_ffmpeg_exe())")
+          $FF -hide_banner -i /tmp/LOTR001_MASTER_1080p.mp4 2>&1 | grep -E "Duration|Stream" | tee -a $L || true
+          $FF -hide_banner -nostats -i /tmp/LOTR001_MASTER_1080p.mp4 -vn -af ebur128=peak=true -f null - 2>&1 | tail -12 | tee -a $L
+          for t in 30 101 228 327 541 662 724; do $FF -v error -y -ss $t -i /tmp/LOTR001_MASTER_1080p.mp4 -frames:v 1 -vf scale=640:-1 22_edit/LOTR001/ci_qc_$t.jpg || true; done
+      - name: upload to Drive
+        run: |
+          cd projects/dune_archives
+          python tools/ci_drive_upload.py /tmp/LOTR001_MASTER_1080p.mp4 22_edit/LOTR001/.ci_upload_session > 22_edit/LOTR001/ci_upload_result.json 2>> 22_edit/LOTR001/ci_master_log.txt || echo "UPLOAD FAILED" >> 22_edit/LOTR001/ci_master_log.txt
+      - name: commit log + mix (and drop the one-time session URI)
+        if: always()
+        run: |
+          git rm -q --cached projects/dune_archives/22_edit/LOTR001/.ci_upload_session || true
+          rm -f projects/dune_archives/22_edit/LOTR001/.ci_upload_session
+          git config user.name "lotr001-ci"; git config user.email "lotr001-ci@users.noreply.github.com"
+          git add -A projects/dune_archives/22_edit/LOTR001
+          git commit -m "ci: LOTR001 master render + Drive upload log" || exit 0
+          ok=0; for i in 1 2 3; do git pull --rebase --autostash -q origin arena/e01ea136-wan2-2 && git push origin HEAD:arena/e01ea136-wan2-2 && { ok=1; break; }; sleep 5; done; test $ok = 1

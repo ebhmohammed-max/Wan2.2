@@ -611,7 +611,10 @@ def _end(e, lt, k, W, H):
         im = Image.new('RGBA', (int(1100 * k), int(220 * k)), (0, 0, 0, 0))
         d = ImageDraw.Draw(im)
         put(d, 0, 44 * k, p['kicker'], font('mont', 24 * k, 640), GOLD, tr=12 * k)
-        put(d, 0, 132 * k, p['title'], font('cinzel', 78 * k, 800), IVORY, tr=3 * k)
+        ts = 78
+        while ts > 44 and tw(p['title'], font('cinzel', ts * k, 800), 3 * k) > 1085 * k:   # auto-fit long titles
+            ts -= 2
+        put(d, 0, 132 * k, p['title'], font('cinzel', ts * k, 800), IVORY, tr=3 * k)
         d.line((0, 158 * k, 160 * k, 158 * k), fill=GOLD + (230,), width=max(1, int(2 * k)))
         put(d, 0, 200 * k, p.get('sub', 'Record 004  ·  coming to the archive'), font('corm', 34 * k, 560), DIM)
         c['next'] = shadow(im, r=8 * k, op=0.9)

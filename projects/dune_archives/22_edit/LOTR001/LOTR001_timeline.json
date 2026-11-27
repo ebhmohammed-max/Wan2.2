@@ -1,0 +1,11342 @@
+{
+"episode": "LOTR001",
+"version": "v2",
+"duration": 726.24,
+"fps": 24,
+"ident": [
+31.32,
+35.92
+],
+"sections": {
+"H": {
+"gap_start": 0.45,
+"start": 0.45,
+"end": 30.27,
+"last_word_end": 29.92,
+"num": null,
+"name": "Hook"
+},
+"P": {
+"gap_start": 35.92,
+"start": 35.92,
+"end": 85.26,
+"last_word_end": 84.91,
+"num": null,
+"name": "Prologue: The Council of Elrond"
+},
+"I": {
+"gap_start": 85.26,
+"start": 87.66,
+"end": 146.51,
+"last_word_end": 146.16,
+"num": "I",
+"name": "The Smith's Apprentice"
+},
+"II": {
+"gap_start": 146.51,
+"start": 148.91,
+"end": 208.06,
+"last_word_end": 207.71,
+"num": "II",
+"name": "The Admirable and the Abhorred"
+},
+"CA": {
+"gap_start": 208.06,
+"start": 209.06,
+"end": 220.51,
+"last_word_end": 220.16,
+"num": null,
+"name": "Subscribe"
+},
+"III": {
+"gap_start": 221.11,
+"start": 223.51,
+"end": 303.67,
+"last_word_end": 303.32,
+"num": "III",
+"name": "The Isle of Werewolves"
+},
+"IV": {
+"gap_start": 303.67,
+"start": 306.07,
+"end": 373.31,
+"last_word_end": 372.96,
+"num": "IV",
+"name": "L\u00fathien and the Hound"
+},
+"V": {
+"gap_start": 373.31,
+"start": 375.71,
+"end": 435.74,
+"last_word_end": 435.39,
+"num": "V",
+"name": "The Door Back"
+},
+"VI": {
+"gap_start": 435.74,
+"start": 438.14,
+"end": 532.82,
+"last_word_end": 532.47,
+"num": "VI",
+"name": "The Lord of Gifts"
+},
+"VII": {
+"gap_start": 532.82,
+"start": 535.22,
+"end": 605.67,
+"last_word_end": 605.32,
+"num": "VII",
+"name": "The Drowning of N\u00famenor"
+},
+"VIII": {
+"gap_start": 605.67,
+"start": 608.07,
+"end": 682.51,
+"last_word_end": 682.16,
+"num": "VIII",
+"name": "Four Fingers on the Black Hand"
+},
+"CB": {
+"gap_start": 682.51,
+"start": 683.71,
+"end": 720.59,
+"last_word_end": 720.24,
+"num": null,
+"name": "Outro"
+}
+},
+"shots": [
+{
+"t0": 0.0,
+"key": "B002S011",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "On screen,",
+"t1": 2.52
+},
+{
+"t0": 2.52,
+"key": "B002S012",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "A great",
+"t1": 8.02
+},
+{
+"t0": 8.02,
+"key": "B002S013",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "But the",
+"t1": 10.64
+},
+{
+"t0": 10.64,
+"key": "B001S007",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "In the",
+"t1": 17.76
+},
+{
+"t0": 17.76,
+"key": "B002S014",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "Even Sauron",
+"t1": 20.14
+},
+{
+"t0": 20.14,
+"key": "B002S015",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "Before the",
+"t1": 25.01
+},
+{
+"t0": 25.01,
+"key": "B001S001",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "A name",
+"t1": 27.22
+},
+{
+"t0": 27.22,
+"key": "B002S016",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "So who",
+"t1": 31.32
+},
+{
+"t0": 31.32,
+"key": "B015S150",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IDENT",
+"anchor": "(ident)",
+"t1": 35.92
+},
+{
+"t0": 35.92,
+"key": "B002S017",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "In Rivendell,",
+"t1": 40.68
+},
+{
+"t0": 40.68,
+"key": "B002S018",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "Elves, Dwarves,",
+"t1": 42.58
+},
+{
+"t0": 42.58,
+"key": "B002S019",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "and a third",
+"t1": 46.0
+},
+{
+"t0": 46.0,
+"key": "B002S020",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "Frodo holds",
+"t1": 48.4
+},
+{
+"t0": 48.4,
+"key": "B003S021",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "Plain, smooth,",
+"t1": 52.5
+},
+{
+"t0": 52.5,
+"key": "B003S022",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "A man",
+"t1": 56.81
+},
+{
+"t0": 56.81,
+"key": "B003S023",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "And Elrond",
+"t1": 58.81
+},
+{
+"t0": 58.81,
+"key": "B003S024",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "Whoever wields",
+"t1": 63.14
+},
+{
+"t0": 63.14,
+"key": "B003S025",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "\"For nothing",
+"t1": 69.86
+},
+{
+"t0": 69.86,
+"key": "B002S017",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "It is",
+"t1": 73.88
+},
+{
+"t0": 73.88,
+"key": "B003S026",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "But the",
+"t1": 76.09
+},
+{
+"t0": 76.09,
+"key": "B001S010",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "They tell",
+"t1": 80.59
+},
+{
+"t0": 80.59,
+"key": "B003S027",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "And it",
+"t1": 85.26
+},
+{
+"t0": 85.26,
+"key": "B003S028",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "Before the",
+"t1": 90.54
+},
+{
+"t0": 90.54,
+"key": "B003S029",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "The greatest",
+"t1": 93.94
+},
+{
+"t0": 93.94,
+"key": "B003S030",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "Beneath them",
+"t1": 100.26
+},
+{
+"t0": 100.26,
+"key": "B001S009",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "One of",
+"t1": 103.17
+},
+{
+"t0": 103.17,
+"key": "B004S031",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "He shaped",
+"t1": 107.77
+},
+{
+"t0": 107.77,
+"key": "B004S032",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "He loved",
+"t1": 111.45
+},
+{
+"t0": 111.45,
+"key": "B004S033",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "Among the",
+"t1": 114.98
+},
+{
+"t0": 114.98,
+"key": "B004S034",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "The books",
+"t1": 121.08
+},
+{
+"t0": 121.08,
+"key": "B004S035",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "In notes",
+"t1": 126.1
+},
+{
+"t0": 126.1,
+"key": "B001S001",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "Mairon.",
+"t1": 131.39
+},
+{
+"t0": 131.39,
+"key": "B004S036",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "His gift",
+"t1": 133.36
+},
+{
+"t0": 133.36,
+"key": "B004S037",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "He loved",
+"t1": 138.18
+},
+{
+"t0": 138.18,
+"key": "B004S038",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "He disliked",
+"t1": 142.46
+},
+{
+"t0": 142.46,
+"key": "B004S039",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "And according",
+"t1": 146.51
+},
+{
+"t0": 146.51,
+"key": "B004S040",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "Among the",
+"t1": 152.05
+},
+{
+"t0": 152.05,
+"key": "B005S041",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "Melkor, the",
+"t1": 158.01
+},
+{
+"t0": 158.01,
+"key": "B005S042",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "The others",
+"t1": 162.98
+},
+{
+"t0": 162.98,
+"key": "B005S043",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "To a",
+"t1": 166.93
+},
+{
+"t0": 166.93,
+"key": "B005S044",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "Melkor looked",
+"t1": 169.79
+},
+{
+"t0": 169.79,
+"key": "B005S045",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "That, the",
+"t1": 173.23
+},
+{
+"t0": 173.23,
+"key": "B005S046",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "Not cruelty.",
+"t1": 177.54
+},
+{
+"t0": 177.54,
+"key": "B005S047",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "In the",
+"t1": 181.68
+},
+{
+"t0": 181.68,
+"key": "B005S048",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "The smith's",
+"t1": 187.23
+},
+{
+"t0": 187.23,
+"key": "B005S049",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "Melkor became",
+"t1": 190.74
+},
+{
+"t0": 190.74,
+"key": "B005S050",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "And Mairon",
+"t1": 194.2
+},
+{
+"t0": 194.2,
+"key": "B001S003",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "Sauron.",
+"t1": 199.81
+},
+{
+"t0": 199.81,
+"key": "B006S051",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "The books",
+"t1": 204.97
+},
+{
+"t0": 204.97,
+"key": "B006S052",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "For a",
+"t1": 208.06
+},
+{
+"t0": 208.06,
+"key": "B006S053",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CA",
+"anchor": "If you",
+"t1": 215.44
+},
+{
+"t0": 215.44,
+"key": "B006S054",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CA",
+"anchor": "Because the",
+"t1": 221.11
+},
+{
+"t0": 221.11,
+"key": "B006S055",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "In the",
+"t1": 229.55
+},
+{
+"t0": 229.55,
+"key": "B006S056",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "Sauron took",
+"t1": 230.88
+},
+{
+"t0": 230.88,
+"key": "B006S057",
+"recipe": "PAN_RL",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "Fear went",
+"t1": 233.74
+},
+{
+"t0": 233.74,
+"key": "B006S058",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "The fair",
+"t1": 238.5
+},
+{
+"t0": 238.5,
+"key": "B006S059",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "The books",
+"t1": 245.08
+},
+{
+"t0": 245.08,
+"key": "B006S060",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "misshaping what",
+"t1": 248.38
+},
+{
+"t0": 248.38,
+"key": "B007S061",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "Lord of",
+"t1": 250.79
+},
+{
+"t0": 250.79,
+"key": "B007S062",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "But his",
+"t1": 253.79
+},
+{
+"t0": 253.79,
+"key": "B007S063",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "He lured",
+"t1": 258.61
+},
+{
+"t0": 258.61,
+"key": "B007S064",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "and promised",
+"t1": 263.33
+},
+{
+"t0": 263.33,
+"key": "B007S065",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "Gorlim broke.",
+"t1": 267.81
+},
+{
+"t0": 267.81,
+"key": "B007S066",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "One day,",
+"t1": 272.21
+},
+{
+"t0": 272.21,
+"key": "B007S067",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "Sauron had",
+"t1": 273.87
+},
+{
+"t0": 273.87,
+"key": "B007S068",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "They were",
+"t1": 275.39
+},
+{
+"t0": 275.39,
+"key": "B001S005",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "They were",
+"t1": 279.17
+},
+{
+"t0": 279.17,
+"key": "B007S069",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "and a mortal",
+"t1": 281.71
+},
+{
+"t0": 281.71,
+"key": "B007S070",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "Finrod and",
+"t1": 288.56
+},
+{
+"t0": 288.56,
+"key": "B008S071",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "Sauron sang",
+"t1": 292.66
+},
+{
+"t0": 292.66,
+"key": "B008S072",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "Finrod sang",
+"t1": 299.34
+},
+{
+"t0": 299.34,
+"key": "B008S071",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "Sauron was",
+"t1": 301.14
+},
+{
+"t0": 301.14,
+"key": "B008S073",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "And Felagund",
+"t1": 303.67
+},
+{
+"t0": 303.67,
+"key": "B008S074",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "The prisoners",
+"t1": 308.33
+},
+{
+"t0": 308.33,
+"key": "B008S075",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "One by",
+"t1": 315.42
+},
+{
+"t0": 315.42,
+"key": "B008S076",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "the Elf-king",
+"t1": 319.36
+},
+{
+"t0": 319.36,
+"key": "B008S077",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "He saved",
+"t1": 322.96
+},
+{
+"t0": 322.96,
+"key": "B008S078",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "Then, from",
+"t1": 325.82
+},
+{
+"t0": 325.82,
+"key": "B001S004",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "L\u00fathien had",
+"t1": 327.2
+},
+{
+"t0": 327.2,
+"key": "B008S079",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "Her robe",
+"t1": 332.36
+},
+{
+"t0": 332.36,
+"key": "B008S080",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "her hair",
+"t1": 335.48
+},
+{
+"t0": 335.48,
+"key": "B001S008",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "Beside her",
+"t1": 340.32
+},
+{
+"t0": 340.32,
+"key": "B009S081",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "Sauron sent",
+"t1": 343.08
+},
+{
+"t0": 343.08,
+"key": "B009S082",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "and Huan",
+"t1": 345.88
+},
+{
+"t0": 345.88,
+"key": "B009S083",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "So Sauron",
+"t1": 351.78
+},
+{
+"t0": 351.78,
+"key": "B009S084",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "L\u00fathien cast",
+"t1": 356.02
+},
+{
+"t0": 356.02,
+"key": "B009S085",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "And Huan",
+"t1": 358.19
+},
+{
+"t0": 358.19,
+"key": "B009S086",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "Wolf, serpent,",
+"t1": 364.48
+},
+{
+"t0": 364.48,
+"key": "B009S087",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "At last",
+"t1": 368.68
+},
+{
+"t0": 368.68,
+"key": "B009S088",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "He fled",
+"t1": 373.31
+},
+{
+"t0": 373.31,
+"key": "B009S089",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "At the",
+"t1": 380.41
+},
+{
+"t0": 380.41,
+"key": "B009S090",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "Morgoth's fortress",
+"t1": 384.92
+},
+{
+"t0": 384.92,
+"key": "B010S091",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "And Sauron",
+"t1": 389.1
+},
+{
+"t0": 389.1,
+"key": "B010S092",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "He put",
+"t1": 391.76
+},
+{
+"t0": 391.76,
+"key": "B010S093",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "bowed before",
+"t1": 396.22
+},
+{
+"t0": 396.22,
+"key": "B010S094",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "The books",
+"t1": 404.78
+},
+{
+"t0": 404.78,
+"key": "B010S095",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "The herald",
+"t1": 413.07
+},
+{
+"t0": 413.07,
+"key": "B010S096",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "And Sauron",
+"t1": 415.56
+},
+{
+"t0": 415.56,
+"key": "B010S097",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "Under Morgoth,",
+"t1": 422.27
+},
+{
+"t0": 422.27,
+"key": "B010S098",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "So he",
+"t1": 425.85
+},
+{
+"t0": 425.85,
+"key": "B010S099",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "for the bonds",
+"t1": 429.94
+},
+{
+"t0": 429.94,
+"key": "B010S100",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "This is",
+"t1": 433.31
+},
+{
+"t0": 433.31,
+"key": "B011S101",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "Not hatred.",
+"t1": 435.74
+},
+{
+"t0": 435.74,
+"key": "B011S102",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "He told",
+"t1": 442.72
+},
+{
+"t0": 442.72,
+"key": "B011S103",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "Someone had",
+"t1": 446.65
+},
+{
+"t0": 446.65,
+"key": "B011S104",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "In the",
+"t1": 450.08
+},
+{
+"t0": 450.08,
+"key": "B001S002",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "He was",
+"t1": 456.2
+},
+{
+"t0": 456.2,
+"key": "B011S105",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "The High",
+"t1": 459.84
+},
+{
+"t0": 459.84,
+"key": "B011S106",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "But in",
+"t1": 464.68
+},
+{
+"t0": 464.68,
+"key": "B001S006",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "Their lord",
+"t1": 471.77
+},
+{
+"t0": 471.77,
+"key": "B011S107",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "Annatar taught",
+"t1": 473.63
+},
+{
+"t0": 473.63,
+"key": "B011S108",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "And with",
+"t1": 477.51
+},
+{
+"t0": 477.51,
+"key": "B011S109",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "Then, in",
+"t1": 482.57
+},
+{
+"t0": 482.57,
+"key": "B011S110",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "One Ring,",
+"t1": 485.69
+},
+{
+"t0": 485.69,
+"key": "B012S111",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "Into it",
+"t1": 489.53
+},
+{
+"t0": 489.53,
+"key": "B012S112",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "But the",
+"t1": 491.99
+},
+{
+"t0": 491.99,
+"key": "B012S113",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "the Elves",
+"t1": 493.86
+},
+{
+"t0": 493.86,
+"key": "B012S114",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "They knew",
+"t1": 497.61
+},
+{
+"t0": 497.61,
+"key": "B012S115",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "In anger",
+"t1": 501.31
+},
+{
+"t0": 501.31,
+"key": "B012S116",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "Three rings",
+"t1": 509.23
+},
+{
+"t0": 509.23,
+"key": "B012S117",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "He took",
+"t1": 511.95
+},
+{
+"t0": 511.95,
+"key": "B012S118",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "and the lord",
+"t1": 516.41
+},
+{
+"t0": 516.41,
+"key": "B012S119",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "On television,",
+"t1": 527.49
+},
+{
+"t0": 527.49,
+"key": "B012S120",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "In the",
+"t1": 532.82
+},
+{
+"t0": 532.82,
+"key": "B013S121",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "Then came",
+"t1": 540.07
+},
+{
+"t0": 540.07,
+"key": "B013S122",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "Their king,",
+"t1": 546.21
+},
+{
+"t0": 546.21,
+"key": "B013S123",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "So Sauron",
+"t1": 551.73
+},
+{
+"t0": 551.73,
+"key": "B013S124",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "A prisoner.",
+"t1": 553.19
+},
+{
+"t0": 553.19,
+"key": "B013S125",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "Within three",
+"t1": 556.55
+},
+{
+"t0": 556.55,
+"key": "B013S126",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "He had",
+"t1": 558.79
+},
+{
+"t0": 558.79,
+"key": "B013S127",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "and raised",
+"t1": 563.03
+},
+{
+"t0": 563.03,
+"key": "B013S128",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "At last",
+"t1": 570.63
+},
+{
+"t0": 570.63,
+"key": "B013S129",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "And the",
+"t1": 572.69
+},
+{
+"t0": 572.69,
+"key": "B013S130",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "The sea",
+"t1": 576.89
+},
+{
+"t0": 576.89,
+"key": "B013S127",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "Sauron was",
+"t1": 579.61
+},
+{
+"t0": 579.61,
+"key": "B014S131",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "His body",
+"t1": 584.91
+},
+{
+"t0": 584.91,
+"key": "B014S132",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "But he",
+"t1": 587.54
+},
+{
+"t0": 587.54,
+"key": "B001S010",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "The books",
+"t1": 593.36
+},
+{
+"t0": 593.36,
+"key": "B004S035",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "And the",
+"t1": 596.81
+},
+{
+"t0": 596.81,
+"key": "B001S001",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "Until the",
+"t1": 602.76
+},
+{
+"t0": 602.76,
+"key": "B014S133",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "After the",
+"t1": 605.67
+},
+{
+"t0": 605.67,
+"key": "B014S134",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "He rebuilt.",
+"t1": 609.93
+},
+{
+"t0": 609.93,
+"key": "B014S135",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "When the",
+"t1": 616.79
+},
+{
+"t0": 616.79,
+"key": "B014S136",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "and both",
+"t1": 618.99
+},
+{
+"t0": 618.99,
+"key": "B014S137",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "Then Isildur",
+"t1": 622.51
+},
+{
+"t0": 622.51,
+"key": "B014S138",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "Isildur wrote",
+"t1": 627.49
+},
+{
+"t0": 627.49,
+"key": "B002S013",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "And here,",
+"t1": 630.87
+},
+{
+"t0": 630.87,
+"key": "B002S011",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "On screen,",
+"t1": 637.29
+},
+{
+"t0": 637.29,
+"key": "B014S139",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "In the",
+"t1": 643.31
+},
+{
+"t0": 643.31,
+"key": "B014S140",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "and the Eye",
+"t1": 647.39
+},
+{
+"t0": 647.39,
+"key": "B001S010",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "The books'",
+"t1": 650.13
+},
+{
+"t0": 650.13,
+"key": "B015S141",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "In the",
+"t1": 653.49
+},
+{
+"t0": 653.49,
+"key": "B015S142",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "whispers to",
+"t1": 659.19
+},
+{
+"t0": 659.19,
+"key": "B015S143",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "Four fingers.",
+"t1": 667.08
+},
+{
+"t0": 667.08,
+"key": "B015S144",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "And when",
+"t1": 670.36
+},
+{
+"t0": 670.36,
+"key": "B015S145",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "a huge",
+"t1": 678.42
+},
+{
+"t0": 678.42,
+"key": "B015S146",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIII",
+"anchor": "Then a",
+"t1": 682.51
+},
+{
+"t0": 682.51,
+"key": "B002S016",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "So, who",
+"t1": 687.89
+},
+{
+"t0": 687.89,
+"key": "B001S001",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "He was",
+"t1": 690.58
+},
+{
+"t0": 690.58,
+"key": "B015S147",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "A craftsman",
+"t1": 697.04
+},
+{
+"t0": 697.04,
+"key": "B010S100",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "He was",
+"t1": 703.24
+},
+{
+"t0": 703.24,
+"key": "B002S014",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "Nothing is",
+"t1": 705.8
+},
+{
+"t0": 705.8,
+"key": "B015S148",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "Could he",
+"t1": 711.64
+},
+{
+"t0": 711.64,
+"key": "B015S149",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "Tell us",
+"t1": 715.64
+},
+{
+"t0": 715.64,
+"key": "B015S150",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "and subscribe",
+"t1": 726.24
+}
+],
+"graphics": [
+{
+"kind": "TITLE",
+"t0": 27.23,
+"t1": 31.67,
+"p": {
+"kicker": "THE MYTHIC ARCHIVES PRESENTS",
+"title": "SAURON",
+"sub": "Who Was He Before He Was Evil?"
+}
+},
+{
+"kind": "IDENT",
+"t0": 31.32,
+"t1": 35.92,
+"p": {
+"title": "THE MYTHIC ARCHIVES",
+"tag": "WESTEROS  \u2022  ARRAKIS  \u2022  MIDDLE-EARTH",
+"sub": "A MYTHIC ARCHIVES PRODUCTION  \u00b7  MIDDLE-EARTH  \u00b7  RECORD 001"
+}
+},
+{
+"kind": "PLACE",
+"t0": 35.99,
+"t1": 39.99,
+"p": {
+"place": "RIVENDELL",
+"sub": "The house of Elrond \u00b7 Third Age 3018"
+}
+},
+{
+"kind": "NAME",
+"t0": 56.82,
+"t1": 60.02,
+"p": {
+"name": "ELROND",
+"role": "Lord of Rivendell"
+}
+},
+{
+"kind": "NOTE",
+"t0": 63.15,
+"t1": 67.55,
+"p": {
+"head": "IN THE BOOKS",
+"body": "The Fellowship of the Ring, Book II, Chapter 2: The Council of Elrond."
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 85.26,
+"t1": 88.56,
+"p": {
+"num": "I",
+"title": "The Smith's Apprentice"
+}
+},
+{
+"kind": "NAME",
+"t0": 100.27,
+"t1": 103.47,
+"p": {
+"name": "AUL\u00cb",
+"role": "Vala \u00b7 the Smith"
+}
+},
+{
+"kind": "NOTE",
+"t0": 121.09,
+"t1": 125.69,
+"p": {
+"head": "LATE NOTES",
+"body": "The name Mairon comes from late notes, published long after The Silmarillion."
+}
+},
+{
+"kind": "NAME",
+"t0": 126.11,
+"t1": 129.51,
+"p": {
+"name": "MAIRON",
+"role": "Maia of Aul\u00eb \u00b7 the Admirable"
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 146.51,
+"t1": 149.81,
+"p": {
+"num": "II",
+"title": "The Admirable and the Abhorred"
+}
+},
+{
+"kind": "NAME",
+"t0": 152.06,
+"t1": 155.46,
+"p": {
+"name": "MELKOR",
+"role": "Mightiest of the Valar"
+}
+},
+{
+"kind": "NAME",
+"t0": 194.21,
+"t1": 196.71,
+"p": {
+"name": "SAURON",
+"role": "The Abhorred"
+}
+},
+{
+"kind": "NAME",
+"t0": 196.76,
+"t1": 200.16,
+"p": {
+"name": "GORTHAUR THE CRUEL",
+"role": "His name among the Grey Elves"
+}
+},
+{
+"kind": "SUB",
+"t0": 209.13,
+"t1": 220.66,
+"p": {
+"click_at": 3.79
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 221.11,
+"t1": 224.41,
+"p": {
+"num": "III",
+"title": "The Isle of Werewolves"
+}
+},
+{
+"kind": "PLACE",
+"t0": 226.14,
+"t1": 230.14,
+"p": {
+"place": "TOL SIRION",
+"sub": "Finrod's white tower \u00b7 the river Sirion"
+}
+},
+{
+"kind": "PLACE",
+"t0": 233.75,
+"t1": 237.75,
+"p": {
+"place": "TOL-IN-GAURHOTH",
+"sub": "The Isle of Werewolves"
+}
+},
+{
+"kind": "NAME",
+"t0": 254.36,
+"t1": 257.56,
+"p": {
+"name": "GORLIM THE UNHAPPY",
+"role": "Outlaw of Dorthonion"
+}
+},
+{
+"kind": "NAME",
+"t0": 275.4,
+"t1": 278.0,
+"p": {
+"name": "FINROD FELAGUND",
+"role": "King of Nargothrond"
+}
+},
+{
+"kind": "NAME",
+"t0": 279.3,
+"t1": 282.1,
+"p": {
+"name": "BEREN",
+"role": "Son of Barahir"
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 303.67,
+"t1": 306.97,
+"p": {
+"num": "IV",
+"title": "L\u00fathien and the Hound"
+}
+},
+{
+"kind": "NAME",
+"t0": 325.83,
+"t1": 329.23,
+"p": {
+"name": "L\u00daTHIEN",
+"role": "Daughter of Thingol and Melian"
+}
+},
+{
+"kind": "NAME",
+"t0": 335.49,
+"t1": 338.69,
+"p": {
+"name": "HUAN",
+"role": "The Hound of Valinor"
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 373.31,
+"t1": 376.61,
+"p": {
+"num": "V",
+"title": "The Door Back"
+}
+},
+{
+"kind": "YEAR",
+"t0": 377.48,
+"t1": 381.08,
+"p": {
+"year": "FIRST AGE 587",
+"sub": "The War of Wrath"
+}
+},
+{
+"kind": "NOTE",
+"t0": 398.53,
+"t1": 403.33,
+"p": {
+"head": "IN THE BOOKS",
+"body": "\"Some hold that this was not falsely done.\" Of the Rings of Power and the Third Age."
+}
+},
+{
+"kind": "NAME",
+"t0": 404.79,
+"t1": 407.99,
+"p": {
+"name": "E\u00d6NW\u00cb",
+"role": "Herald of Manw\u00eb"
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 435.74,
+"t1": 439.04,
+"p": {
+"num": "VI",
+"title": "The Lord of Gifts"
+}
+},
+{
+"kind": "YEAR",
+"t0": 446.66,
+"t1": 450.06,
+"p": {
+"year": "SECOND AGE 1200",
+"sub": "Annatar comes to the Elves"
+}
+},
+{
+"kind": "NAME",
+"t0": 452.61,
+"t1": 456.01,
+"p": {
+"name": "ANNATAR",
+"role": "The Lord of Gifts"
+}
+},
+{
+"kind": "NAME",
+"t0": 456.21,
+"t1": 459.41,
+"p": {
+"name": "GIL-GALAD",
+"role": "High King of the Noldor"
+}
+},
+{
+"kind": "PLACE",
+"t0": 459.85,
+"t1": 463.65,
+"p": {
+"place": "EREGION",
+"sub": "Beside the West-gate of Moria"
+}
+},
+{
+"kind": "NAME",
+"t0": 464.69,
+"t1": 468.29,
+"p": {
+"name": "CELEBRIMBOR",
+"role": "Lord of Eregion \u00b7 grandson of F\u00ebanor"
+}
+},
+{
+"kind": "YEAR",
+"t0": 477.52,
+"t1": 481.12,
+"p": {
+"year": "SECOND AGE 1600",
+"sub": "The One Ring forged in Orodruin"
+}
+},
+{
+"kind": "NOTE",
+"t0": 516.42,
+"t1": 521.42,
+"p": {
+"head": "THE SHOW",
+"body": "Halbrand appears only in The Rings of Power on Prime Video, not in the books."
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 532.82,
+"t1": 536.12,
+"p": {
+"num": "VII",
+"title": "The Drowning of N\u00famenor"
+}
+},
+{
+"kind": "NAME",
+"t0": 540.08,
+"t1": 543.68,
+"p": {
+"name": "AR-PHARAZ\u00d4N",
+"role": "The Golden \u00b7 last King of N\u00famenor"
+}
+},
+{
+"kind": "YEAR",
+"t0": 546.22,
+"t1": 549.62,
+"p": {
+"year": "SECOND AGE 3262",
+"sub": "Sauron taken to N\u00famenor"
+}
+},
+{
+"kind": "YEAR",
+"t0": 572.7,
+"t1": 576.1,
+"p": {
+"year": "SECOND AGE 3319",
+"sub": "The Downfall of N\u00famenor"
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 605.67,
+"t1": 608.97,
+"p": {
+"num": "VIII",
+"title": "Four Fingers on the Black Hand"
+}
+},
+{
+"kind": "YEAR",
+"t0": 609.94,
+"t1": 613.54,
+"p": {
+"year": "SECOND AGE 3441",
+"sub": "The Last Alliance \u00b7 end of the Second Age"
+}
+},
+{
+"kind": "NAME",
+"t0": 619.0,
+"t1": 622.0,
+"p": {
+"name": "ISILDUR",
+"role": "Son of Elendil"
+}
+},
+{
+"kind": "NOTE",
+"t0": 627.5,
+"t1": 632.9,
+"p": {
+"head": "FILMS VS BOOKS",
+"body": "On screen, the Eye is Sauron himself. In the books, it is his emblem, and he has a body."
+}
+},
+{
+"kind": "STAT",
+"t0": 659.2,
+"t1": 662.2,
+"p": {
+"value": 4,
+"label": "FINGERS ON THE BLACK HAND",
+"sub": ""
+}
+},
+{
+"kind": "YEAR",
+"t0": 667.09,
+"t1": 670.49,
+"p": {
+"year": "THIRD AGE 3019",
+"sub": "25 March \u00b7 the Ring is destroyed"
+}
+},
+{
+"kind": "END",
+"t0": 683.66,
+"t1": 726.24,
+"p": {
+"kicker": "WATCH NEXT",
+"title": "THE WITCH-KING OF ANGMAR",
+"brand": "A MYTHIC ARCHIVES PRODUCTION",
+"sub": "Who Was He?  \u00b7  coming to the archive",
+"q": "ADMIRABLE \u2014 OR ABHORRED?",
+"q_at": 0.05,
+"comment_at": 28.68,
+"like_at": 29.82,
+"sub_at": 32.58
+}
+}
+],
+"words": [
+[
+"On",
+0.45,
+0.65
+],
+[
+"screen,",
+0.65,
+1.09
+],
+[
+"he",
+1.31,
+1.47
+],
+[
+"is",
+1.47,
+1.59
+],
+[
+"an",
+1.59,
+1.77
+],
+[
+"eye.",
+1.77,
+2.03
+],
+[
+"A",
+2.58,
+2.76
+],
+[
+"great",
+2.76,
+3.06
+],
+[
+"eye",
+3.06,
+3.36
+],
+[
+"of",
+3.36,
+3.54
+],
+[
+"fire,",
+3.54,
+3.96
+],
+[
+"burning",
+4.22,
+4.56
+],
+[
+"on",
+4.56,
+4.88
+],
+[
+"top",
+4.88,
+5.16
+],
+[
+"of",
+5.16,
+5.34
+],
+[
+"a",
+5.34,
+5.46
+],
+[
+"black",
+5.46,
+5.72
+],
+[
+"tower,",
+5.72,
+6.16
+],
+[
+"watching",
+6.44,
+6.86
+],
+[
+"everything.",
+6.86,
+7.4
+],
+[
+"But",
+8.08,
+8.34
+],
+[
+"the",
+8.34,
+8.46
+],
+[
+"books",
+8.46,
+8.64
+],
+[
+"tell",
+8.64,
+8.88
+],
+[
+"a",
+8.88,
+9.02
+],
+[
+"very",
+9.02,
+9.2
+],
+[
+"different",
+9.2,
+9.5
+],
+[
+"story.",
+9.5,
+9.98
+],
+[
+"In",
+10.7,
+10.94
+],
+[
+"the",
+10.94,
+11.06
+],
+[
+"books,",
+11.06,
+11.24
+],
+[
+"one",
+11.42,
+11.58
+],
+[
+"of",
+11.58,
+11.7
+],
+[
+"the",
+11.7,
+11.84
+],
+[
+"wisest",
+11.84,
+12.36
+],
+[
+"Elves",
+12.36,
+12.62
+],
+[
+"in",
+12.62,
+12.88
+],
+[
+"Middle-earth",
+12.88,
+13.32
+],
+[
+"says",
+13.32,
+13.62
+],
+[
+"something",
+13.62,
+14.0
+],
+[
+"strange",
+14.0,
+14.4
+],
+[
+"about",
+14.4,
+14.74
+],
+[
+"him.",
+14.74,
+14.96
+],
+[
+"\"For",
+15.51,
+15.77
+],
+[
+"nothing",
+15.77,
+16.09
+],
+[
+"is",
+16.09,
+16.43
+],
+[
+"evil",
+16.43,
+16.69
+],
+[
+"in",
+16.69,
+16.89
+],
+[
+"the",
+16.89,
+16.97
+],
+[
+"beginning.",
+16.97,
+17.27
+],
+[
+"Even",
+17.82,
+18.1
+],
+[
+"Sauron",
+18.1,
+18.64
+],
+[
+"was",
+18.64,
+18.84
+],
+[
+"not",
+18.84,
+19.12
+],
+[
+"so.\"",
+19.12,
+19.42
+],
+[
+"Before",
+20.2,
+20.62
+],
+[
+"the",
+20.62,
+20.82
+],
+[
+"Dark",
+20.82,
+21.06
+],
+[
+"Lord,",
+21.06,
+21.34
+],
+[
+"before",
+21.74,
+22.0
+],
+[
+"the",
+22.0,
+22.22
+],
+[
+"Ring,",
+22.22,
+22.46
+],
+[
+"before",
+22.66,
+22.9
+],
+[
+"the",
+22.9,
+23.08
+],
+[
+"Eye,",
+23.08,
+23.38
+],
+[
+"he",
+23.62,
+23.72
+],
+[
+"had",
+23.72,
+23.88
+],
+[
+"another",
+23.88,
+24.16
+],
+[
+"name.",
+24.16,
+24.52
+],
+[
+"A",
+25.07,
+25.33
+],
+[
+"name",
+25.33,
+25.55
+],
+[
+"that",
+25.55,
+25.77
+],
+[
+"meant",
+25.77,
+26.07
+],
+[
+"admirable.",
+26.07,
+26.73
+],
+[
+"So",
+27.28,
+27.56
+],
+[
+"who",
+27.56,
+27.82
+],
+[
+"was",
+27.82,
+28.12
+],
+[
+"Sauron,",
+28.12,
+28.74
+],
+[
+"before",
+28.74,
+29.2
+],
+[
+"he",
+29.2,
+29.44
+],
+[
+"was",
+29.44,
+29.6
+],
+[
+"evil?",
+29.6,
+29.92
+],
+[
+"In",
+36.04,
+36.3
+],
+[
+"Rivendell,",
+36.3,
+36.84
+],
+[
+"in",
+37.04,
+37.12
+],
+[
+"the",
+37.12,
+37.24
+],
+[
+"autumn,",
+37.24,
+37.6
+],
+[
+"a",
+37.94,
+38.08
+],
+[
+"council",
+38.08,
+38.38
+],
+[
+"gathers",
+38.38,
+38.76
+],
+[
+"in",
+38.76,
+39.06
+],
+[
+"the",
+39.06,
+39.12
+],
+[
+"house",
+39.12,
+39.3
+],
+[
+"of",
+39.3,
+39.52
+],
+[
+"Elrond.",
+39.52,
+39.92
+],
+[
+"Elves,",
+40.74,
+40.74
+],
+[
+"Dwarves,",
+41.0,
+41.2
+],
+[
+"Men,",
+41.48,
+41.6
+],
+[
+"two",
+41.84,
+41.96
+],
+[
+"hobbits,",
+41.96,
+42.4
+],
+[
+"and",
+42.64,
+42.76
+],
+[
+"a",
+42.76,
+42.9
+],
+[
+"third",
+42.9,
+43.14
+],
+[
+"hobbit",
+43.14,
+43.52
+],
+[
+"hiding",
+43.52,
+43.78
+],
+[
+"in",
+43.78,
+44.0
+],
+[
+"the",
+44.0,
+44.12
+],
+[
+"corner,",
+44.12,
+44.38
+],
+[
+"uninvited.",
+44.68,
+45.28
+],
+[
+"Frodo",
+46.06,
+46.32
+],
+[
+"holds",
+46.32,
+46.64
+],
+[
+"up",
+46.64,
+46.84
+],
+[
+"a",
+46.84,
+46.98
+],
+[
+"little",
+46.98,
+47.12
+],
+[
+"ring",
+47.12,
+47.34
+],
+[
+"of",
+47.34,
+47.56
+],
+[
+"gold.",
+47.56,
+47.86
+],
+[
+"Plain,",
+48.46,
+48.62
+],
+[
+"smooth,",
+48.94,
+49.26
+],
+[
+"and",
+49.68,
+49.88
+],
+[
+"the",
+49.88,
+49.96
+],
+[
+"most",
+49.96,
+50.14
+],
+[
+"dangerous",
+50.14,
+50.78
+],
+[
+"thing",
+50.78,
+51.14
+],
+[
+"in",
+51.14,
+51.32
+],
+[
+"the",
+51.32,
+51.42
+],
+[
+"world.",
+51.42,
+51.74
+],
+[
+"A",
+52.56,
+52.82
+],
+[
+"man",
+52.82,
+53.0
+],
+[
+"of",
+53.0,
+53.18
+],
+[
+"Gondor",
+53.18,
+53.58
+],
+[
+"asks:",
+53.58,
+54.0
+],
+[
+"why",
+54.54,
+54.7
+],
+[
+"not",
+54.7,
+54.92
+],
+[
+"use",
+54.92,
+55.26
+],
+[
+"it",
+55.26,
+55.46
+],
+[
+"against",
+55.46,
+55.8
+],
+[
+"the",
+55.8,
+56.04
+],
+[
+"Enemy?",
+56.04,
+56.32
+],
+[
+"And",
+56.87,
+57.07
+],
+[
+"Elrond",
+57.07,
+57.51
+],
+[
+"says",
+57.51,
+57.75
+],
+[
+"no.",
+57.75,
+58.15
+],
+[
+"Whoever",
+58.87,
+59.19
+],
+[
+"wields",
+59.19,
+59.85
+],
+[
+"it",
+59.85,
+59.99
+],
+[
+"will",
+59.99,
+60.41
+],
+[
+"only",
+60.41,
+60.89
+],
+[
+"become",
+60.89,
+61.29
+],
+[
+"the",
+61.29,
+61.53
+],
+[
+"next",
+61.53,
+61.89
+],
+[
+"Dark",
+61.89,
+62.29
+],
+[
+"Lord.",
+62.29,
+62.65
+],
+[
+"\"For",
+63.2,
+63.5
+],
+[
+"nothing",
+63.5,
+63.92
+],
+[
+"is",
+63.92,
+64.34
+],
+[
+"evil",
+64.34,
+64.66
+],
+[
+"in",
+64.66,
+64.92
+],
+[
+"the",
+64.92,
+65.04
+],
+[
+"beginning,\"",
+65.04,
+65.44
+],
+[
+"he",
+65.52,
+65.76
+],
+[
+"says.",
+65.76,
+66.04
+],
+[
+"\"Even",
+66.96,
+67.26
+],
+[
+"Sauron",
+67.26,
+67.88
+],
+[
+"was",
+67.88,
+68.08
+],
+[
+"not",
+68.08,
+68.32
+],
+[
+"so.\"",
+68.32,
+68.7
+],
+[
+"It",
+69.92,
+70.2
+],
+[
+"is",
+70.2,
+70.32
+],
+[
+"a",
+70.32,
+70.62
+],
+[
+"single",
+70.62,
+70.88
+],
+[
+"line,",
+70.88,
+71.3
+],
+[
+"and",
+71.56,
+71.66
+],
+[
+"the",
+71.66,
+71.82
+],
+[
+"story",
+71.82,
+72.18
+],
+[
+"moves",
+72.18,
+72.6
+],
+[
+"on.",
+72.6,
+73.02
+],
+[
+"But",
+73.94,
+74.16
+],
+[
+"the",
+74.16,
+74.3
+],
+[
+"books",
+74.3,
+74.5
+],
+[
+"never",
+74.5,
+74.84
+],
+[
+"forget",
+74.84,
+75.2
+],
+[
+"it.",
+75.2,
+75.6
+],
+[
+"They",
+76.15,
+76.39
+],
+[
+"tell",
+76.39,
+76.63
+],
+[
+"us",
+76.63,
+76.89
+],
+[
+"exactly",
+76.89,
+77.33
+],
+[
+"how",
+77.33,
+77.79
+],
+[
+"a",
+77.79,
+77.97
+],
+[
+"spirit",
+77.97,
+78.19
+],
+[
+"of",
+78.19,
+78.43
+],
+[
+"light",
+78.43,
+78.65
+],
+[
+"became",
+78.65,
+79.05
+],
+[
+"the",
+79.05,
+79.29
+],
+[
+"Dark",
+79.29,
+79.53
+],
+[
+"Lord.",
+79.53,
+79.85
+],
+[
+"And",
+80.65,
+80.85
+],
+[
+"it",
+80.85,
+81.11
+],
+[
+"begins",
+81.11,
+81.55
+],
+[
+"long",
+81.55,
+81.99
+],
+[
+"before",
+81.99,
+82.43
+],
+[
+"the",
+82.43,
+82.71
+],
+[
+"Sun,",
+82.71,
+82.95
+],
+[
+"in",
+83.73,
+83.99
+],
+[
+"a",
+83.99,
+84.39
+],
+[
+"forge.",
+84.39,
+84.91
+],
+[
+"Before",
+87.66,
+88.06
+],
+[
+"the",
+88.06,
+88.22
+],
+[
+"world",
+88.22,
+88.4
+],
+[
+"was",
+88.4,
+88.62
+],
+[
+"made,",
+88.62,
+88.98
+],
+[
+"there",
+89.34,
+89.44
+],
+[
+"were",
+89.44,
+89.64
+],
+[
+"spirits.",
+89.64,
+90.0
+],
+[
+"The",
+90.6,
+90.84
+],
+[
+"greatest",
+90.84,
+91.18
+],
+[
+"were",
+91.18,
+91.54
+],
+[
+"the",
+91.54,
+91.72
+],
+[
+"Valar,",
+91.72,
+92.18
+],
+[
+"the",
+92.34,
+92.46
+],
+[
+"powers",
+92.46,
+92.78
+],
+[
+"of",
+92.78,
+92.98
+],
+[
+"the",
+92.98,
+93.12
+],
+[
+"world.",
+93.12,
+93.42
+],
+[
+"Beneath",
+94.0,
+94.36
+],
+[
+"them",
+94.36,
+94.56
+],
+[
+"served",
+94.56,
+95.04
+],
+[
+"the",
+95.04,
+95.34
+],
+[
+"Maiar:",
+95.34,
+95.86
+],
+[
+"lesser",
+96.44,
+96.68
+],
+[
+"spirits,",
+96.68,
+97.26
+],
+[
+"but",
+97.8,
+97.92
+],
+[
+"mightier",
+97.92,
+98.44
+],
+[
+"than",
+98.44,
+98.72
+],
+[
+"any",
+98.72,
+99.04
+],
+[
+"king.",
+99.04,
+99.32
+],
+[
+"One",
+100.32,
+100.5
+],
+[
+"of",
+100.5,
+100.62
+],
+[
+"the",
+100.62,
+100.72
+],
+[
+"Valar",
+100.72,
+101.16
+],
+[
+"was",
+101.16,
+101.4
+],
+[
+"Aul\u00eb,",
+101.4,
+101.84
+],
+[
+"the",
+102.12,
+102.2
+],
+[
+"smith.",
+102.2,
+102.68
+],
+[
+"He",
+103.23,
+103.45
+],
+[
+"shaped",
+103.45,
+103.75
+],
+[
+"the",
+103.75,
+103.99
+],
+[
+"mountains",
+103.99,
+104.33
+],
+[
+"and",
+104.33,
+104.81
+],
+[
+"loved",
+104.81,
+105.17
+],
+[
+"stone,",
+105.17,
+105.65
+],
+[
+"and",
+105.65,
+106.17
+],
+[
+"metal,",
+106.17,
+106.45
+],
+[
+"and",
+106.45,
+106.95
+],
+[
+"gems.",
+106.95,
+107.23
+],
+[
+"He",
+107.83,
+107.99
+],
+[
+"loved",
+107.99,
+108.31
+],
+[
+"making",
+108.31,
+108.69
+],
+[
+"things,",
+108.69,
+109.03
+],
+[
+"and",
+109.03,
+109.55
+],
+[
+"he",
+109.55,
+109.73
+],
+[
+"loved",
+109.73,
+109.97
+],
+[
+"to",
+109.97,
+110.19
+],
+[
+"teach.",
+110.19,
+110.53
+],
+[
+"Among",
+111.51,
+111.81
+],
+[
+"the",
+111.81,
+112.09
+],
+[
+"Maiar",
+112.09,
+112.55
+],
+[
+"of",
+112.55,
+112.77
+],
+[
+"his",
+112.77,
+112.97
+],
+[
+"forge,",
+112.97,
+113.31
+],
+[
+"one",
+113.69,
+113.85
+],
+[
+"stood",
+113.85,
+114.17
+],
+[
+"out.",
+114.17,
+115.04
+],
+[
+"The",
+115.04,
+115.74
+],
+[
+"books",
+115.74,
+115.96
+],
+[
+"say",
+115.96,
+116.24
+],
+[
+"he",
+116.24,
+116.4
+],
+[
+"was",
+116.4,
+116.54
+],
+[
+"mighty",
+116.54,
+116.9
+],
+[
+"in",
+116.9,
+117.18
+],
+[
+"the",
+117.18,
+117.32
+],
+[
+"lore",
+117.32,
+117.5
+],
+[
+"of",
+117.5,
+117.76
+],
+[
+"Aul\u00eb's",
+117.76,
+118.12
+],
+[
+"people,",
+118.12,
+118.38
+],
+[
+"and",
+118.38,
+118.92
+],
+[
+"remained",
+118.92,
+119.22
+],
+[
+"so",
+119.22,
+119.6
+],
+[
+"to",
+119.6,
+119.76
+],
+[
+"the",
+119.76,
+119.9
+],
+[
+"end.",
+119.9,
+120.22
+],
+[
+"In",
+121.14,
+121.26
+],
+[
+"notes",
+121.26,
+121.54
+],
+[
+"published",
+121.54,
+122.04
+],
+[
+"long",
+122.04,
+122.4
+],
+[
+"after",
+122.4,
+122.82
+],
+[
+"the",
+122.82,
+122.98
+],
+[
+"books,",
+122.98,
+123.28
+],
+[
+"we",
+123.56,
+123.74
+],
+[
+"even",
+123.74,
+124.1
+],
+[
+"learn",
+124.1,
+124.38
+],
+[
+"his",
+124.38,
+124.62
+],
+[
+"first",
+124.62,
+124.92
+],
+[
+"name.",
+124.92,
+125.38
+],
+[
+"Mairon.",
+126.16,
+126.54
+],
+[
+"In",
+127.09,
+127.27
+],
+[
+"the",
+127.27,
+127.37
+],
+[
+"elvish",
+127.37,
+127.73
+],
+[
+"tongue,",
+127.73,
+127.99
+],
+[
+"it",
+127.99,
+128.33
+],
+[
+"means",
+128.33,
+128.69
+],
+[
+"the",
+128.69,
+128.99
+],
+[
+"admirable.",
+128.99,
+129.59
+],
+[
+"And",
+130.17,
+130.31
+],
+[
+"he",
+130.31,
+130.47
+],
+[
+"was.",
+130.47,
+130.73
+],
+[
+"His",
+131.45,
+131.67
+],
+[
+"gift",
+131.67,
+132.01
+],
+[
+"was",
+132.01,
+132.43
+],
+[
+"order.",
+132.43,
+132.87
+],
+[
+"He",
+133.42,
+133.62
+],
+[
+"loved",
+133.62,
+133.9
+],
+[
+"planning,",
+133.9,
+134.3
+],
+[
+"and",
+134.3,
+134.8
+],
+[
+"structure,",
+134.8,
+135.34
+],
+[
+"and",
+135.34,
+135.98
+],
+[
+"things",
+135.98,
+136.28
+],
+[
+"working",
+136.28,
+136.64
+],
+[
+"as",
+136.64,
+136.9
+],
+[
+"they",
+136.9,
+137.04
+],
+[
+"were",
+137.04,
+137.16
+],
+[
+"meant",
+137.16,
+137.36
+],
+[
+"to.",
+137.36,
+137.62
+],
+[
+"He",
+138.24,
+138.46
+],
+[
+"disliked",
+138.46,
+138.86
+],
+[
+"confusion,",
+138.86,
+139.42
+],
+[
+"and",
+139.42,
+140.0
+],
+[
+"waste.",
+140.0,
+140.28
+],
+[
+"It",
+140.88,
+141.0
+],
+[
+"was",
+141.0,
+141.18
+],
+[
+"his",
+141.18,
+141.38
+],
+[
+"virtue.",
+141.38,
+141.8
+],
+[
+"And",
+142.52,
+142.68
+],
+[
+"according",
+142.68,
+142.94
+],
+[
+"to",
+142.94,
+143.24
+],
+[
+"those",
+143.24,
+143.38
+],
+[
+"same",
+143.38,
+143.66
+],
+[
+"notes,",
+143.66,
+144.0
+],
+[
+"it",
+144.0,
+144.36
+],
+[
+"was",
+144.36,
+144.5
+],
+[
+"also",
+144.5,
+144.96
+],
+[
+"the",
+144.96,
+145.14
+],
+[
+"cause",
+145.14,
+145.42
+],
+[
+"of",
+145.42,
+145.66
+],
+[
+"his",
+145.66,
+145.8
+],
+[
+"fall.",
+145.8,
+146.16
+],
+[
+"Among",
+148.91,
+149.15
+],
+[
+"the",
+149.15,
+149.35
+],
+[
+"Valar,",
+149.35,
+149.77
+],
+[
+"one",
+149.97,
+150.17
+],
+[
+"would",
+150.17,
+150.45
+],
+[
+"not",
+150.45,
+150.81
+],
+[
+"wait.",
+150.81,
+151.21
+],
+[
+"Melkor,",
+152.11,
+152.47
+],
+[
+"the",
+152.61,
+152.73
+],
+[
+"mightiest",
+152.73,
+153.15
+],
+[
+"of",
+153.15,
+153.33
+],
+[
+"them",
+153.33,
+153.49
+],
+[
+"all,",
+153.49,
+153.77
+],
+[
+"wanted",
+154.07,
+154.21
+],
+[
+"to",
+154.21,
+154.53
+],
+[
+"shape",
+154.53,
+154.75
+],
+[
+"the",
+154.75,
+154.95
+],
+[
+"world",
+154.95,
+155.25
+],
+[
+"alone,",
+155.25,
+155.71
+],
+[
+"quickly,",
+156.17,
+156.35
+],
+[
+"and",
+156.79,
+156.91
+],
+[
+"his",
+156.91,
+157.11
+],
+[
+"way.",
+157.11,
+157.43
+],
+[
+"The",
+158.07,
+158.29
+],
+[
+"others",
+158.29,
+158.53
+],
+[
+"worked",
+158.53,
+158.85
+],
+[
+"slowly.",
+158.85,
+159.31
+],
+[
+"They",
+159.86,
+160.04
+],
+[
+"debated,",
+160.04,
+160.42
+],
+[
+"and",
+160.42,
+160.94
+],
+[
+"waited,",
+160.94,
+161.24
+],
+[
+"and",
+161.24,
+161.6
+],
+[
+"let",
+161.6,
+161.78
+],
+[
+"things",
+161.78,
+162.12
+],
+[
+"grow.",
+162.12,
+162.52
+],
+[
+"To",
+163.04,
+163.27
+],
+[
+"a",
+163.27,
+163.41
+],
+[
+"mind",
+163.41,
+163.61
+],
+[
+"like",
+163.61,
+163.87
+],
+[
+"Mairon's,",
+163.87,
+164.53
+],
+[
+"it",
+164.69,
+164.83
+],
+[
+"must",
+164.83,
+165.09
+],
+[
+"have",
+165.09,
+165.31
+],
+[
+"looked",
+165.31,
+165.49
+],
+[
+"like",
+165.49,
+165.75
+],
+[
+"chaos.",
+165.75,
+166.15
+],
+[
+"Melkor",
+166.99,
+167.29
+],
+[
+"looked",
+167.29,
+167.47
+],
+[
+"like",
+167.47,
+167.67
+],
+[
+"a",
+167.67,
+167.83
+],
+[
+"master",
+167.83,
+168.13
+],
+[
+"who",
+168.13,
+168.33
+],
+[
+"got",
+168.33,
+168.51
+],
+[
+"things",
+168.51,
+168.87
+],
+[
+"done.",
+168.87,
+169.25
+],
+[
+"That,",
+169.85,
+170.25
+],
+[
+"the",
+170.33,
+170.51
+],
+[
+"notes",
+170.51,
+170.73
+],
+[
+"say,",
+170.73,
+171.09
+],
+[
+"is",
+171.27,
+171.45
+],
+[
+"what",
+171.45,
+171.65
+],
+[
+"first",
+171.65,
+171.99
+],
+[
+"drew",
+171.99,
+172.37
+],
+[
+"Mairon",
+172.37,
+172.81
+],
+[
+"to",
+172.81,
+173.07
+],
+[
+"him.",
+173.07,
+173.29
+],
+[
+"Not",
+173.29,
+174.78
+],
+[
+"cruelty.",
+174.78,
+175.52
+],
+[
+"Efficiency.",
+176.3,
+176.6
+],
+[
+"In",
+177.6,
+177.78
+],
+[
+"the",
+177.78,
+177.88
+],
+[
+"beginning",
+177.88,
+178.14
+],
+[
+"of",
+178.14,
+178.36
+],
+[
+"the",
+178.36,
+178.48
+],
+[
+"world,",
+178.48,
+178.74
+],
+[
+"the",
+178.88,
+178.92
+],
+[
+"books",
+178.92,
+179.14
+],
+[
+"say,",
+179.14,
+179.42
+],
+[
+"Melkor",
+179.42,
+179.84
+],
+[
+"seduced",
+179.84,
+180.38
+],
+[
+"him",
+180.38,
+180.54
+],
+[
+"to",
+180.54,
+180.72
+],
+[
+"his",
+180.72,
+180.9
+],
+[
+"side.",
+180.9,
+181.26
+],
+[
+"The",
+181.74,
+181.97
+],
+[
+"smith's",
+181.97,
+182.41
+],
+[
+"apprentice",
+182.41,
+182.73
+],
+[
+"left",
+182.73,
+183.25
+],
+[
+"the",
+183.25,
+183.53
+],
+[
+"light",
+183.53,
+183.77
+],
+[
+"and",
+183.77,
+184.07
+],
+[
+"knelt",
+184.07,
+184.41
+],
+[
+"before",
+184.41,
+184.77
+],
+[
+"his",
+184.77,
+184.97
+],
+[
+"new",
+184.97,
+185.25
+],
+[
+"master",
+185.25,
+185.61
+],
+[
+"in",
+185.61,
+185.99
+],
+[
+"the",
+185.99,
+186.15
+],
+[
+"dark.",
+186.15,
+186.43
+],
+[
+"Melkor",
+187.29,
+187.49
+],
+[
+"became",
+187.49,
+187.95
+],
+[
+"Morgoth,",
+187.95,
+188.67
+],
+[
+"the",
+188.95,
+189.05
+],
+[
+"Black",
+189.05,
+189.35
+],
+[
+"Foe",
+189.35,
+189.59
+],
+[
+"of",
+189.59,
+189.77
+],
+[
+"the",
+189.77,
+189.89
+],
+[
+"World.",
+189.89,
+190.25
+],
+[
+"And",
+190.8,
+191.08
+],
+[
+"Mairon",
+191.08,
+191.44
+],
+[
+"was",
+191.44,
+191.64
+],
+[
+"given",
+191.64,
+191.8
+],
+[
+"a",
+191.8,
+192.02
+],
+[
+"new",
+192.02,
+192.22
+],
+[
+"name",
+192.22,
+192.46
+],
+[
+"by",
+192.46,
+192.68
+],
+[
+"those",
+192.68,
+192.86
+],
+[
+"who",
+192.86,
+193.08
+],
+[
+"feared",
+193.08,
+193.32
+],
+[
+"him.",
+193.32,
+193.66
+],
+[
+"Sauron.",
+194.26,
+194.56
+],
+[
+"The",
+195.34,
+195.72
+],
+[
+"abhorred.",
+195.72,
+196.26
+],
+[
+"The",
+196.81,
+197.15
+],
+[
+"Grey",
+197.15,
+197.39
+],
+[
+"Elves",
+197.39,
+197.65
+],
+[
+"called",
+197.65,
+198.03
+],
+[
+"him",
+198.03,
+198.43
+],
+[
+"Gorthaur",
+198.43,
+199.23
+],
+[
+"the",
+199.23,
+199.55
+],
+[
+"Cruel.",
+199.55,
+199.87
+],
+[
+"The",
+199.87,
+201.3
+],
+[
+"books",
+201.3,
+201.5
+],
+[
+"say",
+201.5,
+201.76
+],
+[
+"he",
+201.76,
+201.94
+],
+[
+"was",
+201.94,
+202.08
+],
+[
+"less",
+202.08,
+202.42
+],
+[
+"evil",
+202.42,
+202.7
+],
+[
+"than",
+202.7,
+202.9
+],
+[
+"his",
+202.9,
+203.04
+],
+[
+"master",
+203.04,
+203.34
+],
+[
+"in",
+203.34,
+203.52
+],
+[
+"only",
+203.52,
+203.76
+],
+[
+"one",
+203.76,
+204.08
+],
+[
+"way.",
+204.08,
+204.48
+],
+[
+"For",
+205.03,
+205.13
+],
+[
+"a",
+205.13,
+205.27
+],
+[
+"long",
+205.27,
+205.43
+],
+[
+"time,",
+205.43,
+205.77
+],
+[
+"he",
+205.77,
+205.97
+],
+[
+"served",
+205.97,
+206.33
+],
+[
+"another,",
+206.33,
+206.69
+],
+[
+"and",
+206.69,
+207.15
+],
+[
+"not",
+207.15,
+207.31
+],
+[
+"himself.",
+207.31,
+207.71
+],
+[
+"If",
+209.18,
+209.28
+],
+[
+"you",
+209.28,
+209.5
+],
+[
+"want",
+209.5,
+209.7
+],
+[
+"to",
+209.7,
+209.88
+],
+[
+"see",
+209.88,
+210.1
+],
+[
+"Middle-earth",
+210.1,
+210.78
+],
+[
+"the",
+210.78,
+211.04
+],
+[
+"way",
+211.04,
+211.32
+],
+[
+"it",
+211.32,
+211.46
+],
+[
+"is",
+211.46,
+211.68
+],
+[
+"in",
+211.68,
+211.84
+],
+[
+"the",
+211.84,
+211.98
+],
+[
+"books,",
+211.98,
+212.38
+],
+[
+"subscribe",
+212.92,
+213.4
+],
+[
+"to",
+213.4,
+213.74
+],
+[
+"the",
+213.74,
+213.88
+],
+[
+"Mythic",
+213.88,
+214.24
+],
+[
+"Archives.",
+214.24,
+214.68
+],
+[
+"Because",
+215.5,
+215.8
+],
+[
+"the",
+215.8,
+216.06
+],
+[
+"next",
+216.06,
+216.42
+],
+[
+"part",
+216.42,
+216.76
+],
+[
+"of",
+216.76,
+216.9
+],
+[
+"this",
+216.9,
+217.08
+],
+[
+"story",
+217.08,
+217.44
+],
+[
+"takes",
+217.44,
+217.76
+],
+[
+"place",
+217.76,
+218.16
+],
+[
+"on",
+218.16,
+218.56
+],
+[
+"an",
+218.56,
+218.76
+],
+[
+"island",
+218.76,
+219.18
+],
+[
+"of",
+219.18,
+219.6
+],
+[
+"werewolves.",
+219.6,
+220.16
+],
+[
+"In",
+223.51,
+223.63
+],
+[
+"the",
+223.63,
+223.75
+],
+[
+"wars",
+223.75,
+224.03
+],
+[
+"of",
+224.03,
+224.23
+],
+[
+"the",
+224.23,
+224.35
+],
+[
+"First",
+224.35,
+224.59
+],
+[
+"Age,",
+224.59,
+225.03
+],
+[
+"the",
+225.49,
+225.57
+],
+[
+"Elves",
+225.57,
+225.87
+],
+[
+"held",
+225.87,
+226.19
+],
+[
+"a",
+226.19,
+226.39
+],
+[
+"white",
+226.39,
+226.63
+],
+[
+"tower",
+226.63,
+227.03
+],
+[
+"on",
+227.03,
+227.29
+],
+[
+"an",
+227.29,
+227.49
+],
+[
+"island",
+227.49,
+227.75
+],
+[
+"in",
+227.75,
+227.97
+],
+[
+"the",
+227.97,
+228.07
+],
+[
+"river",
+228.07,
+228.31
+],
+[
+"Sirion.",
+228.31,
+228.87
+],
+[
+"Sauron",
+229.61,
+229.87
+],
+[
+"took",
+229.87,
+230.09
+],
+[
+"it.",
+230.09,
+230.39
+],
+[
+"Fear",
+230.94,
+231.12
+],
+[
+"went",
+231.12,
+231.34
+],
+[
+"before",
+231.34,
+231.7
+],
+[
+"him,",
+231.7,
+231.96
+],
+[
+"and",
+232.12,
+232.32
+],
+[
+"the",
+232.32,
+232.44
+],
+[
+"defenders",
+232.44,
+232.84
+],
+[
+"fled.",
+232.84,
+233.24
+],
+[
+"The",
+233.8,
+234.02
+],
+[
+"fair",
+234.02,
+234.34
+],
+[
+"island",
+234.34,
+234.8
+],
+[
+"became",
+234.8,
+235.24
+],
+[
+"Tol-in-Gaurhoth,",
+235.24,
+236.26
+],
+[
+"the",
+236.6,
+236.74
+],
+[
+"Isle",
+236.74,
+237.04
+],
+[
+"of",
+237.04,
+237.4
+],
+[
+"Werewolves.",
+237.4,
+237.94
+],
+[
+"The",
+238.56,
+238.86
+],
+[
+"books",
+238.86,
+239.12
+],
+[
+"now",
+239.12,
+239.54
+],
+[
+"call",
+239.54,
+239.88
+],
+[
+"him",
+239.88,
+240.14
+],
+[
+"a",
+240.14,
+240.44
+],
+[
+"sorcerer",
+240.44,
+240.64
+],
+[
+"of",
+240.64,
+241.2
+],
+[
+"dreadful",
+241.2,
+241.6
+],
+[
+"power,",
+241.6,
+242.12
+],
+[
+"master",
+242.68,
+242.96
+],
+[
+"of",
+242.96,
+243.22
+],
+[
+"shadows",
+243.22,
+243.6
+],
+[
+"and",
+243.6,
+243.86
+],
+[
+"of",
+243.86,
+244.0
+],
+[
+"phantoms,",
+244.0,
+244.56
+],
+[
+"misshaping",
+245.14,
+245.6
+],
+[
+"what",
+245.6,
+245.92
+],
+[
+"he",
+245.92,
+246.12
+],
+[
+"touched,",
+246.12,
+246.5
+],
+[
+"twisting",
+247.0,
+247.2
+],
+[
+"what",
+247.2,
+247.5
+],
+[
+"he",
+247.5,
+247.66
+],
+[
+"ruled.",
+247.66,
+248.44
+],
+[
+"Lord",
+248.44,
+249.51
+],
+[
+"of",
+249.51,
+249.69
+],
+[
+"werewolves.",
+249.69,
+250.19
+],
+[
+"But",
+250.85,
+251.15
+],
+[
+"his",
+251.15,
+251.37
+],
+[
+"truest",
+251.37,
+251.81
+],
+[
+"weapon",
+251.81,
+252.19
+],
+[
+"was",
+252.19,
+252.57
+],
+[
+"the",
+252.57,
+252.79
+],
+[
+"lie.",
+252.79,
+253.07
+],
+[
+"He",
+253.85,
+254.13
+],
+[
+"lured",
+254.13,
+254.41
+],
+[
+"an",
+254.41,
+254.69
+],
+[
+"outlaw",
+254.69,
+255.17
+],
+[
+"named",
+255.17,
+255.55
+],
+[
+"Gorlim",
+255.55,
+256.07
+],
+[
+"with",
+256.07,
+256.25
+],
+[
+"a",
+256.25,
+256.41
+],
+[
+"phantom",
+256.41,
+256.69
+],
+[
+"of",
+256.69,
+256.93
+],
+[
+"his",
+256.93,
+257.05
+],
+[
+"wife's",
+257.05,
+257.51
+],
+[
+"face",
+257.51,
+257.67
+],
+[
+"at",
+257.67,
+257.87
+],
+[
+"a",
+257.87,
+258.01
+],
+[
+"lighted",
+258.01,
+258.35
+],
+[
+"window,",
+258.35,
+258.67
+],
+[
+"and",
+258.67,
+259.15
+],
+[
+"promised",
+259.15,
+259.51
+],
+[
+"to",
+259.51,
+259.77
+],
+[
+"give",
+259.77,
+259.95
+],
+[
+"her",
+259.95,
+260.19
+],
+[
+"back",
+260.19,
+260.47
+],
+[
+"if",
+260.47,
+260.65
+],
+[
+"Gorlim",
+260.65,
+261.19
+],
+[
+"betrayed",
+261.19,
+261.65
+],
+[
+"his",
+261.65,
+261.93
+],
+[
+"leader.",
+261.93,
+262.23
+],
+[
+"Gorlim",
+263.39,
+263.63
+],
+[
+"broke.",
+263.63,
+263.99
+],
+[
+"Then",
+264.73,
+264.91
+],
+[
+"Sauron",
+264.91,
+265.35
+],
+[
+"told",
+265.35,
+265.57
+],
+[
+"him",
+265.57,
+265.81
+],
+[
+"she",
+265.81,
+265.99
+],
+[
+"was",
+265.99,
+266.13
+],
+[
+"already",
+266.13,
+266.61
+],
+[
+"dead.",
+266.61,
+266.99
+],
+[
+"One",
+267.87,
+268.11
+],
+[
+"day,",
+268.11,
+268.37
+],
+[
+"a",
+268.37,
+268.67
+],
+[
+"band",
+268.67,
+268.93
+],
+[
+"of",
+268.93,
+269.21
+],
+[
+"Orcs",
+269.21,
+269.43
+],
+[
+"passed",
+269.43,
+269.81
+],
+[
+"the",
+269.81,
+270.07
+],
+[
+"tower",
+270.07,
+270.35
+],
+[
+"without",
+270.35,
+270.71
+],
+[
+"reporting",
+270.71,
+271.13
+],
+[
+"to",
+271.13,
+271.39
+],
+[
+"him.",
+271.39,
+271.59
+],
+[
+"Sauron",
+272.27,
+272.55
+],
+[
+"had",
+272.55,
+272.75
+],
+[
+"them",
+272.75,
+272.99
+],
+[
+"seized.",
+272.99,
+273.33
+],
+[
+"They",
+273.93,
+274.07
+],
+[
+"were",
+274.07,
+274.25
+],
+[
+"not",
+274.25,
+274.51
+],
+[
+"Orcs.",
+274.51,
+274.85
+],
+[
+"They",
+275.45,
+275.59
+],
+[
+"were",
+275.59,
+275.81
+],
+[
+"Finrod",
+275.81,
+276.29
+],
+[
+"Felagund,",
+276.29,
+276.91
+],
+[
+"the",
+277.29,
+277.41
+],
+[
+"golden-haired",
+277.41,
+278.11
+],
+[
+"Elf-king,",
+278.11,
+278.83
+],
+[
+"and",
+279.23,
+279.35
+],
+[
+"a",
+279.35,
+279.49
+],
+[
+"mortal",
+279.49,
+279.71
+],
+[
+"man",
+279.71,
+280.03
+],
+[
+"named",
+280.03,
+280.37
+],
+[
+"Beren,",
+280.37,
+280.85
+],
+[
+"in",
+281.25,
+281.33
+],
+[
+"disguise.",
+281.33,
+281.77
+],
+[
+"Finrod",
+281.77,
+283.32
+],
+[
+"and",
+283.32,
+283.62
+],
+[
+"Sauron",
+283.62,
+284.12
+],
+[
+"fought,",
+284.12,
+284.44
+],
+[
+"not",
+284.86,
+285.06
+],
+[
+"with",
+285.06,
+285.32
+],
+[
+"swords,",
+285.32,
+285.7
+],
+[
+"but",
+286.2,
+286.42
+],
+[
+"with",
+286.42,
+286.62
+],
+[
+"songs",
+286.62,
+287.0
+],
+[
+"of",
+287.0,
+287.32
+],
+[
+"power.",
+287.32,
+287.72
+],
+[
+"Sauron",
+288.62,
+288.9
+],
+[
+"sang",
+288.9,
+289.1
+],
+[
+"of",
+289.1,
+289.3
+],
+[
+"piercing,",
+289.3,
+289.74
+],
+[
+"of",
+290.28,
+290.36
+],
+[
+"opening,",
+290.36,
+290.84
+],
+[
+"of",
+291.24,
+291.34
+],
+[
+"treachery.",
+291.34,
+292.08
+],
+[
+"Finrod",
+292.72,
+293.28
+],
+[
+"sang",
+293.28,
+293.62
+],
+[
+"of",
+293.62,
+293.8
+],
+[
+"secrets",
+293.8,
+294.26
+],
+[
+"kept,",
+294.26,
+294.68
+],
+[
+"of",
+295.2,
+295.32
+],
+[
+"the",
+295.32,
+295.5
+],
+[
+"prison",
+295.5,
+295.86
+],
+[
+"opening,",
+295.86,
+296.4
+],
+[
+"and",
+296.4,
+296.9
+],
+[
+"the",
+296.9,
+297.04
+],
+[
+"chain",
+297.04,
+297.4
+],
+[
+"that",
+297.4,
+297.66
+],
+[
+"snaps.",
+297.66,
+298.06
+],
+[
+"Sauron",
+299.4,
+299.72
+],
+[
+"was",
+299.72,
+299.88
+],
+[
+"stronger.",
+299.88,
+300.42
+],
+[
+"And",
+301.2,
+301.42
+],
+[
+"Felagund",
+301.42,
+302.06
+],
+[
+"fell",
+302.06,
+302.42
+],
+[
+"before",
+302.42,
+302.86
+],
+[
+"the",
+302.86,
+303.08
+],
+[
+"throne.",
+303.08,
+303.32
+],
+[
+"The",
+306.07,
+306.21
+],
+[
+"prisoners",
+306.21,
+306.57
+],
+[
+"were",
+306.57,
+306.89
+],
+[
+"thrown",
+306.89,
+307.23
+],
+[
+"into",
+307.23,
+307.51
+],
+[
+"a",
+307.51,
+307.69
+],
+[
+"pit.",
+307.69,
+307.89
+],
+[
+"One",
+308.39,
+308.7
+],
+[
+"by",
+308.7,
+308.9
+],
+[
+"one,",
+308.9,
+309.24
+],
+[
+"a",
+309.44,
+309.54
+],
+[
+"wolf",
+309.54,
+309.78
+],
+[
+"came",
+309.78,
+310.08
+],
+[
+"for",
+310.08,
+310.28
+],
+[
+"them",
+310.28,
+310.4
+],
+[
+"in",
+310.4,
+310.52
+],
+[
+"the",
+310.52,
+310.64
+],
+[
+"dark,",
+310.64,
+310.9
+],
+[
+"and",
+310.9,
+311.1
+],
+[
+"not",
+311.1,
+311.32
+],
+[
+"one",
+311.32,
+311.64
+],
+[
+"betrayed",
+311.64,
+312.02
+],
+[
+"the",
+312.02,
+312.24
+],
+[
+"others.",
+312.24,
+312.48
+],
+[
+"When",
+313.36,
+313.54
+],
+[
+"at",
+313.54,
+313.68
+],
+[
+"last",
+313.68,
+314.08
+],
+[
+"it",
+314.08,
+314.3
+],
+[
+"came",
+314.3,
+314.52
+],
+[
+"for",
+314.52,
+314.76
+],
+[
+"Beren,",
+314.76,
+315.04
+],
+[
+"the",
+315.48,
+315.7
+],
+[
+"Elf-king",
+315.7,
+316.16
+],
+[
+"broke",
+316.16,
+316.5
+],
+[
+"his",
+316.5,
+316.78
+],
+[
+"chains",
+316.78,
+317.14
+],
+[
+"and",
+317.14,
+317.4
+],
+[
+"fought",
+317.4,
+317.7
+],
+[
+"it",
+317.7,
+317.86
+],
+[
+"with",
+317.86,
+317.98
+],
+[
+"his",
+317.98,
+318.18
+],
+[
+"bare",
+318.18,
+318.4
+],
+[
+"hands.",
+318.4,
+318.86
+],
+[
+"He",
+319.42,
+319.56
+],
+[
+"saved",
+319.56,
+319.86
+],
+[
+"his",
+319.86,
+320.08
+],
+[
+"friend,",
+320.08,
+320.38
+],
+[
+"and",
+320.74,
+320.96
+],
+[
+"it",
+320.96,
+321.08
+],
+[
+"cost",
+321.08,
+321.32
+],
+[
+"him",
+321.32,
+321.54
+],
+[
+"his",
+321.54,
+321.7
+],
+[
+"life.",
+321.7,
+321.98
+],
+[
+"Then,",
+323.02,
+323.4
+],
+[
+"from",
+323.58,
+323.82
+],
+[
+"the",
+323.82,
+324.0
+],
+[
+"bridge,",
+324.0,
+324.22
+],
+[
+"there",
+324.38,
+324.52
+],
+[
+"came",
+324.52,
+324.7
+],
+[
+"a",
+324.7,
+324.9
+],
+[
+"song.",
+324.9,
+325.2
+],
+[
+"L\u00fathien",
+325.88,
+326.16
+],
+[
+"had",
+326.16,
+326.38
+],
+[
+"come.",
+326.38,
+326.64
+],
+[
+"Her",
+327.26,
+327.46
+],
+[
+"robe",
+327.46,
+327.7
+],
+[
+"was",
+327.7,
+327.9
+],
+[
+"blue",
+327.9,
+328.24
+],
+[
+"as",
+328.24,
+328.5
+],
+[
+"the",
+328.5,
+328.66
+],
+[
+"unclouded",
+328.66,
+329.34
+],
+[
+"heaven,",
+329.34,
+329.58
+],
+[
+"her",
+329.98,
+330.14
+],
+[
+"eyes",
+330.14,
+330.5
+],
+[
+"grey",
+330.5,
+330.86
+],
+[
+"as",
+330.86,
+331.06
+],
+[
+"the",
+331.06,
+331.26
+],
+[
+"starlit",
+331.26,
+331.66
+],
+[
+"evening,",
+331.66,
+332.0
+],
+[
+"her",
+332.42,
+332.56
+],
+[
+"hair",
+332.56,
+332.82
+],
+[
+"dark",
+332.82,
+333.18
+],
+[
+"as",
+333.18,
+333.42
+],
+[
+"the",
+333.42,
+333.62
+],
+[
+"shadows",
+333.62,
+333.86
+],
+[
+"of",
+333.86,
+334.14
+],
+[
+"twilight.",
+334.14,
+334.54
+],
+[
+"Beside",
+335.54,
+336.14
+],
+[
+"her",
+336.14,
+336.36
+],
+[
+"walked",
+336.36,
+337.0
+],
+[
+"Huan,",
+337.0,
+337.38
+],
+[
+"the",
+337.86,
+337.96
+],
+[
+"great",
+337.96,
+338.24
+],
+[
+"hound",
+338.24,
+338.68
+],
+[
+"of",
+338.68,
+338.88
+],
+[
+"Valinor.",
+338.88,
+339.42
+],
+[
+"Sauron",
+340.38,
+340.64
+],
+[
+"sent",
+340.64,
+340.88
+],
+[
+"his",
+340.88,
+341.1
+],
+[
+"wolves",
+341.1,
+341.3
+],
+[
+"to",
+341.3,
+341.58
+],
+[
+"the",
+341.58,
+341.7
+],
+[
+"bridge,",
+341.7,
+341.9
+],
+[
+"one",
+341.9,
+342.24
+],
+[
+"after",
+342.24,
+342.54
+],
+[
+"another,",
+342.54,
+342.92
+],
+[
+"and",
+343.14,
+343.2
+],
+[
+"Huan",
+343.2,
+343.5
+],
+[
+"slew",
+343.5,
+343.84
+],
+[
+"each",
+343.84,
+344.22
+],
+[
+"one",
+344.22,
+344.48
+],
+[
+"in",
+344.48,
+344.66
+],
+[
+"silence.",
+344.66,
+344.96
+],
+[
+"So",
+345.94,
+346.22
+],
+[
+"Sauron",
+346.22,
+346.66
+],
+[
+"went",
+346.66,
+346.84
+],
+[
+"himself,",
+346.84,
+347.26
+],
+[
+"in",
+347.54,
+347.66
+],
+[
+"the",
+347.66,
+347.8
+],
+[
+"shape",
+347.8,
+348.06
+],
+[
+"of",
+348.06,
+348.26
+],
+[
+"a",
+348.26,
+348.42
+],
+[
+"werewolf,",
+348.42,
+348.84
+],
+[
+"the",
+349.32,
+349.46
+],
+[
+"greatest",
+349.46,
+349.88
+],
+[
+"that",
+349.88,
+350.28
+],
+[
+"had",
+350.28,
+350.42
+],
+[
+"yet",
+350.42,
+350.6
+],
+[
+"been.",
+350.6,
+351.0
+],
+[
+"L\u00fathien",
+351.84,
+352.18
+],
+[
+"cast",
+352.18,
+352.54
+],
+[
+"a",
+352.54,
+352.8
+],
+[
+"fold",
+352.8,
+353.14
+],
+[
+"of",
+353.14,
+353.38
+],
+[
+"her",
+353.38,
+353.52
+],
+[
+"dark",
+353.52,
+354.02
+],
+[
+"cloak",
+354.02,
+354.48
+],
+[
+"before",
+354.48,
+354.94
+],
+[
+"his",
+354.94,
+355.18
+],
+[
+"eyes.",
+355.18,
+355.54
+],
+[
+"And",
+356.08,
+356.43
+],
+[
+"Huan",
+356.43,
+356.75
+],
+[
+"sprang.",
+356.75,
+357.19
+],
+[
+"Wolf,",
+358.25,
+358.41
+],
+[
+"serpent,",
+359.17,
+359.31
+],
+[
+"his",
+359.95,
+360.09
+],
+[
+"own",
+360.09,
+360.33
+],
+[
+"true",
+360.33,
+360.59
+],
+[
+"shape.",
+360.59,
+360.95
+],
+[
+"Nothing",
+361.59,
+361.97
+],
+[
+"Sauron",
+361.97,
+362.43
+],
+[
+"became",
+362.43,
+362.77
+],
+[
+"could",
+362.77,
+363.03
+],
+[
+"break",
+363.03,
+363.23
+],
+[
+"the",
+363.23,
+363.41
+],
+[
+"hound's",
+363.41,
+363.75
+],
+[
+"hold.",
+363.75,
+363.99
+],
+[
+"At",
+364.54,
+364.64
+],
+[
+"last",
+364.64,
+365.06
+],
+[
+"he",
+365.06,
+365.32
+],
+[
+"yielded,",
+365.32,
+365.66
+],
+[
+"and",
+365.66,
+366.1
+],
+[
+"gave",
+366.1,
+366.38
+],
+[
+"L\u00fathien",
+366.38,
+366.86
+],
+[
+"the",
+366.86,
+367.06
+],
+[
+"mastery",
+367.06,
+367.44
+],
+[
+"of",
+367.44,
+367.7
+],
+[
+"the",
+367.7,
+367.84
+],
+[
+"tower.",
+367.84,
+368.1
+],
+[
+"He",
+368.74,
+368.86
+],
+[
+"fled",
+368.86,
+369.2
+],
+[
+"as",
+369.2,
+369.42
+],
+[
+"a",
+369.42,
+369.6
+],
+[
+"vampire,",
+369.6,
+370.0
+],
+[
+"great",
+370.66,
+370.74
+],
+[
+"as",
+370.74,
+371.0
+],
+[
+"a",
+371.0,
+371.16
+],
+[
+"dark",
+371.16,
+371.54
+],
+[
+"cloud",
+371.54,
+372.0
+],
+[
+"across",
+372.0,
+372.44
+],
+[
+"the",
+372.44,
+372.74
+],
+[
+"moon.",
+372.74,
+372.96
+],
+[
+"At",
+375.71,
+375.85
+],
+[
+"the",
+375.85,
+375.97
+],
+[
+"end",
+375.97,
+376.17
+],
+[
+"of",
+376.17,
+376.29
+],
+[
+"the",
+376.29,
+376.39
+],
+[
+"First",
+376.39,
+376.63
+],
+[
+"Age,",
+376.63,
+377.01
+],
+[
+"the",
+377.53,
+377.61
+],
+[
+"hosts",
+377.61,
+377.85
+],
+[
+"of",
+377.85,
+378.09
+],
+[
+"the",
+378.09,
+378.23
+],
+[
+"Valar",
+378.23,
+378.59
+],
+[
+"came",
+378.59,
+378.89
+],
+[
+"in",
+378.89,
+379.07
+],
+[
+"their",
+379.07,
+379.21
+],
+[
+"wrath.",
+379.21,
+379.59
+],
+[
+"Morgoth's",
+380.47,
+380.87
+],
+[
+"fortress",
+380.87,
+381.15
+],
+[
+"was",
+381.15,
+381.55
+],
+[
+"broken,",
+381.55,
+381.95
+],
+[
+"and",
+382.47,
+382.69
+],
+[
+"Morgoth",
+382.69,
+383.11
+],
+[
+"was",
+383.11,
+383.27
+],
+[
+"thrust",
+383.27,
+383.61
+],
+[
+"out",
+383.61,
+383.89
+],
+[
+"of",
+383.89,
+384.05
+],
+[
+"the",
+384.05,
+384.15
+],
+[
+"world.",
+384.15,
+384.43
+],
+[
+"And",
+384.98,
+385.26
+],
+[
+"Sauron",
+385.26,
+385.72
+],
+[
+"did",
+385.72,
+385.98
+],
+[
+"something",
+385.98,
+386.42
+],
+[
+"no",
+386.42,
+386.78
+],
+[
+"one",
+386.78,
+386.94
+],
+[
+"expects",
+386.94,
+387.36
+],
+[
+"from",
+387.36,
+387.7
+],
+[
+"the",
+387.7,
+387.84
+],
+[
+"Dark",
+387.84,
+388.08
+],
+[
+"Lord.",
+388.08,
+388.42
+],
+[
+"He",
+389.16,
+389.44
+],
+[
+"put",
+389.44,
+389.68
+],
+[
+"on",
+389.68,
+390.0
+],
+[
+"his",
+390.0,
+390.2
+],
+[
+"fair",
+390.2,
+390.44
+],
+[
+"form",
+390.44,
+390.78
+],
+[
+"again,",
+390.78,
+391.18
+],
+[
+"bowed",
+391.82,
+391.82
+],
+[
+"before",
+391.82,
+392.18
+],
+[
+"the",
+392.18,
+392.36
+],
+[
+"herald",
+392.36,
+392.64
+],
+[
+"of",
+392.64,
+392.8
+],
+[
+"the",
+392.8,
+392.96
+],
+[
+"Valar,",
+392.96,
+393.3
+],
+[
+"and",
+393.66,
+393.86
+],
+[
+"renounced",
+393.86,
+394.22
+],
+[
+"all",
+394.22,
+394.58
+],
+[
+"his",
+394.58,
+394.8
+],
+[
+"evil",
+394.8,
+395.12
+],
+[
+"deeds.",
+395.12,
+395.44
+],
+[
+"The",
+396.28,
+396.52
+],
+[
+"books",
+396.52,
+396.78
+],
+[
+"add",
+396.78,
+397.16
+],
+[
+"a",
+397.16,
+397.28
+],
+[
+"remarkable",
+397.28,
+397.66
+],
+[
+"line:",
+397.66,
+398.18
+],
+[
+"some",
+398.58,
+398.76
+],
+[
+"hold",
+398.76,
+399.0
+],
+[
+"that",
+399.0,
+399.18
+],
+[
+"this",
+399.18,
+399.34
+],
+[
+"was",
+399.34,
+399.5
+],
+[
+"not",
+399.5,
+399.78
+],
+[
+"falsely",
+399.78,
+400.28
+],
+[
+"done.",
+400.28,
+400.64
+],
+[
+"That",
+401.19,
+401.45
+],
+[
+"Sauron",
+401.45,
+401.91
+],
+[
+"truly",
+401.91,
+402.29
+],
+[
+"repented,",
+402.29,
+402.89
+],
+[
+"if",
+403.15,
+403.31
+],
+[
+"only",
+403.31,
+403.61
+],
+[
+"out",
+403.61,
+403.81
+],
+[
+"of",
+403.81,
+403.99
+],
+[
+"fear.",
+403.99,
+404.29
+],
+[
+"The",
+404.84,
+405.12
+],
+[
+"herald",
+405.12,
+405.42
+],
+[
+"told",
+405.42,
+405.72
+],
+[
+"him",
+405.72,
+405.94
+],
+[
+"to",
+405.94,
+406.12
+],
+[
+"go",
+406.12,
+406.28
+],
+[
+"into",
+406.28,
+406.52
+],
+[
+"the",
+406.52,
+406.7
+],
+[
+"West",
+406.7,
+406.94
+],
+[
+"and",
+406.94,
+407.24
+],
+[
+"face",
+407.24,
+407.44
+],
+[
+"the",
+407.44,
+407.66
+],
+[
+"judgement",
+407.66,
+407.94
+],
+[
+"of",
+407.94,
+408.2
+],
+[
+"the",
+408.2,
+408.34
+],
+[
+"Valar.",
+408.34,
+408.68
+],
+[
+"It",
+409.23,
+409.45
+],
+[
+"might",
+409.45,
+409.61
+],
+[
+"mean",
+409.61,
+409.83
+],
+[
+"a",
+409.83,
+409.99
+],
+[
+"long",
+409.99,
+410.23
+],
+[
+"servitude,",
+410.23,
+410.87
+],
+[
+"to",
+410.87,
+411.37
+],
+[
+"prove",
+411.37,
+411.61
+],
+[
+"his",
+411.61,
+411.81
+],
+[
+"good",
+411.81,
+412.03
+],
+[
+"faith.",
+412.03,
+412.43
+],
+[
+"And",
+413.13,
+413.35
+],
+[
+"Sauron",
+413.35,
+413.83
+],
+[
+"could",
+413.83,
+414.11
+],
+[
+"not",
+414.11,
+414.41
+],
+[
+"bear",
+414.41,
+414.73
+],
+[
+"it.",
+414.73,
+415.07
+],
+[
+"Under",
+415.62,
+415.88
+],
+[
+"Morgoth,",
+415.88,
+416.38
+],
+[
+"his",
+416.6,
+416.82
+],
+[
+"power",
+416.82,
+417.16
+],
+[
+"had",
+417.16,
+417.4
+],
+[
+"been",
+417.4,
+417.6
+],
+[
+"great.",
+417.6,
+417.94
+],
+[
+"He",
+418.48,
+418.67
+],
+[
+"was",
+418.67,
+418.79
+],
+[
+"ashamed,",
+418.79,
+419.23
+],
+[
+"and",
+419.69,
+419.85
+],
+[
+"he",
+419.85,
+419.99
+],
+[
+"would",
+419.99,
+420.09
+],
+[
+"not",
+420.09,
+420.37
+],
+[
+"return",
+420.37,
+420.81
+],
+[
+"in",
+420.81,
+421.01
+],
+[
+"humiliation.",
+421.01,
+421.53
+],
+[
+"So",
+422.33,
+422.59
+],
+[
+"he",
+422.59,
+422.73
+],
+[
+"hid",
+422.73,
+422.91
+],
+[
+"himself",
+422.91,
+423.27
+],
+[
+"in",
+423.27,
+423.51
+],
+[
+"Middle-earth,",
+423.51,
+423.95
+],
+[
+"and",
+423.95,
+424.39
+],
+[
+"fell",
+424.39,
+424.59
+],
+[
+"back",
+424.59,
+424.91
+],
+[
+"into",
+424.91,
+425.15
+],
+[
+"evil,",
+425.15,
+425.51
+],
+[
+"for",
+425.91,
+426.19
+],
+[
+"the",
+426.19,
+426.65
+],
+[
+"bonds",
+426.65,
+426.65
+],
+[
+"Morgoth",
+426.65,
+427.09
+],
+[
+"had",
+427.09,
+427.27
+],
+[
+"laid",
+427.27,
+427.49
+],
+[
+"upon",
+427.49,
+427.81
+],
+[
+"him",
+427.81,
+428.15
+],
+[
+"were",
+428.15,
+428.59
+],
+[
+"very",
+428.59,
+429.01
+],
+[
+"strong.",
+429.01,
+429.45
+],
+[
+"This",
+430.0,
+430.4
+],
+[
+"is",
+430.4,
+430.82
+],
+[
+"the",
+430.82,
+431.04
+],
+[
+"hinge",
+431.04,
+431.34
+],
+[
+"of",
+431.34,
+431.64
+],
+[
+"his",
+431.64,
+431.82
+],
+[
+"whole",
+431.82,
+432.24
+],
+[
+"story.",
+432.24,
+432.82
+],
+[
+"Not",
+433.37,
+433.89
+],
+[
+"hatred.",
+433.89,
+434.35
+],
+[
+"Pride.",
+435.03,
+435.39
+],
+[
+"He",
+438.14,
+438.32
+],
+[
+"told",
+438.32,
+438.54
+],
+[
+"himself",
+438.54,
+438.94
+],
+[
+"a",
+438.94,
+439.18
+],
+[
+"story.",
+439.18,
+439.6
+],
+[
+"The",
+440.26,
+440.42
+],
+[
+"Valar",
+440.42,
+440.8
+],
+[
+"had",
+440.8,
+440.98
+],
+[
+"abandoned",
+440.98,
+441.44
+],
+[
+"Middle-earth.",
+441.44,
+442.08
+],
+[
+"Someone",
+442.78,
+442.98
+],
+[
+"had",
+442.98,
+443.24
+],
+[
+"to",
+443.24,
+443.42
+],
+[
+"heal",
+443.42,
+443.66
+],
+[
+"it,",
+443.66,
+443.88
+],
+[
+"and",
+443.88,
+444.1
+],
+[
+"order",
+444.1,
+444.38
+],
+[
+"it.",
+444.38,
+444.72
+],
+[
+"Why",
+445.27,
+445.45
+],
+[
+"not",
+445.45,
+445.65
+],
+[
+"him?",
+445.65,
+445.95
+],
+[
+"In",
+446.71,
+446.99
+],
+[
+"the",
+446.99,
+447.15
+],
+[
+"Second",
+447.15,
+447.45
+],
+[
+"Age,",
+447.45,
+447.81
+],
+[
+"a",
+447.81,
+448.13
+],
+[
+"stranger",
+448.13,
+448.55
+],
+[
+"came",
+448.55,
+448.97
+],
+[
+"to",
+448.97,
+449.17
+],
+[
+"the",
+449.17,
+449.39
+],
+[
+"Elves.",
+449.39,
+449.59
+],
+[
+"He",
+450.14,
+450.26
+],
+[
+"was",
+450.26,
+450.44
+],
+[
+"fair,",
+450.44,
+450.82
+],
+[
+"and",
+450.82,
+451.3
+],
+[
+"wise,",
+451.3,
+451.66
+],
+[
+"and",
+451.66,
+451.92
+],
+[
+"generous,",
+451.92,
+452.3
+],
+[
+"and",
+452.66,
+452.82
+],
+[
+"he",
+452.82,
+452.98
+],
+[
+"called",
+452.98,
+453.2
+],
+[
+"himself",
+453.2,
+453.68
+],
+[
+"Annatar,",
+453.68,
+454.2
+],
+[
+"the",
+454.72,
+454.84
+],
+[
+"Lord",
+454.84,
+455.08
+],
+[
+"of",
+455.08,
+455.32
+],
+[
+"Gifts.",
+455.32,
+455.58
+],
+[
+"The",
+456.26,
+456.42
+],
+[
+"High",
+456.42,
+456.7
+],
+[
+"King,",
+456.7,
+457.06
+],
+[
+"Gil-galad,",
+457.64,
+458.08
+],
+[
+"would",
+458.3,
+458.4
+],
+[
+"not",
+458.4,
+458.62
+],
+[
+"let",
+458.62,
+458.84
+],
+[
+"him",
+458.84,
+458.98
+],
+[
+"in.",
+458.98,
+459.34
+],
+[
+"But",
+459.9,
+460.22
+],
+[
+"in",
+460.22,
+460.48
+],
+[
+"Eregion,",
+460.48,
+460.94
+],
+[
+"beside",
+461.26,
+461.54
+],
+[
+"the",
+461.54,
+461.76
+],
+[
+"walls",
+461.76,
+461.96
+],
+[
+"of",
+461.96,
+462.24
+],
+[
+"Moria,",
+462.24,
+462.68
+],
+[
+"the",
+463.06,
+463.16
+],
+[
+"Elven-smiths",
+463.16,
+463.96
+],
+[
+"welcomed",
+463.96,
+464.32
+],
+[
+"him.",
+464.32,
+464.74
+],
+[
+"Their",
+464.74,
+465.93
+],
+[
+"lord",
+465.93,
+466.19
+],
+[
+"was",
+466.19,
+466.51
+],
+[
+"Celebrimbor,",
+466.51,
+467.47
+],
+[
+"grandson",
+467.89,
+468.09
+],
+[
+"of",
+468.09,
+468.47
+],
+[
+"F\u00ebanor,",
+468.47,
+469.01
+],
+[
+"and",
+469.53,
+469.69
+],
+[
+"they",
+469.69,
+469.87
+],
+[
+"hungered",
+469.87,
+470.31
+],
+[
+"for",
+470.31,
+470.55
+],
+[
+"knowledge.",
+470.55,
+470.95
+],
+[
+"Annatar",
+471.83,
+472.07
+],
+[
+"taught",
+472.07,
+472.47
+],
+[
+"them.",
+472.47,
+472.81
+],
+[
+"And",
+473.69,
+473.83
+],
+[
+"with",
+473.83,
+473.99
+],
+[
+"his",
+473.99,
+474.19
+],
+[
+"teaching,",
+474.19,
+474.67
+],
+[
+"they",
+474.67,
+475.07
+],
+[
+"forged",
+475.07,
+475.53
+],
+[
+"the",
+475.53,
+475.85
+],
+[
+"Rings",
+475.85,
+476.05
+],
+[
+"of",
+476.05,
+476.31
+],
+[
+"Power.",
+476.31,
+476.75
+],
+[
+"Then,",
+477.57,
+477.89
+],
+[
+"in",
+478.17,
+478.37
+],
+[
+"secret,",
+478.37,
+478.83
+],
+[
+"in",
+479.19,
+479.33
+],
+[
+"the",
+479.33,
+479.45
+],
+[
+"Mountain",
+479.45,
+479.69
+],
+[
+"of",
+479.69,
+479.93
+],
+[
+"Fire,",
+479.93,
+480.31
+],
+[
+"he",
+480.67,
+480.77
+],
+[
+"made",
+480.77,
+480.95
+],
+[
+"a",
+480.95,
+481.13
+],
+[
+"ring",
+481.13,
+481.29
+],
+[
+"of",
+481.29,
+481.45
+],
+[
+"his",
+481.45,
+481.59
+],
+[
+"own.",
+481.59,
+481.99
+],
+[
+"One",
+482.63,
+482.91
+],
+[
+"Ring,",
+482.91,
+483.25
+],
+[
+"to",
+483.63,
+483.79
+],
+[
+"rule",
+483.79,
+484.11
+],
+[
+"all",
+484.11,
+484.51
+],
+[
+"the",
+484.51,
+484.71
+],
+[
+"others.",
+484.71,
+484.99
+],
+[
+"Into",
+485.75,
+486.03
+],
+[
+"it",
+486.03,
+486.29
+],
+[
+"he",
+486.29,
+486.61
+],
+[
+"poured",
+486.61,
+486.97
+],
+[
+"a",
+486.97,
+487.21
+],
+[
+"great",
+487.21,
+487.49
+],
+[
+"part",
+487.49,
+487.83
+],
+[
+"of",
+487.83,
+487.99
+],
+[
+"his",
+487.99,
+488.17
+],
+[
+"own",
+488.17,
+488.47
+],
+[
+"power.",
+488.47,
+488.91
+],
+[
+"But",
+489.59,
+489.83
+],
+[
+"the",
+489.83,
+489.97
+],
+[
+"moment",
+489.97,
+490.19
+],
+[
+"he",
+490.19,
+490.43
+],
+[
+"set",
+490.43,
+490.69
+],
+[
+"it",
+490.69,
+490.83
+],
+[
+"on",
+490.83,
+490.95
+],
+[
+"his",
+490.95,
+491.17
+],
+[
+"finger,",
+491.17,
+491.57
+],
+[
+"the",
+492.05,
+492.11
+],
+[
+"Elves",
+492.11,
+492.33
+],
+[
+"were",
+492.33,
+492.67
+],
+[
+"aware",
+492.67,
+492.93
+],
+[
+"of",
+492.93,
+493.15
+],
+[
+"him.",
+493.15,
+493.37
+],
+[
+"They",
+493.92,
+494.22
+],
+[
+"knew",
+494.22,
+494.44
+],
+[
+"him,",
+494.44,
+494.78
+],
+[
+"and",
+495.08,
+495.22
+],
+[
+"saw",
+495.22,
+495.5
+],
+[
+"that",
+495.5,
+495.7
+],
+[
+"he",
+495.7,
+495.92
+],
+[
+"meant",
+495.92,
+496.14
+],
+[
+"to",
+496.14,
+496.48
+],
+[
+"master",
+496.48,
+496.8
+],
+[
+"them.",
+496.8,
+497.12
+],
+[
+"In",
+497.67,
+497.91
+],
+[
+"anger",
+497.91,
+498.23
+],
+[
+"and",
+498.23,
+498.55
+],
+[
+"fear,",
+498.55,
+498.91
+],
+[
+"they",
+499.41,
+499.63
+],
+[
+"took",
+499.63,
+499.93
+],
+[
+"off",
+499.93,
+500.17
+],
+[
+"their",
+500.17,
+500.43
+],
+[
+"rings.",
+500.43,
+500.79
+],
+[
+"Three",
+501.37,
+501.77
+],
+[
+"rings",
+501.77,
+502.17
+],
+[
+"Celebrimbor",
+502.17,
+502.83
+],
+[
+"had",
+502.83,
+503.03
+],
+[
+"made",
+503.03,
+503.33
+],
+[
+"alone,",
+503.33,
+503.75
+],
+[
+"without",
+503.75,
+504.37
+],
+[
+"Annatar's",
+504.37,
+505.03
+],
+[
+"touch.",
+505.03,
+505.27
+],
+[
+"Those,",
+506.31,
+506.79
+],
+[
+"Sauron",
+506.79,
+507.77
+],
+[
+"never",
+507.77,
+508.17
+],
+[
+"found.",
+508.17,
+508.61
+],
+[
+"He",
+509.29,
+509.59
+],
+[
+"took",
+509.59,
+509.85
+],
+[
+"Celebrimbor",
+509.85,
+510.53
+],
+[
+"and",
+510.53,
+510.81
+],
+[
+"tormented",
+510.81,
+511.33
+],
+[
+"him,",
+511.33,
+511.63
+],
+[
+"and",
+512.01,
+512.25
+],
+[
+"the",
+512.25,
+512.39
+],
+[
+"lord",
+512.39,
+512.69
+],
+[
+"of",
+512.69,
+512.85
+],
+[
+"Eregion",
+512.85,
+513.23
+],
+[
+"died",
+513.23,
+513.71
+],
+[
+"without",
+513.71,
+514.41
+],
+[
+"giving",
+514.41,
+514.79
+],
+[
+"up",
+514.79,
+515.01
+],
+[
+"the",
+515.01,
+515.23
+],
+[
+"Three.",
+515.23,
+515.53
+],
+[
+"On",
+516.47,
+516.77
+],
+[
+"television,",
+516.77,
+517.31
+],
+[
+"before",
+517.85,
+518.21
+],
+[
+"Annatar,",
+518.21,
+518.71
+],
+[
+"he",
+519.09,
+519.31
+],
+[
+"wore",
+519.31,
+519.59
+],
+[
+"the",
+519.59,
+519.79
+],
+[
+"face",
+519.79,
+520.03
+],
+[
+"of",
+520.03,
+520.21
+],
+[
+"a",
+520.21,
+520.35
+],
+[
+"man",
+520.35,
+520.59
+],
+[
+"called",
+520.59,
+520.97
+],
+[
+"Halbrand,",
+520.97,
+521.59
+],
+[
+"a",
+521.85,
+522.01
+],
+[
+"lost",
+522.01,
+522.39
+],
+[
+"king",
+522.39,
+522.77
+],
+[
+"of",
+522.77,
+522.99
+],
+[
+"the",
+522.99,
+523.15
+],
+[
+"Southlands.",
+523.15,
+523.83
+],
+[
+"Halbrand",
+524.67,
+524.97
+],
+[
+"is",
+524.97,
+525.33
+],
+[
+"the",
+525.33,
+525.51
+],
+[
+"show's",
+525.51,
+525.87
+],
+[
+"invention.",
+525.87,
+526.25
+],
+[
+"In",
+527.55,
+527.75
+],
+[
+"the",
+527.75,
+527.89
+],
+[
+"books,",
+527.89,
+528.27
+],
+[
+"Eregion",
+528.83,
+529.13
+],
+[
+"knew",
+529.13,
+529.39
+],
+[
+"only",
+529.39,
+529.71
+],
+[
+"one",
+529.71,
+530.05
+],
+[
+"mask:",
+530.05,
+530.51
+],
+[
+"the",
+531.07,
+531.29
+],
+[
+"Lord",
+531.29,
+531.67
+],
+[
+"of",
+531.67,
+532.23
+],
+[
+"Gifts.",
+532.23,
+532.47
+],
+[
+"Then",
+535.22,
+535.52
+],
+[
+"came",
+535.52,
+535.82
+],
+[
+"the",
+535.82,
+536.02
+],
+[
+"Men",
+536.02,
+536.2
+],
+[
+"of",
+536.2,
+536.38
+],
+[
+"N\u00famenor,",
+536.38,
+536.86
+],
+[
+"the",
+537.22,
+537.34
+],
+[
+"greatest",
+537.34,
+537.7
+],
+[
+"kingdom",
+537.7,
+538.02
+],
+[
+"of",
+538.02,
+538.34
+],
+[
+"Men",
+538.34,
+538.58
+],
+[
+"that",
+538.58,
+538.82
+],
+[
+"ever",
+538.82,
+539.12
+],
+[
+"was.",
+539.12,
+539.58
+],
+[
+"Their",
+540.13,
+540.37
+],
+[
+"king,",
+540.37,
+540.71
+],
+[
+"Ar-Pharaz\u00f4n",
+541.15,
+541.65
+],
+[
+"the",
+541.65,
+541.79
+],
+[
+"Golden,",
+541.79,
+542.03
+],
+[
+"landed",
+542.41,
+542.57
+],
+[
+"with",
+542.57,
+542.87
+],
+[
+"such",
+542.87,
+543.11
+],
+[
+"a",
+543.11,
+543.33
+],
+[
+"host",
+543.33,
+543.63
+],
+[
+"that",
+543.63,
+544.15
+],
+[
+"Sauron's",
+544.15,
+544.67
+],
+[
+"armies",
+544.67,
+545.03
+],
+[
+"fled.",
+545.03,
+545.47
+],
+[
+"So",
+546.27,
+546.53
+],
+[
+"Sauron",
+546.53,
+547.01
+],
+[
+"humbled",
+547.01,
+547.45
+],
+[
+"himself",
+547.45,
+547.79
+],
+[
+"before",
+547.79,
+548.11
+],
+[
+"the",
+548.11,
+548.29
+],
+[
+"king,",
+548.29,
+548.51
+],
+[
+"and",
+548.51,
+549.03
+],
+[
+"let",
+549.03,
+549.25
+],
+[
+"himself",
+549.25,
+549.63
+],
+[
+"be",
+549.63,
+549.91
+],
+[
+"carried",
+549.91,
+550.25
+],
+[
+"across",
+550.25,
+550.59
+],
+[
+"the",
+550.59,
+550.85
+],
+[
+"sea.",
+550.85,
+551.11
+],
+[
+"A",
+551.79,
+551.99
+],
+[
+"prisoner.",
+551.99,
+552.33
+],
+[
+"Within",
+553.25,
+553.45
+],
+[
+"three",
+553.45,
+553.73
+],
+[
+"years,",
+553.73,
+554.01
+],
+[
+"he",
+554.01,
+554.25
+],
+[
+"was",
+554.25,
+554.37
+],
+[
+"the",
+554.37,
+554.55
+],
+[
+"king's",
+554.55,
+555.27
+],
+[
+"closest",
+555.27,
+555.27
+],
+[
+"counsellor.",
+555.27,
+555.69
+],
+[
+"He",
+556.61,
+556.83
+],
+[
+"had",
+556.83,
+557.01
+],
+[
+"the",
+557.01,
+557.15
+],
+[
+"White",
+557.15,
+557.39
+],
+[
+"Tree",
+557.39,
+557.65
+],
+[
+"of",
+557.65,
+557.79
+],
+[
+"the",
+557.79,
+557.95
+],
+[
+"kings",
+557.95,
+558.21
+],
+[
+"cut",
+558.21,
+558.49
+],
+[
+"down,",
+558.49,
+558.85
+],
+[
+"and",
+558.85,
+559.47
+],
+[
+"raised",
+559.47,
+559.87
+],
+[
+"a",
+559.87,
+560.13
+],
+[
+"great",
+560.13,
+560.39
+],
+[
+"temple",
+560.39,
+560.73
+],
+[
+"to",
+560.73,
+560.95
+],
+[
+"Melkor",
+560.95,
+561.41
+],
+[
+"in",
+561.41,
+561.59
+],
+[
+"its",
+561.59,
+561.73
+],
+[
+"place.",
+561.73,
+562.05
+],
+[
+"At",
+563.09,
+563.31
+],
+[
+"last",
+563.31,
+563.63
+],
+[
+"he",
+563.63,
+563.85
+],
+[
+"persuaded",
+563.85,
+564.29
+],
+[
+"the",
+564.29,
+564.55
+],
+[
+"king",
+564.55,
+564.69
+],
+[
+"to",
+564.69,
+564.95
+],
+[
+"sail",
+564.95,
+565.23
+],
+[
+"against",
+565.23,
+565.57
+],
+[
+"the",
+565.57,
+565.81
+],
+[
+"Undying",
+565.81,
+566.25
+],
+[
+"Lands",
+566.25,
+566.59
+],
+[
+"themselves,",
+566.59,
+567.15
+],
+[
+"to",
+567.61,
+567.91
+],
+[
+"seize",
+567.91,
+568.23
+],
+[
+"the",
+568.23,
+568.51
+],
+[
+"life",
+568.51,
+568.81
+],
+[
+"that",
+568.81,
+569.07
+],
+[
+"never",
+569.07,
+569.37
+],
+[
+"ends.",
+569.37,
+569.81
+],
+[
+"And",
+570.69,
+570.95
+],
+[
+"the",
+570.95,
+571.09
+],
+[
+"world",
+571.09,
+571.39
+],
+[
+"was",
+571.39,
+571.63
+],
+[
+"changed.",
+571.63,
+572.15
+],
+[
+"The",
+572.75,
+572.97
+],
+[
+"sea",
+572.97,
+573.25
+],
+[
+"opened,",
+573.25,
+573.67
+],
+[
+"and",
+573.67,
+574.25
+],
+[
+"N\u00famenor",
+574.25,
+574.71
+],
+[
+"fell",
+574.71,
+575.05
+],
+[
+"into",
+575.05,
+575.43
+],
+[
+"the",
+575.43,
+575.61
+],
+[
+"abyss.",
+575.61,
+575.91
+],
+[
+"Sauron",
+576.95,
+577.15
+],
+[
+"was",
+577.15,
+577.31
+],
+[
+"in",
+577.31,
+577.53
+],
+[
+"his",
+577.53,
+577.71
+],
+[
+"temple",
+577.71,
+578.05
+],
+[
+"when",
+578.05,
+578.25
+],
+[
+"it",
+578.25,
+578.37
+],
+[
+"went",
+578.37,
+578.55
+],
+[
+"down.",
+578.55,
+578.89
+],
+[
+"His",
+579.67,
+579.81
+],
+[
+"body",
+579.81,
+580.15
+],
+[
+"was",
+580.15,
+580.37
+],
+[
+"destroyed,",
+580.37,
+580.87
+],
+[
+"and",
+580.87,
+581.17
+],
+[
+"his",
+581.17,
+581.33
+],
+[
+"spirit",
+581.33,
+581.71
+],
+[
+"fled",
+581.71,
+582.07
+],
+[
+"back",
+582.07,
+582.47
+],
+[
+"over",
+582.47,
+582.77
+],
+[
+"the",
+582.77,
+582.93
+],
+[
+"dark",
+582.93,
+583.17
+],
+[
+"water",
+583.17,
+583.47
+],
+[
+"to",
+583.47,
+583.73
+],
+[
+"Mordor.",
+583.73,
+584.09
+],
+[
+"But",
+584.97,
+585.19
+],
+[
+"he",
+585.19,
+585.35
+],
+[
+"had",
+585.35,
+585.55
+],
+[
+"lost",
+585.55,
+585.97
+],
+[
+"something",
+585.97,
+586.51
+],
+[
+"forever.",
+586.51,
+587.6
+],
+[
+"The",
+587.6,
+589.02
+],
+[
+"books",
+589.02,
+589.3
+],
+[
+"say",
+589.3,
+589.72
+],
+[
+"he",
+589.72,
+589.96
+],
+[
+"could",
+589.96,
+590.1
+],
+[
+"never",
+590.1,
+590.46
+],
+[
+"again",
+590.46,
+590.88
+],
+[
+"take",
+590.88,
+591.12
+],
+[
+"a",
+591.12,
+591.3
+],
+[
+"form",
+591.3,
+591.64
+],
+[
+"that",
+591.64,
+591.86
+],
+[
+"seemed",
+591.86,
+592.18
+],
+[
+"fair",
+592.18,
+592.58
+],
+[
+"to",
+592.58,
+592.84
+],
+[
+"Men.",
+592.84,
+593.1
+],
+[
+"And",
+593.42,
+593.89
+],
+[
+"the",
+593.89,
+594.01
+],
+[
+"later",
+594.01,
+594.23
+],
+[
+"notes",
+594.23,
+594.61
+],
+[
+"add",
+594.61,
+594.97
+],
+[
+"one",
+594.97,
+595.31
+],
+[
+"last",
+595.31,
+595.71
+],
+[
+"detail.",
+595.71,
+596.17
+],
+[
+"Until",
+596.87,
+597.17
+],
+[
+"the",
+597.17,
+597.35
+],
+[
+"downfall",
+597.35,
+597.81
+],
+[
+"of",
+597.81,
+598.13
+],
+[
+"N\u00famenor,",
+598.13,
+598.65
+],
+[
+"he",
+598.65,
+599.11
+],
+[
+"still",
+599.11,
+599.47
+],
+[
+"called",
+599.47,
+599.77
+],
+[
+"himself",
+599.77,
+600.23
+],
+[
+"Mairon,",
+600.23,
+601.09
+],
+[
+"the",
+601.09,
+601.59
+],
+[
+"admirable.",
+601.59,
+602.27
+],
+[
+"After",
+602.82,
+603.18
+],
+[
+"the",
+603.18,
+603.38
+],
+[
+"drowning,",
+603.38,
+603.76
+],
+[
+"the",
+603.76,
+604.2
+],
+[
+"admirable",
+604.2,
+604.78
+],
+[
+"was",
+604.78,
+605.0
+],
+[
+"gone.",
+605.0,
+605.32
+],
+[
+"He",
+608.07,
+608.25
+],
+[
+"rebuilt.",
+608.25,
+608.71
+],
+[
+"When",
+609.99,
+610.23
+],
+[
+"the",
+610.23,
+610.37
+],
+[
+"Last",
+610.37,
+610.69
+],
+[
+"Alliance",
+610.69,
+611.07
+],
+[
+"of",
+611.07,
+611.31
+],
+[
+"Elves",
+611.31,
+611.45
+],
+[
+"and",
+611.45,
+611.67
+],
+[
+"Men",
+611.67,
+611.87
+],
+[
+"besieged",
+611.87,
+612.27
+],
+[
+"his",
+612.27,
+612.57
+],
+[
+"tower,",
+612.57,
+612.95
+],
+[
+"Sauron",
+613.61,
+613.79
+],
+[
+"came",
+613.79,
+613.97
+],
+[
+"out",
+613.97,
+614.15
+],
+[
+"and",
+614.15,
+614.29
+],
+[
+"fought",
+614.29,
+614.49
+],
+[
+"Gil-galad",
+614.49,
+615.17
+],
+[
+"and",
+615.17,
+615.39
+],
+[
+"Elendil",
+615.39,
+615.95
+],
+[
+"himself,",
+615.95,
+616.43
+],
+[
+"and",
+616.85,
+617.05
+],
+[
+"both",
+617.05,
+617.23
+],
+[
+"of",
+617.23,
+617.39
+],
+[
+"them",
+617.39,
+617.53
+],
+[
+"fell.",
+617.53,
+617.81
+],
+[
+"Then",
+619.05,
+619.41
+],
+[
+"Isildur",
+619.41,
+620.03
+],
+[
+"cut",
+620.03,
+620.27
+],
+[
+"the",
+620.27,
+620.45
+],
+[
+"Ring",
+620.45,
+620.59
+],
+[
+"from",
+620.59,
+620.79
+],
+[
+"his",
+620.79,
+620.95
+],
+[
+"hand.",
+620.95,
+621.31
+],
+[
+"Isildur",
+622.57,
+622.97
+],
+[
+"wrote",
+622.97,
+623.27
+],
+[
+"that",
+623.27,
+623.53
+],
+[
+"it",
+623.53,
+623.61
+],
+[
+"was",
+623.61,
+623.71
+],
+[
+"hot",
+623.71,
+623.99
+],
+[
+"as",
+623.99,
+624.17
+],
+[
+"a",
+624.17,
+624.31
+],
+[
+"burning",
+624.31,
+624.57
+],
+[
+"coal,",
+624.57,
+624.93
+],
+[
+"and",
+624.93,
+625.49
+],
+[
+"that",
+625.49,
+625.59
+],
+[
+"his",
+625.59,
+625.75
+],
+[
+"hand",
+625.75,
+626.03
+],
+[
+"was",
+626.03,
+626.23
+],
+[
+"scorched.",
+626.23,
+626.83
+],
+[
+"And",
+627.55,
+627.75
+],
+[
+"here,",
+627.75,
+628.13
+],
+[
+"the",
+628.51,
+628.61
+],
+[
+"films",
+628.61,
+628.93
+],
+[
+"and",
+628.93,
+629.13
+],
+[
+"the",
+629.13,
+629.23
+],
+[
+"books",
+629.23,
+629.45
+],
+[
+"part",
+629.45,
+629.73
+],
+[
+"ways.",
+629.73,
+630.11
+],
+[
+"On",
+630.93,
+631.17
+],
+[
+"screen,",
+631.17,
+631.61
+],
+[
+"the",
+632.01,
+632.13
+],
+[
+"Eye",
+632.13,
+632.47
+],
+[
+"is",
+632.47,
+632.71
+],
+[
+"the",
+632.71,
+632.91
+],
+[
+"Dark",
+632.91,
+633.19
+],
+[
+"Lord",
+633.19,
+633.43
+],
+[
+"himself,",
+633.43,
+633.93
+],
+[
+"a",
+634.33,
+634.61
+],
+[
+"giant",
+634.61,
+634.93
+],
+[
+"fire",
+634.93,
+635.41
+],
+[
+"on",
+635.41,
+635.63
+],
+[
+"top",
+635.63,
+635.85
+],
+[
+"of",
+635.85,
+635.99
+],
+[
+"his",
+635.99,
+636.13
+],
+[
+"tower.",
+636.13,
+636.51
+],
+[
+"In",
+637.35,
+637.67
+],
+[
+"the",
+637.67,
+637.79
+],
+[
+"books,",
+637.79,
+638.11
+],
+[
+"the",
+638.67,
+638.89
+],
+[
+"Lidless",
+638.89,
+639.37
+],
+[
+"Eye",
+639.37,
+639.75
+],
+[
+"is",
+639.75,
+640.09
+],
+[
+"his",
+640.09,
+640.29
+],
+[
+"emblem,",
+640.29,
+640.75
+],
+[
+"painted",
+641.27,
+641.53
+],
+[
+"red",
+641.53,
+641.83
+],
+[
+"on",
+641.83,
+641.99
+],
+[
+"his",
+641.99,
+642.19
+],
+[
+"soldiers'",
+642.19,
+642.47
+],
+[
+"shields,",
+642.73,
+642.93
+],
+[
+"and",
+643.37,
+643.59
+],
+[
+"the",
+643.59,
+643.71
+],
+[
+"Eye",
+643.71,
+644.15
+],
+[
+"rimmed",
+644.21,
+644.69
+],
+[
+"with",
+644.69,
+644.83
+],
+[
+"fire",
+644.83,
+645.35
+],
+[
+"appears",
+645.65,
+645.97
+],
+[
+"in",
+645.97,
+646.29
+],
+[
+"visions.",
+646.29,
+646.59
+],
+[
+"The",
+647.45,
+648.01
+],
+[
+"books'",
+648.01,
+648.29
+],
+[
+"Sauron",
+648.81,
+648.99
+],
+[
+"has",
+648.99,
+649.17
+],
+[
+"a",
+649.17,
+649.33
+],
+[
+"body.",
+649.33,
+649.61
+],
+[
+"In",
+650.19,
+650.53
+],
+[
+"the",
+650.53,
+650.63
+],
+[
+"Dead",
+650.63,
+650.83
+],
+[
+"Marshes,",
+650.83,
+651.33
+],
+[
+"Gollum,",
+651.93,
+652.19
+],
+[
+"who",
+652.27,
+652.35
+],
+[
+"was",
+652.35,
+652.47
+],
+[
+"tormented",
+652.47,
+652.85
+],
+[
+"in",
+652.85,
+653.11
+],
+[
+"Mordor,",
+653.11,
+653.37
+],
+[
+"whispers",
+653.55,
+653.75
+],
+[
+"to",
+653.75,
+654.01
+],
+[
+"Frodo,",
+654.01,
+654.31
+],
+[
+"\"He",
+654.69,
+654.79
+],
+[
+"has",
+654.79,
+654.97
+],
+[
+"only",
+654.97,
+655.33
+],
+[
+"four",
+655.33,
+655.73
+],
+[
+"on",
+655.73,
+655.95
+],
+[
+"the",
+655.95,
+656.07
+],
+[
+"Black",
+656.07,
+656.29
+],
+[
+"Hand.",
+656.29,
+656.67
+],
+[
+"But",
+657.43,
+657.73
+],
+[
+"they",
+657.73,
+657.91
+],
+[
+"are",
+657.91,
+658.07
+],
+[
+"enough.\"",
+658.07,
+658.43
+],
+[
+"Four",
+659.25,
+659.93
+],
+[
+"fingers.",
+659.93,
+660.45
+],
+[
+"Most",
+661.31,
+661.45
+],
+[
+"readers",
+661.45,
+661.75
+],
+[
+"believe",
+661.75,
+662.13
+],
+[
+"the",
+662.13,
+662.35
+],
+[
+"missing",
+662.35,
+662.63
+],
+[
+"one",
+662.63,
+662.93
+],
+[
+"is",
+662.93,
+663.21
+],
+[
+"the",
+663.21,
+663.35
+],
+[
+"finger",
+663.35,
+663.59
+],
+[
+"Isildur",
+663.59,
+664.11
+],
+[
+"cut",
+664.11,
+664.31
+],
+[
+"away,",
+664.31,
+664.65
+],
+[
+"three",
+665.13,
+665.37
+],
+[
+"thousand",
+665.37,
+665.79
+],
+[
+"years",
+665.79,
+666.13
+],
+[
+"before.",
+666.13,
+666.59
+],
+[
+"And",
+667.14,
+667.26
+],
+[
+"when",
+667.26,
+667.44
+],
+[
+"the",
+667.44,
+667.64
+],
+[
+"Ring",
+667.64,
+667.88
+],
+[
+"finally",
+667.88,
+668.54
+],
+[
+"falls",
+668.54,
+669.0
+],
+[
+"into",
+669.0,
+669.32
+],
+[
+"the",
+669.32,
+669.5
+],
+[
+"fire,",
+669.5,
+669.86
+],
+[
+"a",
+670.42,
+670.54
+],
+[
+"huge",
+670.54,
+670.82
+],
+[
+"shape",
+670.82,
+671.18
+],
+[
+"of",
+671.18,
+671.36
+],
+[
+"shadow",
+671.36,
+671.82
+],
+[
+"rises",
+671.82,
+672.26
+],
+[
+"over",
+672.26,
+672.62
+],
+[
+"Mordor,",
+672.62,
+672.98
+],
+[
+"crowned",
+673.32,
+673.72
+],
+[
+"with",
+673.72,
+674.0
+],
+[
+"lightning,",
+674.0,
+674.46
+],
+[
+"and",
+674.94,
+675.12
+],
+[
+"stretches",
+675.12,
+675.54
+],
+[
+"out",
+675.54,
+675.86
+],
+[
+"a",
+675.86,
+676.1
+],
+[
+"vast,",
+676.1,
+676.56
+],
+[
+"threatening",
+676.86,
+677.32
+],
+[
+"hand.",
+677.32,
+677.76
+],
+[
+"Then",
+678.48,
+678.64
+],
+[
+"a",
+678.64,
+678.78
+],
+[
+"great",
+678.78,
+679.04
+],
+[
+"wind",
+679.04,
+679.36
+],
+[
+"takes",
+679.36,
+679.64
+],
+[
+"it,",
+679.64,
+679.98
+],
+[
+"and",
+680.44,
+680.7
+],
+[
+"it",
+680.7,
+680.84
+],
+[
+"is",
+680.84,
+680.98
+],
+[
+"all",
+680.98,
+681.4
+],
+[
+"blown",
+681.4,
+681.78
+],
+[
+"away.",
+681.78,
+682.16
+],
+[
+"So,",
+683.71,
+684.09
+],
+[
+"who",
+684.09,
+684.75
+],
+[
+"was",
+684.75,
+685.05
+],
+[
+"Sauron,",
+685.05,
+685.59
+],
+[
+"before",
+685.59,
+686.15
+],
+[
+"he",
+686.15,
+686.41
+],
+[
+"was",
+686.41,
+686.59
+],
+[
+"evil?",
+686.59,
+686.99
+],
+[
+"He",
+687.95,
+688.21
+],
+[
+"was",
+688.21,
+688.39
+],
+[
+"Mairon,",
+688.39,
+688.97
+],
+[
+"the",
+688.97,
+689.37
+],
+[
+"admirable.",
+689.37,
+690.09
+],
+[
+"A",
+690.64,
+691.28
+],
+[
+"craftsman",
+691.28,
+691.96
+],
+[
+"who",
+691.96,
+692.18
+],
+[
+"loved",
+692.18,
+692.6
+],
+[
+"order",
+692.6,
+693.0
+],
+[
+"so",
+693.0,
+693.46
+],
+[
+"much",
+693.46,
+693.76
+],
+[
+"that",
+693.76,
+694.06
+],
+[
+"he",
+694.06,
+694.22
+],
+[
+"forgot",
+694.22,
+694.66
+],
+[
+"who",
+694.66,
+694.98
+],
+[
+"the",
+694.98,
+695.14
+],
+[
+"order",
+695.14,
+695.42
+],
+[
+"was",
+695.42,
+695.7
+],
+[
+"for.",
+695.7,
+696.1
+],
+[
+"He",
+697.1,
+697.38
+],
+[
+"was",
+697.38,
+697.56
+],
+[
+"offered",
+697.56,
+698.04
+],
+[
+"one",
+698.04,
+698.42
+],
+[
+"way",
+698.42,
+698.68
+],
+[
+"back,",
+698.68,
+699.06
+],
+[
+"and",
+699.06,
+699.56
+],
+[
+"his",
+699.56,
+699.74
+],
+[
+"pride",
+699.74,
+700.3
+],
+[
+"closed",
+700.3,
+701.06
+],
+[
+"the",
+701.06,
+701.4
+],
+[
+"door.",
+701.4,
+701.7
+],
+[
+"Nothing",
+703.3,
+703.76
+],
+[
+"is",
+703.76,
+704.0
+],
+[
+"evil",
+704.0,
+704.42
+],
+[
+"in",
+704.42,
+704.6
+],
+[
+"the",
+704.6,
+704.72
+],
+[
+"beginning.",
+704.72,
+705.08
+],
+[
+"Could",
+705.86,
+705.98
+],
+[
+"he",
+705.98,
+706.14
+],
+[
+"have",
+706.14,
+706.26
+],
+[
+"been",
+706.26,
+706.48
+],
+[
+"saved,",
+706.48,
+706.96
+],
+[
+"or",
+706.96,
+707.42
+],
+[
+"was",
+707.42,
+707.74
+],
+[
+"he",
+707.74,
+707.96
+],
+[
+"lost",
+707.96,
+708.32
+],
+[
+"the",
+708.32,
+708.64
+],
+[
+"first",
+708.64,
+708.86
+],
+[
+"time",
+708.86,
+709.18
+],
+[
+"he",
+709.18,
+709.42
+],
+[
+"knelt",
+709.42,
+709.88
+],
+[
+"in",
+709.88,
+710.08
+],
+[
+"the",
+710.08,
+710.22
+],
+[
+"dark?",
+710.22,
+710.56
+],
+[
+"Tell",
+711.7,
+711.92
+],
+[
+"us",
+711.92,
+712.1
+],
+[
+"in",
+712.1,
+712.22
+],
+[
+"the",
+712.22,
+712.34
+],
+[
+"comments.",
+712.34,
+712.7
+],
+[
+"Like",
+713.48,
+713.6
+],
+[
+"this",
+713.6,
+713.86
+],
+[
+"video",
+713.86,
+714.22
+],
+[
+"if",
+714.22,
+714.42
+],
+[
+"the",
+714.42,
+714.58
+],
+[
+"books",
+714.58,
+714.76
+],
+[
+"surprised",
+714.76,
+715.34
+],
+[
+"you,",
+715.34,
+715.7
+],
+[
+"and",
+715.7,
+716.24
+],
+[
+"subscribe",
+716.24,
+716.88
+],
+[
+"to",
+716.88,
+717.26
+],
+[
+"the",
+717.26,
+717.42
+],
+[
+"Mythic",
+717.42,
+717.84
+],
+[
+"Archives",
+717.84,
+718.28
+],
+[
+"for",
+718.28,
+718.62
+],
+[
+"the",
+718.62,
+718.76
+],
+[
+"next",
+718.76,
+719.04
+],
+[
+"record",
+719.04,
+719.44
+],
+[
+"from",
+719.44,
+719.74
+],
+[
+"Middle-earth.",
+719.74,
+720.24
+]
+]
+}
