@@ -40,3 +40,6 @@ Book descriptions first. Where the books are silent, the design is our own and m
 - **Hobbits and the Fellowship drift hard toward the film cast** (Frodo → Elijah Wood, Sam → Sean Astin, Gandalf → Ian McKellen, Legolas, Aragorn). Frame them **from behind, over the shoulder, as hands or props, or small in a wide shot**, never as a frontal face. Group shots: faces distant or in soft focus.
 - Elrond: a plain silver band (the book's circlet), full hairline, never the film's receding hairline and filigree V-circlet.
 - Beren (2026-11-26): long dark hair + beard drifts to film Aragorn. Use short cropped dark hair, stubble, a crooked broken nose and a cheek scar.
+- Gil-galad (2026-11-27): dark hair + circlet drifts to film Elrond. Bare-headed, full wavy hairline.
+- **Canon: four fingers only from the end of the Second Age (SA 3441).** Any earlier Sauron hand (forging the One Ring SA ~1600, Númenor) must have five fingers or stay hidden.
+- Elven cities: never film-style spired citadels; use the plain timber-and-stone Eregion look (S106).

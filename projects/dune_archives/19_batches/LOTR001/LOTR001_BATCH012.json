@@ -2,7 +2,7 @@
  "episode": "LOTR001",
  "batch": "BATCH012",
  "max_batch_size": 10,
- "status": "PLANNED",
+ "status": "GENERATED_1_PASS_9_PENDING",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist.",
  "images": [
@@ -21,7 +21,8 @@
    "refs": [
     "B001S010"
    ],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "qc_note": "canon fix: normal five-finger hand (SA 1600, before Isildur)"
   },
   {
    "scene_id": "LOTR001_SCENE112",

@@ -86,7 +86,8 @@
    "refs": [
     "B001S010"
    ],
-   "qc": "PENDING"
+   "qc": "PENDING",
+   "qc_note": "CANON: SA 3441, before Isildur cuts the finger: hand must show five fingers or be hidden; override the SAURON_DARK four-finger cast text when generating"
   },
   {
    "scene_id": "LOTR001_SCENE137",

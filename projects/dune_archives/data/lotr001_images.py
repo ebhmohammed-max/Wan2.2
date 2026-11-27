@@ -71,7 +71,9 @@ CAST = {
     'EONWE': 'Eonwe, herald of Manwe: a shining warrior in white-gold armour holding a great trumpet, seen from behind',
     'AR_PHARAZON': ('Ar-Pharazon the Golden, King of Numenor: a tall proud king in gleaming golden armour and a golden helm that hides '
                     'most of his face, a black-and-gold cloak'),
-    'GIL_GALAD': 'Gil-galad, High King of the Elves: a tall elf-king with long dark hair, silver mail, a blue cloak, a long spear',
+    'GIL_GALAD': ('Gil-galad, High King of the Elves, an invented face: a tall stern elf-king with a FULL hairline and thick wavy dark-brown hair '
+                  'tied back, clean-shaven, a broad face, grey eyes, NO circlet (bare-headed), silver mail, '
+                  'a deep blue cloak, a long spear; NOT receding hair, NOT resembling Hugo Weaving or any film or Rings of Power actor'),
     'ISILDUR': 'Isildur, a tall Numenorean prince with dark hair, grey eyes, a battle-worn face, dented armour',
     'GOLLUM': ('Gollum as in the books: a small, very thin creature with long thin hands and feet, a few lank hairs, huge pale luminous '
                'eyes, almost entirely in shadow'),
