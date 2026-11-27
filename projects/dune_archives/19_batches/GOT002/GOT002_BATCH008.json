@@ -2,7 +2,7 @@
  "episode": "GOT002",
  "batch": "BATCH008",
  "max_batch_size": 10,
- "status": "PLANNED",
+ "status": "GENERATED_9_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves.",
  "images": [
@@ -21,7 +21,7 @@
    "refs": [
     "B001S005"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE072",
@@ -36,7 +36,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. Brandon of the Bloody Blade, a legendary bronze-age warrior of the First Men with an invented face: tall and raw-boned, a hard scarred face, wild dark hair and beard, wolf-fur cloak over leather, a long bronze sword, a round leather shield, standing in a burned forest clearing at dusk, a long bronze sword darkened along its edge, smoke behind him, legendary and grim. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE073",
@@ -53,7 +53,7 @@
    "refs": [
     "B001S001"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE074",
@@ -70,7 +70,8 @@
    "refs": [
     "B001S003"
    ],
-   "qc": "PENDING"
+   "qc": "REDO",
+   "qc_note": "two greenseers came out GREEN-SKINNED (mossy-green eyes leaked into skin) + letterboxed; redo: all red-eyed or say \"nut-brown skin, only the irises green\""
   },
   {
    "scene_id": "GOT002_SCENE075",
@@ -87,7 +88,7 @@
    "refs": [
     "B001S003"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE076",
@@ -100,7 +101,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. colossal black storm clouds spiralling over a dark sea, lightning striking the water, the sea surface bulging, NO people. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE077",
@@ -113,7 +114,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a colossal wall of grey-green sea rising and rolling toward a rocky coast under a black sky, NO people. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE078",
@@ -126,7 +127,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the ground of a rocky ridge splitting open in long cracks, boulders tumbling, dust and spray, NO people. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE079",
@@ -139,7 +140,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. the long land bridge collapsing into the sea in the storm, enormous sections of rock falling, waves pouring through the gaps, NO people. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE080",
@@ -152,7 +153,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a broken chain of rocky islands stretching across a grey sea where a land bridge once stood, calm after the storm, gulls. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   }
  ]
 }
