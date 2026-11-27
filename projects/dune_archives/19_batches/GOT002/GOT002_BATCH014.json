@@ -2,7 +2,7 @@
  "episode": "GOT002",
  "batch": "BATCH014",
  "max_batch_size": 10,
- "status": "GENERATED_4_PASS",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves.",
  "images": [
@@ -81,7 +81,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. macro of a single drop of blood-red sap running down white weirwood bark, catching the light. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: macro insert, 100mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE136",
@@ -94,7 +94,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. endless empty cave tunnels wound with pale roots, bones of animals, faint glow far away, NO people. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE137",
@@ -107,7 +107,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. faint ghostly small faces half emerging from cave stone and white bark, fading into the roots, eerie and sad. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE138",
@@ -120,7 +120,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a lone white weirwood on a hill silhouetted against a dying deep-red sunset, leaves blowing away, NO people. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE139",
@@ -137,7 +137,7 @@
    "refs": [
     "B001S004"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT002_SCENE140",
@@ -150,7 +150,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a small herd of shaggy mammoths trudging through a blizzard on a white plain. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   }
  ]
 }

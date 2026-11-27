@@ -743,5 +743,6 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 | v2.64 | 2026-11-27 | GOT002: S107–S116 PASS (child flees the torches, ringfort smokes, High Heart, 31 stumps, Andal king among stumps, High Heart ghosts, the snowy North, Andals bogged at the Neck, northern holdfast + heart tree, seven-sided sept). 116/150. |
 | v2.65 | 2026-11-27 | GOT002: S117, S119–S121, S123–S126 PASS (TV silhouette, eyes turn blue, dead host, book closes, crouched hunter→REDO, the Other, child watches storm, Bran party at the hill, Leaf throws fire); S118 + S122 REDO. 124/150. |
 | v2.66 | 2026-11-27 | GOT002: S118 + S122 redo PASS; S127–S134 PASS (cave in the hill, Leaf speaks to Bran, giant & singers, singers in the cave, dawn-of-days vision, roots through the arm, Bran on the root throne, blood-offering vision). 134/150. |
+| v2.67 | 2026-11-27 | GOT002: S135–S144 PASS (red sap tear, empty root tunnels, faces in the stone, weirwood at sunset, last giant, mammoths in blizzard, world men made, obsidian in snow, Fist of the First Men, buried bundle). 144/150. |
 
 > Turn 22 note: the old manifests v11, continuity v1.4 and original tracker Doc have their Drive descriptions set to SUPERSEDED, pointing at the new IDs above. The Drive tracker v2.12 Doc is a snapshot taken before its own ID was added here.
