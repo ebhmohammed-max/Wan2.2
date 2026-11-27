@@ -2,7 +2,7 @@
  "episode": "GOT002",
  "batch": "BATCH005",
  "max_batch_size": 10,
- "status": "GENERATED_9_PASS_1_REDO",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves.",
  "images": [
@@ -98,8 +98,8 @@
    "refs": [
     "B001S003"
    ],
-   "qc": "REDO",
-   "qc_note": "hand shows 4 clawed fingers + thumb (book: 3 + thumb); redo with hand out of frame or explicit digit count; redo 1 (S036 hand ref) STILL 5 digits -> redo 2: hands OUT of frame, forehead to bark"
+   "qc": "PASS",
+   "qc_note": "hand shows 4 clawed fingers + thumb (book: 3 + thumb); redo with hand out of frame or explicit digit count; redo 1 (S036 hand ref) STILL 5 digits -> redo 2: hands OUT of frame, forehead to bark; redo 2 PASS (hands out of frame)"
   },
   {
    "scene_id": "GOT002_SCENE047",
