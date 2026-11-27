@@ -1,0 +1,10489 @@
+{
+"episode": "GOT002",
+"version": "v2",
+"duration": 645.21,
+"fps": 24,
+"ident": [
+37.58,
+42.18
+],
+"sections": {
+"H": {
+"gap_start": 0.45,
+"start": 0.45,
+"end": 36.384,
+"last_word_end": 36.18,
+"num": null,
+"name": "Hook"
+},
+"P": {
+"gap_start": 42.18,
+"start": 42.18,
+"end": 90.83,
+"last_word_end": 90.48,
+"num": null,
+"name": "Prologue: The Maester and the Boy"
+},
+"I": {
+"gap_start": 90.83,
+"start": 93.23,
+"end": 184.34,
+"last_word_end": 183.99,
+"num": "I",
+"name": "The Dawn Age"
+},
+"II": {
+"gap_start": 184.34,
+"start": 186.74,
+"end": 231.531,
+"last_word_end": 231.21,
+"num": "II",
+"name": "The Bridge of Land"
+},
+"CA": {
+"gap_start": 231.531,
+"start": 232.531,
+"end": 242.161,
+"last_word_end": 241.811,
+"num": null,
+"name": "Subscribe"
+},
+"III": {
+"gap_start": 242.761,
+"start": 245.161,
+"end": 314.731,
+"last_word_end": 314.381,
+"num": "III",
+"name": "The Hammer of the Waters"
+},
+"IV": {
+"gap_start": 314.731,
+"start": 317.131,
+"end": 388.161,
+"last_word_end": 387.811,
+"num": "IV",
+"name": "The Isle of Faces"
+},
+"V": {
+"gap_start": 388.161,
+"start": 390.561,
+"end": 450.37,
+"last_word_end": 450.021,
+"num": "V",
+"name": "The Seven-Pointed Star"
+},
+"VI": {
+"gap_start": 450.37,
+"start": 452.77,
+"end": 499.16,
+"last_word_end": 498.81,
+"num": "VI",
+"name": "The Show and the Books"
+},
+"VII": {
+"gap_start": 499.16,
+"start": 501.56,
+"end": 604.39,
+"last_word_end": 604.04,
+"num": "VII",
+"name": "The Last Singers"
+},
+"CB": {
+"gap_start": 604.39,
+"start": 605.59,
+"end": 639.5,
+"last_word_end": 639.21,
+"num": null,
+"name": "Outro"
+}
+},
+"shots": [
+{
+"t0": 0.0,
+"key": "B002S011",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "In every",
+"t1": 3.77
+},
+{
+"t0": 3.77,
+"key": "B001S010",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "And at",
+"t1": 8.74
+},
+{
+"t0": 8.74,
+"key": "B002S012",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "and a long",
+"t1": 12.12
+},
+{
+"t0": 12.12,
+"key": "B002S013",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "The Starks",
+"t1": 14.45
+},
+{
+"t0": 14.45,
+"key": "B002S014",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "But no",
+"t1": 17.09
+},
+{
+"t0": 17.09,
+"key": "B002S015",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "Long before",
+"t1": 23.71
+},
+{
+"t0": 23.71,
+"key": "B002S016",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "Small, and",
+"t1": 28.38
+},
+{
+"t0": 28.38,
+"key": "B002S017",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "They sang",
+"t1": 30.5
+},
+{
+"t0": 30.5,
+"key": "B002S018",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "And when",
+"t1": 34.24
+},
+{
+"t0": 34.24,
+"key": "B002S019",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "H",
+"anchor": "So who",
+"t1": 37.58
+},
+{
+"t0": 37.58,
+"key": "B015S150",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IDENT",
+"anchor": "(ident)",
+"t1": 42.18
+},
+{
+"t0": 42.18,
+"key": "B002S020",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "In the",
+"t1": 46.14
+},
+{
+"t0": 46.14,
+"key": "B003S021",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "He has",
+"t1": 50.39
+},
+{
+"t0": 50.39,
+"key": "B003S022",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "To pass",
+"t1": 54.49
+},
+{
+"t0": 54.49,
+"key": "B003S023",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "One afternoon,",
+"t1": 58.19
+},
+{
+"t0": 58.19,
+"key": "B001S006",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "\"They were",
+"t1": 64.27
+},
+{
+"t0": 64.27,
+"key": "B003S024",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "No castles.",
+"t1": 65.55
+},
+{
+"t0": 65.55,
+"key": "B003S025",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "No cities.",
+"t1": 66.62
+},
+{
+"t0": 66.62,
+"key": "B003S026",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "No men",
+"t1": 68.3
+},
+{
+"t0": 68.3,
+"key": "B003S027",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "Only the",
+"t1": 73.8
+},
+{
+"t0": 73.8,
+"key": "B003S028",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "Bran asks",
+"t1": 76.6
+},
+{
+"t0": 76.6,
+"key": "B003S029",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "The maester",
+"t1": 79.14
+},
+{
+"t0": 79.14,
+"key": "B001S007",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "But the",
+"t1": 84.14
+},
+{
+"t0": 84.14,
+"key": "B003S030",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "She says",
+"t1": 88.94
+},
+{
+"t0": 88.94,
+"key": "B004S031",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "P",
+"anchor": "One of",
+"t1": 90.83
+},
+{
+"t0": 90.83,
+"key": "B001S001",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "The books",
+"t1": 95.95
+},
+{
+"t0": 95.95,
+"key": "B004S032",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "They were",
+"t1": 101.12
+},
+{
+"t0": 101.12,
+"key": "B004S033",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "Their skin",
+"t1": 105.68
+},
+{
+"t0": 105.68,
+"key": "B004S034",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "Their ears",
+"t1": 107.51
+},
+{
+"t0": 107.51,
+"key": "B004S035",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "Their eyes",
+"t1": 112.89
+},
+{
+"t0": 112.89,
+"key": "B004S036",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "And their",
+"t1": 118.99
+},
+{
+"t0": 118.99,
+"key": "B004S037",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "They had",
+"t1": 121.9
+},
+{
+"t0": 121.9,
+"key": "B004S038",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "They lived",
+"t1": 123.36
+},
+{
+"t0": 123.36,
+"key": "B004S039",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "in crannogs",
+"t1": 124.68
+},
+{
+"t0": 124.68,
+"key": "B004S040",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "villages in",
+"t1": 126.88
+},
+{
+"t0": 126.88,
+"key": "B005S041",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "Men and",
+"t1": 133.16
+},
+{
+"t0": 133.16,
+"key": "B005S042",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "Obsidian.",
+"t1": 134.73
+},
+{
+"t0": 134.73,
+"key": "B005S043",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "The glass",
+"t1": 139.27
+},
+{
+"t0": 139.27,
+"key": "B005S044",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "Their gods",
+"t1": 141.73
+},
+{
+"t0": 141.73,
+"key": "B005S045",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "They carved",
+"t1": 146.46
+},
+{
+"t0": 146.46,
+"key": "B001S003",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "And a",
+"t1": 152.35
+},
+{
+"t0": 152.35,
+"key": "B005S046",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "The greenseers.",
+"t1": 154.01
+},
+{
+"t0": 154.01,
+"key": "B005S047",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "Through the",
+"t1": 158.27
+},
+{
+"t0": 158.27,
+"key": "B005S048",
+"recipe": "PAN_RL",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "They were",
+"t1": 160.01
+},
+{
+"t0": 160.01,
+"key": "B001S004",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "The giants",
+"t1": 165.31
+},
+{
+"t0": 165.31,
+"key": "B005S049",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "riding mammoths",
+"t1": 166.63
+},
+{
+"t0": 166.63,
+"key": "B005S050",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "The two",
+"t1": 169.79
+},
+{
+"t0": 169.79,
+"key": "B006S051",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "The maesters",
+"t1": 177.07
+},
+{
+"t0": 177.07,
+"key": "B006S052",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "For thousands",
+"t1": 181.49
+},
+{
+"t0": 181.49,
+"key": "B006S053",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "I",
+"anchor": "Then, from",
+"t1": 184.34
+},
+{
+"t0": 184.34,
+"key": "B006S054",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "In those",
+"t1": 193.8
+},
+{
+"t0": 193.8,
+"key": "B006S055",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "Across it",
+"t1": 195.76
+},
+{
+"t0": 195.76,
+"key": "B006S056",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "The maesters",
+"t1": 198.37
+},
+{
+"t0": 198.37,
+"key": "B006S057",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "Some say",
+"t1": 200.78
+},
+{
+"t0": 200.78,
+"key": "B006S055",
+"recipe": "PAN_RL",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "Others say",
+"t1": 202.28
+},
+{
+"t0": 202.28,
+"key": "B001S005",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "They carried",
+"t1": 204.3
+},
+{
+"t0": 204.3,
+"key": "B006S058",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "great leather",
+"t1": 205.9
+},
+{
+"t0": 205.9,
+"key": "B006S059",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "They rode",
+"t1": 209.58
+},
+{
+"t0": 209.58,
+"key": "B006S060",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "And they",
+"t1": 211.84
+},
+{
+"t0": 211.84,
+"key": "B007S061",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "At first,",
+"t1": 215.62
+},
+{
+"t0": 215.62,
+"key": "B007S062",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "But the",
+"t1": 219.14
+},
+{
+"t0": 219.14,
+"key": "B007S063",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "Then they",
+"t1": 222.47
+},
+{
+"t0": 222.47,
+"key": "B007S064",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "They believed",
+"t1": 225.47
+},
+{
+"t0": 225.47,
+"key": "B007S065",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "So they",
+"t1": 226.97
+},
+{
+"t0": 226.97,
+"key": "B007S066",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "and cut",
+"t1": 229.35
+},
+{
+"t0": 229.35,
+"key": "B007S067",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "II",
+"anchor": "And the",
+"t1": 231.531
+},
+{
+"t0": 231.531,
+"key": "B007S068",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CA",
+"anchor": "What the",
+"t1": 237.151
+},
+{
+"t0": 237.151,
+"key": "B001S010",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CA",
+"anchor": "If you",
+"t1": 242.761
+},
+{
+"t0": 242.761,
+"key": "B007S069",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "The war",
+"t1": 247.271
+},
+{
+"t0": 247.271,
+"key": "B007S070",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "The children",
+"t1": 250.251
+},
+{
+"t0": 250.251,
+"key": "B008S071",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "The First",
+"t1": 253.101
+},
+{
+"t0": 253.101,
+"key": "B008S072",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "In the",
+"t1": 258.481
+},
+{
+"t0": 258.481,
+"key": "B008S073",
+"recipe": "PAN_RL",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "The children",
+"t1": 260.561
+},
+{
+"t0": 260.561,
+"key": "B008S074",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "So their",
+"t1": 264.381
+},
+{
+"t0": 264.381,
+"key": "B008S075",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "Legend says",
+"t1": 266.401
+},
+{
+"t0": 266.401,
+"key": "B008S076",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "the hammer",
+"t1": 268.111
+},
+{
+"t0": 268.111,
+"key": "B008S077",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "The sea",
+"t1": 269.391
+},
+{
+"t0": 269.391,
+"key": "B008S078",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "The land",
+"t1": 270.761
+},
+{
+"t0": 270.761,
+"key": "B008S079",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "And the",
+"t1": 273.621
+},
+{
+"t0": 273.621,
+"key": "B008S080",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "Where the",
+"t1": 281.221
+},
+{
+"t0": 281.221,
+"key": "B009S081",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "It was",
+"t1": 283.401
+},
+{
+"t0": 283.401,
+"key": "B009S082",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "The door",
+"t1": 287.541
+},
+{
+"t0": 287.541,
+"key": "B009S083",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "Legend says",
+"t1": 293.941
+},
+{
+"t0": 293.941,
+"key": "B009S084",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "At the",
+"t1": 304.341
+},
+{
+"t0": 304.341,
+"key": "B009S085",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "Some say",
+"t1": 310.321
+},
+{
+"t0": 310.321,
+"key": "B009S086",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "But the",
+"t1": 312.361
+},
+{
+"t0": 312.361,
+"key": "B007S069",
+"recipe": "PAN_RL",
+"focus": [
+0.5,
+0.5
+],
+"sid": "III",
+"anchor": "And the",
+"t1": 314.731
+},
+{
+"t0": 314.731,
+"key": "B009S087",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "At last,",
+"t1": 319.711
+},
+{
+"t0": 319.711,
+"key": "B009S088",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "In the",
+"t1": 325.531
+},
+{
+"t0": 325.531,
+"key": "B009S089",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "There, the",
+"t1": 332.431
+},
+{
+"t0": 332.431,
+"key": "B009S090",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "The First",
+"t1": 338.491
+},
+{
+"t0": 338.491,
+"key": "B010S091",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "The deep",
+"t1": 341.661
+},
+{
+"t0": 341.661,
+"key": "B010S092",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "And no",
+"t1": 346.161
+},
+{
+"t0": 346.161,
+"key": "B010S093",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "So that",
+"t1": 351.881
+},
+{
+"t0": 351.881,
+"key": "B010S094",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "From that",
+"t1": 355.481
+},
+{
+"t0": 355.481,
+"key": "B010S095",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "A secret",
+"t1": 359.251
+},
+{
+"t0": 359.251,
+"key": "B010S096",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "In the",
+"t1": 362.531
+},
+{
+"t0": 362.531,
+"key": "B010S097",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "What followed",
+"t1": 366.291
+},
+{
+"t0": 366.291,
+"key": "B010S098",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "The Age",
+"t1": 368.311
+},
+{
+"t0": 368.311,
+"key": "B010S099",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "In time,",
+"t1": 375.791
+},
+{
+"t0": 375.791,
+"key": "B010S100",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "When the",
+"t1": 380.951
+},
+{
+"t0": 380.951,
+"key": "B011S101",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IV",
+"anchor": "And according",
+"t1": 388.161
+},
+{
+"t0": 388.161,
+"key": "B011S102",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "Then, the",
+"t1": 395.121
+},
+{
+"t0": 395.121,
+"key": "B001S008",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "The Andals.",
+"t1": 396.641
+},
+{
+"t0": 396.641,
+"key": "B011S103",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "They had",
+"t1": 398.451
+},
+{
+"t0": 398.451,
+"key": "B011S104",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "And they",
+"t1": 404.431
+},
+{
+"t0": 404.431,
+"key": "B011S105",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "To the",
+"t1": 408.101
+},
+{
+"t0": 408.101,
+"key": "B011S106",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "They cut",
+"t1": 409.901
+},
+{
+"t0": 409.901,
+"key": "B011S107",
+"recipe": "PAN_RL",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "hunted the",
+"t1": 411.561
+},
+{
+"t0": 411.561,
+"key": "B011S108",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "and swept",
+"t1": 415.661
+},
+{
+"t0": 415.661,
+"key": "B011S109",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "In the",
+"t1": 419.261
+},
+{
+"t0": 419.261,
+"key": "B011S110",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "Around its",
+"t1": 425.331
+},
+{
+"t0": 425.331,
+"key": "B012S111",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "The songs",
+"t1": 430.201
+},
+{
+"t0": 430.201,
+"key": "B012S112",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "The smallfolk",
+"t1": 433.561
+},
+{
+"t0": 433.561,
+"key": "B012S113",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "But one",
+"t1": 435.861
+},
+{
+"t0": 435.861,
+"key": "B012S114",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "At Moat",
+"t1": 440.391
+},
+{
+"t0": 440.391,
+"key": "B012S115",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "The North",
+"t1": 443.481
+},
+{
+"t0": 443.481,
+"key": "B002S013",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "That is",
+"t1": 448.881
+},
+{
+"t0": 448.881,
+"key": "B012S116",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "V",
+"anchor": "not in",
+"t1": 450.37
+},
+{
+"t0": 450.37,
+"key": "B012S117",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "On television,",
+"t1": 459.31
+},
+{
+"t0": 459.31,
+"key": "B012S118",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "And in",
+"t1": 467.13
+},
+{
+"t0": 467.13,
+"key": "B012S119",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "He becomes",
+"t1": 470.71
+},
+{
+"t0": 470.71,
+"key": "B012S120",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "The children,",
+"t1": 476.39
+},
+{
+"t0": 476.39,
+"key": "B013S121",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "None of",
+"t1": 478.55
+},
+{
+"t0": 478.55,
+"key": "B001S001",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "In the",
+"t1": 482.18
+},
+{
+"t0": 482.18,
+"key": "B013S122",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "They are",
+"t1": 486.17
+},
+{
+"t0": 486.17,
+"key": "B013S123",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "And the",
+"t1": 490.55
+},
+{
+"t0": 490.55,
+"key": "B013S124",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "Nothing in",
+"t1": 493.37
+},
+{
+"t0": 493.37,
+"key": "B010S100",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VI",
+"anchor": "In the",
+"t1": 499.16
+},
+{
+"t0": 499.16,
+"key": "B013S125",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "Beyond the",
+"t1": 506.16
+},
+{
+"t0": 506.16,
+"key": "B013S126",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "They save",
+"t1": 508.19
+},
+{
+"t0": 508.19,
+"key": "B013S127",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "and carry",
+"t1": 511.95
+},
+{
+"t0": 511.95,
+"key": "B001S002",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "One of",
+"t1": 513.79
+},
+{
+"t0": 513.79,
+"key": "B013S128",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "She tells",
+"t1": 517.32
+},
+{
+"t0": 517.32,
+"key": "B013S129",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "The giants",
+"t1": 519.99
+},
+{
+"t0": 519.99,
+"key": "B013S130",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "Their own",
+"t1": 523.97
+},
+{
+"t0": 523.97,
+"key": "B014S131",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "\"Before your",
+"t1": 530.45
+},
+{
+"t0": 530.45,
+"key": "B001S009",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "Deep in",
+"t1": 535.75
+},
+{
+"t0": 535.75,
+"key": "B014S132",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "half swallowed",
+"t1": 541.37
+},
+{
+"t0": 541.37,
+"key": "B014S133",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "Through the",
+"t1": 544.57
+},
+{
+"t0": 544.57,
+"key": "B014S134",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "In one",
+"t1": 550.17
+},
+{
+"t0": 550.17,
+"key": "B014S135",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "He tastes",
+"t1": 552.35
+},
+{
+"t0": 552.35,
+"key": "B014S136",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "Where are",
+"t1": 554.31
+},
+{
+"t0": 554.31,
+"key": "B014S137",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "Leaf answers",
+"t1": 559.92
+},
+{
+"t0": 559.92,
+"key": "B002S015",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "\"That was",
+"t1": 564.72
+},
+{
+"t0": 564.72,
+"key": "B014S138",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "\"Now it",
+"t1": 569.0
+},
+{
+"t0": 569.0,
+"key": "B014S139",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "The giants",
+"t1": 571.28
+},
+{
+"t0": 571.28,
+"key": "B014S140",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "The mammoths",
+"t1": 573.76
+},
+{
+"t0": 573.76,
+"key": "B015S141",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "\"In the",
+"t1": 579.66
+},
+{
+"t0": 579.66,
+"key": "B015S142",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "But the",
+"t1": 582.3
+},
+{
+"t0": 582.3,
+"key": "B015S143",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "On a",
+"t1": 585.0
+},
+{
+"t0": 585.0,
+"key": "B015S144",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "a buried",
+"t1": 588.08
+},
+{
+"t0": 588.08,
+"key": "B015S145",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "Months later,",
+"t1": 597.86
+},
+{
+"t0": 597.86,
+"key": "B015S146",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VII",
+"anchor": "The children's",
+"t1": 604.39
+},
+{
+"t0": 604.39,
+"key": "B002S019",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "So, who",
+"t1": 608.67
+},
+{
+"t0": 608.67,
+"key": "B002S017",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "A small,",
+"t1": 611.89
+},
+{
+"t0": 611.89,
+"key": "B008S079",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "and broke",
+"t1": 615.13
+},
+{
+"t0": 615.13,
+"key": "B015S147",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "They lost",
+"t1": 617.46
+},
+{
+"t0": 617.46,
+"key": "B010S099",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "But they",
+"t1": 622.24
+},
+{
+"t0": 622.24,
+"key": "B015S148",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "Were the",
+"t1": 629.54
+},
+{
+"t0": 629.54,
+"key": "B001S010",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "Tell us",
+"t1": 631.32
+},
+{
+"t0": 631.32,
+"key": "B010S094",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "Like this",
+"t1": 637.43
+},
+{
+"t0": 637.43,
+"key": "B015S149",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "The archive",
+"t1": 645.21
+}
+],
+"graphics": [
+{
+"kind": "TITLE",
+"t0": 34.25,
+"t1": 37.93,
+"p": {
+"kicker": "THE MYTHIC ARCHIVES PRESENTS",
+"title": "BEFORE THE FIRST MEN",
+"sub": "The Ancient World of Westeros"
+}
+},
+{
+"kind": "IDENT",
+"t0": 37.58,
+"t1": 42.18,
+"p": {
+"title": "THE MYTHIC ARCHIVES",
+"tag": "WESTEROS  \u2022  ARRAKIS  \u2022  MIDDLE-EARTH",
+"sub": "A MYTHIC ARCHIVES PRODUCTION  \u00b7  WESTEROS  \u00b7  RECORD 002"
+}
+},
+{
+"kind": "PLACE",
+"t0": 43.89,
+"t1": 47.89,
+"p": {
+"place": "WINTERFELL",
+"sub": "A Game of Thrones \u00b7 the first book"
+}
+},
+{
+"kind": "NAME",
+"t0": 52.22,
+"t1": 55.42,
+"p": {
+"name": "MAESTER LUWIN",
+"role": "Maester of Winterfell"
+}
+},
+{
+"kind": "NOTE",
+"t0": 59.96,
+"t1": 64.36,
+"p": {
+"head": "IN THE BOOKS",
+"body": "A Game of Thrones: Bran's lessons with Maester Luwin."
+}
+},
+{
+"kind": "NAME",
+"t0": 80.33,
+"t1": 83.53,
+"p": {
+"name": "OSHA",
+"role": "Wildling \u00b7 prisoner at Winterfell"
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 90.83,
+"t1": 94.13,
+"p": {
+"num": "I",
+"title": "The Dawn Age"
+}
+},
+{
+"kind": "STAT",
+"t0": 113.9,
+"t1": 117.3,
+"p": {
+"value": 3,
+"label": "FINGERS AND A THUMB",
+"sub": "Black claws instead of nails"
+}
+},
+{
+"kind": "NAME",
+"t0": 133.17,
+"t1": 135.97,
+"p": {
+"name": "OBSIDIAN",
+"role": "Volcanic glass \u00b7 dragonglass"
+}
+},
+{
+"kind": "NAME",
+"t0": 152.36,
+"t1": 155.56,
+"p": {
+"name": "THE GREENSEERS",
+"role": "Eyes green as moss, or red as blood"
+}
+},
+{
+"kind": "NAME",
+"t0": 162.0,
+"t1": 165.4,
+"p": {
+"name": "THE GIANTS",
+"role": "Ten to fourteen feet tall \u00b7 mammoth riders"
+}
+},
+{
+"kind": "NOTE",
+"t0": 170.94,
+"t1": 175.54,
+"p": {
+"head": "THE MAESTERS' HISTORIES",
+"body": "A giant's grave in the North, obsidian arrowheads still lodged in its ribs."
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 184.34,
+"t1": 187.64,
+"p": {
+"num": "II",
+"title": "The Bridge of Land"
+}
+},
+{
+"kind": "PLACE",
+"t0": 192.07,
+"t1": 195.27,
+"p": {
+"place": "THE ARM OF DORNE",
+"sub": "The land bridge to the east"
+}
+},
+{
+"kind": "YEAR",
+"t0": 198.92,
+"t1": 202.52,
+"p": {
+"year": "12,000 YEARS AGO",
+"sub": "Or eight, say others \u00b7 the First Men cross"
+}
+},
+{
+"kind": "NAME",
+"t0": 202.87,
+"t1": 206.07,
+"p": {
+"name": "THE FIRST MEN",
+"role": "Bronze, horses, and their own gods"
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 242.761,
+"t1": 246.061,
+"p": {
+"num": "III",
+"title": "The Hammer of the Waters"
+}
+},
+{
+"kind": "NAME",
+"t0": 256.051,
+"t1": 259.651,
+"p": {
+"name": "BRANDON OF THE BLOODY BLADE",
+"role": "Legendary hero of the First Men"
+}
+},
+{
+"kind": "NOTE",
+"t0": 265.871,
+"t1": 270.071,
+"p": {
+"head": "LEGEND",
+"body": "The Hammer of the Waters: the greenseers break the Arm of Dorne."
+}
+},
+{
+"kind": "PLACE",
+"t0": 279.331,
+"t1": 283.331,
+"p": {
+"place": "THE STEPSTONES",
+"sub": "What remains of the Arm of Dorne"
+}
+},
+{
+"kind": "PLACE",
+"t0": 295.591,
+"t1": 299.591,
+"p": {
+"place": "MOAT CAILIN",
+"sub": "The Children's Tower \u00b7 the Neck"
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 314.731,
+"t1": 318.031,
+"p": {
+"num": "IV",
+"title": "The Isle of Faces"
+}
+},
+{
+"kind": "PLACE",
+"t0": 322.041,
+"t1": 326.041,
+"p": {
+"place": "THE GODS EYE",
+"sub": "The Isle of Faces \u00b7 the riverlands"
+}
+},
+{
+"kind": "NAME",
+"t0": 356.851,
+"t1": 360.051,
+"p": {
+"name": "THE GREEN MEN",
+"role": "Guardians of the Isle of Faces"
+}
+},
+{
+"kind": "STAT",
+"t0": 363.541,
+"t1": 366.941,
+"p": {
+"value": 4000,
+"label": "YEARS OF FRIENDSHIP",
+"sub": "The Pact \u00b7 the Age of Heroes"
+}
+},
+{
+"kind": "STAT",
+"t0": 384.901,
+"t1": 388.001,
+"p": {
+"value": 100,
+"label": "OBSIDIAN DAGGERS",
+"sub": "Every year, says the Night's Watch"
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 388.161,
+"t1": 391.461,
+"p": {
+"num": "V",
+"title": "The Seven-Pointed Star"
+}
+},
+{
+"kind": "NAME",
+"t0": 395.131,
+"t1": 398.131,
+"p": {
+"name": "THE ANDALS",
+"role": "Iron, steel, and the Seven"
+}
+},
+{
+"kind": "PLACE",
+"t0": 417.551,
+"t1": 420.351,
+"p": {
+"place": "HIGH HEART",
+"sub": "The riverlands"
+}
+},
+{
+"kind": "STAT",
+"t0": 420.511,
+"t1": 423.511,
+"p": {
+"value": 31,
+"label": "WEIRWOOD STUMPS",
+"sub": "High Heart"
+}
+},
+{
+"kind": "NOTE",
+"t0": 425.341,
+"t1": 429.741,
+"p": {
+"head": "THE SONGS",
+"body": "Told in the songs. Not every history in the books agrees."
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 450.37,
+"t1": 453.67,
+"p": {
+"num": "VI",
+"title": "The Show and the Books"
+}
+},
+{
+"kind": "NOTE",
+"t0": 455.08,
+"t1": 460.08,
+"p": {
+"head": "THE SHOW",
+"body": "Game of Thrones on HBO, season 6. Not in the books."
+}
+},
+{
+"kind": "NOTE",
+"t0": 476.4,
+"t1": 481.4,
+"p": {
+"head": "IN THE BOOKS",
+"body": "The children never create the Others. Where the Others came from is never said."
+}
+},
+{
+"kind": "CHAPTER",
+"t0": 499.16,
+"t1": 502.46,
+"p": {
+"num": "VII",
+"title": "The Last Singers"
+}
+},
+{
+"kind": "NOTE",
+"t0": 506.17,
+"t1": 510.57,
+"p": {
+"head": "IN THE BOOKS",
+"body": "A Dance with Dragons: Bran's chapters beyond the Wall."
+}
+},
+{
+"kind": "NAME",
+"t0": 512.48,
+"t1": 515.68,
+"p": {
+"name": "LEAF",
+"role": "One of those who sing the song of earth"
+}
+},
+{
+"kind": "NAME",
+"t0": 532.3,
+"t1": 535.7,
+"p": {
+"name": "THE LAST GREENSEER",
+"role": "Half swallowed by a weirwood"
+}
+},
+{
+"kind": "PLACE",
+"t0": 582.31,
+"t1": 586.31,
+"p": {
+"place": "THE FIST OF THE FIRST MEN",
+"sub": "Beyond the Wall \u00b7 above the Milkwater"
+}
+},
+{
+"kind": "NAME",
+"t0": 590.31,
+"t1": 593.51,
+"p": {
+"name": "SAMWELL TARLY",
+"role": "Brother of the Night's Watch"
+}
+},
+{
+"kind": "STAT",
+"t0": 602.07,
+"t1": 605.27,
+"p": {
+"value": 8000,
+"label": "YEARS IN THE GROUND",
+"sub": "The children's glass"
+}
+},
+{
+"kind": "END",
+"t0": 605.54,
+"t1": 645.21,
+"p": {
+"kicker": "WATCH NEXT",
+"title": "THE OTHERS",
+"brand": "A MYTHIC ARCHIVES PRODUCTION",
+"sub": "What the books really say  \u00b7  coming to the archive",
+"q": "INVADERS \u2014 OR GUARDIANS?",
+"q_at": 16.76,
+"comment_at": 25.54,
+"like_at": 25.84,
+"sub_at": 29.67
+}
+}
+],
+"words": [
+[
+"In",
+0.45,
+0.61
+],
+[
+"every",
+0.61,
+0.99
+],
+[
+"castle",
+0.99,
+1.37
+],
+[
+"of",
+1.37,
+1.63
+],
+[
+"the",
+1.63,
+1.75
+],
+[
+"North,",
+1.75,
+2.01
+],
+[
+"there",
+2.01,
+2.39
+],
+[
+"is",
+2.39,
+2.51
+],
+[
+"a",
+2.51,
+2.67
+],
+[
+"godswood.",
+2.67,
+3.29
+],
+[
+"And",
+3.83,
+4.06
+],
+[
+"at",
+4.06,
+4.18
+],
+[
+"its",
+4.18,
+4.34
+],
+[
+"heart",
+4.34,
+4.56
+],
+[
+"stands",
+4.56,
+4.88
+],
+[
+"a",
+4.88,
+5.12
+],
+[
+"tree",
+5.12,
+5.38
+],
+[
+"with",
+5.38,
+5.6
+],
+[
+"bark",
+5.6,
+5.9
+],
+[
+"as",
+5.9,
+6.08
+],
+[
+"white",
+6.08,
+6.38
+],
+[
+"as",
+6.38,
+6.58
+],
+[
+"bone,",
+6.58,
+6.98
+],
+[
+"leaves",
+7.34,
+7.56
+],
+[
+"as",
+7.56,
+7.78
+],
+[
+"red",
+7.78,
+8.04
+],
+[
+"as",
+8.04,
+8.22
+],
+[
+"blood,",
+8.22,
+8.58
+],
+[
+"and",
+8.8,
+8.92
+],
+[
+"a",
+8.92,
+9.06
+],
+[
+"long,",
+9.06,
+9.36
+],
+[
+"sad",
+9.36,
+9.72
+],
+[
+"face",
+9.72,
+10.18
+],
+[
+"carved",
+10.18,
+10.64
+],
+[
+"into",
+10.64,
+11.06
+],
+[
+"its",
+11.06,
+11.26
+],
+[
+"trunk.",
+11.26,
+11.58
+],
+[
+"The",
+12.18,
+12.4
+],
+[
+"Starks",
+12.4,
+12.86
+],
+[
+"pray",
+12.86,
+13.24
+],
+[
+"before",
+13.24,
+13.66
+],
+[
+"it.",
+13.66,
+13.96
+],
+[
+"But",
+14.51,
+14.75
+],
+[
+"no",
+14.75,
+15.03
+],
+[
+"Stark",
+15.03,
+15.37
+],
+[
+"ever",
+15.37,
+15.75
+],
+[
+"carved",
+15.75,
+16.13
+],
+[
+"it.",
+16.13,
+16.53
+],
+[
+"Long",
+17.15,
+17.39
+],
+[
+"before",
+17.39,
+17.73
+],
+[
+"the",
+17.73,
+17.91
+],
+[
+"first",
+17.91,
+18.21
+],
+[
+"king,",
+18.21,
+18.47
+],
+[
+"before",
+18.63,
+18.83
+],
+[
+"the",
+18.83,
+19.05
+],
+[
+"Wall,",
+19.05,
+19.37
+],
+[
+"before",
+19.55,
+19.75
+],
+[
+"a",
+19.75,
+19.97
+],
+[
+"single",
+19.97,
+20.23
+],
+[
+"man",
+20.23,
+20.45
+],
+[
+"set",
+20.45,
+20.69
+],
+[
+"foot",
+20.69,
+20.89
+],
+[
+"in",
+20.89,
+21.07
+],
+[
+"Westeros,",
+21.07,
+21.57
+],
+[
+"someone",
+21.87,
+22.11
+],
+[
+"else",
+22.11,
+22.43
+],
+[
+"lived",
+22.43,
+22.73
+],
+[
+"here.",
+22.73,
+23.11
+],
+[
+"Small,",
+23.77,
+24.11
+],
+[
+"and",
+24.11,
+24.45
+],
+[
+"quick,",
+24.45,
+24.73
+],
+[
+"and",
+24.73,
+25.09
+],
+[
+"dappled",
+25.09,
+25.47
+],
+[
+"like",
+25.47,
+25.69
+],
+[
+"a",
+25.69,
+25.87
+],
+[
+"deer,",
+25.87,
+26.15
+],
+[
+"with",
+26.37,
+26.51
+],
+[
+"eyes",
+26.51,
+26.85
+],
+[
+"like",
+26.85,
+27.13
+],
+[
+"a",
+27.13,
+27.31
+],
+[
+"cat's.",
+27.31,
+28.44
+],
+[
+"They",
+28.44,
+28.86
+],
+[
+"sang",
+28.86,
+29.16
+],
+[
+"to",
+29.16,
+29.38
+],
+[
+"the",
+29.38,
+29.52
+],
+[
+"trees.",
+29.52,
+29.84
+],
+[
+"And",
+30.56,
+30.72
+],
+[
+"when",
+30.72,
+30.86
+],
+[
+"men",
+30.86,
+31.1
+],
+[
+"came,",
+31.1,
+31.48
+],
+[
+"they",
+31.74,
+31.86
+],
+[
+"broke",
+31.86,
+32.12
+],
+[
+"the",
+32.12,
+32.38
+],
+[
+"world",
+32.38,
+32.6
+],
+[
+"to",
+32.6,
+32.84
+],
+[
+"stop",
+32.84,
+33.14
+],
+[
+"them.",
+33.14,
+33.46
+],
+[
+"So",
+34.3,
+34.52
+],
+[
+"who",
+34.52,
+34.7
+],
+[
+"was",
+34.7,
+34.84
+],
+[
+"here",
+34.84,
+35.1
+],
+[
+"before",
+35.1,
+35.4
+],
+[
+"the",
+35.4,
+35.6
+],
+[
+"First",
+35.6,
+35.82
+],
+[
+"Men?",
+35.82,
+36.18
+],
+[
+"In",
+42.3,
+42.6
+],
+[
+"the",
+42.6,
+42.72
+],
+[
+"first",
+42.72,
+42.94
+],
+[
+"book,",
+42.94,
+43.28
+],
+[
+"Bran",
+43.94,
+43.96
+],
+[
+"Stark",
+43.96,
+44.3
+],
+[
+"lies",
+44.3,
+44.58
+],
+[
+"broken",
+44.58,
+44.96
+],
+[
+"in",
+44.96,
+45.22
+],
+[
+"Winterfell.",
+45.22,
+45.74
+],
+[
+"He",
+46.2,
+46.47
+],
+[
+"has",
+46.47,
+46.61
+],
+[
+"fallen",
+46.61,
+46.91
+],
+[
+"from",
+46.91,
+47.23
+],
+[
+"a",
+47.23,
+47.39
+],
+[
+"tower,",
+47.39,
+47.67
+],
+[
+"and",
+48.01,
+48.21
+],
+[
+"he",
+48.21,
+48.33
+],
+[
+"will",
+48.33,
+48.47
+],
+[
+"never",
+48.47,
+48.77
+],
+[
+"walk",
+48.77,
+49.09
+],
+[
+"again.",
+49.09,
+49.45
+],
+[
+"To",
+50.45,
+50.57
+],
+[
+"pass",
+50.57,
+50.83
+],
+[
+"the",
+50.83,
+51.09
+],
+[
+"long",
+51.09,
+51.31
+],
+[
+"days,",
+51.31,
+51.73
+],
+[
+"Maester",
+52.27,
+52.55
+],
+[
+"Luwin",
+52.55,
+52.81
+],
+[
+"gives",
+52.81,
+53.03
+],
+[
+"him",
+53.03,
+53.27
+],
+[
+"lessons.",
+53.27,
+53.55
+],
+[
+"One",
+54.55,
+54.75
+],
+[
+"afternoon,",
+54.75,
+55.23
+],
+[
+"the",
+55.23,
+55.57
+],
+[
+"lesson",
+55.57,
+55.87
+],
+[
+"is",
+55.87,
+56.05
+],
+[
+"about",
+56.05,
+56.27
+],
+[
+"the",
+56.27,
+56.47
+],
+[
+"children",
+56.47,
+56.73
+],
+[
+"of",
+56.73,
+57.01
+],
+[
+"the",
+57.01,
+57.19
+],
+[
+"forest.",
+57.19,
+57.53
+],
+[
+"\"They",
+58.25,
+58.47
+],
+[
+"were",
+58.47,
+58.61
+],
+[
+"a",
+58.61,
+58.75
+],
+[
+"people",
+58.75,
+58.93
+],
+[
+"of",
+58.93,
+59.11
+],
+[
+"the",
+59.11,
+59.25
+],
+[
+"Dawn",
+59.25,
+59.49
+],
+[
+"Age,\"",
+59.49,
+59.87
+],
+[
+"the",
+60.01,
+60.11
+],
+[
+"maester",
+60.11,
+60.47
+],
+[
+"says,",
+60.47,
+60.85
+],
+[
+"\"the",
+61.33,
+61.55
+],
+[
+"very",
+61.55,
+61.83
+],
+[
+"first,",
+61.83,
+62.27
+],
+[
+"before",
+62.27,
+62.73
+],
+[
+"kings",
+62.73,
+63.07
+],
+[
+"and",
+63.07,
+63.31
+],
+[
+"kingdoms.\"",
+63.31,
+63.75
+],
+[
+"No",
+64.33,
+64.55
+],
+[
+"castles.",
+64.55,
+64.85
+],
+[
+"No",
+65.61,
+65.73
+],
+[
+"cities.",
+65.73,
+66.13
+],
+[
+"No",
+66.68,
+66.92
+],
+[
+"men",
+66.92,
+67.18
+],
+[
+"at",
+67.18,
+67.32
+],
+[
+"all.",
+67.32,
+67.64
+],
+[
+"Only",
+68.36,
+68.64
+],
+[
+"the",
+68.64,
+68.9
+],
+[
+"children,",
+68.9,
+69.32
+],
+[
+"in",
+69.88,
+69.96
+],
+[
+"the",
+69.96,
+70.08
+],
+[
+"lands",
+70.08,
+70.36
+],
+[
+"we",
+70.36,
+70.54
+],
+[
+"now",
+70.54,
+70.72
+],
+[
+"call",
+70.72,
+71.02
+],
+[
+"the",
+71.02,
+71.24
+],
+[
+"Seven",
+71.24,
+71.56
+],
+[
+"Kingdoms.",
+71.56,
+71.94
+],
+[
+"Bran",
+73.86,
+74.1
+],
+[
+"asks",
+74.1,
+74.44
+],
+[
+"if",
+74.44,
+74.76
+],
+[
+"they",
+74.76,
+74.9
+],
+[
+"are",
+74.9,
+75.04
+],
+[
+"still",
+75.04,
+75.3
+],
+[
+"out",
+75.3,
+75.54
+],
+[
+"there.",
+75.54,
+75.84
+],
+[
+"The",
+76.66,
+76.9
+],
+[
+"maester",
+76.9,
+77.26
+],
+[
+"says",
+77.26,
+77.62
+],
+[
+"they",
+77.62,
+77.86
+],
+[
+"are",
+77.86,
+78.0
+],
+[
+"gone.",
+78.0,
+78.3
+],
+[
+"But",
+79.2,
+79.42
+],
+[
+"the",
+79.42,
+79.56
+],
+[
+"wildling",
+79.56,
+80.08
+],
+[
+"woman",
+80.08,
+80.38
+],
+[
+"Osha,",
+80.38,
+80.78
+],
+[
+"a",
+80.96,
+81.04
+],
+[
+"prisoner",
+81.04,
+81.28
+],
+[
+"in",
+81.28,
+81.56
+],
+[
+"the",
+81.56,
+81.68
+],
+[
+"castle,",
+81.68,
+82.02
+],
+[
+"says",
+82.28,
+82.54
+],
+[
+"something",
+82.54,
+83.06
+],
+[
+"else.",
+83.06,
+83.44
+],
+[
+"She",
+84.2,
+84.44
+],
+[
+"says",
+84.44,
+84.88
+],
+[
+"they",
+85.44,
+85.82
+],
+[
+"still",
+85.82,
+86.3
+],
+[
+"live,",
+86.3,
+86.8
+],
+[
+"beyond",
+87.28,
+87.66
+],
+[
+"the",
+87.66,
+87.92
+],
+[
+"Wall.",
+87.92,
+88.22
+],
+[
+"One",
+89.0,
+89.58
+],
+[
+"of",
+89.58,
+89.7
+],
+[
+"them",
+89.7,
+89.9
+],
+[
+"was",
+89.9,
+90.12
+],
+[
+"lying.",
+90.12,
+90.48
+],
+[
+"The",
+93.23,
+93.35
+],
+[
+"books",
+93.35,
+93.55
+],
+[
+"describe",
+93.55,
+94.07
+],
+[
+"them",
+94.07,
+94.31
+],
+[
+"in",
+94.31,
+94.59
+],
+[
+"careful",
+94.59,
+94.93
+],
+[
+"detail.",
+94.93,
+95.43
+],
+[
+"They",
+96.01,
+96.21
+],
+[
+"were",
+96.21,
+96.37
+],
+[
+"small,",
+96.37,
+96.81
+],
+[
+"about",
+97.15,
+97.43
+],
+[
+"the",
+97.43,
+97.65
+],
+[
+"size",
+97.65,
+97.95
+],
+[
+"of",
+97.95,
+98.17
+],
+[
+"human",
+98.17,
+98.45
+],
+[
+"children,",
+98.45,
+98.83
+],
+[
+"but",
+99.11,
+99.39
+],
+[
+"they",
+99.39,
+99.55
+],
+[
+"were",
+99.55,
+99.71
+],
+[
+"not",
+99.71,
+99.97
+],
+[
+"childlike.",
+99.97,
+100.63
+],
+[
+"Their",
+101.18,
+101.36
+],
+[
+"skin",
+101.36,
+101.74
+],
+[
+"was",
+101.74,
+101.98
+],
+[
+"nut-brown,",
+101.98,
+102.64
+],
+[
+"dappled",
+103.02,
+103.24
+],
+[
+"with",
+103.24,
+103.5
+],
+[
+"paler",
+103.5,
+103.9
+],
+[
+"spots",
+103.9,
+104.22
+],
+[
+"like",
+104.22,
+104.56
+],
+[
+"a",
+104.56,
+104.74
+],
+[
+"deer's.",
+104.74,
+105.22
+],
+[
+"Their",
+105.74,
+106.01
+],
+[
+"ears",
+106.01,
+106.35
+],
+[
+"were",
+106.35,
+106.65
+],
+[
+"large.",
+106.65,
+106.99
+],
+[
+"Their",
+107.57,
+107.73
+],
+[
+"eyes",
+107.73,
+108.11
+],
+[
+"were",
+108.11,
+108.35
+],
+[
+"gold",
+108.35,
+108.69
+],
+[
+"and",
+108.69,
+108.89
+],
+[
+"green,",
+108.89,
+109.21
+],
+[
+"slitted",
+109.49,
+109.71
+],
+[
+"like",
+109.71,
+109.95
+],
+[
+"a",
+109.95,
+110.13
+],
+[
+"cat's,",
+110.13,
+110.69
+],
+[
+"made",
+110.87,
+111.11
+],
+[
+"for",
+111.11,
+111.35
+],
+[
+"seeing",
+111.35,
+111.67
+],
+[
+"in",
+111.67,
+111.89
+],
+[
+"the",
+111.89,
+112.03
+],
+[
+"dark.",
+112.03,
+112.31
+],
+[
+"And",
+112.95,
+113.19
+],
+[
+"their",
+113.19,
+113.37
+],
+[
+"hands",
+113.37,
+113.75
+],
+[
+"had",
+113.75,
+113.95
+],
+[
+"only",
+113.95,
+114.29
+],
+[
+"three",
+114.29,
+114.67
+],
+[
+"fingers",
+114.67,
+115.07
+],
+[
+"and",
+115.07,
+115.33
+],
+[
+"a",
+115.33,
+115.45
+],
+[
+"thumb,",
+115.45,
+115.75
+],
+[
+"with",
+115.95,
+116.11
+],
+[
+"sharp",
+116.11,
+116.49
+],
+[
+"black",
+116.49,
+116.91
+],
+[
+"claws",
+116.91,
+117.41
+],
+[
+"instead",
+117.41,
+117.85
+],
+[
+"of",
+117.85,
+118.03
+],
+[
+"nails.",
+118.03,
+118.29
+],
+[
+"They",
+119.05,
+119.27
+],
+[
+"had",
+119.27,
+119.45
+],
+[
+"no",
+119.45,
+119.71
+],
+[
+"cities,",
+119.71,
+120.03
+],
+[
+"no",
+120.29,
+120.43
+],
+[
+"metal,",
+120.43,
+120.73
+],
+[
+"no",
+120.95,
+121.11
+],
+[
+"writing.",
+121.11,
+121.41
+],
+[
+"They",
+121.96,
+122.24
+],
+[
+"lived",
+122.24,
+122.5
+],
+[
+"in",
+122.5,
+122.78
+],
+[
+"caves,",
+122.78,
+123.18
+],
+[
+"in",
+123.42,
+123.48
+],
+[
+"crannogs,",
+123.48,
+123.96
+],
+[
+"and",
+124.12,
+124.28
+],
+[
+"in",
+124.28,
+124.46
+],
+[
+"hidden",
+124.46,
+124.74
+],
+[
+"villages",
+124.74,
+125.2
+],
+[
+"in",
+125.2,
+125.58
+],
+[
+"the",
+125.58,
+125.72
+],
+[
+"trees.",
+125.72,
+126.06
+],
+[
+"Men",
+126.94,
+127.24
+],
+[
+"and",
+127.24,
+127.54
+],
+[
+"women",
+127.54,
+127.82
+],
+[
+"hunted",
+127.82,
+128.26
+],
+[
+"side",
+128.26,
+128.68
+],
+[
+"by",
+128.68,
+128.9
+],
+[
+"side,",
+128.9,
+129.38
+],
+[
+"with",
+129.52,
+129.72
+],
+[
+"bows",
+129.72,
+130.02
+],
+[
+"of",
+130.02,
+130.26
+],
+[
+"weirwood",
+130.26,
+130.78
+],
+[
+"and",
+130.78,
+131.06
+],
+[
+"blades",
+131.06,
+131.32
+],
+[
+"of",
+131.32,
+131.6
+],
+[
+"black",
+131.6,
+131.98
+],
+[
+"volcanic",
+131.98,
+132.54
+],
+[
+"glass.",
+132.54,
+133.04
+],
+[
+"Obsidian.",
+133.22,
+134.24
+],
+[
+"The",
+134.79,
+134.89
+],
+[
+"glass",
+134.89,
+135.17
+],
+[
+"that,",
+135.17,
+135.51
+],
+[
+"thousands",
+135.65,
+135.95
+],
+[
+"of",
+135.95,
+136.23
+],
+[
+"years",
+136.23,
+136.41
+],
+[
+"later,",
+136.41,
+136.81
+],
+[
+"men",
+137.11,
+137.23
+],
+[
+"would",
+137.23,
+137.43
+],
+[
+"call",
+137.43,
+137.71
+],
+[
+"dragonglass.",
+137.71,
+138.57
+],
+[
+"Their",
+139.33,
+139.61
+],
+[
+"gods",
+139.61,
+139.99
+],
+[
+"were",
+139.99,
+140.27
+],
+[
+"the",
+140.27,
+140.43
+],
+[
+"trees",
+140.43,
+140.69
+],
+[
+"themselves.",
+140.69,
+141.29
+],
+[
+"They",
+141.79,
+142.06
+],
+[
+"carved",
+142.06,
+142.42
+],
+[
+"faces",
+142.42,
+142.96
+],
+[
+"into",
+142.96,
+143.38
+],
+[
+"the",
+143.38,
+143.56
+],
+[
+"weirwoods,",
+143.56,
+144.06
+],
+[
+"so",
+144.06,
+144.32
+],
+[
+"the",
+144.32,
+144.48
+],
+[
+"gods",
+144.48,
+144.68
+],
+[
+"could",
+144.68,
+144.92
+],
+[
+"watch",
+144.92,
+145.2
+],
+[
+"over",
+145.2,
+145.42
+],
+[
+"the",
+145.42,
+145.62
+],
+[
+"forest.",
+145.62,
+145.94
+],
+[
+"And",
+146.52,
+146.84
+],
+[
+"a",
+146.84,
+146.98
+],
+[
+"rare",
+146.98,
+147.28
+],
+[
+"few",
+147.28,
+147.72
+],
+[
+"were",
+147.72,
+147.98
+],
+[
+"born",
+147.98,
+148.26
+],
+[
+"with",
+148.26,
+148.48
+],
+[
+"eyes",
+148.48,
+148.88
+],
+[
+"as",
+148.88,
+149.14
+],
+[
+"green",
+149.14,
+149.58
+],
+[
+"as",
+149.58,
+149.84
+],
+[
+"moss,",
+149.84,
+150.16
+],
+[
+"or",
+150.16,
+150.8
+],
+[
+"red",
+150.8,
+151.2
+],
+[
+"as",
+151.2,
+151.5
+],
+[
+"blood.",
+151.5,
+151.86
+],
+[
+"The",
+152.41,
+152.59
+],
+[
+"greenseers.",
+152.59,
+153.37
+],
+[
+"Through",
+154.07,
+154.37
+],
+[
+"the",
+154.37,
+154.55
+],
+[
+"weirwoods,",
+154.55,
+155.01
+],
+[
+"they",
+155.01,
+155.23
+],
+[
+"could",
+155.23,
+155.39
+],
+[
+"see",
+155.39,
+155.67
+],
+[
+"far",
+155.67,
+155.99
+],
+[
+"away,",
+155.99,
+156.39
+],
+[
+"and",
+156.39,
+156.89
+],
+[
+"long",
+156.89,
+157.13
+],
+[
+"ago.",
+157.13,
+157.47
+],
+[
+"They",
+158.33,
+158.69
+],
+[
+"were",
+158.69,
+158.83
+],
+[
+"not",
+158.83,
+159.03
+],
+[
+"alone.",
+159.03,
+159.41
+],
+[
+"The",
+160.07,
+160.39
+],
+[
+"giants",
+160.39,
+160.77
+],
+[
+"lived",
+160.77,
+161.05
+],
+[
+"here",
+161.05,
+161.33
+],
+[
+"too,",
+161.33,
+161.63
+],
+[
+"ten",
+162.05,
+162.25
+],
+[
+"to",
+162.25,
+162.41
+],
+[
+"fourteen",
+162.41,
+162.87
+],
+[
+"feet",
+162.87,
+163.13
+],
+[
+"tall,",
+163.13,
+163.55
+],
+[
+"shaggy",
+164.07,
+164.31
+],
+[
+"with",
+164.31,
+164.47
+],
+[
+"fur,",
+164.47,
+164.79
+],
+[
+"riding",
+165.37,
+165.55
+],
+[
+"mammoths.",
+165.55,
+166.03
+],
+[
+"The",
+166.69,
+166.97
+],
+[
+"two",
+166.97,
+167.25
+],
+[
+"peoples",
+167.25,
+167.61
+],
+[
+"did",
+167.61,
+167.89
+],
+[
+"not",
+167.89,
+168.19
+],
+[
+"always",
+168.19,
+168.57
+],
+[
+"get",
+168.57,
+168.77
+],
+[
+"along.",
+168.77,
+169.13
+],
+[
+"The",
+169.85,
+170.09
+],
+[
+"maesters",
+170.09,
+170.49
+],
+[
+"record",
+170.49,
+170.99
+],
+[
+"a",
+170.99,
+171.31
+],
+[
+"giant's",
+171.31,
+171.89
+],
+[
+"grave",
+171.89,
+172.11
+],
+[
+"in",
+172.11,
+172.35
+],
+[
+"the",
+172.35,
+172.49
+],
+[
+"North,",
+172.49,
+172.81
+],
+[
+"with",
+172.81,
+173.29
+],
+[
+"obsidian",
+173.29,
+173.93
+],
+[
+"arrowheads",
+173.93,
+174.71
+],
+[
+"still",
+174.71,
+175.13
+],
+[
+"lodged",
+175.13,
+175.49
+],
+[
+"in",
+175.49,
+175.73
+],
+[
+"its",
+175.73,
+175.89
+],
+[
+"ribs.",
+175.89,
+176.23
+],
+[
+"For",
+177.13,
+177.41
+],
+[
+"thousands",
+177.41,
+177.81
+],
+[
+"of",
+177.81,
+178.15
+],
+[
+"years,",
+178.15,
+178.47
+],
+[
+"this",
+178.99,
+179.17
+],
+[
+"was",
+179.17,
+179.41
+],
+[
+"the",
+179.41,
+179.63
+],
+[
+"whole",
+179.63,
+179.95
+],
+[
+"world.",
+179.95,
+180.35
+],
+[
+"Then,",
+181.55,
+181.87
+],
+[
+"from",
+182.27,
+182.47
+],
+[
+"the",
+182.47,
+182.65
+],
+[
+"east,",
+182.65,
+183.01
+],
+[
+"came",
+183.51,
+183.65
+],
+[
+"men.",
+183.65,
+183.99
+],
+[
+"In",
+186.74,
+186.92
+],
+[
+"those",
+186.92,
+187.16
+],
+[
+"days,",
+187.16,
+187.58
+],
+[
+"Westeros",
+187.58,
+188.46
+],
+[
+"and",
+188.46,
+188.72
+],
+[
+"the",
+188.72,
+188.88
+],
+[
+"eastern",
+188.88,
+189.28
+],
+[
+"continent",
+189.28,
+189.8
+],
+[
+"were",
+189.8,
+190.1
+],
+[
+"joined",
+190.1,
+190.5
+],
+[
+"by",
+190.5,
+190.76
+],
+[
+"a",
+190.76,
+190.94
+],
+[
+"bridge",
+190.94,
+191.12
+],
+[
+"of",
+191.12,
+191.32
+],
+[
+"land,",
+191.32,
+191.66
+],
+[
+"the",
+192.12,
+192.22
+],
+[
+"Arm",
+192.22,
+192.5
+],
+[
+"of",
+192.5,
+192.76
+],
+[
+"Dorne.",
+192.76,
+193.06
+],
+[
+"Across",
+193.86,
+194.12
+],
+[
+"it",
+194.12,
+194.36
+],
+[
+"came",
+194.36,
+194.54
+],
+[
+"the",
+194.54,
+194.7
+],
+[
+"First",
+194.7,
+194.9
+],
+[
+"Men.",
+194.9,
+195.2
+],
+[
+"The",
+195.82,
+195.92
+],
+[
+"maesters",
+195.92,
+196.4
+],
+[
+"cannot",
+196.4,
+197.02
+],
+[
+"agree",
+197.02,
+197.48
+],
+[
+"when.",
+197.48,
+197.88
+],
+[
+"Some",
+198.43,
+198.67
+],
+[
+"say",
+198.67,
+198.97
+],
+[
+"twelve",
+198.97,
+199.33
+],
+[
+"thousand",
+199.33,
+199.77
+],
+[
+"years",
+199.77,
+199.95
+],
+[
+"ago.",
+199.95,
+200.29
+],
+[
+"Others",
+200.84,
+201.02
+],
+[
+"say",
+201.02,
+201.42
+],
+[
+"eight.",
+201.42,
+201.78
+],
+[
+"They",
+202.34,
+202.54
+],
+[
+"carried",
+202.54,
+202.92
+],
+[
+"bronze",
+202.92,
+203.36
+],
+[
+"swords",
+203.36,
+203.86
+],
+[
+"and",
+203.86,
+204.36
+],
+[
+"great",
+204.36,
+204.66
+],
+[
+"leather",
+204.66,
+205.02
+],
+[
+"shields.",
+205.02,
+205.52
+],
+[
+"They",
+205.96,
+206.27
+],
+[
+"rode",
+206.27,
+206.55
+],
+[
+"horses,",
+206.55,
+207.11
+],
+[
+"animals",
+207.55,
+207.71
+],
+[
+"the",
+207.71,
+207.97
+],
+[
+"children",
+207.97,
+208.21
+],
+[
+"had",
+208.21,
+208.49
+],
+[
+"never",
+208.49,
+208.73
+],
+[
+"seen.",
+208.73,
+209.09
+],
+[
+"And",
+209.64,
+209.92
+],
+[
+"they",
+209.92,
+210.06
+],
+[
+"brought",
+210.06,
+210.28
+],
+[
+"their",
+210.28,
+210.48
+],
+[
+"own",
+210.48,
+210.82
+],
+[
+"gods.",
+210.82,
+211.14
+],
+[
+"At",
+211.9,
+212.02
+],
+[
+"first,",
+212.02,
+212.3
+],
+[
+"the",
+212.3,
+212.54
+],
+[
+"histories",
+212.54,
+212.78
+],
+[
+"say,",
+212.78,
+213.2
+],
+[
+"the",
+213.2,
+213.72
+],
+[
+"children",
+213.72,
+214.1
+],
+[
+"welcomed",
+214.1,
+214.48
+],
+[
+"them.",
+214.48,
+214.94
+],
+[
+"But",
+215.68,
+215.94
+],
+[
+"the",
+215.94,
+216.1
+],
+[
+"First",
+216.1,
+216.34
+],
+[
+"Men",
+216.34,
+216.7
+],
+[
+"cleared",
+216.7,
+217.34
+],
+[
+"the",
+217.34,
+217.62
+],
+[
+"forests",
+217.62,
+217.88
+],
+[
+"for",
+217.88,
+218.14
+],
+[
+"their",
+218.14,
+218.32
+],
+[
+"fields.",
+218.32,
+218.68
+],
+[
+"Then",
+219.2,
+219.53
+],
+[
+"they",
+219.53,
+219.69
+],
+[
+"began",
+219.69,
+219.97
+],
+[
+"to",
+219.97,
+220.19
+],
+[
+"fear",
+220.19,
+220.51
+],
+[
+"the",
+220.51,
+220.75
+],
+[
+"faces",
+220.75,
+221.17
+],
+[
+"in",
+221.17,
+221.47
+],
+[
+"the",
+221.47,
+221.61
+],
+[
+"trees.",
+221.61,
+221.89
+],
+[
+"They",
+222.53,
+222.69
+],
+[
+"believed",
+222.69,
+223.09
+],
+[
+"the",
+223.09,
+223.35
+],
+[
+"children",
+223.35,
+223.67
+],
+[
+"used",
+223.67,
+224.05
+],
+[
+"them",
+224.05,
+224.33
+],
+[
+"to",
+224.33,
+224.51
+],
+[
+"spy.",
+224.51,
+224.89
+],
+[
+"So",
+225.53,
+225.79
+],
+[
+"they",
+225.79,
+225.95
+],
+[
+"burned",
+225.95,
+226.29
+],
+[
+"the",
+226.29,
+226.55
+],
+[
+"weirwoods,",
+226.55,
+227.03
+],
+[
+"and",
+227.03,
+227.67
+],
+[
+"cut",
+227.67,
+227.87
+],
+[
+"them",
+227.87,
+228.09
+],
+[
+"down.",
+228.09,
+228.39
+],
+[
+"And",
+229.41,
+229.71
+],
+[
+"the",
+229.71,
+229.81
+],
+[
+"children",
+229.81,
+230.17
+],
+[
+"went",
+230.17,
+230.73
+],
+[
+"to",
+230.73,
+230.91
+],
+[
+"war.",
+230.91,
+231.21
+],
+[
+"What",
+232.651,
+232.931
+],
+[
+"the",
+232.931,
+233.111
+],
+[
+"children",
+233.111,
+233.391
+],
+[
+"did",
+233.391,
+233.711
+],
+[
+"next",
+233.711,
+234.151
+],
+[
+"changed",
+234.151,
+234.571
+],
+[
+"the",
+234.571,
+234.931
+],
+[
+"shape",
+234.931,
+235.211
+],
+[
+"of",
+235.211,
+235.631
+],
+[
+"the",
+235.631,
+235.811
+],
+[
+"continent.",
+235.811,
+236.151
+],
+[
+"If",
+237.211,
+237.491
+],
+[
+"you",
+237.491,
+237.731
+],
+[
+"want",
+237.731,
+238.011
+],
+[
+"Westeros",
+238.011,
+238.591
+],
+[
+"the",
+238.591,
+238.851
+],
+[
+"way",
+238.851,
+239.051
+],
+[
+"it",
+239.051,
+239.191
+],
+[
+"is",
+239.191,
+239.331
+],
+[
+"in",
+239.331,
+239.451
+],
+[
+"the",
+239.451,
+239.591
+],
+[
+"books,",
+239.591,
+239.831
+],
+[
+"subscribe",
+240.331,
+240.731
+],
+[
+"to",
+240.731,
+241.051
+],
+[
+"the",
+241.051,
+241.191
+],
+[
+"Mythic",
+241.191,
+241.471
+],
+[
+"Archives.",
+241.471,
+241.811
+],
+[
+"The",
+245.161,
+245.301
+],
+[
+"war",
+245.301,
+245.561
+],
+[
+"lasted",
+245.561,
+245.901
+],
+[
+"for",
+245.901,
+246.261
+],
+[
+"centuries.",
+246.261,
+246.781
+],
+[
+"The",
+247.331,
+247.471
+],
+[
+"children",
+247.471,
+247.851
+],
+[
+"had",
+247.851,
+248.171
+],
+[
+"weirwood",
+248.171,
+248.711
+],
+[
+"bows",
+248.711,
+248.971
+],
+[
+"and",
+248.971,
+249.291
+],
+[
+"obsidian.",
+249.291,
+249.791
+],
+[
+"The",
+250.311,
+250.481
+],
+[
+"First",
+250.481,
+250.701
+],
+[
+"Men",
+250.701,
+250.941
+],
+[
+"had",
+250.941,
+251.181
+],
+[
+"bronze,",
+251.181,
+251.541
+],
+[
+"and",
+251.541,
+252.101
+],
+[
+"numbers.",
+252.101,
+252.461
+],
+[
+"In",
+253.161,
+253.321
+],
+[
+"the",
+253.321,
+253.441
+],
+[
+"riverlands,",
+253.441,
+253.921
+],
+[
+"one",
+254.101,
+254.301
+],
+[
+"legendary",
+254.301,
+254.781
+],
+[
+"warrior",
+254.781,
+255.321
+],
+[
+"earned",
+255.321,
+255.681
+],
+[
+"the",
+255.681,
+255.841
+],
+[
+"name",
+255.841,
+256.101
+],
+[
+"Brandon",
+256.101,
+256.541
+],
+[
+"of",
+256.541,
+256.821
+],
+[
+"the",
+256.821,
+257.001
+],
+[
+"Bloody",
+257.001,
+257.261
+],
+[
+"Blade.",
+257.261,
+257.601
+],
+[
+"The",
+258.541,
+258.901
+],
+[
+"children",
+258.901,
+259.181
+],
+[
+"were",
+259.181,
+259.501
+],
+[
+"losing.",
+259.501,
+259.901
+],
+[
+"So",
+260.621,
+260.821
+],
+[
+"their",
+260.821,
+261.001
+],
+[
+"greenseers",
+261.001,
+261.541
+],
+[
+"turned",
+261.541,
+261.801
+],
+[
+"to",
+261.801,
+261.981
+],
+[
+"the",
+261.981,
+262.121
+],
+[
+"darkest",
+262.121,
+262.441
+],
+[
+"magic",
+262.441,
+262.841
+],
+[
+"they",
+262.841,
+263.061
+],
+[
+"had.",
+263.061,
+263.401
+],
+[
+"Legend",
+264.441,
+264.601
+],
+[
+"says",
+264.601,
+264.981
+],
+[
+"they",
+264.981,
+265.241
+],
+[
+"gathered",
+265.241,
+265.601
+],
+[
+"and",
+265.601,
+265.921
+],
+[
+"called",
+265.921,
+266.201
+],
+[
+"down",
+266.201,
+266.461
+],
+[
+"the",
+266.461,
+266.661
+],
+[
+"hammer",
+266.661,
+266.941
+],
+[
+"of",
+266.941,
+267.161
+],
+[
+"the",
+267.161,
+267.301
+],
+[
+"waters.",
+267.301,
+267.621
+],
+[
+"The",
+268.171,
+268.251
+],
+[
+"sea",
+268.251,
+268.511
+],
+[
+"rose.",
+268.511,
+268.831
+],
+[
+"The",
+269.451,
+269.551
+],
+[
+"land",
+269.551,
+269.891
+],
+[
+"shook.",
+269.891,
+270.271
+],
+[
+"And",
+270.821,
+271.081
+],
+[
+"the",
+271.081,
+271.221
+],
+[
+"Arm",
+271.221,
+271.541
+],
+[
+"of",
+271.541,
+271.821
+],
+[
+"Dorne",
+271.821,
+272.121
+],
+[
+"broke",
+272.121,
+272.481
+],
+[
+"apart.",
+272.481,
+272.921
+],
+[
+"Where",
+273.681,
+273.961
+],
+[
+"the",
+273.961,
+274.121
+],
+[
+"bridge",
+274.121,
+274.361
+],
+[
+"had",
+274.361,
+274.561
+],
+[
+"stood,",
+274.561,
+274.941
+],
+[
+"there",
+275.121,
+275.201
+],
+[
+"was",
+275.201,
+275.321
+],
+[
+"only",
+275.321,
+275.701
+],
+[
+"water,",
+275.701,
+276.101
+],
+[
+"and",
+276.101,
+276.541
+],
+[
+"a",
+276.541,
+276.661
+],
+[
+"broken",
+276.661,
+276.961
+],
+[
+"chain",
+276.961,
+277.321
+],
+[
+"of",
+277.321,
+277.541
+],
+[
+"islands",
+277.541,
+277.961
+],
+[
+"that",
+277.961,
+278.621
+],
+[
+"we",
+278.621,
+278.801
+],
+[
+"now",
+278.801,
+279.021
+],
+[
+"call",
+279.021,
+279.381
+],
+[
+"the",
+279.381,
+279.621
+],
+[
+"Stepstones.",
+279.621,
+280.141
+],
+[
+"It",
+281.281,
+281.561
+],
+[
+"was",
+281.561,
+281.721
+],
+[
+"too",
+281.721,
+281.981
+],
+[
+"late.",
+281.981,
+282.301
+],
+[
+"The",
+283.461,
+283.921
+],
+[
+"door",
+283.921,
+284.161
+],
+[
+"was",
+284.161,
+284.381
+],
+[
+"closed,",
+284.381,
+284.821
+],
+[
+"but",
+284.981,
+285.121
+],
+[
+"the",
+285.121,
+285.281
+],
+[
+"First",
+285.281,
+285.481
+],
+[
+"Men",
+285.481,
+285.721
+],
+[
+"were",
+285.721,
+285.921
+],
+[
+"already",
+285.921,
+286.261
+],
+[
+"through.",
+286.261,
+286.621
+],
+[
+"Legend",
+287.601,
+287.781
+],
+[
+"says",
+287.781,
+288.081
+],
+[
+"the",
+288.081,
+288.281
+],
+[
+"greenseers",
+288.281,
+288.761
+],
+[
+"tried",
+288.761,
+289.041
+],
+[
+"once",
+289.041,
+289.341
+],
+[
+"more,",
+289.341,
+289.781
+],
+[
+"in",
+290.021,
+290.181
+],
+[
+"the",
+290.181,
+290.361
+],
+[
+"North,",
+290.361,
+290.641
+],
+[
+"at",
+290.981,
+291.121
+],
+[
+"the",
+291.121,
+291.281
+],
+[
+"narrow",
+291.281,
+291.541
+],
+[
+"neck",
+291.541,
+291.761
+],
+[
+"of",
+291.761,
+291.961
+],
+[
+"land",
+291.961,
+292.221
+],
+[
+"between",
+292.221,
+292.581
+],
+[
+"the",
+292.581,
+292.781
+],
+[
+"swamps.",
+292.781,
+293.161
+],
+[
+"At",
+294.001,
+294.241
+],
+[
+"the",
+294.241,
+294.441
+],
+[
+"ancient",
+294.441,
+294.801
+],
+[
+"fortress",
+294.801,
+295.321
+],
+[
+"of",
+295.321,
+295.641
+],
+[
+"Moat",
+295.641,
+295.939
+],
+[
+"Cailin,",
+295.939,
+296.461
+],
+[
+"one",
+296.961,
+297.241
+],
+[
+"ruined",
+297.241,
+297.641
+],
+[
+"tower",
+297.641,
+298.141
+],
+[
+"still",
+298.141,
+298.561
+],
+[
+"bears",
+298.561,
+298.841
+],
+[
+"their",
+298.841,
+299.101
+],
+[
+"name:",
+299.101,
+299.421
+],
+[
+"the",
+299.661,
+299.841
+],
+[
+"Children's",
+299.841,
+300.321
+],
+[
+"Tower,",
+300.321,
+300.661
+],
+[
+"where",
+300.901,
+301.041
+],
+[
+"they",
+301.041,
+301.181
+],
+[
+"called",
+301.181,
+301.461
+],
+[
+"upon",
+301.461,
+301.741
+],
+[
+"their",
+301.741,
+302.001
+],
+[
+"gods",
+302.001,
+302.321
+],
+[
+"to",
+302.321,
+302.641
+],
+[
+"bring",
+302.641,
+302.801
+],
+[
+"the",
+302.801,
+302.981
+],
+[
+"hammer",
+302.981,
+303.181
+],
+[
+"down",
+303.181,
+303.461
+],
+[
+"again.",
+303.461,
+303.841
+],
+[
+"Some",
+304.401,
+304.641
+],
+[
+"say",
+304.641,
+305.001
+],
+[
+"that",
+305.001,
+305.281
+],
+[
+"is",
+305.281,
+305.481
+],
+[
+"why",
+305.481,
+305.801
+],
+[
+"the",
+305.801,
+306.001
+],
+[
+"Neck",
+306.001,
+306.201
+],
+[
+"is",
+306.201,
+306.401
+],
+[
+"drowned",
+306.401,
+306.841
+],
+[
+"and",
+306.841,
+307.261
+],
+[
+"full",
+307.261,
+307.641
+],
+[
+"of",
+307.641,
+307.961
+],
+[
+"bogs",
+307.961,
+308.381
+],
+[
+"today.",
+308.381,
+308.841
+],
+[
+"But",
+310.381,
+310.701
+],
+[
+"the",
+310.701,
+310.861
+],
+[
+"Neck",
+310.861,
+311.061
+],
+[
+"held.",
+311.061,
+311.461
+],
+[
+"And",
+312.421,
+313.001
+],
+[
+"the",
+313.001,
+313.161
+],
+[
+"war",
+313.161,
+313.501
+],
+[
+"went",
+313.501,
+313.921
+],
+[
+"on.",
+313.921,
+314.381
+],
+[
+"At",
+317.131,
+317.291
+],
+[
+"last,",
+317.291,
+317.711
+],
+[
+"both",
+317.711,
+318.031
+],
+[
+"sides",
+318.031,
+318.471
+],
+[
+"grew",
+318.471,
+318.751
+],
+[
+"weary.",
+318.751,
+319.051
+],
+[
+"In",
+319.771,
+319.911
+],
+[
+"the",
+319.911,
+320.011
+],
+[
+"middle",
+320.011,
+320.171
+],
+[
+"of",
+320.171,
+320.351
+],
+[
+"a",
+320.351,
+320.531
+],
+[
+"great",
+320.531,
+320.731
+],
+[
+"lake",
+320.731,
+321.031
+],
+[
+"in",
+321.031,
+321.211
+],
+[
+"the",
+321.211,
+321.311
+],
+[
+"riverlands,",
+321.311,
+321.931
+],
+[
+"called",
+322.091,
+322.251
+],
+[
+"the",
+322.251,
+322.411
+],
+[
+"Gods",
+322.411,
+322.811
+],
+[
+"Eye,",
+322.811,
+323.031
+],
+[
+"there",
+323.371,
+323.531
+],
+[
+"is",
+323.531,
+323.671
+],
+[
+"a",
+323.671,
+323.831
+],
+[
+"small",
+323.831,
+324.131
+],
+[
+"island.",
+324.131,
+324.591
+],
+[
+"There,",
+325.591,
+325.971
+],
+[
+"the",
+326.131,
+326.211
+],
+[
+"greenseers",
+326.211,
+326.791
+],
+[
+"and",
+326.791,
+327.051
+],
+[
+"wood",
+327.051,
+327.269
+],
+[
+"dancers",
+327.269,
+327.651
+],
+[
+"of",
+327.651,
+327.891
+],
+[
+"the",
+327.891,
+328.031
+],
+[
+"children",
+328.031,
+328.371
+],
+[
+"met",
+328.371,
+328.611
+],
+[
+"the",
+328.611,
+328.891
+],
+[
+"chiefs",
+328.891,
+329.091
+],
+[
+"and",
+329.091,
+329.331
+],
+[
+"heroes",
+329.331,
+329.631
+],
+[
+"of",
+329.631,
+329.851
+],
+[
+"the",
+329.851,
+329.991
+],
+[
+"First",
+329.991,
+330.171
+],
+[
+"Men,",
+330.171,
+330.491
+],
+[
+"and",
+330.491,
+331.071
+],
+[
+"made",
+331.071,
+331.311
+],
+[
+"the",
+331.311,
+331.511
+],
+[
+"Pact.",
+331.511,
+331.811
+],
+[
+"The",
+332.491,
+332.771
+],
+[
+"First",
+332.771,
+333.011
+],
+[
+"Men",
+333.011,
+333.291
+],
+[
+"would",
+333.291,
+333.511
+],
+[
+"take",
+333.511,
+333.751
+],
+[
+"the",
+333.751,
+334.011
+],
+[
+"coasts,",
+334.011,
+334.311
+],
+[
+"the",
+334.731,
+334.791
+],
+[
+"high",
+334.791,
+335.071
+],
+[
+"plains",
+335.071,
+335.411
+],
+[
+"and",
+335.411,
+335.731
+],
+[
+"bright",
+335.731,
+335.991
+],
+[
+"meadows,",
+335.991,
+336.411
+],
+[
+"the",
+336.771,
+336.871
+],
+[
+"mountains",
+336.871,
+337.271
+],
+[
+"and",
+337.271,
+337.571
+],
+[
+"the",
+337.571,
+337.851
+],
+[
+"bogs.",
+337.851,
+338.051
+],
+[
+"The",
+338.551,
+338.801
+],
+[
+"deep",
+338.801,
+339.041
+],
+[
+"woods",
+339.041,
+339.381
+],
+[
+"would",
+339.381,
+339.581
+],
+[
+"belong",
+339.581,
+339.901
+],
+[
+"to",
+339.901,
+340.141
+],
+[
+"the",
+340.141,
+340.261
+],
+[
+"children",
+340.261,
+340.621
+],
+[
+"forever.",
+340.621,
+341.061
+],
+[
+"And",
+341.721,
+342.021
+],
+[
+"no",
+342.021,
+342.281
+],
+[
+"more",
+342.281,
+342.561
+],
+[
+"weirwoods",
+342.561,
+343.081
+],
+[
+"would",
+343.081,
+343.221
+],
+[
+"be",
+343.221,
+343.381
+],
+[
+"put",
+343.381,
+343.521
+],
+[
+"to",
+343.521,
+343.701
+],
+[
+"the",
+343.701,
+343.861
+],
+[
+"axe,",
+343.861,
+344.161
+],
+[
+"anywhere",
+344.561,
+344.801
+],
+[
+"in",
+344.801,
+345.161
+],
+[
+"the",
+345.161,
+345.261
+],
+[
+"realm.",
+345.261,
+345.461
+],
+[
+"So",
+346.221,
+346.461
+],
+[
+"that",
+346.461,
+346.621
+],
+[
+"the",
+346.621,
+346.821
+],
+[
+"gods",
+346.821,
+347.041
+],
+[
+"could",
+347.041,
+347.341
+],
+[
+"witness",
+347.341,
+347.641
+],
+[
+"it,",
+347.641,
+347.981
+],
+[
+"a",
+348.501,
+348.621
+],
+[
+"face",
+348.621,
+348.921
+],
+[
+"was",
+348.921,
+349.161
+],
+[
+"carved",
+349.161,
+349.581
+],
+[
+"into",
+349.581,
+349.881
+],
+[
+"every",
+349.881,
+350.301
+],
+[
+"tree",
+350.301,
+350.641
+],
+[
+"on",
+350.641,
+350.821
+],
+[
+"the",
+350.821,
+350.941
+],
+[
+"island.",
+350.941,
+351.281
+],
+[
+"From",
+351.941,
+352.081
+],
+[
+"that",
+352.081,
+352.361
+],
+[
+"day",
+352.361,
+352.661
+],
+[
+"it",
+352.661,
+352.841
+],
+[
+"was",
+352.841,
+353.001
+],
+[
+"called",
+353.001,
+353.341
+],
+[
+"the",
+353.341,
+353.701
+],
+[
+"Isle",
+353.701,
+353.941
+],
+[
+"of",
+353.941,
+354.161
+],
+[
+"Faces.",
+354.161,
+354.421
+],
+[
+"A",
+355.541,
+356.061
+],
+[
+"secret",
+356.061,
+356.401
+],
+[
+"order,",
+356.401,
+356.741
+],
+[
+"the",
+356.901,
+357.001
+],
+[
+"green",
+357.001,
+357.281
+],
+[
+"men,",
+357.281,
+357.521
+],
+[
+"was",
+357.581,
+357.761
+],
+[
+"formed",
+357.761,
+358.101
+],
+[
+"to",
+358.101,
+358.461
+],
+[
+"guard",
+358.461,
+358.521
+],
+[
+"it.",
+358.521,
+358.791
+],
+[
+"In",
+359.311,
+359.571
+],
+[
+"the",
+359.571,
+359.711
+],
+[
+"books,",
+359.711,
+359.911
+],
+[
+"some",
+359.911,
+360.291
+],
+[
+"say",
+360.291,
+360.611
+],
+[
+"they",
+360.611,
+360.831
+],
+[
+"guard",
+360.831,
+361.051
+],
+[
+"it",
+361.051,
+361.251
+],
+[
+"still.",
+361.251,
+361.551
+],
+[
+"What",
+362.591,
+362.851
+],
+[
+"followed",
+362.851,
+363.271
+],
+[
+"were",
+363.271,
+363.591
+],
+[
+"four",
+363.591,
+363.951
+],
+[
+"thousand",
+363.951,
+364.471
+],
+[
+"years",
+364.471,
+364.931
+],
+[
+"of",
+364.931,
+365.171
+],
+[
+"friendship.",
+365.171,
+365.631
+],
+[
+"The",
+366.351,
+366.611
+],
+[
+"Age",
+366.611,
+366.971
+],
+[
+"of",
+366.971,
+367.311
+],
+[
+"Heroes.",
+367.311,
+367.611
+],
+[
+"In",
+368.371,
+369.011
+],
+[
+"time,",
+369.011,
+369.451
+],
+[
+"the",
+369.891,
+370.051
+],
+[
+"First",
+370.051,
+370.271
+],
+[
+"Men",
+370.271,
+370.551
+],
+[
+"put",
+370.551,
+370.791
+],
+[
+"aside",
+370.791,
+371.131
+],
+[
+"the",
+371.131,
+371.351
+],
+[
+"gods",
+371.351,
+371.611
+],
+[
+"they",
+371.611,
+371.891
+],
+[
+"had",
+371.891,
+372.031
+],
+[
+"brought",
+372.031,
+372.251
+],
+[
+"with",
+372.251,
+372.451
+],
+[
+"them,",
+372.451,
+372.791
+],
+[
+"and",
+372.791,
+373.311
+],
+[
+"worshipped",
+373.311,
+373.651
+],
+[
+"the",
+373.651,
+373.971
+],
+[
+"old",
+373.971,
+374.271
+],
+[
+"gods",
+374.271,
+374.611
+],
+[
+"of",
+374.611,
+374.831
+],
+[
+"the",
+374.831,
+374.951
+],
+[
+"forest.",
+374.951,
+375.271
+],
+[
+"When",
+375.851,
+375.991
+],
+[
+"the",
+375.991,
+376.151
+],
+[
+"Long",
+376.151,
+376.391
+],
+[
+"Night",
+376.391,
+376.691
+],
+[
+"fell,",
+376.691,
+377.111
+],
+[
+"men",
+377.611,
+377.891
+],
+[
+"and",
+377.891,
+378.091
+],
+[
+"children",
+378.091,
+378.531
+],
+[
+"fought",
+378.531,
+379.091
+],
+[
+"side",
+379.091,
+379.571
+],
+[
+"by",
+379.571,
+379.831
+],
+[
+"side.",
+379.831,
+380.311
+],
+[
+"And",
+381.011,
+381.171
+],
+[
+"according",
+381.171,
+381.491
+],
+[
+"to",
+381.491,
+381.831
+],
+[
+"the",
+381.831,
+381.951
+],
+[
+"Night's",
+381.951,
+382.291
+],
+[
+"Watch,",
+382.291,
+382.631
+],
+[
+"the",
+383.251,
+383.311
+],
+[
+"children",
+383.311,
+383.651
+],
+[
+"once",
+383.651,
+384.131
+],
+[
+"gave",
+384.131,
+384.431
+],
+[
+"the",
+384.431,
+384.651
+],
+[
+"brothers",
+384.651,
+384.951
+],
+[
+"a",
+384.951,
+385.251
+],
+[
+"hundred",
+385.251,
+385.671
+],
+[
+"obsidian",
+385.671,
+386.391
+],
+[
+"daggers",
+386.391,
+387.031
+],
+[
+"every",
+387.031,
+387.451
+],
+[
+"year.",
+387.451,
+387.811
+],
+[
+"Then,",
+390.561,
+390.881
+],
+[
+"the",
+391.201,
+391.301
+],
+[
+"books",
+391.301,
+391.521
+],
+[
+"say,",
+391.521,
+391.941
+],
+[
+"a",
+392.361,
+392.541
+],
+[
+"new",
+392.541,
+392.821
+],
+[
+"people",
+392.821,
+393.181
+],
+[
+"crossed",
+393.181,
+393.561
+],
+[
+"the",
+393.561,
+393.901
+],
+[
+"narrow",
+393.901,
+394.161
+],
+[
+"sea.",
+394.161,
+394.581
+],
+[
+"The",
+395.181,
+395.421
+],
+[
+"Andals.",
+395.421,
+395.901
+],
+[
+"They",
+396.701,
+396.861
+],
+[
+"had",
+396.861,
+397.081
+],
+[
+"iron",
+397.081,
+397.421
+],
+[
+"and",
+397.421,
+397.641
+],
+[
+"steel.",
+397.641,
+397.961
+],
+[
+"And",
+398.511,
+398.711
+],
+[
+"they",
+398.711,
+398.851
+],
+[
+"had",
+398.851,
+399.051
+],
+[
+"a",
+399.051,
+399.211
+],
+[
+"new",
+399.211,
+399.411
+],
+[
+"faith,",
+399.411,
+399.771
+],
+[
+"the",
+400.071,
+400.171
+],
+[
+"Seven,",
+400.171,
+400.491
+],
+[
+"with",
+400.791,
+400.951
+],
+[
+"seven-pointed",
+400.951,
+401.731
+],
+[
+"stars",
+401.731,
+402.271
+],
+[
+"carved",
+402.271,
+402.751
+],
+[
+"into",
+402.751,
+403.091
+],
+[
+"their",
+403.091,
+403.271
+],
+[
+"own",
+403.271,
+403.571
+],
+[
+"chests.",
+403.571,
+403.931
+],
+[
+"To",
+404.491,
+404.691
+],
+[
+"the",
+404.691,
+404.851
+],
+[
+"Andals,",
+404.851,
+405.311
+],
+[
+"the",
+405.651,
+405.711
+],
+[
+"faces",
+405.711,
+406.051
+],
+[
+"in",
+406.051,
+406.451
+],
+[
+"the",
+406.451,
+406.591
+],
+[
+"trees",
+406.591,
+406.871
+],
+[
+"were",
+406.871,
+407.231
+],
+[
+"idols.",
+407.231,
+407.611
+],
+[
+"They",
+408.161,
+408.301
+],
+[
+"cut",
+408.301,
+408.561
+],
+[
+"down",
+408.561,
+408.841
+],
+[
+"the",
+408.841,
+409.021
+],
+[
+"weirwoods,",
+409.021,
+409.501
+],
+[
+"hunted",
+409.961,
+410.121
+],
+[
+"the",
+410.121,
+410.381
+],
+[
+"children",
+410.381,
+410.601
+],
+[
+"who",
+410.601,
+410.861
+],
+[
+"were",
+410.861,
+410.981
+],
+[
+"left,",
+410.981,
+411.261
+],
+[
+"and",
+411.621,
+411.781
+],
+[
+"swept",
+411.781,
+412.081
+],
+[
+"away",
+412.081,
+412.381
+],
+[
+"the",
+412.381,
+412.641
+],
+[
+"kingdoms",
+412.641,
+412.841
+],
+[
+"of",
+412.841,
+413.101
+],
+[
+"the",
+413.101,
+413.241
+],
+[
+"First",
+413.241,
+413.421
+],
+[
+"Men,",
+413.421,
+413.781
+],
+[
+"one",
+414.221,
+414.301
+],
+[
+"by",
+414.301,
+414.521
+],
+[
+"one.",
+414.521,
+414.901
+],
+[
+"In",
+415.721,
+416.021
+],
+[
+"the",
+416.021,
+416.141
+],
+[
+"riverlands,",
+416.141,
+416.741
+],
+[
+"there",
+416.941,
+417.101
+],
+[
+"is",
+417.101,
+417.221
+],
+[
+"a",
+417.221,
+417.381
+],
+[
+"hill",
+417.381,
+417.601
+],
+[
+"called",
+417.601,
+417.941
+],
+[
+"High",
+417.941,
+418.301
+],
+[
+"Heart.",
+418.301,
+418.641
+],
+[
+"Around",
+419.321,
+419.601
+],
+[
+"its",
+419.601,
+419.861
+],
+[
+"crown",
+419.861,
+420.141
+],
+[
+"stand",
+420.141,
+420.561
+],
+[
+"thirty-one",
+420.561,
+421.301
+],
+[
+"white",
+421.301,
+421.601
+],
+[
+"stumps,",
+421.601,
+422.061
+],
+[
+"the",
+422.421,
+422.521
+],
+[
+"remains",
+422.521,
+422.941
+],
+[
+"of",
+422.941,
+423.261
+],
+[
+"a",
+423.261,
+423.421
+],
+[
+"sacred",
+423.421,
+423.801
+],
+[
+"weirwood",
+423.801,
+424.301
+],
+[
+"grove.",
+424.301,
+424.841
+],
+[
+"The",
+425.391,
+425.651
+],
+[
+"songs",
+425.651,
+425.951
+],
+[
+"say",
+425.951,
+426.351
+],
+[
+"an",
+426.351,
+426.551
+],
+[
+"Andal",
+426.551,
+426.931
+],
+[
+"king",
+426.931,
+427.171
+],
+[
+"killed",
+427.171,
+427.571
+],
+[
+"the",
+427.571,
+427.771
+],
+[
+"children",
+427.771,
+428.031
+],
+[
+"there",
+428.031,
+428.371
+],
+[
+"and",
+428.371,
+428.731
+],
+[
+"cut",
+428.731,
+428.951
+],
+[
+"the",
+428.951,
+429.111
+],
+[
+"grove",
+429.111,
+429.431
+],
+[
+"down.",
+429.431,
+429.711
+],
+[
+"The",
+430.261,
+430.441
+],
+[
+"smallfolk",
+430.441,
+430.941
+],
+[
+"say",
+430.941,
+431.241
+],
+[
+"the",
+431.241,
+431.381
+],
+[
+"hill",
+431.381,
+431.541
+],
+[
+"is",
+431.541,
+431.721
+],
+[
+"still",
+431.721,
+431.901
+],
+[
+"haunted",
+431.901,
+432.281
+],
+[
+"by",
+432.281,
+432.521
+],
+[
+"their",
+432.521,
+432.721
+],
+[
+"ghosts.",
+432.721,
+433.041
+],
+[
+"But",
+433.621,
+433.901
+],
+[
+"one",
+433.901,
+434.241
+],
+[
+"kingdom",
+434.241,
+434.621
+],
+[
+"never",
+434.621,
+434.981
+],
+[
+"fell.",
+434.981,
+435.301
+],
+[
+"At",
+435.921,
+436.181
+],
+[
+"Moat",
+436.181,
+436.521
+],
+[
+"Cailin,",
+436.521,
+436.901
+],
+[
+"the",
+437.201,
+437.301
+],
+[
+"Andals",
+437.301,
+437.681
+],
+[
+"were",
+437.681,
+437.881
+],
+[
+"broken",
+437.881,
+438.201
+],
+[
+"against",
+438.201,
+438.521
+],
+[
+"the",
+438.521,
+438.761
+],
+[
+"ruins",
+438.761,
+439.041
+],
+[
+"and",
+439.041,
+439.281
+],
+[
+"the",
+439.281,
+439.531
+],
+[
+"bogs.",
+439.531,
+439.901
+],
+[
+"The",
+440.451,
+440.691
+],
+[
+"North",
+440.691,
+441.061
+],
+[
+"stayed",
+441.061,
+441.481
+],
+[
+"a",
+441.481,
+441.611
+],
+[
+"land",
+441.611,
+441.911
+],
+[
+"of",
+441.911,
+442.101
+],
+[
+"the",
+442.101,
+442.341
+],
+[
+"First",
+442.601,
+442.721
+],
+[
+"Men.",
+442.721,
+442.981
+],
+[
+"That",
+443.541,
+443.781
+],
+[
+"is",
+443.781,
+443.901
+],
+[
+"why,",
+443.901,
+444.241
+],
+[
+"thousands",
+444.461,
+444.761
+],
+[
+"of",
+444.761,
+445.041
+],
+[
+"years",
+445.041,
+445.201
+],
+[
+"later,",
+445.201,
+445.621
+],
+[
+"the",
+445.841,
+445.921
+],
+[
+"Starks",
+445.921,
+446.381
+],
+[
+"still",
+446.381,
+446.701
+],
+[
+"pray",
+446.701,
+447.061
+],
+[
+"before",
+447.061,
+447.441
+],
+[
+"a",
+447.441,
+447.681
+],
+[
+"heart",
+447.681,
+447.921
+],
+[
+"tree,",
+447.921,
+448.261
+],
+[
+"and",
+448.741,
+448.941
+],
+[
+"not",
+448.941,
+449.241
+],
+[
+"in",
+449.241,
+449.521
+],
+[
+"a",
+449.521,
+449.661
+],
+[
+"sept.",
+449.661,
+450.021
+],
+[
+"On",
+452.77,
+452.97
+],
+[
+"television,",
+452.97,
+453.47
+],
+[
+"the",
+454.03,
+454.11
+],
+[
+"children",
+454.11,
+454.37
+],
+[
+"of",
+454.37,
+454.63
+],
+[
+"the",
+454.63,
+454.81
+],
+[
+"forest",
+454.81,
+455.13
+],
+[
+"have",
+455.13,
+455.37
+],
+[
+"skin",
+455.37,
+455.79
+],
+[
+"like",
+455.79,
+456.07
+],
+[
+"bark",
+456.07,
+456.47
+],
+[
+"and",
+456.47,
+456.77
+],
+[
+"leaves",
+456.77,
+457.23
+],
+[
+"growing",
+457.23,
+457.75
+],
+[
+"from",
+457.75,
+458.11
+],
+[
+"their",
+458.11,
+458.31
+],
+[
+"bodies.",
+458.31,
+458.69
+],
+[
+"And",
+459.37,
+459.67
+],
+[
+"in",
+459.67,
+459.81
+],
+[
+"one",
+459.81,
+460.05
+],
+[
+"scene,",
+460.05,
+460.53
+],
+[
+"they",
+460.53,
+461.03
+],
+[
+"bind",
+461.03,
+461.45
+],
+[
+"a",
+461.45,
+461.77
+],
+[
+"First",
+461.77,
+462.07
+],
+[
+"Man",
+462.07,
+462.43
+],
+[
+"to",
+462.43,
+462.69
+],
+[
+"a",
+462.69,
+462.85
+],
+[
+"weirwood,",
+462.85,
+463.31
+],
+[
+"and",
+463.31,
+463.87
+],
+[
+"drive",
+463.87,
+464.19
+],
+[
+"a",
+464.19,
+464.41
+],
+[
+"blade",
+464.41,
+464.67
+],
+[
+"of",
+464.67,
+464.87
+],
+[
+"dragonglass",
+464.87,
+465.65
+],
+[
+"into",
+465.65,
+465.95
+],
+[
+"his",
+465.95,
+466.17
+],
+[
+"heart.",
+466.17,
+466.55
+],
+[
+"He",
+467.19,
+467.39
+],
+[
+"becomes",
+467.39,
+467.79
+],
+[
+"the",
+467.79,
+468.07
+],
+[
+"first",
+468.07,
+468.55
+],
+[
+"White",
+468.55,
+468.97
+],
+[
+"Walker.",
+468.97,
+469.71
+],
+[
+"The",
+470.77,
+471.01
+],
+[
+"children,",
+471.01,
+471.57
+],
+[
+"the",
+472.17,
+472.51
+],
+[
+"show",
+472.51,
+472.75
+],
+[
+"says,",
+472.75,
+473.17
+],
+[
+"created",
+473.73,
+474.07
+],
+[
+"their",
+474.07,
+474.41
+],
+[
+"own",
+474.41,
+474.75
+],
+[
+"destroyer.",
+474.75,
+475.29
+],
+[
+"None",
+476.45,
+476.53
+],
+[
+"of",
+476.53,
+476.71
+],
+[
+"that",
+476.71,
+476.87
+],
+[
+"is",
+476.87,
+477.01
+],
+[
+"in",
+477.01,
+477.17
+],
+[
+"the",
+477.17,
+477.29
+],
+[
+"books.",
+477.29,
+477.61
+],
+[
+"In",
+478.61,
+479.25
+],
+[
+"the",
+479.25,
+479.39
+],
+[
+"books,",
+479.39,
+479.69
+],
+[
+"the",
+480.01,
+480.09
+],
+[
+"children",
+480.09,
+480.41
+],
+[
+"are",
+480.41,
+480.87
+],
+[
+"not",
+480.87,
+481.17
+],
+[
+"plants.",
+481.17,
+481.69
+],
+[
+"They",
+482.24,
+482.44
+],
+[
+"are",
+482.44,
+482.56
+],
+[
+"small,",
+482.56,
+483.1
+],
+[
+"dappled,",
+483.24,
+483.64
+],
+[
+"golden-eyed",
+483.88,
+484.32
+],
+[
+"hunters",
+484.32,
+484.86
+],
+[
+"with",
+484.86,
+485.24
+],
+[
+"claws.",
+485.24,
+485.68
+],
+[
+"And",
+486.23,
+486.69
+],
+[
+"the",
+486.69,
+486.81
+],
+[
+"books",
+486.81,
+487.25
+],
+[
+"never",
+487.25,
+488.09
+],
+[
+"say",
+488.09,
+488.53
+],
+[
+"where",
+488.53,
+488.77
+],
+[
+"the",
+488.77,
+488.97
+],
+[
+"Others",
+488.97,
+489.21
+],
+[
+"came",
+489.21,
+489.53
+],
+[
+"from.",
+489.53,
+489.85
+],
+[
+"Nothing",
+490.61,
+490.91
+],
+[
+"in",
+490.91,
+491.19
+],
+[
+"them",
+491.19,
+491.45
+],
+[
+"blames",
+491.45,
+491.79
+],
+[
+"the",
+491.79,
+492.07
+],
+[
+"children.",
+492.07,
+492.49
+],
+[
+"In",
+493.43,
+493.69
+],
+[
+"the",
+493.69,
+493.81
+],
+[
+"books,",
+493.81,
+494.17
+],
+[
+"the",
+494.75,
+494.81
+],
+[
+"children",
+494.81,
+495.17
+],
+[
+"were",
+495.17,
+495.51
+],
+[
+"the",
+495.51,
+495.67
+],
+[
+"ones",
+495.67,
+495.97
+],
+[
+"who",
+495.97,
+496.23
+],
+[
+"stood",
+496.23,
+496.57
+],
+[
+"beside",
+496.57,
+497.09
+],
+[
+"men",
+497.09,
+497.53
+],
+[
+"when",
+497.53,
+498.01
+],
+[
+"the",
+498.01,
+498.15
+],
+[
+"cold",
+498.15,
+498.43
+],
+[
+"came.",
+498.43,
+498.81
+],
+[
+"Beyond",
+501.56,
+501.98
+],
+[
+"the",
+501.98,
+502.2
+],
+[
+"Wall,",
+502.2,
+502.52
+],
+[
+"in",
+502.86,
+502.9
+],
+[
+"the",
+502.9,
+503.02
+],
+[
+"last",
+503.02,
+503.32
+],
+[
+"published",
+503.32,
+503.74
+],
+[
+"novel,",
+503.74,
+504.22
+],
+[
+"Bran",
+504.6,
+504.6
+],
+[
+"finally",
+504.6,
+505.16
+],
+[
+"finds",
+505.16,
+505.5
+],
+[
+"them.",
+505.5,
+505.82
+],
+[
+"They",
+506.22,
+506.51
+],
+[
+"save",
+506.51,
+506.87
+],
+[
+"him",
+506.87,
+507.11
+],
+[
+"from",
+507.11,
+507.29
+],
+[
+"the",
+507.29,
+507.47
+],
+[
+"dead",
+507.47,
+507.65
+],
+[
+"in",
+507.65,
+507.81
+],
+[
+"the",
+507.81,
+507.93
+],
+[
+"snow,",
+507.93,
+508.25
+],
+[
+"and",
+508.25,
+508.81
+],
+[
+"carry",
+508.81,
+509.11
+],
+[
+"him",
+509.11,
+509.35
+],
+[
+"into",
+509.35,
+509.55
+],
+[
+"a",
+509.55,
+509.79
+],
+[
+"cave",
+509.79,
+510.07
+],
+[
+"beneath",
+510.07,
+510.41
+],
+[
+"a",
+510.41,
+510.59
+],
+[
+"hollow",
+510.59,
+510.85
+],
+[
+"hill.",
+510.85,
+511.19
+],
+[
+"One",
+512.01,
+512.15
+],
+[
+"of",
+512.15,
+512.29
+],
+[
+"them",
+512.29,
+512.39
+],
+[
+"is",
+512.39,
+512.53
+],
+[
+"called",
+512.53,
+512.79
+],
+[
+"Leaf.",
+512.79,
+513.05
+],
+[
+"She",
+513.85,
+514.05
+],
+[
+"tells",
+514.05,
+514.31
+],
+[
+"him",
+514.31,
+514.53
+],
+[
+"that",
+514.53,
+514.69
+],
+[
+"\"children\"",
+514.69,
+514.97
+],
+[
+"is",
+514.97,
+515.43
+],
+[
+"only",
+515.43,
+515.71
+],
+[
+"what",
+515.71,
+515.91
+],
+[
+"men",
+515.91,
+516.19
+],
+[
+"call",
+516.19,
+516.51
+],
+[
+"them.",
+516.51,
+516.83
+],
+[
+"The",
+517.38,
+517.5
+],
+[
+"giants",
+517.5,
+517.78
+],
+[
+"call",
+517.78,
+518.14
+],
+[
+"them",
+518.14,
+518.34
+],
+[
+"the",
+518.34,
+518.5
+],
+[
+"little",
+518.5,
+518.72
+],
+[
+"squirrel",
+518.72,
+519.08
+],
+[
+"people.",
+519.08,
+519.5
+],
+[
+"Their",
+520.05,
+520.13
+],
+[
+"own",
+520.13,
+520.41
+],
+[
+"name",
+520.41,
+520.67
+],
+[
+"is",
+520.67,
+520.87
+],
+[
+"older:",
+520.87,
+521.21
+],
+[
+"those",
+521.71,
+521.87
+],
+[
+"who",
+521.87,
+522.09
+],
+[
+"sing",
+522.09,
+522.39
+],
+[
+"the",
+522.39,
+522.57
+],
+[
+"song",
+522.57,
+522.79
+],
+[
+"of",
+522.79,
+522.97
+],
+[
+"earth.",
+522.97,
+523.23
+],
+[
+"\"Before",
+524.03,
+524.33
+],
+[
+"your",
+524.33,
+524.57
+],
+[
+"Old",
+524.57,
+524.91
+],
+[
+"Tongue",
+524.91,
+525.11
+],
+[
+"was",
+525.11,
+525.29
+],
+[
+"spoken,\"",
+525.29,
+525.69
+],
+[
+"she",
+525.69,
+525.91
+],
+[
+"says,",
+525.91,
+526.19
+],
+[
+"\"we",
+526.59,
+526.81
+],
+[
+"had",
+526.81,
+526.99
+],
+[
+"been",
+526.99,
+527.19
+],
+[
+"singing",
+527.19,
+527.43
+],
+[
+"our",
+527.43,
+527.69
+],
+[
+"songs",
+527.69,
+527.97
+],
+[
+"for",
+527.97,
+528.23
+],
+[
+"ten",
+528.23,
+528.53
+],
+[
+"thousand",
+528.53,
+528.93
+],
+[
+"years.\"",
+528.93,
+529.37
+],
+[
+"Deep",
+530.51,
+530.95
+],
+[
+"in",
+530.95,
+531.13
+],
+[
+"the",
+531.13,
+531.25
+],
+[
+"cave,",
+531.25,
+531.61
+],
+[
+"Bran",
+531.61,
+532.09
+],
+[
+"meets",
+532.09,
+532.35
+],
+[
+"the",
+532.35,
+532.57
+],
+[
+"last",
+532.57,
+532.87
+],
+[
+"greenseer:",
+532.87,
+533.53
+],
+[
+"a",
+533.81,
+533.93
+],
+[
+"pale,",
+533.93,
+534.35
+],
+[
+"withered",
+534.35,
+534.81
+],
+[
+"man,",
+534.81,
+535.19
+],
+[
+"half",
+535.81,
+535.93
+],
+[
+"swallowed",
+535.93,
+536.41
+],
+[
+"by",
+536.41,
+536.71
+],
+[
+"the",
+536.71,
+536.83
+],
+[
+"roots",
+536.83,
+537.03
+],
+[
+"of",
+537.03,
+537.21
+],
+[
+"a",
+537.21,
+537.35
+],
+[
+"weirwood,",
+537.35,
+537.87
+],
+[
+"his",
+538.23,
+538.39
+],
+[
+"one",
+538.39,
+538.77
+],
+[
+"red",
+538.77,
+539.09
+],
+[
+"eye",
+539.09,
+539.47
+],
+[
+"glowing",
+539.47,
+539.87
+],
+[
+"in",
+539.87,
+540.17
+],
+[
+"the",
+540.17,
+540.29
+],
+[
+"dark.",
+540.29,
+540.59
+],
+[
+"Through",
+541.43,
+541.71
+],
+[
+"the",
+541.71,
+541.89
+],
+[
+"trees,",
+541.89,
+542.21
+],
+[
+"Bran",
+542.21,
+542.63
+],
+[
+"begins",
+542.63,
+542.91
+],
+[
+"to",
+542.91,
+543.17
+],
+[
+"see",
+543.17,
+543.33
+],
+[
+"the",
+543.33,
+543.51
+],
+[
+"past.",
+543.51,
+543.83
+],
+[
+"In",
+544.63,
+544.83
+],
+[
+"one",
+544.83,
+545.07
+],
+[
+"vision,",
+545.07,
+545.45
+],
+[
+"he",
+545.45,
+545.93
+],
+[
+"watches",
+545.93,
+546.27
+],
+[
+"the",
+546.27,
+546.61
+],
+[
+"First",
+546.61,
+546.85
+],
+[
+"Men",
+546.85,
+547.19
+],
+[
+"offer",
+547.19,
+547.59
+],
+[
+"blood",
+547.59,
+547.95
+],
+[
+"to",
+547.95,
+548.19
+],
+[
+"the",
+548.19,
+548.35
+],
+[
+"heart",
+548.35,
+548.53
+],
+[
+"tree",
+548.53,
+548.79
+],
+[
+"of",
+548.79,
+548.95
+],
+[
+"Winterfell.",
+548.95,
+549.45
+],
+[
+"He",
+550.23,
+550.49
+],
+[
+"tastes",
+550.49,
+550.85
+],
+[
+"it",
+550.85,
+551.15
+],
+[
+"in",
+551.15,
+551.33
+],
+[
+"his",
+551.33,
+551.47
+],
+[
+"mouth.",
+551.47,
+551.77
+],
+[
+"Where",
+552.41,
+552.67
+],
+[
+"are",
+552.67,
+552.79
+],
+[
+"the",
+552.79,
+552.89
+],
+[
+"rest",
+552.89,
+553.07
+],
+[
+"of",
+553.07,
+553.29
+],
+[
+"them?",
+553.29,
+553.59
+],
+[
+"Leaf",
+554.37,
+554.57
+],
+[
+"answers",
+554.57,
+555.09
+],
+[
+"that",
+555.09,
+555.41
+],
+[
+"the",
+555.41,
+555.55
+],
+[
+"singers",
+555.55,
+555.85
+],
+[
+"have",
+555.85,
+556.21
+],
+[
+"gone",
+556.21,
+556.43
+],
+[
+"into",
+556.43,
+556.83
+],
+[
+"the",
+556.83,
+557.01
+],
+[
+"earth,",
+557.01,
+557.23
+],
+[
+"into",
+557.57,
+557.69
+],
+[
+"the",
+557.69,
+557.87
+],
+[
+"stones,",
+557.87,
+558.23
+],
+[
+"and",
+558.57,
+558.67
+],
+[
+"into",
+558.67,
+558.93
+],
+[
+"the",
+558.93,
+559.09
+],
+[
+"trees.",
+559.09,
+559.43
+],
+[
+"\"That",
+559.98,
+560.28
+],
+[
+"was",
+560.28,
+560.46
+],
+[
+"in",
+560.46,
+560.64
+],
+[
+"the",
+560.64,
+560.82
+],
+[
+"dawn",
+560.82,
+561.1
+],
+[
+"of",
+561.1,
+561.3
+],
+[
+"days,",
+561.3,
+561.6
+],
+[
+"when",
+561.6,
+561.98
+],
+[
+"our",
+561.98,
+562.16
+],
+[
+"sun",
+562.16,
+562.46
+],
+[
+"was",
+562.46,
+562.68
+],
+[
+"rising,\"",
+562.68,
+563.26
+],
+[
+"she",
+563.42,
+563.64
+],
+[
+"says.",
+563.64,
+563.98
+],
+[
+"\"Now",
+564.78,
+565.24
+],
+[
+"it",
+565.24,
+565.48
+],
+[
+"sinks,",
+565.48,
+565.88
+],
+[
+"and",
+566.24,
+566.46
+],
+[
+"this",
+566.46,
+566.7
+],
+[
+"is",
+566.7,
+566.86
+],
+[
+"our",
+566.86,
+567.1
+],
+[
+"long",
+567.1,
+567.56
+],
+[
+"dwindling.\"",
+567.56,
+568.06
+],
+[
+"The",
+569.06,
+569.42
+],
+[
+"giants",
+569.42,
+569.66
+],
+[
+"are",
+569.66,
+569.88
+],
+[
+"almost",
+569.88,
+570.16
+],
+[
+"gone",
+570.16,
+570.42
+],
+[
+"too.",
+570.42,
+570.78
+],
+[
+"The",
+571.34,
+571.46
+],
+[
+"mammoths",
+571.46,
+571.92
+],
+[
+"are",
+571.92,
+572.12
+],
+[
+"down",
+572.12,
+572.34
+],
+[
+"to",
+572.34,
+572.54
+],
+[
+"a",
+572.54,
+572.64
+],
+[
+"few",
+572.64,
+572.8
+],
+[
+"hundred.",
+572.8,
+573.18
+],
+[
+"\"In",
+573.82,
+574.14
+],
+[
+"the",
+574.14,
+574.3
+],
+[
+"world",
+574.3,
+574.54
+],
+[
+"that",
+574.54,
+574.78
+],
+[
+"men",
+574.78,
+575.04
+],
+[
+"have",
+575.04,
+575.26
+],
+[
+"made,\"",
+575.26,
+575.72
+],
+[
+"she",
+575.82,
+575.98
+],
+[
+"says,",
+575.98,
+576.3
+],
+[
+"\"there",
+576.74,
+577.04
+],
+[
+"is",
+577.04,
+577.24
+],
+[
+"no",
+577.24,
+577.5
+],
+[
+"room",
+577.5,
+577.8
+],
+[
+"for",
+577.8,
+578.08
+],
+[
+"them,",
+578.08,
+578.32
+],
+[
+"or",
+578.32,
+578.56
+],
+[
+"us.\"",
+578.56,
+578.88
+],
+[
+"But",
+579.72,
+580.0
+],
+[
+"the",
+580.0,
+580.14
+],
+[
+"old",
+580.14,
+580.38
+],
+[
+"weapons",
+580.38,
+580.72
+],
+[
+"still",
+580.72,
+581.06
+],
+[
+"work.",
+581.06,
+581.42
+],
+[
+"On",
+582.36,
+582.64
+],
+[
+"a",
+582.64,
+582.78
+],
+[
+"hill",
+582.78,
+582.98
+],
+[
+"beyond",
+582.98,
+583.32
+],
+[
+"the",
+583.32,
+583.5
+],
+[
+"Wall,",
+583.5,
+583.76
+],
+[
+"the",
+583.76,
+584.02
+],
+[
+"Night's",
+584.02,
+584.46
+],
+[
+"Watch",
+584.46,
+584.66
+],
+[
+"finds",
+584.66,
+585.06
+],
+[
+"a",
+585.06,
+585.26
+],
+[
+"buried",
+585.26,
+585.7
+],
+[
+"bundle",
+585.7,
+586.1
+],
+[
+"of",
+586.1,
+586.38
+],
+[
+"dragonglass.",
+586.38,
+587.04
+],
+[
+"Months",
+588.14,
+588.28
+],
+[
+"later,",
+588.28,
+588.72
+],
+[
+"a",
+588.72,
+588.98
+],
+[
+"frightened",
+588.98,
+589.36
+],
+[
+"young",
+589.36,
+589.7
+],
+[
+"brother",
+589.7,
+590.02
+],
+[
+"named",
+590.02,
+590.36
+],
+[
+"Samwell",
+590.36,
+591.0
+],
+[
+"Tarly",
+591.0,
+591.58
+],
+[
+"drives",
+591.58,
+592.4
+],
+[
+"a",
+592.4,
+592.66
+],
+[
+"dragonglass",
+592.66,
+593.32
+],
+[
+"dagger",
+593.32,
+593.76
+],
+[
+"into",
+593.76,
+594.16
+],
+[
+"one",
+594.16,
+594.42
+],
+[
+"of",
+594.42,
+594.54
+],
+[
+"the",
+594.54,
+594.68
+],
+[
+"Others,",
+594.68,
+595.04
+],
+[
+"and",
+595.42,
+595.78
+],
+[
+"it",
+595.78,
+595.96
+],
+[
+"melts",
+595.96,
+596.42
+],
+[
+"away.",
+596.42,
+596.96
+],
+[
+"The",
+597.92,
+598.18
+],
+[
+"children's",
+598.18,
+598.82
+],
+[
+"glass,",
+598.82,
+599.16
+],
+[
+"waiting",
+599.96,
+600.38
+],
+[
+"in",
+600.38,
+600.66
+],
+[
+"the",
+600.66,
+600.84
+],
+[
+"ground",
+600.84,
+601.2
+],
+[
+"for",
+601.2,
+602.12
+],
+[
+"eight",
+602.12,
+602.64
+],
+[
+"thousand",
+602.64,
+603.54
+],
+[
+"years.",
+603.54,
+604.04
+],
+[
+"So,",
+605.59,
+605.93
+],
+[
+"who",
+605.93,
+606.53
+],
+[
+"was",
+606.53,
+606.69
+],
+[
+"here",
+606.69,
+607.01
+],
+[
+"before",
+607.01,
+607.37
+],
+[
+"the",
+607.37,
+607.57
+],
+[
+"First",
+607.57,
+607.77
+],
+[
+"Men?",
+607.77,
+608.09
+],
+[
+"A",
+608.73,
+608.95
+],
+[
+"small,",
+608.95,
+609.43
+],
+[
+"singing",
+609.43,
+609.83
+],
+[
+"people",
+609.83,
+610.19
+],
+[
+"who",
+610.19,
+610.43
+],
+[
+"carved",
+610.43,
+610.69
+],
+[
+"the",
+610.69,
+610.91
+],
+[
+"gods",
+610.91,
+611.17
+],
+[
+"into",
+611.17,
+611.45
+],
+[
+"the",
+611.45,
+611.65
+],
+[
+"trees,",
+611.65,
+611.95
+],
+[
+"and",
+611.95,
+612.67
+],
+[
+"broke",
+612.67,
+612.87
+],
+[
+"the",
+612.87,
+613.09
+],
+[
+"land",
+613.09,
+613.29
+],
+[
+"itself",
+613.29,
+613.69
+],
+[
+"to",
+613.69,
+614.05
+],
+[
+"defend",
+614.05,
+614.37
+],
+[
+"them.",
+614.37,
+614.69
+],
+[
+"They",
+615.19,
+615.52
+],
+[
+"lost",
+615.52,
+615.86
+],
+[
+"their",
+615.86,
+616.28
+],
+[
+"world.",
+616.28,
+616.66
+],
+[
+"But",
+617.52,
+617.84
+],
+[
+"they",
+617.84,
+618.04
+],
+[
+"kept",
+618.04,
+618.28
+],
+[
+"their",
+618.28,
+618.54
+],
+[
+"bargain,",
+618.54,
+618.92
+],
+[
+"and",
+618.92,
+619.54
+],
+[
+"taught",
+619.54,
+619.8
+],
+[
+"the",
+619.8,
+620.0
+],
+[
+"newcomers",
+620.0,
+620.32
+],
+[
+"to",
+620.32,
+620.66
+],
+[
+"pray.",
+620.66,
+620.98
+],
+[
+"Were",
+622.3,
+622.54
+],
+[
+"the",
+622.54,
+622.74
+],
+[
+"First",
+622.74,
+623.08
+],
+[
+"Men",
+623.08,
+623.44
+],
+[
+"invaders",
+623.44,
+624.16
+],
+[
+"who",
+624.16,
+624.52
+],
+[
+"stole",
+624.52,
+624.9
+],
+[
+"a",
+624.9,
+625.14
+],
+[
+"world,",
+625.14,
+625.5
+],
+[
+"or",
+625.92,
+626.3
+],
+[
+"did",
+626.3,
+626.68
+],
+[
+"the",
+626.68,
+626.98
+],
+[
+"Pact",
+626.98,
+627.24
+],
+[
+"make",
+627.24,
+627.54
+],
+[
+"them",
+627.54,
+627.78
+],
+[
+"its",
+627.78,
+627.96
+],
+[
+"guardians?",
+627.96,
+628.28
+],
+[
+"Tell",
+629.6,
+629.96
+],
+[
+"us",
+629.96,
+630.12
+],
+[
+"what",
+630.12,
+630.28
+],
+[
+"you",
+630.28,
+630.48
+],
+[
+"think",
+630.48,
+630.7
+],
+[
+"in",
+630.7,
+630.88
+],
+[
+"the",
+630.88,
+631.08
+],
+[
+"comments.",
+631.08,
+631.38
+],
+[
+"Like",
+631.38,
+632.67
+],
+[
+"this",
+632.67,
+632.95
+],
+[
+"video",
+632.95,
+633.31
+],
+[
+"if",
+633.31,
+633.57
+],
+[
+"the",
+633.57,
+633.73
+],
+[
+"books",
+633.73,
+633.91
+],
+[
+"surprised",
+633.91,
+634.45
+],
+[
+"you,",
+634.45,
+634.83
+],
+[
+"and",
+635.01,
+635.21
+],
+[
+"subscribe",
+635.21,
+635.73
+],
+[
+"to",
+635.73,
+635.99
+],
+[
+"the",
+635.99,
+636.11
+],
+[
+"Mythic",
+636.11,
+636.47
+],
+[
+"Archives.",
+636.47,
+636.93
+],
+[
+"The",
+637.49,
+637.61
+],
+[
+"archive",
+637.61,
+638.05
+],
+[
+"is",
+638.05,
+638.37
+],
+[
+"always",
+638.37,
+638.85
+],
+[
+"open.",
+638.85,
+639.21
+]
+]
+}

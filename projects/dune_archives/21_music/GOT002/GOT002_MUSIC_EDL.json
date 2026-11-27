@@ -1,0 +1,151 @@
+{
+ "episode": "GOT002",
+ "timeline": "voice-14 VO, programme 645.21 s",
+ "bed_lufs": -23.0,
+ "notes": "start/end = programme seconds; offset = seconds into the source track. Kevin MacLeod (incompetech.com), CC BY 4.0.",
+ "cues": [
+  {
+   "cue": "M1",
+   "name": "The Godswood (hook)",
+   "track": "Lost_Frontier",
+   "start": 0.0,
+   "end": 38.78,
+   "offset": 0.0,
+   "fade_in": 0.0,
+   "fade_out": 2.5,
+   "gain_db": -2,
+   "hp": 110
+  },
+  {
+   "cue": "M2",
+   "name": "Archive (ident)",
+   "track": "Deliberate_Thought",
+   "start": 36.38,
+   "end": 44.18,
+   "offset": 30.0,
+   "fade_in": 1.2,
+   "fade_out": 2.5,
+   "gain_db": -1
+  },
+  {
+   "cue": "M3",
+   "name": "The Maester and the Boy",
+   "track": "Teller_of_the_Tales",
+   "start": 41.78,
+   "end": 91.43,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M4",
+   "name": "The Dawn Age",
+   "track": "Virtutes_Instrumenti",
+   "start": 90.43,
+   "end": 184.94,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M5",
+   "name": "The Bridge of Land",
+   "track": "Lord_of_the_Land",
+   "start": 183.94,
+   "end": 232.53,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M2b",
+   "name": "Subscribe (archive theme)",
+   "track": "Deliberate_Thought",
+   "start": 231.33,
+   "end": 243.56,
+   "offset": 30.0,
+   "fade_in": 1.0,
+   "fade_out": 2.0,
+   "gain_db": -1
+  },
+  {
+   "cue": "M6",
+   "name": "The Hammer of the Waters",
+   "track": "Crusade",
+   "start": 242.36,
+   "end": 315.33,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": -1
+  },
+  {
+   "cue": "M7",
+   "name": "The Isle of Faces",
+   "track": "Angevin",
+   "start": 314.33,
+   "end": 388.76,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M8",
+   "name": "The Seven-Pointed Star",
+   "track": "Dark_Times",
+   "start": 387.76,
+   "end": 450.97,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M9",
+   "name": "The Show and the Books",
+   "track": "Crypto",
+   "start": 449.97,
+   "end": 499.76,
+   "offset": 2.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": -1
+  },
+  {
+   "cue": "M10",
+   "name": "The Last Singers",
+   "track": "Night_Vigil",
+   "start": 498.76,
+   "end": 605.99,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 3.5,
+   "gain_db": -1
+  },
+  {
+   "cue": "M11",
+   "name": "Outro (archive theme)",
+   "track": "Deliberate_Thought",
+   "start": 603.79,
+   "end": 645.21,
+   "offset": 30.0,
+   "fade_in": 2.0,
+   "fade_out": 3.0,
+   "gain_db": -2
+  }
+ ],
+ "sfx": [
+  {
+   "type": "wind",
+   "start": 0.0,
+   "end": 18.0,
+   "level_db": -40,
+   "note": "soft wind in the godswood under the hook"
+  }
+ ],
+ "silences": []
+}

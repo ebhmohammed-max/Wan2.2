@@ -56,7 +56,7 @@ PLAN = [
  ('I', 6, None, N('NO_METAL_TOOLS', 'INS', [], 'on a bed of moss: knapped black obsidian blades, bone needles, a woven grass basket and a pale wooden bow, NO metal anywhere'), 'DRIFT'),
  ('I', 7, None, N('CAVE_DWELLING', 'EST', ['CHILD'], 'small figures moving about a firelit cave mouth hidden by hanging roots and ferns, smoke drifting', [1]), 'PUSH_IN'),
  ('I', 7, 'in crannogs', N('CRANNOG', 'EST', [], 'a small round reed-and-timber hut on stilts in a misty marsh lake, a tiny dugout boat beside it, dawn'), 'DRIFT'),
- ('I', 7, 'and in hidden', N('TREE_VILLAGE', 'EST', [], 'a hidden village of woven platforms and leaf-roofed huts high in the branches of giant trees, rope bridges, warm glow, almost invisible from below'), 'TILT_UP'),
+ ('I', 7, 'villages in', N('TREE_VILLAGE', 'EST', [], 'a hidden village of woven platforms and leaf-roofed huts high in the branches of giant trees, rope bridges, warm glow, almost invisible from below'), 'TILT_UP'),
  ('I', 8, None, N('WOOD_DANCERS_HUNT', 'EST', ['CHILD'], 'a male and a female hunter moving silently side by side through ferns, pale weirwood bows drawn, tracking a deer', [1]), 'PAN_LR'),
  ('I', 9, None, N('OBSIDIAN_SHARD', 'INS', [], 'macro of a black volcanic glass blade with a razor-sharp knapped edge glinting, on dark stone'), 'PUSH_IN'),
  ('I', 10, None, N('KNAPPING_OBSIDIAN', 'INS', ['CHILD'], 'small clawed hands with three fingers and a thumb knapping an obsidian arrowhead with a bone tool, flakes of black glass falling', [1]), 'PUSH_IN'),

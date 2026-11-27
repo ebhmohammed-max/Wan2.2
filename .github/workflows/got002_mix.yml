@@ -1,0 +1,50 @@
+name: GOT002 mix check (music fetch + VO + mix + loudness, no render)
+# Trigger: bump projects/dune_archives/22_edit/GOT002/mix_trigger.txt
+on:
+  push:
+    branches: [arena/e01ea136-wan2-2]
+    paths: ['projects/dune_archives/22_edit/GOT002/mix_trigger.txt']
+permissions:
+  contents: write
+concurrency: {group: got002-mix, cancel-in-progress: false}
+jobs:
+  mix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    defaults:
+      run: {shell: 'bash -eo pipefail {0}'}
+    env: {EP: GOT002}
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: arena/e01ea136-wan2-2}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: pip install --quiet opencv-python-headless numpy pillow imageio-ffmpeg
+      - name: fetch music (Kevin MacLeod, CC BY 4.0)
+        run: |
+          cd projects/dune_archives
+          L=22_edit/GOT002/ci_mix_log.txt; : > $L
+          which ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+          python tools/ci_fetch_assets.py music 2>&1 | tail -20 | tee -a $L
+          ls -la 21_music/GOT002/tracks | tee -a $L
+      - name: VO + mix
+        run: |
+          cd projects/dune_archives
+          L=22_edit/GOT002/ci_mix_log.txt
+          python tools/v2_timeline.py --wav /tmp/vo.wav 2>&1 | tail -15 | tee -a $L
+          DUR=$(python -c "import json;print(json.load(open('22_edit/GOT002/GOT002_timeline.json'))['duration'])")
+          python tools/mix_music.py 21_music/GOT002/GOT002_MUSIC_EDL.json /tmp/vo.wav /tmp/mix.wav --dur $DUR 2>&1 | tail -15 | tee -a $L
+          FF=$(python -c "import imageio_ffmpeg;print(imageio_ffmpeg.get_ffmpeg_exe())")
+          $FF -y -v error -i /tmp/mix.wav -c:a aac -b:a 192k 22_edit/GOT002/GOT002_MIX.m4a
+      - name: loudness
+        run: |
+          cd projects/dune_archives
+          FF=$(python -c "import imageio_ffmpeg;print(imageio_ffmpeg.get_ffmpeg_exe())")
+          $FF -hide_banner -nostats -i /tmp/mix.wav -af ebur128=peak=true -f null - 2>&1 | tail -12 | tee -a 22_edit/GOT002/ci_mix_log.txt
+      - name: commit log + mix
+        if: always()
+        run: |
+          git config user.name "got002-ci"; git config user.email "got002-ci@users.noreply.github.com"
+          git add projects/dune_archives/22_edit/GOT002/GOT002_MIX.m4a projects/dune_archives/22_edit/GOT002/ci_mix_log.txt || true
+          git commit -m "ci: GOT002 mix + loudness log" || exit 0
+          ok=0; for i in 1 2 3; do git pull --rebase --autostash -q origin arena/e01ea136-wan2-2 && git push origin HEAD:arena/e01ea136-wan2-2 && { ok=1; break; }; sleep 5; done; test $ok = 1
