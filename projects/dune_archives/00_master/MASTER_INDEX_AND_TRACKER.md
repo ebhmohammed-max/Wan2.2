@@ -741,5 +741,6 @@ Index/QC v21 Doc: `1Xd5uubuVr8HSOOF7w4-m3S2es9A0PhxvI7hFvTYLZpw`. S012/S016 turn
 | v2.62 | 2026-11-27 | GOT002 S088–S097: 9 PASS (Gods Eye, Pact meeting, plains & mountains, deep woods, carving every tree, Isle of Faces, green man, isle from the boat, hunting together); **S092 REDO** (blood-like flecks on the axe). 96/150. |
 | v2.63 | 2026-11-27 | GOT002: S092 redo PASS; S098–S106 PASS (Age of Heroes ringfort, First Men kneel, side by side in the Long Night [letterbox cropped], hundred daggers, Andal longships, iron & steel, healed star scar, Andals scorn the face, felled weirwood). 106/150. |
 | v2.64 | 2026-11-27 | GOT002: S107–S116 PASS (child flees the torches, ringfort smokes, High Heart, 31 stumps, Andal king among stumps, High Heart ghosts, the snowy North, Andals bogged at the Neck, northern holdfast + heart tree, seven-sided sept). 116/150. |
+| v2.65 | 2026-11-27 | GOT002: S117, S119–S121, S123–S126 PASS (TV silhouette, eyes turn blue, dead host, book closes, crouched hunter→REDO, the Other, child watches storm, Bran party at the hill, Leaf throws fire); S118 + S122 REDO. 124/150. |
 
 > Turn 22 note: the old manifests v11, continuity v1.4 and original tracker Doc have their Drive descriptions set to SUPERSEDED, pointing at the new IDs above. The Drive tracker v2.12 Doc is a snapshot taken before its own ID was added here.

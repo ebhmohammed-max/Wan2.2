@@ -234,3 +234,5 @@
 - Generations sometimes come back letterboxed (S064: 1376×768 with black bars). Check row brightness at QC; crop the bars to 16:9 and rescale.
 - "Mossy green eyes" can leak into green SKIN (S074). Write "nut-brown dappled skin; only the irises are green" and keep the greenseer count small.
 - Bookkeeping: mark QC by the keys actually generated, never "all PENDING in the batch" (v2.60 marked the ungenerated S079/S080 PASS). The QC step now asserts that every PASS has a stills_jpg file.
+
+- GOT002 S122: "hand gripping the log in foreground" with child + S036 hand refs produced an EXTRA third arm from the frame edge plus a 5-digit hand. Two refs (body + hand) can spawn a second limb. For children of the forest keep hands out of frame; show claws only in dedicated hand macros.
