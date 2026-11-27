@@ -1,0 +1,10 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+CB.mp3 86 words 6.2 s
+H_P.mp3 226 words 15.4 s
+I.mp3 229 words 15.9 s
+III.mp3 179 words 11.7 s
+II_CA.mp3 141 words 8.1 s
+IV.mp3 199 words 12.4 s
+V.mp3 159 words 11.2 s
+VI.mp3 109 words 7.4 s
+VII.mp3 277 words 18.2 s
