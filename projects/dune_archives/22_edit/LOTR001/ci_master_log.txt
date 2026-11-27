@@ -1,0 +1,76 @@
+OK Deliberate_Thought 177.455986s sha256(src)=243d5543c930bf54e95868bab9da860e67ce8835e3698881fda287bc58cc343f ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Deliberate%20Thought.mp3
+OK Oppressive_Gloom 199.392653s sha256(src)=d630686bde6c92f832fb0cb16f6ce9009bf502c7db701139329af2a7683b1020 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Oppressive%20Gloom.mp3
+OK Teller_of_the_Tales 212.375510s sha256(src)=320b37a09fc37ec5962c975563541bee9bcbf1208b0181789248780286f4c1d4 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Teller%20of%20the%20Tales.mp3
+OK Virtutes_Instrumenti 262.060408s sha256(src)=46e4569b5f515917e5a879f52f1db1a83b5ea912d26f0b67f7779027a39ce670 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Virtutes%20Instrumenti.mp3
+OK Angevin 280.555102s sha256(src)=425f5febc62aee69761f16eae09158c35fd922a72c0fe8165af51c3a1f8818bf ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Angevin.mp3
+OK Lost_Frontier 264.933878s sha256(src)=aa26ceb895a64387c5ba8565c4a23045caf10725c1dacb7a17b5d3d28240991c ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Lost%20Frontier.mp3
+OK Despair_and_Triumph 285.727347s sha256(src)=957526b21ae4859557c5b1082a81ace57c6d01cac7055c0a0f63e4f3ea82c46c ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Despair%20and%20Triumph.mp3
+OK Sovereign 371.565714s sha256(src)=7275fef7af71ec59a9b1c4924d23f9be4769a1f5577284119b42a996d8952d60 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sovereign.mp3
+OK Lord_of_the_Land 186.488163s sha256(src)=47ce185fdc1f2e5514566307d652d6cb62a06bed47ea730e28214d3cedc2f948 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Lord%20of%20the%20Land.mp3
+OK Crusade 198.739592s sha256(src)=863758365f6a03cd0cf85237d7d49448d5cb3c1af2e0858dc7c786bc9c0b981e ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Crusade.mp3
+OK The_Pyre 233.404082s sha256(src)=3333c6b26dbe96a275051bb4d9089a803e664aefd317c1b5a8118c16fb533179 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/The%20Pyre.mp3
+total 52604
+drwxr-xr-x 2 runner runner    4096 Nov 27 05:58 .
+drwxr-xr-x 3 runner runner    4096 Nov 27 05:57 ..
+-rw-r--r-- 1 runner runner 5612637 Nov 27 05:57 Angevin.mp3
+-rw-r--r-- 1 runner runner 3976328 Nov 27 05:57 Crusade.mp3
+-rw-r--r-- 1 runner runner 3754763 Nov 27 05:57 Deliberate_Thought.mp3
+-rw-r--r-- 1 runner runner 5716097 Nov 27 05:57 Despair_and_Triumph.mp3
+-rw-r--r-- 1 runner runner 3731350 Nov 27 05:57 Lord_of_the_Land.mp3
+-rw-r--r-- 1 runner runner 5300200 Nov 27 05:57 Lost_Frontier.mp3
+-rw-r--r-- 1 runner runner 3989399 Nov 27 05:57 Oppressive_Gloom.mp3
+-rw-r--r-- 1 runner runner 7594741 Nov 27 05:57 Sovereign.mp3
+-rw-r--r-- 1 runner runner 4249081 Nov 27 05:57 Teller_of_the_Tales.mp3
+-rw-r--r-- 1 runner runner 4669595 Nov 27 05:58 The_Pyre.mp3
+-rw-r--r-- 1 runner runner 5242723 Nov 27 05:57 Virtutes_Instrumenti.mp3
+-rw-r--r-- 1 runner runner    2409 Nov 27 05:58 _fetch_log.txt
+V      script  165 words, matched  165 (100%)
+VI     script  227 words, matched  227 (100%)
+VII    script  180 words, matched  180 (100%)
+VIII   script  189 words, matched  189 (100%)
+CB     script   88 words, matched   88 (100%)
+programme 726.24 s (12:06), shots 165 (dropped short: []), graphics 46
+0:00 Prologue: The Council of Elrond
+1:25 I. The Smith's Apprentice
+2:26 II. The Admirable and the Abhorred
+3:41 III. The Isle of Werewolves
+5:03 IV. Lúthien and the Hound
+6:13 V. The Door Back
+7:15 VI. The Lord of Gifts
+8:52 VII. The Drowning of Númenor
+10:05 VIII. Four Fingers on the Black Hand
+M1    Oppressive_Gloom        0.00-  32.52 src@   0.0s  measured  -20.3 LUFS -> gain  -4.7 dB
+M2    Deliberate_Thought     30.12-  37.92 src@  30.0s  measured  -15.6 LUFS -> gain  -8.4 dB
+M3    Teller_of_the_Tales    35.52-  85.86 src@   0.0s  measured  -23.4 LUFS -> gain  +0.4 dB
+M4    Virtutes_Instrumenti   84.86- 147.11 src@   0.0s  measured  -19.1 LUFS -> gain  -3.9 dB
+M5    Angevin               146.11- 209.06 src@   0.0s  measured  -15.7 LUFS -> gain  -7.3 dB
+M2b   Deliberate_Thought    207.86- 221.91 src@  30.0s  measured  -16.7 LUFS -> gain  -7.3 dB
+M6    Lost_Frontier         220.71- 304.27 src@   0.0s  measured  -27.8 LUFS -> gain  +4.8 dB
+M7    Despair_and_Triumph   303.27- 373.91 src@   0.0s  measured  -29.0 LUFS -> gain  +6.0 dB
+M8    Sovereign             372.91- 436.34 src@   0.0s  measured  -29.5 LUFS -> gain  +6.5 dB
+M9    Lord_of_the_Land      435.34- 533.42 src@   0.0s  measured  -24.7 LUFS -> gain  +1.7 dB
+M10   Crusade               532.42- 606.27 src@   0.0s  measured  -15.4 LUFS -> gain  -8.6 dB
+M11   The_Pyre              605.27- 684.11 src@   0.0s  measured  -16.7 LUFS -> gain  -7.3 dB
+M12   Deliberate_Thought    681.91- 726.24 src@  30.0s  measured  -17.4 LUFS -> gain  -7.6 dB
+pre-norm: I=-16.51 LUFS TP=-0.69 LRA=3.80  -> -14 LUFS / -1 dBTP
+wrote /tmp/mix.wav 726.24s
+wrote /tmp/LOTR001_MASTER_1080p.mp4 shots 165 duration 726.25
+-rw-r--r-- 1 runner runner 508117902 Nov 27 06:17 /tmp/LOTR001_MASTER_1080p.mp4
+  Duration: 00:12:06.25, start: 0.000000, bitrate: 5597 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080, 5297 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 293 kb/s (default)
+    Threshold: -24.7 LUFS
+
+  Loudness range:
+    LRA:         3.6 LU
+    Threshold: -34.7 LUFS
+    LRA low:   -16.7 LUFS
+    LRA high:  -13.1 LUFS
+
+  True peak:
+    Peak:       -0.9 dBFS
+[out#0/null @ 0x64dd6e2a9580] video:0KiB audio:136170KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:12:06.24 bitrate=N/A speed= 255x elapsed=0:00:02.84    
+query: HTTP 200 status=active received=0
+209715200/508117902
+419430400/508117902
