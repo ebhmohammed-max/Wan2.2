@@ -218,3 +218,13 @@
 - **CI QC frame grabs must sit inside the programme length.** The GOT001 master failed after a good render because one grab was at 700 s and the episode is 636 s long. Grabs are now ≤ duration−10 s and `|| true`. An unused Drive resumable session survives a failed run, so re-commit the same URI.
 - **Director rule (2026-11-25): never name the author in narration, on screen or in copy; say "in the books".** GOT001 v1.1 re-recorded H, CA, VII and VIII; chapter VII is renamed "The Legend in the Books"; the NOTE card head "GEORGE R. R. MARTIN" became "IN THE BOOKS". Canon policy §4c.
 - **LOTR likeness (2026-11-25):** hobbits and Fellowship characters drift to the Jackson film cast even with 'NOT <actor>' in the prompt. Frame them from behind, over the shoulder or small in frame. A book-accurate Elrond needs an explicit full hairline and plain silver band.
+
+## Director's standing rule (2026-11-27): ask the duration on every "move on to the next"
+- Whenever the director says **"move on to the next"**, ask how long the next episode should be. Options: **10+ min, 20+ min, 30+ min, 60+ min**.
+- Always recommend one of them, with the reason (topic depth, series consistency, stills and turns needed: about 150 stills per 12 minutes).
+- GOT002: 10+ min chosen (recommended), so the approved v1.0 script (about 12:05) stands.
+
+## LOTR001 → GOT002 (2026-11-27)
+- LOTR001 master v1 delivered (12:06). Middle-earth music palette: lute, strings and choir from Kevin MacLeod, not the Arrakis synth beds.
+- End-card titles now auto-fit (`gfx_v2._end`), because "THE WITCH-KING OF ANGMAR" was clipped at 78 px.
+- GOT002 VO: 9 voice-14 takes, none blocked (the show recap "drive a blade of dragonglass into his heart" and "offer blood to the heart tree" both passed).
