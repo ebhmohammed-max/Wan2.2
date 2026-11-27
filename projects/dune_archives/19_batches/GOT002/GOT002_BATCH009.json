@@ -1,0 +1,162 @@
+{
+ "episode": "GOT002",
+ "batch": "BATCH009",
+ "max_batch_size": 10,
+ "status": "PLANNED",
+ "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
+ "palette": "Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves.",
+ "images": [
+  {
+   "scene_id": "GOT002_SCENE081",
+   "key": "B009S081",
+   "file": "GOT002_BATCH009_SCENE081_CAMPFIRES_FAR_SHORE.png",
+   "chapter": "III",
+   "shot_type": "EST",
+   "cast": [],
+   "motion_recipe": "DRIFT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. many campfires of bronze-age settlers glowing along a far coastline at dusk, huts and horses, seen from across the water. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT002_SCENE082",
+   "key": "B009S082",
+   "file": "GOT002_BATCH009_SCENE082_CHIEF_LOOKS_BACK.png",
+   "chapter": "III",
+   "shot_type": "MS",
+   "cast": [
+    "FIRST_MAN"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a bronze-age chieftain of the First Men with an invented face: a broad weathered face, deep-set grey eyes, a heavy brow, a thick braided brown beard, long hair tied back with bronze rings, furs and roughspun wool, a bronze torc, a great round leather shield and a leaf-shaped bronze sword; NOT plate armour, NOT steel, standing on a beach looking back at an empty sea where a land bridge had been, wind in his furs. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
+   "refs": [
+    "B001S005"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT002_SCENE083",
+   "key": "B009S083",
+   "file": "GOT002_BATCH009_SCENE083_NECK_FLOOD.png",
+   "chapter": "III",
+   "shot_type": "EW",
+   "cast": [
+    "GREENSEER"
+   ],
+   "motion_recipe": "PULL_OUT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a greenseer of the children of the forest: a small slender ancient being with nut-brown fawn-dappled skin, large ears, cat-slit eyes of BLOOD-RED, hair woven with red weirwood leaves, a cloak of leaves, hands with EXACTLY three fingers and a thumb and black claws, a crown-like circle of thin white twigs; NOT a plant, NOT bark skin, a narrow neck of land between two seas with water surging into it and drowning the forests, a few tiny greenseers on a hill with arms raised. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
+   "refs": [
+    "B001S003"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT002_SCENE084",
+   "key": "B009S084",
+   "file": "GOT002_BATCH009_SCENE084_MOAT_CAILIN.png",
+   "chapter": "III",
+   "shot_type": "EST",
+   "cast": [],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. three ancient ruined towers of black basalt rising from a misty swamp, one tall thin tower leaning, moss and vines, NO people. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT002_SCENE085",
+   "key": "B009S085",
+   "file": "GOT002_BATCH009_SCENE085_NECK_BOGS.png",
+   "chapter": "III",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PAN_LR",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. endless misty bogs and black pools with drowned trees and reeds, a lizard-like shape slipping into the water. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT002_SCENE086",
+   "key": "B009S086",
+   "file": "GOT002_BATCH009_SCENE086_CAUSEWAY_HOLDS.png",
+   "chapter": "III",
+   "shot_type": "EST",
+   "cast": [],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a narrow raised causeway winding north through the bogs toward distant ruined towers, the land on both sides drowned. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT002_SCENE087",
+   "key": "B009S087",
+   "file": "GOT002_BATCH009_SCENE087_WEARY_ENEMIES.png",
+   "chapter": "IV",
+   "shot_type": "MS",
+   "cast": [
+    "CHILD",
+    "FIRST_MAN"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a child of the forest as described in the books, an adult of a small ancient non-human people: as small and slender as a ten-year-old human but NOT childlike, a narrow adult face with an old guarded expression, smooth nut-brown skin dappled with paler spots like a fawn, large pointed ears, big gold-and-green eyes with vertical slit pupils like a cat, hands with EXACTLY three fingers and a thumb tipped with small sharp black claws, dark hair with leaves, vines and small flowers woven in, a cloak of stitched leaves, bark bindings on the legs; NOT a plant, NOT bark skin, NOT an elf; a bronze-age chieftain of the First Men with an invented face: a broad weathered face, deep-set grey eyes, a heavy brow, a thick braided brown beard, long hair tied back with bronze rings, furs and roughspun wool, a bronze torc, a great round leather shield and a leaf-shaped bronze sword; NOT plate armour, NOT steel, a tired bronze-age warrior and a small dappled hunter sitting on opposite banks of a stream, weapons lowered, exhausted, not looking at each other. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
+   "refs": [
+    "B001S001",
+    "B001S005"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT002_SCENE088",
+   "key": "B009S088",
+   "file": "GOT002_BATCH009_SCENE088_GODS_EYE_LAKE.png",
+   "chapter": "IV",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a great calm lake in the river lands with a small wooded island in the middle, the trees on it white with red leaves, mist, NO people. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT002_SCENE089",
+   "key": "B009S089",
+   "file": "GOT002_BATCH009_SCENE089_PACT_MEETING.png",
+   "chapter": "IV",
+   "shot_type": "EST",
+   "cast": [
+    "CHILD",
+    "GREENSEER",
+    "FIRST_MAN"
+   ],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a child of the forest as described in the books, an adult of a small ancient non-human people: as small and slender as a ten-year-old human but NOT childlike, a narrow adult face with an old guarded expression, smooth nut-brown skin dappled with paler spots like a fawn, large pointed ears, big gold-and-green eyes with vertical slit pupils like a cat, hands with EXACTLY three fingers and a thumb tipped with small sharp black claws, dark hair with leaves, vines and small flowers woven in, a cloak of stitched leaves, bark bindings on the legs; NOT a plant, NOT bark skin, NOT an elf; a greenseer of the children of the forest: a small slender ancient being with nut-brown fawn-dappled skin, large ears, cat-slit eyes of BLOOD-RED, hair woven with red weirwood leaves, a cloak of leaves, hands with EXACTLY three fingers and a thumb and black claws, a crown-like circle of thin white twigs; NOT a plant, NOT bark skin; a bronze-age chieftain of the First Men with an invented face: a broad weathered face, deep-set grey eyes, a heavy brow, a thick braided brown beard, long hair tied back with bronze rings, furs and roughspun wool, a bronze torc, a great round leather shield and a leaf-shaped bronze sword; NOT plate armour, NOT steel, on the island in a weirwood grove, a small group of dappled children and greenseers facing a group of tall bronze-age chieftains in furs, solemn. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
+   "refs": [
+    "B001S001",
+    "B001S003",
+    "B001S005"
+   ],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT002_SCENE090",
+   "key": "B009S090",
+   "file": "GOT002_BATCH009_SCENE090_PLAINS_AND_MOUNTAINS.png",
+   "chapter": "IV",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PAN_LR",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. bright meadows and high open plains under a clear sky, mountains beyond, a wide river, open land. Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design (no bark-skinned leafy children, no Night King make-up). Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the cast of Game of Thrones or House of the Dragon. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cartoon, anime, illustration, oversaturated, neon, gore, blood, bark skin, leaves growing from skin, plant creature, plate armour in Dawn Age or First Men scenes, horned helmets, extra fingers, deformed hands",
+   "refs": [],
+   "qc": "PENDING"
+  }
+ ]
+}

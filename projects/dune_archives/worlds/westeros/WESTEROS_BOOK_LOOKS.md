@@ -151,3 +151,18 @@ They grow throughout their lives. In ADWD the three are still young, about horse
 - Always add: "book-accurate, NOT the HBO TV design, original faces, not resembling any actor".
 - Medieval technology only: horses, sail and oar, plate and mail, torches and candles. **NO** gunpowder, glass windows outside the wealthy, or modern faces, hairstyles or makeup.
 - Keep the existing pipeline rules: no text or letters, letterbox auto-crop, and portrait anchors in batch 1 reused as references.
+
+## 6. GOT002 additions: the ancient world (book looks; prompts in `data/got002_images.py` CAST)
+| Who / what | Book look | Avoid |
+|---|---|---|
+| **Children of the forest** (singers, "those who sing the song of earth") | ✅ Child-sized but NOT childlike (an adult, ancient face). Nut-brown skin dappled paler like a deer's, large ears, gold-green cat-slit eyes. **Three fingers and a thumb, sharp black claws.** Leaves, vines and flowers woven into the hair, leaf cloaks, bark leg-bindings. Weirwood bows, obsidian blades, no metal. | The HBO bark-skinned plant design; elves; cute children |
+| **Greenseers** | ✅ Rare children with mossy-green or blood-red eyes | Glowing magic VFX overload |
+| **Leaf** | ◻ A child of the forest with an ancient, sorrowful face and a cloak of leaves; she throws fire at the wights | The show design |
+| **Giants** | ✅ 10–14 ft, shaggy fur thicker below the waist, lower body half again as wide as the upper. Head thrust forward, squashed face, tiny eyes, square teeth, arms longer than legs, splayed horny feet. They ride mammoths and fight with logs or stone mauls; the females are bearded too | The show's tall bearded men |
+| **First Men** | ✅ Bronze swords, great leather shields, horses. Grey-stone ringforts (the Fist: chest-high grey stones with white lichen, above the Milkwater) | Steel, plate armour |
+| **Andals** | ✅ Iron and steel, ring mail; the seven-pointed star carved into the chest (always shown as an old healed scar, never the cutting) | Gore |
+| **Maester Luwin** | ✅ Small and grey, a chain collar of many metals | TV actor likeness |
+| **Osha** | ✅ A tall, rangy, leathery wildling woman, held prisoner in Winterfell | TV actor likeness |
+| **Bloodraven / the last greenseer** | ✅ Nearly a skeleton, albino-pale, one red eye, a weirwood root growing through the empty socket, sitting in a throne of roots. Shown in shadow only | TV actor likeness |
+| **High Heart** | ◻ A hill with a ring of 31 weirwood stumps, haunted (a tiny albino ghost woman with red eyes) | — |
+| **Isle of Faces / green men** | ◻ An island in the Gods Eye with carved weirwoods. In legend, the green men have green skin and antlers; shown in shadow | — |
