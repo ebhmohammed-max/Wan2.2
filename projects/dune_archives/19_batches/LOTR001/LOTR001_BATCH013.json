@@ -2,7 +2,7 @@
  "episode": "LOTR001",
  "batch": "BATCH013",
  "max_batch_size": 10,
- "status": "GENERATED_6_PASS_1_REDO_3_PENDING",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist.",
  "images": [
@@ -113,8 +113,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a colossal dark domed temple rising over a white city, black smoke pouring from an opening in its dome. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
    "refs": [],
-   "qc": "REDO",
-   "qc_note": "wrong ref used (Thangorodrim): city came out snowy gothic with arches, not the S121 harbour city: redo with S121 as ref"
+   "qc": "PASS",
+   "qc_note": "redo with S121 ref: same harbour city + dark dome: PASS"
   },
   {
    "scene_id": "LOTR001_SCENE128",
@@ -127,7 +127,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a vast armada of great ships with dark sails sailing west into a stormy sunset. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "LOTR001_SCENE129",
@@ -140,7 +140,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. a mountainous green wave rising over a white island city under a black sky, lightning. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "LOTR001_SCENE130",
@@ -153,7 +153,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band. an island with white towers and a tall mountain sinking into a churning sea, a great chasm of water opening. Mythic Middle-earth palette: forge gold and ember orange, moonlit silver and deep blue, Mordor red and ash black; volumetric light, drifting embers or mist. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the Peter Jackson film design and NOT the Rings of Power TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of The Lord of the Rings, The Hobbit or The Rings of Power. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, film still, cartoon, anime, illustration, oversaturated, neon, gore, blood, flaming eye on top of a tower, film Sauron armour, extra fingers, deformed hands",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   }
  ]
 }
