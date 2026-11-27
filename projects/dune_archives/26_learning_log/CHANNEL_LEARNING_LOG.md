@@ -230,3 +230,4 @@
 - GOT002 VO: 9 voice-14 takes, none blocked (the show recap "drive a blade of dragonglass into his heart" and "offer blood to the heart tree" both passed).
 - ASR (CI align) can swallow a short phrase into one long word span ("and" lasting 3.1 s) or skip a one-word sentence ("Obsidian."). Before planning shot anchors, diff the script tokens against words.json and interpolate the missing words inside the gap.
 - Book children of the forest render well with "an adult of a small ancient non-human people… NOT childlike… NOT a plant, NOT bark skin, NOT an elf" plus the fawn-dappled skin and cat-slit eyes; the negative prompt carries "bark skin, leaves growing from skin".
+- Children's hands: the model holds three fingers and a thumb when the HAND is the subject (S036 macro) or a ref shows it, but defaults to five digits when the hand is secondary in a portrait (S046). For portraits, keep the hands out of frame or pass the S036 hand still as a second ref.
