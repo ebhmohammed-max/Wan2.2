@@ -1,6 +1,6 @@
 # GOT002 SCRIPT v1.0: Before the First Men: The Ancient World of Westeros
 
-Status: **v1.0 DRAFT, awaiting director approval** (2026-11-27). The VO is recorded only after approval.
+Status: **v1.0 APPROVED** by the director ("go on", 2026-11-27; duration 10+ min). VO recorded (voice-14); 150/150 stills; master v1 rendered.
 
 **Topic:** chosen by the director on 2026-11-27, as promised by the GOT001 end card ("WATCH NEXT · BEFORE THE FIRST MEN").
 
