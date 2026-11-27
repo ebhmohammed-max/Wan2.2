@@ -1,0 +1,73 @@
+OK Deliberate_Thought 177.455986s sha256(src)=243d5543c930bf54e95868bab9da860e67ce8835e3698881fda287bc58cc343f ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Deliberate%20Thought.mp3
+OK Lost_Frontier 264.933878s sha256(src)=aa26ceb895a64387c5ba8565c4a23045caf10725c1dacb7a17b5d3d28240991c ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Lost%20Frontier.mp3
+OK Teller_of_the_Tales 212.375510s sha256(src)=320b37a09fc37ec5962c975563541bee9bcbf1208b0181789248780286f4c1d4 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Teller%20of%20the%20Tales.mp3
+OK Virtutes_Instrumenti 262.060408s sha256(src)=46e4569b5f515917e5a879f52f1db1a83b5ea912d26f0b67f7779027a39ce670 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Virtutes%20Instrumenti.mp3
+OK Lord_of_the_Land 186.488163s sha256(src)=47ce185fdc1f2e5514566307d652d6cb62a06bed47ea730e28214d3cedc2f948 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Lord%20of%20the%20Land.mp3
+OK Crusade 198.739592s sha256(src)=863758365f6a03cd0cf85237d7d49448d5cb3c1af2e0858dc7c786bc9c0b981e ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Crusade.mp3
+OK Angevin 280.555102s sha256(src)=425f5febc62aee69761f16eae09158c35fd922a72c0fe8165af51c3a1f8818bf ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Angevin.mp3
+OK Dark_Times 183.695986s sha256(src)=8c05efb338ee645a1f630c7d2aafbb64ac04ad1fee79c6325eafe22f3ad7f15f ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dark%20Times.mp3
+OK Crypto 204.068571s sha256(src)=f09ba8bff00baca85fcdcde3b7f5d6b34a09c2c0b44b007a9123ee42f7d1bcf2 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Crypto.mp3
+OK Night_Vigil 288.262290s sha256(src)=315009fda5154a093570b9f49c1d98202ab5ba4906078713380d130710ada442 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Night%20Vigil.mp3
+total 44740
+drwxr-xr-x 2 runner runner    4096 Nov 27 12:09 .
+drwxr-xr-x 3 runner runner    4096 Nov 27 12:08 ..
+-rw-r--r-- 1 runner runner 5612637 Nov 27 12:08 Angevin.mp3
+-rw-r--r-- 1 runner runner 3976328 Nov 27 12:08 Crusade.mp3
+-rw-r--r-- 1 runner runner 4082964 Nov 27 12:09 Crypto.mp3
+-rw-r--r-- 1 runner runner 3675882 Nov 27 12:09 Dark_Times.mp3
+-rw-r--r-- 1 runner runner 3754763 Nov 27 12:08 Deliberate_Thought.mp3
+-rw-r--r-- 1 runner runner 3731350 Nov 27 12:08 Lord_of_the_Land.mp3
+-rw-r--r-- 1 runner runner 5300200 Nov 27 12:08 Lost_Frontier.mp3
+-rw-r--r-- 1 runner runner 6162131 Nov 27 12:09 Night_Vigil.mp3
+-rw-r--r-- 1 runner runner 4249081 Nov 27 12:08 Teller_of_the_Tales.mp3
+-rw-r--r-- 1 runner runner 5242723 Nov 27 12:08 Virtutes_Instrumenti.mp3
+-rw-r--r-- 1 runner runner    2166 Nov 27 12:09 _fetch_log.txt
+III    script  179 words, matched  179 (100%)
+IV     script  199 words, matched  199 (100%)
+V      script  164 words, matched  164 (100%)
+VI     script  108 words, matched  108 (100%)
+VII    script  277 words, matched  277 (100%)
+CB     script   86 words, matched   86 (100%)
+programme 645.21 s (10:45), shots 163 (dropped short: []), graphics 42
+0:00 Prologue: The Maester and the Boy
+1:30 I. The Dawn Age
+3:04 II. The Bridge of Land
+4:02 III. The Hammer of the Waters
+5:14 IV. The Isle of Faces
+6:28 V. The Seven-Pointed Star
+7:30 VI. The Show and the Books
+8:19 VII. The Last Singers
+M1    Lost_Frontier           0.00-  38.78 src@   0.0s  measured  -30.5 LUFS -> gain  +5.5 dB
+M2    Deliberate_Thought     36.38-  44.18 src@  30.0s  measured  -15.6 LUFS -> gain  -8.4 dB
+M3    Teller_of_the_Tales    41.78-  91.43 src@   0.0s  measured  -23.5 LUFS -> gain  +0.5 dB
+M4    Virtutes_Instrumenti   90.43- 184.94 src@   0.0s  measured  -18.2 LUFS -> gain  -4.8 dB
+M5    Lord_of_the_Land      183.94- 232.53 src@   0.0s  measured  -24.8 LUFS -> gain  +1.8 dB
+M2b   Deliberate_Thought    231.33- 243.56 src@  30.0s  measured  -16.4 LUFS -> gain  -7.6 dB
+M6    Crusade               242.36- 315.33 src@   0.0s  measured  -15.4 LUFS -> gain  -8.6 dB
+M7    Angevin               314.33- 388.76 src@   0.0s  measured  -15.6 LUFS -> gain  -7.4 dB
+M8    Dark_Times            387.76- 450.97 src@   0.0s  measured  -22.2 LUFS -> gain  -0.8 dB
+M9    Crypto                449.97- 499.76 src@   2.0s  measured  -17.8 LUFS -> gain  -6.2 dB
+M10   Night_Vigil           498.76- 605.99 src@   0.0s  measured  -15.6 LUFS -> gain  -8.4 dB
+M11   Deliberate_Thought    603.79- 645.21 src@  30.0s  measured  -17.4 LUFS -> gain  -7.6 dB
+pre-norm: I=-16.54 LUFS TP=-0.77 LRA=4.00  -> -14 LUFS / -1 dBTP
+wrote /tmp/mix.wav 645.21s
+wrote /tmp/GOT002_MASTER_1080p.mp4 shots 163 duration 645.21
+-rw-r--r-- 1 runner runner 503193261 Nov 27 12:21 /tmp/GOT002_MASTER_1080p.mp4
+  Duration: 00:10:45.21, start: 0.000000, bitrate: 6239 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080, 5938 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 295 kb/s (default)
+    Threshold: -24.7 LUFS
+
+  Loudness range:
+    LRA:         3.9 LU
+    Threshold: -34.7 LUFS
+    LRA low:   -17.1 LUFS
+    LRA high:  -13.1 LUFS
+
+  True peak:
+    Peak:       -0.9 dBFS
+[out#0/null @ 0x5e858ae1dd00] video:0KiB audio:120976KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:10:45.20 bitrate=N/A speed= 296x elapsed=0:00:02.17    
+query: HTTP 200 status=active received=0
+209715200/503193261
+419430400/503193261
