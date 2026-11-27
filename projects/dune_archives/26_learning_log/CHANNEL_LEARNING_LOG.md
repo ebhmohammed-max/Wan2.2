@@ -233,3 +233,4 @@
 - Children's hands: the model holds three fingers and a thumb when the HAND is the subject (S036 macro) or a ref shows it, but defaults to five digits when the hand is secondary in a portrait (S046). For portraits, keep the hands out of frame or pass the S036 hand still as a second ref. UPDATE: the S036 ref did NOT fix S046 (still five digits); keep hands out of frame in portraits.
 - Generations sometimes come back letterboxed (S064: 1376×768 with black bars). Check row brightness at QC; crop the bars to 16:9 and rescale.
 - "Mossy green eyes" can leak into green SKIN (S074). Write "nut-brown dappled skin; only the irises are green" and keep the greenseer count small.
+- Bookkeeping: mark QC by the keys actually generated, never "all PENDING in the batch" (v2.60 marked the ungenerated S079/S080 PASS). The QC step now asserts that every PASS has a stills_jpg file.

@@ -2,7 +2,7 @@
  "episode": "GOT002",
  "batch": "BATCH008",
  "max_batch_size": 10,
- "status": "GENERATED_9_PASS",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, important action in the central band.",
  "palette": "Ancient Westeros palette: weirwood bone-white and blood-red leaves, deep moss green and forest gold, bronze and firelight, storm grey sea; volumetric light, mist or drifting leaves.",
  "images": [
@@ -70,8 +70,8 @@
    "refs": [
     "B001S003"
    ],
-   "qc": "REDO",
-   "qc_note": "two greenseers came out GREEN-SKINNED (mossy-green eyes leaked into skin) + letterboxed; redo: all red-eyed or say \"nut-brown skin, only the irises green\""
+   "qc": "PASS",
+   "qc_note": "two greenseers came out GREEN-SKINNED (mossy-green eyes leaked into skin) + letterboxed; redo: all red-eyed or say \"nut-brown skin, only the irises green\"; redo PASS (all brown-skinned)"
   },
   {
    "scene_id": "GOT002_SCENE075",
