@@ -228,3 +228,5 @@
 - LOTR001 master v1 delivered (12:06). Middle-earth music palette: lute, strings and choir from Kevin MacLeod, not the Arrakis synth beds.
 - End-card titles now auto-fit (`gfx_v2._end`), because "THE WITCH-KING OF ANGMAR" was clipped at 78 px.
 - GOT002 VO: 9 voice-14 takes, none blocked (the show recap "drive a blade of dragonglass into his heart" and "offer blood to the heart tree" both passed).
+- ASR (CI align) can swallow a short phrase into one long word span ("and" lasting 3.1 s) or skip a one-word sentence ("Obsidian."). Before planning shot anchors, diff the script tokens against words.json and interpolate the missing words inside the gap.
+- Book children of the forest render well with "an adult of a small ancient non-human people… NOT childlike… NOT a plant, NOT bark skin, NOT an elf" plus the fawn-dappled skin and cat-slit eyes; the negative prompt carries "bark skin, leaves growing from skin".
