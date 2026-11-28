@@ -19,119 +19,114 @@ OK Phantasm 219.048005s sha256(src)=f5d2256207776d572d248732b91b49b35f971f5e9708
 OK Ossuary_6_Air 250.070204s sha256(src)=bf57ba7ee56b357dbd8677b41475a2fbe01d282114bc3c64e6deea2b52717fac ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Ossuary%206%20-%20Air.mp3
 OK Crypto 204.068571s sha256(src)=f09ba8bff00baca85fcdcde3b7f5d6b34a09c2c0b44b007a9123ee42f7d1bcf2 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Crypto.mp3
 total 108688
-drwxr-xr-x 2 runner runner    4096 Nov 28 13:04 .
-drwxr-xr-x 3 runner runner    4096 Nov 28 13:03 ..
--rw-r--r-- 1 runner runner 5612637 Nov 28 13:03 Angevin.mp3
--rw-r--r-- 1 runner runner 3976328 Nov 28 13:03 Crusade.mp3
--rw-r--r-- 1 runner runner 4082964 Nov 28 13:04 Crypto.mp3
--rw-r--r-- 1 runner runner 3675882 Nov 28 13:03 Dark_Times.mp3
--rw-r--r-- 1 runner runner 3754763 Nov 28 13:03 Deliberate_Thought.mp3
--rw-r--r-- 1 runner runner 5716097 Nov 28 13:03 Despair_and_Triumph.mp3
--rw-r--r-- 1 runner runner 5380426 Nov 28 13:04 Interloper.mp3
--rw-r--r-- 1 runner runner 7598437 Nov 28 13:04 Lightless_Dawn.mp3
--rw-r--r-- 1 runner runner 9373761 Nov 28 13:04 Long_Note_Two.mp3
--rw-r--r-- 1 runner runner 3731350 Nov 28 13:03 Lord_of_the_Land.mp3
--rw-r--r-- 1 runner runner 5300200 Nov 28 13:03 Lost_Frontier.mp3
--rw-r--r-- 1 runner runner 3478293 Nov 28 13:04 Mysterioso_March.mp3
--rw-r--r-- 1 runner runner 6162131 Nov 28 13:04 Night_Vigil.mp3
--rw-r--r-- 1 runner runner 3989399 Nov 28 13:03 Oppressive_Gloom.mp3
--rw-r--r-- 1 runner runner 5003014 Nov 28 13:04 Ossuary_6_Air.mp3
--rw-r--r-- 1 runner runner 4514631 Nov 28 13:04 Phantasm.mp3
--rw-r--r-- 1 runner runner 1945775 Nov 28 13:04 Private_Reflection.mp3
--rw-r--r-- 1 runner runner 7594741 Nov 28 13:04 Sovereign.mp3
--rw-r--r-- 1 runner runner 4249081 Nov 28 13:03 Teller_of_the_Tales.mp3
--rw-r--r-- 1 runner runner 4669595 Nov 28 13:04 The_Pyre.mp3
--rw-r--r-- 1 runner runner 6182674 Nov 28 13:04 Unwritten_Return.mp3
--rw-r--r-- 1 runner runner 5242723 Nov 28 13:03 Virtutes_Instrumenti.mp3
--rw-r--r-- 1 runner runner    4781 Nov 28 13:04 _fetch_log.txt
+drwxr-xr-x 2 runner runner    4096 Nov 28 16:11 .
+drwxr-xr-x 3 runner runner    4096 Nov 28 16:10 ..
+-rw-r--r-- 1 runner runner 5612637 Nov 28 16:10 Angevin.mp3
+-rw-r--r-- 1 runner runner 3976328 Nov 28 16:10 Crusade.mp3
+-rw-r--r-- 1 runner runner 4082964 Nov 28 16:11 Crypto.mp3
+-rw-r--r-- 1 runner runner 3675882 Nov 28 16:10 Dark_Times.mp3
+-rw-r--r-- 1 runner runner 3754763 Nov 28 16:10 Deliberate_Thought.mp3
+-rw-r--r-- 1 runner runner 5716097 Nov 28 16:10 Despair_and_Triumph.mp3
+-rw-r--r-- 1 runner runner 5380426 Nov 28 16:11 Interloper.mp3
+-rw-r--r-- 1 runner runner 7598437 Nov 28 16:11 Lightless_Dawn.mp3
+-rw-r--r-- 1 runner runner 9373761 Nov 28 16:11 Long_Note_Two.mp3
+-rw-r--r-- 1 runner runner 3731350 Nov 28 16:10 Lord_of_the_Land.mp3
+-rw-r--r-- 1 runner runner 5300200 Nov 28 16:10 Lost_Frontier.mp3
+-rw-r--r-- 1 runner runner 3478293 Nov 28 16:10 Mysterioso_March.mp3
+-rw-r--r-- 1 runner runner 6162131 Nov 28 16:10 Night_Vigil.mp3
+-rw-r--r-- 1 runner runner 3989399 Nov 28 16:10 Oppressive_Gloom.mp3
+-rw-r--r-- 1 runner runner 5003014 Nov 28 16:11 Ossuary_6_Air.mp3
+-rw-r--r-- 1 runner runner 4514631 Nov 28 16:11 Phantasm.mp3
+-rw-r--r-- 1 runner runner 1945775 Nov 28 16:10 Private_Reflection.mp3
+-rw-r--r-- 1 runner runner 7594741 Nov 28 16:11 Sovereign.mp3
+-rw-r--r-- 1 runner runner 4249081 Nov 28 16:10 Teller_of_the_Tales.mp3
+-rw-r--r-- 1 runner runner 4669595 Nov 28 16:11 The_Pyre.mp3
+-rw-r--r-- 1 runner runner 6182674 Nov 28 16:11 Unwritten_Return.mp3
+-rw-r--r-- 1 runner runner 5242723 Nov 28 16:10 Virtutes_Instrumenti.mp3
+-rw-r--r-- 1 runner runner    4781 Nov 28 16:11 _fetch_log.txt
 c25    script  253 words, matched  253 (100%)
 c26    script  218 words, matched  218 (100%)
 c27    script   78 words, matched   78 (100%)
-programme 2817.60 s (46:57), shots 313 (dropped short: []), graphics 82
+programme 2813.54 s (46:53), shots 313 (dropped short: []), graphics 82
 0:00 Prologue: The Dreamer
 4:36 I. Three Dragons
-8:59 II. The Field of Fire
-15:44 III. The Sons of the Dragon
-18:13 IV. The Old King and the Good Queen
-20:59 V. The Dance of the Dragons
-27:20 VI. The Last Dragon
-31:01 VII. The Black Dragon
-34:27 VIII. Egg and Summerhall
-38:33 IX. The Mad King
-42:18 X. The Last Dragons
-M2b   Deliberate_Thought    926.25- 945.07 src@  30.0s  measured  -17.0 LUFS -> gain  -7.0 dB
-M9    Oppressive_Gloom      943.87-1094.01 src@   0.0s  measured  -17.9 LUFS -> gain  -5.1 dB
-M10   Virtutes_Instrumenti 1093.01-1260.31 src@   0.0s  measured  -17.0 LUFS -> gain  -6.0 dB
-M11   Dark_Times           1259.31-1384.79 src@   0.0s  measured  -23.7 LUFS -> gain  +0.7 dB
-M12   Interloper           1382.79-1640.92 src@   0.0s  measured  -22.0 LUFS -> gain  -1.0 dB
-M13   Angevin              1639.92-1862.02 src@   0.0s  measured  -15.8 LUFS -> gain  -7.2 dB
-M14   Mysterioso_March     1861.02-1939.91 src@   0.0s  measured  -28.2 LUFS -> gain  +5.2 dB
-M15   Phantasm             1937.91-2068.28 src@   0.0s  measured  -12.7 LUFS -> gain -10.3 dB
-M16   Night_Vigil          2067.28-2313.82 src@   0.0s  measured  -14.7 LUFS -> gain  -8.3 dB
-M17   Oppressive_Gloom     2312.82-2491.58 src@   0.0s  measured  -17.9 LUFS -> gain  -5.1 dB
-M18   Long_Note_Two        2489.58-2539.59 src@   0.0s  measured  -29.4 LUFS -> gain  +6.4 dB
-M19   Sovereign            2538.59-2782.61 src@   0.0s  measured  -28.0 LUFS -> gain  +5.0 dB
-M99   Deliberate_Thought   2781.41-2817.60 src@  30.0s  measured  -17.4 LUFS -> gain  -7.6 dB
-pre-norm: I=-16.48 LUFS TP=-0.65 LRA=3.50  -> -14 LUFS / -1 dBTP
-wrote /tmp/mix.wav 2817.60s
-M01 GOT003_M01_valyria_doom.mp4 11.0s
+8:58 II. The Field of Fire
+15:45 III. The Sons of the Dragon
+18:14 IV. The Old King and the Good Queen
+21:01 V. The Dance of the Dragons
+27:19 VI. The Last Dragon
+31:00 VII. The Black Dragon
+34:26 VIII. Egg and Summerhall
+38:32 IX. The Mad King
+42:17 X. The Last Dragons
+M2b   Deliberate_Thought    927.28- 946.10 src@  30.0s  measured  -17.0 LUFS -> gain  -7.0 dB
+M9    Oppressive_Gloom      944.90-1094.61 src@   0.0s  measured  -17.9 LUFS -> gain  -5.1 dB
+M10   Virtutes_Instrumenti 1093.61-1262.19 src@   0.0s  measured  -17.0 LUFS -> gain  -6.0 dB
+M11   Dark_Times           1261.19-1387.04 src@   0.0s  measured  -23.7 LUFS -> gain  +0.7 dB
+M12   Interloper           1385.04-1639.87 src@   0.0s  measured  -22.0 LUFS -> gain  -1.0 dB
+M13   Angevin              1638.87-1860.80 src@   0.0s  measured  -15.8 LUFS -> gain  -7.2 dB
+M14   Mysterioso_March     1859.80-1938.71 src@   0.0s  measured  -28.2 LUFS -> gain  +5.2 dB
+M15   Phantasm             1936.71-2067.07 src@   0.0s  measured  -12.7 LUFS -> gain -10.3 dB
+M16   Night_Vigil          2066.07-2313.14 src@   0.0s  measured  -14.7 LUFS -> gain  -8.3 dB
+M17   Oppressive_Gloom     2312.14-2488.51 src@   0.0s  measured  -17.9 LUFS -> gain  -5.1 dB
+M18   Long_Note_Two        2486.51-2538.31 src@   0.0s  measured  -29.6 LUFS -> gain  +6.6 dB
+M19   Sovereign            2537.31-2779.12 src@   0.0s  measured  -27.9 LUFS -> gain  +4.9 dB
+M99   Deliberate_Thought   2777.92-2813.54 src@  30.0s  measured  -17.4 LUFS -> gain  -7.6 dB
+pre-norm: I=-16.49 LUFS TP=0.60 LRA=3.50  -> -14 LUFS / -1 dBTP
+wrote /tmp/mix.wav 2813.54s
+M01 GOT003_M01_valyria_doom.mp4 11.1s
 M02 GOT003_M02_seven_kingdoms.mp4 30.3s
 M03 GOT003_M03_aegons_landing.mp4 4.7s
-M04 GOT003_M04_the_conquest.mp4 16.0s
-M05 GOT003_M05_dorne_unconquered.mp4 13.9s
+M04 GOT003_M04_the_conquest.mp4 15.4s
+M05 GOT003_M05_dorne_unconquered.mp4 11.7s
 M06 GOT003_M06_jaehaerys_roads.mp4 8.6s
-M07 GOT003_M07_blacks_and_greens.mp4 12.7s
-M08 GOT003_M08_the_dance.mp4 12.9s
+M07 GOT003_M07_blacks_and_greens.mp4 12.6s
+M08 GOT003_M08_the_dance.mp4 14.5s
 M09 GOT003_M09_young_dragon_dorne.mp4 4.4s
 M10 GOT003_M10_redgrass_field.mp4 5.5s
 M11 GOT003_M11_roberts_rebellion.mp4 9.3s
-M12 GOT003_M12_the_exiles.mp4 5.4s
+M12 GOT003_M12_the_exiles.mp4 5.0s
 K01 GOT003_K01_gyldayn_page.mp4 12.5s
 K02 GOT003_K02_daenys_scroll.mp4 3.9s
 K03 GOT003_K03_family_tree.mp4 12.2s
-K04 GOT003_K04_throne_decree.mp4 8.0s
+K04 GOT003_K04_throne_decree.mp4 6.2s
 K05 GOT003_K05_deria_letter.mp4 9.5s
 K06 GOT003_K06_jaehaerys_code.mp4 4.1s
-K07 GOT003_K07_great_council_ledger.mp4 5.3s
-K08 GOT003_K08_rhaenyra_proclamation.mp4 5.0s
-K09 GOT003_K09_dragon_registry.mp4 6.7s
+K07 GOT003_K07_great_council_ledger.mp4 4.7s
+K08 GOT003_K08_rhaenyra_proclamation.mp4 4.3s
+K09 GOT003_K09_dragon_registry.mp4 6.6s
 K11 GOT003_K11_deathbed_decree.mp4 6.5s
 K12 GOT003_K12_two_banners.mp4 3.4s
 K13 GOT003_K13_thousand_eyes.mp4 7.0s
 K14 GOT003_K14_summerhall_letter.mp4 6.9s
-K15 GOT003_K15_wildfire_ledger.mp4 8.9s
-K16 GOT003_K16_harrenhal_roll.mp4 10.3s
-K18 GOT003_K18_kings_scroll.mp4 6.2s
-K19 GOT003_K19_gold_dragon_coin.mp4 24.1s
-[vost#0:0/rawvideo @ 0x613383292c00] Error submitting a packet to the muxer: Broken pipe
-    Last message repeated 1 times
-[out#0/rawvideo @ 0x61338320e780] Error muxing a packet
-[out#0/rawvideo @ 0x61338320e780] Task finished with error code: -32 (Broken pipe)
-[out#0/rawvideo @ 0x61338320e780] Terminating thread with return code -32 (Broken pipe)
-wrote /tmp/GOT003_MASTER_1080p.mp4 shots 313 duration 2817.58
--rw-r--r-- 1 runner runner 2029729337 Nov 28 14:07 /tmp/GOT003_MASTER_1080p.mp4
-  Duration: 00:46:57.58, start: 0.000000, bitrate: 5763 kb/s
-  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080, 5462 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+K15 GOT003_K15_wildfire_ledger.mp4 9.8s
+K16 GOT003_K16_harrenhal_roll.mp4 10.6s
+K18 GOT003_K18_kings_scroll.mp4 6.1s
+K19 GOT003_K19_gold_dragon_coin.mp4 24.2s
+wrote /tmp/GOT003_MASTER_1080p.mp4 shots 313 duration 2813.54
+-rw-r--r-- 1 runner runner 2024854236 Nov 28 17:31 /tmp/GOT003_MASTER_1080p.mp4
+  Duration: 00:46:53.54, start: 0.000000, bitrate: 5757 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080, 5456 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
   Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 295 kb/s (default)
     Threshold: -24.6 LUFS
 
   Loudness range:
-    LRA:         3.4 LU
+    LRA:         3.3 LU
     Threshold: -34.6 LUFS
     LRA low:   -16.4 LUFS
     LRA high:  -13.0 LUFS
 
   True peak:
     Peak:       -0.9 dBFS
-[out#0/null @ 0x5cc85d7b3440] video:0KiB audio:528297KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
-size=N/A time=00:46:57.58 bitrate=N/A speed= 322x elapsed=0:00:08.73    
+[out#0/null @ 0x62973ee80400] video:0KiB audio:527539KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:46:53.53 bitrate=N/A speed= 255x elapsed=0:00:11.03    
 query: HTTP 200 status=active received=0
-209715200/2029729337
-419430400/2029729337
-629145600/2029729337
-838860800/2029729337
-1048576000/2029729337
-1258291200/2029729337
-1468006400/2029729337
-1677721600/2029729337
-1887436800/2029729337
+209715200/2024854236
+419430400/2024854236
+629145600/2024854236
+838860800/2024854236
+1048576000/2024854236
+1258291200/2024854236
+1468006400/2024854236
+1677721600/2024854236
+1887436800/2024854236
