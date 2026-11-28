@@ -1,3885 +1,3885 @@
 1
-00:00:00,450 --> 00:00:02,520
+00:00:00,450 --> 00:00:02,500
 Twelve years before the end of the world,
 
 2
-00:00:02,650 --> 00:00:05,020
+00:00:02,350 --> 00:00:05,020
 a young girl woke screaming from a dream.
 
 3
-00:00:05,790 --> 00:00:07,500
+00:00:05,810 --> 00:00:07,520
 She had seen her city burn.
 
 4
-00:00:08,090 --> 00:00:09,520
+00:00:08,470 --> 00:00:09,540
 Mountains split open.
 
 5
-00:00:09,770 --> 00:00:14,790
+00:00:09,770 --> 00:00:14,810
 The sky turned black, and a sea of fire
 swallowed the greatest empire men
 
 6
-00:00:14,640 --> 00:00:15,690
+00:00:14,660 --> 00:00:15,710
 had ever built.
 
 7
-00:00:16,400 --> 00:00:17,670
+00:00:16,400 --> 00:00:17,710
 Her father believed her.
 
 8
-00:00:18,070 --> 00:00:22,340
+00:00:18,110 --> 00:00:22,380
 He sold everything he owned, gathered
 his family and five dragons,
 
 9
-00:00:22,190 --> 00:00:25,440
+00:00:22,230 --> 00:00:25,500
 and sailed to a lonely rock
 at the edge of the world.
 
 10
-00:00:26,030 --> 00:00:28,640
+00:00:26,030 --> 00:00:28,700
 Twelve years later, the dream came true.
 
 11
-00:00:28,950 --> 00:00:33,020
+00:00:29,550 --> 00:00:33,060
 That girl's family would conquer a continent
 with three dragons and fewer
 
 12
-00:00:32,870 --> 00:00:34,320
+00:00:32,910 --> 00:00:34,380
 than sixteen hundred men.
 
 13
-00:00:34,970 --> 00:00:39,100
+00:00:34,990 --> 00:00:39,200
 They would sit on a throne of melted swords
 for almost three hundred years.
 
 14
-00:00:39,670 --> 00:00:42,200
+00:00:39,710 --> 00:00:42,260
 They would build, and they would burn.
 
 15
-00:00:43,250 --> 00:00:47,660
+00:00:43,290 --> 00:00:47,700
 And in the end, they would tear each
 other apart in a war that killed the
 
 16
-00:00:47,510 --> 00:00:48,580
+00:00:47,550 --> 00:00:48,620
 dragons themselves.
 
 17
-00:00:49,470 --> 00:00:52,120
+00:00:49,530 --> 00:00:52,180
 And the last of them is still out there.
 
 18
-00:00:52,970 --> 00:00:56,960
+00:00:53,030 --> 00:00:57,020
 In the books, she is a young
 queen, far across the sea,
 
 19
-00:00:57,170 --> 00:00:59,020
+00:00:57,210 --> 00:00:59,080
 with three dragons of her own.
 
 20
-00:00:59,420 --> 00:01:02,390
+00:00:59,480 --> 00:01:02,450
 This is the complete history
 of House Targaryen.
 
 21
-00:01:08,360 --> 00:01:11,490
+00:01:08,420 --> 00:01:11,570
 Before we begin, a word about
 where this story comes from.
 
 22
-00:01:12,080 --> 00:01:16,550
+00:01:12,120 --> 00:01:16,610
 In the books, the history of House Targaryen
 is written by a maester of
 
 23
-00:01:16,400 --> 00:01:19,130
+00:01:16,460 --> 00:01:19,190
 the Citadel, Archmaester Gyldayn.
 
 24
-00:01:19,660 --> 00:01:21,790
+00:01:19,740 --> 00:01:21,850
 He did not see any of it.
 
 25
-00:01:22,120 --> 00:01:24,620
+00:01:22,200 --> 00:01:24,640
 He stitched it together
 from older accounts.
 
 26
-00:01:25,250 --> 00:01:28,940
+00:01:25,270 --> 00:01:28,980
 One came from a pious septon
 who flattered the kings.
 
 27
-00:01:29,630 --> 00:01:32,800
+00:01:29,670 --> 00:01:32,840
 One came from a grand maester
 who tried to be fair.
 
 28
-00:01:33,210 --> 00:01:36,840
+00:01:33,250 --> 00:01:36,880
 And one came from a court
 fool named Mushroom,
 
 29
-00:01:37,350 --> 00:01:41,200
+00:01:37,330 --> 00:01:41,240
 who claimed he had been hiding in
 every bedchamber in the Red Keep.
 
 30
-00:01:41,890 --> 00:01:43,480
+00:01:41,930 --> 00:01:43,520
 They often disagree.
 
 31
-00:01:43,680 --> 00:01:46,510
+00:01:43,720 --> 00:01:46,570
 So when this video says
 "the histories say",
 
 32
-00:01:46,820 --> 00:01:51,350
+00:01:46,880 --> 00:01:51,390
 remember: even inside the story, nobody
 is completely sure what happened.
 
 33
-00:01:52,040 --> 00:01:53,450
+00:01:52,120 --> 00:01:53,430
 Now, the dream.
 
 34
-00:01:53,960 --> 00:01:56,830
+00:01:54,080 --> 00:01:56,850
 More than four hundred years
 before the main books,
 
 35
-00:01:57,140 --> 00:02:00,210
+00:01:57,180 --> 00:02:00,250
 the Freehold of Valyria ruled
 half the known world.
 
 36
-00:02:00,640 --> 00:02:01,810
+00:02:00,680 --> 00:02:01,830
 It was not a kingdom.
 
 37
-00:02:02,210 --> 00:02:06,100
+00:02:02,240 --> 00:02:06,110
 It was a freehold, ruled by some forty
 great families of dragonlords,
 
 38
-00:02:05,950 --> 00:02:11,100
+00:02:05,960 --> 00:02:11,110
 who flew over their empire on dragons
 and mined its fire mountains for gold
 
 39
-00:02:10,950 --> 00:02:12,600
+00:02:10,960 --> 00:02:12,590
 and slaves and power.
 
 40
-00:02:13,050 --> 00:02:15,460
+00:02:13,050 --> 00:02:15,470
 The Targaryens were one of those families.
 
 41
-00:02:15,810 --> 00:02:17,010
+00:02:15,820 --> 00:02:17,000
 They were not the richest.
 
 42
-00:02:17,410 --> 00:02:18,560
+00:02:17,400 --> 00:02:18,550
 They were not the strongest.
 
 43
-00:02:18,970 --> 00:02:20,140
+00:02:18,960 --> 00:02:20,130
 They were not even close.
 
 44
-00:02:20,970 --> 00:02:24,420
+00:02:20,960 --> 00:02:24,410
 Then Lord Aenar Targaryen's
 maiden daughter had a dream.
 
 45
-00:02:24,820 --> 00:02:27,330
+00:02:24,810 --> 00:02:27,340
 The histories call her Daenys the Dreamer.
 
 46
-00:02:27,780 --> 00:02:29,410
+00:02:27,750 --> 00:02:29,420
 She saw Valyria destroyed.
 
 47
-00:02:29,840 --> 00:02:30,850
+00:02:29,830 --> 00:02:30,840
 Aenar believed her.
 
 48
-00:02:31,250 --> 00:02:34,780
+00:02:31,240 --> 00:02:34,770
 He sold his lands in the Freehold,
 and moved his whole house,
 
 49
-00:02:34,870 --> 00:02:37,120
+00:02:34,860 --> 00:02:37,110
 with all its wealth and its five dragons,
 
 50
-00:02:37,490 --> 00:02:41,920
+00:02:37,480 --> 00:02:41,910
 to Dragonstone, a smoking island
 at the mouth of Blackwater Bay.
 
 51
-00:02:41,910 --> 00:02:45,450
+00:02:41,760 --> 00:02:45,580
 It was the westernmost outpost of Valyria,
 
 52
-00:02:45,620 --> 00:02:48,030
+00:02:45,730 --> 00:02:48,160
 a lonely rock on the edge of nowhere.
 
 53
-00:02:48,820 --> 00:02:50,790
+00:02:48,950 --> 00:02:50,920
 The other dragonlords mocked him.
 
 54
-00:02:51,300 --> 00:02:54,510
+00:02:51,430 --> 00:02:54,640
 A great lord, running from
 a girl's nightmare.
 
 55
-00:02:55,460 --> 00:02:58,770
+00:02:55,610 --> 00:02:58,900
 Twelve years later, the
 Fourteen Flames woke.
 
 56
-00:02:59,500 --> 00:03:05,070
+00:02:59,650 --> 00:03:05,200
 The histories say every hill for five
 hundred miles split open on the same
 
 57
-00:03:04,920 --> 00:03:05,490
+00:03:05,050 --> 00:03:05,620
 day.
 
 58
-00:03:06,100 --> 00:03:12,690
+00:03:06,290 --> 00:03:12,820
 Fire and ash filled the sky, so thick
 and so hot that even dragons fell
 
 59
-00:03:12,540 --> 00:03:13,950
+00:03:12,670 --> 00:03:14,080
 burning from the air.
 
 60
-00:03:14,920 --> 00:03:15,770
+00:03:15,050 --> 00:03:15,900
 Lakes boiled.
 
 61
-00:03:16,640 --> 00:03:18,790
+00:03:16,770 --> 00:03:18,920
 Palaces and temples crumbled.
 
 62
-00:03:19,360 --> 00:03:22,190
+00:03:19,490 --> 00:03:22,300
 The sea rushed in and swallowed
 what was left.
 
 63
-00:03:22,920 --> 00:03:25,230
+00:03:23,050 --> 00:03:25,360
 Nobody agrees on what caused it.
 
 64
-00:03:25,740 --> 00:03:28,290
+00:03:25,870 --> 00:03:28,440
 Some say the fire mountains
 simply erupted.
 
 65
-00:03:28,920 --> 00:03:31,470
+00:03:29,030 --> 00:03:31,600
 Some say the Valyrians dug too deep.
 
 66
-00:03:31,670 --> 00:03:36,180
+00:03:31,800 --> 00:03:36,310
 Some say the spells that held the mountains
 quiet for five thousand years
 
 67
-00:03:36,030 --> 00:03:37,220
+00:03:36,160 --> 00:03:37,370
 finally failed.
 
 68
-00:03:37,710 --> 00:03:40,080
+00:03:37,840 --> 00:03:40,210
 The maesters just call it the Doom.
 
 69
-00:03:41,010 --> 00:03:43,500
+00:03:41,140 --> 00:03:43,630
 When it was over, the Freehold was gone.
 
 70
-00:03:43,900 --> 00:03:46,430
+00:03:44,030 --> 00:03:46,560
 Its dragonlords, its cities, its sorcery,
 
 71
-00:03:46,560 --> 00:03:48,470
+00:03:46,690 --> 00:03:48,600
 nearly every dragon in the world.
 
 72
-00:03:48,870 --> 00:03:53,320
+00:03:49,000 --> 00:03:53,450
 Where Valyria had stood, there was only
 a broken scatter of islands in a
 
 73
-00:03:53,170 --> 00:03:57,000
+00:03:53,300 --> 00:03:57,130
 dark, steaming water that sailors
 still call the Smoking Sea.
 
 74
-00:03:57,590 --> 00:04:02,140
+00:03:57,720 --> 00:04:02,270
 Even now, in the books, men say no
 ship that sails there returns.
 
 75
-00:04:02,950 --> 00:04:06,800
+00:04:03,080 --> 00:04:06,950
 Only one dragonlord family survived
 with its dragons intact.
 
 76
-00:04:07,350 --> 00:04:10,040
+00:04:07,480 --> 00:04:10,150
 The family that had listened
 to a girl's dream.
 
 77
-00:04:10,670 --> 00:04:13,980
+00:04:10,800 --> 00:04:14,110
 What followed is called
 the Century of Blood.
 
 78
-00:04:14,630 --> 00:04:18,860
+00:04:14,760 --> 00:04:18,990
 The free cities of the east tore each
 other apart over Valyria's corpse.
 
 79
-00:04:19,260 --> 00:04:24,620
+00:04:19,390 --> 00:04:24,750
 And for a hundred years, the Targaryens
 mostly stayed out of it.
 
 80
-00:04:24,470 --> 00:04:30,900
+00:04:24,600 --> 00:04:31,030
 They sat on Dragonstone, looking
 east, toward the ruins of home.
 
 81
-00:04:31,300 --> 00:04:33,670
+00:04:31,430 --> 00:04:33,760
 Then a boy named Aegon was born.
 
 82
-00:04:34,340 --> 00:04:35,970
+00:04:34,470 --> 00:04:36,080
 And Aegon looked west.
 
 83
-00:04:38,690 --> 00:04:42,120
+00:04:38,800 --> 00:04:42,210
 Aegon Targaryen grew up in a castle
 that looked like a nightmare.
 
 84
-00:04:42,790 --> 00:04:45,620
+00:04:42,900 --> 00:04:45,730
 The Valyrians had raised
 Dragonstone with magic,
 
 85
-00:04:45,950 --> 00:04:48,480
+00:04:46,060 --> 00:04:48,590
 shaping the black stone like soft clay.
 
 86
-00:04:49,030 --> 00:04:53,840
+00:04:49,140 --> 00:04:53,950
 Its towers were carved as dragons, hunched
 along the walls as if about to
 
 87
-00:04:53,690 --> 00:04:54,400
+00:04:53,800 --> 00:04:54,510
 take flight.
 
 88
-00:04:55,150 --> 00:04:57,900
+00:04:55,250 --> 00:04:58,590
 Its gates were open dragon mouths.
 
 89
-00:04:58,850 --> 00:05:02,280
+00:04:58,990 --> 00:05:02,420
 Gargoyles and stone wyverns
 crouched everywhere,
 
 90
-00:05:02,650 --> 00:05:06,180
+00:05:02,790 --> 00:05:06,320
 and the whole mountain beneath
 it steamed and rumbled.
 
 91
-00:05:06,990 --> 00:05:11,120
+00:05:07,110 --> 00:05:11,260
 He had two sisters, and
 in the old Valyrian way,
 
 92
-00:05:11,470 --> 00:05:15,660
+00:05:11,610 --> 00:05:15,800
 to keep the blood of the dragon
 pure, he married them both.
 
 93
-00:05:16,470 --> 00:05:19,160
+00:05:16,590 --> 00:05:19,300
 The histories say he married
 Visenya first,
 
 94
-00:05:19,790 --> 00:05:22,860
+00:05:19,930 --> 00:05:23,000
 out of duty, and Rhaenys out of love.
 
 95
-00:05:23,530 --> 00:05:25,760
+00:05:23,670 --> 00:05:25,900
 They could not have been more different.
 
 96
-00:05:25,960 --> 00:05:28,130
+00:05:26,100 --> 00:05:28,410
 Visenya, the elder, was a warrior.
 
 97
-00:05:28,600 --> 00:05:30,930
+00:05:29,060 --> 00:05:31,010
 Stern, severe, hard to impress.
 
 98
-00:05:31,460 --> 00:05:33,490
+00:05:31,400 --> 00:05:33,440
 She trained with the sword from girlhood,
 
 99
-00:05:33,340 --> 00:05:37,030
+00:05:33,530 --> 00:05:36,800
 and she carried a blade of Valyrian
 steel called Dark Sister.
 
 100
-00:05:38,060 --> 00:05:40,950
+00:05:37,830 --> 00:05:41,100
 Rhaenys, the younger, was bright
 and playful and curious.
 
 101
-00:05:41,380 --> 00:05:44,050
+00:05:41,500 --> 00:05:44,410
 She loved music, and dancing,
 and clever company.
 
 102
-00:05:44,540 --> 00:05:46,390
+00:05:44,900 --> 00:05:46,730
 She filled her halls with singers.
 
 103
-00:05:46,820 --> 00:05:49,990
+00:05:47,080 --> 00:05:50,360
 And she flew her dragon simply
 because she loved to fly.
 
 104
-00:05:50,900 --> 00:05:53,130
+00:05:51,310 --> 00:05:53,440
 Aegon himself was the hardest to read.
 
 105
-00:05:53,530 --> 00:05:56,120
+00:05:53,290 --> 00:05:57,530
 The histories describe
 him as grave and quiet,
 
 106
-00:05:56,330 --> 00:05:58,120
+00:05:57,840 --> 00:05:59,810
 a man who kept his own counsel.
 
 107
-00:05:58,630 --> 00:06:03,220
+00:06:00,240 --> 00:06:04,390
 He carried his own Valyrian sword,
 a black blade called Blackfyre.
 
 108
-00:06:03,620 --> 00:06:05,550
+00:06:04,790 --> 00:06:06,940
 And each of them had a dragon.
 
 109
-00:06:06,440 --> 00:06:08,110
+00:06:07,670 --> 00:06:09,060
 Visenya rode Vhagar.
 
 110
-00:06:08,700 --> 00:06:10,290
+00:06:09,730 --> 00:06:11,000
 Rhaenys rode Meraxes.
 
 111
-00:06:10,720 --> 00:06:13,210
+00:06:11,470 --> 00:06:13,860
 And Aegon rode the greatest of them all.
 
 112
-00:06:14,540 --> 00:06:16,570
+00:06:14,930 --> 00:06:16,740
 Balerion, the Black Dread.
 
 113
-00:06:17,200 --> 00:06:21,030
+00:06:17,450 --> 00:06:21,540
 Balerion was the last living dragon
 to have seen Valyria itself.
 
 114
-00:06:21,600 --> 00:06:23,010
+00:06:22,070 --> 00:06:23,520
 His scales were black.
 
 115
-00:06:23,410 --> 00:06:24,760
+00:06:23,370 --> 00:06:26,250
 His fire was black.
 
 116
-00:06:25,160 --> 00:06:30,350
+00:06:26,650 --> 00:06:31,920
 When he flew, the stories say, his shadow
 fell over whole towns at once,
 
 117
-00:06:30,780 --> 00:06:35,090
+00:06:32,210 --> 00:06:36,340
 and people in the streets below would
 look up and see the sun go out.
 
 118
-00:06:35,980 --> 00:06:40,510
+00:06:37,170 --> 00:06:41,860
 In the first book, a young Arya Stark
 gets lost in the cellars of the Red
 
 119
-00:06:40,360 --> 00:06:44,030
+00:06:41,710 --> 00:06:44,880
 Keep and finds the old dragon
 skulls in the dark.
 
 120
-00:06:44,640 --> 00:06:47,610
+00:06:45,690 --> 00:06:48,580
 The biggest of them has
 teeth like black swords,
 
 121
-00:06:47,460 --> 00:06:52,290
+00:06:48,430 --> 00:06:52,720
 and a jaw so wide it could swallow
 a horse and rider whole.
 
 122
-00:06:53,400 --> 00:06:55,070
+00:06:53,270 --> 00:06:55,140
 That was Balerion.
 
 123
-00:06:56,180 --> 00:07:00,370
+00:06:57,010 --> 00:07:01,400
 In the great hall of Dragonstone,
 Aegon had a table made.
 
 124
-00:07:01,280 --> 00:07:07,370
+00:07:01,970 --> 00:07:06,780
 Fifty feet long, cut in the shape of Westeros
 and painted with every forest,
 
 125
-00:07:07,740 --> 00:07:10,730
+00:07:07,030 --> 00:07:09,240
 river, city and castle on the continent.
 
 126
-00:07:11,520 --> 00:07:13,830
+00:07:10,210 --> 00:07:12,640
 And on it, there were no borders.
 
 127
-00:07:14,520 --> 00:07:15,210
+00:07:13,410 --> 00:07:14,480
 No kingdoms.
 
 128
-00:07:16,020 --> 00:07:18,110
+00:07:14,950 --> 00:07:16,680
 Just one land.
 
 129
-00:07:18,310 --> 00:07:23,000
+00:07:16,880 --> 00:07:21,570
 Centuries later, in the books, Stannis
 Baratheon would stand at the same
 
 130
-00:07:22,850 --> 00:07:25,400
+00:07:21,420 --> 00:07:23,970
 table and brood over the same map.
 
 131
-00:07:26,030 --> 00:07:29,220
+00:07:24,600 --> 00:07:27,790
 Because when Aegon looked
 across the narrow sea,
 
 132
-00:07:29,490 --> 00:07:31,360
+00:07:28,060 --> 00:07:29,930
 he did not see one land.
 
 133
-00:07:31,930 --> 00:07:35,160
+00:07:30,480 --> 00:07:33,730
 He saw seven kingdoms,
 each with its own king,
 
 134
-00:07:35,370 --> 00:07:36,860
+00:07:33,940 --> 00:07:35,430
 and all of them at war.
 
 135
-00:07:37,260 --> 00:07:39,570
+00:07:35,830 --> 00:07:38,140
 In the North, the Starks of Winterfell.
 
 136
-00:07:39,860 --> 00:07:42,360
+00:07:38,540 --> 00:07:40,910
 In the Vale, the Arryns of the Eyrie.
 
 137
-00:07:42,760 --> 00:07:45,630
+00:07:41,310 --> 00:07:44,180
 In the west, the Lannisters
 of Casterly Rock.
 
 138
-00:07:45,480 --> 00:07:49,000
+00:07:44,030 --> 00:07:47,550
 In the Reach, the Gardeners of Highgarden.
 
 139
-00:07:49,400 --> 00:07:52,710
+00:07:47,950 --> 00:07:51,240
 In the Stormlands, the Durrandons
 of Storm's End.
 
 140
-00:07:53,120 --> 00:07:55,410
+00:07:51,650 --> 00:07:53,960
 In the south, the Martells of Dorne.
 
 141
-00:07:55,920 --> 00:08:01,250
+00:07:54,490 --> 00:07:59,800
 And in the riverlands, a cruel king from
 the Iron Islands named Harren the
 
 142
-00:08:01,100 --> 00:08:05,890
+00:07:59,650 --> 00:08:04,440
 Black, who had just finished building
 the largest castle the world had ever
 
 143
-00:08:05,740 --> 00:08:06,370
+00:08:04,290 --> 00:08:04,920
 seen.
 
 144
-00:08:07,340 --> 00:08:09,170
+00:08:05,890 --> 00:08:07,720
 Why did Aegon go west?
 
 145
-00:08:09,920 --> 00:08:11,650
+00:08:08,470 --> 00:08:10,200
 The histories do not agree.
 
 146
-00:08:12,060 --> 00:08:14,380
+00:08:10,610 --> 00:08:12,930
 Some say it was simple ambition.
 
 147
-00:08:14,230 --> 00:08:18,360
+00:08:12,780 --> 00:08:16,910
 Some say Daenys's old dream had
 shown more than the Doom.
 
 148
-00:08:18,770 --> 00:08:20,180
+00:08:17,320 --> 00:08:18,730
 Others point to an insult.
 
 149
-00:08:20,710 --> 00:08:25,840
+00:08:19,260 --> 00:08:24,390
 The storm king, Argilac the Arrogant,
 offered Aegon a marriage alliance.
 
 150
-00:08:26,650 --> 00:08:27,400
+00:08:25,200 --> 00:08:25,950
 Aegon countered.
 
 151
-00:08:27,890 --> 00:08:32,700
+00:08:26,440 --> 00:08:31,250
 And Argilac sent back an answer so insulting
 that there could only be one
 
 152
-00:08:32,550 --> 00:08:33,220
+00:08:31,100 --> 00:08:31,770
 reply.
 
 153
-00:08:34,010 --> 00:08:37,260
+00:08:32,560 --> 00:08:35,810
 In the show House of the Dragon,
 there is another reason.
 
 154
-00:08:38,010 --> 00:08:41,940
+00:08:36,560 --> 00:08:40,490
 Aegon has a secret dream of a great
 winter coming from the north,
 
 155
-00:08:41,790 --> 00:08:45,600
+00:08:40,340 --> 00:08:44,150
 and conquers Westeros to unite
 it against the dead.
 
 156
-00:08:46,250 --> 00:08:49,380
+00:08:44,800 --> 00:08:47,930
 That prophecy is passed from king to heir,
 
 157
-00:08:49,230 --> 00:08:51,220
+00:08:47,780 --> 00:08:49,770
 all the way down to Daenerys.
 
 158
-00:08:51,650 --> 00:08:53,600
+00:08:50,200 --> 00:08:52,150
 It is a powerful idea.
 
 159
-00:08:54,110 --> 00:08:56,140
+00:08:52,660 --> 00:08:54,690
 But it is the show's invention.
 
 160
-00:08:56,650 --> 00:08:59,820
+00:08:55,200 --> 00:08:58,370
 In the books, no such dream
 is ever mentioned.
 
 161
-00:09:02,475 --> 00:09:05,245
+00:09:01,025 --> 00:09:03,735
 Aegon landed at the mouth
 of the Blackwater Rush,
 
 162
-00:09:05,515 --> 00:09:08,465
+00:09:04,005 --> 00:09:06,955
 on three hills above a fishing village.
 
 163
-00:09:08,315 --> 00:09:12,315
+00:09:06,805 --> 00:09:10,805
 He brought fewer than sixteen hundred men.
 
 164
-00:09:12,515 --> 00:09:16,225
+00:09:11,005 --> 00:09:14,535
 On the highest hill, he built a
 rough fort of timber and earth.
 
 165
-00:09:16,715 --> 00:09:17,845
+00:09:14,935 --> 00:09:15,985
 The Aegonfort.
 
 166
-00:09:18,475 --> 00:09:21,845
+00:09:16,775 --> 00:09:21,105
 One day it would become the Red Keep,
 and the village below would grow into
 
 167
-00:09:21,695 --> 00:09:23,165
+00:09:20,955 --> 00:09:22,625
 a city called King's Landing.
 
 168
-00:09:24,015 --> 00:09:26,505
+00:09:23,455 --> 00:09:26,185
 Westeros still counts its
 years from his conquest.
 
 169
-00:09:27,055 --> 00:09:30,645
+00:09:27,075 --> 00:09:31,065
 In the books, every date is so
 many years After the Conquest.
 
 170
-00:09:31,045 --> 00:09:31,515
+00:09:31,695 --> 00:09:32,225
 A.C.
 
 171
-00:09:32,145 --> 00:09:34,915
+00:09:32,745 --> 00:09:35,325
 The first great test came
 in the riverlands.
 
 172
-00:09:35,465 --> 00:09:38,355
+00:09:35,915 --> 00:09:38,965
 Harren the Black had spent forty
 years building Harrenhal.
 
 173
-00:09:38,755 --> 00:09:42,765
+00:09:38,815 --> 00:09:43,995
 Its walls were so high that no
 siege tower could reach them.
 
 174
-00:09:43,035 --> 00:09:46,415
+00:09:44,325 --> 00:09:47,065
 Its five towers were the
 tallest in the realm.
 
 175
-00:09:46,815 --> 00:09:48,965
+00:09:47,495 --> 00:09:49,505
 Its great hall could feast an army.
 
 176
-00:09:49,595 --> 00:09:53,385
+00:09:50,155 --> 00:09:54,185
 And the histories say it was finished
 on the very day Aegon landed.
 
 177
-00:09:54,295 --> 00:09:56,205
+00:09:54,955 --> 00:09:57,125
 Harren believed stone could not burn.
 
 178
-00:09:56,775 --> 00:09:59,845
+00:09:57,635 --> 00:10:00,705
 He shut himself inside with
 his sons, and he waited.
 
 179
-00:10:00,615 --> 00:10:02,525
+00:10:01,575 --> 00:10:03,385
 Aegon did not besiege the castle.
 
 180
-00:10:02,925 --> 00:10:05,775
+00:10:03,785 --> 00:10:06,415
 He flew over the walls
 at dusk on Balerion.
 
 181
-00:10:06,425 --> 00:10:09,615
+00:10:06,815 --> 00:10:09,565
 And the black fire poured
 down into the towers.
 
 182
-00:10:10,225 --> 00:10:12,655
+00:10:10,095 --> 00:10:12,965
 Stone, it turns out, does
 not need to burn.
 
 183
-00:10:13,185 --> 00:10:15,135
+00:10:13,365 --> 00:10:15,315
 It only needs to get hot enough.
 
 184
-00:10:15,535 --> 00:10:17,505
+00:10:15,845 --> 00:10:17,915
 The towers became ovens.
 
 185
-00:10:17,905 --> 00:10:22,555
+00:10:18,105 --> 00:10:23,145
 The great stones cracked, and glowed,
 and ran like candle wax.
 
 186
-00:10:23,565 --> 00:10:26,775
+00:10:24,275 --> 00:10:27,845
 By morning, Harren the Black
 and his sons were gone,
 
 187
-00:10:26,625 --> 00:10:28,375
+00:10:28,055 --> 00:10:29,725
 and his line with them.
 
 188
-00:10:29,125 --> 00:10:31,635
+00:10:30,435 --> 00:10:32,785
 Three hundred years later, in the books,
 
 189
-00:10:32,065 --> 00:10:36,655
+00:10:33,175 --> 00:10:37,905
 Harrenhal still stands half-ruined,
 its towers twisted and melted.
 
 190
-00:10:37,685 --> 00:10:39,475
+00:10:38,085 --> 00:10:39,985
 People say it is cursed.
 
 191
-00:10:40,465 --> 00:10:45,095
+00:10:40,715 --> 00:10:45,285
 Nearly every lord who has held
 it since has come to a bad end.
 
 192
-00:10:46,265 --> 00:10:49,635
+00:10:46,755 --> 00:10:50,045
 In the south, Aegon's half-brother
 and general,
 
 193
-00:10:49,825 --> 00:10:54,235
+00:10:50,395 --> 00:10:54,665
 Orys Baratheon, faced the storm
 king, Argilac the Arrogant,
 
 194
-00:10:54,425 --> 00:10:57,155
+00:10:54,915 --> 00:10:57,525
 who had insulted Aegon in the first place.
 
 195
-00:10:58,045 --> 00:10:59,935
+00:10:58,235 --> 00:10:59,965
 Argilac fell in the battle.
 
 196
-00:11:00,135 --> 00:11:03,345
+00:11:00,164 --> 00:11:03,494
 Orys married the dead king's daughter,
 and took his castle,
 
 197
-00:11:03,535 --> 00:11:05,805
+00:11:03,605 --> 00:11:05,914
 his banners and his words for his own.
 
 198
-00:11:06,495 --> 00:11:08,745
+00:11:06,344 --> 00:11:08,594
 That is how House Baratheon began.
 
 199
-00:11:09,145 --> 00:11:11,135
+00:11:08,995 --> 00:11:11,164
 As a Targaryen general's reward.
 
 200
-00:11:11,885 --> 00:11:14,575
+00:11:11,774 --> 00:11:13,924
 Then came the moment that
 decided everything.
 
 201
-00:11:15,145 --> 00:11:19,395
+00:11:14,294 --> 00:11:18,794
 Two kings joined forces against the dragons:
 Loren Lannister of the Rock,
 
 202
-00:11:19,245 --> 00:11:21,635
+00:11:18,644 --> 00:11:20,734
 and Mern Gardener of the Reach.
 
 203
-00:11:22,305 --> 00:11:24,975
+00:11:21,184 --> 00:11:23,874
 Together they marched with
 fifty-five thousand men,
 
 204
-00:11:25,245 --> 00:11:27,755
+00:11:24,184 --> 00:11:26,734
 the largest army Westeros had ever seen.
 
 205
-00:11:28,285 --> 00:11:30,495
+00:11:27,365 --> 00:11:29,174
 Aegon had about eleven thousand.
 
 206
-00:11:30,485 --> 00:11:33,545
+00:11:29,574 --> 00:11:32,625
 They met on open ground
 south of the Blackwater,
 
 207
-00:11:33,655 --> 00:11:36,345
+00:11:32,755 --> 00:11:35,724
 in a dry summer, with the
 grass high and golden.
 
 208
-00:11:36,895 --> 00:11:38,885
+00:11:36,174 --> 00:11:38,444
 For the first and only time in history,
 
 209
-00:11:39,055 --> 00:11:41,305
+00:11:38,594 --> 00:11:41,025
 all three dragons flew
 into battle together.
 
 210
-00:11:41,705 --> 00:11:42,075
+00:11:41,424 --> 00:11:42,015
 Vhagar.
 
 211
-00:11:42,475 --> 00:11:43,145
+00:11:42,414 --> 00:11:43,084
 Meraxes.
 
 212
-00:11:43,615 --> 00:11:44,425
+00:11:43,485 --> 00:11:44,294
 And Balerion.
 
 213
-00:11:45,115 --> 00:11:46,725
+00:11:44,745 --> 00:11:46,454
 The grass caught at once.
 
 214
-00:11:47,125 --> 00:11:48,395
+00:11:46,855 --> 00:11:48,525
 The wind did the rest.
 
 215
-00:11:48,805 --> 00:11:51,955
+00:11:49,014 --> 00:11:52,184
 The histories say four thousand
 men burned that day.
 
 216
-00:11:52,725 --> 00:11:54,755
+00:11:52,875 --> 00:11:54,984
 Mern Gardener, the last king of the Reach,
 
 217
-00:11:55,065 --> 00:11:58,975
+00:11:55,214 --> 00:11:59,844
 died with his sons and his grandsons,
 and his line ended on that field.
 
 218
-00:11:59,485 --> 00:12:00,795
+00:12:00,475 --> 00:12:01,625
 Loren Lannister lived.
 
 219
-00:12:01,195 --> 00:12:04,025
+00:12:02,024 --> 00:12:05,074
 He knelt, and laid his
 crown at Aegon's feet.
 
 220
-00:12:04,455 --> 00:12:06,455
+00:12:05,764 --> 00:12:07,734
 The battle has a name in the books.
 
 221
-00:12:06,705 --> 00:12:08,615
+00:12:08,135 --> 00:12:09,865
 They call it the Field of Fire.
 
 222
-00:12:09,465 --> 00:12:12,475
+00:12:10,715 --> 00:12:13,724
 After that, the kingdoms
 fell like dominoes.
 
 223
-00:12:12,875 --> 00:12:17,125
+00:12:14,054 --> 00:12:18,554
 In the Vale, the Arryns' queen regent
 believed the Eyrie could never fall.
 
 224
-00:12:17,575 --> 00:12:20,825
+00:12:18,924 --> 00:12:21,744
 It stood on a mountain,
 high above any army.
 
 225
-00:12:21,375 --> 00:12:24,225
+00:12:22,294 --> 00:12:25,084
 But no castle is high enough
 to stop a dragon.
 
 226
-00:12:25,055 --> 00:12:29,265
+00:12:25,755 --> 00:12:31,164
 Visenya simply flew Vhagar up the mountain
 and landed in the castle yard.
 
 227
-00:12:29,875 --> 00:12:32,485
+00:12:32,014 --> 00:12:34,405
 The boy king of the Vale, Ronnel Arryn,
 
 228
-00:12:32,635 --> 00:12:36,565
+00:12:34,495 --> 00:12:38,645
 was taken up on Vhagar's back, flown
 three times around the mountain,
 
 229
-00:12:36,635 --> 00:12:38,885
+00:12:38,875 --> 00:12:41,365
 and came down to surrender his crown.
 
 230
-00:12:39,084 --> 00:12:42,894
+00:12:41,564 --> 00:12:45,454
 In the North, Torrhen Stark marched
 south with thirty thousand men.
 
 231
-00:12:43,544 --> 00:12:45,754
+00:12:45,984 --> 00:12:48,494
 When he reached the Trident
 and saw the dragons,
 
 232
-00:12:45,604 --> 00:12:47,874
+00:12:48,344 --> 00:12:50,914
 and heard what had happened to Harrenhal,
 
 233
-00:12:48,024 --> 00:12:50,774
+00:12:51,124 --> 00:12:54,054
 he made the hardest choice
 a king can make.
 
 234
-00:12:51,174 --> 00:12:51,964
+00:12:54,454 --> 00:12:55,404
 He knelt.
 
 235
-00:12:52,614 --> 00:12:55,364
+00:12:56,074 --> 00:12:59,044
 The North remembers him
 as the King Who Knelt.
 
 236
-00:12:55,874 --> 00:12:58,884
+00:12:59,454 --> 00:13:02,624
 But because he knelt, Winterfell
 never burned.
 
 237
-00:12:59,474 --> 00:13:03,404
+00:13:03,134 --> 00:13:07,324
 And in Oldtown, the High Septon
 of the Faith prayed for a sign.
 
 238
-00:13:03,754 --> 00:13:07,644
+00:13:07,724 --> 00:13:11,094
 The gods, he said, told
 him not to oppose Aegon.
 
 239
-00:13:07,494 --> 00:13:13,064
+00:13:11,504 --> 00:13:16,234
 So the city opened its gates, and the
 High Septon anointed Aegon king with
 
 240
-00:13:12,914 --> 00:13:13,884
+00:13:16,084 --> 00:13:17,114
 the seven oils.
 
 241
-00:13:14,814 --> 00:13:16,524
+00:13:18,104 --> 00:13:19,654
 Aegon now needed a throne.
 
 242
-00:13:16,924 --> 00:13:19,894
+00:13:20,054 --> 00:13:23,444
 He had the swords of his fallen
 enemies gathered together,
 
 243
-00:13:20,104 --> 00:13:24,874
+00:13:23,654 --> 00:13:28,304
 the songs say a thousand of them, and
 had them heated in Balerion's fire,
 
 244
-00:13:25,244 --> 00:13:27,754
+00:13:28,534 --> 00:13:31,044
 then beaten and twisted into a seat.
 
 245
-00:13:28,344 --> 00:13:31,294
+00:13:31,694 --> 00:13:35,324
 In the show, the Iron Throne is a neat,
 
 246
-00:13:31,644 --> 00:13:32,634
+00:13:35,574 --> 00:13:36,644
 upright chair.
 
 247
-00:13:33,104 --> 00:13:35,814
+00:13:37,044 --> 00:13:40,014
 In the books, it is something
 else entirely.
 
 248
-00:13:35,664 --> 00:13:41,664
+00:13:40,414 --> 00:13:45,464
 An asymmetric monstrosity of spikes,
 jagged edges and twisted metal,
 
 249
-00:13:41,514 --> 00:13:45,724
+00:13:45,894 --> 00:13:49,564
 rising high above the hall,
 reached by steep iron steps.
 
 250
-00:13:46,314 --> 00:13:48,164
+00:13:50,134 --> 00:13:51,884
 It was meant to be uncomfortable.
 
 251
-00:13:48,714 --> 00:13:51,464
+00:13:52,574 --> 00:13:56,264
 The histories say Aegon
 wanted it that way.
 
 252
-00:13:52,094 --> 00:13:55,964
+00:13:56,664 --> 00:13:59,414
 A king, he said, should never sit easy.
 
 253
-00:13:57,054 --> 00:13:59,104
+00:14:00,044 --> 00:14:01,614
 And the throne was dangerous.
 
 254
-00:13:59,654 --> 00:14:02,204
+00:14:02,424 --> 00:14:04,934
 Kings who sat on it cut themselves
 on its blades.
 
 255
-00:14:02,854 --> 00:14:07,164
+00:14:06,224 --> 00:14:10,714
 Later, people would whisper that the
 throne itself judged who was worthy,
 
 256
-00:14:07,014 --> 00:14:09,804
+00:14:10,564 --> 00:14:13,374
 and drew the blood of those who were not.
 
 257
-00:14:10,694 --> 00:14:12,264
+00:14:14,664 --> 00:14:16,374
 Six kingdoms had fallen.
 
 258
-00:14:12,974 --> 00:14:14,644
+00:14:16,964 --> 00:14:18,194
 One had not.
 
 259
-00:14:15,874 --> 00:14:20,404
+00:14:19,164 --> 00:14:24,134
 Dorne was a hot, dry land of deserts,
 red mountains and scorpions.
 
 260
-00:14:21,714 --> 00:14:25,044
+00:14:24,964 --> 00:14:27,134
 And the Dornish had learned
 from the Field of Fire.
 
 261
-00:14:24,894 --> 00:14:28,484
+00:14:27,984 --> 00:14:29,494
 They refused to give battle.
 
 262
-00:14:28,684 --> 00:14:32,114
+00:14:29,694 --> 00:14:33,124
 When the dragons came, their armies
 simply melted into the desert.
 
 263
-00:14:32,514 --> 00:14:34,584
+00:14:33,524 --> 00:14:35,594
 When the dragons left, they came back.
 
 264
-00:14:35,234 --> 00:14:37,684
+00:14:36,244 --> 00:14:38,694
 Then, in the tenth year after the landing,
 
 265
-00:14:38,154 --> 00:14:41,344
+00:14:39,184 --> 00:14:42,354
 Rhaenys and Meraxes flew over
 the castle of Hellholt.
 
 266
-00:14:41,654 --> 00:14:45,834
+00:14:42,664 --> 00:14:46,844
 A bolt from a great Dornish scorpion
 struck Meraxes through the eye.
 
 267
-00:14:46,234 --> 00:14:47,444
+00:14:47,194 --> 00:14:48,474
 The dragon fell.
 
 268
-00:14:48,014 --> 00:14:49,504
+00:14:49,044 --> 00:14:50,534
 And Rhaenys fell with her.
 
 269
-00:14:50,234 --> 00:14:52,824
+00:14:51,264 --> 00:14:53,854
 Aegon's answer is remembered
 as the Dragon's Wroth.
 
 270
-00:14:53,274 --> 00:14:58,344
+00:14:54,304 --> 00:14:59,374
 For two years, Aegon and Visenya burned
 every Dornish castle they could
 
 271
-00:14:58,194 --> 00:14:58,804
+00:14:59,224 --> 00:14:59,834
 reach.
 
 272
-00:14:59,594 --> 00:15:01,164
+00:15:00,624 --> 00:15:02,194
 Dorne still would not bend.
 
 273
-00:15:02,454 --> 00:15:05,424
+00:15:03,504 --> 00:15:06,454
 In the end, a letter arrived
 from the Princess of Dorne.
 
 274
-00:15:06,134 --> 00:15:07,164
+00:15:07,144 --> 00:15:08,194
 Aegon read it alone.
 
 275
-00:15:07,614 --> 00:15:08,984
+00:15:08,644 --> 00:15:10,014
 No one knows what it said.
 
 276
-00:15:09,394 --> 00:15:14,024
+00:15:10,424 --> 00:15:15,054
 But after he read it, he made peace,
 and never went to war in Dorne again.
 
 277
-00:15:14,994 --> 00:15:16,884
+00:15:16,024 --> 00:15:17,914
 Aegon ruled for thirty-seven years.
 
 278
-00:15:16,734 --> 00:15:21,534
+00:15:17,764 --> 00:15:22,564
 He died in his bed on
 Dragonstone, in peace,
 
 279
-00:15:21,904 --> 00:15:23,134
+00:15:22,934 --> 00:15:24,164
 at the head of a dynasty.
 
 280
-00:15:23,844 --> 00:15:26,354
+00:15:24,874 --> 00:15:27,384
 His family would not stay
 at peace for long.
 
 281
-00:15:27,570 --> 00:15:30,740
+00:15:28,600 --> 00:15:31,750
 If you are enjoying this journey
 through the history of Westeros,
 
 282
-00:15:30,970 --> 00:15:32,740
+00:15:32,000 --> 00:15:33,770
 subscribe to the Mythic Archives.
 
 283
-00:15:33,140 --> 00:15:35,790
+00:15:34,170 --> 00:15:36,820
 We bring the books to life: the stories,
 
 284
-00:15:36,120 --> 00:15:40,070
+00:15:37,150 --> 00:15:41,100
 the history, and the small details
 that make these worlds feel real.
 
 285
-00:15:41,460 --> 00:15:43,470
+00:15:42,490 --> 00:15:44,500
 Now, the sons of the dragon.
 
 286
-00:15:46,790 --> 00:15:50,460
+00:15:47,820 --> 00:15:51,570
 Aegon left two sons, by
 two different sisters.
 
 287
-00:15:50,950 --> 00:15:55,600
+00:15:52,240 --> 00:15:56,690
 Each was raised by his own mother,
 and each became a mirror of her.
 
 288
-00:15:56,890 --> 00:16:00,320
+00:15:58,000 --> 00:16:01,410
 Aenys, the son of Rhaenys,
 was gentle and dreamy,
 
 289
-00:16:00,550 --> 00:16:04,440
+00:16:01,640 --> 00:16:05,550
 often sick as a boy, kind
 and eager to be loved.
 
 290
-00:16:05,430 --> 00:16:08,400
+00:16:06,580 --> 00:16:09,490
 Maegor, the son of Visenya,
 was the opposite.
 
 291
-00:16:09,110 --> 00:16:13,020
+00:16:10,200 --> 00:16:14,110
 Huge, strong, and fearless,
 a warrior from childhood,
 
 292
-00:16:13,190 --> 00:16:16,620
+00:16:13,960 --> 00:16:17,730
 with his mother's iron and none
 of his father's patience.
 
 293
-00:16:17,490 --> 00:16:18,980
+00:16:18,960 --> 00:16:20,090
 Aenys got the throne.
 
 294
-00:16:19,650 --> 00:16:22,380
+00:16:20,760 --> 00:16:23,490
 Maegor got his father's sword, Blackfyre.
 
 295
-00:16:22,578 --> 00:16:24,768
+00:16:23,688 --> 00:16:25,878
 Aenys wanted everyone to love him.
 
 296
-00:16:25,198 --> 00:16:27,708
+00:16:26,308 --> 00:16:28,818
 Instead, the realm rose against him.
 
 297
-00:16:28,118 --> 00:16:29,748
+00:16:29,228 --> 00:16:30,858
 The biggest threat was the Faith.
 
 298
-00:16:30,158 --> 00:16:33,148
+00:16:31,268 --> 00:16:34,258
 Its holy orders, the Warrior's
 Sons and the Poor Fellows,
 
 299
-00:16:33,178 --> 00:16:36,488
+00:16:34,268 --> 00:16:37,598
 had always hated the Targaryen custom
 of marrying brother to sister.
 
 300
-00:16:37,138 --> 00:16:39,748
+00:16:38,248 --> 00:16:40,858
 When Aenys married his own
 daughter to his son,
 
 301
-00:16:40,078 --> 00:16:42,288
+00:16:41,188 --> 00:16:43,398
 the High Septon called him an abomination.
 
 302
-00:16:42,698 --> 00:16:45,088
+00:16:43,798 --> 00:16:46,208
 The Faith Militant rose across the realm.
 
 303
-00:16:45,598 --> 00:16:46,748
+00:16:46,718 --> 00:16:47,868
 Aenys never recovered.
 
 304
-00:16:47,238 --> 00:16:49,888
+00:16:48,358 --> 00:16:51,008
 He died after just five
 years on the throne.
 
 305
-00:16:50,618 --> 00:16:53,708
+00:16:51,738 --> 00:16:54,828
 Some whispered that Visenya
 had helped him on his way,
 
 306
-00:16:53,838 --> 00:16:54,908
+00:16:54,958 --> 00:16:56,028
 with one of her potions.
 
 307
-00:16:55,738 --> 00:16:56,968
+00:16:56,858 --> 00:16:58,088
 Then came Maegor.
 
 308
-00:16:57,658 --> 00:17:01,908
+00:16:58,798 --> 00:17:03,028
 He seized the throne, and claimed the
 greatest prize of all: Balerion,
 
 309
-00:17:02,118 --> 00:17:04,588
+00:17:03,238 --> 00:17:05,708
 the Black Dread, who had
 flown under his father,
 
 310
-00:17:04,438 --> 00:17:06,108
+00:17:05,558 --> 00:17:07,208
 and now flew under him.
 
 311
-00:17:06,678 --> 00:17:09,148
+00:17:07,858 --> 00:17:10,268
 Maegor met the Faith with fire and steel.
 
 312
-00:17:09,548 --> 00:17:11,138
+00:17:10,668 --> 00:17:12,258
 He crushed the Warrior's Sons.
 
 313
-00:17:11,908 --> 00:17:15,458
+00:17:13,028 --> 00:17:16,578
 When his own nephew rose against him,
 he met him over the Gods Eye,
 
 314
-00:17:15,308 --> 00:17:19,298
+00:17:16,428 --> 00:17:20,418
 dragon against dragon, and the
 nephew did not come back.
 
 315
-00:17:19,698 --> 00:17:23,448
+00:17:20,818 --> 00:17:24,568
 He finished the Red Keep, and the histories
 say that when it was done,
 
 316
-00:17:23,578 --> 00:17:28,228
+00:17:24,678 --> 00:17:29,348
 he had the builders put to death, so that
 no one would ever know its secret
 
 317
-00:17:28,078 --> 00:17:28,728
+00:17:29,198 --> 00:17:29,848
 passages.
 
 318
-00:17:29,258 --> 00:17:31,328
+00:17:30,378 --> 00:17:32,448
 He married six times.
 
 319
-00:17:32,018 --> 00:17:35,128
+00:17:33,138 --> 00:17:36,248
 Three of those wives he
 wed on a single day.
 
 320
-00:17:35,558 --> 00:17:37,828
+00:17:36,698 --> 00:17:38,968
 The court called them the Black Brides.
 
 321
-00:17:38,228 --> 00:17:41,898
+00:17:39,368 --> 00:17:43,098
 And for all those marriages,
 Maegor had no living heir.
 
 322
-00:17:41,748 --> 00:17:46,968
+00:17:43,498 --> 00:17:47,628
 The histories record only stillbirths,
 and dark rumours of curses.
 
 323
-00:17:47,858 --> 00:17:51,068
+00:17:48,378 --> 00:17:51,708
 Within six years, the realm
 turned against him.
 
 324
-00:17:51,498 --> 00:17:56,028
+00:17:52,178 --> 00:17:56,688
 His lords left him one by one, to
 join his young nephew Jaehaerys,
 
 325
-00:17:56,198 --> 00:17:59,648
+00:17:56,858 --> 00:18:00,308
 who had come out of hiding
 with a dragon of his own.
 
 326
-00:17:59,848 --> 00:18:02,458
+00:18:00,508 --> 00:18:03,118
 One morning, Maegor the
 Cruel was found dead,
 
 327
-00:18:02,748 --> 00:18:04,138
+00:18:03,408 --> 00:18:04,798
 sitting upon the Iron Throne.
 
 328
-00:18:04,728 --> 00:18:05,958
+00:18:05,388 --> 00:18:06,618
 Nobody knows what happened.
 
 329
-00:18:06,358 --> 00:18:07,768
+00:18:07,018 --> 00:18:08,428
 Some say he took his own life.
 
 330
-00:18:08,168 --> 00:18:09,618
+00:18:08,828 --> 00:18:10,238
 Some say someone helped him.
 
 331
-00:18:10,018 --> 00:18:13,208
+00:18:10,638 --> 00:18:13,808
 And some say the throne itself
 finally made its judgement.
 
 332
-00:18:15,909 --> 00:18:19,539
+00:18:16,509 --> 00:18:20,159
 The boy who took the throne after
 Maegor was fourteen years old.
 
 333
-00:18:19,939 --> 00:18:21,249
+00:18:20,559 --> 00:18:21,869
 His name was Jaehaerys.
 
 334
-00:18:21,649 --> 00:18:23,539
+00:18:22,269 --> 00:18:24,159
 He would rule for fifty-five years.
 
 335
-00:18:23,869 --> 00:18:28,769
+00:18:24,489 --> 00:18:29,389
 And to this day, in the books, he is remembered
 as the wisest king who ever
 
 336
-00:18:28,619 --> 00:18:29,909
+00:18:29,239 --> 00:18:30,529
 sat on the Iron Throne.
 
 337
-00:18:30,419 --> 00:18:31,589
+00:18:31,019 --> 00:18:32,209
 He was not alone.
 
 338
-00:18:31,989 --> 00:18:35,959
+00:18:32,609 --> 00:18:36,559
 He married his sister Alysanne,
 clever and warm and fearless,
 
 339
-00:18:36,129 --> 00:18:38,379
+00:18:36,769 --> 00:18:38,979
 and the histories call her the Good Queen.
 
 340
-00:18:39,169 --> 00:18:41,739
+00:18:39,769 --> 00:18:42,359
 Together, on the dragons
 Vermithor and Silverwing,
 
 341
-00:18:41,989 --> 00:18:43,839
+00:18:42,569 --> 00:18:44,419
 they flew to every corner of the realm.
 
 342
-00:18:44,239 --> 00:18:47,069
+00:18:44,849 --> 00:18:47,639
 And they did something
 no Targaryen had tried.
 
 343
-00:18:47,469 --> 00:18:48,859
+00:18:48,039 --> 00:18:49,429
 They made the realm work.
 
 344
-00:18:49,429 --> 00:18:51,479
+00:18:49,999 --> 00:18:52,049
 First, they made peace with the Faith.
 
 345
-00:18:52,469 --> 00:18:55,419
+00:18:53,039 --> 00:18:55,989
 Jaehaerys's Hand, a wise
 septon named Barth,
 
 346
-00:18:55,689 --> 00:18:58,539
+00:18:56,259 --> 00:18:59,109
 struck a bargain: the crown
 would protect the Faith,
 
 347
-00:18:58,609 --> 00:19:01,639
+00:18:59,159 --> 00:19:02,209
 and in return, the Faith would
 lay down its swords forever.
 
 348
-00:19:01,889 --> 00:19:04,009
+00:19:02,459 --> 00:19:04,579
 The Faith Militant was disbanded.
 
 349
-00:19:04,459 --> 00:19:07,809
+00:19:05,029 --> 00:19:08,379
 And the Targaryens' marriages
 were declared an exception,
 
 350
-00:19:08,139 --> 00:19:12,229
+00:19:08,749 --> 00:19:12,799
 blessed by the gods, because the dragonlords
 were not like other men.
 
 351
-00:19:13,519 --> 00:19:14,569
+00:19:14,089 --> 00:19:15,159
 Then they built.
 
 352
-00:19:15,419 --> 00:19:18,469
+00:19:15,989 --> 00:19:19,039
 Jaehaerys gave the realm one
 law, instead of seven.
 
 353
-00:19:19,119 --> 00:19:22,809
+00:19:19,689 --> 00:19:23,379
 He built roads across Westeros,
 including the Kingsroad,
 
 354
-00:19:22,979 --> 00:19:26,129
+00:19:23,529 --> 00:19:26,699
 which runs from King's Landing
 all the way to the Wall.
 
 355
-00:19:26,999 --> 00:19:29,929
+00:19:27,489 --> 00:19:30,499
 He gave King's Landing wells and sewers.
 
 356
-00:19:30,329 --> 00:19:31,899
+00:19:30,899 --> 00:19:32,469
 He gave the realm peace.
 
 357
-00:19:32,509 --> 00:19:34,899
+00:19:33,079 --> 00:19:35,469
 And Alysanne changed the lives of women.
 
 358
-00:19:35,099 --> 00:19:38,749
+00:19:35,668 --> 00:19:39,698
 She persuaded the king to abolish the
 lord's right to the first night,
 
 359
-00:19:38,979 --> 00:19:42,889
+00:19:40,048 --> 00:19:43,858
 an old custom that let a lord claim
 any bride on her wedding night.
 
 360
-00:19:43,659 --> 00:19:48,029
+00:19:44,368 --> 00:19:48,538
 She flew Silverwing to the Wall, and
 gave the Night's Watch new lands to
 
 361
-00:19:47,879 --> 00:19:48,749
+00:19:48,388 --> 00:19:49,298
 feed the brothers.
 
 362
-00:19:49,379 --> 00:19:51,929
+00:19:49,708 --> 00:19:52,198
 To this day, the land is
 called the New Gift.
 
 363
-00:19:52,539 --> 00:19:56,769
+00:19:52,708 --> 00:19:57,538
 And at Castle Black, the gate the Watch
 renamed in her honour is still called
 
 364
-00:19:56,619 --> 00:19:57,509
+00:19:57,388 --> 00:19:58,478
 the Queensgate.
 
 365
-00:19:58,619 --> 00:20:00,709
+00:19:59,068 --> 00:20:01,478
 But the long reign had a sad heart.
 
 366
-00:20:01,379 --> 00:20:03,889
+00:20:02,168 --> 00:20:04,998
 Jaehaerys and Alysanne
 had thirteen children,
 
 367
-00:20:03,739 --> 00:20:05,609
+00:20:04,848 --> 00:20:06,878
 and outlived most of them.
 
 368
-00:20:06,039 --> 00:20:10,229
+00:20:07,148 --> 00:20:11,308
 Their heir, Prince Aemon, was killed
 by raiders on the island of Tarth.
 
 369
-00:20:10,719 --> 00:20:13,909
+00:20:11,778 --> 00:20:15,448
 Years later, their second
 son, Baelon, died too.
 
 370
-00:20:14,419 --> 00:20:17,029
+00:20:16,038 --> 00:20:18,928
 And that raised a question that
 would haunt the family.
 
 371
-00:20:17,559 --> 00:20:19,169
+00:20:19,378 --> 00:20:20,768
 Who inherits next?
 
 372
-00:20:19,719 --> 00:20:21,989
+00:20:21,238 --> 00:20:23,568
 Aemon had left a daughter, Rhaenys.
 
 373
-00:20:22,519 --> 00:20:24,909
+00:20:23,968 --> 00:20:26,198
 Baelon had left a son, Viserys.
 
 374
-00:20:25,439 --> 00:20:28,469
+00:20:26,598 --> 00:20:29,208
 In the hundred and first
 year after the Conquest,
 
 375
-00:20:28,939 --> 00:20:31,369
+00:20:29,418 --> 00:20:32,068
 Jaehaerys called a Great
 Council at Harrenhal,
 
 376
-00:20:31,219 --> 00:20:33,749
+00:20:31,918 --> 00:20:34,828
 and let the lords of the realm decide.
 
 377
-00:20:34,149 --> 00:20:35,999
+00:20:35,228 --> 00:20:36,878
 The lords chose Viserys.
 
 378
-00:20:36,469 --> 00:20:38,379
+00:20:37,278 --> 00:20:38,968
 A man, over a woman.
 
 379
-00:20:39,009 --> 00:20:42,179
+00:20:39,538 --> 00:20:42,588
 The histories call Rhaenys
 the Queen Who Never Was.
 
 380
-00:20:42,589 --> 00:20:44,159
+00:20:43,018 --> 00:20:44,708
 It seemed to settle things.
 
 381
-00:20:44,369 --> 00:20:48,229
+00:20:45,138 --> 00:20:49,348
 In fact, it set a precedent that
 would rip the dynasty in half.
 
 382
-00:20:48,739 --> 00:20:51,609
+00:20:50,238 --> 00:20:53,348
 When the Old King died, the
 whole realm mourned him.
 
 383
-00:20:52,009 --> 00:20:54,769
+00:20:53,748 --> 00:20:56,078
 His dragons had lived to be ancient.
 
 384
-00:20:54,619 --> 00:20:57,449
+00:20:56,478 --> 00:20:58,768
 His peace had lasted half a century.
 
 385
-00:20:57,849 --> 00:20:59,639
+00:20:59,358 --> 00:21:01,508
 It would not survive his grandson.
 
 386
-00:21:02,227 --> 00:21:05,217
+00:21:04,112 --> 00:21:07,122
 King Viserys the First was kind, generous,
 
 387
-00:21:05,607 --> 00:21:07,857
+00:21:07,372 --> 00:21:09,702
 and fond of feasts and tourneys.
 
 388
-00:21:08,267 --> 00:21:10,697
+00:21:10,312 --> 00:21:12,822
 He wanted, above all, to be liked.
 
 389
-00:21:11,227 --> 00:21:14,157
+00:21:13,332 --> 00:21:16,282
 He also ruled at the very
 height of Targaryen power.
 
 390
-00:21:14,607 --> 00:21:18,017
+00:21:16,682 --> 00:21:19,592
 There were more dragons in
 the realm than ever before.
 
 391
-00:21:18,217 --> 00:21:22,067
+00:21:19,792 --> 00:21:23,642
 In the books, the histories call this
 the high summer of House Targaryen.
 
 392
-00:21:22,557 --> 00:21:26,127
+00:21:24,132 --> 00:21:27,702
 Viserys had one living child by
 his first wife: a daughter,
 
 393
-00:21:26,357 --> 00:21:26,807
+00:21:27,932 --> 00:21:28,382
 Rhaenyra.
 
 394
-00:21:27,157 --> 00:21:29,617
+00:21:28,732 --> 00:21:31,132
 The court called her the Realm's Delight.
 
 395
-00:21:30,227 --> 00:21:34,097
+00:21:31,822 --> 00:21:35,692
 When his wife died in childbirth, and
 the son she bore died with her,
 
 396
-00:21:34,547 --> 00:21:36,797
+00:21:36,122 --> 00:21:38,392
 Viserys did something no king had done.
 
 397
-00:21:37,247 --> 00:21:38,977
+00:21:38,822 --> 00:21:40,572
 He named his daughter his heir.
 
 398
-00:21:39,387 --> 00:21:42,917
+00:21:40,962 --> 00:21:44,502
 And he made the lords of the realm kneel
 and swear to defend her right.
 
 399
-00:21:43,547 --> 00:21:45,367
+00:21:44,352 --> 00:21:46,952
 Then he married again.
 
 400
-00:21:45,217 --> 00:21:49,487
+00:21:47,352 --> 00:21:51,062
 His new queen was Alicent Hightower,
 the daughter of his Hand.
 
 401
-00:21:50,017 --> 00:21:51,347
+00:21:51,462 --> 00:21:53,152
 And she gave him sons.
 
 402
-00:21:52,097 --> 00:21:52,567
+00:21:53,802 --> 00:21:54,272
 Aegon.
 
 403
-00:21:53,197 --> 00:21:53,707
+00:21:54,882 --> 00:21:55,412
 Aemond.
 
 404
-00:21:54,317 --> 00:21:54,787
+00:21:56,022 --> 00:21:56,492
 Daeron.
 
 405
-00:21:55,517 --> 00:21:57,367
+00:21:57,182 --> 00:21:59,072
 Everyone at court could do the arithmetic.
 
 406
-00:21:58,137 --> 00:22:02,287
+00:21:59,782 --> 00:22:04,012
 After the Great Council, the realm had
 chosen a man over a woman once before.
 
 407
-00:22:02,617 --> 00:22:04,517
+00:22:04,262 --> 00:22:06,302
 And now the king had a son.
 
 408
-00:22:04,987 --> 00:22:07,177
+00:22:06,772 --> 00:22:08,942
 But Viserys never changed his mind.
 
 409
-00:22:07,707 --> 00:22:09,057
+00:22:09,492 --> 00:22:10,842
 Rhaenyra remained his heir.
 
 410
-00:22:09,627 --> 00:22:13,617
+00:22:10,692 --> 00:22:15,972
 At a tourney, the histories say,
 Queen Alicent wore green,
 
 411
-00:22:13,467 --> 00:22:17,577
+00:22:16,202 --> 00:22:19,912
 and Princess Rhaenyra wore the
 Targaryen red and black.
 
 412
-00:22:17,977 --> 00:22:21,247
+00:22:20,312 --> 00:22:23,622
 From then on, the court
 split into two parties.
 
 413
-00:22:21,647 --> 00:22:24,157
+00:22:24,022 --> 00:22:26,532
 The greens, who backed Alicent's sons.
 
 414
-00:22:24,487 --> 00:22:27,127
+00:22:26,962 --> 00:22:29,432
 And the blacks, who backed Rhaenyra.
 
 415
-00:22:27,757 --> 00:22:29,867
+00:22:30,062 --> 00:22:32,172
 Hovering between them was
 the king's brother,
 
 416
-00:22:30,177 --> 00:22:30,947
+00:22:32,482 --> 00:22:33,252
 Prince Daemon.
 
 417
-00:22:31,347 --> 00:22:33,397
+00:22:33,652 --> 00:22:35,682
 Brilliant, reckless, dangerous.
 
 418
-00:22:33,967 --> 00:22:36,757
+00:22:36,252 --> 00:22:39,062
 He rode a long red dragon called Caraxes,
 
 419
-00:22:36,747 --> 00:22:39,357
+00:22:39,052 --> 00:22:41,682
 the Blood Wyrm, and carried Dark Sister,
 
 420
-00:22:39,587 --> 00:22:40,917
+00:22:41,912 --> 00:22:43,202
 Visenya's old sword.
 
 421
-00:22:41,317 --> 00:22:45,307
+00:22:43,712 --> 00:22:47,482
 He formed the city watch and
 gave them their gold cloaks.
 
 422
-00:22:45,777 --> 00:22:47,987
+00:22:47,972 --> 00:22:50,222
 The court called him the Rogue Prince.
 
 423
-00:22:48,717 --> 00:22:52,627
+00:22:50,932 --> 00:22:54,862
 In time, Daemon married Rhaenyra,
 and joined the blacks.
 
 424
-00:22:53,697 --> 00:22:57,447
+00:22:55,912 --> 00:22:59,682
 Rhaenyra's first three sons were
 dark-haired and brown-eyed,
 
 425
-00:22:57,917 --> 00:22:59,867
+00:23:00,152 --> 00:23:02,082
 nothing like their Velaryon father.
 
 426
-00:23:00,437 --> 00:23:03,587
+00:23:02,672 --> 00:23:05,842
 The court whispered about
 who their real father was.
 
 427
-00:23:03,787 --> 00:23:07,937
+00:23:06,042 --> 00:23:10,492
 And at a funeral on Driftmark, the queen's
 young son Aemond climbed onto
 
 428
-00:23:07,787 --> 00:23:10,097
+00:23:10,342 --> 00:23:12,732
 the oldest dragon in the world, Vhagar,
 
 429
-00:23:10,147 --> 00:23:11,037
+00:23:12,982 --> 00:23:13,932
 and claimed her.
 
 430
-00:23:11,667 --> 00:23:13,557
+00:23:14,622 --> 00:23:16,612
 Rhaenyra's boys attacked him for it.
 
 431
-00:23:13,957 --> 00:23:16,207
+00:23:17,082 --> 00:23:19,412
 In the fight, Aemond lost an eye.
 
 432
-00:23:16,797 --> 00:23:20,387
+00:23:20,002 --> 00:23:23,752
 Later, the histories say, he wore
 a sapphire in the empty socket.
 
 433
-00:23:21,037 --> 00:23:24,567
+00:23:24,152 --> 00:23:27,402
 And he would say he had lost
 an eye, but gained a dragon.
 
 434
-00:23:26,157 --> 00:23:30,307
+00:23:28,532 --> 00:23:32,702
 In the hundred and twenty-ninth year,
 King Viserys died in his sleep.
 
 435
-00:23:30,717 --> 00:23:32,167
+00:23:33,092 --> 00:23:34,812
 The greens hid his death.
 
 436
-00:23:32,577 --> 00:23:37,227
+00:23:35,242 --> 00:23:39,572
 While the court was kept in the dark, they
 crowned Prince Aegon in the Dragonpit
 
 437
-00:23:37,077 --> 00:23:38,707
+00:23:39,422 --> 00:23:40,912
 as King Aegon the Second.
 
 438
-00:23:39,477 --> 00:23:43,127
+00:23:41,942 --> 00:23:45,412
 On Dragonstone, Rhaenyra
 was crowned as queen.
 
 439
-00:23:44,077 --> 00:23:45,387
+00:23:46,042 --> 00:23:47,132
 Two monarchs.
 
 440
-00:23:45,787 --> 00:23:47,947
+00:23:47,532 --> 00:23:48,852
 Two crowns.
 
 441
-00:23:47,797 --> 00:23:50,067
+00:23:49,002 --> 00:23:50,752
 And dragons on both sides.
 
 442
-00:23:50,757 --> 00:23:52,547
+00:23:51,482 --> 00:23:53,812
 The first death came in a storm.
 
 443
-00:23:52,957 --> 00:23:56,747
+00:23:54,402 --> 00:23:58,792
 Rhaenyra sent her second son, Lucerys,
 on his young dragon Arrax,
 
 444
-00:23:56,597 --> 00:23:58,767
+00:23:59,042 --> 00:24:00,892
 to win the support of Storm's End.
 
 445
-00:23:59,297 --> 00:24:01,927
+00:24:01,502 --> 00:24:04,172
 When he arrived, Aemond was already there,
 
 446
-00:24:02,097 --> 00:24:02,847
+00:24:04,482 --> 00:24:05,232
 with Vhagar.
 
 447
-00:24:03,247 --> 00:24:07,557
+00:24:05,632 --> 00:24:09,722
 Above Shipbreaker Bay, in a
 storm, Vhagar caught Arrax.
 
 448
-00:24:08,147 --> 00:24:10,517
+00:24:10,692 --> 00:24:12,942
 Neither the boy nor his dragon survived.
 
 449
-00:24:10,987 --> 00:24:14,137
+00:24:13,712 --> 00:24:17,142
 The war that followed is called
 the Dance of the Dragons.
 
 450
-00:24:14,607 --> 00:24:17,377
+00:24:17,812 --> 00:24:20,622
 It was the darkest chapter
 in the family's history.
 
 451
-00:24:17,807 --> 00:24:22,157
+00:24:21,172 --> 00:24:25,482
 In revenge for Lucerys, two killers
 crept into the Red Keep,
 
 452
-00:24:22,007 --> 00:24:24,297
+00:24:25,332 --> 00:24:27,582
 and a child of the greens died.
 
 453
-00:24:24,767 --> 00:24:27,397
+00:24:28,352 --> 00:24:32,042
 The histories remember them
 only as Blood and Cheese.
 
 454
-00:24:27,907 --> 00:24:31,237
+00:24:33,412 --> 00:24:36,402
 At Rook's Rest, the Queen Who Never Was,
 
 455
-00:24:31,607 --> 00:24:40,277
+00:24:36,692 --> 00:24:42,082
 Rhaenys, flew her old dragon Meleys against
 King Aegon on Sunfyre and Aemond
 
 456
-00:24:40,127 --> 00:24:41,097
+00:24:41,932 --> 00:24:42,682
 on Vhagar.
 
 457
-00:24:41,927 --> 00:24:43,417
+00:24:43,592 --> 00:24:44,682
 Rhaenys fell.
 
 458
-00:24:44,067 --> 00:24:46,637
+00:24:45,672 --> 00:24:48,682
 Aegon survived, horribly burned.
 
 459
-00:24:47,487 --> 00:24:50,137
+00:24:49,632 --> 00:24:51,742
 The blacks needed more dragon riders.
 
 460
-00:24:50,537 --> 00:24:55,047
+00:24:52,072 --> 00:24:56,272
 So they searched the realm for anyone
 with a drop of Targaryen blood.
 
 461
-00:24:54,897 --> 00:24:57,777
+00:24:57,182 --> 00:24:58,772
 Bastards, mostly.
 
 462
-00:24:57,977 --> 00:25:00,467
+00:24:58,972 --> 00:25:01,282
 Smallfolk who might claim
 a dragon and live.
 
 463
-00:25:00,897 --> 00:25:03,307
+00:25:01,892 --> 00:25:04,062
 The histories call them the dragonseeds.
 
 464
-00:25:03,707 --> 00:25:05,057
+00:25:04,462 --> 00:25:05,892
 Some served with honour.
 
 465
-00:25:05,727 --> 00:25:10,317
+00:25:06,422 --> 00:25:11,332
 A thin, dark girl named Nettles tamed a
 wild dragon with nothing but patience
 
 466
-00:25:10,167 --> 00:25:11,637
+00:25:11,182 --> 00:25:12,292
 and a sheep a day.
 
 467
-00:25:12,187 --> 00:25:15,797
+00:25:12,902 --> 00:25:16,692
 But two dragonseeds turned traitor
 at the town of Tumbleton,
 
 468
-00:25:15,647 --> 00:25:17,457
+00:25:16,542 --> 00:25:18,212
 and handed it to the greens.
 
 469
-00:25:18,227 --> 00:25:22,077
+00:25:19,182 --> 00:25:23,792
 In the show, the third season of House
 of the Dragon ended at Tumbleton,
 
 470
-00:25:21,927 --> 00:25:23,877
+00:25:23,642 --> 00:25:25,552
 in August twenty twenty-six.
 
 471
-00:25:24,367 --> 00:25:27,197
+00:25:26,032 --> 00:25:28,872
 The final season is planned
 for twenty twenty-eight.
 
 472
-00:25:28,447 --> 00:25:32,517
+00:25:29,402 --> 00:25:33,132
 Rhaenyra took King's Landing, and
 sat on the Iron Throne herself.
 
 473
-00:25:33,167 --> 00:25:36,157
+00:25:33,662 --> 00:25:36,672
 But she was a harsh ruler,
 suspicious and grieving,
 
 474
-00:25:36,467 --> 00:25:38,257
+00:25:37,062 --> 00:25:39,232
 and the city came to hate her.
 
 475
-00:25:39,087 --> 00:25:43,837
+00:25:40,002 --> 00:25:44,712
 One night, a mob led by a prophet called
 the Shepherd stormed the Dragonpit.
 
 476
-00:25:44,487 --> 00:25:46,577
+00:25:45,722 --> 00:25:47,892
 Dragons are terrifying in the open sky.
 
 477
-00:25:47,247 --> 00:25:49,377
+00:25:48,722 --> 00:25:50,712
 Chained in the dark, they
 could be overwhelmed.
 
 478
-00:25:50,187 --> 00:25:51,797
+00:25:51,562 --> 00:25:53,112
 Several dragons died there.
 
 479
-00:25:52,447 --> 00:25:56,777
+00:25:53,602 --> 00:25:57,792
 Rhaenyra's youngest son, Joffrey, died
 trying to reach his mother's dragon.
 
 480
-00:25:57,177 --> 00:26:00,207
+00:25:58,192 --> 00:26:00,822
 Then came the duel the singers
 still sing about.
 
 481
-00:26:00,997 --> 00:26:03,087
+00:26:01,572 --> 00:26:03,342
 Prince Daemon waited at Harrenhal.
 
 482
-00:26:03,877 --> 00:26:05,807
+00:26:03,852 --> 00:26:05,722
 Aemond came for him on Vhagar.
 
 483
-00:26:06,557 --> 00:26:08,907
+00:26:06,152 --> 00:26:08,862
 And above the lake called the Gods Eye,
 
 484
-00:26:09,377 --> 00:26:12,627
+00:26:09,152 --> 00:26:12,062
 the two princes met, Caraxes
 against Vhagar,
 
 485
-00:26:12,797 --> 00:26:15,547
+00:26:12,392 --> 00:26:15,122
 the Blood Wyrm against the
 oldest dragon alive.
 
 486
-00:26:16,237 --> 00:26:21,527
+00:26:15,932 --> 00:26:21,442
 When Vhagar seized his dragon, Daemon
 leapt from Caraxes onto Vhagar's back,
 
 487
-00:26:21,377 --> 00:26:24,047
+00:26:21,292 --> 00:26:23,362
 with Dark Sister in his hand.
 
 488
-00:26:24,637 --> 00:26:28,227
+00:26:23,852 --> 00:26:27,902
 The histories say he drove it home
 through Aemond's empty eye.
 
 489
-00:26:29,137 --> 00:26:31,927
+00:26:28,792 --> 00:26:32,022
 Then all of them, two princes
 and two dragons,
 
 490
-00:26:32,017 --> 00:26:34,167
+00:26:32,192 --> 00:26:34,082
 fell together into the lake.
 
 491
-00:26:35,477 --> 00:26:38,907
+00:26:34,772 --> 00:26:37,942
 Rhaenyra fled the city and
 sailed to Dragonstone,
 
 492
-00:26:39,177 --> 00:26:41,007
+00:26:38,232 --> 00:26:39,962
 hoping to find safety there.
 
 493
-00:26:41,207 --> 00:26:43,437
+00:26:40,162 --> 00:26:42,392
 King Aegon the Second was waiting for her,
 
 494
-00:26:43,567 --> 00:26:45,357
+00:26:42,522 --> 00:26:44,292
 with his dragon Sunfyre.
 
 495
-00:26:45,757 --> 00:26:48,827
+00:26:44,692 --> 00:26:47,762
 He gave his half-sister to the
 dragon, and her young son,
 
 496
-00:26:49,017 --> 00:26:51,347
+00:26:47,952 --> 00:26:50,282
 also named Aegon, was made to watch.
 
 497
-00:26:52,297 --> 00:26:55,167
+00:26:51,232 --> 00:26:54,102
 Aegon the Second did not enjoy
 his victory for long.
 
 498
-00:26:55,617 --> 00:26:58,707
+00:26:54,552 --> 00:26:57,642
 Within the year, his own
 lords poisoned his wine.
 
 499
-00:26:59,137 --> 00:27:00,307
+00:26:58,052 --> 00:26:59,242
 The war was over.
 
 500
-00:27:00,707 --> 00:27:02,197
+00:26:59,642 --> 00:27:01,152
 And everyone had lost.
 
 501
-00:27:03,247 --> 00:27:07,057
+00:27:02,202 --> 00:27:06,032
 In the books, the Dance killed
 most of the royal family,
 
 502
-00:27:07,447 --> 00:27:09,837
+00:27:06,402 --> 00:27:08,792
 and nearly every dragon in the realm.
 
 503
-00:27:10,407 --> 00:27:15,097
+00:27:09,342 --> 00:27:14,032
 A house that had begun the war with
 more dragons than ever before ended
 
 504
-00:27:14,947 --> 00:27:16,177
+00:27:13,882 --> 00:27:15,132
 it with a handful.
 
 505
-00:27:16,707 --> 00:27:20,237
+00:27:15,542 --> 00:27:19,192
 And the boy who had watched
 his mother die became king.
 
 506
-00:27:22,840 --> 00:27:25,550
+00:27:21,794 --> 00:27:24,465
 The new king was Aegon the Third.
 
 507
-00:27:26,140 --> 00:27:30,930
+00:27:25,075 --> 00:27:29,865
 He was only a boy when he was crowned,
 and the histories say he was never
 
 508
-00:27:30,780 --> 00:27:31,570
+00:27:29,715 --> 00:27:30,505
 young again.
 
 509
-00:27:32,180 --> 00:27:34,290
+00:27:31,115 --> 00:27:33,225
 He was melancholy and withdrawn.
 
 510
-00:27:34,780 --> 00:27:36,010
+00:27:33,715 --> 00:27:34,924
 He rarely smiled.
 
 511
-00:27:36,600 --> 00:27:39,920
+00:27:35,534 --> 00:27:38,305
 He hated dragons, after what he had seen.
 
 512
-00:27:39,770 --> 00:27:43,060
+00:27:38,835 --> 00:27:41,444
 The realm called him the Broken King.
 
 513
-00:27:43,460 --> 00:27:47,990
+00:27:41,845 --> 00:27:46,375
 And they called him by another
 name too: Aegon the Dragonbane.
 
 514
-00:27:48,640 --> 00:27:52,210
+00:27:47,125 --> 00:27:50,575
 Because during his reign,
 the last dragons died.
 
 515
-00:27:52,860 --> 00:27:56,590
+00:27:51,284 --> 00:27:54,975
 The last of them was a small,
 sickly green female,
 
 516
-00:27:56,820 --> 00:28:00,630
+00:27:55,205 --> 00:27:59,015
 who died in the hundred and fifty-third
 year after the Conquest.
 
 517
-00:28:01,580 --> 00:28:05,790
+00:28:00,005 --> 00:28:04,155
 And with her, the age of dragons
 in Westeros seemed to end.
 
 518
-00:28:06,800 --> 00:28:08,390
+00:28:05,165 --> 00:28:06,775
 Aegon tried to bring them back.
 
 519
-00:28:08,790 --> 00:28:11,740
+00:28:06,625 --> 00:28:10,565
 He sent for mages from
 the east, nine of them,
 
 520
-00:28:11,710 --> 00:28:13,320
+00:28:10,514 --> 00:28:12,125
 to hatch the remaining eggs.
 
 521
-00:28:14,050 --> 00:28:15,420
+00:28:12,855 --> 00:28:14,225
 All nine failed.
 
 522
-00:28:15,830 --> 00:28:20,680
+00:28:14,635 --> 00:28:19,485
 No dragon would be born in the world
 for nearly a hundred and fifty years.
 
 523
-00:28:21,810 --> 00:28:25,000
+00:28:20,615 --> 00:28:23,805
 Aegon's son Daeron was the
 opposite of his father.
 
 524
-00:28:25,510 --> 00:28:28,380
+00:28:24,315 --> 00:28:27,184
 Bold, bright and hungry for glory.
 
 525
-00:28:29,430 --> 00:28:35,280
+00:28:28,235 --> 00:28:34,085
 At fourteen, King Daeron the First set
 out to finish the one thing Aegon
 
 526
-00:28:35,130 --> 00:28:36,880
+00:28:33,935 --> 00:28:35,684
 the Conqueror never could.
 
 527
-00:28:37,080 --> 00:28:39,150
+00:28:35,884 --> 00:28:37,954
 He conquered Dorne.
 
 528
-00:28:39,000 --> 00:28:40,600
+00:28:37,804 --> 00:28:39,404
 Without a single dragon.
 
 529
-00:28:41,130 --> 00:28:42,820
+00:28:39,914 --> 00:28:41,624
 He marched through the mountain passes,
 
 530
-00:28:43,010 --> 00:28:46,740
+00:28:41,814 --> 00:28:45,544
 took Sunspear, and wrote a famous
 account of his own victory.
 
 531
-00:28:47,250 --> 00:28:49,020
+00:28:46,054 --> 00:28:47,844
 The Conquest of Dorne.
 
 532
-00:28:49,420 --> 00:28:51,270
+00:28:48,244 --> 00:28:50,074
 But Dorne had not truly bent.
 
 533
-00:28:51,760 --> 00:28:54,850
+00:28:50,564 --> 00:28:53,654
 It rose again behind him,
 and within a few years,
 
 534
-00:28:54,700 --> 00:28:58,630
+00:28:53,504 --> 00:28:57,434
 the young king was dead, struck
 down under a banner of peace,
 
 535
-00:28:58,860 --> 00:29:00,970
+00:28:57,644 --> 00:28:59,774
 at just eighteen years old.
 
 536
-00:29:01,400 --> 00:29:04,770
+00:29:00,204 --> 00:29:03,574
 The histories say tens of thousands
 died to win Dorne,
 
 537
-00:29:04,620 --> 00:29:06,830
+00:29:03,424 --> 00:29:05,634
 and keep it for a single summer.
 
 538
-00:29:07,440 --> 00:29:11,530
+00:29:06,244 --> 00:29:10,334
 His brother Baelor took the throne,
 and the realm had never seen a king
 
 539
-00:29:11,380 --> 00:29:12,130
+00:29:10,184 --> 00:29:10,934
 like him.
 
 540
-00:29:13,040 --> 00:29:15,490
+00:29:11,844 --> 00:29:14,314
 Baelor the Blessed was a
 septon as well as a king.
 
 541
-00:29:15,940 --> 00:29:18,810
+00:29:14,744 --> 00:29:17,614
 He walked barefoot all the
 way to Dorne to make peace.
 
 542
-00:29:19,580 --> 00:29:21,690
+00:29:18,384 --> 00:29:20,494
 Along the way, he learned that his cousin,
 
 543
-00:29:22,000 --> 00:29:26,830
+00:29:20,804 --> 00:29:25,634
 Prince Aemon the Dragonknight, was being
 held in a cage above a pit of vipers.
 
 544
-00:29:27,780 --> 00:29:30,270
+00:29:26,584 --> 00:29:29,074
 Baelor walked straight into
 the pit to free him.
 
 545
-00:29:30,670 --> 00:29:34,490
+00:29:29,474 --> 00:29:33,294
 The singers say the vipers
 bowed their heads to him.
 
 546
-00:29:34,340 --> 00:29:37,450
+00:29:33,144 --> 00:29:36,234
 The histories say he was
 bitten many times,
 
 547
-00:29:37,800 --> 00:29:40,090
+00:29:36,604 --> 00:29:38,874
 and Aemon had to carry
 him out on his back.
 
 548
-00:29:41,060 --> 00:29:41,870
+00:29:39,864 --> 00:29:40,674
 Baelor survived.
 
 549
-00:29:42,560 --> 00:29:44,810
+00:29:41,324 --> 00:29:43,614
 And he came home stranger than ever.
 
 550
-00:29:45,520 --> 00:29:49,330
+00:29:44,344 --> 00:29:48,134
 He shut his three sisters away
 in a tower of the Red Keep,
 
 551
-00:29:49,180 --> 00:29:51,610
+00:29:47,984 --> 00:29:50,414
 so they would not tempt
 the men of the court.
 
 552
-00:29:52,620 --> 00:29:54,690
+00:29:51,424 --> 00:29:53,494
 It was called the Maidenvault.
 
 553
-00:29:55,640 --> 00:30:00,010
+00:29:54,424 --> 00:29:58,814
 He built the Great Sept of Baelor,
 with its seven crystal towers.
 
 554
-00:30:00,760 --> 00:30:04,390
+00:29:59,384 --> 00:30:03,194
 In the show, Cersei Lannister
 blows it up with wildfire.
 
 555
-00:30:04,800 --> 00:30:06,870
+00:30:03,604 --> 00:30:05,674
 In the books, it still stands.
 
 556
-00:30:07,980 --> 00:30:11,370
+00:30:06,784 --> 00:30:10,174
 Baelor died after a long
 fast, still praying.
 
 557
-00:30:12,360 --> 00:30:14,890
+00:30:11,164 --> 00:30:13,694
 Then came the worst king of all.
 
 558
-00:30:15,760 --> 00:30:17,890
+00:30:14,564 --> 00:30:16,694
 His name was Aegon the Fourth.
 
 559
-00:30:18,360 --> 00:30:21,490
+00:30:17,164 --> 00:30:20,294
 And the histories call
 him Aegon the Unworthy.
 
 560
-00:30:22,360 --> 00:30:25,110
+00:30:21,164 --> 00:30:23,914
 He was greedy, lazy, and vain.
 
 561
-00:30:25,310 --> 00:30:29,220
+00:30:24,114 --> 00:30:28,024
 He took mistress after mistress, and
 fathered bastards across the realm.
 
 562
-00:30:29,670 --> 00:30:32,500
+00:30:28,474 --> 00:30:31,304
 He tried to build wooden
 dragons to invade Dorne,
 
 563
-00:30:32,650 --> 00:30:33,440
+00:30:31,454 --> 00:30:32,244
 and they burned.
 
 564
-00:30:33,970 --> 00:30:36,440
+00:30:32,774 --> 00:30:35,244
 But his worst act came on his deathbed.
 
 565
-00:30:36,840 --> 00:30:39,030
+00:30:35,644 --> 00:30:37,834
 He legitimized all of his bastards.
 
 566
-00:30:39,430 --> 00:30:41,220
+00:30:38,234 --> 00:30:40,004
 Every one of them, at once.
 
 567
-00:30:41,770 --> 00:30:45,100
+00:30:40,554 --> 00:30:43,884
 And years earlier, he had done
 something even more dangerous.
 
 568
-00:30:45,570 --> 00:30:49,760
+00:30:44,374 --> 00:30:48,544
 He had given the sword Blackfyre,
 the sword of Aegon the Conqueror,
 
 569
-00:30:50,010 --> 00:30:53,340
+00:30:48,794 --> 00:30:52,124
 not to his heir, but to his
 favourite bastard son,
 
 570
-00:30:53,610 --> 00:30:55,260
+00:30:52,394 --> 00:30:54,044
 a young man named Daemon.
 
 571
-00:30:55,770 --> 00:31:00,620
+00:30:54,554 --> 00:30:59,404
 In one stroke of a quill, he planted the
 seed of a war that would last sixty
 
 572
-00:31:00,470 --> 00:31:01,220
+00:30:59,254 --> 00:31:00,004
 years.
 
 573
-00:31:03,940 --> 00:31:06,770
+00:31:02,724 --> 00:31:05,594
 The next king, Daeron the
 Second, was a scholar.
 
 574
-00:31:07,640 --> 00:31:09,250
+00:31:06,484 --> 00:31:08,094
 Gentle, wise, and bookish.
 
 575
-00:31:09,440 --> 00:31:11,560
+00:31:08,284 --> 00:31:10,404
 He was called Daeron the Good.
 
 576
-00:31:11,960 --> 00:31:15,290
+00:31:10,804 --> 00:31:14,114
 And he finally did what
 no dragon or army could.
 
 577
-00:31:15,690 --> 00:31:17,420
+00:31:14,514 --> 00:31:16,244
 He brought Dorne into the realm.
 
 578
-00:31:17,830 --> 00:31:19,040
+00:31:16,644 --> 00:31:17,874
 Not with fire.
 
 579
-00:31:19,440 --> 00:31:20,250
+00:31:18,274 --> 00:31:19,064
 With marriage.
 
 580
-00:31:20,650 --> 00:31:25,200
+00:31:19,464 --> 00:31:24,014
 His sister wed the Prince of Dorne,
 and Dorne joined the Seven Kingdoms
 
 581
-00:31:25,050 --> 00:31:26,220
+00:31:23,864 --> 00:31:25,014
 in peace.
 
 582
-00:31:26,630 --> 00:31:28,620
+00:31:25,424 --> 00:31:27,414
 But many lords hated it.
 
 583
-00:31:29,030 --> 00:31:30,840
+00:31:27,814 --> 00:31:29,644
 They hated the Dornish at court.
 
 584
-00:31:31,110 --> 00:31:32,770
+00:31:29,914 --> 00:31:31,574
 They hated the king's books.
 
 585
-00:31:33,520 --> 00:31:37,890
+00:31:32,324 --> 00:31:36,694
 And they whispered that Daeron was not
 really Aegon the Fourth's son at
 
 586
-00:31:37,740 --> 00:31:41,750
+00:31:36,544 --> 00:31:40,534
 all, but the son of the queen
 and the Dragonknight.
 
 587
-00:31:42,780 --> 00:31:47,570
+00:31:41,564 --> 00:31:46,374
 And there was another man in the realm
 who looked far more like a king.
 
 588
-00:31:48,300 --> 00:31:52,290
+00:31:47,104 --> 00:31:51,094
 Daemon was tall, strong,
 and a famous warrior.
 
 589
-00:31:52,900 --> 00:31:56,230
+00:31:51,724 --> 00:31:55,034
 He carried Blackfyre, the
 Conqueror's own sword.
 
 590
-00:31:57,240 --> 00:31:58,490
+00:31:56,044 --> 00:31:57,294
 Knights loved him.
 
 591
-00:31:59,000 --> 00:32:00,170
+00:31:57,824 --> 00:31:58,974
 And he had a claim.
 
 592
-00:32:00,780 --> 00:32:04,550
+00:31:59,584 --> 00:32:03,354
 He took a new name: Daemon Blackfyre.
 
 593
-00:32:04,950 --> 00:32:07,500
+00:32:03,754 --> 00:32:06,304
 And he reversed the Targaryen colours.
 
 594
-00:32:07,910 --> 00:32:10,880
+00:32:06,734 --> 00:32:09,684
 Where the true king flew
 a red dragon on black,
 
 595
-00:32:11,450 --> 00:32:14,020
+00:32:10,254 --> 00:32:12,824
 Daemon flew a black dragon on red.
 
 596
-00:32:13,870 --> 00:32:18,710
+00:32:12,674 --> 00:32:17,514
 In the hundred and ninety-sixth
 year, he rose.
 
 597
-00:32:18,910 --> 00:32:22,700
+00:32:17,714 --> 00:32:21,524
 The decisive battle was fought at
 a place called Redgrass Field.
 
 598
-00:32:23,310 --> 00:32:26,000
+00:32:22,114 --> 00:32:24,804
 On one side, the Black
 Dragon and his knights.
 
 599
-00:32:26,510 --> 00:32:28,300
+00:32:25,314 --> 00:32:27,104
 On the other, the king's men.
 
 600
-00:32:28,710 --> 00:32:32,280
+00:32:27,514 --> 00:32:31,084
 And among the king's men was another
 of Aegon the Fourth's bastards.
 
 601
-00:32:32,710 --> 00:32:37,720
+00:32:31,514 --> 00:32:36,524
 A pale, strange young man, an albino,
 with white hair and red eyes.
 
 602
-00:32:38,410 --> 00:32:42,620
+00:32:37,214 --> 00:32:41,444
 His name was Brynden Rivers, but the
 realm would call him Bloodraven.
 
 603
-00:32:43,630 --> 00:32:45,160
+00:32:42,424 --> 00:32:43,964
 Bloodraven commanded the archers.
 
 604
-00:32:45,560 --> 00:32:47,930
+00:32:44,364 --> 00:32:46,734
 They called themselves the Raven's Teeth.
 
 605
-00:32:48,420 --> 00:32:52,650
+00:32:47,224 --> 00:32:51,454
 When Daemon Blackfyre charged,
 Bloodraven's arrows found him,
 
 606
-00:32:52,500 --> 00:32:54,910
+00:32:51,304 --> 00:32:53,694
 and both of his twin sons with him.
 
 607
-00:32:55,660 --> 00:32:59,530
+00:32:54,444 --> 00:32:58,334
 The royal princes Baelor Breakspear
 and Maekar crushed the rest.
 
 608
-00:33:00,320 --> 00:33:03,250
+00:32:59,124 --> 00:33:02,054
 But the dream of the black
 dragon did not die.
 
 609
-00:33:04,040 --> 00:33:08,150
+00:33:02,844 --> 00:33:06,954
 Daemon's half-brother, Bittersteel,
 fled across the narrow sea,
 
 610
-00:33:08,000 --> 00:33:12,750
+00:33:06,804 --> 00:33:11,554
 and founded a company of exiles that would
 become the most famous sellsword
 
 611
-00:33:12,600 --> 00:33:13,770
+00:33:11,404 --> 00:33:12,574
 army in the world.
 
 612
-00:33:14,170 --> 00:33:15,360
+00:33:12,974 --> 00:33:14,694
 The Golden Company.
 
 613
-00:33:15,210 --> 00:33:20,370
+00:33:14,544 --> 00:33:19,174
 For sixty years, the Blackfyres
 would rise again and again.
 
 614
-00:33:20,860 --> 00:33:22,770
+00:33:19,664 --> 00:33:21,574
 Five rebellions in all.
 
 615
-00:33:23,170 --> 00:33:26,680
+00:33:21,984 --> 00:33:25,474
 The last of them ended in the
 two hundred and sixtieth year,
 
 616
-00:33:26,890 --> 00:33:32,040
+00:33:25,684 --> 00:33:30,834
 when a young knight named Barristan Selmy
 killed the last Blackfyre pretender
 
 617
-00:33:31,890 --> 00:33:33,440
+00:33:30,684 --> 00:33:32,234
 in single combat.
 
 618
-00:33:34,550 --> 00:33:35,820
+00:33:33,324 --> 00:33:34,614
 And Bloodraven?
 
 619
-00:33:36,270 --> 00:33:38,460
+00:33:35,044 --> 00:33:37,254
 He became the Hand of the King.
 
 620
-00:33:38,950 --> 00:33:41,020
+00:33:37,744 --> 00:33:39,814
 The most feared man in the realm.
 
 621
-00:33:41,420 --> 00:33:45,230
+00:33:40,214 --> 00:33:44,024
 A sorcerer, people whispered,
 with spies everywhere.
 
 622
-00:33:45,900 --> 00:33:48,130
+00:33:44,694 --> 00:33:46,944
 There was a riddle in those years.
 
 623
-00:33:48,780 --> 00:33:51,450
+00:33:47,554 --> 00:33:50,224
 How many eyes does Lord Bloodraven have?
 
 624
-00:33:52,460 --> 00:33:55,030
+00:33:51,254 --> 00:33:53,824
 A thousand eyes, and one.
 
 625
-00:33:55,860 --> 00:34:00,310
+00:33:54,654 --> 00:33:59,104
 A great sickness swept the realm in the
 year two hundred and nine and took
 
 626
-00:34:00,160 --> 00:34:02,310
+00:33:58,954 --> 00:34:01,164
 King Daeron the Good with it.
 
 627
-00:34:03,180 --> 00:34:07,590
+00:34:01,974 --> 00:34:06,384
 Years later, Bloodraven was arrested,
 and sent to the Wall.
 
 628
-00:34:07,790 --> 00:34:10,180
+00:34:06,584 --> 00:34:08,974
 He became Lord Commander
 of the Night's Watch.
 
 629
-00:34:10,610 --> 00:34:14,260
+00:34:09,424 --> 00:34:13,054
 And then one day, he rode beyond
 the Wall and vanished.
 
 630
-00:34:15,190 --> 00:34:18,380
+00:34:13,984 --> 00:34:17,174
 If you watched our last episode,
 you know where he went.
 
 631
-00:34:18,930 --> 00:34:22,560
+00:34:17,724 --> 00:34:21,374
 In the books, Bran Stark finds
 him deep beneath a hill,
 
 632
-00:34:22,410 --> 00:34:25,800
+00:34:21,224 --> 00:34:24,594
 wound into the roots of a
 weirwood, still watching,
 
 633
-00:34:25,650 --> 00:34:27,480
+00:34:24,444 --> 00:34:26,274
 with his one red eye.
 
 634
-00:34:30,200 --> 00:34:33,550
+00:34:28,994 --> 00:34:32,344
 Now the story comes to a small
 boy with a shaved head.
 
 635
-00:34:33,980 --> 00:34:35,410
+00:34:32,194 --> 00:34:34,754
 He was called Egg.
 
 636
-00:34:36,260 --> 00:34:41,230
+00:34:35,604 --> 00:34:40,574
 A fourth son of a fourth son, so far
 from the throne that nobody thought
 
 637
-00:34:41,080 --> 00:34:42,550
+00:34:40,424 --> 00:34:41,894
 of him as a prince at all.
 
 638
-00:34:43,040 --> 00:34:46,870
+00:34:42,404 --> 00:34:46,214
 As a boy, he shaved his head
 to hide his Targaryen hair,
 
 639
-00:34:46,720 --> 00:34:52,490
+00:34:46,064 --> 00:34:51,834
 and served as squire to a huge, kind,
 poor hedge knight named Ser Duncan
 
 640
-00:34:52,340 --> 00:34:53,070
+00:34:51,684 --> 00:34:52,414
 the Tall.
 
 641
-00:34:53,860 --> 00:34:58,690
+00:34:53,204 --> 00:34:58,034
 Their adventures are told in the books
 in three short tales of Dunk and
 
 642
-00:34:58,540 --> 00:34:59,050
+00:34:57,884 --> 00:34:58,394
 Egg.
 
 643
-00:34:59,900 --> 00:35:04,970
+00:34:58,784 --> 00:35:04,234
 And they are now a television series
 too: A Knight of the Seven Kingdoms.
 
 644
-00:35:05,660 --> 00:35:08,950
+00:35:04,924 --> 00:35:08,214
 But nobody could have guessed
 where Egg would end up.
 
 645
-00:35:09,350 --> 00:35:11,540
+00:35:08,614 --> 00:35:10,804
 In the two hundred and thirty-third year,
 
 646
-00:35:11,770 --> 00:35:13,600
+00:35:10,654 --> 00:35:12,884
 the realm needed a new king again.
 
 647
-00:35:14,150 --> 00:35:16,100
+00:35:13,434 --> 00:35:15,384
 Another Great Council was called.
 
 648
-00:35:16,650 --> 00:35:19,980
+00:35:15,914 --> 00:35:19,244
 The crown was first offered
 to Egg's older brother,
 
 649
-00:35:20,370 --> 00:35:20,700
+00:35:19,634 --> 00:35:19,964
 Aemon.
 
 650
-00:35:21,450 --> 00:35:24,240
+00:35:20,714 --> 00:35:23,524
 But Aemon had already chosen
 a different life.
 
 651
-00:35:24,650 --> 00:35:28,340
+00:35:23,914 --> 00:35:27,614
 He had forged a maester's
 chain, and taken vows.
 
 652
-00:35:28,870 --> 00:35:30,220
+00:35:28,144 --> 00:35:29,514
 He refused.
 
 653
-00:35:32,130 --> 00:35:34,160
+00:35:31,404 --> 00:35:33,434
 So the lords turned to Egg.
 
 654
-00:35:35,010 --> 00:35:37,300
+00:35:34,284 --> 00:35:36,594
 He became King Aegon the Fifth.
 
 655
-00:35:37,910 --> 00:35:41,100
+00:35:37,204 --> 00:35:40,394
 The realm called him Aegon the Unlikely.
 
 656
-00:35:41,530 --> 00:35:46,260
+00:35:40,924 --> 00:35:45,554
 And Aemon, so that no one could ever
 use him against his brother,
 
 657
-00:35:46,730 --> 00:35:47,920
+00:35:46,024 --> 00:35:47,214
 went to the Wall.
 
 658
-00:35:48,630 --> 00:35:52,620
+00:35:47,924 --> 00:35:51,914
 He would serve the Night's Watch as
 its maester for the rest of his long
 
 659
-00:35:52,470 --> 00:35:53,000
+00:35:51,764 --> 00:35:52,294
 life.
 
 660
-00:35:53,670 --> 00:35:59,440
+00:35:52,964 --> 00:35:58,734
 In the first book, he is the blind old
 man at Castle Black who teaches Jon
 
 661
-00:35:59,290 --> 00:35:59,880
+00:35:58,584 --> 00:35:59,174
 Snow.
 
 662
-00:36:00,690 --> 00:36:04,160
+00:35:59,984 --> 00:36:03,454
 Very few at the Wall even
 know he is a Targaryen.
 
 663
-00:36:04,360 --> 00:36:07,530
+00:36:03,654 --> 00:36:06,844
 Egg had spent his boyhood on the
 roads with a hedge knight.
 
 664
-00:36:07,930 --> 00:36:12,440
+00:36:07,244 --> 00:36:11,774
 He had slept in ditches and inns, and
 he had seen how the smallfolk lived.
 
 665
-00:36:12,990 --> 00:36:15,080
+00:36:12,324 --> 00:36:14,414
 As king, he tried to help them.
 
 666
-00:36:15,480 --> 00:36:17,710
+00:36:14,814 --> 00:36:17,024
 The great lords fought him at every turn.
 
 667
-00:36:18,360 --> 00:36:21,850
+00:36:17,714 --> 00:36:21,164
 Ser Duncan the Tall became the Lord
 Commander of his Kingsguard.
 
 668
-00:36:22,640 --> 00:36:24,630
+00:36:21,954 --> 00:36:23,944
 And Egg dreamed of one more thing.
 
 669
-00:36:25,080 --> 00:36:26,450
+00:36:24,414 --> 00:36:25,784
 He dreamed of dragons.
 
 670
-00:36:27,300 --> 00:36:29,510
+00:36:26,614 --> 00:36:28,844
 In the two hundred and fifty-ninth year,
 
 671
-00:36:29,360 --> 00:36:31,890
+00:36:28,694 --> 00:36:31,204
 the royal family gathered at Summerhall,
 
 672
-00:36:32,020 --> 00:36:34,190
+00:36:31,334 --> 00:36:33,504
 a summer palace in the Dornish Marches,
 
 673
-00:36:34,360 --> 00:36:38,070
+00:36:33,674 --> 00:36:37,404
 to celebrate the birth of the
 king's first great-grandchild.
 
 674
-00:36:38,860 --> 00:36:40,310
+00:36:38,194 --> 00:36:39,624
 Something happened there.
 
 675
-00:36:40,800 --> 00:36:42,330
+00:36:40,134 --> 00:36:41,624
 Something involving fire.
 
 676
-00:36:42,780 --> 00:36:45,270
+00:36:42,094 --> 00:36:44,584
 The histories hold one surviving letter,
 
 677
-00:36:45,500 --> 00:36:47,970
+00:36:44,434 --> 00:36:47,284
 written by the castle's
 maester before he died.
 
 678
-00:36:48,420 --> 00:36:50,450
+00:36:47,734 --> 00:36:49,764
 It was ruined by a spill of ink.
 
 679
-00:36:50,960 --> 00:36:52,730
+00:36:50,274 --> 00:36:52,044
 Only fragments can be read.
 
 680
-00:36:53,520 --> 00:36:56,530
+00:36:52,814 --> 00:36:55,844
 The blood of the dragon, gathered in one.
 
 681
-00:36:57,500 --> 00:37:00,290
+00:36:56,814 --> 00:36:59,604
 Seven eggs, to honour the seven gods.
 
 682
-00:37:01,460 --> 00:37:02,370
+00:37:00,814 --> 00:37:01,684
 Pyromancers.
 
 683
-00:37:02,940 --> 00:37:03,770
+00:37:02,254 --> 00:37:03,124
 Wildfire.
 
 684
-00:37:04,800 --> 00:37:06,990
+00:37:03,914 --> 00:37:06,304
 The flames grew out of control.
 
 685
-00:37:07,390 --> 00:37:09,660
+00:37:06,654 --> 00:37:08,954
 The fire destroyed Summerhall.
 
 686
-00:37:10,130 --> 00:37:12,320
+00:37:09,424 --> 00:37:11,614
 It killed King Aegon the Fifth.
 
 687
-00:37:12,850 --> 00:37:15,300
+00:37:12,144 --> 00:37:14,574
 It killed his son, Prince Duncan.
 
 688
-00:37:15,810 --> 00:37:20,580
+00:37:15,104 --> 00:37:19,874
 And it killed Ser Duncan the Tall,
 who died trying to save his friend.
 
 689
-00:37:21,270 --> 00:37:24,400
+00:37:20,684 --> 00:37:23,694
 In the books, nobody ever says
 exactly what happened.
 
 690
-00:37:24,830 --> 00:37:27,060
+00:37:24,094 --> 00:37:26,404
 But the hints all point the same way.
 
 691
-00:37:27,550 --> 00:37:29,100
+00:37:26,954 --> 00:37:28,444
 Egg tried to hatch dragons.
 
 692
-00:37:29,530 --> 00:37:32,540
+00:37:28,894 --> 00:37:31,884
 And on that same day, in the middle
 of the grief and the smoke,
 
 693
-00:37:32,990 --> 00:37:34,880
+00:37:32,334 --> 00:37:34,224
 a baby was born at Summerhall.
 
 694
-00:37:35,310 --> 00:37:36,900
+00:37:34,634 --> 00:37:36,244
 His name was Rhaegar.
 
 695
-00:37:37,770 --> 00:37:42,440
+00:37:37,114 --> 00:37:41,784
 All his life, the histories say, Rhaegar
 was drawn back to those ruins.
 
 696
-00:37:42,710 --> 00:37:46,670
+00:37:42,184 --> 00:37:45,994
 He would go there alone, to
 brood, and to play his harp.
 
 697
-00:37:47,380 --> 00:37:48,810
+00:37:46,724 --> 00:37:48,134
 There is one more thread.
 
 698
-00:37:49,010 --> 00:37:53,300
+00:37:48,334 --> 00:37:52,624
 Prince Duncan, Egg's son, gave up his
 claim to the throne to marry a girl
 
 699
-00:37:53,150 --> 00:37:56,420
+00:37:52,474 --> 00:37:55,744
 he loved, a girl named Jenny of Oldstones.
 
 700
-00:37:57,310 --> 00:38:01,540
+00:37:56,614 --> 00:38:00,864
 Jenny had a strange friend: a tiny
 woods witch from the riverlands.
 
 701
-00:38:02,190 --> 00:38:05,060
+00:38:01,514 --> 00:38:04,364
 If you watched our last episode,
 you may have met her.
 
 702
-00:38:05,590 --> 00:38:08,380
+00:38:04,914 --> 00:38:07,704
 Many readers believe she is
 the ghost of High Heart,
 
 703
-00:38:08,690 --> 00:38:13,240
+00:38:08,014 --> 00:38:12,584
 the tiny old woman who weeps whenever she
 hears the song of Jenny of Oldstones.
 
 704
-00:38:13,710 --> 00:38:18,500
+00:38:13,074 --> 00:38:17,824
 And it was a woods witch who told the
 family a prophecy: that the prince
 
 705
-00:38:18,350 --> 00:38:22,080
+00:38:17,674 --> 00:38:21,384
 that was promised would be born of
 the line of Aerys and Rhaella.
 
 706
-00:38:23,130 --> 00:38:27,020
+00:38:22,434 --> 00:38:26,344
 So the next king married his son
 Aerys to his daughter Rhaella.
 
 707
-00:38:27,870 --> 00:38:28,780
+00:38:27,194 --> 00:38:28,104
 Brother and sister.
 
 708
-00:38:29,370 --> 00:38:33,020
+00:38:28,694 --> 00:38:32,344
 They would be the last king and
 queen of House Targaryen.
 
 709
-00:38:35,740 --> 00:38:38,750
+00:38:35,064 --> 00:38:38,074
 Aerys the Second came to
 the throne at eighteen,
 
 710
-00:38:38,980 --> 00:38:43,180
+00:38:38,184 --> 00:38:42,504
 and at first, he seemed charming
 and full of promise.
 
 711
-00:38:43,030 --> 00:38:46,940
+00:38:42,354 --> 00:38:46,264
 He named his boyhood friend,
 Tywin Lannister,
 
 712
-00:38:46,790 --> 00:38:48,080
+00:38:46,114 --> 00:38:47,404
 as his Hand.
 
 713
-00:38:48,480 --> 00:38:50,970
+00:38:47,804 --> 00:38:50,294
 And for twenty years, Tywin ran the realm,
 
 714
-00:38:50,820 --> 00:38:53,990
+00:38:50,144 --> 00:38:53,314
 coldly, brilliantly, and well.
 
 715
-00:38:54,660 --> 00:38:56,210
+00:38:53,964 --> 00:38:55,534
 But Aerys grew jealous.
 
 716
-00:38:57,160 --> 00:39:00,070
+00:38:56,484 --> 00:38:59,394
 Jealous of Tywin's power, of his praise,
 
 717
-00:39:00,420 --> 00:39:03,750
+00:38:59,744 --> 00:39:03,074
 of the way the realm credited
 Tywin for every success.
 
 718
-00:39:04,480 --> 00:39:06,070
+00:39:03,824 --> 00:39:05,394
 He began to mock him.
 
 719
-00:39:06,470 --> 00:39:07,660
+00:39:05,794 --> 00:39:06,984
 To insult him.
 
 720
-00:39:08,060 --> 00:39:09,690
+00:39:07,384 --> 00:39:09,014
 And then came Duskendale.
 
 721
-00:39:10,180 --> 00:39:13,750
+00:39:09,524 --> 00:39:13,074
 A minor lord of a port town
 refused to pay his taxes.
 
 722
-00:39:15,020 --> 00:39:18,550
+00:39:14,344 --> 00:39:17,874
 Aerys went to Duskendale
 in person, to settle it.
 
 723
-00:39:18,950 --> 00:39:23,540
+00:39:18,274 --> 00:39:22,864
 The lord seized him, and held the king
 of the Seven Kingdoms prisoner for
 
 724
-00:39:23,390 --> 00:39:24,240
+00:39:22,714 --> 00:39:23,564
 half a year.
 
 725
-00:39:25,370 --> 00:39:29,840
+00:39:24,694 --> 00:39:29,164
 Ser Barristan Selmy finally slipped
 into the town alone and brought him
 
 726
-00:39:29,690 --> 00:39:30,180
+00:39:29,014 --> 00:39:29,504
 out.
 
 727
-00:39:30,790 --> 00:39:34,180
+00:39:30,114 --> 00:39:33,504
 But the man who came out was
 not the man who went in.
 
 728
-00:39:34,890 --> 00:39:37,300
+00:39:34,194 --> 00:39:36,624
 Afterwards, Aerys would
 not leave the Red Keep.
 
 729
-00:39:37,150 --> 00:39:39,830
+00:39:37,174 --> 00:39:38,604
 He trusted no one.
 
 730
-00:39:40,030 --> 00:39:42,359
+00:39:38,804 --> 00:39:40,814
 He would not let a blade come near him,
 
 731
-00:39:42,269 --> 00:39:44,740
+00:39:40,844 --> 00:39:43,174
 so he stopped cutting his
 hair and his nails.
 
 732
-00:39:45,189 --> 00:39:47,419
+00:39:43,574 --> 00:39:45,744
 They grew long, tangled and yellow.
 
 733
-00:39:47,850 --> 00:39:50,523
+00:39:46,474 --> 00:39:47,964
 And he found a new obsession.
 
 734
-00:39:50,373 --> 00:39:51,030
+00:39:48,574 --> 00:39:49,104
 Fire.
 
 735
-00:39:51,660 --> 00:39:54,290
+00:39:49,694 --> 00:39:51,964
 He surrounded himself with pyromancers,
 
 736
-00:39:54,419 --> 00:39:58,549
+00:39:52,334 --> 00:39:56,744
 the alchemists of the wildfire guild,
 and the whole court lived in terror
 
 737
-00:39:58,399 --> 00:39:59,310
+00:39:56,594 --> 00:39:57,524
 of the flames.
 
 738
-00:40:00,160 --> 00:40:02,230
+00:39:59,094 --> 00:40:01,384
 In the two hundred and eighty-first year,
 
 739
-00:40:02,540 --> 00:40:04,569
+00:40:01,534 --> 00:40:03,744
 a great tourney was held at Harrenhal.
 
 740
-00:40:05,180 --> 00:40:06,609
+00:40:04,154 --> 00:40:05,994
 Prince Rhaegar won it.
 
 741
-00:40:06,780 --> 00:40:11,339
+00:40:06,044 --> 00:40:10,914
 And as the champion, he was meant to crown
 a lady as queen of love and beauty.
 
 742
-00:40:12,149 --> 00:40:14,440
+00:40:11,964 --> 00:40:13,874
 Everyone expected him to crown his wife,
 
 743
-00:40:14,630 --> 00:40:15,980
+00:40:14,304 --> 00:40:15,654
 Elia Martell of Dorne.
 
 744
-00:40:16,630 --> 00:40:21,180
+00:40:16,224 --> 00:40:20,694
 Instead, he rode past her, and laid
 a crown of blue winter roses in the
 
 745
-00:40:21,030 --> 00:40:22,339
+00:40:20,544 --> 00:40:21,794
 lap of Lyanna Stark.
 
 746
-00:40:23,110 --> 00:40:28,020
+00:40:22,444 --> 00:40:26,794
 In the first book, Ned Stark remembers
 that moment as the moment all the
 
 747
-00:40:27,870 --> 00:40:28,919
+00:40:26,644 --> 00:40:27,574
 smiles died.
 
 748
-00:40:29,749 --> 00:40:33,000
+00:40:28,244 --> 00:40:31,334
 A year later, Rhaegar and Lyanna
 disappeared together.
 
 749
-00:40:33,630 --> 00:40:37,700
+00:40:32,024 --> 00:40:36,174
 Lyanna's brother Brandon rode to King's
 Landing and demanded that Rhaegar
 
 750
-00:40:37,550 --> 00:40:38,980
+00:40:36,024 --> 00:40:37,374
 come out and face him.
 
 751
-00:40:38,830 --> 00:40:43,169
+00:40:37,924 --> 00:40:40,774
 Neither Brandon nor his father,
 Lord Rickard Stark,
 
 752
-00:40:43,360 --> 00:40:45,390
+00:40:40,904 --> 00:40:42,854
 ever left the Red Keep alive.
 
 753
-00:40:46,019 --> 00:40:50,430
+00:40:43,584 --> 00:40:47,594
 Then Aerys demanded Eddard Stark
 and Robert Baratheon too.
 
 754
-00:40:51,080 --> 00:40:54,169
+00:40:48,584 --> 00:40:51,774
 Their foster father, Jon Arryn, refused.
 
 755
-00:40:54,880 --> 00:40:56,230
+00:40:52,444 --> 00:40:53,754
 And the realm rose.
 
 756
-00:40:57,479 --> 00:41:01,450
+00:40:55,004 --> 00:40:59,514
 At the Trident, Robert Baratheon
 met Rhaegar in the river.
 
 757
-00:41:02,200 --> 00:41:05,490
+00:41:00,264 --> 00:41:03,134
 Robert's great warhammer broke
 Rhaegar's breastplate,
 
 758
-00:41:05,840 --> 00:41:07,589
+00:41:03,384 --> 00:41:05,074
 and Rhaegar fell in the river.
 
 759
-00:41:08,209 --> 00:41:13,310
+00:41:05,944 --> 00:41:10,714
 Its rubies scattered into the water, and
 men dove for them for years afterward.
 
 760
-00:41:13,820 --> 00:41:16,930
+00:41:11,324 --> 00:41:13,814
 The place is still called the Ruby Ford.
 
 761
-00:41:18,220 --> 00:41:22,470
+00:41:15,164 --> 00:41:19,294
 In King's Landing, Tywin Lannister
 arrived with an army,
 
 762
-00:41:22,720 --> 00:41:24,690
+00:41:19,144 --> 00:41:21,594
 claiming to come to the king's aid.
 
 763
-00:41:25,800 --> 00:41:27,140
+00:41:22,884 --> 00:41:24,194
 Aerys opened the gates.
 
 764
-00:41:27,470 --> 00:41:30,379
+00:41:24,704 --> 00:41:27,314
 And the Lannister army
 poured into the city.
 
 765
-00:41:30,579 --> 00:41:35,189
+00:41:27,514 --> 00:41:32,184
 And in the throne room, a young knight
 of the Kingsguard named Jaime Lannister
 
 766
-00:41:35,039 --> 00:41:37,469
+00:41:32,034 --> 00:41:34,924
 heard the king chanting the same words,
 
 767
-00:41:37,319 --> 00:41:38,789
+00:41:34,774 --> 00:41:36,284
 over and over.
 
 768
-00:41:39,189 --> 00:41:39,999
+00:41:36,754 --> 00:41:37,684
 Burn them all.
 
 769
-00:41:41,249 --> 00:41:44,359
+00:41:38,934 --> 00:41:42,604
 Aerys had hidden caches of wildfire
 beneath the entire city.
 
 770
-00:41:44,929 --> 00:41:47,579
+00:41:43,154 --> 00:41:45,844
 Jaime stopped him, at the
 foot of the Iron Throne.
 
 771
-00:41:48,149 --> 00:41:50,479
+00:41:47,034 --> 00:41:48,964
 The Mad King's reign was over.
 
 772
-00:41:50,879 --> 00:41:54,289
+00:41:49,364 --> 00:41:52,654
 For the rest of his life, the realm
 would call him Kingslayer.
 
 773
-00:41:54,959 --> 00:41:58,349
+00:41:53,384 --> 00:41:56,974
 In the books, he tells the
 true story only once,
 
 774
-00:41:58,639 --> 00:42:01,149
+00:41:56,824 --> 00:42:00,314
 to Brienne of Tarth, in
 a bath at Harrenhal.
 
 775
-00:42:01,819 --> 00:42:04,469
+00:42:01,324 --> 00:42:04,154
 Rhaegar's small children
 were lost in the sack.
 
 776
-00:42:05,519 --> 00:42:09,009
+00:42:04,644 --> 00:42:07,974
 And far to the south, in a tower
 in the mountains of Dorne,
 
 777
-00:42:09,259 --> 00:42:13,249
+00:42:08,504 --> 00:42:12,414
 Lyanna Stark lay dying, and made
 her brother promise something.
 
 778
-00:42:13,879 --> 00:42:15,329
+00:42:13,104 --> 00:42:14,054
 Promise me, Ned.
 
 779
-00:42:16,579 --> 00:42:18,889
+00:42:14,504 --> 00:42:17,514
 The books never tell us what he promised.
 
 780
-00:42:21,479 --> 00:42:24,309
+00:42:20,231 --> 00:42:22,661
 But the Targaryens were
 not quite finished.
 
 781
-00:42:24,979 --> 00:42:28,509
+00:42:23,231 --> 00:42:27,321
 Before the city fell, Queen Rhaella
 had fled to Dragonstone,
 
 782
-00:42:28,359 --> 00:42:30,189
+00:42:27,171 --> 00:42:29,301
 with her younger son Viserys.
 
 783
-00:42:30,589 --> 00:42:32,179
+00:42:29,701 --> 00:42:30,991
 She was heavily pregnant.
 
 784
-00:42:32,579 --> 00:42:37,149
+00:42:31,521 --> 00:42:35,771
 And as Robert's fleet gathered,
 a great storm struck the island,
 
 785
-00:42:36,999 --> 00:42:39,909
+00:42:35,621 --> 00:42:38,751
 and wrecked the Targaryen ships at anchor.
 
 786
-00:42:40,419 --> 00:42:44,469
+00:42:39,601 --> 00:42:43,111
 In the middle of that storm, Rhaella
 gave birth to a daughter,
 
 787
-00:42:44,319 --> 00:42:45,989
+00:42:42,961 --> 00:42:44,431
 and passed away.
 
 788
-00:42:46,879 --> 00:42:49,149
+00:42:44,981 --> 00:42:46,831
 The girl was named Daenerys.
 
 789
-00:42:49,859 --> 00:42:51,729
+00:42:47,561 --> 00:42:49,111
 Daenerys Stormborn.
 
 790
-00:42:52,339 --> 00:42:56,969
+00:42:49,881 --> 00:42:54,111
 A loyal knight smuggled the two children
 across the sea to Braavos.
 
 791
-00:42:57,699 --> 00:43:02,629
+00:42:54,901 --> 00:42:59,310
 Years later, Daenerys would remember only
 one happy place from her childhood:
 
 792
-00:43:02,859 --> 00:43:08,619
+00:42:59,160 --> 00:43:04,451
 a big house with a red door, and
 a lemon tree outside her window.
 
 793
-00:43:08,469 --> 00:43:12,719
+00:43:05,501 --> 00:43:09,111
 Then the knight died,
 and the money ran out.
 
 794
-00:43:13,469 --> 00:43:16,179
+00:43:10,061 --> 00:43:12,711
 Viserys took his sister from city to city,
 
 795
-00:43:16,429 --> 00:43:18,459
+00:43:12,841 --> 00:43:14,971
 selling their mother's crown to eat.
 
 796
-00:43:19,469 --> 00:43:23,039
+00:43:14,821 --> 00:43:19,641
 Behind his back, people called
 him the beggar king.
 
 797
-00:43:23,239 --> 00:43:25,249
+00:43:19,841 --> 00:43:21,851
 And then Viserys sold Daenerys too.
 
 798
-00:43:25,649 --> 00:43:28,339
+00:43:22,251 --> 00:43:24,921
 He married her to a Dothraki
 warlord, Khal Drogo,
 
 799
-00:43:28,389 --> 00:43:30,639
+00:43:24,971 --> 00:43:27,241
 in exchange for an army that never came.
 
 800
-00:43:31,049 --> 00:43:33,439
+00:43:27,671 --> 00:43:30,041
 Among her wedding gifts
 were three dragon eggs,
 
 801
-00:43:33,529 --> 00:43:35,079
+00:43:30,091 --> 00:43:31,681
 turned to stone by the centuries.
 
 802
-00:43:35,709 --> 00:43:37,559
+00:43:32,291 --> 00:43:34,161
 Viserys did get his crown in the end.
 
 803
-00:43:37,789 --> 00:43:40,629
+00:43:34,561 --> 00:43:37,271
 A crown of molten gold,
 poured by Khal Drogo,
 
 804
-00:43:40,479 --> 00:43:42,749
+00:43:37,121 --> 00:43:39,371
 when he grew tired of Viserys's threats.
 
 805
-00:43:43,099 --> 00:43:44,959
+00:43:39,741 --> 00:43:41,561
 He was no dragon, Daenerys thought.
 
 806
-00:43:45,489 --> 00:43:46,959
+00:43:42,091 --> 00:43:43,561
 Fire cannot kill a dragon.
 
 807
-00:43:48,009 --> 00:43:51,179
+00:43:44,611 --> 00:43:47,781
 When Drogo died, Daenerys
 built him a funeral pyre,
 
 808
-00:43:51,329 --> 00:43:54,379
+00:43:47,891 --> 00:43:51,001
 set her three stone eggs on it,
 and walked into the flames.
 
 809
-00:43:54,829 --> 00:43:56,779
+00:43:51,451 --> 00:43:53,401
 In the morning, she rose from the ashes,
 
 810
-00:43:57,089 --> 00:43:57,719
+00:43:53,671 --> 00:43:54,321
 unburnt.
 
 811
-00:43:58,069 --> 00:44:00,649
+00:43:54,731 --> 00:43:57,201
 And three newborn dragons
 were clinging to her.
 
 812
-00:44:00,859 --> 00:44:04,079
+00:43:57,411 --> 00:44:00,611
 One black, one green, one cream and gold.
 
 813
-00:44:04,549 --> 00:44:05,179
+00:44:01,221 --> 00:44:01,711
 Drogon.
 
 814
-00:44:05,729 --> 00:44:06,099
+00:44:02,261 --> 00:44:02,631
 Rhaegal.
 
 815
-00:44:06,649 --> 00:44:07,299
+00:44:03,181 --> 00:44:03,851
 Viserion.
 
 816
-00:44:08,049 --> 00:44:11,759
+00:44:04,601 --> 00:44:08,311
 The first dragons to be born in the world
 for nearly a century and a half.
 
 817
-00:44:12,329 --> 00:44:15,539
+00:44:08,921 --> 00:44:12,071
 In the books that followed, Daenerys
 crossed the red waste,
 
 818
-00:44:15,749 --> 00:44:18,339
+00:44:12,301 --> 00:44:14,871
 freed the slaves of Astapor,
 Yunkai and Meereen,
 
 819
-00:44:18,489 --> 00:44:21,279
+00:44:15,041 --> 00:44:17,811
 and ruled Meereen as its queen, trying,
 
 820
-00:44:21,329 --> 00:44:24,059
+00:44:17,661 --> 00:44:20,631
 and often failing, to make
 a broken city work.
 
 821
-00:44:24,459 --> 00:44:29,229
+00:44:20,821 --> 00:44:25,821
 At the end of the fifth book, Drogon
 carries her out of a fighting pit and
 
 822
-00:44:29,079 --> 00:44:31,009
+00:44:25,671 --> 00:44:27,601
 far into the Dothraki Sea.
 
 823
-00:44:31,419 --> 00:44:33,389
+00:44:28,031 --> 00:44:30,001
 That is where her story stops.
 
 824
-00:44:33,959 --> 00:44:34,649
+00:44:30,551 --> 00:44:31,261
 For now.
 
 825
-00:44:35,779 --> 00:44:38,609
+00:44:32,311 --> 00:44:35,181
 But she is not the only Targaryen
 left in the books.
 
 826
-00:44:39,299 --> 00:44:43,749
+00:44:35,911 --> 00:44:40,321
 Old Maester Aemon, Egg's brother,
 the last Targaryen at the Wall,
 
 827
-00:44:44,319 --> 00:44:48,569
+00:44:40,911 --> 00:44:45,121
 dies at sea on his way to Oldtown,
 murmuring about dragons,
 
 828
-00:44:48,419 --> 00:44:49,989
+00:44:44,971 --> 00:44:46,561
 and about her.
 
 829
-00:44:50,999 --> 00:44:54,409
+00:44:47,391 --> 00:44:50,981
 In his last moments, he calls
 for his little brother.
 
 830
-00:44:55,419 --> 00:44:55,649
+00:44:51,751 --> 00:44:52,241
 Egg.
 
 831
-00:44:56,519 --> 00:44:58,869
+00:44:53,091 --> 00:44:55,441
 I dreamed that I was old.
 
 832
-00:44:59,069 --> 00:45:02,519
+00:44:55,641 --> 00:44:59,111
 In the fifth book, a young man
 called Griff appears in Essos,
 
 833
-00:45:02,369 --> 00:45:06,739
+00:44:58,961 --> 00:45:03,311
 claiming to be Rhaegar's son, Aegon,
 saved from the sack as a baby.
 
 834
-00:45:07,139 --> 00:45:10,409
+00:45:03,711 --> 00:45:06,981
 And the army marching behind
 him is the Golden Company.
 
 835
-00:45:10,859 --> 00:45:14,669
+00:45:07,431 --> 00:45:11,241
 The sellswords founded by Bittersteel,
 the Blackfyre exile.
 
 836
-00:45:15,379 --> 00:45:18,949
+00:45:11,891 --> 00:45:15,521
 Many readers suspect he is
 not who he claims to be.
 
 837
-00:45:19,119 --> 00:45:22,599
+00:45:15,691 --> 00:45:19,171
 That he may be a Blackfyre,
 at last coming home.
 
 838
-00:45:22,449 --> 00:45:25,029
+00:45:19,021 --> 00:45:21,601
 The books have not said.
 
 839
-00:45:25,779 --> 00:45:28,049
+00:45:22,351 --> 00:45:24,621
 And at the Wall, there is Jon Snow.
 
 840
-00:45:28,479 --> 00:45:31,129
+00:45:25,031 --> 00:45:27,701
 A bastard of Winterfell,
 the son of Ned Stark.
 
 841
-00:45:31,529 --> 00:45:32,999
+00:45:28,101 --> 00:45:29,571
 Or so everyone believes.
 
 842
-00:45:33,669 --> 00:45:38,419
+00:45:30,261 --> 00:45:34,971
 In the show, it is confirmed: Jon
 is the son of Rhaegar and Lyanna,
 
 843
-00:45:38,629 --> 00:45:40,999
+00:45:35,201 --> 00:45:37,571
 and his true name is Aegon Targaryen.
 
 844
-00:45:41,399 --> 00:45:45,589
+00:45:37,971 --> 00:45:42,161
 In the books, it is one of the most
 famous theories ever written about a
 
 845
-00:45:45,439 --> 00:45:47,129
+00:45:42,011 --> 00:45:43,681
 story that has not finished yet.
 
 846
-00:45:46,979 --> 00:45:49,519
+00:45:43,531 --> 00:45:46,071
 The hints are all there.
 
 847
-00:45:49,919 --> 00:45:50,789
+00:45:46,471 --> 00:45:47,321
 Promise me, Ned.
 
 848
-00:45:52,039 --> 00:45:54,089
+00:45:48,571 --> 00:45:50,621
 The show gave the dynasty an ending.
 
 849
-00:45:54,579 --> 00:45:57,589
+00:45:51,091 --> 00:45:54,121
 Daenerys burned King's Landing,
 Jon killed her,
 
 850
-00:45:57,659 --> 00:45:59,729
+00:45:54,211 --> 00:45:56,261
 and Drogon melted the Iron Throne.
 
 851
-00:46:00,129 --> 00:46:03,019
+00:45:56,661 --> 00:45:59,551
 In the books, that ending
 has not been written.
 
 852
-00:46:03,419 --> 00:46:06,049
+00:45:59,951 --> 00:46:02,581
 The Winds of Winter is still unpublished.
 
 853
-00:46:06,449 --> 00:46:09,499
+00:46:02,971 --> 00:46:06,011
 And so is the second half
 of Fire and Blood.
 
 854
-00:46:10,349 --> 00:46:13,919
+00:46:06,861 --> 00:46:10,431
 So the history of House
 Targaryen is still open.
 
 855
-00:46:14,289 --> 00:46:18,549
+00:46:10,801 --> 00:46:15,061
 It began, three hundred years ago,
 with a girl who dreamed of fire.
 
 856
-00:46:19,119 --> 00:46:21,809
+00:46:15,631 --> 00:46:18,321
 It may end with a girl who walked into it.
 
 857
-00:46:23,207 --> 00:46:25,337
+00:46:19,719 --> 00:46:21,849
 So who was the greatest Targaryen?
 
 858
-00:46:25,737 --> 00:46:28,327
+00:46:22,249 --> 00:46:24,839
 Aegon the Conqueror, who built
 the realm with fire?
 
 859
-00:46:29,237 --> 00:46:31,287
+00:46:25,789 --> 00:46:27,799
 Jaehaerys, who made it work?
 
 860
-00:46:31,877 --> 00:46:34,607
+00:46:28,449 --> 00:46:31,099
 Egg, the unlikely king who
 loved the smallfolk?
 
 861
-00:46:35,037 --> 00:46:37,567
+00:46:31,549 --> 00:46:34,079
 Or Daenerys, whose story is not over?
 
 862
-00:46:38,037 --> 00:46:39,187
+00:46:34,549 --> 00:46:35,699
 Tell us in the comments.
 
 863
-00:46:39,597 --> 00:46:41,487
+00:46:36,109 --> 00:46:37,999
 And if you want more of the
 books brought to life,
 
 864
-00:46:41,717 --> 00:46:44,547
+00:46:38,229 --> 00:46:41,059
 like this video, and subscribe
 to the Mythic Archives.
 
 865
-00:46:44,397 --> 00:46:48,667
+00:46:41,609 --> 00:46:44,629
 Next, we go north of the
 Wall, to the Others.
 
 866
-00:46:48,517 --> 00:46:51,747
+00:46:44,479 --> 00:46:47,689
 And what the books really say about them.

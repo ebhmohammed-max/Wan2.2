@@ -20,15 +20,15 @@ Who was the greatest Targaryen? Tell us in the comments.
 ⏱ CHAPTERS
 0:00 Prologue: The Dreamer
 4:36 I. Three Dragons
-8:59 II. The Field of Fire
-15:44 III. The Sons of the Dragon
-18:13 IV. The Old King and the Good Queen
-20:59 V. The Dance of the Dragons
-27:20 VI. The Last Dragon
-31:01 VII. The Black Dragon
-34:27 VIII. Egg and Summerhall
-38:33 IX. The Mad King
-42:18 X. The Last Dragons
+8:58 II. The Field of Fire
+15:45 III. The Sons of the Dragon
+18:14 IV. The Old King and the Good Queen
+21:01 V. The Dance of the Dragons
+27:19 VI. The Last Dragon
+31:00 VII. The Black Dragon
+34:26 VIII. Egg and Summerhall
+38:32 IX. The Mad King
+42:17 X. The Last Dragons
 
 📚 SOURCES
 Fire & Blood · The World of Ice & Fire · A Song of Ice and Fire (books 1–5) · Tales of Dunk and Egg. *The Winds of Winter* and the second volume of *Fire & Blood* are unpublished as of November 2026. TV references are labelled on screen.

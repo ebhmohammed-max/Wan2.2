@@ -1,14 +1,14 @@
 [
 {
 "t0": 0.45,
-"t1": 2.61,
+"t1": 2.31,
 "lines": [
 "Twelve years before",
 "the end of the world,"
 ]
 },
 {
-"t0": 2.65,
+"t0": 2.35,
 "t1": 5.12,
 "lines": [
 "a young girl woke",
@@ -16,30 +16,30 @@
 ]
 },
 {
-"t0": 5.79,
-"t1": 7.6,
+"t0": 5.81,
+"t1": 7.62,
 "lines": [
 "She had seen her city burn."
 ]
 },
 {
-"t0": 8.09,
-"t1": 9.62,
+"t0": 8.47,
+"t1": 9.64,
 "lines": [
 "Mountains split open."
 ]
 },
 {
 "t0": 9.77,
-"t1": 13.04,
+"t1": 13.06,
 "lines": [
 "The sky turned black,",
 "and a sea of fire swallowed"
 ]
 },
 {
-"t0": 13.08,
-"t1": 15.79,
+"t0": 13.1,
+"t1": 15.81,
 "lines": [
 "the greatest empire",
 "men had ever built."
@@ -47,22 +47,22 @@
 },
 {
 "t0": 16.4,
-"t1": 17.77,
+"t1": 17.81,
 "lines": [
 "Her father believed her."
 ]
 },
 {
-"t0": 18.07,
-"t1": 22.15,
+"t0": 18.11,
+"t1": 22.19,
 "lines": [
 "He sold everything he owned,",
 "gathered his family and five dragons,"
 ]
 },
 {
-"t0": 22.19,
-"t1": 25.54,
+"t0": 22.23,
+"t1": 25.6,
 "lines": [
 "and sailed to a lonely rock",
 "at the edge of the world."
@@ -70,247 +70,233 @@
 },
 {
 "t0": 26.03,
-"t1": 28.74,
+"t1": 28.8,
 "lines": [
 "Twelve years later,",
 "the dream came true."
 ]
 },
 {
-"t0": 28.95,
-"t1": 31.69,
+"t0": 29.55,
+"t1": 31.73,
 "lines": [
 "That girl's family would",
 "conquer a continent with"
 ]
 },
 {
-"t0": 31.73,
-"t1": 34.42,
+"t0": 31.77,
+"t1": 34.48,
 "lines": [
 "three dragons and fewer",
 "than sixteen hundred men."
 ]
 },
 {
-"t0": 34.97,
-"t1": 39.2,
+"t0": 34.99,
+"t1": 39.3,
 "lines": [
 "They would sit on a throne of melted",
 "swords for almost three hundred years."
 ]
 },
 {
-"t0": 39.67,
-"t1": 40.78,
+"t0": 39.71,
+"t1": 42.36,
 "lines": [
-"They would build,"
+"They would build, and they would burn."
 ]
 },
 {
-"t0": 41.25,
-"t1": 42.3,
-"lines": [
-"and they would burn."
-]
-},
-{
-"t0": 43.25,
-"t1": 45.89,
+"t0": 43.29,
+"t1": 45.93,
 "lines": [
 "And in the end, they would",
 "tear each other apart"
 ]
 },
 {
-"t0": 45.93,
-"t1": 48.68,
+"t0": 45.97,
+"t1": 48.72,
 "lines": [
 "in a war that killed",
 "the dragons themselves."
 ]
 },
 {
-"t0": 49.47,
-"t1": 52.22,
+"t0": 49.53,
+"t1": 52.28,
 "lines": [
 "And the last of them",
 "is still out there."
 ]
 },
 {
-"t0": 52.97,
-"t1": 55.62,
+"t0": 53.03,
+"t1": 55.68,
 "lines": [
 "In the books, she is a young queen,"
 ]
 },
 {
-"t0": 55.91,
-"t1": 59.12,
+"t0": 55.97,
+"t1": 59.18,
 "lines": [
 "far across the sea, with",
 "three dragons of her own."
 ]
 },
 {
-"t0": 59.42,
-"t1": 62.49,
+"t0": 59.48,
+"t1": 62.55,
 "lines": [
 "This is the complete",
 "history of House Targaryen."
 ]
 },
 {
-"t0": 68.36,
-"t1": 71.59,
+"t0": 68.42,
+"t1": 71.67,
 "lines": [
 "Before we begin, a word about",
 "where this story comes from."
 ]
 },
 {
-"t0": 72.08,
-"t1": 74.58,
+"t0": 72.12,
+"t1": 75.2,
 "lines": [
-"In the books, the history",
-"of House Targaryen"
+"In the books, the history of",
+"House Targaryen is written"
 ]
 },
 {
-"t0": 74.62,
-"t1": 77.13,
+"t0": 75.24,
+"t1": 79.29,
 "lines": [
-"is written by a",
-"maester of the Citadel,"
-]
-},
-{
-"t0": 77.78,
-"t1": 79.23,
-"lines": [
+"by a maester of the Citadel,",
 "Archmaester Gyldayn."
 ]
 },
 {
-"t0": 79.66,
-"t1": 81.89,
+"t0": 79.74,
+"t1": 81.95,
 "lines": [
 "He did not see any of it."
 ]
 },
 {
-"t0": 82.12,
-"t1": 84.72,
+"t0": 82.2,
+"t1": 84.74,
 "lines": [
 "He stitched it together",
 "from older accounts."
 ]
 },
 {
-"t0": 85.25,
-"t1": 89.04,
+"t0": 85.27,
+"t1": 89.08,
 "lines": [
 "One came from a pious septon",
 "who flattered the kings."
 ]
 },
 {
-"t0": 89.63,
-"t1": 92.9,
+"t0": 89.67,
+"t1": 92.94,
 "lines": [
 "One came from a grand",
 "maester who tried to be fair."
 ]
 },
 {
-"t0": 93.21,
-"t1": 96.94,
+"t0": 93.25,
+"t1": 96.98,
 "lines": [
 "And one came from a court",
 "fool named Mushroom,"
 ]
 },
 {
-"t0": 97.35,
-"t1": 101.3,
+"t0": 97.33,
+"t1": 101.34,
 "lines": [
 "who claimed he had been hiding in",
 "every bedchamber in the Red Keep."
 ]
 },
 {
-"t0": 101.89,
-"t1": 103.58,
+"t0": 101.93,
+"t1": 103.62,
 "lines": [
 "They often disagree."
 ]
 },
 {
-"t0": 103.68,
-"t1": 107.39,
+"t0": 103.72,
+"t1": 107.41,
 "lines": [
 "So when this video says \"the",
 "histories say\", remember:"
 ]
 },
 {
-"t0": 107.62,
-"t1": 111.45,
+"t0": 107.66,
+"t1": 111.49,
 "lines": [
 "even inside the story, nobody is",
 "completely sure what happened."
 ]
 },
 {
-"t0": 112.04,
-"t1": 113.55,
+"t0": 112.12,
+"t1": 113.53,
 "lines": [
 "Now, the dream."
 ]
 },
 {
-"t0": 113.96,
-"t1": 116.93,
+"t0": 114.08,
+"t1": 116.95,
 "lines": [
 "More than four hundred",
 "years before the main books,"
 ]
 },
 {
-"t0": 117.14,
-"t1": 120.31,
+"t0": 117.18,
+"t1": 120.35,
 "lines": [
 "the Freehold of Valyria",
 "ruled half the known world."
 ]
 },
 {
-"t0": 120.64,
-"t1": 121.91,
+"t0": 120.68,
+"t1": 121.93,
 "lines": [
 "It was not a kingdom."
 ]
 },
 {
-"t0": 122.21,
-"t1": 125.35,
+"t0": 122.24,
+"t1": 125.38,
 "lines": [
 "It was a freehold, ruled by",
 "some forty great families of"
 ]
 },
 {
-"t0": 125.39,
-"t1": 128.99,
+"t0": 125.42,
+"t1": 129.0,
 "lines": [
 "dragonlords, who flew over",
 "their empire on dragons and"
 ]
 },
 {
-"t0": 129.03,
-"t1": 132.7,
+"t0": 129.04,
+"t1": 132.69,
 "lines": [
 "mined its fire mountains for",
 "gold and slaves and power."
@@ -318,6196 +304,6186 @@
 },
 {
 "t0": 133.05,
-"t1": 135.56,
+"t1": 135.57,
 "lines": [
 "The Targaryens were",
 "one of those families."
 ]
 },
 {
-"t0": 135.81,
-"t1": 137.11,
+"t0": 135.82,
+"t1": 137.1,
 "lines": [
 "They were not the richest."
 ]
 },
 {
-"t0": 137.41,
-"t1": 138.66,
+"t0": 137.4,
+"t1": 138.65,
 "lines": [
 "They were not the strongest."
 ]
 },
 {
-"t0": 138.97,
-"t1": 140.24,
+"t0": 138.96,
+"t1": 140.23,
 "lines": [
 "They were not even close."
 ]
 },
 {
-"t0": 140.97,
-"t1": 144.52,
+"t0": 140.96,
+"t1": 144.51,
 "lines": [
 "Then Lord Aenar Targaryen's",
 "maiden daughter had a dream."
 ]
 },
 {
-"t0": 144.82,
-"t1": 147.43,
+"t0": 144.81,
+"t1": 147.44,
 "lines": [
 "The histories call her",
 "Daenys the Dreamer."
 ]
 },
 {
-"t0": 147.78,
-"t1": 149.51,
+"t0": 147.75,
+"t1": 149.52,
 "lines": [
 "She saw Valyria destroyed."
 ]
 },
 {
-"t0": 149.84,
-"t1": 150.95,
+"t0": 149.83,
+"t1": 150.94,
 "lines": [
 "Aenar believed her."
 ]
 },
 {
-"t0": 151.25,
-"t1": 154.83,
+"t0": 151.24,
+"t1": 154.82,
 "lines": [
 "He sold his lands in the Freehold,",
 "and moved his whole house,"
 ]
 },
 {
-"t0": 154.87,
-"t1": 158.7,
+"t0": 154.86,
+"t1": 158.69,
 "lines": [
 "with all its wealth and its",
 "five dragons, to Dragonstone,"
 ]
 },
 {
-"t0": 158.91,
-"t1": 161.87,
+"t0": 158.88,
+"t1": 161.72,
 "lines": [
 "a smoking island at the",
 "mouth of Blackwater Bay."
 ]
 },
 {
-"t0": 161.91,
-"t1": 165.55,
+"t0": 161.76,
+"t1": 165.68,
 "lines": [
 "It was the westernmost",
 "outpost of Valyria,"
 ]
 },
 {
-"t0": 165.62,
-"t1": 168.13,
+"t0": 165.73,
+"t1": 168.26,
 "lines": [
 "a lonely rock on the edge of nowhere."
 ]
 },
 {
-"t0": 168.82,
-"t1": 170.89,
+"t0": 168.95,
+"t1": 171.02,
 "lines": [
 "The other dragonlords mocked him."
 ]
 },
 {
-"t0": 171.3,
-"t1": 174.61,
+"t0": 171.43,
+"t1": 174.74,
 "lines": [
 "A great lord, running",
 "from a girl's nightmare."
 ]
 },
 {
-"t0": 175.46,
-"t1": 178.87,
+"t0": 175.61,
+"t1": 179.0,
 "lines": [
 "Twelve years later,",
 "the Fourteen Flames woke."
 ]
 },
 {
-"t0": 179.5,
-"t1": 182.04,
+"t0": 179.65,
+"t1": 182.17,
 "lines": [
 "The histories say every hill for five"
 ]
 },
 {
-"t0": 182.08,
-"t1": 185.59,
+"t0": 182.21,
+"t1": 185.72,
 "lines": [
 "hundred miles split",
 "open on the same day."
 ]
 },
 {
-"t0": 186.1,
-"t1": 190.74,
+"t0": 186.29,
+"t1": 190.87,
 "lines": [
 "Fire and ash filled the",
 "sky, so thick and so hot"
 ]
 },
 {
-"t0": 190.78,
-"t1": 194.05,
+"t0": 190.91,
+"t1": 194.18,
 "lines": [
 "that even dragons fell",
 "burning from the air."
 ]
 },
 {
-"t0": 194.92,
-"t1": 195.92,
+"t0": 195.05,
+"t1": 196.05,
 "lines": [
 "Lakes boiled."
 ]
 },
 {
-"t0": 196.64,
-"t1": 198.89,
+"t0": 196.77,
+"t1": 199.02,
 "lines": [
 "Palaces and temples crumbled."
 ]
 },
 {
-"t0": 199.36,
-"t1": 202.29,
+"t0": 199.49,
+"t1": 202.4,
 "lines": [
 "The sea rushed in and",
 "swallowed what was left."
 ]
 },
 {
-"t0": 202.92,
-"t1": 205.33,
+"t0": 203.05,
+"t1": 205.46,
 "lines": [
 "Nobody agrees on what caused it."
 ]
 },
 {
-"t0": 205.74,
-"t1": 208.39,
+"t0": 205.87,
+"t1": 208.54,
 "lines": [
 "Some say the fire",
 "mountains simply erupted."
 ]
 },
 {
-"t0": 208.92,
-"t1": 211.57,
+"t0": 209.03,
+"t1": 211.7,
 "lines": [
 "Some say the Valyrians dug too deep."
 ]
 },
 {
-"t0": 211.67,
-"t1": 213.95,
+"t0": 211.8,
+"t1": 214.08,
 "lines": [
 "Some say the spells",
 "that held the mountains"
 ]
 },
 {
-"t0": 213.99,
-"t1": 217.32,
+"t0": 214.12,
+"t1": 217.47,
 "lines": [
 "quiet for five thousand",
 "years finally failed."
 ]
 },
 {
-"t0": 217.71,
-"t1": 220.18,
+"t0": 217.84,
+"t1": 220.31,
 "lines": [
 "The maesters just call it the Doom."
 ]
 },
 {
-"t0": 221.01,
-"t1": 223.6,
+"t0": 221.14,
+"t1": 223.73,
 "lines": [
 "When it was over,",
 "the Freehold was gone."
 ]
 },
 {
-"t0": 223.9,
-"t1": 226.52,
+"t0": 224.03,
+"t1": 226.65,
 "lines": [
 "Its dragonlords, its",
 "cities, its sorcery,"
 ]
 },
 {
-"t0": 226.56,
-"t1": 228.57,
+"t0": 226.69,
+"t1": 228.7,
 "lines": [
 "nearly every dragon in the world."
 ]
 },
 {
-"t0": 228.87,
-"t1": 232.69,
+"t0": 229.0,
+"t1": 232.82,
 "lines": [
 "Where Valyria had stood, there was",
 "only a broken scatter of islands"
 ]
 },
 {
-"t0": 232.73,
-"t1": 237.1,
+"t0": 232.86,
+"t1": 237.23,
 "lines": [
 "in a dark, steaming water that",
 "sailors still call the Smoking Sea."
 ]
 },
 {
-"t0": 237.59,
-"t1": 242.24,
+"t0": 237.72,
+"t1": 242.37,
 "lines": [
 "Even now, in the books, men say",
 "no ship that sails there returns."
 ]
 },
 {
-"t0": 242.95,
-"t1": 246.9,
+"t0": 243.08,
+"t1": 247.05,
 "lines": [
 "Only one dragonlord family",
 "survived with its dragons intact."
 ]
 },
 {
-"t0": 247.35,
-"t1": 250.14,
+"t0": 247.48,
+"t1": 250.25,
 "lines": [
 "The family that had",
 "listened to a girl's dream."
 ]
 },
 {
-"t0": 250.67,
-"t1": 254.08,
+"t0": 250.8,
+"t1": 254.21,
 "lines": [
 "What followed is called",
 "the Century of Blood."
 ]
 },
 {
-"t0": 254.63,
-"t1": 258.96,
+"t0": 254.76,
+"t1": 259.09,
 "lines": [
 "The free cities of the east tore each",
 "other apart over Valyria's corpse."
 ]
 },
 {
-"t0": 259.26,
-"t1": 264.43,
+"t0": 259.39,
+"t1": 264.56,
 "lines": [
 "And for a hundred years, the",
 "Targaryens mostly stayed out of it."
 ]
 },
 {
-"t0": 264.47,
-"t1": 268.64,
+"t0": 264.6,
+"t1": 268.77,
 "lines": [
 "They sat on Dragonstone, looking east,"
 ]
 },
 {
-"t0": 269.27,
-"t1": 271.0,
+"t0": 269.4,
+"t1": 271.13,
 "lines": [
 "toward the ruins of home."
 ]
 },
 {
-"t0": 271.3,
-"t1": 273.77,
+"t0": 271.43,
+"t1": 273.86,
 "lines": [
 "Then a boy named Aegon was born."
 ]
 },
 {
-"t0": 274.34,
-"t1": 276.07,
+"t0": 274.47,
+"t1": 276.18,
 "lines": [
 "And Aegon looked west."
 ]
 },
 {
-"t0": 278.69,
-"t1": 282.22,
+"t0": 278.8,
+"t1": 282.31,
 "lines": [
 "Aegon Targaryen grew up in a castle",
 "that looked like a nightmare."
 ]
 },
 {
-"t0": 282.79,
-"t1": 285.72,
+"t0": 282.9,
+"t1": 285.83,
 "lines": [
 "The Valyrians had raised",
 "Dragonstone with magic,"
 ]
 },
 {
-"t0": 285.95,
-"t1": 288.58,
+"t0": 286.06,
+"t1": 288.69,
 "lines": [
 "shaping the black",
 "stone like soft clay."
 ]
 },
 {
-"t0": 289.03,
-"t1": 291.36,
+"t0": 289.14,
+"t1": 291.45,
 "lines": [
 "Its towers were carved as dragons,"
 ]
 },
 {
-"t0": 291.71,
-"t1": 294.5,
+"t0": 291.82,
+"t1": 294.61,
 "lines": [
 "hunched along the walls as",
 "if about to take flight."
 ]
 },
 {
-"t0": 295.15,
-"t1": 298.0,
+"t0": 295.25,
+"t1": 298.69,
 "lines": [
 "Its gates were open dragon mouths."
 ]
 },
 {
-"t0": 298.85,
-"t1": 302.38,
+"t0": 298.99,
+"t1": 302.52,
 "lines": [
 "Gargoyles and stone wyverns",
 "crouched everywhere,"
 ]
 },
 {
-"t0": 302.65,
-"t1": 306.28,
+"t0": 302.79,
+"t1": 306.42,
 "lines": [
 "and the whole mountain beneath",
 "it steamed and rumbled."
 ]
 },
 {
-"t0": 306.99,
-"t1": 311.22,
+"t0": 307.11,
+"t1": 311.36,
 "lines": [
 "He had two sisters, and",
 "in the old Valyrian way,"
 ]
 },
 {
-"t0": 311.47,
-"t1": 315.76,
+"t0": 311.61,
+"t1": 315.9,
 "lines": [
 "to keep the blood of the dragon",
 "pure, he married them both."
 ]
 },
 {
-"t0": 316.47,
-"t1": 319.26,
+"t0": 316.59,
+"t1": 319.4,
 "lines": [
 "The histories say he",
 "married Visenya first,"
 ]
 },
 {
-"t0": 319.79,
-"t1": 322.96,
+"t0": 319.93,
+"t1": 323.1,
 "lines": [
 "out of duty, and Rhaenys out of love."
 ]
 },
 {
-"t0": 323.53,
-"t1": 325.86,
+"t0": 323.67,
+"t1": 326.0,
 "lines": [
 "They could not have",
 "been more different."
 ]
 },
 {
-"t0": 325.96,
-"t1": 328.23,
+"t0": 326.1,
+"t1": 328.51,
 "lines": [
 "Visenya, the elder, was a warrior."
 ]
 },
 {
-"t0": 328.6,
-"t1": 331.03,
+"t0": 329.06,
+"t1": 331.11,
 "lines": [
 "Stern, severe, hard to impress."
 ]
 },
 {
-"t0": 331.46,
-"t1": 333.3,
+"t0": 331.4,
+"t1": 333.49,
 "lines": [
 "She trained with the",
 "sword from girlhood,"
 ]
 },
 {
-"t0": 333.34,
-"t1": 337.13,
+"t0": 333.53,
+"t1": 336.9,
 "lines": [
 "and she carried a blade of",
 "Valyrian steel called Dark Sister."
 ]
 },
 {
-"t0": 338.06,
-"t1": 341.05,
+"t0": 337.83,
+"t1": 341.2,
 "lines": [
 "Rhaenys, the younger, was",
 "bright and playful and curious."
 ]
 },
 {
-"t0": 341.38,
-"t1": 344.15,
+"t0": 341.5,
+"t1": 344.51,
 "lines": [
 "She loved music, and dancing,",
 "and clever company."
 ]
 },
 {
-"t0": 344.54,
-"t1": 346.49,
+"t0": 344.9,
+"t1": 346.83,
 "lines": [
 "She filled her halls with singers."
 ]
 },
 {
-"t0": 346.82,
-"t1": 350.09,
+"t0": 347.08,
+"t1": 350.46,
 "lines": [
 "And she flew her dragon simply",
 "because she loved to fly."
 ]
 },
 {
-"t0": 350.9,
-"t1": 353.23,
+"t0": 351.31,
+"t1": 353.25,
 "lines": [
 "Aegon himself was the hardest to read."
 ]
 },
 {
-"t0": 353.53,
-"t1": 356.22,
+"t0": 353.29,
+"t1": 357.63,
 "lines": [
 "The histories describe",
 "him as grave and quiet,"
 ]
 },
 {
-"t0": 356.33,
-"t1": 358.22,
+"t0": 357.84,
+"t1": 359.91,
 "lines": [
 "a man who kept his own counsel."
 ]
 },
 {
-"t0": 358.63,
-"t1": 363.32,
+"t0": 360.24,
+"t1": 364.49,
 "lines": [
 "He carried his own Valyrian sword,",
 "a black blade called Blackfyre."
 ]
 },
 {
-"t0": 363.62,
-"t1": 365.65,
+"t0": 364.79,
+"t1": 367.04,
 "lines": [
 "And each of them had a dragon."
 ]
 },
 {
-"t0": 366.44,
-"t1": 368.21,
+"t0": 367.67,
+"t1": 369.16,
 "lines": [
 "Visenya rode Vhagar."
 ]
 },
 {
-"t0": 368.7,
-"t1": 370.39,
+"t0": 369.73,
+"t1": 371.1,
 "lines": [
 "Rhaenys rode Meraxes."
 ]
 },
 {
-"t0": 370.72,
-"t1": 373.31,
+"t0": 371.47,
+"t1": 373.96,
 "lines": [
 "And Aegon rode the",
 "greatest of them all."
 ]
 },
 {
-"t0": 374.54,
-"t1": 376.67,
+"t0": 374.93,
+"t1": 376.84,
 "lines": [
 "Balerion, the Black Dread."
 ]
 },
 {
-"t0": 377.2,
-"t1": 381.13,
+"t0": 377.45,
+"t1": 381.64,
 "lines": [
 "Balerion was the last living",
 "dragon to have seen Valyria itself."
 ]
 },
 {
-"t0": 381.6,
-"t1": 383.11,
+"t0": 382.07,
+"t1": 383.33,
 "lines": [
 "His scales were black."
 ]
 },
 {
-"t0": 383.41,
-"t1": 384.86,
+"t0": 383.37,
+"t1": 386.35,
 "lines": [
 "His fire was black."
 ]
 },
 {
-"t0": 385.16,
-"t1": 390.45,
+"t0": 386.65,
+"t1": 392.02,
 "lines": [
 "When he flew, the stories say, his",
 "shadow fell over whole towns at once,"
 ]
 },
 {
-"t0": 390.78,
-"t1": 395.19,
+"t0": 392.21,
+"t1": 396.44,
 "lines": [
 "and people in the streets below",
 "would look up and see the sun go out."
 ]
 },
 {
-"t0": 395.98,
-"t1": 399.82,
+"t0": 397.17,
+"t1": 401.23,
 "lines": [
 "In the first book, a young Arya",
 "Stark gets lost in the cellars"
 ]
 },
 {
-"t0": 399.86,
-"t1": 404.13,
+"t0": 401.27,
+"t1": 404.98,
 "lines": [
 "of the Red Keep and finds the",
 "old dragon skulls in the dark."
 ]
 },
 {
-"t0": 404.64,
-"t1": 407.42,
+"t0": 405.69,
+"t1": 408.39,
 "lines": [
 "The biggest of them has",
 "teeth like black swords,"
 ]
 },
 {
-"t0": 407.46,
-"t1": 412.39,
+"t0": 408.43,
+"t1": 412.82,
 "lines": [
 "and a jaw so wide it could",
 "swallow a horse and rider whole."
 ]
 },
 {
-"t0": 413.4,
-"t1": 415.17,
+"t0": 413.27,
+"t1": 415.24,
 "lines": [
 "That was Balerion."
 ]
 },
 {
-"t0": 416.18,
-"t1": 420.47,
+"t0": 417.01,
+"t1": 421.5,
 "lines": [
 "In the great hall of Dragonstone,",
 "Aegon had a table made."
 ]
 },
 {
-"t0": 421.28,
-"t1": 422.67,
+"t0": 421.97,
+"t1": 425.45,
 "lines": [
-"Fifty feet long,"
+"Fifty feet long, cut in the",
+"shape of Westeros and painted"
 ]
 },
 {
-"t0": 423.14,
-"t1": 427.47,
+"t0": 425.49,
+"t1": 429.34,
 "lines": [
-"cut in the shape of Westeros",
-"and painted with every forest,"
+"with every forest, river,",
+"city and castle on the continent."
 ]
 },
 {
-"t0": 427.74,
-"t1": 430.83,
-"lines": [
-"river, city and castle",
-"on the continent."
-]
-},
-{
-"t0": 431.52,
-"t1": 433.93,
+"t0": 430.21,
+"t1": 432.74,
 "lines": [
 "And on it, there were no borders."
 ]
 },
 {
-"t0": 434.52,
-"t1": 435.52,
+"t0": 433.41,
+"t1": 434.58,
 "lines": [
 "No kingdoms."
 ]
 },
 {
-"t0": 436.02,
-"t1": 438.21,
+"t0": 434.95,
+"t1": 436.78,
 "lines": [
 "Just one land."
 ]
 },
 {
-"t0": 438.31,
-"t1": 441.79,
+"t0": 436.88,
+"t1": 440.36,
 "lines": [
 "Centuries later, in the books,",
 "Stannis Baratheon would"
 ]
 },
 {
-"t0": 441.83,
-"t1": 445.5,
+"t0": 440.4,
+"t1": 444.07,
 "lines": [
 "stand at the same table and",
 "brood over the same map."
 ]
 },
 {
-"t0": 446.03,
-"t1": 451.46,
+"t0": 444.6,
+"t1": 450.03,
 "lines": [
 "Because when Aegon looked across the",
 "narrow sea, he did not see one land."
 ]
 },
 {
-"t0": 451.93,
-"t1": 456.96,
+"t0": 450.48,
+"t1": 455.53,
 "lines": [
 "He saw seven kingdoms, each with its",
 "own king, and all of them at war."
 ]
 },
 {
-"t0": 457.26,
-"t1": 459.67,
+"t0": 455.83,
+"t1": 458.24,
 "lines": [
 "In the North, the",
 "Starks of Winterfell."
 ]
 },
 {
-"t0": 459.86,
-"t1": 462.46,
+"t0": 458.54,
+"t1": 461.01,
 "lines": [
 "In the Vale, the Arryns of the Eyrie."
 ]
 },
 {
-"t0": 462.76,
-"t1": 465.44,
+"t0": 461.31,
+"t1": 463.99,
 "lines": [
 "In the west, the Lannisters",
 "of Casterly Rock."
 ]
 },
 {
-"t0": 465.48,
-"t1": 469.1,
+"t0": 464.03,
+"t1": 467.65,
 "lines": [
 "In the Reach, the",
 "Gardeners of Highgarden."
 ]
 },
 {
-"t0": 469.4,
-"t1": 472.81,
+"t0": 467.95,
+"t1": 471.34,
 "lines": [
 "In the Stormlands, the",
 "Durrandons of Storm's End."
 ]
 },
 {
-"t0": 473.12,
-"t1": 475.51,
+"t0": 471.65,
+"t1": 474.06,
 "lines": [
 "In the south, the Martells of Dorne."
 ]
 },
 {
-"t0": 475.92,
-"t1": 479.26,
+"t0": 474.49,
+"t1": 477.81,
 "lines": [
 "And in the riverlands,",
 "a cruel king from the Iron"
 ]
 },
 {
-"t0": 479.3,
-"t1": 483.12,
+"t0": 477.85,
+"t1": 481.67,
 "lines": [
 "Islands named Harren the",
 "Black, who had just finished"
 ]
 },
 {
-"t0": 483.16,
-"t1": 486.47,
+"t0": 481.71,
+"t1": 485.02,
 "lines": [
 "building the largest castle",
 "the world had ever seen."
 ]
 },
 {
-"t0": 487.34,
-"t1": 489.27,
+"t0": 485.89,
+"t1": 487.82,
 "lines": [
 "Why did Aegon go west?"
 ]
 },
 {
-"t0": 489.92,
-"t1": 491.75,
+"t0": 488.47,
+"t1": 490.3,
 "lines": [
 "The histories do not agree."
 ]
 },
 {
-"t0": 492.06,
-"t1": 494.19,
+"t0": 490.61,
+"t1": 492.74,
 "lines": [
 "Some say it was simple ambition."
 ]
 },
 {
-"t0": 494.23,
-"t1": 498.46,
+"t0": 492.78,
+"t1": 497.01,
 "lines": [
 "Some say Daenys's old dream",
 "had shown more than the Doom."
 ]
 },
 {
-"t0": 498.77,
-"t1": 500.28,
+"t0": 497.32,
+"t1": 498.83,
 "lines": [
 "Others point to an insult."
 ]
 },
 {
-"t0": 500.71,
-"t1": 505.94,
+"t0": 499.26,
+"t1": 504.49,
 "lines": [
 "The storm king, Argilac the Arrogant,",
 "offered Aegon a marriage alliance."
 ]
 },
 {
-"t0": 506.65,
-"t1": 507.65,
+"t0": 505.2,
+"t1": 506.2,
 "lines": [
 "Aegon countered."
 ]
 },
 {
-"t0": 507.89,
-"t1": 510.59,
+"t0": 506.44,
+"t1": 509.12,
 "lines": [
 "And Argilac sent back",
 "an answer so insulting"
 ]
 },
 {
-"t0": 510.63,
-"t1": 513.32,
+"t0": 509.16,
+"t1": 511.87,
 "lines": [
 "that there could only be one reply."
 ]
 },
 {
-"t0": 514.01,
-"t1": 517.36,
+"t0": 512.56,
+"t1": 515.91,
 "lines": [
 "In the show House of the Dragon,",
 "there is another reason."
 ]
 },
 {
-"t0": 518.01,
-"t1": 521.75,
+"t0": 516.56,
+"t1": 520.3,
 "lines": [
 "Aegon has a secret dream of a",
 "great winter coming from the north,"
 ]
 },
 {
-"t0": 521.79,
-"t1": 525.7,
+"t0": 520.34,
+"t1": 524.25,
 "lines": [
 "and conquers Westeros to",
 "unite it against the dead."
 ]
 },
 {
-"t0": 526.25,
-"t1": 531.32,
+"t0": 524.8,
+"t1": 529.87,
 "lines": [
 "That prophecy is passed from king to",
 "heir, all the way down to Daenerys."
 ]
 },
 {
-"t0": 531.65,
-"t1": 533.7,
+"t0": 530.2,
+"t1": 532.25,
 "lines": [
 "It is a powerful idea."
 ]
 },
 {
-"t0": 534.11,
-"t1": 536.24,
+"t0": 532.66,
+"t1": 534.79,
 "lines": [
 "But it is the show's invention."
 ]
 },
 {
-"t0": 536.65,
-"t1": 539.92,
+"t0": 535.2,
+"t1": 538.47,
 "lines": [
 "In the books, no such",
 "dream is ever mentioned."
 ]
 },
 {
-"t0": 542.475,
-"t1": 545.345,
+"t0": 541.025,
+"t1": 543.835,
 "lines": [
 "Aegon landed at the mouth",
 "of the Blackwater Rush,"
 ]
 },
 {
-"t0": 545.515,
-"t1": 548.275,
+"t0": 544.005,
+"t1": 546.765,
 "lines": [
 "on three hills above",
 "a fishing village."
 ]
 },
 {
-"t0": 548.315,
-"t1": 552.415,
+"t0": 546.805,
+"t1": 550.905,
 "lines": [
 "He brought fewer than",
 "sixteen hundred men."
 ]
 },
 {
-"t0": 552.515,
-"t1": 556.325,
+"t0": 551.005,
+"t1": 554.635,
 "lines": [
 "On the highest hill, he built a",
 "rough fort of timber and earth."
 ]
 },
 {
-"t0": 556.715,
-"t1": 557.945,
+"t0": 554.935,
+"t1": 556.085,
 "lines": [
 "The Aegonfort."
 ]
 },
 {
-"t0": 558.475,
-"t1": 560.735,
+"t0": 556.775,
+"t1": 559.875,
 "lines": [
 "One day it would become the",
 "Red Keep, and the village"
 ]
 },
 {
-"t0": 560.775,
-"t1": 563.265,
+"t0": 559.915,
+"t1": 562.725,
 "lines": [
 "below would grow into a",
 "city called King's Landing."
 ]
 },
 {
-"t0": 564.015,
-"t1": 566.605,
+"t0": 563.455,
+"t1": 566.285,
 "lines": [
 "Westeros still counts its",
 "years from his conquest."
 ]
 },
 {
-"t0": 567.055,
-"t1": 570.745,
+"t0": 567.075,
+"t1": 571.165,
 "lines": [
 "In the books, every date is so",
 "many years After the Conquest."
 ]
 },
 {
-"t0": 571.045,
-"t1": 572.045,
+"t0": 571.695,
+"t1": 572.695,
 "lines": [
 "A.C."
 ]
 },
 {
-"t0": 572.145,
-"t1": 575.015,
+"t0": 572.745,
+"t1": 575.425,
 "lines": [
 "The first great test",
 "came in the riverlands."
 ]
 },
 {
-"t0": 575.465,
-"t1": 578.455,
+"t0": 575.915,
+"t1": 578.775,
 "lines": [
 "Harren the Black had spent",
 "forty years building Harrenhal."
 ]
 },
 {
-"t0": 578.755,
-"t1": 582.865,
+"t0": 578.815,
+"t1": 584.095,
 "lines": [
 "Its walls were so high that no",
 "siege tower could reach them."
 ]
 },
 {
-"t0": 583.035,
-"t1": 586.515,
+"t0": 584.325,
+"t1": 587.165,
 "lines": [
 "Its five towers were the",
 "tallest in the realm."
 ]
 },
 {
-"t0": 586.815,
-"t1": 589.065,
+"t0": 587.495,
+"t1": 589.605,
 "lines": [
 "Its great hall could feast an army."
 ]
 },
 {
-"t0": 589.595,
-"t1": 593.485,
+"t0": 590.155,
+"t1": 594.285,
 "lines": [
 "And the histories say it was finished",
 "on the very day Aegon landed."
 ]
 },
 {
-"t0": 594.295,
-"t1": 596.305,
+"t0": 594.955,
+"t1": 597.225,
 "lines": [
 "Harren believed stone could not burn."
 ]
 },
 {
-"t0": 596.775,
-"t1": 599.945,
+"t0": 597.635,
+"t1": 600.805,
 "lines": [
 "He shut himself inside with",
 "his sons, and he waited."
 ]
 },
 {
-"t0": 600.615,
-"t1": 602.625,
+"t0": 601.575,
+"t1": 603.485,
 "lines": [
 "Aegon did not besiege the castle."
 ]
 },
 {
-"t0": 602.925,
-"t1": 605.875,
+"t0": 603.785,
+"t1": 606.515,
 "lines": [
 "He flew over the walls",
 "at dusk on Balerion."
 ]
 },
 {
-"t0": 606.425,
-"t1": 609.715,
+"t0": 606.815,
+"t1": 609.665,
 "lines": [
 "And the black fire poured",
 "down into the towers."
 ]
 },
 {
-"t0": 610.225,
-"t1": 612.755,
+"t0": 610.095,
+"t1": 613.065,
 "lines": [
 "Stone, it turns out,",
 "does not need to burn."
 ]
 },
 {
-"t0": 613.185,
-"t1": 615.235,
+"t0": 613.365,
+"t1": 615.415,
 "lines": [
 "It only needs to get hot enough."
 ]
 },
 {
-"t0": 615.535,
-"t1": 617.605,
+"t0": 615.845,
+"t1": 618.015,
 "lines": [
 "The towers became ovens."
 ]
 },
 {
-"t0": 617.905,
-"t1": 622.655,
+"t0": 618.105,
+"t1": 623.245,
 "lines": [
 "The great stones cracked, and",
 "glowed, and ran like candle wax."
 ]
 },
 {
-"t0": 623.565,
-"t1": 625.745,
+"t0": 624.275,
+"t1": 626.595,
 "lines": [
 "By morning, Harren the Black and his"
 ]
 },
 {
-"t0": 625.785,
-"t1": 628.475,
+"t0": 626.635,
+"t1": 629.825,
 "lines": [
 "sons were gone, and",
 "his line with them."
 ]
 },
 {
-"t0": 629.125,
-"t1": 632.745,
+"t0": 630.435,
+"t1": 633.875,
 "lines": [
 "Three hundred years later,",
 "in the books, Harrenhal still"
 ]
 },
 {
-"t0": 632.785,
-"t1": 636.755,
+"t0": 633.915,
+"t1": 638.005,
 "lines": [
 "stands half-ruined, its",
 "towers twisted and melted."
 ]
 },
 {
-"t0": 637.685,
-"t1": 639.575,
+"t0": 638.085,
+"t1": 640.085,
 "lines": [
 "People say it is cursed."
 ]
 },
 {
-"t0": 640.465,
-"t1": 645.195,
+"t0": 640.715,
+"t1": 645.385,
 "lines": [
 "Nearly every lord who has held",
 "it since has come to a bad end."
 ]
 },
 {
-"t0": 646.265,
-"t1": 649.735,
+"t0": 646.755,
+"t1": 650.145,
 "lines": [
 "In the south, Aegon's",
 "half-brother and general,"
 ]
 },
 {
-"t0": 649.825,
-"t1": 654.335,
+"t0": 650.395,
+"t1": 654.765,
 "lines": [
 "Orys Baratheon, faced the storm",
 "king, Argilac the Arrogant,"
 ]
 },
 {
-"t0": 654.425,
-"t1": 657.255,
+"t0": 654.915,
+"t1": 657.625,
 "lines": [
 "who had insulted Aegon",
 "in the first place."
 ]
 },
 {
-"t0": 658.045,
-"t1": 660.035,
+"t0": 658.235,
+"t1": 660.065,
 "lines": [
 "Argilac fell in the battle."
 ]
 },
 {
-"t0": 660.135,
-"t1": 663.445,
+"t0": 660.164,
+"t1": 663.565,
 "lines": [
 "Orys married the dead king's",
 "daughter, and took his castle,"
 ]
 },
 {
-"t0": 663.535,
-"t1": 665.905,
+"t0": 663.605,
+"t1": 666.014,
 "lines": [
 "his banners and his words for his own."
 ]
 },
 {
-"t0": 666.495,
-"t1": 668.845,
+"t0": 666.344,
+"t1": 668.694,
 "lines": [
 "That is how House Baratheon began."
 ]
 },
 {
-"t0": 669.145,
-"t1": 671.235,
+"t0": 668.995,
+"t1": 671.264,
 "lines": [
 "As a Targaryen general's reward."
 ]
 },
 {
-"t0": 671.885,
-"t1": 674.675,
+"t0": 671.774,
+"t1": 674.024,
 "lines": [
 "Then came the moment",
 "that decided everything."
 ]
 },
 {
-"t0": 675.145,
-"t1": 677.715,
+"t0": 674.294,
+"t1": 676.995,
 "lines": [
 "Two kings joined forces",
 "against the dragons:"
 ]
 },
 {
-"t0": 678.185,
-"t1": 681.735,
+"t0": 677.564,
+"t1": 680.834,
 "lines": [
 "Loren Lannister of the Rock,",
 "and Mern Gardener of the Reach."
 ]
 },
 {
-"t0": 682.305,
-"t1": 685.075,
+"t0": 681.184,
+"t1": 683.974,
 "lines": [
 "Together they marched with",
 "fifty-five thousand men,"
 ]
 },
 {
-"t0": 685.245,
-"t1": 687.855,
+"t0": 684.184,
+"t1": 686.834,
 "lines": [
 "the largest army",
 "Westeros had ever seen."
 ]
 },
 {
-"t0": 688.285,
-"t1": 690.445,
+"t0": 687.365,
+"t1": 689.274,
 "lines": [
 "Aegon had about eleven thousand."
 ]
 },
 {
-"t0": 690.485,
-"t1": 693.615,
+"t0": 689.574,
+"t1": 692.715,
 "lines": [
 "They met on open ground",
 "south of the Blackwater,"
 ]
 },
 {
-"t0": 693.655,
-"t1": 696.445,
+"t0": 692.755,
+"t1": 695.824,
 "lines": [
 "in a dry summer, with the",
 "grass high and golden."
 ]
 },
 {
-"t0": 696.895,
-"t1": 698.985,
+"t0": 696.174,
+"t1": 698.544,
 "lines": [
 "For the first and",
 "only time in history,"
 ]
 },
 {
-"t0": 699.055,
-"t1": 701.405,
+"t0": 698.594,
+"t1": 701.125,
 "lines": [
 "all three dragons flew",
 "into battle together."
 ]
 },
 {
-"t0": 701.705,
-"t1": 702.435,
+"t0": 701.424,
+"t1": 702.374,
 "lines": [
 "Vhagar."
 ]
 },
 {
-"t0": 702.475,
-"t1": 703.475,
+"t0": 702.414,
+"t1": 703.414,
 "lines": [
 "Meraxes."
 ]
 },
 {
-"t0": 703.615,
-"t1": 704.615,
+"t0": 703.485,
+"t1": 704.485,
 "lines": [
 "And Balerion."
 ]
 },
 {
-"t0": 705.115,
-"t1": 706.825,
+"t0": 704.745,
+"t1": 706.554,
 "lines": [
 "The grass caught at once."
 ]
 },
 {
-"t0": 707.125,
-"t1": 708.495,
+"t0": 706.855,
+"t1": 708.625,
 "lines": [
 "The wind did the rest."
 ]
 },
 {
-"t0": 708.805,
-"t1": 712.055,
+"t0": 709.014,
+"t1": 712.284,
 "lines": [
 "The histories say four",
 "thousand men burned that day."
 ]
 },
 {
-"t0": 712.725,
-"t1": 715.545,
+"t0": 712.875,
+"t1": 715.754,
 "lines": [
 "Mern Gardener, the last king",
 "of the Reach, died with his"
 ]
 },
 {
-"t0": 715.585,
-"t1": 719.075,
+"t0": 715.794,
+"t1": 719.944,
 "lines": [
 "sons and his grandsons, and",
 "his line ended on that field."
 ]
 },
 {
-"t0": 719.485,
-"t1": 720.895,
+"t0": 720.475,
+"t1": 721.725,
 "lines": [
 "Loren Lannister lived."
 ]
 },
 {
-"t0": 721.195,
-"t1": 724.125,
+"t0": 722.024,
+"t1": 725.174,
 "lines": [
 "He knelt, and laid his",
 "crown at Aegon's feet."
 ]
 },
 {
-"t0": 724.455,
-"t1": 726.555,
+"t0": 725.764,
+"t1": 727.834,
 "lines": [
 "The battle has a name in the books."
 ]
 },
 {
-"t0": 726.705,
-"t1": 728.715,
+"t0": 728.135,
+"t1": 729.965,
 "lines": [
 "They call it the Field of Fire."
 ]
 },
 {
-"t0": 729.465,
-"t1": 732.575,
+"t0": 730.715,
+"t1": 733.824,
 "lines": [
 "After that, the kingdoms",
 "fell like dominoes."
 ]
 },
 {
-"t0": 732.875,
-"t1": 737.225,
+"t0": 734.054,
+"t1": 738.654,
 "lines": [
 "In the Vale, the Arryns' queen regent",
 "believed the Eyrie could never fall."
 ]
 },
 {
-"t0": 737.575,
-"t1": 740.925,
+"t0": 738.924,
+"t1": 741.844,
 "lines": [
 "It stood on a mountain,",
 "high above any army."
 ]
 },
 {
-"t0": 741.375,
-"t1": 744.325,
+"t0": 742.294,
+"t1": 745.184,
 "lines": [
 "But no castle is high",
 "enough to stop a dragon."
 ]
 },
 {
-"t0": 745.055,
-"t1": 747.075,
+"t0": 745.755,
+"t1": 748.315,
 "lines": [
 "Visenya simply flew Vhagar up the"
 ]
 },
 {
-"t0": 747.115,
-"t1": 749.365,
+"t0": 748.355,
+"t1": 751.264,
 "lines": [
 "mountain and landed",
 "in the castle yard."
 ]
 },
 {
-"t0": 749.875,
-"t1": 754.585,
+"t0": 752.014,
+"t1": 756.444,
 "lines": [
 "The boy king of the Vale, Ronnel",
 "Arryn, was taken up on Vhagar's back,"
 ]
 },
 {
-"t0": 754.735,
-"t1": 758.985,
+"t0": 756.694,
+"t1": 761.465,
 "lines": [
 "flown three times around the mountain,",
 "and came down to surrender his crown."
 ]
 },
 {
-"t0": 759.084,
-"t1": 762.994,
+"t0": 761.564,
+"t1": 765.554,
 "lines": [
 "In the North, Torrhen Stark marched",
 "south with thirty thousand men."
 ]
 },
 {
-"t0": 763.544,
-"t1": 766.664,
+"t0": 765.984,
+"t1": 769.624,
 "lines": [
 "When he reached the Trident and",
 "saw the dragons, and heard what had"
 ]
 },
 {
-"t0": 766.704,
-"t1": 770.874,
+"t0": 769.664,
+"t1": 774.154,
 "lines": [
 "happened to Harrenhal, he made the",
 "hardest choice a king can make."
 ]
 },
 {
-"t0": 771.174,
-"t1": 772.174,
+"t0": 774.454,
+"t1": 775.504,
 "lines": [
 "He knelt."
 ]
 },
 {
-"t0": 772.614,
-"t1": 775.464,
+"t0": 776.074,
+"t1": 779.144,
 "lines": [
 "The North remembers him",
 "as the King Who Knelt."
 ]
 },
 {
-"t0": 775.874,
-"t1": 778.984,
+"t0": 779.454,
+"t1": 782.724,
 "lines": [
 "But because he knelt,",
 "Winterfell never burned."
 ]
 },
 {
-"t0": 779.474,
-"t1": 783.504,
+"t0": 783.134,
+"t1": 787.424,
 "lines": [
 "And in Oldtown, the High Septon",
 "of the Faith prayed for a sign."
 ]
 },
 {
-"t0": 783.754,
-"t1": 787.454,
+"t0": 787.724,
+"t1": 791.194,
 "lines": [
 "The gods, he said, told",
 "him not to oppose Aegon."
 ]
 },
 {
-"t0": 787.494,
-"t1": 790.554,
+"t0": 791.504,
+"t1": 793.904,
 "lines": [
 "So the city opened its",
 "gates, and the High"
 ]
 },
 {
-"t0": 790.594,
-"t1": 793.984,
+"t0": 793.944,
+"t1": 797.214,
 "lines": [
 "Septon anointed Aegon",
 "king with the seven oils."
 ]
 },
 {
-"t0": 794.814,
-"t1": 796.624,
+"t0": 798.104,
+"t1": 799.754,
 "lines": [
 "Aegon now needed a throne."
 ]
 },
 {
-"t0": 796.924,
-"t1": 799.994,
+"t0": 800.054,
+"t1": 803.544,
 "lines": [
 "He had the swords of his fallen",
 "enemies gathered together,"
 ]
 },
 {
-"t0": 800.104,
-"t1": 803.344,
+"t0": 803.654,
+"t1": 806.734,
 "lines": [
 "the songs say a thousand of",
 "them, and had them heated"
 ]
 },
 {
-"t0": 803.384,
-"t1": 807.854,
+"t0": 806.774,
+"t1": 811.144,
 "lines": [
 "in Balerion's fire, then",
 "beaten and twisted into a seat."
 ]
 },
 {
-"t0": 808.344,
-"t1": 812.734,
+"t0": 811.694,
+"t1": 816.744,
 "lines": [
 "In the show, the Iron Throne",
 "is a neat, upright chair."
 ]
 },
 {
-"t0": 813.104,
-"t1": 815.624,
+"t0": 817.044,
+"t1": 820.114,
 "lines": [
 "In the books, it is",
 "something else entirely."
 ]
 },
 {
-"t0": 815.664,
-"t1": 821.474,
+"t0": 820.414,
+"t1": 825.564,
 "lines": [
 "An asymmetric monstrosity of spikes,",
 "jagged edges and twisted metal,"
 ]
 },
 {
-"t0": 821.514,
-"t1": 825.824,
+"t0": 825.894,
+"t1": 829.664,
 "lines": [
 "rising high above the hall,",
 "reached by steep iron steps."
 ]
 },
 {
-"t0": 826.314,
-"t1": 828.264,
+"t0": 830.134,
+"t1": 831.984,
 "lines": [
 "It was meant to be uncomfortable."
 ]
 },
 {
-"t0": 828.714,
-"t1": 831.564,
+"t0": 832.574,
+"t1": 836.364,
 "lines": [
 "The histories say Aegon",
 "wanted it that way."
 ]
 },
 {
-"t0": 832.094,
-"t1": 836.064,
+"t0": 836.664,
+"t1": 839.514,
 "lines": [
 "A king, he said,",
 "should never sit easy."
 ]
 },
 {
-"t0": 837.054,
-"t1": 839.204,
+"t0": 840.044,
+"t1": 841.714,
 "lines": [
 "And the throne was dangerous."
 ]
 },
 {
-"t0": 839.654,
-"t1": 842.304,
+"t0": 842.424,
+"t1": 845.034,
 "lines": [
 "Kings who sat on it cut",
 "themselves on its blades."
 ]
 },
 {
-"t0": 842.854,
-"t1": 846.074,
+"t0": 846.224,
+"t1": 849.604,
 "lines": [
 "Later, people would whisper",
 "that the throne itself judged"
 ]
 },
 {
-"t0": 846.114,
-"t1": 849.904,
+"t0": 849.644,
+"t1": 853.474,
 "lines": [
 "who was worthy, and drew the",
 "blood of those who were not."
 ]
 },
 {
-"t0": 850.694,
-"t1": 852.364,
+"t0": 854.664,
+"t1": 856.474,
 "lines": [
 "Six kingdoms had fallen."
 ]
 },
 {
-"t0": 852.974,
-"t1": 854.744,
+"t0": 856.964,
+"t1": 858.294,
 "lines": [
 "One had not."
 ]
 },
 {
-"t0": 855.874,
-"t1": 860.504,
+"t0": 859.164,
+"t1": 864.234,
 "lines": [
 "Dorne was a hot, dry land of deserts,",
 "red mountains and scorpions."
 ]
 },
 {
-"t0": 861.714,
-"t1": 864.854,
+"t0": 864.964,
+"t1": 867.234,
 "lines": [
 "And the Dornish had learned",
 "from the Field of Fire."
 ]
 },
 {
-"t0": 864.894,
-"t1": 868.584,
+"t0": 867.984,
+"t1": 869.594,
 "lines": [
 "They refused to give battle."
 ]
 },
 {
-"t0": 868.684,
-"t1": 872.214,
+"t0": 869.694,
+"t1": 873.224,
 "lines": [
 "When the dragons came, their armies",
 "simply melted into the desert."
 ]
 },
 {
-"t0": 872.514,
-"t1": 874.684,
+"t0": 873.524,
+"t1": 875.694,
 "lines": [
 "When the dragons left, they came back."
 ]
 },
 {
-"t0": 875.234,
-"t1": 877.784,
+"t0": 876.244,
+"t1": 878.794,
 "lines": [
 "Then, in the tenth",
 "year after the landing,"
 ]
 },
 {
-"t0": 878.154,
-"t1": 881.444,
+"t0": 879.184,
+"t1": 882.454,
 "lines": [
 "Rhaenys and Meraxes flew",
 "over the castle of Hellholt."
 ]
 },
 {
-"t0": 881.654,
-"t1": 885.934,
+"t0": 882.664,
+"t1": 886.944,
 "lines": [
 "A bolt from a great Dornish scorpion",
 "struck Meraxes through the eye."
 ]
 },
 {
-"t0": 886.234,
-"t1": 887.544,
+"t0": 887.194,
+"t1": 888.574,
 "lines": [
 "The dragon fell."
 ]
 },
 {
-"t0": 888.014,
-"t1": 889.604,
+"t0": 889.044,
+"t1": 890.634,
 "lines": [
 "And Rhaenys fell with her."
 ]
 },
 {
-"t0": 890.234,
-"t1": 892.924,
+"t0": 891.264,
+"t1": 893.954,
 "lines": [
 "Aegon's answer is remembered",
 "as the Dragon's Wroth."
 ]
 },
 {
-"t0": 893.274,
-"t1": 896.234,
+"t0": 894.304,
+"t1": 897.284,
 "lines": [
 "For two years, Aegon",
 "and Visenya burned"
 ]
 },
 {
-"t0": 896.274,
-"t1": 898.904,
+"t0": 897.324,
+"t1": 899.934,
 "lines": [
 "every Dornish castle they could reach."
 ]
 },
 {
-"t0": 899.594,
-"t1": 901.264,
+"t0": 900.624,
+"t1": 902.294,
 "lines": [
 "Dorne still would not bend."
 ]
 },
 {
-"t0": 902.454,
-"t1": 905.524,
+"t0": 903.504,
+"t1": 906.554,
 "lines": [
 "In the end, a letter arrived",
 "from the Princess of Dorne."
 ]
 },
 {
-"t0": 906.134,
-"t1": 907.264,
+"t0": 907.144,
+"t1": 908.294,
 "lines": [
 "Aegon read it alone."
 ]
 },
 {
-"t0": 907.614,
-"t1": 909.084,
+"t0": 908.644,
+"t1": 910.114,
 "lines": [
 "No one knows what it said."
 ]
 },
 {
-"t0": 909.394,
-"t1": 914.124,
+"t0": 910.424,
+"t1": 915.154,
 "lines": [
 "But after he read it, he made peace,",
 "and never went to war in Dorne again."
 ]
 },
 {
-"t0": 914.994,
-"t1": 916.694,
+"t0": 916.024,
+"t1": 917.724,
 "lines": [
 "Aegon ruled for thirty-seven years."
 ]
 },
 {
-"t0": 916.734,
-"t1": 920.394,
+"t0": 917.764,
+"t1": 921.424,
 "lines": [
 "He died in his bed on Dragonstone,"
 ]
 },
 {
-"t0": 920.824,
-"t1": 923.234,
+"t0": 921.854,
+"t1": 924.264,
 "lines": [
 "in peace, at the head of a dynasty."
 ]
 },
 {
-"t0": 923.844,
-"t1": 926.454,
+"t0": 924.874,
+"t1": 927.484,
 "lines": [
 "His family would not",
 "stay at peace for long."
 ]
 },
 {
-"t0": 927.57,
-"t1": 929.75,
+"t0": 928.6,
+"t1": 930.78,
 "lines": [
 "If you are enjoying this",
 "journey through the history"
 ]
 },
 {
-"t0": 929.79,
-"t1": 932.84,
+"t0": 930.82,
+"t1": 933.87,
 "lines": [
 "of Westeros, subscribe",
 "to the Mythic Archives."
 ]
 },
 {
-"t0": 933.14,
-"t1": 936.82,
+"t0": 934.17,
+"t1": 937.85,
 "lines": [
 "We bring the books to life:",
 "the stories, the history,"
 ]
 },
 {
-"t0": 936.86,
-"t1": 940.17,
+"t0": 937.89,
+"t1": 941.2,
 "lines": [
 "and the small details that",
 "make these worlds feel real."
 ]
 },
 {
-"t0": 941.46,
-"t1": 943.57,
+"t0": 942.49,
+"t1": 944.6,
 "lines": [
 "Now, the sons of the dragon."
 ]
 },
 {
-"t0": 946.79,
-"t1": 950.56,
+"t0": 947.82,
+"t1": 951.67,
 "lines": [
 "Aegon left two sons,",
 "by two different sisters."
 ]
 },
 {
-"t0": 950.95,
-"t1": 955.7,
+"t0": 952.24,
+"t1": 956.79,
 "lines": [
 "Each was raised by his own mother,",
 "and each became a mirror of her."
 ]
 },
 {
-"t0": 956.89,
-"t1": 962.12,
+"t0": 958.0,
+"t1": 963.21,
 "lines": [
 "Aenys, the son of Rhaenys, was gentle",
 "and dreamy, often sick as a boy,"
 ]
 },
 {
-"t0": 962.77,
-"t1": 964.54,
+"t0": 963.88,
+"t1": 965.65,
 "lines": [
 "kind and eager to be loved."
 ]
 },
 {
-"t0": 965.43,
-"t1": 968.5,
+"t0": 966.58,
+"t1": 969.59,
 "lines": [
 "Maegor, the son of Visenya,",
 "was the opposite."
 ]
 },
 {
-"t0": 969.11,
-"t1": 973.12,
+"t0": 970.2,
+"t1": 973.92,
 "lines": [
 "Huge, strong, and fearless,",
 "a warrior from childhood,"
 ]
 },
 {
-"t0": 973.19,
-"t1": 976.72,
+"t0": 973.96,
+"t1": 977.83,
 "lines": [
 "with his mother's iron and",
 "none of his father's patience."
 ]
 },
 {
-"t0": 977.49,
-"t1": 979.08,
+"t0": 978.96,
+"t1": 980.19,
 "lines": [
 "Aenys got the throne."
 ]
 },
 {
-"t0": 979.65,
-"t1": 982.48,
+"t0": 980.76,
+"t1": 983.59,
 "lines": [
 "Maegor got his father's",
 "sword, Blackfyre."
 ]
 },
 {
-"t0": 982.578,
-"t1": 984.868,
+"t0": 983.688,
+"t1": 985.978,
 "lines": [
 "Aenys wanted everyone to love him."
 ]
 },
 {
-"t0": 985.198,
-"t1": 987.808,
+"t0": 986.308,
+"t1": 988.918,
 "lines": [
 "Instead, the realm rose against him."
 ]
 },
 {
-"t0": 988.118,
-"t1": 989.848,
+"t0": 989.228,
+"t1": 990.958,
 "lines": [
 "The biggest threat was the Faith."
 ]
 },
 {
-"t0": 990.158,
-"t1": 993.138,
+"t0": 991.268,
+"t1": 994.228,
 "lines": [
 "Its holy orders, the Warrior's",
 "Sons and the Poor Fellows,"
 ]
 },
 {
-"t0": 993.178,
-"t1": 996.588,
+"t0": 994.268,
+"t1": 997.698,
 "lines": [
 "had always hated the Targaryen",
 "custom of marrying brother to sister."
 ]
 },
 {
-"t0": 997.138,
-"t1": 999.848,
+"t0": 998.248,
+"t1": 1000.958,
 "lines": [
 "When Aenys married his",
 "own daughter to his son,"
 ]
 },
 {
-"t0": 1000.078,
-"t1": 1002.388,
+"t0": 1001.188,
+"t1": 1003.498,
 "lines": [
 "the High Septon called",
 "him an abomination."
 ]
 },
 {
-"t0": 1002.698,
-"t1": 1005.188,
+"t0": 1003.798,
+"t1": 1006.308,
 "lines": [
 "The Faith Militant",
 "rose across the realm."
 ]
 },
 {
-"t0": 1005.598,
-"t1": 1006.848,
+"t0": 1006.718,
+"t1": 1007.968,
 "lines": [
 "Aenys never recovered."
 ]
 },
 {
-"t0": 1007.238,
-"t1": 1009.988,
+"t0": 1008.358,
+"t1": 1011.108,
 "lines": [
 "He died after just five",
 "years on the throne."
 ]
 },
 {
-"t0": 1010.618,
-"t1": 1012.718,
+"t0": 1011.738,
+"t1": 1013.838,
 "lines": [
 "Some whispered that Visenya had helped"
 ]
 },
 {
-"t0": 1012.758,
-"t1": 1015.008,
+"t0": 1013.878,
+"t1": 1016.128,
 "lines": [
 "him on his way, with",
 "one of her potions."
 ]
 },
 {
-"t0": 1015.738,
-"t1": 1017.068,
+"t0": 1016.858,
+"t1": 1018.188,
 "lines": [
 "Then came Maegor."
 ]
 },
 {
-"t0": 1017.658,
-"t1": 1022.008,
+"t0": 1018.798,
+"t1": 1023.128,
 "lines": [
 "He seized the throne, and claimed",
 "the greatest prize of all: Balerion,"
 ]
 },
 {
-"t0": 1022.118,
-"t1": 1026.208,
+"t0": 1023.238,
+"t1": 1027.308,
 "lines": [
 "the Black Dread, who had flown under",
 "his father, and now flew under him."
 ]
 },
 {
-"t0": 1026.678,
-"t1": 1029.248,
+"t0": 1027.858,
+"t1": 1030.368,
 "lines": [
 "Maegor met the Faith",
 "with fire and steel."
 ]
 },
 {
-"t0": 1029.548,
-"t1": 1031.238,
+"t0": 1030.668,
+"t1": 1032.358,
 "lines": [
 "He crushed the Warrior's Sons."
 ]
 },
 {
-"t0": 1031.908,
-"t1": 1035.268,
+"t0": 1033.028,
+"t1": 1036.388,
 "lines": [
 "When his own nephew rose against",
 "him, he met him over the Gods Eye,"
 ]
 },
 {
-"t0": 1035.308,
-"t1": 1039.398,
+"t0": 1036.428,
+"t1": 1040.518,
 "lines": [
 "dragon against dragon, and",
 "the nephew did not come back."
 ]
 },
 {
-"t0": 1039.698,
-"t1": 1042.478,
+"t0": 1040.818,
+"t1": 1043.598,
 "lines": [
 "He finished the Red Keep,",
 "and the histories say that"
 ]
 },
 {
-"t0": 1042.518,
-"t1": 1045.568,
+"t0": 1043.638,
+"t1": 1046.668,
 "lines": [
 "when it was done, he had",
 "the builders put to death,"
 ]
 },
 {
-"t0": 1045.638,
-"t1": 1048.828,
+"t0": 1046.778,
+"t1": 1049.948,
 "lines": [
 "so that no one would ever",
 "know its secret passages."
 ]
 },
 {
-"t0": 1049.258,
-"t1": 1051.428,
+"t0": 1050.378,
+"t1": 1052.548,
 "lines": [
 "He married six times."
 ]
 },
 {
-"t0": 1052.018,
-"t1": 1055.228,
+"t0": 1053.138,
+"t1": 1056.348,
 "lines": [
 "Three of those wives",
 "he wed on a single day."
 ]
 },
 {
-"t0": 1055.558,
-"t1": 1057.928,
+"t0": 1056.698,
+"t1": 1059.068,
 "lines": [
 "The court called them",
 "the Black Brides."
 ]
 },
 {
-"t0": 1058.228,
-"t1": 1061.708,
+"t0": 1059.368,
+"t1": 1063.198,
 "lines": [
 "And for all those marriages,",
 "Maegor had no living heir."
 ]
 },
 {
-"t0": 1061.748,
-"t1": 1067.068,
+"t0": 1063.498,
+"t1": 1067.728,
 "lines": [
 "The histories record only stillbirths,",
 "and dark rumours of curses."
 ]
 },
 {
-"t0": 1067.858,
-"t1": 1071.168,
+"t0": 1068.378,
+"t1": 1071.808,
 "lines": [
 "Within six years, the",
 "realm turned against him."
 ]
 },
 {
-"t0": 1071.498,
-"t1": 1076.128,
+"t0": 1072.178,
+"t1": 1076.788,
 "lines": [
 "His lords left him one by one,",
 "to join his young nephew Jaehaerys,"
 ]
 },
 {
-"t0": 1076.198,
-"t1": 1079.748,
+"t0": 1076.858,
+"t1": 1080.408,
 "lines": [
 "who had come out of hiding",
 "with a dragon of his own."
 ]
 },
 {
-"t0": 1079.848,
-"t1": 1082.558,
+"t0": 1080.508,
+"t1": 1083.218,
 "lines": [
 "One morning, Maegor the",
 "Cruel was found dead,"
 ]
 },
 {
-"t0": 1082.748,
-"t1": 1084.238,
+"t0": 1083.408,
+"t1": 1084.898,
 "lines": [
 "sitting upon the Iron Throne."
 ]
 },
 {
-"t0": 1084.728,
-"t1": 1086.058,
+"t0": 1085.388,
+"t1": 1086.718,
 "lines": [
 "Nobody knows what happened."
 ]
 },
 {
-"t0": 1086.358,
-"t1": 1087.868,
+"t0": 1087.018,
+"t1": 1088.528,
 "lines": [
 "Some say he took his own life."
 ]
 },
 {
-"t0": 1088.168,
-"t1": 1089.718,
+"t0": 1088.828,
+"t1": 1090.338,
 "lines": [
 "Some say someone helped him."
 ]
 },
 {
-"t0": 1090.018,
-"t1": 1093.308,
+"t0": 1090.638,
+"t1": 1093.908,
 "lines": [
 "And some say the throne itself",
 "finally made its judgement."
 ]
 },
 {
-"t0": 1095.909,
-"t1": 1099.639,
+"t0": 1096.509,
+"t1": 1100.259,
 "lines": [
 "The boy who took the throne after",
 "Maegor was fourteen years old."
 ]
 },
 {
-"t0": 1099.939,
-"t1": 1101.349,
+"t0": 1100.559,
+"t1": 1101.969,
 "lines": [
 "His name was Jaehaerys."
 ]
 },
 {
-"t0": 1101.649,
-"t1": 1103.639,
+"t0": 1102.269,
+"t1": 1104.259,
 "lines": [
 "He would rule for fifty-five years."
 ]
 },
 {
-"t0": 1103.869,
-"t1": 1106.839,
+"t0": 1104.489,
+"t1": 1107.459,
 "lines": [
 "And to this day, in the",
 "books, he is remembered as"
 ]
 },
 {
-"t0": 1106.879,
-"t1": 1110.009,
+"t0": 1107.499,
+"t1": 1110.629,
 "lines": [
 "the wisest king who ever",
 "sat on the Iron Throne."
 ]
 },
 {
-"t0": 1110.419,
-"t1": 1111.689,
+"t0": 1111.019,
+"t1": 1112.309,
 "lines": [
 "He was not alone."
 ]
 },
 {
-"t0": 1111.989,
-"t1": 1116.059,
+"t0": 1112.609,
+"t1": 1116.659,
 "lines": [
 "He married his sister Alysanne,",
 "clever and warm and fearless,"
 ]
 },
 {
-"t0": 1116.129,
-"t1": 1118.479,
+"t0": 1116.769,
+"t1": 1119.079,
 "lines": [
 "and the histories call",
 "her the Good Queen."
 ]
 },
 {
-"t0": 1119.169,
-"t1": 1121.839,
+"t0": 1119.769,
+"t1": 1122.459,
 "lines": [
 "Together, on the dragons",
 "Vermithor and Silverwing,"
 ]
 },
 {
-"t0": 1121.989,
-"t1": 1123.939,
+"t0": 1122.569,
+"t1": 1124.519,
 "lines": [
 "they flew to every",
 "corner of the realm."
 ]
 },
 {
-"t0": 1124.239,
-"t1": 1127.169,
+"t0": 1124.849,
+"t1": 1127.739,
 "lines": [
 "And they did something",
 "no Targaryen had tried."
 ]
 },
 {
-"t0": 1127.469,
-"t1": 1128.959,
+"t0": 1128.039,
+"t1": 1129.529,
 "lines": [
 "They made the realm work."
 ]
 },
 {
-"t0": 1129.429,
-"t1": 1131.579,
+"t0": 1129.999,
+"t1": 1132.149,
 "lines": [
 "First, they made peace with the Faith."
 ]
 },
 {
-"t0": 1132.469,
-"t1": 1135.519,
+"t0": 1133.039,
+"t1": 1136.089,
 "lines": [
 "Jaehaerys's Hand,",
 "a wise septon named Barth,"
 ]
 },
 {
-"t0": 1135.689,
-"t1": 1139.249,
+"t0": 1136.259,
+"t1": 1139.819,
 "lines": [
 "struck a bargain: the crown would",
 "protect the Faith, and in return,"
 ]
 },
 {
-"t0": 1139.289,
-"t1": 1141.739,
+"t0": 1139.859,
+"t1": 1142.309,
 "lines": [
 "the Faith would lay",
 "down its swords forever."
 ]
 },
 {
-"t0": 1141.889,
-"t1": 1144.109,
+"t0": 1142.459,
+"t1": 1144.679,
 "lines": [
 "The Faith Militant was disbanded."
 ]
 },
 {
-"t0": 1144.459,
-"t1": 1147.909,
+"t0": 1145.029,
+"t1": 1148.479,
 "lines": [
 "And the Targaryens' marriages",
 "were declared an exception,"
 ]
 },
 {
-"t0": 1148.139,
-"t1": 1152.329,
+"t0": 1148.749,
+"t1": 1152.899,
 "lines": [
 "blessed by the gods, because the",
 "dragonlords were not like other men."
 ]
 },
 {
-"t0": 1153.519,
-"t1": 1154.669,
+"t0": 1154.089,
+"t1": 1155.259,
 "lines": [
 "Then they built."
 ]
 },
 {
-"t0": 1155.419,
-"t1": 1158.569,
+"t0": 1155.989,
+"t1": 1159.139,
 "lines": [
 "Jaehaerys gave the realm",
 "one law, instead of seven."
 ]
 },
 {
-"t0": 1159.119,
-"t1": 1162.909,
+"t0": 1159.689,
+"t1": 1163.479,
 "lines": [
 "He built roads across Westeros,",
 "including the Kingsroad,"
 ]
 },
 {
-"t0": 1162.979,
-"t1": 1166.229,
+"t0": 1163.529,
+"t1": 1166.799,
 "lines": [
 "which runs from King's Landing",
 "all the way to the Wall."
 ]
 },
 {
-"t0": 1166.999,
-"t1": 1170.029,
+"t0": 1167.489,
+"t1": 1170.599,
 "lines": [
 "He gave King's Landing",
 "wells and sewers."
 ]
 },
 {
-"t0": 1170.329,
-"t1": 1171.999,
+"t0": 1170.899,
+"t1": 1172.569,
 "lines": [
 "He gave the realm peace."
 ]
 },
 {
-"t0": 1172.509,
-"t1": 1174.999,
+"t0": 1173.079,
+"t1": 1175.569,
 "lines": [
 "And Alysanne changed",
 "the lives of women."
 ]
 },
 {
-"t0": 1175.099,
-"t1": 1178.849,
+"t0": 1175.668,
+"t1": 1179.798,
 "lines": [
 "She persuaded the king to abolish",
 "the lord's right to the first night,"
 ]
 },
 {
-"t0": 1178.979,
-"t1": 1182.989,
+"t0": 1180.048,
+"t1": 1183.958,
 "lines": [
 "an old custom that let a lord claim",
 "any bride on her wedding night."
 ]
 },
 {
-"t0": 1183.659,
-"t1": 1186.219,
+"t0": 1184.368,
+"t1": 1186.668,
 "lines": [
 "She flew Silverwing to",
 "the Wall, and gave the"
 ]
 },
 {
-"t0": 1186.259,
-"t1": 1188.849,
+"t0": 1186.708,
+"t1": 1189.398,
 "lines": [
 "Night's Watch new lands",
 "to feed the brothers."
 ]
 },
 {
-"t0": 1189.379,
-"t1": 1192.029,
+"t0": 1189.708,
+"t1": 1192.298,
 "lines": [
 "To this day, the land",
 "is called the New Gift."
 ]
 },
 {
-"t0": 1192.539,
-"t1": 1194.999,
+"t0": 1192.708,
+"t1": 1195.568,
 "lines": [
 "And at Castle Black,",
 "the gate the Watch renamed"
 ]
 },
 {
-"t0": 1195.039,
-"t1": 1197.609,
+"t0": 1195.608,
+"t1": 1198.578,
 "lines": [
 "in her honour is still",
 "called the Queensgate."
 ]
 },
 {
-"t0": 1198.619,
-"t1": 1200.809,
+"t0": 1199.068,
+"t1": 1201.578,
 "lines": [
 "But the long reign had a sad heart."
 ]
 },
 {
-"t0": 1201.379,
-"t1": 1205.709,
+"t0": 1202.168,
+"t1": 1206.978,
 "lines": [
 "Jaehaerys and Alysanne had thirteen",
 "children, and outlived most of them."
 ]
 },
 {
-"t0": 1206.039,
-"t1": 1210.329,
+"t0": 1207.148,
+"t1": 1211.408,
 "lines": [
 "Their heir, Prince Aemon, was killed",
 "by raiders on the island of Tarth."
 ]
 },
 {
-"t0": 1210.719,
-"t1": 1214.009,
+"t0": 1211.778,
+"t1": 1215.548,
 "lines": [
 "Years later, their second",
 "son, Baelon, died too."
 ]
 },
 {
-"t0": 1214.419,
-"t1": 1217.129,
+"t0": 1216.038,
+"t1": 1219.028,
 "lines": [
 "And that raised a question",
 "that would haunt the family."
 ]
 },
 {
-"t0": 1217.559,
-"t1": 1219.269,
+"t0": 1219.378,
+"t1": 1220.868,
 "lines": [
 "Who inherits next?"
 ]
 },
 {
-"t0": 1219.719,
-"t1": 1222.089,
+"t0": 1221.238,
+"t1": 1223.668,
 "lines": [
 "Aemon had left a daughter, Rhaenys."
 ]
 },
 {
-"t0": 1222.519,
-"t1": 1225.009,
+"t0": 1223.968,
+"t1": 1226.298,
 "lines": [
 "Baelon had left a son, Viserys."
 ]
 },
 {
-"t0": 1225.439,
-"t1": 1229.839,
+"t0": 1226.598,
+"t1": 1230.198,
 "lines": [
 "In the hundred and first year after",
 "the Conquest, Jaehaerys called a"
 ]
 },
 {
-"t0": 1229.879,
-"t1": 1233.849,
+"t0": 1230.238,
+"t1": 1234.928,
 "lines": [
 "Great Council at Harrenhal, and",
 "let the lords of the realm decide."
 ]
 },
 {
-"t0": 1234.149,
-"t1": 1236.099,
+"t0": 1235.228,
+"t1": 1236.978,
 "lines": [
 "The lords chose Viserys."
 ]
 },
 {
-"t0": 1236.469,
-"t1": 1238.479,
+"t0": 1237.278,
+"t1": 1239.068,
 "lines": [
 "A man, over a woman."
 ]
 },
 {
-"t0": 1239.009,
-"t1": 1242.279,
+"t0": 1239.538,
+"t1": 1242.688,
 "lines": [
 "The histories call Rhaenys",
 "the Queen Who Never Was."
 ]
 },
 {
-"t0": 1242.589,
-"t1": 1244.259,
+"t0": 1243.018,
+"t1": 1244.808,
 "lines": [
 "It seemed to settle things."
 ]
 },
 {
-"t0": 1244.369,
-"t1": 1248.329,
+"t0": 1245.138,
+"t1": 1249.448,
 "lines": [
 "In fact, it set a precedent that",
 "would rip the dynasty in half."
 ]
 },
 {
-"t0": 1248.739,
-"t1": 1251.709,
+"t0": 1250.238,
+"t1": 1253.448,
 "lines": [
 "When the Old King died,",
 "the whole realm mourned him."
 ]
 },
 {
-"t0": 1252.009,
-"t1": 1254.579,
+"t0": 1253.748,
+"t1": 1256.178,
 "lines": [
 "His dragons had lived to be ancient."
 ]
 },
 {
-"t0": 1254.619,
-"t1": 1257.549,
+"t0": 1256.478,
+"t1": 1258.868,
 "lines": [
 "His peace had lasted half a century."
 ]
 },
 {
-"t0": 1257.849,
-"t1": 1259.739,
+"t0": 1259.358,
+"t1": 1261.608,
 "lines": [
 "It would not survive his grandson."
 ]
 },
 {
-"t0": 1262.227,
-"t1": 1265.317,
+"t0": 1264.112,
+"t1": 1267.222,
 "lines": [
 "King Viserys the First",
 "was kind, generous,"
 ]
 },
 {
-"t0": 1265.607,
-"t1": 1267.957,
+"t0": 1267.372,
+"t1": 1269.802,
 "lines": [
 "and fond of feasts and tourneys."
 ]
 },
 {
-"t0": 1268.267,
-"t1": 1270.797,
+"t0": 1270.312,
+"t1": 1272.922,
 "lines": [
 "He wanted, above all, to be liked."
 ]
 },
 {
-"t0": 1271.227,
-"t1": 1274.257,
+"t0": 1273.332,
+"t1": 1276.382,
 "lines": [
 "He also ruled at the very",
 "height of Targaryen power."
 ]
 },
 {
-"t0": 1274.607,
-"t1": 1278.117,
+"t0": 1276.682,
+"t1": 1279.692,
 "lines": [
 "There were more dragons in",
 "the realm than ever before."
 ]
 },
 {
-"t0": 1278.217,
-"t1": 1282.167,
+"t0": 1279.792,
+"t1": 1283.742,
 "lines": [
 "In the books, the histories call this",
 "the high summer of House Targaryen."
 ]
 },
 {
-"t0": 1282.557,
-"t1": 1286.907,
+"t0": 1284.132,
+"t1": 1288.482,
 "lines": [
 "Viserys had one living child by his",
 "first wife: a daughter, Rhaenyra."
 ]
 },
 {
-"t0": 1287.157,
-"t1": 1289.717,
+"t0": 1288.732,
+"t1": 1291.232,
 "lines": [
 "The court called her",
 "the Realm's Delight."
 ]
 },
 {
-"t0": 1290.227,
-"t1": 1293.127,
+"t0": 1291.822,
+"t1": 1294.702,
 "lines": [
 "When his wife died in childbirth,",
 "and the son she bore"
 ]
 },
 {
-"t0": 1293.167,
-"t1": 1296.897,
+"t0": 1294.742,
+"t1": 1298.492,
 "lines": [
 "died with her, Viserys did",
 "something no king had done."
 ]
 },
 {
-"t0": 1297.247,
-"t1": 1299.077,
+"t0": 1298.822,
+"t1": 1300.672,
 "lines": [
 "He named his daughter his heir."
 ]
 },
 {
-"t0": 1299.387,
-"t1": 1303.017,
+"t0": 1300.962,
+"t1": 1304.312,
 "lines": [
 "And he made the lords of the realm",
 "kneel and swear to defend her right."
 ]
 },
 {
-"t0": 1303.547,
-"t1": 1305.177,
+"t0": 1304.352,
+"t1": 1307.052,
 "lines": [
 "Then he married again."
 ]
 },
 {
-"t0": 1305.217,
-"t1": 1309.587,
+"t0": 1307.352,
+"t1": 1311.162,
 "lines": [
 "His new queen was Alicent Hightower,",
 "the daughter of his Hand."
 ]
 },
 {
-"t0": 1310.017,
-"t1": 1311.447,
+"t0": 1311.462,
+"t1": 1313.252,
 "lines": [
 "And she gave him sons."
 ]
 },
 {
-"t0": 1312.097,
-"t1": 1313.097,
+"t0": 1313.802,
+"t1": 1314.802,
 "lines": [
 "Aegon."
 ]
 },
 {
-"t0": 1313.197,
-"t1": 1314.197,
+"t0": 1314.882,
+"t1": 1315.882,
 "lines": [
 "Aemond."
 ]
 },
 {
-"t0": 1314.317,
-"t1": 1315.317,
+"t0": 1316.022,
+"t1": 1317.022,
 "lines": [
 "Daeron."
 ]
 },
 {
-"t0": 1315.517,
-"t1": 1317.467,
+"t0": 1317.182,
+"t1": 1319.172,
 "lines": [
 "Everyone at court could",
 "do the arithmetic."
 ]
 },
 {
-"t0": 1318.137,
-"t1": 1322.387,
+"t0": 1319.782,
+"t1": 1324.112,
 "lines": [
 "After the Great Council, the realm had",
 "chosen a man over a woman once before."
 ]
 },
 {
-"t0": 1322.617,
-"t1": 1324.617,
+"t0": 1324.262,
+"t1": 1326.402,
 "lines": [
 "And now the king had a son."
 ]
 },
 {
-"t0": 1324.987,
-"t1": 1327.277,
+"t0": 1326.772,
+"t1": 1329.042,
 "lines": [
 "But Viserys never changed his mind."
 ]
 },
 {
-"t0": 1327.707,
-"t1": 1329.157,
+"t0": 1329.492,
+"t1": 1330.652,
 "lines": [
 "Rhaenyra remained his heir."
 ]
 },
 {
-"t0": 1329.627,
-"t1": 1333.427,
+"t0": 1330.692,
+"t1": 1336.072,
 "lines": [
 "At a tourney, the histories say,",
 "Queen Alicent wore green,"
 ]
 },
 {
-"t0": 1333.467,
-"t1": 1337.677,
+"t0": 1336.202,
+"t1": 1340.012,
 "lines": [
 "and Princess Rhaenyra wore",
 "the Targaryen red and black."
 ]
 },
 {
-"t0": 1337.977,
-"t1": 1341.347,
+"t0": 1340.312,
+"t1": 1343.722,
 "lines": [
 "From then on, the court",
 "split into two parties."
 ]
 },
 {
-"t0": 1341.647,
-"t1": 1344.257,
+"t0": 1344.022,
+"t1": 1346.632,
 "lines": [
 "The greens, who backed Alicent's sons."
 ]
 },
 {
-"t0": 1344.487,
-"t1": 1347.227,
+"t0": 1346.962,
+"t1": 1349.532,
 "lines": [
 "And the blacks, who backed Rhaenyra."
 ]
 },
 {
-"t0": 1347.757,
-"t1": 1351.047,
+"t0": 1350.062,
+"t1": 1353.352,
 "lines": [
 "Hovering between them was the",
 "king's brother, Prince Daemon."
 ]
 },
 {
-"t0": 1351.347,
-"t1": 1353.497,
+"t0": 1353.652,
+"t1": 1355.782,
 "lines": [
 "Brilliant, reckless, dangerous."
 ]
 },
 {
-"t0": 1353.967,
-"t1": 1357.657,
+"t0": 1356.252,
+"t1": 1359.692,
 "lines": [
 "He rode a long red dragon",
 "called Caraxes, the Blood Wyrm,"
 ]
 },
 {
-"t0": 1357.767,
-"t1": 1361.017,
+"t0": 1359.732,
+"t1": 1363.302,
 "lines": [
 "and carried Dark Sister,",
 "Visenya's old sword."
 ]
 },
 {
-"t0": 1361.317,
-"t1": 1365.407,
+"t0": 1363.712,
+"t1": 1367.582,
 "lines": [
 "He formed the city watch and",
 "gave them their gold cloaks."
 ]
 },
 {
-"t0": 1365.777,
-"t1": 1368.087,
+"t0": 1367.972,
+"t1": 1370.322,
 "lines": [
 "The court called him the Rogue Prince."
 ]
 },
 {
-"t0": 1368.717,
-"t1": 1372.727,
+"t0": 1370.932,
+"t1": 1374.962,
 "lines": [
 "In time, Daemon married Rhaenyra,",
 "and joined the blacks."
 ]
 },
 {
-"t0": 1373.697,
-"t1": 1376.637,
+"t0": 1375.912,
+"t1": 1378.892,
 "lines": [
 "Rhaenyra's first three",
 "sons were dark-haired and"
 ]
 },
 {
-"t0": 1376.677,
-"t1": 1379.967,
+"t0": 1378.932,
+"t1": 1382.182,
 "lines": [
 "brown-eyed, nothing like",
 "their Velaryon father."
 ]
 },
 {
-"t0": 1380.437,
-"t1": 1383.687,
+"t0": 1382.672,
+"t1": 1385.942,
 "lines": [
 "The court whispered about",
 "who their real father was."
 ]
 },
 {
-"t0": 1383.787,
-"t1": 1387.367,
+"t0": 1386.042,
+"t1": 1389.922,
 "lines": [
 "And at a funeral on Driftmark,",
 "the queen's young son Aemond climbed"
 ]
 },
 {
-"t0": 1387.407,
-"t1": 1391.137,
+"t0": 1389.962,
+"t1": 1394.032,
 "lines": [
 "onto the oldest dragon in the",
 "world, Vhagar, and claimed her."
 ]
 },
 {
-"t0": 1391.667,
-"t1": 1393.657,
+"t0": 1394.622,
+"t1": 1396.712,
 "lines": [
 "Rhaenyra's boys attacked him for it."
 ]
 },
 {
-"t0": 1393.957,
-"t1": 1396.307,
+"t0": 1397.082,
+"t1": 1399.512,
 "lines": [
 "In the fight, Aemond lost an eye."
 ]
 },
 {
-"t0": 1396.797,
-"t1": 1400.487,
+"t0": 1400.002,
+"t1": 1403.852,
 "lines": [
 "Later, the histories say, he wore",
 "a sapphire in the empty socket."
 ]
 },
 {
-"t0": 1401.037,
-"t1": 1404.667,
+"t0": 1404.152,
+"t1": 1407.502,
 "lines": [
 "And he would say he had lost",
 "an eye, but gained a dragon."
 ]
 },
 {
-"t0": 1406.157,
-"t1": 1410.407,
+"t0": 1408.532,
+"t1": 1412.802,
 "lines": [
 "In the hundred and twenty-ninth year,",
 "King Viserys died in his sleep."
 ]
 },
 {
-"t0": 1410.717,
-"t1": 1412.267,
+"t0": 1413.092,
+"t1": 1414.912,
 "lines": [
 "The greens hid his death."
 ]
 },
 {
-"t0": 1412.577,
-"t1": 1415.177,
+"t0": 1415.242,
+"t1": 1417.602,
 "lines": [
 "While the court was kept",
 "in the dark, they crowned"
 ]
 },
 {
-"t0": 1415.217,
-"t1": 1418.807,
+"t0": 1417.642,
+"t1": 1421.012,
 "lines": [
 "Prince Aegon in the Dragonpit",
 "as King Aegon the Second."
 ]
 },
 {
-"t0": 1419.477,
-"t1": 1423.227,
+"t0": 1421.942,
+"t1": 1425.512,
 "lines": [
 "On Dragonstone, Rhaenyra",
 "was crowned as queen."
 ]
 },
 {
-"t0": 1424.077,
-"t1": 1425.487,
+"t0": 1426.042,
+"t1": 1427.232,
 "lines": [
 "Two monarchs."
 ]
 },
 {
-"t0": 1425.787,
-"t1": 1427.757,
+"t0": 1427.532,
+"t1": 1428.952,
 "lines": [
 "Two crowns."
 ]
 },
 {
-"t0": 1427.797,
-"t1": 1430.167,
+"t0": 1429.002,
+"t1": 1430.852,
 "lines": [
 "And dragons on both sides."
 ]
 },
 {
-"t0": 1430.757,
-"t1": 1432.647,
+"t0": 1431.482,
+"t1": 1433.912,
 "lines": [
 "The first death came in a storm."
 ]
 },
 {
-"t0": 1432.957,
-"t1": 1435.697,
+"t0": 1434.402,
+"t1": 1437.742,
 "lines": [
 "Rhaenyra sent her second",
 "son, Lucerys, on his young"
 ]
 },
 {
-"t0": 1435.737,
-"t1": 1438.867,
+"t0": 1437.782,
+"t1": 1440.992,
 "lines": [
 "dragon Arrax, to win the",
 "support of Storm's End."
 ]
 },
 {
-"t0": 1439.297,
-"t1": 1442.947,
+"t0": 1441.502,
+"t1": 1445.332,
 "lines": [
 "When he arrived, Aemond was",
 "already there, with Vhagar."
 ]
 },
 {
-"t0": 1443.247,
-"t1": 1445.697,
+"t0": 1445.632,
+"t1": 1449.822,
 "lines": [
-"Above Shipbreaker Bay, in a storm,"
+"Above Shipbreaker Bay, in a",
+"storm, Vhagar caught Arrax."
 ]
 },
 {
-"t0": 1446.187,
-"t1": 1447.657,
-"lines": [
-"Vhagar caught Arrax."
-]
-},
-{
-"t0": 1448.147,
-"t1": 1450.617,
+"t0": 1450.692,
+"t1": 1453.042,
 "lines": [
 "Neither the boy nor",
 "his dragon survived."
 ]
 },
 {
-"t0": 1450.987,
-"t1": 1454.237,
+"t0": 1453.712,
+"t1": 1457.242,
 "lines": [
 "The war that followed is called",
 "the Dance of the Dragons."
 ]
 },
 {
-"t0": 1454.607,
-"t1": 1457.477,
+"t0": 1457.812,
+"t1": 1460.722,
 "lines": [
 "It was the darkest chapter",
 "in the family's history."
 ]
 },
 {
-"t0": 1457.807,
-"t1": 1461.247,
+"t0": 1461.172,
+"t1": 1464.632,
 "lines": [
 "In revenge for Lucerys,",
 "two killers crept into"
 ]
 },
 {
-"t0": 1461.287,
-"t1": 1464.397,
+"t0": 1464.672,
+"t1": 1467.682,
 "lines": [
 "the Red Keep, and a",
 "child of the greens died."
 ]
 },
 {
-"t0": 1464.767,
-"t1": 1467.497,
+"t0": 1468.352,
+"t1": 1472.142,
 "lines": [
 "The histories remember them",
 "only as Blood and Cheese."
 ]
 },
 {
-"t0": 1467.907,
-"t1": 1471.337,
+"t0": 1473.412,
+"t1": 1478.192,
 "lines": [
-"At Rook's Rest, the",
-"Queen Who Never Was,"
+"At Rook's Rest, the Queen Who",
+"Never Was, Rhaenys, flew her old"
 ]
 },
 {
-"t0": 1471.607,
-"t1": 1476.727,
+"t0": 1478.232,
+"t1": 1482.782,
 "lines": [
-"Rhaenys, flew her old",
-"dragon Meleys against"
+"dragon Meleys against King Aegon",
+"on Sunfyre and Aemond on Vhagar."
 ]
 },
 {
-"t0": 1476.767,
-"t1": 1481.197,
-"lines": [
-"King Aegon on Sunfyre",
-"and Aemond on Vhagar."
-]
-},
-{
-"t0": 1481.927,
-"t1": 1483.517,
+"t0": 1483.592,
+"t1": 1484.782,
 "lines": [
 "Rhaenys fell."
 ]
 },
 {
-"t0": 1484.067,
-"t1": 1485.077,
+"t0": 1485.672,
+"t1": 1487.182,
 "lines": [
 "Aegon survived,"
 ]
 },
 {
-"t0": 1485.667,
-"t1": 1486.737,
+"t0": 1487.752,
+"t1": 1488.782,
 "lines": [
 "horribly burned."
 ]
 },
 {
-"t0": 1487.487,
-"t1": 1490.237,
+"t0": 1489.632,
+"t1": 1491.842,
 "lines": [
 "The blacks needed more dragon riders."
 ]
 },
 {
-"t0": 1490.537,
-"t1": 1494.857,
+"t0": 1492.072,
+"t1": 1496.372,
 "lines": [
 "So they searched the realm for anyone",
 "with a drop of Targaryen blood."
 ]
 },
 {
-"t0": 1494.897,
-"t1": 1497.877,
+"t0": 1497.182,
+"t1": 1498.872,
 "lines": [
 "Bastards, mostly."
 ]
 },
 {
-"t0": 1497.977,
-"t1": 1500.567,
+"t0": 1498.972,
+"t1": 1501.382,
 "lines": [
 "Smallfolk who might",
 "claim a dragon and live."
 ]
 },
 {
-"t0": 1500.897,
-"t1": 1503.407,
+"t0": 1501.892,
+"t1": 1504.162,
 "lines": [
 "The histories call",
 "them the dragonseeds."
 ]
 },
 {
-"t0": 1503.707,
-"t1": 1505.157,
+"t0": 1504.462,
+"t1": 1505.992,
 "lines": [
 "Some served with honour."
 ]
 },
 {
-"t0": 1505.727,
-"t1": 1508.927,
+"t0": 1506.422,
+"t1": 1509.902,
 "lines": [
 "A thin, dark girl named",
 "Nettles tamed a wild dragon"
 ]
 },
 {
-"t0": 1508.967,
-"t1": 1511.737,
+"t0": 1509.942,
+"t1": 1512.392,
 "lines": [
 "with nothing but patience",
 "and a sheep a day."
 ]
 },
 {
-"t0": 1512.187,
-"t1": 1514.927,
+"t0": 1512.902,
+"t1": 1515.822,
 "lines": [
 "But two dragonseeds",
 "turned traitor at the town"
 ]
 },
 {
-"t0": 1514.967,
-"t1": 1517.557,
+"t0": 1515.862,
+"t1": 1518.312,
 "lines": [
 "of Tumbleton, and",
 "handed it to the greens."
 ]
 },
 {
-"t0": 1518.227,
-"t1": 1520.607,
+"t0": 1519.182,
+"t1": 1522.122,
 "lines": [
 "In the show, the third",
 "season of House of the Dragon"
 ]
 },
 {
-"t0": 1520.647,
-"t1": 1523.977,
+"t0": 1522.162,
+"t1": 1525.652,
 "lines": [
 "ended at Tumbleton,",
 "in August twenty twenty-six."
 ]
 },
 {
-"t0": 1524.367,
-"t1": 1527.297,
+"t0": 1526.032,
+"t1": 1528.972,
 "lines": [
 "The final season is planned",
 "for twenty twenty-eight."
 ]
 },
 {
-"t0": 1528.447,
-"t1": 1532.617,
+"t0": 1529.402,
+"t1": 1533.232,
 "lines": [
 "Rhaenyra took King's Landing,",
 "and sat on the Iron Throne herself."
 ]
 },
 {
-"t0": 1533.167,
-"t1": 1535.647,
+"t0": 1533.662,
+"t1": 1536.142,
 "lines": [
 "But she was a harsh",
 "ruler, suspicious and"
 ]
 },
 {
-"t0": 1535.687,
-"t1": 1538.357,
+"t0": 1536.182,
+"t1": 1539.332,
 "lines": [
 "grieving, and the",
 "city came to hate her."
 ]
 },
 {
-"t0": 1539.087,
-"t1": 1541.507,
+"t0": 1540.002,
+"t1": 1542.482,
 "lines": [
 "One night, a mob led",
 "by a prophet called"
 ]
 },
 {
-"t0": 1541.547,
-"t1": 1543.937,
+"t0": 1542.522,
+"t1": 1544.812,
 "lines": [
 "the Shepherd stormed the Dragonpit."
 ]
 },
 {
-"t0": 1544.487,
-"t1": 1546.677,
+"t0": 1545.722,
+"t1": 1547.992,
 "lines": [
 "Dragons are terrifying",
 "in the open sky."
 ]
 },
 {
-"t0": 1547.247,
-"t1": 1549.477,
+"t0": 1548.722,
+"t1": 1550.812,
 "lines": [
 "Chained in the dark,",
 "they could be overwhelmed."
 ]
 },
 {
-"t0": 1550.187,
-"t1": 1551.897,
+"t0": 1551.562,
+"t1": 1553.212,
 "lines": [
 "Several dragons died there."
 ]
 },
 {
-"t0": 1552.447,
-"t1": 1556.877,
+"t0": 1553.602,
+"t1": 1557.892,
 "lines": [
 "Rhaenyra's youngest son, Joffrey, died",
 "trying to reach his mother's dragon."
 ]
 },
 {
-"t0": 1557.177,
-"t1": 1560.307,
+"t0": 1558.192,
+"t1": 1560.922,
 "lines": [
 "Then came the duel the",
 "singers still sing about."
 ]
 },
 {
-"t0": 1560.997,
-"t1": 1563.187,
+"t0": 1561.572,
+"t1": 1563.442,
 "lines": [
 "Prince Daemon waited at Harrenhal."
 ]
 },
 {
-"t0": 1563.877,
-"t1": 1565.907,
+"t0": 1563.852,
+"t1": 1565.822,
 "lines": [
 "Aemond came for him on Vhagar."
 ]
 },
 {
-"t0": 1566.557,
-"t1": 1570.787,
+"t0": 1566.152,
+"t1": 1570.382,
 "lines": [
 "And above the lake called the",
 "Gods Eye, the two princes met,"
 ]
 },
 {
-"t0": 1571.117,
-"t1": 1575.647,
+"t0": 1570.672,
+"t1": 1575.222,
 "lines": [
 "Caraxes against Vhagar, the Blood",
 "Wyrm against the oldest dragon alive."
 ]
 },
 {
-"t0": 1576.237,
-"t1": 1579.997,
+"t0": 1575.932,
+"t1": 1577.962,
 "lines": [
-"When Vhagar seized his dragon,",
-"Daemon leapt from Caraxes"
+"When Vhagar seized his dragon,"
 ]
 },
 {
-"t0": 1580.037,
-"t1": 1584.147,
+"t0": 1578.412,
+"t1": 1581.252,
 "lines": [
-"onto Vhagar's back, with",
-"Dark Sister in his hand."
+"Daemon leapt from Caraxes",
+"onto Vhagar's back,"
 ]
 },
 {
-"t0": 1584.637,
-"t1": 1588.327,
+"t0": 1581.292,
+"t1": 1583.462,
+"lines": [
+"with Dark Sister in his hand."
+]
+},
+{
+"t0": 1583.852,
+"t1": 1588.002,
 "lines": [
 "The histories say he drove it",
 "home through Aemond's empty eye."
 ]
 },
 {
-"t0": 1589.137,
-"t1": 1594.267,
+"t0": 1588.792,
+"t1": 1594.182,
 "lines": [
 "Then all of them, two princes and two",
 "dragons, fell together into the lake."
 ]
 },
 {
-"t0": 1595.477,
-"t1": 1599.007,
+"t0": 1594.772,
+"t1": 1598.042,
 "lines": [
 "Rhaenyra fled the city",
 "and sailed to Dragonstone,"
 ]
 },
 {
-"t0": 1599.177,
-"t1": 1601.107,
+"t0": 1598.232,
+"t1": 1600.062,
 "lines": [
 "hoping to find safety there."
 ]
 },
 {
-"t0": 1601.207,
-"t1": 1605.457,
+"t0": 1600.162,
+"t1": 1604.392,
 "lines": [
 "King Aegon the Second was waiting",
 "for her, with his dragon Sunfyre."
 ]
 },
 {
-"t0": 1605.757,
-"t1": 1607.777,
+"t0": 1604.692,
+"t1": 1606.712,
 "lines": [
 "He gave his half-sister to the dragon,"
 ]
 },
 {
-"t0": 1607.817,
-"t1": 1611.447,
+"t0": 1606.752,
+"t1": 1610.382,
 "lines": [
 "and her young son, also named",
 "Aegon, was made to watch."
 ]
 },
 {
-"t0": 1612.297,
-"t1": 1615.267,
+"t0": 1611.232,
+"t1": 1614.202,
 "lines": [
 "Aegon the Second did not",
 "enjoy his victory for long."
 ]
 },
 {
-"t0": 1615.617,
-"t1": 1618.807,
+"t0": 1614.552,
+"t1": 1617.742,
 "lines": [
 "Within the year, his own",
 "lords poisoned his wine."
 ]
 },
 {
-"t0": 1619.137,
-"t1": 1620.407,
+"t0": 1618.052,
+"t1": 1619.342,
 "lines": [
 "The war was over."
 ]
 },
 {
-"t0": 1620.707,
-"t1": 1622.297,
+"t0": 1619.642,
+"t1": 1621.252,
 "lines": [
 "And everyone had lost."
 ]
 },
 {
-"t0": 1623.247,
-"t1": 1627.157,
+"t0": 1622.202,
+"t1": 1626.132,
 "lines": [
 "In the books, the Dance killed",
 "most of the royal family,"
 ]
 },
 {
-"t0": 1627.447,
-"t1": 1629.937,
+"t0": 1626.402,
+"t1": 1628.892,
 "lines": [
 "and nearly every dragon in the realm."
 ]
 },
 {
-"t0": 1630.407,
-"t1": 1633.387,
+"t0": 1629.342,
+"t1": 1632.342,
 "lines": [
 "A house that had begun",
 "the war with more dragons"
 ]
 },
 {
-"t0": 1633.427,
-"t1": 1636.277,
+"t0": 1632.382,
+"t1": 1635.232,
 "lines": [
 "than ever before ended",
 "it with a handful."
 ]
 },
 {
-"t0": 1636.707,
-"t1": 1640.337,
+"t0": 1635.542,
+"t1": 1639.292,
 "lines": [
 "And the boy who had watched",
 "his mother die became king."
 ]
 },
 {
-"t0": 1642.84,
-"t1": 1645.65,
+"t0": 1641.794,
+"t1": 1644.565,
 "lines": [
 "The new king was Aegon the Third."
 ]
 },
 {
-"t0": 1646.14,
-"t1": 1648.41,
+"t0": 1645.075,
+"t1": 1647.345,
 "lines": [
 "He was only a boy when he was crowned,"
 ]
 },
 {
-"t0": 1648.54,
-"t1": 1651.67,
+"t0": 1647.475,
+"t1": 1650.605,
 "lines": [
 "and the histories say he",
 "was never young again."
 ]
 },
 {
-"t0": 1652.18,
-"t1": 1654.39,
+"t0": 1651.115,
+"t1": 1653.325,
 "lines": [
 "He was melancholy and withdrawn."
 ]
 },
 {
-"t0": 1654.78,
-"t1": 1656.11,
+"t0": 1653.715,
+"t1": 1655.024,
 "lines": [
 "He rarely smiled."
 ]
 },
 {
-"t0": 1656.6,
-"t1": 1659.73,
+"t0": 1655.534,
+"t1": 1658.405,
 "lines": [
 "He hated dragons,",
 "after what he had seen."
 ]
 },
 {
-"t0": 1659.77,
-"t1": 1663.16,
+"t0": 1658.835,
+"t1": 1661.544,
 "lines": [
 "The realm called him the Broken King."
 ]
 },
 {
-"t0": 1663.46,
-"t1": 1665.63,
+"t0": 1661.845,
+"t1": 1664.014,
 "lines": [
 "And they called him",
 "by another name too:"
 ]
 },
 {
-"t0": 1666.16,
-"t1": 1668.09,
+"t0": 1664.565,
+"t1": 1666.475,
 "lines": [
 "Aegon the Dragonbane."
 ]
 },
 {
-"t0": 1668.64,
-"t1": 1672.31,
+"t0": 1667.125,
+"t1": 1670.675,
 "lines": [
 "Because during his reign,",
 "the last dragons died."
 ]
 },
 {
-"t0": 1672.86,
-"t1": 1676.69,
+"t0": 1671.284,
+"t1": 1675.075,
 "lines": [
 "The last of them was a small,",
 "sickly green female,"
 ]
 },
 {
-"t0": 1676.82,
-"t1": 1680.73,
+"t0": 1675.205,
+"t1": 1679.115,
 "lines": [
 "who died in the hundred and",
 "fifty-third year after the Conquest."
 ]
 },
 {
-"t0": 1681.58,
-"t1": 1685.89,
+"t0": 1680.005,
+"t1": 1684.255,
 "lines": [
 "And with her, the age of dragons",
 "in Westeros seemed to end."
 ]
 },
 {
-"t0": 1686.8,
-"t1": 1688.49,
+"t0": 1685.165,
+"t1": 1686.585,
 "lines": [
 "Aegon tried to bring them back."
 ]
 },
 {
-"t0": 1688.79,
-"t1": 1693.42,
+"t0": 1686.625,
+"t1": 1692.225,
 "lines": [
 "He sent for mages from the east, nine",
 "of them, to hatch the remaining eggs."
 ]
 },
 {
-"t0": 1694.05,
-"t1": 1695.52,
+"t0": 1692.855,
+"t1": 1694.325,
 "lines": [
 "All nine failed."
 ]
 },
 {
-"t0": 1695.83,
-"t1": 1700.78,
+"t0": 1694.635,
+"t1": 1699.585,
 "lines": [
 "No dragon would be born in the world",
 "for nearly a hundred and fifty years."
 ]
 },
 {
-"t0": 1701.81,
-"t1": 1705.1,
+"t0": 1700.615,
+"t1": 1703.905,
 "lines": [
 "Aegon's son Daeron was the",
 "opposite of his father."
 ]
 },
 {
-"t0": 1705.51,
-"t1": 1708.48,
+"t0": 1704.315,
+"t1": 1707.284,
 "lines": [
 "Bold, bright and hungry for glory."
 ]
 },
 {
-"t0": 1709.43,
-"t1": 1710.62,
+"t0": 1708.235,
+"t1": 1709.425,
 "lines": [
 "At fourteen,"
 ]
 },
 {
-"t0": 1711.23,
-"t1": 1713.81,
+"t0": 1710.034,
+"t1": 1712.615,
 "lines": [
 "King Daeron the First",
 "set out to finish the"
 ]
 },
 {
-"t0": 1713.85,
-"t1": 1716.98,
+"t0": 1712.655,
+"t1": 1715.784,
 "lines": [
 "one thing Aegon the",
 "Conqueror never could."
 ]
 },
 {
-"t0": 1717.08,
-"t1": 1718.96,
+"t0": 1715.884,
+"t1": 1717.764,
 "lines": [
 "He conquered Dorne."
 ]
 },
 {
-"t0": 1719.0,
-"t1": 1720.7,
+"t0": 1717.804,
+"t1": 1719.504,
 "lines": [
 "Without a single dragon."
 ]
 },
 {
-"t0": 1721.13,
-"t1": 1724.06,
+"t0": 1719.914,
+"t1": 1722.864,
 "lines": [
 "He marched through the",
 "mountain passes, took Sunspear,"
 ]
 },
 {
-"t0": 1724.25,
-"t1": 1726.84,
+"t0": 1723.074,
+"t1": 1725.644,
 "lines": [
 "and wrote a famous account",
 "of his own victory."
 ]
 },
 {
-"t0": 1727.25,
-"t1": 1729.12,
+"t0": 1726.054,
+"t1": 1727.944,
 "lines": [
 "The Conquest of Dorne."
 ]
 },
 {
-"t0": 1729.42,
-"t1": 1731.37,
+"t0": 1728.244,
+"t1": 1730.174,
 "lines": [
 "But Dorne had not truly bent."
 ]
 },
 {
-"t0": 1731.76,
-"t1": 1736.65,
+"t0": 1730.564,
+"t1": 1735.474,
 "lines": [
 "It rose again behind him, and within",
 "a few years, the young king was dead,"
 ]
 },
 {
-"t0": 1736.84,
-"t1": 1741.07,
+"t0": 1735.664,
+"t1": 1739.874,
 "lines": [
 "struck down under a banner of peace,",
 "at just eighteen years old."
 ]
 },
 {
-"t0": 1741.4,
-"t1": 1744.02,
+"t0": 1740.204,
+"t1": 1742.824,
 "lines": [
 "The histories say tens",
 "of thousands died to"
 ]
 },
 {
-"t0": 1744.06,
-"t1": 1746.93,
+"t0": 1742.864,
+"t1": 1745.734,
 "lines": [
 "win Dorne, and keep it",
 "for a single summer."
 ]
 },
 {
-"t0": 1747.44,
-"t1": 1749.46,
+"t0": 1746.244,
+"t1": 1748.274,
 "lines": [
 "His brother Baelor took the throne,"
 ]
 },
 {
-"t0": 1749.5,
-"t1": 1752.23,
+"t0": 1748.364,
+"t1": 1751.034,
 "lines": [
 "and the realm had never",
 "seen a king like him."
 ]
 },
 {
-"t0": 1753.04,
-"t1": 1755.59,
+"t0": 1751.844,
+"t1": 1754.414,
 "lines": [
 "Baelor the Blessed was a",
 "septon as well as a king."
 ]
 },
 {
-"t0": 1755.94,
-"t1": 1758.91,
+"t0": 1754.744,
+"t1": 1757.714,
 "lines": [
 "He walked barefoot all the",
 "way to Dorne to make peace."
 ]
 },
 {
-"t0": 1759.58,
-"t1": 1762.84,
+"t0": 1758.384,
+"t1": 1761.624,
 "lines": [
 "Along the way, he learned that",
 "his cousin, Prince Aemon the"
 ]
 },
 {
-"t0": 1762.88,
-"t1": 1766.93,
+"t0": 1761.664,
+"t1": 1765.734,
 "lines": [
 "Dragonknight, was being held in",
 "a cage above a pit of vipers."
 ]
 },
 {
-"t0": 1767.78,
-"t1": 1770.37,
+"t0": 1766.584,
+"t1": 1769.174,
 "lines": [
 "Baelor walked straight",
 "into the pit to free him."
 ]
 },
 {
-"t0": 1770.67,
-"t1": 1774.3,
+"t0": 1769.474,
+"t1": 1773.104,
 "lines": [
 "The singers say the vipers",
 "bowed their heads to him."
 ]
 },
 {
-"t0": 1774.34,
-"t1": 1777.55,
+"t0": 1773.144,
+"t1": 1776.334,
 "lines": [
 "The histories say he",
 "was bitten many times,"
 ]
 },
 {
-"t0": 1777.8,
-"t1": 1780.19,
+"t0": 1776.604,
+"t1": 1778.974,
 "lines": [
 "and Aemon had to carry",
 "him out on his back."
 ]
 },
 {
-"t0": 1781.06,
-"t1": 1782.06,
+"t0": 1779.864,
+"t1": 1780.864,
 "lines": [
 "Baelor survived."
 ]
 },
 {
-"t0": 1782.56,
-"t1": 1784.91,
+"t0": 1781.324,
+"t1": 1783.714,
 "lines": [
 "And he came home stranger than ever."
 ]
 },
 {
-"t0": 1785.52,
-"t1": 1789.14,
+"t0": 1784.344,
+"t1": 1787.944,
 "lines": [
 "He shut his three sisters away",
 "in a tower of the Red Keep,"
 ]
 },
 {
-"t0": 1789.18,
-"t1": 1791.71,
+"t0": 1787.984,
+"t1": 1790.514,
 "lines": [
 "so they would not tempt",
 "the men of the court."
 ]
 },
 {
-"t0": 1792.62,
-"t1": 1794.79,
+"t0": 1791.424,
+"t1": 1793.594,
 "lines": [
 "It was called the Maidenvault."
 ]
 },
 {
-"t0": 1795.64,
-"t1": 1800.11,
+"t0": 1794.424,
+"t1": 1798.914,
 "lines": [
 "He built the Great Sept of Baelor,",
 "with its seven crystal towers."
 ]
 },
 {
-"t0": 1800.76,
-"t1": 1804.49,
+"t0": 1799.384,
+"t1": 1803.294,
 "lines": [
 "In the show, Cersei Lannister",
 "blows it up with wildfire."
 ]
 },
 {
-"t0": 1804.8,
-"t1": 1806.97,
+"t0": 1803.604,
+"t1": 1805.774,
 "lines": [
 "In the books, it still stands."
 ]
 },
 {
-"t0": 1807.98,
-"t1": 1811.47,
+"t0": 1806.784,
+"t1": 1810.274,
 "lines": [
 "Baelor died after a long",
 "fast, still praying."
 ]
 },
 {
-"t0": 1812.36,
-"t1": 1814.99,
+"t0": 1811.164,
+"t1": 1813.794,
 "lines": [
 "Then came the worst king of all."
 ]
 },
 {
-"t0": 1815.76,
-"t1": 1817.99,
+"t0": 1814.564,
+"t1": 1816.794,
 "lines": [
 "His name was Aegon the Fourth."
 ]
 },
 {
-"t0": 1818.36,
-"t1": 1821.59,
+"t0": 1817.164,
+"t1": 1820.394,
 "lines": [
 "And the histories call",
 "him Aegon the Unworthy."
 ]
 },
 {
-"t0": 1822.36,
-"t1": 1825.21,
+"t0": 1821.164,
+"t1": 1824.014,
 "lines": [
 "He was greedy, lazy, and vain."
 ]
 },
 {
-"t0": 1825.31,
-"t1": 1829.32,
+"t0": 1824.114,
+"t1": 1828.124,
 "lines": [
 "He took mistress after mistress, and",
 "fathered bastards across the realm."
 ]
 },
 {
-"t0": 1829.67,
-"t1": 1833.54,
+"t0": 1828.474,
+"t1": 1832.344,
 "lines": [
 "He tried to build wooden dragons",
 "to invade Dorne, and they burned."
 ]
 },
 {
-"t0": 1833.97,
-"t1": 1836.54,
+"t0": 1832.774,
+"t1": 1835.344,
 "lines": [
 "But his worst act",
 "came on his deathbed."
 ]
 },
 {
-"t0": 1836.84,
-"t1": 1839.13,
+"t0": 1835.644,
+"t1": 1837.934,
 "lines": [
 "He legitimized all of his bastards."
 ]
 },
 {
-"t0": 1839.43,
-"t1": 1841.32,
+"t0": 1838.234,
+"t1": 1840.104,
 "lines": [
 "Every one of them, at once."
 ]
 },
 {
-"t0": 1841.77,
-"t1": 1845.2,
+"t0": 1840.554,
+"t1": 1843.984,
 "lines": [
 "And years earlier, he had done",
 "something even more dangerous."
 ]
 },
 {
-"t0": 1845.57,
-"t1": 1849.86,
+"t0": 1844.374,
+"t1": 1848.644,
 "lines": [
 "He had given the sword Blackfyre,",
 "the sword of Aegon the Conqueror,"
 ]
 },
 {
-"t0": 1850.01,
-"t1": 1855.36,
+"t0": 1848.794,
+"t1": 1854.144,
 "lines": [
 "not to his heir, but to his favourite",
 "bastard son, a young man named Daemon."
 ]
 },
 {
-"t0": 1855.77,
-"t1": 1858.27,
+"t0": 1854.554,
+"t1": 1857.054,
 "lines": [
 "In one stroke of a",
 "quill, he planted the"
 ]
 },
 {
-"t0": 1858.31,
-"t1": 1861.32,
+"t0": 1857.094,
+"t1": 1860.104,
 "lines": [
 "seed of a war that",
 "would last sixty years."
 ]
 },
 {
-"t0": 1863.94,
-"t1": 1866.87,
+"t0": 1862.724,
+"t1": 1865.694,
 "lines": [
 "The next king, Daeron the",
 "Second, was a scholar."
 ]
 },
 {
-"t0": 1867.64,
-"t1": 1869.35,
+"t0": 1866.484,
+"t1": 1868.194,
 "lines": [
 "Gentle, wise, and bookish."
 ]
 },
 {
-"t0": 1869.44,
-"t1": 1871.66,
+"t0": 1868.284,
+"t1": 1870.504,
 "lines": [
 "He was called Daeron the Good."
 ]
 },
 {
-"t0": 1871.96,
-"t1": 1875.39,
+"t0": 1870.804,
+"t1": 1874.214,
 "lines": [
 "And he finally did what",
 "no dragon or army could."
 ]
 },
 {
-"t0": 1875.69,
-"t1": 1877.52,
+"t0": 1874.514,
+"t1": 1876.344,
 "lines": [
 "He brought Dorne into the realm."
 ]
 },
 {
-"t0": 1877.83,
-"t1": 1879.14,
+"t0": 1876.644,
+"t1": 1877.974,
 "lines": [
 "Not with fire."
 ]
 },
 {
-"t0": 1879.44,
-"t1": 1880.44,
+"t0": 1878.274,
+"t1": 1879.274,
 "lines": [
 "With marriage."
 ]
 },
 {
-"t0": 1880.65,
-"t1": 1882.92,
+"t0": 1879.464,
+"t1": 1881.714,
 "lines": [
 "His sister wed the Prince of Dorne,"
 ]
 },
 {
-"t0": 1883.19,
-"t1": 1886.32,
+"t0": 1881.984,
+"t1": 1885.114,
 "lines": [
 "and Dorne joined the",
 "Seven Kingdoms in peace."
 ]
 },
 {
-"t0": 1886.63,
-"t1": 1888.72,
+"t0": 1885.424,
+"t1": 1887.514,
 "lines": [
 "But many lords hated it."
 ]
 },
 {
-"t0": 1889.03,
-"t1": 1890.94,
+"t0": 1887.814,
+"t1": 1889.744,
 "lines": [
 "They hated the Dornish at court."
 ]
 },
 {
-"t0": 1891.11,
-"t1": 1892.87,
+"t0": 1889.914,
+"t1": 1891.674,
 "lines": [
 "They hated the king's books."
 ]
 },
 {
-"t0": 1893.52,
-"t1": 1897.24,
+"t0": 1892.324,
+"t1": 1896.064,
 "lines": [
 "And they whispered that Daeron",
 "was not really Aegon the Fourth's"
 ]
 },
 {
-"t0": 1897.28,
-"t1": 1901.85,
+"t0": 1896.104,
+"t1": 1900.634,
 "lines": [
 "son at all, but the son of the",
 "queen and the Dragonknight."
 ]
 },
 {
-"t0": 1902.78,
-"t1": 1907.67,
+"t0": 1901.564,
+"t1": 1906.474,
 "lines": [
 "And there was another man in the",
 "realm who looked far more like a king."
 ]
 },
 {
-"t0": 1908.3,
-"t1": 1912.39,
+"t0": 1907.104,
+"t1": 1908.714,
 "lines": [
-"Daemon was tall, strong,",
-"and a famous warrior."
+"Daemon was tall,"
 ]
 },
 {
-"t0": 1912.9,
-"t1": 1916.33,
+"t0": 1909.164,
+"t1": 1911.194,
+"lines": [
+"strong, and a famous warrior."
+]
+},
+{
+"t0": 1911.724,
+"t1": 1915.134,
 "lines": [
 "He carried Blackfyre,",
 "the Conqueror's own sword."
 ]
 },
 {
-"t0": 1917.24,
-"t1": 1918.59,
+"t0": 1916.044,
+"t1": 1917.394,
 "lines": [
 "Knights loved him."
 ]
 },
 {
-"t0": 1919.0,
-"t1": 1920.27,
+"t0": 1917.824,
+"t1": 1919.074,
 "lines": [
 "And he had a claim."
 ]
 },
 {
-"t0": 1920.78,
-"t1": 1922.33,
+"t0": 1919.584,
+"t1": 1921.134,
 "lines": [
 "He took a new name:"
 ]
 },
 {
-"t0": 1922.96,
-"t1": 1924.65,
+"t0": 1921.744,
+"t1": 1923.454,
 "lines": [
 "Daemon Blackfyre."
 ]
 },
 {
-"t0": 1924.95,
-"t1": 1927.6,
+"t0": 1923.754,
+"t1": 1926.404,
 "lines": [
 "And he reversed the Targaryen colours."
 ]
 },
 {
-"t0": 1927.91,
-"t1": 1930.98,
+"t0": 1926.734,
+"t1": 1929.784,
 "lines": [
 "Where the true king flew",
 "a red dragon on black,"
 ]
 },
 {
-"t0": 1931.45,
-"t1": 1933.83,
+"t0": 1930.254,
+"t1": 1932.634,
 "lines": [
 "Daemon flew a black dragon on red."
 ]
 },
 {
-"t0": 1933.87,
-"t1": 1937.51,
+"t0": 1932.674,
+"t1": 1936.314,
 "lines": [
 "In the hundred and ninety-sixth year,"
 ]
 },
 {
-"t0": 1938.0,
-"t1": 1938.87,
+"t0": 1936.824,
+"t1": 1937.674,
 "lines": [
 "he rose."
 ]
 },
 {
-"t0": 1938.91,
-"t1": 1942.8,
+"t0": 1937.714,
+"t1": 1941.624,
 "lines": [
 "The decisive battle was fought",
 "at a place called Redgrass Field."
 ]
 },
 {
-"t0": 1943.31,
-"t1": 1946.1,
+"t0": 1942.114,
+"t1": 1944.904,
 "lines": [
 "On one side, the Black",
 "Dragon and his knights."
 ]
 },
 {
-"t0": 1946.51,
-"t1": 1948.4,
+"t0": 1945.314,
+"t1": 1947.204,
 "lines": [
 "On the other, the king's men."
 ]
 },
 {
-"t0": 1948.71,
-"t1": 1952.38,
+"t0": 1947.514,
+"t1": 1951.184,
 "lines": [
 "And among the king's men was another",
 "of Aegon the Fourth's bastards."
 ]
 },
 {
-"t0": 1952.71,
-"t1": 1957.82,
+"t0": 1951.514,
+"t1": 1956.624,
 "lines": [
 "A pale, strange young man, an albino,",
 "with white hair and red eyes."
 ]
 },
 {
-"t0": 1958.41,
-"t1": 1962.72,
+"t0": 1957.214,
+"t1": 1961.544,
 "lines": [
 "His name was Brynden Rivers, but",
 "the realm would call him Bloodraven."
 ]
 },
 {
-"t0": 1963.63,
-"t1": 1965.26,
+"t0": 1962.424,
+"t1": 1964.064,
 "lines": [
 "Bloodraven commanded the archers."
 ]
 },
 {
-"t0": 1965.56,
-"t1": 1968.03,
+"t0": 1964.364,
+"t1": 1966.834,
 "lines": [
 "They called themselves",
 "the Raven's Teeth."
 ]
 },
 {
-"t0": 1968.42,
-"t1": 1971.7,
+"t0": 1967.224,
+"t1": 1969.314,
 "lines": [
-"When Daemon Blackfyre charged,",
-"Bloodraven's arrows"
+"When Daemon Blackfyre charged,"
 ]
 },
 {
-"t0": 1971.74,
-"t1": 1975.01,
+"t0": 1969.784,
+"t1": 1973.794,
 "lines": [
-"found him, and both of",
-"his twin sons with him."
+"Bloodraven's arrows found him,",
+"and both of his twin sons with him."
 ]
 },
 {
-"t0": 1975.66,
-"t1": 1979.63,
+"t0": 1974.444,
+"t1": 1978.434,
 "lines": [
 "The royal princes Baelor Breakspear",
 "and Maekar crushed the rest."
 ]
 },
 {
-"t0": 1980.32,
-"t1": 1983.35,
+"t0": 1979.124,
+"t1": 1982.154,
 "lines": [
 "But the dream of the",
 "black dragon did not die."
 ]
 },
 {
-"t0": 1984.04,
-"t1": 1987.96,
+"t0": 1982.844,
+"t1": 1986.764,
 "lines": [
 "Daemon's half-brother, Bittersteel,",
 "fled across the narrow sea,"
 ]
 },
 {
-"t0": 1988.0,
-"t1": 1990.74,
+"t0": 1986.804,
+"t1": 1989.544,
 "lines": [
 "and founded a company",
 "of exiles that would"
 ]
 },
 {
-"t0": 1990.78,
-"t1": 1993.87,
+"t0": 1989.584,
+"t1": 1992.674,
 "lines": [
 "become the most famous",
 "sellsword army in the world."
 ]
 },
 {
-"t0": 1994.17,
-"t1": 1995.17,
+"t0": 1992.974,
+"t1": 1994.504,
 "lines": [
 "The Golden Company."
 ]
 },
 {
-"t0": 1995.21,
-"t1": 2000.47,
+"t0": 1994.544,
+"t1": 1999.274,
 "lines": [
 "For sixty years, the Blackfyres",
 "would rise again and again."
 ]
 },
 {
-"t0": 2000.86,
-"t1": 2002.87,
+"t0": 1999.664,
+"t1": 2001.674,
 "lines": [
 "Five rebellions in all."
 ]
 },
 {
-"t0": 2003.17,
-"t1": 2006.78,
+"t0": 2001.984,
+"t1": 2005.574,
 "lines": [
 "The last of them ended in the",
 "two hundred and sixtieth year,"
 ]
 },
 {
-"t0": 2006.89,
-"t1": 2009.33,
+"t0": 2005.684,
+"t1": 2008.124,
 "lines": [
 "when a young knight",
 "named Barristan Selmy"
 ]
 },
 {
-"t0": 2009.37,
-"t1": 2013.54,
+"t0": 2008.164,
+"t1": 2012.334,
 "lines": [
 "killed the last Blackfyre",
 "pretender in single combat."
 ]
 },
 {
-"t0": 2014.55,
-"t1": 2015.92,
+"t0": 2013.324,
+"t1": 2014.714,
 "lines": [
 "And Bloodraven?"
 ]
 },
 {
-"t0": 2016.27,
-"t1": 2018.56,
+"t0": 2015.044,
+"t1": 2017.354,
 "lines": [
 "He became the Hand of the King."
 ]
 },
 {
-"t0": 2018.95,
-"t1": 2021.12,
+"t0": 2017.744,
+"t1": 2019.914,
 "lines": [
 "The most feared man in the realm."
 ]
 },
 {
-"t0": 2021.42,
-"t1": 2025.33,
+"t0": 2020.214,
+"t1": 2024.124,
 "lines": [
 "A sorcerer, people whispered,",
 "with spies everywhere."
 ]
 },
 {
-"t0": 2025.9,
-"t1": 2028.23,
+"t0": 2024.694,
+"t1": 2027.044,
 "lines": [
 "There was a riddle in those years."
 ]
 },
 {
-"t0": 2028.78,
-"t1": 2031.55,
+"t0": 2027.554,
+"t1": 2030.324,
 "lines": [
 "How many eyes does",
 "Lord Bloodraven have?"
 ]
 },
 {
-"t0": 2032.46,
-"t1": 2035.13,
+"t0": 2031.254,
+"t1": 2033.924,
 "lines": [
 "A thousand eyes, and one."
 ]
 },
 {
-"t0": 2035.86,
-"t1": 2038.383,
+"t0": 2034.654,
+"t1": 2037.178,
 "lines": [
 "A great sickness swept",
 "the realm in the year two"
 ]
 },
 {
-"t0": 2038.423,
-"t1": 2042.41,
+"t0": 2037.218,
+"t1": 2041.264,
 "lines": [
 "hundred and nine and took",
 "King Daeron the Good with it."
 ]
 },
 {
-"t0": 2043.18,
-"t1": 2047.69,
+"t0": 2041.974,
+"t1": 2046.484,
 "lines": [
 "Years later, Bloodraven was",
 "arrested, and sent to the Wall."
 ]
 },
 {
-"t0": 2047.79,
-"t1": 2050.28,
+"t0": 2046.584,
+"t1": 2049.074,
 "lines": [
 "He became Lord Commander",
 "of the Night's Watch."
 ]
 },
 {
-"t0": 2050.61,
-"t1": 2054.36,
+"t0": 2049.424,
+"t1": 2053.154,
 "lines": [
 "And then one day, he rode",
 "beyond the Wall and vanished."
 ]
 },
 {
-"t0": 2055.19,
-"t1": 2058.48,
+"t0": 2053.984,
+"t1": 2057.274,
 "lines": [
 "If you watched our last episode,",
 "you know where he went."
 ]
 },
 {
-"t0": 2058.93,
-"t1": 2062.37,
+"t0": 2057.724,
+"t1": 2061.184,
 "lines": [
 "In the books, Bran Stark",
 "finds him deep beneath a hill,"
 ]
 },
 {
-"t0": 2062.41,
-"t1": 2067.58,
+"t0": 2061.224,
+"t1": 2066.374,
 "lines": [
 "wound into the roots of a weirwood,",
 "still watching, with his one red eye."
 ]
 },
 {
-"t0": 2070.2,
-"t1": 2073.65,
+"t0": 2068.994,
+"t1": 2072.154,
 "lines": [
 "Now the story comes to a",
 "small boy with a shaved head."
 ]
 },
 {
-"t0": 2073.98,
-"t1": 2075.51,
+"t0": 2072.194,
+"t1": 2074.854,
 "lines": [
 "He was called Egg."
 ]
 },
 {
-"t0": 2076.26,
-"t1": 2079.9,
+"t0": 2075.604,
+"t1": 2079.244,
 "lines": [
 "A fourth son of a fourth son,",
 "so far from the throne"
 ]
 },
 {
-"t0": 2079.94,
-"t1": 2082.65,
+"t0": 2079.284,
+"t1": 2081.994,
 "lines": [
 "that nobody thought of",
 "him as a prince at all."
 ]
 },
 {
-"t0": 2083.04,
-"t1": 2087.94,
+"t0": 2082.404,
+"t1": 2087.284,
 "lines": [
 "As a boy, he shaved his head to hide",
 "his Targaryen hair, and served as"
 ]
 },
 {
-"t0": 2087.98,
-"t1": 2093.17,
+"t0": 2087.324,
+"t1": 2092.514,
 "lines": [
 "squire to a huge, kind, poor hedge",
 "knight named Ser Duncan the Tall."
 ]
 },
 {
-"t0": 2093.86,
-"t1": 2099.15,
+"t0": 2093.204,
+"t1": 2098.494,
 "lines": [
 "Their adventures are told in the books",
 "in three short tales of Dunk and Egg."
 ]
 },
 {
-"t0": 2099.9,
-"t1": 2102.75,
+"t0": 2098.784,
+"t1": 2102.014,
 "lines": [
 "And they are now a",
 "television series too:"
 ]
 },
 {
-"t0": 2103.24,
-"t1": 2105.07,
+"t0": 2102.504,
+"t1": 2104.334,
 "lines": [
 "A Knight of the Seven Kingdoms."
 ]
 },
 {
-"t0": 2105.66,
-"t1": 2109.05,
+"t0": 2104.924,
+"t1": 2108.314,
 "lines": [
 "But nobody could have guessed",
 "where Egg would end up."
 ]
 },
 {
-"t0": 2109.35,
-"t1": 2111.64,
+"t0": 2108.614,
+"t1": 2110.614,
 "lines": [
 "In the two hundred",
 "and thirty-third year,"
 ]
 },
 {
-"t0": 2111.77,
-"t1": 2113.7,
+"t0": 2110.654,
+"t1": 2112.984,
 "lines": [
 "the realm needed a new king again."
 ]
 },
 {
-"t0": 2114.15,
-"t1": 2116.2,
+"t0": 2113.434,
+"t1": 2115.484,
 "lines": [
 "Another Great Council was called."
 ]
 },
 {
-"t0": 2116.65,
-"t1": 2120.8,
+"t0": 2115.914,
+"t1": 2120.064,
 "lines": [
 "The crown was first offered",
 "to Egg's older brother, Aemon."
 ]
 },
 {
-"t0": 2121.45,
-"t1": 2124.34,
+"t0": 2120.714,
+"t1": 2123.624,
 "lines": [
 "But Aemon had already",
 "chosen a different life."
 ]
 },
 {
-"t0": 2124.65,
-"t1": 2128.44,
+"t0": 2123.914,
+"t1": 2127.714,
 "lines": [
 "He had forged a maester's",
 "chain, and taken vows."
 ]
 },
 {
-"t0": 2128.87,
-"t1": 2130.32,
+"t0": 2128.144,
+"t1": 2129.614,
 "lines": [
 "He refused."
 ]
 },
 {
-"t0": 2132.13,
-"t1": 2134.26,
+"t0": 2131.404,
+"t1": 2133.534,
 "lines": [
 "So the lords turned to Egg."
 ]
 },
 {
-"t0": 2135.01,
-"t1": 2137.4,
+"t0": 2134.284,
+"t1": 2136.694,
 "lines": [
 "He became King Aegon the Fifth."
 ]
 },
 {
-"t0": 2137.91,
-"t1": 2141.2,
+"t0": 2137.204,
+"t1": 2140.494,
 "lines": [
 "The realm called him",
 "Aegon the Unlikely."
 ]
 },
 {
-"t0": 2141.53,
-"t1": 2144.83,
+"t0": 2140.924,
+"t1": 2144.124,
 "lines": [
 "And Aemon, so that",
 "no one could ever use"
 ]
 },
 {
-"t0": 2144.87,
-"t1": 2148.02,
+"t0": 2144.164,
+"t1": 2147.314,
 "lines": [
 "him against his brother,",
 "went to the Wall."
 ]
 },
 {
-"t0": 2148.63,
-"t1": 2150.65,
+"t0": 2147.924,
+"t1": 2149.944,
 "lines": [
 "He would serve the",
 "Night's Watch as its"
 ]
 },
 {
-"t0": 2150.69,
-"t1": 2153.1,
+"t0": 2149.984,
+"t1": 2152.394,
 "lines": [
 "maester for the rest of his long life."
 ]
 },
 {
-"t0": 2153.67,
-"t1": 2156.59,
+"t0": 2152.964,
+"t1": 2155.884,
 "lines": [
 "In the first book, he is the blind old"
 ]
 },
 {
-"t0": 2156.63,
-"t1": 2159.98,
+"t0": 2155.924,
+"t1": 2159.274,
 "lines": [
 "man at Castle Black",
 "who teaches Jon Snow."
 ]
 },
 {
-"t0": 2160.69,
-"t1": 2164.26,
+"t0": 2159.984,
+"t1": 2163.554,
 "lines": [
 "Very few at the Wall even",
 "know he is a Targaryen."
 ]
 },
 {
-"t0": 2164.36,
-"t1": 2167.63,
+"t0": 2163.654,
+"t1": 2166.944,
 "lines": [
 "Egg had spent his boyhood on",
 "the roads with a hedge knight."
 ]
 },
 {
-"t0": 2167.93,
-"t1": 2172.54,
+"t0": 2167.244,
+"t1": 2171.874,
 "lines": [
 "He had slept in ditches and inns, and",
 "he had seen how the smallfolk lived."
 ]
 },
 {
-"t0": 2172.99,
-"t1": 2175.18,
+"t0": 2172.324,
+"t1": 2174.514,
 "lines": [
 "As king, he tried to help them."
 ]
 },
 {
-"t0": 2175.48,
-"t1": 2177.81,
+"t0": 2174.814,
+"t1": 2177.124,
 "lines": [
 "The great lords fought",
 "him at every turn."
 ]
 },
 {
-"t0": 2178.36,
-"t1": 2181.95,
+"t0": 2177.714,
+"t1": 2181.264,
 "lines": [
 "Ser Duncan the Tall became the",
 "Lord Commander of his Kingsguard."
 ]
 },
 {
-"t0": 2182.64,
-"t1": 2184.73,
+"t0": 2181.954,
+"t1": 2184.044,
 "lines": [
 "And Egg dreamed of one more thing."
 ]
 },
 {
-"t0": 2185.08,
-"t1": 2186.55,
+"t0": 2184.414,
+"t1": 2185.884,
 "lines": [
 "He dreamed of dragons."
 ]
 },
 {
-"t0": 2187.3,
-"t1": 2190.52,
+"t0": 2186.614,
+"t1": 2189.834,
 "lines": [
 "In the two hundred and",
 "fifty-ninth year, the royal family"
 ]
 },
 {
-"t0": 2190.56,
-"t1": 2194.29,
+"t0": 2189.874,
+"t1": 2193.604,
 "lines": [
 "gathered at Summerhall, a summer",
 "palace in the Dornish Marches,"
 ]
 },
 {
-"t0": 2194.36,
-"t1": 2198.17,
+"t0": 2193.674,
+"t1": 2197.504,
 "lines": [
 "to celebrate the birth of the",
 "king's first great-grandchild."
 ]
 },
 {
-"t0": 2198.86,
-"t1": 2200.41,
+"t0": 2198.194,
+"t1": 2199.724,
 "lines": [
 "Something happened there."
 ]
 },
 {
-"t0": 2200.8,
-"t1": 2202.43,
+"t0": 2200.134,
+"t1": 2201.724,
 "lines": [
 "Something involving fire."
 ]
 },
 {
-"t0": 2202.78,
-"t1": 2205.37,
+"t0": 2202.094,
+"t1": 2204.394,
 "lines": [
 "The histories hold",
 "one surviving letter,"
 ]
 },
 {
-"t0": 2205.5,
-"t1": 2208.07,
+"t0": 2204.434,
+"t1": 2207.384,
 "lines": [
 "written by the castle's",
 "maester before he died."
 ]
 },
 {
-"t0": 2208.42,
-"t1": 2210.55,
+"t0": 2207.734,
+"t1": 2209.864,
 "lines": [
 "It was ruined by a spill of ink."
 ]
 },
 {
-"t0": 2210.96,
-"t1": 2212.83,
+"t0": 2210.274,
+"t1": 2212.144,
 "lines": [
 "Only fragments can be read."
 ]
 },
 {
-"t0": 2213.52,
-"t1": 2216.63,
+"t0": 2212.814,
+"t1": 2215.944,
 "lines": [
 "The blood of the dragon,",
 "gathered in one."
 ]
 },
 {
-"t0": 2217.5,
-"t1": 2220.39,
+"t0": 2216.814,
+"t1": 2219.704,
 "lines": [
 "Seven eggs, to honour the seven gods."
 ]
 },
 {
-"t0": 2221.46,
-"t1": 2222.47,
+"t0": 2220.814,
+"t1": 2221.814,
 "lines": [
 "Pyromancers."
 ]
 },
 {
-"t0": 2222.94,
-"t1": 2223.94,
+"t0": 2222.254,
+"t1": 2223.254,
 "lines": [
 "Wildfire."
 ]
 },
 {
-"t0": 2224.8,
-"t1": 2227.09,
+"t0": 2223.914,
+"t1": 2226.404,
 "lines": [
 "The flames grew out of control."
 ]
 },
 {
-"t0": 2227.39,
-"t1": 2229.76,
+"t0": 2226.654,
+"t1": 2229.054,
 "lines": [
 "The fire destroyed Summerhall."
 ]
 },
 {
-"t0": 2230.13,
-"t1": 2232.42,
+"t0": 2229.424,
+"t1": 2231.714,
 "lines": [
 "It killed King Aegon the Fifth."
 ]
 },
 {
-"t0": 2232.85,
-"t1": 2235.4,
+"t0": 2232.144,
+"t1": 2234.674,
 "lines": [
 "It killed his son, Prince Duncan."
 ]
 },
 {
-"t0": 2235.81,
-"t1": 2240.68,
+"t0": 2235.104,
+"t1": 2239.974,
 "lines": [
 "And it killed Ser Duncan the Tall,",
 "who died trying to save his friend."
 ]
 },
 {
-"t0": 2241.27,
-"t1": 2244.5,
+"t0": 2240.684,
+"t1": 2243.794,
 "lines": [
 "In the books, nobody ever",
 "says exactly what happened."
 ]
 },
 {
-"t0": 2244.83,
-"t1": 2247.16,
+"t0": 2244.094,
+"t1": 2246.504,
 "lines": [
 "But the hints all point the same way."
 ]
 },
 {
-"t0": 2247.55,
-"t1": 2249.2,
+"t0": 2246.954,
+"t1": 2248.544,
 "lines": [
 "Egg tried to hatch dragons."
 ]
 },
 {
-"t0": 2249.53,
-"t1": 2251.67,
+"t0": 2248.894,
+"t1": 2251.014,
 "lines": [
 "And on that same day,",
 "in the middle of the grief"
 ]
 },
 {
-"t0": 2251.71,
-"t1": 2254.98,
+"t0": 2251.054,
+"t1": 2254.324,
 "lines": [
 "and the smoke, a baby",
 "was born at Summerhall."
 ]
 },
 {
-"t0": 2255.31,
-"t1": 2257.0,
+"t0": 2254.634,
+"t1": 2256.344,
 "lines": [
 "His name was Rhaegar."
 ]
 },
 {
-"t0": 2257.77,
-"t1": 2262.54,
+"t0": 2257.114,
+"t1": 2261.884,
 "lines": [
 "All his life, the histories say,",
 "Rhaegar was drawn back to those ruins."
 ]
 },
 {
-"t0": 2262.71,
-"t1": 2266.77,
+"t0": 2262.184,
+"t1": 2266.094,
 "lines": [
 "He would go there alone,",
 "to brood, and to play his harp."
 ]
 },
 {
-"t0": 2267.38,
-"t1": 2268.91,
+"t0": 2266.724,
+"t1": 2268.234,
 "lines": [
 "There is one more thread."
 ]
 },
 {
-"t0": 2269.01,
-"t1": 2272.11,
+"t0": 2268.334,
+"t1": 2271.434,
 "lines": [
 "Prince Duncan, Egg's son,",
 "gave up his claim to the throne"
 ]
 },
 {
-"t0": 2272.15,
-"t1": 2276.52,
+"t0": 2271.474,
+"t1": 2275.844,
 "lines": [
 "to marry a girl he loved,",
 "a girl named Jenny of Oldstones."
 ]
 },
 {
-"t0": 2277.31,
-"t1": 2281.64,
+"t0": 2276.614,
+"t1": 2280.964,
 "lines": [
 "Jenny had a strange friend: a tiny",
 "woods witch from the riverlands."
 ]
 },
 {
-"t0": 2282.19,
-"t1": 2285.16,
+"t0": 2281.514,
+"t1": 2284.464,
 "lines": [
 "If you watched our last episode,",
 "you may have met her."
 ]
 },
 {
-"t0": 2285.59,
-"t1": 2289.39,
+"t0": 2284.914,
+"t1": 2288.714,
 "lines": [
 "Many readers believe she is the",
 "ghost of High Heart, the tiny old"
 ]
 },
 {
-"t0": 2289.43,
-"t1": 2293.34,
+"t0": 2288.754,
+"t1": 2292.684,
 "lines": [
 "woman who weeps whenever she hears",
 "the song of Jenny of Oldstones."
 ]
 },
 {
-"t0": 2293.71,
-"t1": 2296.63,
+"t0": 2293.074,
+"t1": 2295.954,
 "lines": [
 "And it was a woods witch",
 "who told the family a"
 ]
 },
 {
-"t0": 2296.67,
-"t1": 2299.17,
+"t0": 2295.994,
+"t1": 2298.494,
 "lines": [
 "prophecy: that the",
 "prince that was promised"
 ]
 },
 {
-"t0": 2299.21,
-"t1": 2302.18,
+"t0": 2298.534,
+"t1": 2301.484,
 "lines": [
 "would be born of the line",
 "of Aerys and Rhaella."
 ]
 },
 {
-"t0": 2303.13,
-"t1": 2307.12,
+"t0": 2302.434,
+"t1": 2306.444,
 "lines": [
 "So the next king married his son",
 "Aerys to his daughter Rhaella."
 ]
 },
 {
-"t0": 2307.87,
-"t1": 2308.88,
+"t0": 2307.194,
+"t1": 2308.204,
 "lines": [
 "Brother and sister."
 ]
 },
 {
-"t0": 2309.37,
-"t1": 2313.12,
+"t0": 2308.694,
+"t1": 2312.444,
 "lines": [
 "They would be the last king",
 "and queen of House Targaryen."
 ]
 },
 {
-"t0": 2315.74,
-"t1": 2318.85,
+"t0": 2315.064,
+"t1": 2318.144,
 "lines": [
 "Aerys the Second came to",
 "the throne at eighteen,"
 ]
 },
 {
-"t0": 2318.98,
-"t1": 2322.99,
+"t0": 2318.184,
+"t1": 2322.314,
 "lines": [
 "and at first, he seemed",
 "charming and full of promise."
 ]
 },
 {
-"t0": 2323.03,
-"t1": 2328.18,
+"t0": 2322.354,
+"t1": 2327.504,
 "lines": [
 "He named his boyhood friend,",
 "Tywin Lannister, as his Hand."
 ]
 },
 {
-"t0": 2328.48,
-"t1": 2334.09,
+"t0": 2327.804,
+"t1": 2333.414,
 "lines": [
 "And for twenty years, Tywin ran the",
 "realm, coldly, brilliantly, and well."
 ]
 },
 {
-"t0": 2334.66,
-"t1": 2336.31,
+"t0": 2333.964,
+"t1": 2335.634,
 "lines": [
 "But Aerys grew jealous."
 ]
 },
 {
-"t0": 2337.16,
-"t1": 2340.17,
+"t0": 2336.484,
+"t1": 2339.494,
 "lines": [
 "Jealous of Tywin's",
 "power, of his praise,"
 ]
 },
 {
-"t0": 2340.42,
-"t1": 2343.85,
+"t0": 2339.744,
+"t1": 2343.174,
 "lines": [
 "of the way the realm credited",
 "Tywin for every success."
 ]
 },
 {
-"t0": 2344.48,
-"t1": 2346.17,
+"t0": 2343.824,
+"t1": 2345.494,
 "lines": [
 "He began to mock him."
 ]
 },
 {
-"t0": 2346.47,
-"t1": 2347.76,
+"t0": 2345.794,
+"t1": 2347.084,
 "lines": [
 "To insult him."
 ]
 },
 {
-"t0": 2348.06,
-"t1": 2349.79,
+"t0": 2347.384,
+"t1": 2349.114,
 "lines": [
 "And then came Duskendale."
 ]
 },
 {
-"t0": 2350.18,
-"t1": 2353.85,
+"t0": 2349.524,
+"t1": 2353.174,
 "lines": [
 "A minor lord of a port town",
 "refused to pay his taxes."
 ]
 },
 {
-"t0": 2355.02,
-"t1": 2358.65,
+"t0": 2354.344,
+"t1": 2357.974,
 "lines": [
 "Aerys went to Duskendale",
 "in person, to settle it."
 ]
 },
 {
-"t0": 2358.95,
-"t1": 2361.63,
+"t0": 2358.274,
+"t1": 2360.954,
 "lines": [
 "The lord seized him,",
 "and held the king of"
 ]
 },
 {
-"t0": 2361.67,
-"t1": 2364.34,
+"t0": 2360.994,
+"t1": 2363.664,
 "lines": [
 "the Seven Kingdoms",
 "prisoner for half a year."
 ]
 },
 {
-"t0": 2365.37,
-"t1": 2367.97,
+"t0": 2364.694,
+"t1": 2367.294,
 "lines": [
 "Ser Barristan Selmy",
 "finally slipped into"
 ]
 },
 {
-"t0": 2368.01,
-"t1": 2370.28,
+"t0": 2367.334,
+"t1": 2369.604,
 "lines": [
 "the town alone and brought him out."
 ]
 },
 {
-"t0": 2370.79,
-"t1": 2374.28,
+"t0": 2370.114,
+"t1": 2373.604,
 "lines": [
 "But the man who came out",
 "was not the man who went in."
 ]
 },
 {
-"t0": 2374.89,
-"t1": 2377.11,
+"t0": 2374.194,
+"t1": 2376.724,
 "lines": [
 "Afterwards, Aerys would",
 "not leave the Red Keep."
 ]
 },
 {
-"t0": 2377.15,
-"t1": 2379.93,
+"t0": 2377.174,
+"t1": 2378.704,
 "lines": [
 "He trusted no one."
 ]
 },
 {
-"t0": 2380.03,
-"t1": 2382.229,
+"t0": 2378.804,
+"t1": 2380.804,
 "lines": [
 "He would not let a",
 "blade come near him,"
 ]
 },
 {
-"t0": 2382.269,
-"t1": 2384.84,
+"t0": 2380.844,
+"t1": 2383.274,
 "lines": [
 "so he stopped cutting",
 "his hair and his nails."
 ]
 },
 {
-"t0": 2385.189,
-"t1": 2387.519,
+"t0": 2383.574,
+"t1": 2385.844,
 "lines": [
 "They grew long, tangled and yellow."
 ]
 },
 {
-"t0": 2387.85,
-"t1": 2390.333,
+"t0": 2386.474,
+"t1": 2388.064,
 "lines": [
 "And he found a new obsession."
 ]
 },
 {
-"t0": 2390.373,
-"t1": 2391.373,
+"t0": 2388.574,
+"t1": 2389.574,
 "lines": [
 "Fire."
 ]
 },
 {
-"t0": 2391.66,
-"t1": 2395.359,
+"t0": 2389.694,
+"t1": 2393.314,
 "lines": [
 "He surrounded himself with",
 "pyromancers, the alchemists of the"
 ]
 },
 {
-"t0": 2395.399,
-"t1": 2399.41,
+"t0": 2393.354,
+"t1": 2397.624,
 "lines": [
 "wildfire guild, and the whole court",
 "lived in terror of the flames."
 ]
 },
 {
-"t0": 2400.16,
-"t1": 2402.33,
+"t0": 2399.094,
+"t1": 2401.484,
 "lines": [
 "In the two hundred",
 "and eighty-first year,"
 ]
 },
 {
-"t0": 2402.54,
-"t1": 2404.669,
+"t0": 2401.534,
+"t1": 2403.844,
 "lines": [
 "a great tourney was held at Harrenhal."
 ]
 },
 {
-"t0": 2405.18,
-"t1": 2406.709,
+"t0": 2404.154,
+"t1": 2406.004,
 "lines": [
 "Prince Rhaegar won it."
 ]
 },
 {
-"t0": 2406.78,
-"t1": 2408.97,
+"t0": 2406.044,
+"t1": 2408.064,
 "lines": [
 "And as the champion, he was meant to"
 ]
 },
 {
-"t0": 2409.01,
-"t1": 2411.439,
+"t0": 2408.104,
+"t1": 2411.014,
 "lines": [
 "crown a lady as queen",
 "of love and beauty."
 ]
 },
 {
-"t0": 2412.149,
-"t1": 2416.08,
+"t0": 2411.964,
+"t1": 2415.754,
 "lines": [
 "Everyone expected him to crown",
 "his wife, Elia Martell of Dorne."
 ]
 },
 {
-"t0": 2416.63,
-"t1": 2419.47,
+"t0": 2416.224,
+"t1": 2419.164,
 "lines": [
 "Instead, he rode past her,",
 "and laid a crown of"
 ]
 },
 {
-"t0": 2419.51,
-"t1": 2422.439,
+"t0": 2419.204,
+"t1": 2421.894,
 "lines": [
 "blue winter roses in",
 "the lap of Lyanna Stark."
 ]
 },
 {
-"t0": 2423.11,
-"t1": 2426.01,
+"t0": 2422.444,
+"t1": 2424.944,
 "lines": [
 "In the first book,",
 "Ned Stark remembers that"
 ]
 },
 {
-"t0": 2426.05,
-"t1": 2429.019,
+"t0": 2424.984,
+"t1": 2427.674,
 "lines": [
 "moment as the moment",
 "all the smiles died."
 ]
 },
 {
-"t0": 2429.749,
-"t1": 2433.1,
+"t0": 2428.244,
+"t1": 2431.434,
 "lines": [
 "A year later, Rhaegar and",
 "Lyanna disappeared together."
 ]
 },
 {
-"t0": 2433.63,
-"t1": 2435.87,
+"t0": 2432.024,
+"t1": 2434.404,
 "lines": [
 "Lyanna's brother Brandon",
 "rode to King's Landing"
 ]
 },
 {
-"t0": 2435.91,
-"t1": 2438.79,
+"t0": 2434.444,
+"t1": 2437.474,
 "lines": [
 "and demanded that Rhaegar",
 "come out and face him."
 ]
 },
 {
-"t0": 2438.83,
-"t1": 2441.95,
+"t0": 2437.924,
+"t1": 2439.574,
 "lines": [
 "Neither Brandon nor his father,"
 ]
 },
 {
-"t0": 2442.18,
-"t1": 2445.49,
+"t0": 2439.744,
+"t1": 2442.954,
 "lines": [
 "Lord Rickard Stark, ever",
 "left the Red Keep alive."
 ]
 },
 {
-"t0": 2446.019,
-"t1": 2450.53,
+"t0": 2443.584,
+"t1": 2447.694,
 "lines": [
 "Then Aerys demanded Eddard",
 "Stark and Robert Baratheon too."
 ]
 },
 {
-"t0": 2451.08,
-"t1": 2453.249,
+"t0": 2448.584,
+"t1": 2451.874,
 "lines": [
-"Their foster father, Jon Arryn,"
+"Their foster father,",
+"Jon Arryn, refused."
 ]
 },
 {
-"t0": 2454.019,
-"t1": 2454.84,
-"lines": [
-"refused."
-]
-},
-{
-"t0": 2454.88,
-"t1": 2456.33,
+"t0": 2452.444,
+"t1": 2453.854,
 "lines": [
 "And the realm rose."
 ]
 },
 {
-"t0": 2457.479,
-"t1": 2461.55,
+"t0": 2455.004,
+"t1": 2456.094,
 "lines": [
-"At the Trident, Robert Baratheon",
-"met Rhaegar in the river."
+"At the Trident,"
 ]
 },
 {
-"t0": 2462.2,
-"t1": 2465.59,
+"t0": 2456.784,
+"t1": 2459.614,
+"lines": [
+"Robert Baratheon met",
+"Rhaegar in the river."
+]
+},
+{
+"t0": 2460.264,
+"t1": 2463.234,
 "lines": [
 "Robert's great warhammer",
 "broke Rhaegar's breastplate,"
 ]
 },
 {
-"t0": 2465.84,
-"t1": 2467.689,
+"t0": 2463.384,
+"t1": 2465.174,
 "lines": [
 "and Rhaegar fell in the river."
 ]
 },
 {
-"t0": 2468.209,
-"t1": 2470.57,
+"t0": 2465.944,
+"t1": 2468.134,
 "lines": [
 "Its rubies scattered into the water,"
 ]
 },
 {
-"t0": 2470.88,
-"t1": 2473.41,
+"t0": 2468.244,
+"t1": 2470.814,
 "lines": [
 "and men dove for them",
 "for years afterward."
 ]
 },
 {
-"t0": 2473.82,
-"t1": 2477.03,
+"t0": 2471.324,
+"t1": 2473.914,
 "lines": [
 "The place is still",
 "called the Ruby Ford."
 ]
 },
 {
-"t0": 2478.22,
-"t1": 2482.57,
+"t0": 2475.164,
+"t1": 2479.104,
 "lines": [
 "In King's Landing, Tywin",
 "Lannister arrived with an army,"
 ]
 },
 {
-"t0": 2482.72,
-"t1": 2484.79,
+"t0": 2479.144,
+"t1": 2481.694,
 "lines": [
 "claiming to come to the king's aid."
 ]
 },
 {
-"t0": 2485.8,
-"t1": 2487.24,
+"t0": 2482.884,
+"t1": 2484.294,
 "lines": [
 "Aerys opened the gates."
 ]
 },
 {
-"t0": 2487.47,
-"t1": 2490.479,
+"t0": 2484.704,
+"t1": 2487.414,
 "lines": [
 "And the Lannister army",
 "poured into the city."
 ]
 },
 {
-"t0": 2490.579,
-"t1": 2494.419,
+"t0": 2487.514,
+"t1": 2491.354,
 "lines": [
 "And in the throne room, a young",
 "knight of the Kingsguard named Jaime"
 ]
 },
 {
-"t0": 2494.459,
-"t1": 2498.889,
+"t0": 2491.394,
+"t1": 2496.384,
 "lines": [
 "Lannister heard the king chanting",
 "the same words, over and over."
 ]
 },
 {
-"t0": 2499.189,
-"t1": 2500.189,
+"t0": 2496.754,
+"t1": 2497.784,
 "lines": [
 "Burn them all."
 ]
 },
 {
-"t0": 2501.249,
-"t1": 2504.459,
+"t0": 2498.934,
+"t1": 2502.704,
 "lines": [
 "Aerys had hidden caches of",
 "wildfire beneath the entire city."
 ]
 },
 {
-"t0": 2504.929,
-"t1": 2507.679,
+"t0": 2503.154,
+"t1": 2505.944,
 "lines": [
 "Jaime stopped him, at the",
 "foot of the Iron Throne."
 ]
 },
 {
-"t0": 2508.149,
-"t1": 2510.579,
+"t0": 2507.034,
+"t1": 2509.064,
 "lines": [
 "The Mad King's reign was over."
 ]
 },
 {
-"t0": 2510.879,
-"t1": 2514.389,
+"t0": 2509.364,
+"t1": 2512.754,
 "lines": [
 "For the rest of his life, the",
 "realm would call him Kingslayer."
 ]
 },
 {
-"t0": 2514.959,
-"t1": 2518.449,
+"t0": 2513.384,
+"t1": 2516.784,
 "lines": [
 "In the books, he tells",
 "the true story only once,"
 ]
 },
 {
-"t0": 2518.639,
-"t1": 2521.249,
+"t0": 2516.824,
+"t1": 2520.414,
 "lines": [
 "to Brienne of Tarth,",
 "in a bath at Harrenhal."
 ]
 },
 {
-"t0": 2521.819,
-"t1": 2524.569,
+"t0": 2521.324,
+"t1": 2524.254,
 "lines": [
 "Rhaegar's small children",
 "were lost in the sack."
 ]
 },
 {
-"t0": 2525.519,
-"t1": 2529.109,
+"t0": 2524.644,
+"t1": 2528.074,
 "lines": [
 "And far to the south, in a",
 "tower in the mountains of Dorne,"
 ]
 },
 {
-"t0": 2529.259,
-"t1": 2533.349,
+"t0": 2528.504,
+"t1": 2532.514,
 "lines": [
 "Lyanna Stark lay dying, and made",
 "her brother promise something."
 ]
 },
 {
-"t0": 2533.879,
-"t1": 2535.429,
+"t0": 2533.104,
+"t1": 2534.154,
 "lines": [
 "Promise me, Ned."
 ]
 },
 {
-"t0": 2536.579,
-"t1": 2538.989,
+"t0": 2534.504,
+"t1": 2537.614,
 "lines": [
 "The books never tell",
 "us what he promised."
 ]
 },
 {
-"t0": 2541.479,
-"t1": 2544.409,
+"t0": 2540.231,
+"t1": 2542.761,
 "lines": [
 "But the Targaryens were",
 "not quite finished."
 ]
 },
 {
-"t0": 2544.979,
-"t1": 2547.439,
+"t0": 2543.231,
+"t1": 2546.191,
 "lines": [
 "Before the city fell,",
 "Queen Rhaella had fled"
 ]
 },
 {
-"t0": 2547.479,
-"t1": 2550.289,
+"t0": 2546.231,
+"t1": 2549.401,
 "lines": [
 "to Dragonstone, with",
 "her younger son Viserys."
 ]
 },
 {
-"t0": 2550.589,
-"t1": 2552.279,
+"t0": 2549.701,
+"t1": 2551.091,
 "lines": [
 "She was heavily pregnant."
 ]
 },
 {
-"t0": 2552.579,
-"t1": 2556.959,
+"t0": 2551.521,
+"t1": 2555.581,
 "lines": [
 "And as Robert's fleet gathered,",
 "a great storm struck the island,"
 ]
 },
 {
-"t0": 2556.999,
-"t1": 2560.009,
+"t0": 2555.621,
+"t1": 2558.851,
 "lines": [
 "and wrecked the Targaryen",
 "ships at anchor."
 ]
 },
 {
-"t0": 2560.419,
-"t1": 2562.329,
+"t0": 2559.601,
+"t1": 2561.271,
 "lines": [
 "In the middle of that storm,"
 ]
 },
 {
-"t0": 2562.699,
-"t1": 2566.089,
+"t0": 2561.521,
+"t1": 2564.531,
 "lines": [
 "Rhaella gave birth to a",
 "daughter, and passed away."
 ]
 },
 {
-"t0": 2566.879,
-"t1": 2569.249,
+"t0": 2564.981,
+"t1": 2566.931,
 "lines": [
 "The girl was named Daenerys."
 ]
 },
 {
-"t0": 2569.859,
-"t1": 2571.829,
+"t0": 2567.561,
+"t1": 2569.211,
 "lines": [
 "Daenerys Stormborn."
 ]
 },
 {
-"t0": 2572.339,
-"t1": 2577.069,
+"t0": 2569.881,
+"t1": 2574.211,
 "lines": [
 "A loyal knight smuggled the two",
 "children across the sea to Braavos."
 ]
 },
 {
-"t0": 2577.699,
-"t1": 2580.839,
+"t0": 2574.901,
+"t1": 2577.241,
 "lines": [
 "Years later, Daenerys",
-"would remember only one"
+"would remember only"
 ]
 },
 {
-"t0": 2580.879,
-"t1": 2584.399,
+"t0": 2577.281,
+"t1": 2579.451,
 "lines": [
-"happy place from her childhood:",
-"a big house with a"
+"one happy place from her childhood: a"
 ]
 },
 {
-"t0": 2584.439,
-"t1": 2588.429,
+"t0": 2580.061,
+"t1": 2584.551,
 "lines": [
-"red door, and a lemon",
-"tree outside her window."
+"big house with a red door, and",
+"a lemon tree outside her window."
 ]
 },
 {
-"t0": 2588.469,
-"t1": 2592.819,
+"t0": 2585.501,
+"t1": 2589.211,
 "lines": [
 "Then the knight died,",
 "and the money ran out."
 ]
 },
 {
-"t0": 2593.469,
-"t1": 2596.279,
+"t0": 2590.061,
+"t1": 2592.801,
 "lines": [
 "Viserys took his sister",
 "from city to city,"
 ]
 },
 {
-"t0": 2596.429,
-"t1": 2598.559,
+"t0": 2592.841,
+"t1": 2594.781,
 "lines": [
 "selling their mother's crown to eat."
 ]
 },
 {
-"t0": 2599.469,
-"t1": 2603.139,
+"t0": 2594.821,
+"t1": 2599.741,
 "lines": [
 "Behind his back, people",
 "called him the beggar king."
 ]
 },
 {
-"t0": 2603.239,
-"t1": 2605.349,
+"t0": 2599.841,
+"t1": 2601.951,
 "lines": [
 "And then Viserys sold Daenerys too."
 ]
 },
 {
-"t0": 2605.649,
-"t1": 2608.349,
+"t0": 2602.251,
+"t1": 2604.931,
 "lines": [
 "He married her to a Dothraki",
 "warlord, Khal Drogo,"
 ]
 },
 {
-"t0": 2608.389,
-"t1": 2610.739,
+"t0": 2604.971,
+"t1": 2607.341,
 "lines": [
 "in exchange for an",
 "army that never came."
 ]
 },
 {
-"t0": 2611.049,
-"t1": 2613.489,
+"t0": 2607.671,
+"t1": 2610.051,
 "lines": [
 "Among her wedding gifts",
 "were three dragon eggs,"
 ]
 },
 {
-"t0": 2613.529,
-"t1": 2615.179,
+"t0": 2610.091,
+"t1": 2611.781,
 "lines": [
 "turned to stone by the centuries."
 ]
 },
 {
-"t0": 2615.709,
-"t1": 2617.659,
+"t0": 2612.291,
+"t1": 2614.261,
 "lines": [
 "Viserys did get his crown in the end."
 ]
 },
 {
-"t0": 2617.789,
-"t1": 2620.439,
+"t0": 2614.561,
+"t1": 2617.081,
 "lines": [
 "A crown of molten gold,",
 "poured by Khal Drogo,"
 ]
 },
 {
-"t0": 2620.479,
-"t1": 2622.849,
+"t0": 2617.121,
+"t1": 2619.471,
 "lines": [
 "when he grew tired",
 "of Viserys's threats."
 ]
 },
 {
-"t0": 2623.099,
-"t1": 2625.059,
+"t0": 2619.741,
+"t1": 2621.661,
 "lines": [
 "He was no dragon, Daenerys thought."
 ]
 },
 {
-"t0": 2625.489,
-"t1": 2627.059,
+"t0": 2622.091,
+"t1": 2623.661,
 "lines": [
 "Fire cannot kill a dragon."
 ]
 },
 {
-"t0": 2628.009,
-"t1": 2631.279,
+"t0": 2624.611,
+"t1": 2627.851,
 "lines": [
 "When Drogo died, Daenerys",
 "built him a funeral pyre,"
 ]
 },
 {
-"t0": 2631.329,
-"t1": 2634.479,
+"t0": 2627.891,
+"t1": 2631.101,
 "lines": [
 "set her three stone eggs on it,",
 "and walked into the flames."
 ]
 },
 {
-"t0": 2634.829,
-"t1": 2637.819,
+"t0": 2631.451,
+"t1": 2634.421,
 "lines": [
 "In the morning, she rose",
 "from the ashes, unburnt."
 ]
 },
 {
-"t0": 2638.069,
-"t1": 2640.749,
+"t0": 2634.731,
+"t1": 2637.301,
 "lines": [
 "And three newborn dragons",
 "were clinging to her."
 ]
 },
 {
-"t0": 2640.859,
-"t1": 2644.179,
+"t0": 2637.411,
+"t1": 2640.711,
 "lines": [
 "One black, one green,",
 "one cream and gold."
 ]
 },
 {
-"t0": 2644.549,
-"t1": 2645.549,
+"t0": 2641.221,
+"t1": 2642.221,
 "lines": [
 "Drogon."
 ]
 },
 {
-"t0": 2645.729,
-"t1": 2646.609,
+"t0": 2642.261,
+"t1": 2643.141,
 "lines": [
 "Rhaegal."
 ]
 },
 {
-"t0": 2646.649,
-"t1": 2647.649,
+"t0": 2643.181,
+"t1": 2644.181,
 "lines": [
 "Viserion."
 ]
 },
 {
-"t0": 2648.049,
-"t1": 2651.859,
+"t0": 2644.601,
+"t1": 2648.411,
 "lines": [
 "The first dragons to be born in the",
 "world for nearly a century and a half."
 ]
 },
 {
-"t0": 2652.329,
-"t1": 2655.639,
+"t0": 2648.921,
+"t1": 2652.171,
 "lines": [
 "In the books that followed,",
 "Daenerys crossed the red waste,"
 ]
 },
 {
-"t0": 2655.749,
-"t1": 2657.329,
+"t0": 2652.301,
+"t1": 2653.861,
 "lines": [
 "freed the slaves of Astapor,"
 ]
 },
 {
-"t0": 2657.369,
-"t1": 2661.289,
+"t0": 2653.901,
+"t1": 2657.621,
 "lines": [
 "Yunkai and Meereen, and ruled",
 "Meereen as its queen, trying,"
 ]
 },
 {
-"t0": 2661.329,
-"t1": 2664.159,
+"t0": 2657.661,
+"t1": 2660.731,
 "lines": [
 "and often failing,",
 "to make a broken city work."
 ]
 },
 {
-"t0": 2664.459,
-"t1": 2667.659,
+"t0": 2660.821,
+"t1": 2664.251,
 "lines": [
 "At the end of the fifth book,",
 "Drogon carries her out"
 ]
 },
 {
-"t0": 2667.699,
-"t1": 2671.109,
+"t0": 2664.291,
+"t1": 2667.701,
 "lines": [
 "of a fighting pit and far",
 "into the Dothraki Sea."
 ]
 },
 {
-"t0": 2671.419,
-"t1": 2673.489,
+"t0": 2668.031,
+"t1": 2670.101,
 "lines": [
 "That is where her story stops."
 ]
 },
 {
-"t0": 2673.959,
-"t1": 2674.959,
+"t0": 2670.551,
+"t1": 2671.551,
 "lines": [
 "For now."
 ]
 },
 {
-"t0": 2675.779,
-"t1": 2678.709,
+"t0": 2672.311,
+"t1": 2675.281,
 "lines": [
 "But she is not the only",
 "Targaryen left in the books."
 ]
 },
 {
-"t0": 2679.299,
-"t1": 2683.849,
+"t0": 2675.911,
+"t1": 2680.421,
 "lines": [
 "Old Maester Aemon, Egg's brother,",
 "the last Targaryen at the Wall,"
 ]
 },
 {
-"t0": 2684.319,
-"t1": 2686.929,
+"t0": 2680.911,
+"t1": 2683.501,
 "lines": [
 "dies at sea on his way to Oldtown,"
 ]
 },
 {
-"t0": 2687.279,
-"t1": 2690.089,
+"t0": 2683.871,
+"t1": 2686.661,
 "lines": [
 "murmuring about dragons,",
 "and about her."
 ]
 },
 {
-"t0": 2690.999,
-"t1": 2694.509,
+"t0": 2687.391,
+"t1": 2691.081,
 "lines": [
 "In his last moments,",
 "he calls for his little brother."
 ]
 },
 {
-"t0": 2695.419,
-"t1": 2696.419,
+"t0": 2691.751,
+"t1": 2692.751,
 "lines": [
 "Egg."
 ]
 },
 {
-"t0": 2696.519,
-"t1": 2698.969,
+"t0": 2693.091,
+"t1": 2695.541,
 "lines": [
 "I dreamed that I was old."
 ]
 },
 {
-"t0": 2699.069,
-"t1": 2702.329,
+"t0": 2695.641,
+"t1": 2698.921,
 "lines": [
 "In the fifth book, a young man",
 "called Griff appears in Essos,"
 ]
 },
 {
-"t0": 2702.369,
-"t1": 2706.839,
+"t0": 2698.961,
+"t1": 2703.411,
 "lines": [
 "claiming to be Rhaegar's son, Aegon,",
 "saved from the sack as a baby."
 ]
 },
 {
-"t0": 2707.139,
-"t1": 2710.509,
+"t0": 2703.711,
+"t1": 2707.081,
 "lines": [
 "And the army marching behind",
 "him is the Golden Company."
 ]
 },
 {
-"t0": 2710.859,
-"t1": 2714.769,
+"t0": 2707.431,
+"t1": 2711.341,
 "lines": [
 "The sellswords founded by",
 "Bittersteel, the Blackfyre exile."
 ]
 },
 {
-"t0": 2715.379,
-"t1": 2719.049,
+"t0": 2711.891,
+"t1": 2715.621,
 "lines": [
 "Many readers suspect he is",
 "not who he claims to be."
 ]
 },
 {
-"t0": 2719.119,
-"t1": 2722.409,
+"t0": 2715.691,
+"t1": 2718.981,
 "lines": [
 "That he may be a Blackfyre,",
 "at last coming home."
 ]
 },
 {
-"t0": 2722.449,
-"t1": 2725.129,
+"t0": 2719.021,
+"t1": 2721.701,
 "lines": [
 "The books have not said."
 ]
 },
 {
-"t0": 2725.779,
-"t1": 2728.149,
+"t0": 2722.351,
+"t1": 2724.721,
 "lines": [
 "And at the Wall, there is Jon Snow."
 ]
 },
 {
-"t0": 2728.479,
-"t1": 2731.229,
+"t0": 2725.031,
+"t1": 2727.801,
 "lines": [
 "A bastard of Winterfell,",
 "the son of Ned Stark."
 ]
 },
 {
-"t0": 2731.529,
-"t1": 2733.099,
+"t0": 2728.101,
+"t1": 2729.671,
 "lines": [
 "Or so everyone believes."
 ]
 },
 {
-"t0": 2733.669,
-"t1": 2735.499,
+"t0": 2730.261,
+"t1": 2732.071,
 "lines": [
 "In the show, it is confirmed:"
 ]
 },
 {
-"t0": 2735.969,
-"t1": 2741.099,
+"t0": 2732.541,
+"t1": 2737.671,
 "lines": [
 "Jon is the son of Rhaegar and Lyanna,",
 "and his true name is Aegon Targaryen."
 ]
 },
 {
-"t0": 2741.399,
-"t1": 2744.039,
+"t0": 2737.971,
+"t1": 2740.591,
 "lines": [
 "In the books, it is one of",
 "the most famous theories"
 ]
 },
 {
-"t0": 2744.079,
-"t1": 2746.939,
+"t0": 2740.631,
+"t1": 2743.491,
 "lines": [
 "ever written about a story",
 "that has not finished yet."
 ]
 },
 {
-"t0": 2746.979,
-"t1": 2749.619,
+"t0": 2743.531,
+"t1": 2746.171,
 "lines": [
 "The hints are all there."
 ]
 },
 {
-"t0": 2749.919,
-"t1": 2750.919,
+"t0": 2746.471,
+"t1": 2747.471,
 "lines": [
 "Promise me, Ned."
 ]
 },
 {
-"t0": 2752.039,
-"t1": 2754.189,
+"t0": 2748.571,
+"t1": 2750.721,
 "lines": [
 "The show gave the dynasty an ending."
 ]
 },
 {
-"t0": 2754.579,
-"t1": 2757.619,
+"t0": 2751.091,
+"t1": 2754.171,
 "lines": [
 "Daenerys burned King's",
 "Landing, Jon killed her,"
 ]
 },
 {
-"t0": 2757.659,
-"t1": 2759.829,
+"t0": 2754.211,
+"t1": 2756.361,
 "lines": [
 "and Drogon melted the Iron Throne."
 ]
 },
 {
-"t0": 2760.129,
-"t1": 2763.119,
+"t0": 2756.661,
+"t1": 2759.651,
 "lines": [
 "In the books, that ending",
 "has not been written."
 ]
 },
 {
-"t0": 2763.419,
-"t1": 2766.149,
+"t0": 2759.951,
+"t1": 2762.681,
 "lines": [
 "The Winds of Winter",
 "is still unpublished."
 ]
 },
 {
-"t0": 2766.449,
-"t1": 2769.599,
+"t0": 2762.971,
+"t1": 2766.111,
 "lines": [
 "And so is the second",
 "half of Fire and Blood."
 ]
 },
 {
-"t0": 2770.349,
-"t1": 2774.019,
+"t0": 2766.861,
+"t1": 2770.531,
 "lines": [
 "So the history of House",
 "Targaryen is still open."
 ]
 },
 {
-"t0": 2774.289,
-"t1": 2778.649,
+"t0": 2770.801,
+"t1": 2775.161,
 "lines": [
 "It began, three hundred years ago,",
 "with a girl who dreamed of fire."
 ]
 },
 {
-"t0": 2779.119,
-"t1": 2781.909,
+"t0": 2775.631,
+"t1": 2778.421,
 "lines": [
 "It may end with a girl",
 "who walked into it."
 ]
 },
 {
-"t0": 2783.207,
-"t1": 2785.437,
+"t0": 2779.719,
+"t1": 2781.949,
 "lines": [
 "So who was the greatest Targaryen?"
 ]
 },
 {
-"t0": 2785.737,
-"t1": 2788.427,
+"t0": 2782.249,
+"t1": 2784.939,
 "lines": [
 "Aegon the Conqueror, who",
 "built the realm with fire?"
 ]
 },
 {
-"t0": 2789.237,
-"t1": 2791.387,
+"t0": 2785.789,
+"t1": 2787.899,
 "lines": [
 "Jaehaerys, who made it work?"
 ]
 },
 {
-"t0": 2791.877,
-"t1": 2794.707,
+"t0": 2788.449,
+"t1": 2791.199,
 "lines": [
 "Egg, the unlikely king",
 "who loved the smallfolk?"
 ]
 },
 {
-"t0": 2795.037,
-"t1": 2797.667,
+"t0": 2791.549,
+"t1": 2794.179,
 "lines": [
 "Or Daenerys, whose story is not over?"
 ]
 },
 {
-"t0": 2798.037,
-"t1": 2799.287,
+"t0": 2794.549,
+"t1": 2795.799,
 "lines": [
 "Tell us in the comments."
 ]
 },
 {
-"t0": 2799.597,
-"t1": 2801.587,
+"t0": 2796.109,
+"t1": 2798.099,
 "lines": [
 "And if you want more of",
 "the books brought to life,"
 ]
 },
 {
-"t0": 2801.717,
-"t1": 2804.357,
+"t0": 2798.229,
+"t1": 2801.159,
 "lines": [
 "like this video, and subscribe",
 "to the Mythic Archives."
 ]
 },
 {
-"t0": 2804.397,
-"t1": 2808.477,
+"t0": 2801.609,
+"t1": 2804.439,
 "lines": [
 "Next, we go north of",
 "the Wall, to the Others."
 ]
 },
 {
-"t0": 2808.517,
-"t1": 2811.847,
+"t0": 2804.479,
+"t1": 2807.789,
 "lines": [
 "And what the books",
 "really say about them."
