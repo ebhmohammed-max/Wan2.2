@@ -2,7 +2,7 @@
  "episode": "GOT003",
  "batch": "BATCH019",
  "max_batch_size": 10,
- "status": "GENERATED_10 (9 PASS, 1 REDO)",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band.",
  "palette": "Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze.",
  "images": [
@@ -115,8 +115,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. a vast throne hall, a thin pale boy of about eleven with lank silver hair and a black cloak sitting hunched and alone on an enormous lopsided iron throne, clearly visible and lit by a single cold shaft of window light, seen from a medium distance, his face downcast in shadow, empty floor around him, lonely and haunted. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
    "refs": [],
-   "qc": "REDO",
-   "qc_note": "REDO: boy figure invisible in the dark, reads as empty throne (duplicate of S178); redo with boy clearly lit"
+   "qc": "PASS",
+   "qc_note": "v2 PASS: boy visible, small"
   },
   {
    "scene_id": "GOT003_SCENE189",

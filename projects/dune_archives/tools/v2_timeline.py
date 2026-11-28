@@ -257,8 +257,9 @@ def build(wav_out=None):
                 anchor, key, recipe = s[0], s[1], s[2]
                 focus = s[3] if len(s) > 3 else [0.5, 0.5]
                 tt = wt(sid, li, find_anchor(toks, anchor))['s'] - CUT_LEAD
-                if first:
-                    tt = 0.0 if sid == 'H' else si['gap_start']
+                if first:   # a section's opening shot covers its gap/chapter card (GOT003: only if on line 0;
+                    if li == 0 or sid == 'H':   # otherwise the running shot carries across the subsection join)
+                        tt = 0.0 if sid == 'H' else si['gap_start']
                     first = False
                 shots.append(dict(t0=round(tt, 3), key=key, recipe=recipe, focus=focus, sid=sid, anchor=anchor))
     shots.append(dict(t0=ident[0], key=D.IDENT_SHOT[0], recipe=D.IDENT_SHOT[1], focus=[0.5, 0.5], sid='IDENT',

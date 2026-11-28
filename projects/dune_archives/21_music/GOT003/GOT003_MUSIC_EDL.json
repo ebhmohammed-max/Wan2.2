@@ -1,0 +1,250 @@
+{
+ "episode": "GOT003",
+ "timeline": "voice-14 VO, programme 2817.597 s",
+ "bed_lufs": -23.0,
+ "notes": "start/end = programme seconds; offset = seconds into the source track. Kevin MacLeod (incompetech.com), CC BY 4.0. Provisional palette; the CI mix check validates it.",
+ "cues": [
+  {
+   "cue": "M1",
+   "name": "The Doom (hook)",
+   "track": "Lost_Frontier",
+   "start": 0.0,
+   "end": 64.84,
+   "offset": 0.0,
+   "fade_in": 0.0,
+   "fade_out": 2.5,
+   "gain_db": -2,
+   "hp": 110
+  },
+  {
+   "cue": "M2",
+   "name": "Archive (ident)",
+   "track": "Deliberate_Thought",
+   "start": 62.44,
+   "end": 70.24,
+   "offset": 30.0,
+   "fade_in": 1.2,
+   "fade_out": 2.5,
+   "gain_db": -1
+  },
+  {
+   "cue": "M3",
+   "name": "P (Teller_of_the_Tales)",
+   "track": "Teller_of_the_Tales",
+   "start": 67.84,
+   "end": 212.67,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M4",
+   "name": "P (Lightless_Dawn)",
+   "track": "Lightless_Dawn",
+   "start": 210.67,
+   "end": 276.77,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M5",
+   "name": "I (Lord_of_the_Land)",
+   "track": "Lord_of_the_Land",
+   "start": 275.77,
+   "end": 439.31,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M6",
+   "name": "I (Angevin)",
+   "track": "Angevin",
+   "start": 437.31,
+   "end": 540.56,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M7",
+   "name": "II (Crusade)",
+   "track": "Crusade",
+   "start": 539.56,
+   "end": 661.13,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M8",
+   "name": "II (Despair_and_Triumph)",
+   "track": "Despair_and_Triumph",
+   "start": 659.13,
+   "end": 927.05,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M2b",
+   "name": "Subscribe (archive theme)",
+   "track": "Deliberate_Thought",
+   "start": 926.25,
+   "end": 945.07,
+   "offset": 30.0,
+   "fade_in": 1.0,
+   "fade_out": 2.0,
+   "gain_db": -1
+  },
+  {
+   "cue": "M9",
+   "name": "III (Oppressive_Gloom)",
+   "track": "Oppressive_Gloom",
+   "start": 943.87,
+   "end": 1094.01,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M10",
+   "name": "IV (Virtutes_Instrumenti)",
+   "track": "Virtutes_Instrumenti",
+   "start": 1093.01,
+   "end": 1260.31,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M11",
+   "name": "V (Dark_Times)",
+   "track": "Dark_Times",
+   "start": 1259.31,
+   "end": 1384.79,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M12",
+   "name": "V (Interloper)",
+   "track": "Interloper",
+   "start": 1382.79,
+   "end": 1640.92,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M13",
+   "name": "VI (Angevin)",
+   "track": "Angevin",
+   "start": 1639.92,
+   "end": 1862.02,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M14",
+   "name": "VII (Mysterioso_March)",
+   "track": "Mysterioso_March",
+   "start": 1861.02,
+   "end": 1939.91,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M15",
+   "name": "VII (Phantasm)",
+   "track": "Phantasm",
+   "start": 1937.91,
+   "end": 2068.28,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M16",
+   "name": "VIII (Night_Vigil)",
+   "track": "Night_Vigil",
+   "start": 2067.28,
+   "end": 2313.82,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M17",
+   "name": "IX (Oppressive_Gloom)",
+   "track": "Oppressive_Gloom",
+   "start": 2312.82,
+   "end": 2491.58,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M18",
+   "name": "IX (Long_Note_Two)",
+   "track": "Long_Note_Two",
+   "start": 2489.58,
+   "end": 2539.59,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M19",
+   "name": "X (Sovereign)",
+   "track": "Sovereign",
+   "start": 2538.59,
+   "end": 2782.61,
+   "offset": 0.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "gain_db": 0
+  },
+  {
+   "cue": "M99",
+   "name": "Outro (archive theme)",
+   "track": "Deliberate_Thought",
+   "start": 2781.41,
+   "end": 2817.6,
+   "offset": 30.0,
+   "fade_in": 2.0,
+   "fade_out": 3.0,
+   "gain_db": -2
+  }
+ ],
+ "sfx": [
+  {
+   "type": "wind",
+   "start": 0.0,
+   "end": 20.0,
+   "level_db": -38,
+   "note": "low wind under the hook (the Doom)"
+  }
+ ],
+ "silences": []
+}
