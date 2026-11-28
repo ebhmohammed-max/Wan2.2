@@ -2,7 +2,7 @@
  "episode": "GOT003",
  "batch": "BATCH011",
  "max_batch_size": 10,
- "status": "GENERATED_9_PASS_1_PENDING",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band.",
  "palette": "Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze.",
  "images": [
@@ -107,8 +107,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. a thin young woman with brown skin and a mess of black hair, an invented original face, in a plain brown cloak, standing calmly on a windswept rocky hillside near a woolly sheep, a wild lean mud-brown dragon crouching curiously in front of her, she holds out one open hand toward it, misty sea cliffs behind, patient and brave, restrained. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
    "refs": [],
-   "qc": "PENDING",
-   "qc_note": "content filter blocked v1 prompt; rephrased (young woman, live sheep, open hand)"
+   "qc": "PASS",
+   "qc_note": "v2 prompt (filter-safe) PASS"
   },
   {
    "scene_id": "GOT003_SCENE108",
