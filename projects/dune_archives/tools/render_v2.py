@@ -10,7 +10,7 @@
 * Maps: the rendered map clips (last frame held if the slot is longer).
 * Graphics: tools/gfx_v2.py layers, composited on the global timeline so they run across cuts.
 * Look: vignette (numpy) before the graphics; film grain in the encode. 0.5 s fade-in, 1 s fade-out.
-* No disclaimers or labels are burned in.
+* No disclaimers or labels are burned in. Captions (tools/captions_v2.py) only when D.BURN_CAPTIONS is set.
 """
 import argparse, json, math, os, pathlib, subprocess, sys
 from concurrent.futures import ProcessPoolExecutor
@@ -21,6 +21,7 @@ import numpy as np
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'tools'))
 import gfx_v2 as G  # noqa: E402
+import captions_v2 as CAP  # noqa: E402
 import imageio_ffmpeg  # noqa: E402
 
 FF = imageio_ffmpeg.get_ffmpeg_exe()
@@ -39,6 +40,7 @@ def init(W, H, crf, workdir):
     m = 1 - 0.42 * np.clip(r, 0, 1) ** 2.3
     S['vig'] = np.repeat((m * 255).astype(np.uint8)[..., None], 3, 2)
     S['events'] = [dict(g) for g in TL['graphics']]
+    S['cap'] = CAP.Captions(TL, W, H) if getattr(E.D, 'BURN_CAPTIONS', False) else None
 
 
 def load_plate(path, W, H):
@@ -87,12 +89,15 @@ def cam(recipe, t, dur, pw, ph, focus):
 def finish(frame, tg):
     W, H, k = S['W'], S['H'], S['k']
     frame = cv2.multiply(frame, S['vig'], scale=1 / 255.0)
-    L = []
+    L, kinds = [], set()
     for ev in S['events']:
         if ev['t0'] <= tg < ev['t1']:
             L += G.layers(ev, tg - ev['t0'], k, W, H)
+            kinds.add(ev['kind'])
     if L:
         frame = G.composite(np.ascontiguousarray(frame), L)
+    if S.get('cap'):
+        frame = S['cap'].apply(np.ascontiguousarray(frame), tg, kinds)
     dur = TL['duration']
     f = min(1.0, tg / 0.5, (dur - tg) / 1.0)
     if f < 1:

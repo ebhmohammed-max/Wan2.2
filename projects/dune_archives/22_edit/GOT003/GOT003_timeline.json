@@ -944,6 +944,18 @@
 ],
 "sid": "Ib",
 "anchor": "In the",
+"t1": 438.31
+},
+{
+"t0": 438.31,
+"key": "B021S202",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Ic",
+"anchor": "Centuries later,",
 "t1": 445.97
 },
 {
@@ -1124,6 +1136,18 @@
 ],
 "sid": "IIb",
 "anchor": "Three hundred",
+"t1": 646.205
+},
+{
+"t0": 646.205,
+"key": "B021S201",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IIb",
+"anchor": "In the",
 "t1": 660.135
 },
 {
@@ -2132,6 +2156,30 @@
 ],
 "sid": "Vd",
 "anchor": "A thin,",
+"t1": 1512.127
+},
+{
+"t0": 1512.127,
+"key": "B021S204",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Vd",
+"anchor": "But two",
+"t1": 1528.387
+},
+{
+"t0": 1528.387,
+"key": "B021S203",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Vd",
+"anchor": "Rhaenyra took",
 "t1": 1539.027
 },
 {
@@ -2144,6 +2192,18 @@
 ],
 "sid": "Vd",
 "anchor": "One night,",
+"t1": 1560.937
+},
+{
+"t0": 1560.937,
+"key": "B021S205",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Vd",
+"anchor": "Prince Daemon",
 "t1": 1566.497
 },
 {
@@ -2372,6 +2432,18 @@
 ],
 "sid": "VIb",
 "anchor": "He built",
+"t1": 1807.92
+},
+{
+"t0": 1807.92,
+"key": "B021S207",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIb",
+"anchor": "Baelor died",
 "t1": 1822.3
 },
 {
@@ -2660,6 +2732,30 @@
 ],
 "sid": "VIIIa",
 "anchor": "Their adventures",
+"t1": 2114.09
+},
+{
+"t0": 2114.09,
+"key": "B021S206",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIIIa",
+"anchor": "Another Great",
+"t1": 2116.59
+},
+{
+"t0": 2116.59,
+"key": "B014S137",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIIIa",
+"anchor": "The crown",
 "t1": 2124.59
 },
 {
@@ -2840,6 +2936,18 @@
 ],
 "sid": "VIIIc",
 "anchor": "Jenny had",
+"t1": 2285.53
+},
+{
+"t0": 2285.53,
+"key": "B021S210",
+"recipe": "DRIFT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIIIc",
+"anchor": "Many readers",
 "t1": 2303.07
 },
 {
@@ -2876,6 +2984,18 @@
 ],
 "sid": "IXa",
 "anchor": "He named",
+"t1": 2344.42
+},
+{
+"t0": 2344.42,
+"key": "B021S208",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IXa",
+"anchor": "He began",
 "t1": 2350.12
 },
 {
@@ -3056,6 +3176,18 @@
 ],
 "sid": "IXc",
 "anchor": "Aerys had",
+"t1": 2521.759
+},
+{
+"t0": 2521.759,
+"key": "B021S209",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IXc",
+"anchor": "Rhaegar's small",
 "t1": 2525.459
 },
 {
@@ -3308,6 +3440,66 @@
 ],
 "sid": "Xc",
 "anchor": "It may",
+"t1": 2785.677
+},
+{
+"t0": 2785.677,
+"key": "B001S001",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "Aegon the",
+"t1": 2789.177
+},
+{
+"t0": 2789.177,
+"key": "B009S083",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "Jaehaerys, who",
+"t1": 2791.817
+},
+{
+"t0": 2791.817,
+"key": "B014S138",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "Egg, the",
+"t1": 2794.977
+},
+{
+"t0": 2794.977,
+"key": "B017S169",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "Or Daenerys,",
+"t1": 2804.337
+},
+{
+"t0": 2804.337,
+"key": "B018S176",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CB",
+"anchor": "Next, we",
 "t1": 2817.597
 }
 ],
@@ -3333,12 +3525,138 @@
 }
 },
 {
+"kind": "NOTE",
+"t0": 72.03,
+"t1": 76.63,
+"p": {
+"head": "IN THE BOOKS",
+"body": "Fire & Blood: a history written inside the story by an archmaester of the Citadel."
+}
+},
+{
+"kind": "NAME",
+"t0": 95.12,
+"t1": 98.32,
+"p": {
+"name": "MUSHROOM",
+"role": "Court fool \u00b7 self-declared eyewitness"
+}
+},
+{
+"kind": "PLACE",
+"t0": 117.09,
+"t1": 120.49,
+"p": {
+"place": "VALYRIA",
+"sub": "The Valyrian Freehold \u00b7 Essos"
+}
+},
+{
+"kind": "NAME",
+"t0": 145.93,
+"t1": 149.13,
+"p": {
+"name": "DAENYS THE DREAMER",
+"role": "Daughter of Lord Aenar Targaryen"
+}
+},
+{
+"kind": "PLACE",
+"t0": 163.07,
+"t1": 166.47,
+"p": {
+"place": "DRAGONSTONE",
+"sub": "Westernmost outpost of Valyria"
+}
+},
+{
+"kind": "YEAR",
+"t0": 219.22,
+"t1": 222.62,
+"p": {
+"year": "114 BC",
+"sub": "The Doom of Valyria \u00b7 before the Conquest"
+}
+},
+{
+"kind": "NOTE",
+"t0": 252.5,
+"t1": 256.7,
+"p": {
+"head": "THE CENTURY OF BLOOD",
+"body": "A hundred years of war between the Free Cities after the Doom."
+}
+},
+{
 "kind": "CHAPTER",
 "t0": 276.17,
 "t1": 279.47,
 "p": {
 "num": "I",
 "title": "Three Dragons"
+}
+},
+{
+"kind": "NAME",
+"t0": 325.91,
+"t1": 329.11,
+"p": {
+"name": "VISENYA TARGARYEN",
+"role": "The elder sister \u00b7 rider of Vhagar"
+}
+},
+{
+"kind": "NAME",
+"t0": 338.01,
+"t1": 341.21,
+"p": {
+"name": "RHAENYS TARGARYEN",
+"role": "The younger sister \u00b7 rider of Meraxes"
+}
+},
+{
+"kind": "NAME",
+"t0": 350.85,
+"t1": 354.05,
+"p": {
+"name": "AEGON TARGARYEN",
+"role": "Later: Aegon the Conqueror"
+}
+},
+{
+"kind": "NAME",
+"t0": 374.49,
+"t1": 377.89,
+"p": {
+"name": "BALERION",
+"role": "The Black Dread \u00b7 last to have seen Valyria"
+}
+},
+{
+"kind": "NOTE",
+"t0": 395.93,
+"t1": 400.53,
+"p": {
+"head": "IN THE BOOKS",
+"body": "A Game of Thrones: Arya among the dragon skulls beneath the Red Keep."
+}
+},
+{
+"kind": "NAME",
+"t0": 502.1,
+"t1": 505.3,
+"p": {
+"name": "ARGILAC THE ARROGANT",
+"role": "The last Storm King"
+}
+},
+{
+"kind": "NOTE",
+"t0": 513.96,
+"t1": 518.96,
+"p": {
+"head": "THE SHOW",
+"body": "House of the Dragon: Aegon's dream of the coming winter. Not in the books."
 }
 },
 {
@@ -3351,12 +3669,123 @@
 }
 },
 {
+"kind": "YEAR",
+"t0": 563.965,
+"t1": 567.565,
+"p": {
+"year": "1 AC",
+"sub": "Years are counted After the Conquest"
+}
+},
+{
+"kind": "NAME",
+"t0": 575.415,
+"t1": 578.615,
+"p": {
+"name": "HARREN THE BLACK",
+"role": "King of the Isles and the Rivers"
+}
+},
+{
+"kind": "PLACE",
+"t0": 632.015,
+"t1": 635.615,
+"p": {
+"place": "HARRENHAL",
+"sub": "Five towers \u00b7 melted by dragonfire"
+}
+},
+{
+"kind": "NAME",
+"t0": 649.775,
+"t1": 653.175,
+"p": {
+"name": "ORYS BARATHEON",
+"role": "Aegon's half-brother \u00b7 first of House Baratheon"
+}
+},
+{
+"kind": "STAT",
+"t0": 683.415,
+"t1": 686.815,
+"p": {
+"value": 55000,
+"label": "MEN AGAINST THE DRAGONS",
+"sub": "Lannister and Gardener"
+}
+},
+{
+"kind": "STAT",
+"t0": 709.615,
+"t1": 712.815,
+"p": {
+"value": 4000,
+"label": "MEN BURNED",
+"sub": "The Field of Fire"
+}
+},
+{
+"kind": "NAME",
+"t0": 760.054,
+"t1": 763.454,
+"p": {
+"name": "TORRHEN STARK",
+"role": "King in the North \u00b7 the King Who Knelt"
+}
+},
+{
+"kind": "STAT",
+"t0": 915.704,
+"t1": 918.904,
+"p": {
+"value": 37,
+"label": "YEARS ON THE IRON THRONE",
+"sub": "Aegon I \u00b7 died in his bed"
+}
+},
+{
 "kind": "CHAPTER",
 "t0": 944.27,
 "t1": 947.57,
 "p": {
 "num": "III",
 "title": "The Sons of the Dragon"
+}
+},
+{
+"kind": "NAME",
+"t0": 956.84,
+"t1": 960.04,
+"p": {
+"name": "AENYS I",
+"role": "Son of Aegon and Rhaenys"
+}
+},
+{
+"kind": "NAME",
+"t0": 965.38,
+"t1": 968.38,
+"p": {
+"name": "MAEGOR",
+"role": "Son of Aegon and Visenya"
+}
+},
+{
+"kind": "NAME",
+"t0": 990.308,
+"t1": 993.708,
+"p": {
+"name": "THE FAITH MILITANT",
+"role": "The Warrior's Sons \u00b7 the Poor Fellows"
+}
+},
+{
+"kind": "NOTE",
+"t0": 1056.708,
+"t1": 1060.708,
+"p": {
+"head": "THE BLACK BRIDES",
+"body": "Three of Maegor's six wives, wed on a single day."
 }
 },
 {
@@ -3369,12 +3798,129 @@
 }
 },
 {
+"kind": "NAME",
+"t0": 1099.889,
+"t1": 1103.289,
+"p": {
+"name": "JAEHAERYS I",
+"role": "The Conciliator \u00b7 reigned 55 years"
+}
+},
+{
+"kind": "NAME",
+"t0": 1112.539,
+"t1": 1115.939,
+"p": {
+"name": "QUEEN ALYSANNE",
+"role": "The Good Queen \u00b7 rider of Silverwing"
+}
+},
+{
+"kind": "NAME",
+"t0": 1134.539,
+"t1": 1137.539,
+"p": {
+"name": "SEPTON BARTH",
+"role": "Hand of the King"
+}
+},
+{
+"kind": "PLACE",
+"t0": 1191.069,
+"t1": 1194.469,
+"p": {
+"place": "THE NEW GIFT",
+"sub": "Alysanne's lands for the Night's Watch"
+}
+},
+{
+"kind": "YEAR",
+"t0": 1229.829,
+"t1": 1233.229,
+"p": {
+"year": "101 AC",
+"sub": "The Great Council at Harrenhal"
+}
+},
+{
 "kind": "CHAPTER",
 "t0": 1259.707,
 "t1": 1263.007,
 "p": {
 "num": "V",
 "title": "The Dance of the Dragons"
+}
+},
+{
+"kind": "NAME",
+"t0": 1271.177,
+"t1": 1274.177,
+"p": {
+"name": "VISERYS I",
+"role": "Grandson of Jaehaerys"
+}
+},
+{
+"kind": "NAME",
+"t0": 1288.577,
+"t1": 1291.777,
+"p": {
+"name": "RHAENYRA TARGARYEN",
+"role": "The Realm's Delight"
+}
+},
+{
+"kind": "NAME",
+"t0": 1306.647,
+"t1": 1309.847,
+"p": {
+"name": "QUEEN ALICENT",
+"role": "Of House Hightower"
+}
+},
+{
+"kind": "NAME",
+"t0": 1355.577,
+"t1": 1358.977,
+"p": {
+"name": "PRINCE DAEMON",
+"role": "The Rogue Prince \u00b7 rider of Caraxes"
+}
+},
+{
+"kind": "NAME",
+"t0": 1398.527,
+"t1": 1401.727,
+"p": {
+"name": "PRINCE AEMOND",
+"role": "One eye \u00b7 rider of Vhagar"
+}
+},
+{
+"kind": "YEAR",
+"t0": 1406.507,
+"t1": 1409.707,
+"p": {
+"year": "129 AC",
+"sub": "Death of Viserys I"
+}
+},
+{
+"kind": "NAME",
+"t0": 1506.837,
+"t1": 1510.037,
+"p": {
+"name": "NETTLES",
+"role": "Dragonseed \u00b7 rider of Sheepstealer"
+}
+},
+{
+"kind": "NOTE",
+"t0": 1518.177,
+"t1": 1522.777,
+"p": {
+"head": "THE SHOW",
+"body": "House of the Dragon season 3 ended at Tumbleton, August 2026."
 }
 },
 {
@@ -3387,12 +3933,121 @@
 }
 },
 {
+"kind": "NAME",
+"t0": 1659.72,
+"t1": 1662.92,
+"p": {
+"name": "AEGON III",
+"role": "The Broken King \u00b7 the Dragonbane"
+}
+},
+{
+"kind": "NAME",
+"t0": 1711.18,
+"t1": 1714.18,
+"p": {
+"name": "DAERON I",
+"role": "The Young Dragon"
+}
+},
+{
+"kind": "NAME",
+"t0": 1752.99,
+"t1": 1756.19,
+"p": {
+"name": "BAELOR I",
+"role": "Baelor the Blessed \u00b7 septon and king"
+}
+},
+{
+"kind": "NOTE",
+"t0": 1800.71,
+"t1": 1805.11,
+"p": {
+"head": "THE SHOW",
+"body": "Cersei destroys the Great Sept. In the books it still stands."
+}
+},
+{
+"kind": "NAME",
+"t0": 1815.71,
+"t1": 1818.71,
+"p": {
+"name": "AEGON IV",
+"role": "Aegon the Unworthy"
+}
+},
+{
 "kind": "CHAPTER",
 "t0": 1861.42,
 "t1": 1864.72,
 "p": {
 "num": "VII",
 "title": "The Black Dragon"
+}
+},
+{
+"kind": "NAME",
+"t0": 1869.39,
+"t1": 1872.39,
+"p": {
+"name": "DAERON II",
+"role": "Daeron the Good"
+}
+},
+{
+"kind": "NAME",
+"t0": 1920.73,
+"t1": 1923.93,
+"p": {
+"name": "DAEMON BLACKFYRE",
+"role": "The Black Dragon"
+}
+},
+{
+"kind": "YEAR",
+"t0": 1941.28,
+"t1": 1944.48,
+"p": {
+"year": "196 AC",
+"sub": "Battle of the Redgrass Field"
+}
+},
+{
+"kind": "NAME",
+"t0": 1959.08,
+"t1": 1962.28,
+"p": {
+"name": "BRYNDEN RIVERS",
+"role": "Bloodraven"
+}
+},
+{
+"kind": "NAME",
+"t0": 1994.12,
+"t1": 1997.12,
+"p": {
+"name": "THE GOLDEN COMPANY",
+"role": "Founded by Bittersteel"
+}
+},
+{
+"kind": "STAT",
+"t0": 2000.81,
+"t1": 2004.01,
+"p": {
+"value": 5,
+"label": "BLACKFYRE REBELLIONS",
+"sub": "196 AC to 260 AC"
+}
+},
+{
+"kind": "NOTE",
+"t0": 2058.88,
+"t1": 2063.28,
+"p": {
+"head": "IN THE BOOKS",
+"body": "A Dance with Dragons: the last greenseer beneath the hill."
 }
 },
 {
@@ -3405,6 +4060,51 @@
 }
 },
 {
+"kind": "NOTE",
+"t0": 2096.31,
+"t1": 2101.11,
+"p": {
+"head": "IN THE BOOKS",
+"body": "Tales of Dunk and Egg: The Hedge Knight, The Sworn Sword, The Mystery Knight."
+}
+},
+{
+"kind": "NAME",
+"t0": 2135.62,
+"t1": 2138.82,
+"p": {
+"name": "AEGON V",
+"role": "Aegon the Unlikely \u00b7 \"Egg\""
+}
+},
+{
+"kind": "NAME",
+"t0": 2178.31,
+"t1": 2181.51,
+"p": {
+"name": "SER DUNCAN THE TALL",
+"role": "Lord Commander of the Kingsguard"
+}
+},
+{
+"kind": "PLACE",
+"t0": 2191.13,
+"t1": 2194.53,
+"p": {
+"place": "SUMMERHALL",
+"sub": "259 AC \u00b7 the tragedy"
+}
+},
+{
+"kind": "NAME",
+"t0": 2255.26,
+"t1": 2258.46,
+"p": {
+"name": "RHAEGAR TARGARYEN",
+"role": "Born in grief and smoke"
+}
+},
+{
 "kind": "CHAPTER",
 "t0": 2313.22,
 "t1": 2316.52,
@@ -3414,12 +4114,130 @@
 }
 },
 {
+"kind": "NAME",
+"t0": 2317.65,
+"t1": 2320.85,
+"p": {
+"name": "AERYS II",
+"role": "Later: the Mad King"
+}
+},
+{
+"kind": "NAME",
+"t0": 2325.48,
+"t1": 2328.68,
+"p": {
+"name": "TYWIN LANNISTER",
+"role": "Hand of the King \u00b7 20 years"
+}
+},
+{
+"kind": "PLACE",
+"t0": 2350.13,
+"t1": 2353.53,
+"p": {
+"place": "DUSKENDALE",
+"sub": "Six months a captive king"
+}
+},
+{
+"kind": "YEAR",
+"t0": 2400.469,
+"t1": 2403.669,
+"p": {
+"year": "281 AC",
+"sub": "The tourney at Harrenhal"
+}
+},
+{
+"kind": "PLACE",
+"t0": 2475.99,
+"t1": 2479.19,
+"p": {
+"place": "THE RUBY FORD",
+"sub": "The Trident \u00b7 283 AC"
+}
+},
+{
+"kind": "NOTE",
+"t0": 2514.909,
+"t1": 2519.309,
+"p": {
+"head": "IN THE BOOKS",
+"body": "A Storm of Swords: Jaime tells Brienne the truth."
+}
+},
+{
 "kind": "CHAPTER",
 "t0": 2538.993,
 "t1": 2542.293,
 "p": {
 "num": "X",
 "title": "The Last Dragons"
+}
+},
+{
+"kind": "NAME",
+"t0": 2569.809,
+"t1": 2573.009,
+"p": {
+"name": "DAENERYS STORMBORN",
+"role": "Born on Dragonstone in a storm"
+}
+},
+{
+"kind": "NAME",
+"t0": 2602.239,
+"t1": 2605.239,
+"p": {
+"name": "VISERYS",
+"role": "The beggar king"
+}
+},
+{
+"kind": "STAT",
+"t0": 2647.999,
+"t1": 2651.399,
+"p": {
+"value": 150,
+"label": "YEARS WITHOUT DRAGONS",
+"sub": "Nearly a century and a half"
+}
+},
+{
+"kind": "NAME",
+"t0": 2679.249,
+"t1": 2682.649,
+"p": {
+"name": "MAESTER AEMON",
+"role": "Egg's brother \u00b7 the last Targaryen at the Wall"
+}
+},
+{
+"kind": "NAME",
+"t0": 2700.599,
+"t1": 2703.999,
+"p": {
+"name": "YOUNG GRIFF",
+"role": "Claims to be Rhaegar's son \u00b7 A Dance with Dragons"
+}
+},
+{
+"kind": "NOTE",
+"t0": 2733.619,
+"t1": 2738.619,
+"p": {
+"head": "THE SHOW",
+"body": "Jon is confirmed as the son of Rhaegar and Lyanna. In the books it is a theory."
+}
+},
+{
+"kind": "NOTE",
+"t0": 2763.369,
+"t1": 2767.969,
+"p": {
+"head": "STATUS \u00b7 NOV 2026",
+"body": "The Winds of Winter and Fire & Blood volume 2 are unpublished."
 }
 },
 {

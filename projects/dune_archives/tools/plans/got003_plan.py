@@ -241,6 +241,17 @@ PLAN = [
  ('IX', 31, None, N('REALM_RISES', 'EW', [], 'a great army of the north and the stormlands assembling on a misty plain at dawn, tall banners of a grey direwolf on white, a black crowned stag on gold, and a white falcon on blue, thousands of spears, horses, smoke from campfires, epic and determined'), 'PULL_OUT'),
  ('IX', 41, None, N('WILDFIRE_CACHES', 'EW', [], 'a long dark brick tunnel beneath a city, its walls lined floor to ceiling with thousands of round clay jars glowing faint sickly green from within, cobwebs, dripping water, a single torch far away, dread, no people'), 'PUSH_IN'),
  ('V', 55, None, N('MELEYS_FALLS', 'EW', [], 'a red-scaled dragon falling from a smoke-filled sky over a castle and a battlefield, wings crumpled, trailing smoke, two other dragons, one golden and one vast bronze, circling above through the haze, seen from far below, tragic, no gore'), 'TILT_DN'),
+ # --- pacing fills, turn 142
+ ('II', 27, None, N('ORYS_ARGILAC', 'EW', [], 'a driving rainstorm over a muddy battlefield, a burly black-bearded warrior in black mail with a heavy war hammer facing an old proud king with long grey hair and a bronze antlered helm wielding a longsword, rain lashing, a great round-walled castle on a cliff far behind under lightning, restrained, no gore'), 'PUSH_IN'),
+ ('I', 35, None, N('STANNIS_TABLE', 'MS', [], 'a lean hard balding man with a close-cropped black beard and a clenched jaw, invented original face seen in profile half in shadow, leaning on both fists over an enormous carved and painted wooden table shaped like a continent, red braziers, black stone hall, a lonely brooding mood, centuries-old table worn smooth'), 'PUSH_IN'),
+ ('V', 67, None, N('RHAENYRA_THRONE', 'EW', [], 'seen from far down a vast dim throne hall, a stout pale queen in black and red with silver-gold hair under a crown sits rigid and alone on an enormous jagged lopsided iron throne, clearly lit by a shaft of window light, a few kneeling courtiers far below, suspicious and grieving, cold and austere'), 'PULL_OUT'),
+ ('V', 64, None, N('TUMBLETON', 'EW', [], 'a walled medieval market town on a broad river at dusk, its gates standing open as a column of soldiers under green banners marches in across the bridge, two dragons circling above the town against an orange sky, thin smoke rising from a few roofs, betrayal, seen from a distant hill'), 'PAN_LR'),
+ ('V', 75, None, N('DAEMON_HARRENHAL', 'EW', [], 'a vast ruined black castle with five colossal towers whose tops are melted and slumped like candle wax, a lone hooded figure standing on a cracked battlement seen from behind, a long thin blood-red serpentine dragon coiled on the slumped tower above him, grey brooding sky over a great lake, waiting'), 'PUSH_IN'),
+ ('VIII', 8, None, N('GREAT_COUNCIL_233', 'EW', [], 'a great torchlit castle hall crowded with hundreds of seated lords on tiered wooden benches beneath dozens of hanging house banners of many colours, grey-robed maesters with chain collars at a long table, lords standing to argue, seen from high at the back of the hall, solemn and tense, no clear faces'), 'PUSH_IN'),
+ ('VI', 38, None, N('BAELOR_FAST', 'MS', [], 'an emaciated barefoot young king in a rough undyed septon robe, invented original face, head bowed so his face is mostly hidden by lank silver hair, kneeling in prayer on cold marble before seven tall candles in a sept lit by rainbow light through crystal windows, an untouched bowl of bread beside him, frail and devout'), 'PUSH_IN'),
+ ('IX', 5, None, N('AERYS_MOCKS_TYWIN', 'MS', [], 'a royal throne hall, a gaunt sneering king with long untidy silver hair and a thin silver beard, invented original face, leaning forward on the iron throne laughing cruelly, while far below a tall stern man in crimson with a shaved bald head and golden side-whiskers stands rigid with his back to us, NOT the HBO TV design, courtiers frozen, humiliation'), 'PUSH_IN'),
+ ('IX', 46, None, N('EMPTY_CRADLE', 'CU', [], 'an empty carved wooden cradle with a small red and black blanket and a little carved wooden toy dragon lying on the stone floor beside it, in a dark nursery lit only by a red glow from a window, smoke haze, silent grief, no people'), 'PUSH_IN'),
+ ('VIII', 53, None, N('HIGH_HEART', 'EW', [], 'a high grassy hill at night ringed by thirty-one pale weirwood stumps, a tiny bent old woman in rags with wild white hair seen from behind standing among them, a full moon, mist in the valley below, eerie and sad'), 'DRIFT'),
 ]
 
 # ---- code-animated maps (M) and in-world mockups (K): rendered to 19_batches/GOT003/maps/*.mp4 by
@@ -276,4 +287,14 @@ CODE_SHOTS = [
  ('IX', 22, None, 'MAP:K16', 'PUSH_IN'),   # Harrenhal tourney roll: queen of love and beauty
  ('IX', 29, None, 'MAP:M11', 'PUSH_IN'),   # Robert's Rebellion
  ('X', 9, None, 'MAP:M12', 'PUSH_IN'),     # the exiles: Dragonstone -> Braavos -> ... -> Meereen
+]
+
+# recap montage over the debate (reuses earlier stills by slug - a deliberate callback, not a new image)
+RECAP_SHOTS = [
+ ('CB', 1, None, 'AEGON_PORTRAIT', 'PUSH_IN'),
+ ('CB', 2, None, 'VERMITHOR_SILVERWING', 'PUSH_IN'),
+ ('CB', 3, None, 'EGG_KING', 'PUSH_IN'),
+ ('CB', 4, None, 'UNBURNT', 'PUSH_IN'),
+ ('CB', 7, None, 'JON_WALL', 'PUSH_IN'),
+ ('VIII', 9, None, 'AEMON_YOUNG_MAESTER', 'PUSH_IN'),
 ]

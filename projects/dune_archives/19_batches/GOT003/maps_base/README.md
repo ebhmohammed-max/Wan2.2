@@ -4,7 +4,8 @@ are drawn in code by `tools/got003_maps.py` (AI text is never used).
 
 | File | Use | QC |
 |---|---|---|
-| WESTEROS.jpg | M02, M03, M04, M06, M07, M08, M11 | **REDO**: continent too short/stubby vs the book shape (needs the long narrow north, the Neck, the Bite, the Arm of Dorne) |
+| WESTEROS.jpg | (superseded) | REDO - continent too short/stubby |
+| WESTEROS_v2.jpg | M02, M03, M04, M06, M07, M08, M11 | PASS (turn 142): Wall, big North, Bear Island + Skagos, the Bite, the Neck, Trident + Gods Eye, Vale peaks, Iron Islands ring bay, Blackwater + Dragonstone, Tarth, Reach + Oldtown, Dorne + Stepstones. Schematic (stamped on every frame). |
 | VALYRIA.jpg | M01 (Fourteen Flames, Aenar's route west) | PASS |
 | ESSOS.jpg | M12 (the exiles) | PASS (schematic) |
 | DORNE.jpg | M05, M09 | PASS |
