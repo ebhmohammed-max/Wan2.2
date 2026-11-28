@@ -238,3 +238,5 @@
 - GOT002 S122: "hand gripping the log in foreground" with child + S036 hand refs produced an EXTRA third arm from the frame edge plus a 5-digit hand. Two refs (body + hand) can spawn a second limb. For children of the forest keep hands out of frame; show claws only in dedicated hand macros.
 - GOT002 S148: a two-hands macro got the 3-finger+thumb hand right on the 2nd try with "ONLY FOUR DIGITS IN TOTAL… NO little finger, the gap is empty" + S036 ref, but spawned an extra human hand; an image EDIT ("remove the extra hand from bottom-right, keep everything else exactly") fixed it cleanly. An edit asking to REMOVE A FINGER did nothing.
 - GOT002 S145: Others drift to the HBO wrinkled-corpse look when shown dissolving; fix with "smooth flawless milk-white skin like polished bone, NOT wrinkled, NOT skeletal, NO plate armour".
+
+- 2026-11-28 · GOT003 review: user corrected TTS pronunciation — Vhagar = "Vay-gar", Harrenhal = "Harren Hall". Keep book spelling in script/captions; respell only the TTS input (worlds/westeros/WESTEROS_TTS_PRONUNCIATION.md).
