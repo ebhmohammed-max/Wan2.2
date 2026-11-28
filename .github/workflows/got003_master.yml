@@ -36,6 +36,10 @@ jobs:
           python tools/mix_music.py 21_music/GOT003/GOT003_MUSIC_EDL.json /tmp/vo.wav /tmp/mix.wav --dur $(python -c "import json;print(json.load(open('22_edit/GOT003/GOT003_timeline.json'))['duration'])") 2>&1 | tail -15 | tee -a $L
           FF=$(python -c "import imageio_ffmpeg;print(imageio_ffmpeg.get_ffmpeg_exe())")
           $FF -y -v error -i /tmp/mix.wav -c:a aac -b:a 192k 22_edit/GOT003/GOT003_MIX.m4a
+      - name: render maps + mockups (29 code-animated clips, timed to this timeline)
+        run: |
+          cd projects/dune_archives
+          python tools/got003_maps.py 2>&1 | tail -32 | tee -a 22_edit/GOT003/ci_master_log.txt
       - name: render 1080p master
         run: |
           cd projects/dune_archives
