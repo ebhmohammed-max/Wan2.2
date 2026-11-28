@@ -1,0 +1,149 @@
+{
+ "episode": "GOT003",
+ "batch": "BATCH004",
+ "max_batch_size": 10,
+ "status": "GENERATED_8_PASS_2_PENDING",
+ "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band.",
+ "palette": "Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze.",
+ "images": [
+  {
+   "scene_id": "GOT003_SCENE031",
+   "key": "B004S031",
+   "file": "GOT003_BATCH004_SCENE031_VALYRIA_CRUMBLES.png",
+   "chapter": "P",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. pale fused-stone palaces, temples and towers of an ancient city cracking and collapsing as a towering wall of dark sea water rushes in through the streets under a black ash sky lit red from below, steam exploding where water meets lava, seen from far away, NO people. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
+   "refs": [],
+   "qc": "PASS"
+  },
+  {
+   "scene_id": "GOT003_SCENE032",
+   "key": "B004S032",
+   "file": "GOT003_BATCH004_SCENE032_VALYRIANS_DIG.png",
+   "chapter": "P",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "TILT_DN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. a vast ancient mine cut deep into the heart of a volcano: enormous carved shafts and terraces descending into glowing orange depths, rivers of lava far below, wooden scaffolds and chains, a few tiny distant figures with lamps for scale, heat haze, ominous. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
+   "refs": [],
+   "qc": "PASS"
+  },
+  {
+   "scene_id": "GOT003_SCENE033",
+   "key": "B004S033",
+   "file": "GOT003_BATCH004_SCENE033_SMOKING_SEA.png",
+   "chapter": "P",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "DRIFT",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. the Smoking Sea: a dark steaming sea scattered with broken black volcanic islands and the jagged half-sunken ruins of pale stone towers and bridges, thick drifting steam and smoke, a dull red glow beneath the water, grey twilight, eerie and silent, NO people. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
+   "refs": [],
+   "qc": "PASS"
+  },
+  {
+   "scene_id": "GOT003_SCENE034",
+   "key": "B004S034",
+   "file": "GOT003_BATCH004_SCENE034_SHIP_SMOKING_SEA.png",
+   "chapter": "P",
+   "shot_type": "EST",
+   "cast": [],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. a lone small sailing ship with a lantern on its prow drifting into a wall of steam and smoke on a dark sea, the ghostly silhouettes of ruined towers looming in the fog ahead, ominous, the crew tiny and seen from far behind. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
+   "refs": [],
+   "qc": "PASS"
+  },
+  {
+   "scene_id": "GOT003_SCENE035",
+   "key": "B004S035",
+   "file": "GOT003_BATCH004_SCENE035_CENTURY_OF_BLOOD.png",
+   "chapter": "P",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PAN_LR",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. an ancient eastern port city of pale stone and bronze domes burning at night across a wide harbour, two war fleets of galleys with oars and sails clashing on the black water, fire reflected in the sea, seen from a distant headland, NO close figures. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
+   "refs": [],
+   "qc": "PASS"
+  },
+  {
+   "scene_id": "GOT003_SCENE036",
+   "key": "B004S036",
+   "file": "GOT003_BATCH004_SCENE036_AEGON_BOY.png",
+   "chapter": "P",
+   "shot_type": "MS",
+   "cast": [],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. a serious quiet Valyrian boy of about ten with natural pale silver-gold hair and luminous deep purple eyes, an invented original face, in a small black doublet, standing in profile on a black stone battlement shaped like a dragon's back, gazing west across a grey sea at sunset, wind in his hair, the only person in the image. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
+   "refs": [],
+   "qc": "PASS",
+   "qc_note": "eyes read grey-blue rather than violet (known drift); grade in edit"
+  },
+  {
+   "scene_id": "GOT003_SCENE037",
+   "key": "B004S037",
+   "file": "GOT003_BATCH004_SCENE037_VISENYA_SWORD.png",
+   "chapter": "I",
+   "shot_type": "MS",
+   "cast": [
+    "VISENYA"
+   ],
+   "motion_recipe": "PAN_LR",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. Queen Visenya Targaryen as described in the books, a tall severe warrior woman of about thirty-two, natural pale silver-gold Valyrian hair (NOT a flat white wig), luminous deep purple eyes, fine high cheekbones, an invented original face, hair in one tight warrior braid, a stern unsmiling mouth, dark mail over black leather, a long Valyrian steel sword (Dark Sister) with rippled grey steel at her hip, training alone with her long Valyrian steel sword in a black-stone courtyard at dawn, mid-stance with the blade raised, the smoky rippled grey pattern of the steel catching the light, focused and stern, the only figure in the image. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
+   "refs": [
+    "B001S002"
+   ],
+   "qc": "PASS",
+   "qc_note": "ref B001S002; matches Visenya portrait"
+  },
+  {
+   "scene_id": "GOT003_SCENE038",
+   "key": "B004S038",
+   "file": "GOT003_BATCH004_SCENE038_BALERION_SHADOW.png",
+   "chapter": "I",
+   "shot_type": "EW",
+   "cast": [],
+   "motion_recipe": "PAN_LR",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. the colossal shadow of an unseen giant dragon sweeping over a medieval town of timber and stone houses in bright afternoon sun, the shadow covering whole streets at once, tiny townsfolk looking up, the dragon itself only a dark shape at the very top edge of the frame. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
+   "refs": [
+    "B001S007"
+   ],
+   "qc": "PASS",
+   "qc_note": "ref B001S007; dragon reads smaller than colossal, shadow sells scale"
+  },
+  {
+   "scene_id": "GOT003_SCENE039",
+   "key": "B004S039",
+   "file": "GOT003_BATCH004_SCENE039_DRAGON_SKULLS.png",
+   "chapter": "I",
+   "shot_type": "EST",
+   "cast": [],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. a dark vaulted stone cellar beneath a castle lit by a single torch, enormous ancient black dragon skulls lined along the walls, the biggest skull in the centre with black teeth like swords and a jaw wide enough to swallow a horse and rider, dust and cobwebs, NO people. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
+   "refs": [],
+   "qc": "PENDING"
+  },
+  {
+   "scene_id": "GOT003_SCENE040",
+   "key": "B004S040",
+   "file": "GOT003_BATCH004_SCENE040_PAINTED_TABLE.png",
+   "chapter": "I",
+   "shot_type": "EST",
+   "cast": [],
+   "motion_recipe": "PUSH_IN",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. the Painted Table of Dragonstone: an enormous fifty-foot-long wooden table carved in the outline of a large continent, its top painted with forests, rivers, mountains, tiny cities and castles, NO borders, NO writing or labels, standing in a round black-stone chamber lit by braziers and tall windows, EMPTY, NO people. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
+   "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
+   "refs": [],
+   "qc": "PENDING"
+  }
+ ]
+}

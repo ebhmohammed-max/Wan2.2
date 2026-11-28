@@ -2,7 +2,7 @@
  "episode": "GOT003",
  "batch": "BATCH003",
  "max_batch_size": 10,
- "status": "GENERATED_9_OF_10 (8 PASS, 1 REDO, S030 pending)",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band.",
  "palette": "Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze.",
  "images": [
@@ -120,11 +120,11 @@
    "shot_type": "MS",
    "cast": [],
    "motion_recipe": "PUSH_IN",
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. two wealthy Valyrian dragonlords with natural pale silver-gold hair and invented original faces, in rich dark silks with gold, laughing scornfully together at a feast table on a pale stone terrace, wine cups in hand, volcanoes smoking on the horizon, restrained expressions. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. two OLDER wealthy Valyrian dragonlords in their late fifties with invented ordinary original faces: one heavyset and jowly with close-cropped silver hair and a short thick silver beard, the other gaunt and bald on top with a hooked nose, thin silver hair tied back tightly and a pointed silver goatee, NOT long flowing hair, NOT handsome leading-man faces, in rich dark silks with gold, smirking scornfully together at a feast table on a pale stone terrace, wine cups in hand, volcanoes smoking on the horizon, restrained, subtle, mouths NOT gaping. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
    "refs": [],
-   "qc": "REDO",
-   "qc_note": "left lord reads like a well-known actor (long white hair, Witcher look); redo with short hair / beards, older"
+   "qc": "PASS",
+   "qc_note": "v2 PASS: older original faces, cropped hair and beards"
   },
   {
    "scene_id": "GOT003_SCENE030",
@@ -137,7 +137,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. a dragon silhouette tumbling from a black ash-choked sky, wings burning, falling toward a glowing landscape of lava and ruins, seen from far away, apocalyptic, NO people. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   }
  ]
 }
