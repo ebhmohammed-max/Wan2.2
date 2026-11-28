@@ -2,7 +2,7 @@
  "episode": "GOT003",
  "batch": "BATCH011",
  "max_batch_size": 10,
- "status": "GENERATED_5_OF_10 (4 PASS, 1 REDO, 5 PENDING)",
+ "status": "GENERATED_9_PASS_1_PENDING",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band.",
  "palette": "Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze.",
  "images": [
@@ -49,8 +49,8 @@
    "refs": [
     "B010S093"
    ],
-   "qc": "REDO",
-   "qc_note": "REDO: face/hair and the short-platinum crowner read too close to the HBO Rhaenyra/Daemon look; redo round face, long loose hair, hooded crowner from behind"
+   "qc": "PASS",
+   "qc_note": "v2 PASS: round face, long hair, hooded crowner"
   },
   {
    "scene_id": "GOT003_SCENE104",
@@ -94,7 +94,7 @@
    "refs": [
     "B001S008"
    ],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT003_SCENE107",
@@ -104,10 +104,11 @@
    "shot_type": "EST",
    "cast": [],
    "motion_recipe": "PUSH_IN",
-   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. a thin dark-skinned girl of about fifteen with a mess of black hair, an invented original face, in ragged brown clothes, standing calmly on a windswept rocky hillside offering a freshly roasted sheep to a wild lean mud-brown dragon that crouches warily before her, misty sea cliffs behind, patient and brave, restrained. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
+   "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. a thin young woman with brown skin and a mess of black hair, an invented original face, in a plain brown cloak, standing calmly on a windswept rocky hillside near a woolly sheep, a wild lean mud-brown dragon crouching curiously in front of her, she holds out one open hand toward it, misty sea cliffs behind, patient and brave, restrained. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PENDING",
+   "qc_note": "content filter blocked v1 prompt; rephrased (young woman, live sheep, open hand)"
   },
   {
    "scene_id": "GOT003_SCENE108",
@@ -120,7 +121,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. the great domed stone dragonpit on a hill at night seen from far across the city, its dome cracked open and burning, smoke pouring into the sky, thousands of tiny torches swarming up the hill toward it, ominous, no close figures. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT003_SCENE109",
@@ -135,7 +136,8 @@
    "refs": [
     "B001S008"
    ],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "qc_note": "dragons small in frame; splash sells it"
   },
   {
    "scene_id": "GOT003_SCENE110",
@@ -148,7 +150,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. a scarred golden dragon with a torn half-healed wing crouched in the courtyard of a black stone castle with dragon-shaped towers, under a grey sky, a heavily scarred young king leaning on a cane standing beside it seen from behind, grim, no violence shown. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   }
  ]
 }
