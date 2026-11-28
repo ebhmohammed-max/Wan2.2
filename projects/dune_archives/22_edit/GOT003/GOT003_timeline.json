@@ -932,6 +932,18 @@
 ],
 "sid": "Ib",
 "anchor": "When he",
+"t1": 395.92
+},
+{
+"t0": 395.92,
+"key": "B024S240",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Ib",
+"anchor": "In the",
 "t1": 404.58
 },
 {
@@ -1364,6 +1376,18 @@
 ],
 "sid": "IIc",
 "anchor": "Visenya simply",
+"t1": 749.815
+},
+{
+"t0": 749.815,
+"key": "B025S246",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IIc",
+"anchor": "The boy",
 "t1": 763.484
 },
 {
@@ -1628,6 +1652,18 @@
 ],
 "sid": "IIIa",
 "anchor": "Maegor got",
+"t1": 985.138
+},
+{
+"t0": 985.138,
+"key": "B025S248",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IIIb",
+"anchor": "Instead, the",
 "t1": 990.098
 },
 {
@@ -1760,6 +1796,18 @@
 ],
 "sid": "IVa",
 "anchor": "The boy",
+"t1": 1103.809
+},
+{
+"t0": 1103.809,
+"key": "B025S245",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IVa",
+"anchor": "And to",
 "t1": 1111.929
 },
 {
@@ -1868,6 +1916,18 @@
 ],
 "sid": "IVb",
 "anchor": "She flew",
+"t1": 1192.479
+},
+{
+"t0": 1192.479,
+"key": "B025S247",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IVb",
+"anchor": "And at",
 "t1": 1201.319
 },
 {
@@ -2708,6 +2768,18 @@
 ],
 "sid": "VIIa",
 "anchor": "The next",
+"t1": 1875.63
+},
+{
+"t0": 1875.63,
+"key": "B025S241",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIIa",
+"anchor": "He brought",
 "t1": 1880.59
 },
 {
@@ -3020,6 +3092,18 @@
 ],
 "sid": "VIIIa",
 "anchor": "He became",
+"t1": 2141.47
+},
+{
+"t0": 2141.47,
+"key": "B025S243",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIIIa",
+"anchor": "And Aemon,",
 "t1": 2153.61
 },
 {
@@ -3044,6 +3128,18 @@
 ],
 "sid": "VIIIb",
 "anchor": "He had",
+"t1": 2178.3
+},
+{
+"t0": 2178.3,
+"key": "B024S239",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIIIb",
+"anchor": "Ser Duncan",
 "t1": 2187.24
 },
 {
@@ -3512,6 +3608,18 @@
 ],
 "sid": "IXc",
 "anchor": "Promise me,",
+"t1": 2544.919
+},
+{
+"t0": 2544.919,
+"key": "B025S242",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Xa",
+"anchor": "Before the",
 "t1": 2552.519
 },
 {
@@ -3704,6 +3812,18 @@
 ],
 "sid": "Xc",
 "anchor": "And the",
+"t1": 2719.059
+},
+{
+"t0": 2719.059,
+"key": "B025S244",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Xc",
+"anchor": "That he",
 "t1": 2725.719
 },
 {
