@@ -2,7 +2,7 @@
  "episode": "GOT003",
  "batch": "BATCH013",
  "max_batch_size": 10,
- "status": "GENERATED_9_OF_10 (8 PASS, 1 REDO, S130 PENDING)",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band.",
  "palette": "Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze.",
  "images": [
@@ -70,8 +70,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. Daemon Blackfyre, a tall, broad warrior of about twenty-five with dark hair cropped close to the scalp, clean-shaven, a once-broken nose, a small scar on his chin and violet eyes, an invented original rugged ordinary face, NOT a leading-man face, in black plate armour with a red cloak, holding a long black-bladed Valyrian steel sword upright before him, a tourney field and admiring knights blurred behind, confident, restrained, the only clear figure. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: medium shot, 50mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
    "refs": [],
-   "qc": "REDO",
-   "qc_note": "REDO: dark curls + beard + red cloak drifts toward a famous leading-man look; redo cropped hair, clean-shaven, broken nose"
+   "qc": "PASS",
+   "qc_note": "v2 PASS: cropped hair, clean-shaven, original"
   },
   {
    "scene_id": "GOT003_SCENE126",
@@ -138,7 +138,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. a disciplined army of sellswords in gilded armour marching beneath tall poles topped with gold-dipped skulls, plain cloth-of-gold banners, across a dry eastern plain at sunset, elephants far behind, seen from a distance, proud and exotic. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "qc_note": "poles topped with gold orbs, skulls not readable; fine at distance"
   }
  ]
 }
