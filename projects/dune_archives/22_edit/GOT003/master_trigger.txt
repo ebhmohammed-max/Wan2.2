@@ -1,1 +1,1 @@
-master 1 2026-11-28T12:05:17Z
+master 2 2026-11-28T13:02:26Z v2: 313 shots, 258 stills, end-card fit fix

@@ -836,6 +836,18 @@
 ],
 "sid": "Ia",
 "anchor": "Gargoyles and",
+"t1": 306.93
+},
+{
+"t0": 306.93,
+"key": "B026S251",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Ia",
+"anchor": "He had",
 "t1": 316.41
 },
 {
@@ -1196,6 +1208,18 @@
 ],
 "sid": "IIb",
 "anchor": "Three hundred",
+"t1": 637.625
+},
+{
+"t0": 637.625,
+"key": "B026S252",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IIb",
+"anchor": "People say",
 "t1": 646.205
 },
 {
@@ -1388,6 +1412,18 @@
 ],
 "sid": "IIc",
 "anchor": "The boy",
+"t1": 759.084
+},
+{
+"t0": 759.084,
+"key": "B025S250",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IId",
+"anchor": "In the",
 "t1": 763.484
 },
 {
@@ -1472,6 +1508,18 @@
 ],
 "sid": "IId",
 "anchor": "Kings who",
+"t1": 850.634
+},
+{
+"t0": 850.634,
+"key": "B026S253",
+"recipe": "TILT_UP",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IId",
+"anchor": "Six kingdoms",
 "t1": 855.814
 },
 {
@@ -2516,6 +2564,18 @@
 ],
 "sid": "VIa",
 "anchor": "He hated",
+"t1": 1668.58
+},
+{
+"t0": 1668.58,
+"key": "B026S255",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIa",
+"anchor": "Because during",
 "t1": 1672.8
 },
 {
@@ -2816,6 +2876,18 @@
 ],
 "sid": "VIIa",
 "anchor": "Daemon was",
+"t1": 1917.18
+},
+{
+"t0": 1917.18,
+"key": "B026S254",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIIa",
+"anchor": "Knights loved",
 "t1": 1924.89
 },
 {
@@ -3476,6 +3548,18 @@
 ],
 "sid": "IXb",
 "anchor": "A year",
+"t1": 2433.57
+},
+{
+"t0": 2433.57,
+"key": "B026S256",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IXb",
+"anchor": "Lyanna's brother",
 "t1": 2445.959
 },
 {
@@ -3524,6 +3608,18 @@
 ],
 "sid": "IXb",
 "anchor": "Its rubies",
+"t1": 2478.16
+},
+{
+"t0": 2478.16,
+"key": "B026S257",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IXb",
+"anchor": "In King's",
 "t1": 2485.74
 },
 {
@@ -3608,6 +3704,18 @@
 ],
 "sid": "IXc",
 "anchor": "Promise me,",
+"t1": 2536.519
+},
+{
+"t0": 2536.519,
+"key": "B025S249",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IXc",
+"anchor": "The books",
 "t1": 2544.919
 },
 {
@@ -3692,6 +3800,18 @@
 ],
 "sid": "Xa",
 "anchor": "Viserys took",
+"t1": 2599.409
+},
+{
+"t0": 2599.409,
+"key": "B026S258",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Xa",
+"anchor": "Behind his",
 "t1": 2610.989
 },
 {
