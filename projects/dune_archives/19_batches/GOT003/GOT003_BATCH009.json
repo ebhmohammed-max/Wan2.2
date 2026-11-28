@@ -2,7 +2,7 @@
  "episode": "GOT003",
  "batch": "BATCH009",
  "max_batch_size": 10,
- "status": "GENERATED_6_OF_10 (5 PASS, 1 REDO, 4 PENDING)",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band.",
  "palette": "Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze.",
  "images": [
@@ -31,8 +31,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. Queen Alysanne Targaryen as described in the books, a small slender lively young woman of about twenty with natural pale silver-gold hair pinned up in coiled braids around her head (NOT a long loose braid), luminous purple eyes, an invented original face with a round face, a light dusting of freckles, a small upturned nose and dark brows, clever intent eyes, mouth closed, NOT a smile, a deep blue and silver gown with a high collar, standing at a candlelit desk with letters and petitions, the only figure in the image. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
    "refs": [],
-   "qc": "REDO",
-   "qc_note": "REDO: platinum loose braid + smile reads like the HBO Daenerys look; redo with coiled braids, round freckled face, no smile"
+   "qc": "PASS",
+   "qc_note": "v2 PASS: coiled braids, round freckled face, no smile; eyes read blue-grey (grade)"
   },
   {
    "scene_id": "GOT003_SCENE083",
@@ -87,7 +87,8 @@
    "refs": [
     "B009S082"
    ],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "qc_note": "ref S082 v2; consistent"
   },
   {
    "scene_id": "GOT003_SCENE087",
@@ -114,7 +115,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. a royal funeral pyre burning at dusk on a stone platform by the sea, mourners in black standing in a semicircle with faces in shadow, a silver-haired grieving king and queen seen from behind, black banners, sombre, no body visible. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT003_SCENE089",
@@ -127,7 +128,7 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. a Great Council inside a gigantic cavernous castle hall of dark stone: hundreds of lords in rich cloaks seated on long benches, a forest of many-coloured plain banners hanging from the rafters, a raised dais at the far end with an old silver-haired king, shafts of light and torchlight, no faces close up. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: epic wide shot, low horizon, 24mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS"
   },
   {
    "scene_id": "GOT003_SCENE090",
@@ -140,7 +141,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. Princess Rhaenys Targaryen, the Queen Who Never Was, a proud dignified woman of about twenty-five with natural pale silver hair pinned up and luminous purple eyes, an invented original face, a quiet hurt resolve in her expression, black and red gown with a dragon brooch, in a dim stone corridor with a window behind her, restrained, the only figure in the image. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: portrait close-up, 85mm lens, shallow depth of field. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
    "refs": [],
-   "qc": "PENDING"
+   "qc": "PASS",
+   "qc_note": "original face; eyes blue (drift)"
   }
  ]
 }
