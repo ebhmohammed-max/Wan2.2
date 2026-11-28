@@ -2,7 +2,7 @@
  "episode": "GOT003",
  "batch": "BATCH012",
  "max_batch_size": 10,
- "status": "GENERATED_9_OF_10 (7 PASS, 1 REDO, 1 PENDING)",
+ "status": "GENERATED_10_PASS",
  "style": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band.",
  "palette": "Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze.",
  "images": [
@@ -58,8 +58,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. King Daeron I, a bold boy king of fourteen seen from behind and in partial profile, long natural pale silver hair blowing out from under an open-faced black helm with a small crown, an invented original face, in gilded black armour on a white horse, raising his sword to lead a long column of soldiers through a narrow pass between red mountains, banners of plain black and red, harsh sunlight, restrained. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
    "refs": [],
-   "qc": "REDO",
-   "qc_note": "REDO: blond pageboy boy-king face drifts toward the GoT Joffrey look; redo from behind/profile, long silver hair, open helm"
+   "qc": "PASS",
+   "qc_note": "v2 PASS: from behind, long silver hair under helm"
   },
   {
    "scene_id": "GOT003_SCENE115",
@@ -112,8 +112,8 @@
    "prompt": "ultra-realistic 3D cinematic reconstruction, photoreal, physically based lighting, fine film grain, full-bleed wide 16:9 cinematic frame, NO black bars, important action in the central band. a tall slender tower of red stone inside a castle at dusk, its door shut and guarded, high up three small windows glowing with candlelight, three tiny distant feminine silhouettes visible in the lit windows, a lonely melancholy mood, the courtyard empty. Targaryen palette: obsidian black and blood red, dragonfire orange and ember gold, Valyrian smoke and ash, cold grey stone and dark sea; volumetric light, drifting embers or haze. Camera: establishing shot, 35mm lens. Texture: fine film grain, atmospheric haze, tactile materials. Book-accurate original design, NOT the HBO TV design. Every face is an invented unknown person who must NOT resemble any actor or celebrity, especially the casts of Game of Thrones, House of the Dragon or A Knight of the Seven Kingdoms. NO arches, NO columns unless stated. No text, letters, runes, logos or symbols anywhere in the image.",
    "negative": "text, letters, runes, words, watermark, logo, caption, actor likeness, celebrity, TV still, cosplay wig, cartoon, anime, illustration, oversaturated, neon, gore, blood, wounds, extra fingers, deformed hands, black bars",
    "refs": [],
-   "qc": "PENDING",
-   "qc_note": "content filter blocked v1 (princesses behind bars); rephrased to tower exterior with silhouettes"
+   "qc": "PASS",
+   "qc_note": "v2 (filter-safe) PASS: tower exterior, three lit windows"
   },
   {
    "scene_id": "GOT003_SCENE119",
