@@ -59,8 +59,11 @@ def first2(s):
 def build():
     num = dict(I.NUM)
     shots = {}
-    for sid, si, anc, shot, rec in P.PLAN:
-        n = num[shot[0]] if isinstance(shot, tuple) else (num[shot] if isinstance(shot, str) else shot)
+    for sid, si, anc, shot, rec in list(P.PLAN) + list(getattr(P, 'CODE_SHOTS', [])):
+        if isinstance(shot, str) and shot.startswith('MAP:'):
+            n = shot                       # code-animated map / mockup (data/got003.py MAPS)
+        else:
+            n = num[shot[0]] if isinstance(shot, tuple) else (num[shot] if isinstance(shot, str) else shot)
         shots.setdefault((sid, si), []).append((anc, n, rec))
     out, used, seen_ch = [], set(), set()
     for sec in VP['order']:
@@ -89,7 +92,7 @@ def build():
     for (sec, gi) in shots:
         assert gi < len(sentences(sec)), ('plan row past section end', sec, gi)
     total = len(I.ROWS)
-    missing = sorted(set(range(1, total + 1)) - used)
+    missing = sorted(set(range(1, total + 1)) - {u for u in used if isinstance(u, int)})
     return out, missing
 
 
@@ -99,7 +102,8 @@ def main():
     for sid, name, ch, rows in out:
         L.append(f' ({sid!r}, {name!r}, {ch!r}, [')
         for txt, sh, gf in rows:
-            ss = ', '.join(f'({a!r}, k({n}), {rec!r})' for a, n, rec in sh)
+            ss = ', '.join(f'({a!r}, {n!r}, {rec!r})' if isinstance(n, str) else f'({a!r}, k({n}), {rec!r})'
+                           for a, n, rec in sh)
             gg = ', '.join(f'({g[0]!r}, {g[1]}, {g[2]!r}, {g[3]})' for g in gf)
             L.append(f'  ({txt!r}, [{ss}], [{gg}]),')
         L.append(' ]),')

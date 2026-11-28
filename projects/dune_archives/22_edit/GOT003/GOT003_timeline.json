@@ -548,6 +548,18 @@
 ],
 "sid": "Pa",
 "anchor": "And one",
+"t1": 101.83
+},
+{
+"t0": 101.83,
+"key": "MAP:K01",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Pa",
+"anchor": "They often",
 "t1": 113.9
 },
 {
@@ -572,6 +584,18 @@
 ],
 "sid": "Pb",
 "anchor": "It was",
+"t1": 132.99
+},
+{
+"t0": 132.99,
+"key": "MAP:K03",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Pb",
+"anchor": "The Targaryens",
 "t1": 144.76
 },
 {
@@ -584,6 +608,18 @@
 ],
 "sid": "Pb",
 "anchor": "The histories",
+"t1": 147.72
+},
+{
+"t0": 147.72,
+"key": "MAP:K02",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Pb",
+"anchor": "She saw",
 "t1": 151.19
 },
 {
@@ -620,6 +656,18 @@
 ],
 "sid": "Pb",
 "anchor": "The other",
+"t1": 175.4
+},
+{
+"t0": 175.4,
+"key": "MAP:M01",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Pb",
+"anchor": "Twelve years",
 "t1": 186.04
 },
 {
@@ -896,6 +944,18 @@
 ],
 "sid": "Ib",
 "anchor": "In the",
+"t1": 445.97
+},
+{
+"t0": 445.97,
+"key": "MAP:M02",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Ic",
+"anchor": "Because when",
 "t1": 475.86
 },
 {
@@ -968,6 +1028,18 @@
 ],
 "sid": "IIa",
 "anchor": "Aegon landed",
+"t1": 548.255
+},
+{
+"t0": 548.255,
+"key": "MAP:M03",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IIa",
+"anchor": "He brought",
 "t1": 552.515
 },
 {
@@ -1196,6 +1268,18 @@
 ],
 "sid": "IIc",
 "anchor": "They call",
+"t1": 729.405
+},
+{
+"t0": 729.405,
+"key": "MAP:M04",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IIc",
+"anchor": "After that,",
 "t1": 744.995
 },
 {
@@ -1256,6 +1340,18 @@
 ],
 "sid": "IId",
 "anchor": "An asymmetric",
+"t1": 832.034
+},
+{
+"t0": 832.034,
+"key": "MAP:K04",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IId",
+"anchor": "A king,",
 "t1": 839.594
 },
 {
@@ -1280,6 +1376,18 @@
 ],
 "sid": "IId",
 "anchor": "Dorne was",
+"t1": 861.654
+},
+{
+"t0": 861.654,
+"key": "MAP:M05",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IId",
+"anchor": "And the",
 "t1": 875.174
 },
 {
@@ -1352,6 +1460,18 @@
 ],
 "sid": "IIe",
 "anchor": "Aegon read",
+"t1": 907.554
+},
+{
+"t0": 907.554,
+"key": "MAP:K05",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IIe",
+"anchor": "No one",
 "t1": 916.674
 },
 {
@@ -1376,6 +1496,18 @@
 ],
 "sid": "CA",
 "anchor": "If you",
+"t1": 933.08
+},
+{
+"t0": 933.08,
+"key": "MAP:K19",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "CA",
+"anchor": "We bring",
 "t1": 956.83
 },
 {
@@ -1556,6 +1688,18 @@
 ],
 "sid": "IVa",
 "anchor": "Together, on",
+"t1": 1124.179
+},
+{
+"t0": 1124.179,
+"key": "MAP:M06",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IVa",
+"anchor": "And they",
 "t1": 1132.409
 },
 {
@@ -1568,6 +1712,18 @@
 ],
 "sid": "IVa",
 "anchor": "Jaehaerys's Hand,",
+"t1": 1155.359
+},
+{
+"t0": 1155.359,
+"key": "MAP:K06",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IVa",
+"anchor": "Jaehaerys gave",
 "t1": 1159.059
 },
 {
@@ -1640,6 +1796,18 @@
 ],
 "sid": "IVb",
 "anchor": "In the",
+"t1": 1234.089
+},
+{
+"t0": 1234.089,
+"key": "MAP:K07",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IVb",
+"anchor": "The lords",
 "t1": 1238.949
 },
 {
@@ -1736,6 +1904,18 @@
 ],
 "sid": "Vb",
 "anchor": "Aegon.",
+"t1": 1324.927
+},
+{
+"t0": 1324.927,
+"key": "MAP:K08",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Vb",
+"anchor": "But Viserys",
 "t1": 1329.567
 },
 {
@@ -1760,6 +1940,18 @@
 ],
 "sid": "Vb",
 "anchor": "From then",
+"t1": 1341.587
+},
+{
+"t0": 1341.587,
+"key": "MAP:M07",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Vb",
+"anchor": "The greens,",
 "t1": 1353.907
 },
 {
@@ -1856,6 +2048,18 @@
 ],
 "sid": "Vc",
 "anchor": "On Dragonstone,",
+"t1": 1430.697
+},
+{
+"t0": 1430.697,
+"key": "MAP:M08",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Vc",
+"anchor": "The first",
 "t1": 1443.187
 },
 {
@@ -2000,6 +2204,18 @@
 ],
 "sid": "Ve",
 "anchor": "In the",
+"t1": 1630.347
+},
+{
+"t0": 1630.347,
+"key": "MAP:K09",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Ve",
+"anchor": "A house",
 "t1": 1636.647
 },
 {
@@ -2012,6 +2228,18 @@
 ],
 "sid": "Ve",
 "anchor": "And the",
+"t1": 1640.32
+},
+{
+"t0": 1640.32,
+"key": "MAP:K18",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIa",
+"anchor": "The new",
 "t1": 1646.08
 },
 {
@@ -2060,6 +2288,18 @@
 ],
 "sid": "VIa",
 "anchor": "At fourteen,",
+"t1": 1717.08
+},
+{
+"t0": 1717.08,
+"key": "MAP:M09",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIb",
+"anchor": "He conquered",
 "t1": 1721.07
 },
 {
@@ -2168,6 +2408,18 @@
 ],
 "sid": "VIc",
 "anchor": "He legitimized",
+"t1": 1839.37
+},
+{
+"t0": 1839.37,
+"key": "MAP:K11",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIc",
+"anchor": "Every one",
 "t1": 1845.51
 },
 {
@@ -2228,6 +2480,18 @@
 ],
 "sid": "VIIa",
 "anchor": "Daemon was",
+"t1": 1924.89
+},
+{
+"t0": 1924.89,
+"key": "MAP:K12",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIIa",
+"anchor": "And he",
 "t1": 1927.85
 },
 {
@@ -2240,6 +2504,18 @@
 ],
 "sid": "VIIa",
 "anchor": "Where the",
+"t1": 1933.81
+},
+{
+"t0": 1933.81,
+"key": "MAP:M10",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIIa",
+"anchor": "In the",
 "t1": 1938.91
 },
 {
@@ -2300,6 +2576,18 @@
 ],
 "sid": "VIIb",
 "anchor": "He became",
+"t1": 2025.84
+},
+{
+"t0": 2025.84,
+"key": "MAP:K13",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIIb",
+"anchor": "There was",
 "t1": 2032.4
 },
 {
@@ -2444,6 +2732,18 @@
 ],
 "sid": "VIIIb",
 "anchor": "The histories",
+"t1": 2210.9
+},
+{
+"t0": 2210.9,
+"key": "MAP:K14",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIIIb",
+"anchor": "Only fragments",
 "t1": 2217.44
 },
 {
@@ -2624,6 +2924,18 @@
 ],
 "sid": "IXb",
 "anchor": "They grew",
+"t1": 2391.6
+},
+{
+"t0": 2391.6,
+"key": "MAP:K15",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IXb",
+"anchor": "He surrounded",
 "t1": 2400.1
 },
 {
@@ -2636,6 +2948,18 @@
 ],
 "sid": "IXb",
 "anchor": "In the",
+"t1": 2406.72
+},
+{
+"t0": 2406.72,
+"key": "MAP:K16",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IXb",
+"anchor": "And as",
 "t1": 2416.57
 },
 {
@@ -2660,6 +2984,18 @@
 ],
 "sid": "IXb",
 "anchor": "A year",
+"t1": 2445.959
+},
+{
+"t0": 2445.959,
+"key": "MAP:M11",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IXb",
+"anchor": "Then Aerys",
 "t1": 2454.82
 },
 {
@@ -2780,6 +3116,18 @@
 ],
 "sid": "Xa",
 "anchor": "Years later,",
+"t1": 2588.409
+},
+{
+"t0": 2588.409,
+"key": "MAP:M12",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Xa",
+"anchor": "Then the",
 "t1": 2593.409
 },
 {

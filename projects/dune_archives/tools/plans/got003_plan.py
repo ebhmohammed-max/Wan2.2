@@ -242,3 +242,38 @@ PLAN = [
  ('IX', 41, None, N('WILDFIRE_CACHES', 'EW', [], 'a long dark brick tunnel beneath a city, its walls lined floor to ceiling with thousands of round clay jars glowing faint sickly green from within, cobwebs, dripping water, a single torch far away, dread, no people'), 'PUSH_IN'),
  ('V', 55, None, N('MELEYS_FALLS', 'EW', [], 'a red-scaled dragon falling from a smoke-filled sky over a castle and a battlefield, wings crumpled, trailing smoke, two other dragons, one golden and one vast bronze, circling above through the haze, seen from far below, tragic, no gore'), 'TILT_DN'),
 ]
+
+# ---- code-animated maps (M) and in-world mockups (K): rendered to 19_batches/GOT003/maps/*.mp4 by
+# tools/got003_maps.py from text-free base art in 19_batches/GOT003/maps_base/; labels/routes/ink set in code.
+# (sid, sentence_idx, anchor|None, key, recipe) - merged into the timeline by tools/plans/fill_got003.py
+CODE_SHOTS = [
+ ('P', 7, None, 'MAP:K01', 'PUSH_IN'),     # Gyldayn's page: Eustace / Munkun / Mushroom disagree
+ ('P', 13, None, 'MAP:K03', 'PUSH_IN'),    # family tree (grows; recurs)
+ ('P', 19, None, 'MAP:K02', 'PUSH_IN'),    # Daenys's dream scroll fragment
+ ('P', 25, None, 'MAP:M01', 'PUSH_IN'),    # Valyrian Freehold: the Fourteen Flames wake, Aenar's route
+ ('I', 36, None, 'MAP:M02', 'PUSH_IN'),    # Westeros before the Conquest: seven kingdoms + sigils
+ ('II', 1, None, 'MAP:M03', 'PUSH_IN'),    # Aegon's landing: Dragonstone -> three hills (Aegonfort)
+ ('II', 49, None, 'MAP:M04', 'PUSH_IN'),   # the Conquest: kingdoms flip black-and-red
+ ('II', 70, None, 'MAP:K04', 'PUSH_IN'),   # Iron Throne decree: "A king should never sit easy."
+ ('II', 77, None, 'MAP:M05', 'PUSH_IN'),   # Dorne unconquered; Hellholt; Dragon's Wroth
+ ('II', 90, None, 'MAP:K05', 'PUSH_IN'),   # Princess Deria's sealed letter
+ ('CA', 1, None, 'MAP:K19', 'PUSH_IN'),    # gold dragon coin, front and back
+ ('IV', 7, None, 'MAP:M06', 'PUSH_IN'),    # Jaehaerys's roads; Alysanne's flight to the Wall
+ ('IV', 14, None, 'MAP:K06', 'PUSH_IN'),   # Jaehaerys's Code: one law instead of seven
+ ('IV', 32, None, 'MAP:K07', 'PUSH_IN'),   # Great Council 101 AC ledger with tally marks
+ ('V', 19, None, 'MAP:K08', 'PUSH_IN'),    # proclamation naming Rhaenyra heir ("never changed his mind")
+ ('V', 23, None, 'MAP:M07', 'PUSH_IN'),    # blacks and greens, 129 AC
+ ('V', 45, None, 'MAP:M08', 'PUSH_IN'),    # the Dance: Storm's End, Rook's Rest, Tumbleton, Gods Eye
+ ('V', 89, None, 'MAP:K09', 'PUSH_IN'),    # Dragon Registry: struck through as the Dance destroys them
+ ('VI', 0, None, 'MAP:K18', 'PUSH_IN'),    # kings scroll again
+ ('VI', 17, None, 'MAP:M09', 'PUSH_IN'),   # the Young Dragon's conquest of Dorne (157 AC)
+ ('VI', 47, None, 'MAP:K11', 'PUSH_IN'),   # Aegon IV's deathbed decree
+ ('VII', 18, None, 'MAP:K12', 'PUSH_IN'),  # Targaryen vs Blackfyre banners, colours reversed
+ ('VII', 20, None, 'MAP:M10', 'PUSH_IN'),  # Redgrass Field 196 AC
+ ('VII', 41, None, 'MAP:K13', 'PUSH_IN'),  # "How many eyes does Lord Bloodraven have?"
+ ('VIII', 32, None, 'MAP:K14', 'PUSH_IN'), # Maester's ink-blotted letter from Summerhall: the fragments
+ ('IX', 19, None, 'MAP:K15', 'PUSH_IN'),   # pyromancers' wildfire ledger
+ ('IX', 22, None, 'MAP:K16', 'PUSH_IN'),   # Harrenhal tourney roll: queen of love and beauty
+ ('IX', 29, None, 'MAP:M11', 'PUSH_IN'),   # Robert's Rebellion
+ ('X', 9, None, 'MAP:M12', 'PUSH_IN'),     # the exiles: Dragonstone -> Braavos -> ... -> Meereen
+]
