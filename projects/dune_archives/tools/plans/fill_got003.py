@@ -18,6 +18,8 @@ sys.path[:0] = [str(ROOT / 'data'), str(ROOT / 'tools/plans')]
 import got003_images as I  # noqa: E402
 import got003_plan as P  # noqa: E402
 
+STILLS = ROOT / '19_batches/GOT003/stills_jpg'
+PENDING = []
 VP = json.load(open(ROOT / '20_voiceover/GOT003/GOT003_vo_plan.json'))
 NAMES = {'H': 'Hook', 'P': 'Prologue: The Dreamer', 'I': 'Three Dragons', 'II': 'The Field of Fire', 'CA': 'Subscribe',
          'III': 'The Sons of the Dragon', 'IV': 'The Old King and the Good Queen', 'V': 'The Dance of the Dragons',
@@ -128,12 +130,18 @@ def first2(s):
 
 def build():
     num = dict(I.NUM)
+    slugs = [r[0] for r in [x[3] for x in P.PLAN if isinstance(x[3], tuple)]]
+    dup = sorted({x for x in slugs if slugs.count(x) > 1})
+    assert not dup, f'duplicate still slugs in the plan (string refs would resolve to the wrong still): {dup}'
     shots = {}
     for sid, si, anc, shot, rec in list(P.PLAN) + list(getattr(P, 'CODE_SHOTS', [])) + list(getattr(P, 'RECAP_SHOTS', [])):
         if isinstance(shot, str) and shot.startswith('MAP:'):
             n = shot                       # code-animated map / mockup (data/got003.py MAPS)
         else:
             n = num[shot[0]] if isinstance(shot, tuple) else (num[shot] if isinstance(shot, str) else shot)
+            if not list(STILLS.glob(f'GOT003_BATCH*_SCENE{n:03d}_*.jpg')):
+                PENDING.append(n)          # not generated / not PASS yet: leave it out so renders never break
+                continue
         shots.setdefault((sid, si), []).append((anc, n, rec))
     out, used, seen_ch = [], set(), set()
     for sec in VP['order']:
@@ -162,7 +170,7 @@ def build():
     for (sec, gi) in shots:
         assert gi < len(sentences(sec)), ('plan row past section end', sec, gi)
     total = len(I.ROWS)
-    missing = sorted(set(range(1, total + 1)) - {u for u in used if isinstance(u, int)})
+    missing = sorted(set(range(1, total + 1)) - {u for u in used if isinstance(u, int)} - set(PENDING))
     return out, missing
 
 
@@ -184,7 +192,8 @@ def main():
     p.write_text(src[:a] + '\n'.join(L) + '\n' + src[b:])
     nl = sum(len(r[3]) for r in out)
     print(f'written {len(out)} timeline sections, {nl} lines, {sum(len(x[1]) for r in out for x in r[3])} cuts, '
-          f'{sum(len(x[2]) for r in out for x in r[3])} graphics; stills never used: {missing}')
+          f'{sum(len(x[2]) for r in out for x in r[3])} graphics; stills never used: {missing}; '
+          f'pending (skipped): {sorted(PENDING)}')
 
 
 if __name__ == '__main__':

@@ -812,6 +812,18 @@
 ],
 "sid": "Ia",
 "anchor": "Aegon Targaryen",
+"t1": 282.73
+},
+{
+"t0": 282.73,
+"key": "B023S221",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Ia",
+"anchor": "The Valyrians",
 "t1": 298.79
 },
 {
@@ -924,7 +936,7 @@
 },
 {
 "t0": 404.58,
-"key": "B019S187",
+"key": "B004S039",
 "recipe": "PUSH_IN",
 "focus": [
 0.5,
@@ -944,6 +956,18 @@
 ],
 "sid": "Ib",
 "anchor": "In the",
+"t1": 431.46
+},
+{
+"t0": 431.46,
+"key": "B023S222",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Ib",
+"anchor": "And on",
 "t1": 438.31
 },
 {
@@ -1028,6 +1052,18 @@
 ],
 "sid": "Ic",
 "anchor": "Aegon has",
+"t1": 526.19
+},
+{
+"t0": 526.19,
+"key": "B023S224",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Ic",
+"anchor": "That prophecy",
 "t1": 539.955
 },
 {
@@ -1088,6 +1124,18 @@
 ],
 "sid": "IIb",
 "anchor": "Harren the",
+"t1": 582.975
+},
+{
+"t0": 582.975,
+"key": "B023S228",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IIb",
+"anchor": "Its five",
 "t1": 596.715
 },
 {
@@ -2120,6 +2168,18 @@
 ],
 "sid": "Vc",
 "anchor": "Above Shipbreaker",
+"t1": 1450.927
+},
+{
+"t0": 1450.927,
+"key": "B023S226",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Vc",
+"anchor": "The war",
 "t1": 1464.707
 },
 {
@@ -2216,6 +2276,18 @@
 ],
 "sid": "Vd",
 "anchor": "One night,",
+"t1": 1547.187
+},
+{
+"t0": 1547.187,
+"key": "B023S225",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Vd",
+"anchor": "Chained in",
 "t1": 1560.937
 },
 {
@@ -2732,6 +2804,18 @@
 ],
 "sid": "VIIb",
 "anchor": "The Golden",
+"t1": 2003.11
+},
+{
+"t0": 2003.11,
+"key": "B023S223",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIIb",
+"anchor": "The last",
 "t1": 2016.21
 },
 {
@@ -3092,6 +3176,18 @@
 ],
 "sid": "IXa",
 "anchor": "He named",
+"t1": 2328.42
+},
+{
+"t0": 2328.42,
+"key": "B023S227",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IXa",
+"anchor": "And for",
 "t1": 2344.42
 },
 {
