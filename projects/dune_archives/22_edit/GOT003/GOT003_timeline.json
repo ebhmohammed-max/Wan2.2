@@ -1328,6 +1328,18 @@
 ],
 "sid": "IId",
 "anchor": "When he",
+"t1": 779.414
+},
+{
+"t0": 779.414,
+"key": "B022S217",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IId",
+"anchor": "And in",
 "t1": 787.434
 },
 {
@@ -1736,6 +1748,18 @@
 ],
 "sid": "IVa",
 "anchor": "Jaehaerys's Hand,",
+"t1": 1141.829
+},
+{
+"t0": 1141.829,
+"key": "B022S218",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IVa",
+"anchor": "The Faith",
 "t1": 1155.359
 },
 {
@@ -2216,6 +2240,18 @@
 ],
 "sid": "Vd",
 "anchor": "And above",
+"t1": 1576.177
+},
+{
+"t0": 1576.177,
+"key": "B022S219",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Vd",
+"anchor": "When Vhagar",
 "t1": 1589.077
 },
 {
@@ -2312,6 +2348,18 @@
 ],
 "sid": "VIa",
 "anchor": "He was",
+"t1": 1656.54
+},
+{
+"t0": 1656.54,
+"key": "B022S212",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIa",
+"anchor": "He hated",
 "t1": 1672.8
 },
 {
@@ -2384,6 +2432,18 @@
 ],
 "sid": "VIb",
 "anchor": "It rose",
+"t1": 1741.34
+},
+{
+"t0": 1741.34,
+"key": "B022S215",
+"recipe": "PAN_LR",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIb",
+"anchor": "The histories",
 "t1": 1755.88
 },
 {
@@ -2408,6 +2468,18 @@
 ],
 "sid": "VIb",
 "anchor": "Baelor walked",
+"t1": 1781.0
+},
+{
+"t0": 1781.0,
+"key": "B022S214",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIb",
+"anchor": "Baelor survived.",
 "t1": 1792.56
 },
 {
@@ -2540,6 +2612,18 @@
 ],
 "sid": "VIIa",
 "anchor": "His sister",
+"t1": 1893.46
+},
+{
+"t0": 1893.46,
+"key": "B022S211",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIIa",
+"anchor": "And they",
 "t1": 1908.24
 },
 {
@@ -2624,6 +2708,18 @@
 ],
 "sid": "VIIb",
 "anchor": "When Daemon",
+"t1": 1980.26
+},
+{
+"t0": 1980.26,
+"key": "B022S213",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIIb",
+"anchor": "But the",
 "t1": 1994.11
 },
 {
@@ -2708,6 +2804,18 @@
 ],
 "sid": "VIIc",
 "anchor": "In the",
+"t1": 2067.68
+},
+{
+"t0": 2067.68,
+"key": "B022S216",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIIIa",
+"anchor": "Now the",
 "t1": 2082.98
 },
 {
@@ -3152,6 +3260,18 @@
 ],
 "sid": "IXb",
 "anchor": "Its rubies",
+"t1": 2485.74
+},
+{
+"t0": 2485.74,
+"key": "B022S220",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IXb",
+"anchor": "Aerys opened",
 "t1": 2490.579
 },
 {
