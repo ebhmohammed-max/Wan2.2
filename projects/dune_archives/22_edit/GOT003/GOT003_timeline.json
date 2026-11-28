@@ -1616,6 +1616,18 @@
 ],
 "sid": "IIIa",
 "anchor": "Huge, strong,",
+"t1": 979.59
+},
+{
+"t0": 979.59,
+"key": "B023S230",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IIIa",
+"anchor": "Maegor got",
 "t1": 990.098
 },
 {
@@ -1880,6 +1892,18 @@
 ],
 "sid": "IVb",
 "anchor": "Their heir,",
+"t1": 1217.499
+},
+{
+"t0": 1217.499,
+"key": "B024S238",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IVb",
+"anchor": "Who inherits",
 "t1": 1225.379
 },
 {
@@ -2456,6 +2480,18 @@
 ],
 "sid": "VIa",
 "anchor": "He sent",
+"t1": 1693.99
+},
+{
+"t0": 1693.99,
+"key": "B024S231",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIa",
+"anchor": "All nine",
 "t1": 1709.37
 },
 {
@@ -2924,6 +2960,18 @@
 ],
 "sid": "VIIIa",
 "anchor": "Their adventures",
+"t1": 2105.6
+},
+{
+"t0": 2105.6,
+"key": "B024S233",
+"recipe": "PULL_OUT",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIIIa",
+"anchor": "But nobody",
 "t1": 2114.09
 },
 {
@@ -3080,6 +3128,18 @@
 ],
 "sid": "VIIIb",
 "anchor": "And it",
+"t1": 2244.77
+},
+{
+"t0": 2244.77,
+"key": "B024S237",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "VIIIb",
+"anchor": "But the",
 "t1": 2255.25
 },
 {
@@ -3236,6 +3296,18 @@
 ],
 "sid": "IXa",
 "anchor": "Ser Barristan",
+"t1": 2374.83
+},
+{
+"t0": 2374.83,
+"key": "B024S235",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IXa",
+"anchor": "Afterwards, Aerys",
 "t1": 2385.129
 },
 {
@@ -3392,6 +3464,18 @@
 ],
 "sid": "IXc",
 "anchor": "Aerys had",
+"t1": 2510.819
+},
+{
+"t0": 2510.819,
+"key": "B024S232",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "IXc",
+"anchor": "For the",
 "t1": 2521.759
 },
 {
@@ -3440,6 +3524,18 @@
 ],
 "sid": "Xa",
 "anchor": "And as",
+"t1": 2560.359
+},
+{
+"t0": 2560.359,
+"key": "B024S236",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Xa",
+"anchor": "In the",
 "t1": 2572.279
 },
 {
@@ -3572,6 +3668,18 @@
 ],
 "sid": "Xb",
 "anchor": "Old Maester",
+"t1": 2690.939
+},
+{
+"t0": 2690.939,
+"key": "B024S234",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Xb",
+"anchor": "In his",
 "t1": 2699.069
 },
 {
@@ -3608,6 +3716,18 @@
 ],
 "sid": "Xc",
 "anchor": "And at",
+"t1": 2733.609
+},
+{
+"t0": 2733.609,
+"key": "B023S229",
+"recipe": "PUSH_IN",
+"focus": [
+0.5,
+0.5
+],
+"sid": "Xc",
+"anchor": "In the",
 "t1": 2746.919
 },
 {
