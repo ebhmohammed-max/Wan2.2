@@ -25,6 +25,12 @@ PROMPTS = {  # proper-noun hints per episode (EP env var; default DUN003 = PROMP
                "Umber, Flint, Norrey, Woodfoot, Bolton, Samwell Tarly, weirwood, Hardhome, Daenerys, Arya Stark, "
                "Valyrian steel, dragonglass, Lann the Clever, Casterly Rock, Coldhands, Ygritte, Others, White Walker, "
                "HBO, George R. R. Martin, The Winds of Winter, Westeros, Mythic Archives."),
+    'GOT003': ("Targaryen, Valyria, Daenys, Aenar, Aegon, Visenya, Rhaenys, Balerion, Vhagar, Meraxes, Dragonstone, "
+               "Harrenhal, Harren, Argilac, Orys Baratheon, Torrhen Stark, Ronnel Arryn, Hellholt, Aenys, Maegor, Jaehaerys, "
+               "Alysanne, Vermithor, Silverwing, Septon Barth, Viserys, Rhaenyra, Alicent Hightower, Daemon, Caraxes, Aemond, "
+               "Lucerys, Arrax, Meleys, Sunfyre, Nettles, Tumbleton, Daeron, Baelor, Blackfyre, Bittersteel, Bloodraven, Brynden, "
+               "Maekar, Summerhall, Rhaegar, Aerys, Rhaella, Duskendale, Lyanna, Daenerys, Drogon, Rhaegal, Viserion, Gyldayn, "
+               "maester, septon, Westeros, Mythic Archives."),
 }
 PROMPT = PROMPTS.get(os.environ.get('EP', 'DUN003').upper(), PROMPT)
 

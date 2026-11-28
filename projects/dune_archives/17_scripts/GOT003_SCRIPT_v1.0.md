@@ -1,6 +1,6 @@
 # GOT003 SCRIPT v1.0: The Complete History of House Targaryen
 
-Status: **v1.0 DRAFT, awaiting director approval** (2026-11-27). The VO is recorded only after approval.
+Status: **v1.0 APPROVED** by the director ("go on", 2026-11-27). Open questions resolved by default: in-video document mockups; length as written (~46–47 min); end card WATCH NEXT: THE OTHERS. VO recording in progress (voice-14).
 
 **Topic:** chosen by the director on 2026-11-27: "The Complete History of House Targaryen", **duration 45+ minutes**.
 Director additions for this episode:
@@ -673,7 +673,7 @@ These go into `WESTEROS_BOOK_LOOKS.md` §7 before the stills.
 
 *{NOTE: THE BOOKS · "Burn them all."}*
 
-> Rhaegar's children did not survive the sack. And far to the south, in a tower in the mountains of Dorne, Lyanna Stark lay dying in a bed of blood, and made her brother promise something.
+> Rhaegar's children did not survive the sack. And far to the south, in a tower in the mountains of Dorne, Lyanna Stark lay dying, and made her brother promise something.
 > Promise me, Ned.
 > The books never tell us what he promised.
 
