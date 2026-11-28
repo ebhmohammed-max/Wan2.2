@@ -166,3 +166,34 @@ They grow throughout their lives. In ADWD the three are still young, about horse
 | **Bloodraven / the last greenseer** | ✅ Nearly a skeleton, albino-pale, one red eye, a weirwood root growing through the empty socket, sitting in a throne of roots. Shown in shadow only | TV actor likeness |
 | **High Heart** | ◻ A hill with a ring of 31 weirwood stumps, haunted (a tiny albino ghost woman with red eyes) | — |
 | **Isle of Faces / green men** | ◻ An island in the Gods Eye with carved weirwoods. In legend, the green men have green skin and antlers; shown in shadow | — |
+
+## 7. GOT003 additions: House Targaryen (book looks; prompts in `data/got003_images.py` CAST)
+
+**Rules**
+- Every Targaryen face is an **invented original**. No likeness to the House of the Dragon, Game of Thrones or A Knight of the Seven Kingdoms casts. Avoid the "TV silver wig" look: hair is natural, varied in length, sometimes braided, and pale silver-gold rather than flat white.
+- **Valyrian blood:** pale silver-gold hair; purple eyes (lilac, violet, indigo); fine, high-boned, "more than human" beauty.
+- **Dress by era:**
+  - Conquest (1 AC): dark mail, leather, black and red cloth, few jewels.
+  - Jaehaerys / Viserys I (48–129 AC): rich high-medieval silks, brocade, gold chains.
+  - Late kings (200–283 AC): later medieval plate and velvet.
+  - The sigil is a red three-headed dragon on black, worked in cloth, enamel or rubies. Never written text.
+- **Dragons (book):**
+  - Huge reptilian bodies, wings as the forelimbs, two powerful hind legs, a long neck and tail, horned crests.
+  - Smoke from the nostrils; fire coloured like the scales.
+  - The great old dragons dwarf castles.
+- **Violence:** suggest it, never show it. Fire at a distance, aftermath, empty armour, shadows. No gore and no cutting.
+
+**Characters, as described in the books**
+- **Aegon I:** a grave, imposing man in his prime; close-cut silver-gold hair; deep purple eyes; dark mail with a black-and-red surcoat; a Valyrian steel crown set with square-cut rubies; the black Valyrian sword Blackfyre. Silent and watchful.
+- **Visenya:** the elder sister-queen, tall and severe; hair in a tight warrior's braid; mail over black; the Valyrian sword Dark Sister on her hip. Stern, unsmiling.
+- **Rhaenys:** the younger sister-queen, bright, warm and playful; loose silver-gold curls; red and black silks; often among singers or in flight.
+- **Daenys the Dreamer:** a Valyrian maiden of about fourteen; long silver-gold hair; wide violet eyes; pale silks. Haunted.
+- **Aenar Targaryen:** a Valyrian dragonlord of about fifty; silver beard; a dark robe with a dragon clasp. Resolute.
+- **Archmaester Gyldayn:** an old maester of the Citadel; grey robe and chain; quill and candle. Never seen clearly; mostly hands and back.
+- **Balerion, the Black Dread:** colossal; black scales; black fire edged with red; teeth like black swords; wings that blot out the sun.
+- **Vhagar:** a huge bronze dragon with blue-green tints (◻); later vast, old and slow.
+- **Meraxes:** silver-white scales with pale gold (◻).
+
+**Places and objects**
+- **The Iron Throne (book):** an "asymmetric monstrosity of spikes and jagged edges and twisted metal". Very tall, made of hundreds of half-melted, fused sword blades, on a high platform reached by steep iron steps. **NOT the show's compact chair.**
+- **Dragonstone:** black fused stone; towers carved as hunched dragons; gates as dragon mouths; gargoyles; a steaming mountain (Dragonmont).
