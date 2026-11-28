@@ -19,35 +19,35 @@ OK Phantasm 219.048005s sha256(src)=f5d2256207776d572d248732b91b49b35f971f5e9708
 OK Ossuary_6_Air 250.070204s sha256(src)=bf57ba7ee56b357dbd8677b41475a2fbe01d282114bc3c64e6deea2b52717fac ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Ossuary%206%20-%20Air.mp3
 OK Crypto 204.068571s sha256(src)=f09ba8bff00baca85fcdcde3b7f5d6b34a09c2c0b44b007a9123ee42f7d1bcf2 ct=application/octet-stream url=https://incompetech.com/music/royalty-free/mp3-royaltyfree/Crypto.mp3
 total 108688
-drwxr-xr-x 2 runner runner    4096 Nov 28 12:07 .
-drwxr-xr-x 3 runner runner    4096 Nov 28 12:06 ..
--rw-r--r-- 1 runner runner 5612637 Nov 28 12:06 Angevin.mp3
--rw-r--r-- 1 runner runner 3976328 Nov 28 12:06 Crusade.mp3
--rw-r--r-- 1 runner runner 4082964 Nov 28 12:07 Crypto.mp3
--rw-r--r-- 1 runner runner 3675882 Nov 28 12:06 Dark_Times.mp3
--rw-r--r-- 1 runner runner 3754763 Nov 28 12:06 Deliberate_Thought.mp3
--rw-r--r-- 1 runner runner 5716097 Nov 28 12:07 Despair_and_Triumph.mp3
--rw-r--r-- 1 runner runner 5380426 Nov 28 12:07 Interloper.mp3
--rw-r--r-- 1 runner runner 7598437 Nov 28 12:07 Lightless_Dawn.mp3
--rw-r--r-- 1 runner runner 9373761 Nov 28 12:07 Long_Note_Two.mp3
--rw-r--r-- 1 runner runner 3731350 Nov 28 12:06 Lord_of_the_Land.mp3
--rw-r--r-- 1 runner runner 5300200 Nov 28 12:06 Lost_Frontier.mp3
--rw-r--r-- 1 runner runner 3478293 Nov 28 12:07 Mysterioso_March.mp3
--rw-r--r-- 1 runner runner 6162131 Nov 28 12:07 Night_Vigil.mp3
--rw-r--r-- 1 runner runner 3989399 Nov 28 12:07 Oppressive_Gloom.mp3
--rw-r--r-- 1 runner runner 5003014 Nov 28 12:07 Ossuary_6_Air.mp3
--rw-r--r-- 1 runner runner 4514631 Nov 28 12:07 Phantasm.mp3
--rw-r--r-- 1 runner runner 1945775 Nov 28 12:07 Private_Reflection.mp3
--rw-r--r-- 1 runner runner 7594741 Nov 28 12:07 Sovereign.mp3
--rw-r--r-- 1 runner runner 4249081 Nov 28 12:06 Teller_of_the_Tales.mp3
--rw-r--r-- 1 runner runner 4669595 Nov 28 12:07 The_Pyre.mp3
--rw-r--r-- 1 runner runner 6182674 Nov 28 12:07 Unwritten_Return.mp3
--rw-r--r-- 1 runner runner 5242723 Nov 28 12:06 Virtutes_Instrumenti.mp3
--rw-r--r-- 1 runner runner    4781 Nov 28 12:07 _fetch_log.txt
+drwxr-xr-x 2 runner runner    4096 Nov 28 13:04 .
+drwxr-xr-x 3 runner runner    4096 Nov 28 13:03 ..
+-rw-r--r-- 1 runner runner 5612637 Nov 28 13:03 Angevin.mp3
+-rw-r--r-- 1 runner runner 3976328 Nov 28 13:03 Crusade.mp3
+-rw-r--r-- 1 runner runner 4082964 Nov 28 13:04 Crypto.mp3
+-rw-r--r-- 1 runner runner 3675882 Nov 28 13:03 Dark_Times.mp3
+-rw-r--r-- 1 runner runner 3754763 Nov 28 13:03 Deliberate_Thought.mp3
+-rw-r--r-- 1 runner runner 5716097 Nov 28 13:03 Despair_and_Triumph.mp3
+-rw-r--r-- 1 runner runner 5380426 Nov 28 13:04 Interloper.mp3
+-rw-r--r-- 1 runner runner 7598437 Nov 28 13:04 Lightless_Dawn.mp3
+-rw-r--r-- 1 runner runner 9373761 Nov 28 13:04 Long_Note_Two.mp3
+-rw-r--r-- 1 runner runner 3731350 Nov 28 13:03 Lord_of_the_Land.mp3
+-rw-r--r-- 1 runner runner 5300200 Nov 28 13:03 Lost_Frontier.mp3
+-rw-r--r-- 1 runner runner 3478293 Nov 28 13:04 Mysterioso_March.mp3
+-rw-r--r-- 1 runner runner 6162131 Nov 28 13:04 Night_Vigil.mp3
+-rw-r--r-- 1 runner runner 3989399 Nov 28 13:03 Oppressive_Gloom.mp3
+-rw-r--r-- 1 runner runner 5003014 Nov 28 13:04 Ossuary_6_Air.mp3
+-rw-r--r-- 1 runner runner 4514631 Nov 28 13:04 Phantasm.mp3
+-rw-r--r-- 1 runner runner 1945775 Nov 28 13:04 Private_Reflection.mp3
+-rw-r--r-- 1 runner runner 7594741 Nov 28 13:04 Sovereign.mp3
+-rw-r--r-- 1 runner runner 4249081 Nov 28 13:03 Teller_of_the_Tales.mp3
+-rw-r--r-- 1 runner runner 4669595 Nov 28 13:04 The_Pyre.mp3
+-rw-r--r-- 1 runner runner 6182674 Nov 28 13:04 Unwritten_Return.mp3
+-rw-r--r-- 1 runner runner 5242723 Nov 28 13:03 Virtutes_Instrumenti.mp3
+-rw-r--r-- 1 runner runner    4781 Nov 28 13:04 _fetch_log.txt
 c25    script  253 words, matched  253 (100%)
 c26    script  218 words, matched  218 (100%)
 c27    script   78 words, matched   78 (100%)
-programme 2817.60 s (46:57), shots 293 (dropped short: []), graphics 82
+programme 2817.60 s (46:57), shots 313 (dropped short: []), graphics 82
 0:00 Prologue: The Dreamer
 4:36 I. Three Dragons
 8:59 II. The Field of Fire
@@ -103,10 +103,15 @@ K15 GOT003_K15_wildfire_ledger.mp4 8.9s
 K16 GOT003_K16_harrenhal_roll.mp4 10.3s
 K18 GOT003_K18_kings_scroll.mp4 6.2s
 K19 GOT003_K19_gold_dragon_coin.mp4 24.1s
-wrote /tmp/GOT003_MASTER_1080p.mp4 shots 293 duration 2817.58
--rw-r--r-- 1 runner runner 2010342465 Nov 28 12:52 /tmp/GOT003_MASTER_1080p.mp4
-  Duration: 00:46:57.58, start: 0.000000, bitrate: 5707 kb/s
-  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080, 5407 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+[vost#0:0/rawvideo @ 0x613383292c00] Error submitting a packet to the muxer: Broken pipe
+    Last message repeated 1 times
+[out#0/rawvideo @ 0x61338320e780] Error muxing a packet
+[out#0/rawvideo @ 0x61338320e780] Task finished with error code: -32 (Broken pipe)
+[out#0/rawvideo @ 0x61338320e780] Terminating thread with return code -32 (Broken pipe)
+wrote /tmp/GOT003_MASTER_1080p.mp4 shots 313 duration 2817.58
+-rw-r--r-- 1 runner runner 2029729337 Nov 28 14:07 /tmp/GOT003_MASTER_1080p.mp4
+  Duration: 00:46:57.58, start: 0.000000, bitrate: 5763 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080, 5462 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
   Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 295 kb/s (default)
     Threshold: -24.6 LUFS
 
@@ -118,15 +123,15 @@ wrote /tmp/GOT003_MASTER_1080p.mp4 shots 293 duration 2817.58
 
   True peak:
     Peak:       -0.9 dBFS
-[out#0/null @ 0x574cc4f3d440] video:0KiB audio:528297KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
-size=N/A time=00:46:57.58 bitrate=N/A speed= 455x elapsed=0:00:06.19    
+[out#0/null @ 0x5cc85d7b3440] video:0KiB audio:528297KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:46:57.58 bitrate=N/A speed= 322x elapsed=0:00:08.73    
 query: HTTP 200 status=active received=0
-209715200/2010342465
-419430400/2010342465
-629145600/2010342465
-838860800/2010342465
-1048576000/2010342465
-1258291200/2010342465
-1468006400/2010342465
-1677721600/2010342465
-1887436800/2010342465
+209715200/2029729337
+419430400/2029729337
+629145600/2029729337
+838860800/2029729337
+1048576000/2029729337
+1258291200/2029729337
+1468006400/2029729337
+1677721600/2029729337
+1887436800/2029729337
